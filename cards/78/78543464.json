@@ -1,0 +1,87 @@
+{
+    "cid": "3d39c934-8687-4b5c-b659-16ecfb556f82",
+    "password": "78543464",
+    "kid": 14875,
+    "name": "Kuji-Kiri Curse",
+    "name_jp": "<ruby lang=\"jp\"><rb>九</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>字</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>切</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>りの<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>符</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kujikiri no Jufu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send 1 Level 9 monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 \"Kuji-Kiri Curse\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send 1 Level 9 monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 \"Kuji-Kiri Curse\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "KujiKiriCurse-IGAS-JP-SR.png",
+            "art": "KujiKiriCurse-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "KujiKiriCurse-MP21-EN-C-1E.png",
+            "art": "KujiKiriCurse-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "IGAS-EN066",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP21-EN028",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Level 9 Monster Cards"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from hand to Graveyard for cost",
+            "Sends from field to Graveyard for cost",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

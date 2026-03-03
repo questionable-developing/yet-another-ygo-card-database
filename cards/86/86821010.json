@@ -1,0 +1,85 @@
+{
+    "cid": "b27f8343-d5dd-4b7f-a2a3-2237287cb989",
+    "password": "86821010",
+    "kid": 8851,
+    "name": "Power Break",
+    "name_jp": "パワー・ブレイク",
+    "name_jp_rom": "Pawā Bureiku",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate only while you control a face-up \"Power Tool Dragon\". Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate only while you control a face-up \"Power Tool Dragon\". Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PowerBreak-DP27-JP-C.png",
+            "art": "PowerBreak-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "PowerBreak-TSHD-EN-C-1E.png",
+            "art": "PowerBreak-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "TSHD-EN076",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [
+            "Power Tool Dragon"
+        ],
+        "sup": [
+            "Equip Card"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Power Tool"
+        ],
+        "counter": [],
+        "action": [
+            "Returns from your field to your Deck",
+            "Returns from your Graveyard to your Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific card"
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "cid": "8c200421-235d-40f9-b5f0-b80f3aff2d6e",
+    "yid": null,
+    "password": "11881272",
+    "kid": 14913,
+    "name": "Favorite Hero",
+    "name_jp": "フェイバリット・ヒーロー",
+    "name_jp_rom": "Feibaritto Hīrō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Level 5 or higher \"HERO\" monster. If you control a card in your Field Zone, the equipped monster gains ATK equal to its original DEF, also your opponent cannot target it with card effects. At the start of the Battle Phase: You can activate 1 Field Spell directly from your hand or Deck. You can only use this effect of \"Favorite Hero\" once per turn. When the equipped monster attacks and destroys an opponent's monster by battle: You can send this card to the GY; the attacking monster can make a second attack in a row.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Level 5 or higher \"HERO\" monster. If you control a card in your Field Zone, the equipped monster gains ATK equal to its original DEF, also your opponent cannot target it with card effects. At the start of the Battle Phase: You can activate 1 Field Spell directly from your hand or Deck. You can only use this effect of \"Favorite Hero\" once per turn. When the equipped monster attacks and destroys an opponent's monster by battle: You can send this card to the GY; the attacking monster can make a second attack in a row.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FavoriteHero-LDS3-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LED6-EN015",
+            "set": "Legendary Duelists: Magical Hero",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LDS3-EN114",
+            "set": "Legendary Duelists: Season 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like, Condition, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Field Spell Card"
+        ],
+        "asup": [],
+        "arc": [
+            "Favorite"
+        ],
+        "suparc": [
+            "HERO"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "Sends itself from field to Graveyard for cost",
+            "Activates cards from your hand",
+            "Activates cards from your Deck"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Prevents other cards being targeted by card effects"
+        ],
+        "summoning": [],
+        "attack": [
+            "Allows multiple attacks"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "At the start of the Battle Phase",
+            "Only once per turn"
+        ]
+    }
+}

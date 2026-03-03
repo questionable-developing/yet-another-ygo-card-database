@@ -1,0 +1,101 @@
+{
+    "cid": "2dbbed1b-f1f2-4022-b50d-ca9c1fa3b2ab",
+    "yid": null,
+    "password": "07811875",
+    "kid": 9144,
+    "name": "Gravity Collapse",
+    "name_jp": "<ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>りょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>崩</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Jūryoku Hōkai",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Counter",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When your opponent would Summon a monster(s): Send 1 face-up Synchro Monster you control to the GY; negate the Summon, and if you do, destroy that monster, and your opponent cannot Summon a monster until the end of this turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When your opponent would Summon a monster(s): Send 1 face-up Synchro Monster you control to the GY; negate the Summon, and if you do, destroy that monster, and your opponent cannot Summon a monster until the end of this turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GravityCollapse-VASM-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "STBL-EN067",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "OP13-EN024",
+            "set": "OTS Tournament Pack 13",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "VASM-EN030",
+            "set": "Valiant Smashers",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Cost, Effect"
+        ],
+        "mentions": [],
+        "sup": [
+            "Synchro Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Normal Summon",
+            "Activates upon Flip Summon",
+            "Activates upon Special Summon",
+            "Sends from field to Graveyard for cost"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards",
+            "Destroys negated Summons"
+        ],
+        "summoning": [
+            "Negates Normal Summons",
+            "Negates Flip Summons",
+            "Negates Special Summons",
+            "Prevents your opponent's Normal Summons",
+            "Prevents your opponent's Flip Summons",
+            "Prevents your opponent's Special Summons"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Monster card type"
+        ]
+    }
+}

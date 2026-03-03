@@ -1,0 +1,87 @@
+{
+    "cid": "6847f1a2-ad61-4eec-b409-f5b18353cdf2",
+    "password": "37083210",
+    "kid": 6275,
+    "name": "Cross Counter",
+    "name_jp": "クロスカウンター",
+    "name_jp_rom": "Kurosu Kauntā",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If the DEF of an attacked Defense Position monster is higher than the ATK of your opponent's attacking monster, the Battle Damage inflicted to your opponent is doubled. Destroy the attacking monster after damage calculation.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If the DEF of an attacked Defense Position monster is higher than the ATK of your opponent's attacking monster, the Battle Damage inflicted to your opponent is doubled. Destroy the attacking monster after damage calculation.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CrossCounter-EE3-JP-R.jpg",
+            "art": "CrossCounter-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "CrossCounter-DR3-EN-R-UE.png",
+            "art": "CrossCounter-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "FET-EN049",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DR3-EN169",
+            "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Counter (archetype)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's Monster Cards",
+            "Destroys battling monster after damage calculation"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Increases battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

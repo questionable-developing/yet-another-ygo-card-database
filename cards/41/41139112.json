@@ -1,0 +1,77 @@
+{
+    "cid": "8ff467f5-41c4-4562-afbc-237e1ce6b9e3",
+    "password": "41139112",
+    "kid": 13801,
+    "name": "Summon Dice",
+    "name_jp": "サモン・ダイス",
+    "name_jp_rom": "Samon Daisu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay 1000 LP; roll a six-sided die and apply the result.<br />● 1 or 2: Immediately after this effect resolves, you can Normal Summon 1 monster.<br />● 3 or 4: You can Special Summon 1 monster from your GY.<br />● 5 or 6: You can Special Summon 1 Level 5 or higher monster from your hand.<br />You can only activate 1 \"Summon Dice\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay 1000 LP; roll a six-sided die and apply the result.\n● 1 or 2: Immediately after this effect resolves, you can Normal Summon 1 monster.\n● 3 or 4: You can Special Summon 1 monster from your GY.\n● 5 or 6: You can Special Summon 1 Level 5 or higher monster from your hand.\nYou can only activate 1 \"Summon Dice\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SummonDice-BLRR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLRR-EN002",
+            "set": "Battles of Legend: Relentless Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Performs a Normal Summon",
+            "Special Summons from your Graveyard",
+            "Special Summons from your hand"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Variable effects",
+            "Die roll"
+        ]
+    }
+}

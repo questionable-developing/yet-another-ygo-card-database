@@ -1,0 +1,85 @@
+{
+    "cid": "61b1edff-a0b4-4ab8-ab34-4f6c2e35bf23",
+    "password": "76539047",
+    "kid": 6267,
+    "name": "Poison Fangs",
+    "name_jp": "ポイズン・ファング",
+    "name_jp_rom": "Poizun Fangu",
+    "name_jp_tl": "Poison Fang",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict 500 damage to your opponent.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict 500 damage to your opponent.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PoisonFangs-EE3-JP-C.jpg",
+            "art": "PoisonFangs-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "PoisonFangs-DR3-EN-C-UE.png",
+            "art": "PoisonFangs-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "FET-EN038",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR3-EN158",
+            "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Beast"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if battle damage is inflicted"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

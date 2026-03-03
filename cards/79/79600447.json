@@ -1,0 +1,84 @@
+{
+    "cid": "ba25530a-1e52-42f8-9fda-2ca955ef787b",
+    "password": "79600447",
+    "kid": 19371,
+    "name": "Mementotlan Cranium Burst",
+    "name_jp": "メメント・クレニアム・バースト",
+    "name_jp_rom": "Memento Kureniamu Bāsuto",
+    "name_jp_tl": "Memento Cranium Burst",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "While you control a \"Memento\" monster, your opponent's monsters that can attack must attack the \"Memento\" monster you control with the highest ATK (their choice, if tied). When your opponent activates a monster effect on the field (except during the Damage Step): You can target 1 \"Mementoal Tecuhtlica - Combined Creation\" you control; it loses exactly 1000 ATK/DEF, and if it does, negate that activated effect. You can only activate this effect of \"Mementotlan Cranium Burst\" once per Chain.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "While you control a \"Memento\" monster, your opponent's monsters that can attack must attack the \"Memento\" monster you control with the highest ATK (their choice, if tied). When your opponent activates a monster effect on the field (except during the Damage Step): You can target 1 \"Mementoal Tecuhtlica - Combined Creation\" you control; it loses exactly 1000 ATK/DEF, and if it does, negate that activated effect. You can only activate this effect of \"Mementotlan Cranium Burst\" once per Chain.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MementotlanCraniumBurst-VASM-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "VASM-EN012",
+            "set": "Valiant Smashers",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Quick-like, Condition"
+        ],
+        "mentions": [
+            "Mementoal Tecuhtlica - Combined Creation"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Memento"
+        ],
+        "suparc": [
+            "Memento"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your monsters lose ATK",
+            "Your monsters lose DEF"
+        ],
+        "mst": [
+            "Negates the effects of your opponent's Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [
+            "Must attack particular monster"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Requires control of specific card",
+            "Once per Chain"
+        ]
+    }
+}

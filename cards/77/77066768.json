@@ -1,0 +1,85 @@
+{
+    "cid": "7ab75e02-498f-47fc-80de-451bedece91c",
+    "password": "77066768",
+    "kid": 19208,
+    "name": "Card Scanner",
+    "name_jp": "カードスキャナー",
+    "name_jp_rom": "Kādo Sukyanā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn: You can declare 1 card type (Monster, Spell, or Trap); both players reveal the bottom card of their Decks, and if it was the declared card type, they add it to their hand. Otherwise, they place it on top of their Deck. If this face-up card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can make your opponent place 1 card from their hand on the bottom of the Deck.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn: You can declare 1 card type (Monster, Spell, or Trap); both players reveal the bottom card of their Decks, and if it was the declared card type, they add it to their hand. Otherwise, they place it on top of their Deck. If this face-up card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can make your opponent place 1 card from their hand on the bottom of the Deck.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CardScanner-MP24-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "AGOV-EN066",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN396",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Declares a card type",
+            "Reveals from the bottom of the player's Deck",
+            "Reveals from the bottom of your opponent's Deck",
+            "Adds from Deck to hand",
+            "Places cards from the Deck on the bottom of the Deck",
+            "Places cards from the opponent's Deck on the bottom of the Deck",
+            "Activates if destroyed by card effect",
+            "Places cards from the opponent's hand on the bottom of the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

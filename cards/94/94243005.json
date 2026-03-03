@@ -1,0 +1,91 @@
+{
+    "cid": "7228cf3e-fa3a-4a4d-b082-92bd1241dbbe",
+    "password": "94243005",
+    "kid": 9958,
+    "name": "Chaos Zone",
+    "name_jp": "<ruby lang=\"jp\"><rb>混沌空間</rb><rp> (</rp><rt>カオス・ゾーン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kaosu Zōn",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each time a monster(s) is banished, place 1 Chaos Counter on this card for each of those monsters. Once per turn: You can remove 4 or more Chaos Counters from your field, then target 1 banished monster with a Level equal to the number removed; Special Summon that target. When this card on the field is sent to the GY by your opponent's card effect: You can add 1 LIGHT or DARK monster from your Deck to your hand, whose Level is less than or equal to the number of Chaos Counters that were on this card.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each time a monster(s) is banished, place 1 Chaos Counter on this card for each of those monsters. Once per turn: You can remove 4 or more Chaos Counters from your field, then target 1 banished monster with a Level equal to the number removed; Special Summon that target. When this card on the field is sent to the GY by your opponent's card effect: You can add 1 LIGHT or DARK monster from your Deck to your hand, whose Level is less than or equal to the number of Chaos Counters that were on this card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ChaosZone-TOCH-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SDDC-EN024",
+            "set": "Dragons Collide Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TOCH-EN056",
+            "set": "Toon Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Ignition-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "LIGHT",
+            "DARK"
+        ],
+        "asup": [],
+        "arc": [
+            "Chaos"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Chaos Counter",
+            "Places counters on itself",
+            "Removes counters from itself for cost"
+        ],
+        "action": [
+            "Activates from your Graveyard",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons the player's banished monsters",
+            "Special Summons the opponent's banished monsters to the player's field"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

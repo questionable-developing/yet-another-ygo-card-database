@@ -1,0 +1,75 @@
+{
+    "cid": "7d00d611-7cb3-495e-a52a-ba3d8d0b6725",
+    "password": "58297729",
+    "kid": 13119,
+    "name": "Transmission Gear",
+    "name_jp": "<ruby lang=\"jp\"><rb>変則</rb><rp> (</rp><rt>トランスミッション</rt><rp>)</rp></ruby>ギア",
+    "name_jp_rom": "Toransumisshon Gia",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During damage calculation, if your monster battles an opponent's monster: Play rock-paper-scissors with your opponent. Make the losing player banish the battling monster they control, face-down.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During damage calculation, if your monster battles an opponent's monster: Play rock-paper-scissors with your opponent. Make the losing player banish the battling monster they control, face-down.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TransmissionGear-COTD-EN-SP-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "COTD-EN080",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Short Print": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Geargia"
+        ],
+        "counter": [],
+        "action": [],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Makes the player banish from the field",
+            "Makes the opponent banish from the field",
+            "Banishes face-down"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Rock-paper-scissors"
+        ]
+    }
+}

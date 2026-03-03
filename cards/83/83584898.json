@@ -1,0 +1,85 @@
+{
+    "cid": "a65dcc55-187f-46bc-92b6-84a2878d8d31",
+    "password": "83584898",
+    "kid": 9134,
+    "name": "Darkworld Shackles",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>足</rb><rp> (</rp><rt>あし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>枷</rb><rp> (</rp><rt>かせ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Makai no Ashikase",
+    "name_jp_tl": "Demon World Shackles",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "The equipped monster cannot attack, also its ATK and DEF become 100. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "The equipped monster cannot attack, also its ATK and DEF become 100. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DarkworldShackles-BP01-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "STBL-EN057",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP01-EN083",
+            "set": "Battle Pack: Epic Dawn",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Changes ATK value of equipped",
+            "Changes DEF value of equipped"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Prevents equipped monster from attacking"
+        ],
+        "banished": [],
+        "life_points": [
+            "Damages you",
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "cid": "e37ad184-87f8-43db-8481-2b4deefe08c0",
+    "password": "41367003",
+    "kid": 11389,
+    "name": "Draw Muscle",
+    "name_jp": "ドロー・マッスル",
+    "name_jp_rom": "Dorō Massuru",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Defense Position monster you control with 1000 or less DEF; draw 1 card, also that monster cannot be destroyed by battle this turn. You can only activate 1 \"Draw Muscle\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Defense Position monster you control with 1000 or less DEF; draw 1 card, also that monster cannot be destroyed by battle this turn. You can only activate 1 \"Draw Muscle\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DrawMuscle-ST16-JP-C.png",
+            "art": "DrawMuscle-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "DrawMuscle-YS16-EN-C-1E.png",
+            "art": "DrawMuscle-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "NECH-EN057",
+            "set": "The New Challengers",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "MP15-EN168",
+            "set": "2015 Mega-Tin Mega Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "YS16-EN024",
+            "set": "Starter Deck: Yuya",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Draw Muscle"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific DEF",
+            "Only once per turn"
+        ]
+    }
+}

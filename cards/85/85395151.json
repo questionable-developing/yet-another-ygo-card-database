@@ -1,0 +1,83 @@
+{
+    "cid": "6a653d07-0bfb-4ae3-aa5b-46cb1c540f50",
+    "password": "85395151",
+    "kid": 20710,
+    "name": "Release Brainwashing",
+    "name_jp": "<ruby lang=\"jp\"><rb>洗</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>解</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>放</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sennō Kaihō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a monster(s) is Tributed from the hand or field (except during the Damage Step): Target 1 face-up monster your opponent controls; apply the following effect, based on which player owns that face-up monster.<br />● You: Take control of it, but return it to the hand during the End Phase.<br />● Your opponent: Negate its effects until the end of this turn.<br />You can only activate 1 \"Release Brainwashing\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If a monster(s) is Tributed from the hand or field (except during the Damage Step): Target 1 face-up monster your opponent controls; apply the following effect, based on which player owns that face-up monster.\n● You: Take control of it, but return it to the hand during the End Phase.\n● Your opponent: Negate its effects until the end of this turn.\nYou can only activate 1 \"Release Brainwashing\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ReleaseBrainwashing-MP25-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ROTA-EN086",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP25-EN431",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if Tributed",
+            "Takes control of an opponent's monster",
+            "Returns from your field to your hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of your opponent's Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

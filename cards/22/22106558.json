@@ -1,0 +1,93 @@
+{
+    "cid": "b0554556-b836-42b1-a118-69a389575e8f",
+    "yid": 22106558,
+    "password": "22106558",
+    "kid": 22327,
+    "name": "Mechanical Mechanic",
+    "name_jp": null,
+    "name_jp_rom": null,
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "WIND",
+    "pend": false,
+    "subtypes": [
+        "Machine",
+        "Tuner",
+        "Effect"
+    ],
+    "atk": 500,
+    "def": 500,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When an attack is declared involving your other Machine monster: You can increase or decrease the Level of that other monster you control by 1. You can only use each of the following effects of \"Mechanical Mechanic\" once per turn. If a card is in the Field Zone: You can Special Summon this card from your hand. You can target 1 face-up Spell/Trap you control; destroy it, and if you do, add 1 WIND Machine monster with 0 ATK from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters.",
+    "pend_eff": null,
+    "mnst_eff": "When an attack is declared involving your other Machine monster: You can increase or decrease the Level of that other monster you control by 1. You can only use each of the following effects of \"Mechanical Mechanic\" once per turn. If a card is in the Field Zone: You can Special Summon this card from your hand. You can target 1 face-up Spell/Trap you control; destroy it, and if you do, add 1 WIND Machine monster with 0 ATK from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters.",
+    "eff": "When an attack is declared involving your other Machine monster: You can increase or decrease the Level of that other monster you control by 1. You can only use each of the following effects of \"Mechanical Mechanic\" once per turn. If a card is in the Field Zone: You can Special Summon this card from your hand. You can target 1 face-up Spell/Trap you control; destroy it, and if you do, add 1 WIND Machine monster with 0 ATK from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MechanicalMechanic-BPRO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BPRO-EN081",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Condition, Ignition, Ignition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine",
+            "WIND"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Activates from your hand",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK",
+            "Your monsters lose ATK"
+        ],
+        "mst": [
+            "Destroys your face-up Spell Cards",
+            "Destroys your face-up Trap Cards"
+        ],
+        "summoning": [
+            "Special Summons itself from your hand",
+            "Restricts the player's Special Summons from the Extra Deck",
+            "Restricts the player's Special Summons to Type specific monsters"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

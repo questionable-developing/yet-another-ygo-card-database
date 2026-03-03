@@ -1,0 +1,97 @@
+{
+    "cid": "0177c2a1-7831-4436-bbbd-6e33a21e45f9",
+    "password": "92341815",
+    "kid": 16754,
+    "name": "Starlit Papillon",
+    "name_jp": "<ruby lang=\"jp\"><rb>星空蝶</rb><rp> (</rp><rt>スターリット・パピヨン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sutāritto Papiyon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a monster you control. You can only control 1 \"Starlit Papillon\". Monsters your opponent controls lose 500 ATK for each monster you control with a different name that mentions \"Adventurer Token\". If this card is sent to the GY: You can target 1 \"Adventurer Token\" you control; equip this card to that target. You can only use this effect of \"Starlit Papillon\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a monster you control. You can only control 1 \"Starlit Papillon\". Monsters your opponent controls lose 500 ATK for each monster you control with a different name that mentions \"Adventurer Token\". If this card is sent to the GY: You can target 1 \"Adventurer Token\" you control; equip this card to that target. You can only use this effect of \"Starlit Papillon\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "StarlitPapillon-MP23-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "GRCR-EN031",
+            "set": "The Grand Creators",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BLMR-EN095",
+            "set": "Battles of Legend: Monstrous Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "MP23-EN270",
+            "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Unclassified, Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Starlit Papillon",
+            "Adventurer Token"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Adventurer"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Equips self from Graveyard"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Control only one",
+            "Mentions",
+            "Requires control of specific card",
+            "Only once per turn"
+        ]
+    }
+}

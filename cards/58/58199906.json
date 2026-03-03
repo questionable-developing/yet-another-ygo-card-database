@@ -1,0 +1,104 @@
+{
+    "cid": "7dd82755-7f5a-4484-97b7-5489385895a2",
+    "password": "58199906",
+    "kid": 10982,
+    "name": "Cybernetic Fusion Support",
+    "name_jp": "サイバネティック・フュージョン・サポート",
+    "name_jp_rom": "Saibanetikku Fyujōn Sapōto",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay half your LP; once, if you Fusion Summon a Machine Fusion Monster this turn, you can banish monsters from your hand, field, and/or GY as the Fusion Materials. You can only activate 1 \"Cybernetic Fusion Support\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay half your LP; once, if you Fusion Summon a Machine Fusion Monster this turn, you can banish monsters from your hand, field, and/or GY as the Fusion Materials. You can only activate 1 \"Cybernetic Fusion Support\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CyberneticFusionSupport-LEDD-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CROS-EN092",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP16-EN042",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LEDD-ENB13",
+            "set": "Legendary Dragon Decks",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect, Condition"
+        ],
+        "mentions": [
+            "Cybernetic Fusion Support"
+        ],
+        "sup": [
+            "Machine",
+            "Fusion Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Cybernetic",
+            "Fusion (archetype)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Modifies which cards can be used as Fusion Material",
+            "Uses cards in the hand as Fusion Materials",
+            "Uses cards on the player's field as Fusion Materials",
+            "Uses cards in the player's Graveyard as Fusion Materials"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your hand",
+            "Banishes from your field",
+            "Banishes from your Graveyard",
+            "Banishes Fusion Materials used in a Fusion Summon"
+        ],
+        "life_points": [
+            "Halves the player's LP",
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "cid": "00bc5422-6678-4fbc-b1bb-72b06fb4d5ac",
+    "password": "73779005",
+    "kid": 11630,
+    "name": "Dragoons of Draconia",
+    "name_jp": "ドラコニアの<ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Dorakonia no Jūryūkihei",
+    "name_jp_tl": "Beast Dragoons of Draconia",
+    "type": "Monster",
+    "attribute": "FIRE",
+    "pend": true,
+    "subtypes": [
+        "Beast-Warrior",
+        "Pendulum"
+    ],
+    "atk": 1800,
+    "def": 200,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 2,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.\n\n[ Monster Effect ] \n''Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.''",
+    "pend_eff": "Once per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.",
+    "mnst_eff": null,
+    "eff": null,
+    "flavor": "Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.",
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DragoonsofDraconia-DEM3-EU-C-UE.png",
+            "art": "DragoonsofDraconia-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "DragoonsofDraconia-EP15-JP-R.png",
+            "art": "DragoonsofDraconia-MADU-JP-VG-artwork.png"
+        }
+    },
+    "image": "1",
+    "sets": [
+        {
+            "sid": "SECE-ENSP1",
+            "set": "Secrets of Eternity Sneak Peek Participation Card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SECE-EN000",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger-like"
+        ],
+        "eff_types": [],
+        "mentions": [],
+        "sup": [
+            "Normal Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Draconia"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Requires control of specific Monster type"
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "cid": "bf161f78-5db2-45a3-9809-682a778541e7",
+    "password": "83962752",
+    "kid": 19751,
+    "name": "Synchro Panic",
+    "name_jp": "シンクロ・パニック",
+    "name_jp_rom": "Shinkuro Panikku",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate only if a face-up Synchro Monster(s) you control is destroyed by battle or an opponent's card effect, by targeting 1 of them; Special Summon 1 Tuner and 1 or more non-Tuners from your GY, whose total Levels equal the targeted monster's, and if you do, they cannot be destroyed by battle or card effects this turn. Neither player can Synchro Summon. Destroy this card during your 3rd Standby Phase after activation.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate only if a face-up Synchro Monster(s) you control is destroyed by battle or an opponent's card effect, by targeting 1 of them; Special Summon 1 Tuner and 1 or more non-Tuners from your GY, whose total Levels equal the targeted monster's, and if you do, they cannot be destroyed by battle or card effects this turn. Neither player can Synchro Summon. Destroy this card during your 3rd Standby Phase after activation.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SynchroPanic-BLTR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLTR-EN037",
+            "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Synchro Monster",
+            "Tuner monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Synchro (archetype)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents other cards being destroyed by card effects",
+            "Destroys itself"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Prevents Synchro Summons"
+        ],
+        "attack": [
+            "Prevents other cards being destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "cid": "d1414f16-5cac-4737-909b-9ca2cc10c9a4",
+    "password": "59699355",
+    "kid": 9001,
+    "name": "Scrap Rage",
+    "name_jp": "スクラップ・カウンター",
+    "name_jp_rom": "Sukurappu Kauntā",
+    "name_jp_tl": "Scrap Counter",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate only during damage calculation, if a Defense Position \"Scrap\" monster on the field is being attacked. It gains 2000 DEF and is destroyed at the end of the Battle Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate only during damage calculation, if a Defense Position \"Scrap\" monster on the field is being attacked. It gains 2000 DEF and is destroyed at the end of the Battle Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ScrapRage-DREV-EN-C-1E.jpg",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DREV-EN070",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Counter (archetype)",
+            "Scrap"
+        ],
+        "suparc": [
+            "Scrap"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your monsters gain DEF",
+            "Your opponent's monsters gain DEF"
+        ],
+        "mst": [
+            "Destroys Defense Position Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "At the end of the Battle Phase"
+        ]
+    }
+}

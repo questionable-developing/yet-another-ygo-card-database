@@ -1,0 +1,82 @@
+{
+    "cid": "2c7aac37-5a4f-4c7b-bb16-e137ce06cdaa",
+    "password": "99004752",
+    "kid": 10075,
+    "name": "Mini-Guts",
+    "name_jp": "ミニマム・ガッツ",
+    "name_jp_rom": "Minimamu Gattsu",
+    "name_jp_tl": "Minimum Guts",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Tribute 1 monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase. This turn, when it is destroyed by battle and sent to their Graveyard: Inflict damage to your opponent equal to its original ATK in the Graveyard.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Tribute 1 monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase. This turn, when it is destroyed by battle and sent to their Graveyard: Inflict damage to your opponent equal to its original ATK in the Graveyard.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MiniGuts-SP14-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "GAOV-EN052",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SP14-EN036",
+            "set": "Star Pack 2014",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Tributes for cost",
+            "Activates if destroyed by battle"
+        ],
+        "stat_change": [
+            "Reduces ATK to 0"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

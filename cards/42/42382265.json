@@ -1,0 +1,93 @@
+{
+    "cid": "4023dc1e-9c35-4ffc-8378-9884f5396532",
+    "password": "42382265",
+    "kid": 21070,
+    "name": "D/D Scale Surveyor",
+    "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>スケール・サーベイヤー",
+    "name_jp_rom": "Dīdī Sukēru Sābeiyā",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": 1000,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": 9,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nDuring the Standby Phase: You can target up to 2 cards in the Pendulum Zones; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of \"D/D Scale Surveyor\" once per turn.\n\n[ Monster Effect ] \nIf you control a \"D/D\" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make this card Level 4. If this card is sent to the GY, or added to the Extra Deck face-up: You can target 1 \"D/D\" Pendulum Monster Card you control; return it to the hand. You can only use each effect of \"D/D Scale Surveyor\" once per turn.",
+    "pend_eff": "During the Standby Phase: You can target up to 2 cards in the Pendulum Zones; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of \"D/D Scale Surveyor\" once per turn.",
+    "mnst_eff": "If you control a \"D/D\" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make this card Level 4. If this card is sent to the GY, or added to the Extra Deck face-up: You can target 1 \"D/D\" Pendulum Monster Card you control; return it to the hand. You can only use each effect of \"D/D Scale Surveyor\" once per turn.",
+    "eff": "If you control a \"D/D\" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make this card Level 4. If this card is sent to the GY, or added to the Extra Deck face-up: You can target 1 \"D/D\" Pendulum Monster Card you control; return it to the hand. You can only use each effect of \"D/D Scale Surveyor\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DDScaleSurveyor-BLMM-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLMM-EN042",
+            "set": "Battles of Legend: Monster Mayhem",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger-like, Condition"
+        ],
+        "eff_types": [
+            "Ignition, Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "D/D"
+        ],
+        "suparc": [
+            "D/D"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your hand",
+            "Activates upon Normal Summon",
+            "Activates upon Special Summon",
+            "Activates if sent to the Graveyard",
+            "Activates from your Extra Deck",
+            "Returns from your field to your hand"
+        ],
+        "stat_change": [
+            "Changes Pendulum Scales",
+            "Changes own Level"
+        ],
+        "mst": [],
+        "summoning": [
+            "Special Summons itself from your hand"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Requires control of specific archetype",
+            "Requires control of specific Monster type"
+        ]
+    }
+}

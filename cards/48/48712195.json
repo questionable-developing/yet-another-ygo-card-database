@@ -1,0 +1,102 @@
+{
+    "cid": "4b388ca4-c0c1-45c5-80fb-4307d26862a9",
+    "password": "48712195",
+    "kid": 7001,
+    "name": "Card Trader",
+    "name_jp": "カードトレーダー",
+    "name_jp_rom": "Kādo Torēdā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CardTrader-YS18-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "STON-EN046",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SDMM-EN029",
+            "set": "Machina Mayhem Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDDC-EN033",
+            "set": "Dragons Collide Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP02-EN150",
+            "set": "Battle Pack 2: War of the Giants",
+            "rarities": {
+                "Rare": [],
+                "Mosaic Rare": []
+            }
+        },
+        {
+            "sid": "YS18-EN029",
+            "set": "Starter Deck: Codebreaker",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns from hand to Deck for cost",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

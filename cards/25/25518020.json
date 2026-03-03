@@ -1,0 +1,110 @@
+{
+    "cid": "8b49fc86-8fd2-404c-acc7-8325e5ae8b56",
+    "yid": null,
+    "password": "25518020",
+    "kid": 8668,
+    "name": "Machine Assembly Line",
+    "name_jp": "マシン・デベロッパー",
+    "name_jp_rom": "Mashin Deberoppā",
+    "name_jp_tl": "Machine Developer",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "All Machine monsters on the field gain 200 ATK. Each time a face-up Machine monster(s) on the field is destroyed by battle or card effect, place 2 Junk Counters on this card. You can send this card to the GY, then target 1 Machine monster in your GY whose Level is less than or equal to the number of Junk Counters that were on this card; Special Summon that target.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "All Machine monsters on the field gain 200 ATK. Each time a face-up Machine monster(s) on the field is destroyed by battle or card effect, place 2 Junk Counters on this card. You can send this card to the GY, then target 1 Machine monster in your GY whose Level is less than or equal to the number of Junk Counters that were on this card; Special Summon that target.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MachineAssemblyLine-SBCB-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ABPF-EN057",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL16-EN014",
+            "set": "Duelist League 16 participation cards",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BP03-EN167",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        },
+        {
+            "sid": "SDGR-EN023",
+            "set": "Geargia Rampage Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SBCB-EN076",
+            "set": "Speed Duel: Battle City Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Continuous-like, Ignition-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Junk Counter",
+            "Places counters on itself"
+        ],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Sends itself from field to Graveyard for cost"
+        ],
+        "stat_change": [
+            "All monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Graveyard"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

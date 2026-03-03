@@ -1,0 +1,94 @@
+{
+    "cid": "2083ffb4-fdfb-412e-b62d-950ebd83866c",
+    "yid": null,
+    "password": "15381252",
+    "kid": 11153,
+    "name": "Berserker Soul",
+    "name_jp": "<ruby lang=\"jp\"><rb>狂戦士の魂</rb><rp> (</rp><rt>バーサーカー・ソウル</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Bāsākā Sōru",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a monster you control inflicts 1500 or less damage to your opponent by a direct attack: Discard your entire hand (min. 1); excavate the top card of your Deck, and if it is a Monster Card, send it to the GY, and if you do that, inflict 500 damage to your opponent, then repeat this effect up to 7 more times or until you excavate a non-Monster Card. If a non-Monster Card is excavated, place it on the top of your Deck. You can only activate 1 \"Berserker Soul\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When a monster you control inflicts 1500 or less damage to your opponent by a direct attack: Discard your entire hand (min. 1); excavate the top card of your Deck, and if it is a Monster Card, send it to the GY, and if you do that, inflict 500 damage to your opponent, then repeat this effect up to 7 more times or until you excavate a non-Monster Card. If a non-Monster Card is excavated, place it on the top of your Deck. You can only activate 1 \"Berserker Soul\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BerserkerSoul-DLCS-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DRLG-EN007",
+            "set": "Dragons of Legend",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DRL3-EN047",
+            "set": "Dragons of Legend: Unleashed",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DLCS-EN009",
+            "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Cost, Effect, Condition"
+        ],
+        "mentions": [
+            "Berserker Soul"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You discard for cost",
+            "Excavates from the player's Deck",
+            "Sends excavated cards to the Graveyard",
+            "Sends from the top of your Deck to your Graveyard",
+            "Places excavated cards on the top of the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

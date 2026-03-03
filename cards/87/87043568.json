@@ -1,0 +1,81 @@
+{
+    "cid": "7b2bf213-8a04-48e3-8c4a-37cf4e6da669",
+    "password": "87043568",
+    "kid": 8848,
+    "name": "Assault Spirits",
+    "name_jp": "アサルト・スピリッツ",
+    "name_jp_rom": "Asaruto Supirittsu",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "After activation, treat this card as an Equip Card, and equip it to a monster you control. Once per turn, during the equipped monster's attack, you can send 1 monster with 1000 or less ATK from your hand to the Graveyard during the Damage Step to have the equipped monster gain the ATK of the sent monster, until the End Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "After activation, treat this card as an Equip Card, and equip it to a monster you control. Once per turn, during the equipped monster's attack, you can send 1 monster with 1000 or less ATK from your hand to the Graveyard during the Damage Step to have the equipped monster gain the ATK of the sent monster, until the End Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AssaultSpirits-TSHD-JP-C.jpg",
+            "art": "AssaultSpirits-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "AssaultSpirits-TSHD-EN-C-1E.png",
+            "art": "AssaultSpirits-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "TSHD-EN073",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Quick-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips self from field",
+            "Sends from hand to Graveyard for cost"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Treated as Equip Card"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

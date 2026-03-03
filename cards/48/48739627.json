@@ -1,0 +1,88 @@
+{
+    "cid": "f605a265-a52c-465c-8246-b480b6cc6406",
+    "password": "48739627",
+    "kid": 21466,
+    "name": "Theorealize",
+    "name_jp": "<ruby lang=\"jp\"><rb>無垢なる予幻視</rb><rp> (</rp><rt>テオリアライズ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Teoriaraizu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send 1 \"Medius the Pure\" from your Deck to the GY; look at the top card of your opponent's Deck, and place it on the top or bottom of the Deck. You can banish this card from your GY, then target 1 face-up monster you control and declare 1 Monster Type and 1 Attribute; that monster becomes that Type and Attribute, until the end of your opponent's turn. You can only use each effect of \"Theorealize\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send 1 \"Medius the Pure\" from your Deck to the GY; look at the top card of your opponent's Deck, and place it on the top or bottom of the Deck. You can banish this card from your GY, then target 1 face-up monster you control and declare 1 Monster Type and 1 Attribute; that monster becomes that Type and Attribute, until the end of your opponent's turn. You can only use each effect of \"Theorealize\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Theorealize-DUAD-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUAD-EN055",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Medius the Pure"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Artmage",
+            "Power Patron"
+        ],
+        "counter": [],
+        "action": [
+            "Sends from Deck to Graveyard for cost",
+            "Looks at cards from the top of the opponent's Deck",
+            "Changes the opponent's Deck order",
+            "Places cards from the opponent's Deck on the top of the Deck",
+            "Places cards from the opponent's Deck on the bottom of the Deck",
+            "Activates from your Graveyard",
+            "Declares a Type",
+            "Declares an Attribute"
+        ],
+        "stat_change": [
+            "Changes Type",
+            "Changes Attribute"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

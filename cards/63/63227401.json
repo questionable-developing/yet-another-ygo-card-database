@@ -1,0 +1,85 @@
+{
+    "cid": "5e2e3dc6-36f3-476d-b133-f0469d609f2b",
+    "password": "63227401",
+    "kid": 10964,
+    "name": "Skill Prisoner",
+    "name_jp": "スキル・プリズナー",
+    "name_jp_rom": "Sukiru Purizunā",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SkillPrisoner-LVAL-JP-R.png",
+            "art": "SkillPrisoner-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "SkillPrisoner-MP14-EN-SR-1E.png",
+            "art": "SkillPrisoner-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "LVAL-EN078",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP14-EN237",
+            "set": "2014 Mega-Tin Mega Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Quick-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

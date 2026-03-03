@@ -1,0 +1,84 @@
+{
+    "cid": "ffb37443-a6a1-4595-9d10-90eee39e3a58",
+    "password": "65357623",
+    "kid": 14060,
+    "name": "Zombie Power Struggle",
+    "name_jp": "アンデット・ストラグル",
+    "name_jp_rom": "Andetto Sutoraguru",
+    "name_jp_tl": "Undead Struggle",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Zombie monster on the field; until the end of this turn, it gains 1000 ATK or loses 1000 ATK. During your Main Phase, if this card is in your GY: You can shuffle 1 of your banished Zombie monsters into the Deck, and if you do, Set this card, but banish it when it leaves the field. You can only use this effect of \"Zombie Power Struggle\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Zombie monster on the field; until the end of this turn, it gains 1000 ATK or loses 1000 ATK. During your Main Phase, if this card is in your GY: You can shuffle 1 of your banished Zombie monsters into the Deck, and if you do, Set this card, but banish it when it leaves the field. You can only use this effect of \"Zombie Power Struggle\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ZombiePowerStruggle-SR07-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SR07-EN024",
+            "set": "Structure Deck: Zombie Horde",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Zombie"
+        ],
+        "asup": [
+            "Zombie"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Returns the player's banished cards to the Deck",
+            "Sets itself from your Graveyard"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK",
+            "Your monsters lose ATK",
+            "Your opponent's monsters gain ATK",
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself when it leaves the field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

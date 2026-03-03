@@ -1,0 +1,97 @@
+{
+    "cid": "49d8b789-24eb-40f3-aac6-3c0764f54315",
+    "password": "57736667",
+    "kid": 18525,
+    "name": "Mikanko Dance - Mayowashidori",
+    "name_jp": "<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>舞</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>踊</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>迷</rb><rp> (</rp><rt>まよ</rt><rp>)</rp></ruby>わし<ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>どり</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Mikanko Buyō - Mayowashidori",
+    "name_jp_tl": "Mikanko Dance - Fascinating Bird",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "The equipped monster cannot be destroyed by card effects. You can only use each of the following effects of \"Mikanko Dance - Mayowashidori\" once per turn. At the end of the Damage Step, if your \"Mikanko\" monster battled: You can target 1 card on the field; return it to the hand. If this card is in your GY: You can target 1 \"Mikanko\" monster in your GY; Special Summon it, and if you do, equip it with this card, but banish it when it leaves the field.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "The equipped monster cannot be destroyed by card effects. You can only use each of the following effects of \"Mikanko Dance - Mayowashidori\" once per turn. At the end of the Damage Step, if your \"Mikanko\" monster battled: You can target 1 card on the field; return it to the hand. If this card is in your GY: You can target 1 \"Mikanko\" monster in your GY; Special Summon it, and if you do, equip it with this card, but banish it when it leaves the field.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MikankoDanceMayowashidori-TTP1-JP-SR.png",
+            "art": "MikankoDanceMayowashidori-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "MikankoDanceMayowashidori-MP24-EN-C-1E.png",
+            "art": "MikankoDanceMayowashidori-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "CYAC-EN062",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN348",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Condition, Trigger-like, Ignition-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Mikanko"
+        ],
+        "suparc": [
+            "Mikanko"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns from field to hand",
+            "Activates from your Graveyard",
+            "Equips self from Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Equipped cannot be destroyed by card effects"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Equips to Summoned monster"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes cards when they leave the field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Requires control of specific archetype"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "cid": "664018a4-dc39-463d-821e-554a2517b3b0",
+    "password": "58569561",
+    "kid": 11820,
+    "name": "Aromage Rosemary",
+    "name_jp": "アロマージ－ローズマリー",
+    "name_jp_rom": "Aromāji - Rōzumarī",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "WATER",
+    "pend": false,
+    "subtypes": [
+        "Plant",
+        "Effect"
+    ],
+    "atk": 1800,
+    "def": 700,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "While your LP are higher than your opponent's, if a Plant monster you control attacks, your opponent cannot activate monster effects until the end of the Damage Step. Once per turn, if you gain LP: Target 1 face-up monster on the field; change its battle position.",
+    "pend_eff": null,
+    "mnst_eff": "While your LP are higher than your opponent's, if a Plant monster you control attacks, your opponent cannot activate monster effects until the end of the Damage Step. Once per turn, if you gain LP: Target 1 face-up monster on the field; change its battle position.",
+    "eff": "While your LP are higher than your opponent's, if a Plant monster you control attacks, your opponent cannot activate monster effects until the end of the Damage Step. Once per turn, if you gain LP: Target 1 face-up monster on the field; change its battle position.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AromageRosemary-CORE-JP-C.png",
+            "art": "AromageRosemary-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "AromageRosemary-DUPO-EN-UR-1E.png",
+            "art": "AromageRosemary-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "CORE-EN036",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DUPO-EN083",
+            "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "Plant"
+        ],
+        "asup": [],
+        "arc": [
+            "Aroma",
+            "Rose"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if you gain Life Points",
+            "Changes battle positions"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents activation of your opponent's Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Requires specific LP"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Limited activations"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "cid": "2a2cd1e1-3273-43b1-982a-5510aba4536c",
+    "password": "45118716",
+    "kid": 10607,
+    "name": "Spell Recycler",
+    "name_jp": "マジック・リサイクラー",
+    "name_jp_rom": "Majikku Risaikurā",
+    "name_jp_tl": "Magic Recycler",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": 0,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When an opponent's monster declares an attack: You can banish this card from your Graveyard, then target 1 Spell Card in your Graveyard; send the top card of your Deck to the Graveyard, and if you do, return the target to the bottom of your Deck.",
+    "pend_eff": null,
+    "mnst_eff": "When an opponent's monster declares an attack: You can banish this card from your Graveyard, then target 1 Spell Card in your Graveyard; send the top card of your Deck to the Graveyard, and if you do, return the target to the bottom of your Deck.",
+    "eff": "When an opponent's monster declares an attack: You can banish this card from your Graveyard, then target 1 Spell Card in your Graveyard; send the top card of your Deck to the Graveyard, and if you do, return the target to the bottom of your Deck.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SpellRecycler-JOTL-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "JOTL-EN004",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Activates from your Graveyard",
+            "Sends from the top of your Deck to your Graveyard",
+            "Places cards from the player's Graveyard on the bottom of the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

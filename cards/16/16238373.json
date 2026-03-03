@@ -1,0 +1,90 @@
+{
+    "cid": "bc1e2617-7cb8-4eee-b267-b33b2ed705d5",
+    "yid": null,
+    "password": "16238373",
+    "kid": 19827,
+    "name": "Psychic Arsenal",
+    "name_jp": "<ruby lang=\"jp\"><rb>大電脳兵廠</rb><rp> (</rp><rt>サイコ・アーセナル</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Saiko Āsenaru",
+    "name_jp_tl": "Psycho Arsenal",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Psychic monster you control and pay LP equal to its Level x 200; add 1 Machine monster with the same Attribute, but a higher Level, from your Deck to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 each of your banished Psychic and Machine monsters; place 1 of them on the bottom of the Deck, and if you do, add the other to your hand. You can only use each effect of \"Psychic Arsenal\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Psychic monster you control and pay LP equal to its Level x 200; add 1 Machine monster with the same Attribute, but a higher Level, from your Deck to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 each of your banished Psychic and Machine monsters; place 1 of them on the bottom of the Deck, and if you do, add the other to your hand. You can only use each effect of \"Psychic Arsenal\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PsychicArsenal-MP25-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHNI-EN082",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP25-EN327",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Psychic",
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Activates from your Graveyard",
+            "Places the player's banished cards on the bottom of the Deck",
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Only once per turn"
+        ]
+    }
+}

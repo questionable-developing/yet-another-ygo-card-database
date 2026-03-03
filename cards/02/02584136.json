@@ -1,0 +1,107 @@
+{
+    "cid": "07f62063-8411-4b48-adf3-6e81ff59be22",
+    "yid": null,
+    "password": "02584136",
+    "kid": 9880,
+    "name": "Shocktopus",
+    "name_jp": "シャクトパス",
+    "name_jp_rom": "Shakutopasu",
+    "name_jp_tl": "Shactopus",
+    "type": "Monster",
+    "attribute": "WATER",
+    "pend": false,
+    "subtypes": [
+        "Fish",
+        "Effect"
+    ],
+    "atk": 1600,
+    "def": 800,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.",
+    "pend_eff": null,
+    "mnst_eff": "When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.",
+    "eff": "When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Shocktopus-BP03-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ORCS-EN006",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP02-EN102",
+            "set": "Battle Pack 2: War of the Giants",
+            "rarities": {
+                "Common": [],
+                "Mosaic Rare": []
+            }
+        },
+        {
+            "sid": "SP14-EN005",
+            "set": "Star Pack 2014",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        },
+        {
+            "sid": "BP03-EN092",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Shark (archetype)"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates from your Graveyard",
+            "Equips self from Graveyard",
+            "Prevents battle position changes"
+        ],
+        "stat_change": [
+            "Reduces ATK to 0",
+            "Changes ATK value of equipped"
+        ],
+        "mst": [
+            "Treated as Equip Card"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

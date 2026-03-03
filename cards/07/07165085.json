@@ -1,0 +1,84 @@
+{
+    "cid": "69edf4a7-2dc7-496b-a9ae-2b41cf30ef4f",
+    "yid": null,
+    "password": "07165085",
+    "kid": 5275,
+    "name": "Bait Doll",
+    "name_jp": "おとり<ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>形</rb><rp> (</rp><rt>ぎょう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Otori Ningyō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Set card in the Spell & Trap Card Zone; reveal that target, force its activation if it is a Trap Card, then negate its effect if the activation timing is incorrect, and if you do, destroy it. (If it is not a Trap Card, return it face-down.) When this card resolves, shuffle it into the Deck instead of sending it to the Graveyard.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Set card in the Spell & Trap Card Zone; reveal that target, force its activation if it is a Trap Card, then negate its effect if the activation timing is incorrect, and if you do, destroy it. (If it is not a Trap Card, return it face-down.) When this card resolves, shuffle it into the Deck instead of sending it to the Graveyard.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BaitDoll-BP01-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LON-EN096",
+            "set": "Labyrinth of Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP01-EN071",
+            "set": "Battle Pack: Epic Dawn",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals face-down cards",
+            "Forces activation",
+            "Returns itself from field to Deck",
+            "Returns to the Deck cards that would be sent to the Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of Trap Cards",
+            "Destroys face-down Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

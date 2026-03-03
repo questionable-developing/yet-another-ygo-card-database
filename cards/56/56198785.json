@@ -1,0 +1,80 @@
+{
+    "cid": "78923eec-3896-410e-a9cc-ae11f0553b13",
+    "password": "56198785",
+    "kid": 15071,
+    "name": "Guard Ghost",
+    "name_jp": "<ruby lang=\"jp\"><rb>背</rb><rp> (</rp><rt>はい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衛</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Haigoei",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Zombie",
+        "Effect"
+    ],
+    "atk": 1800,
+    "def": 100,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If this card is Special Summoned from the GY: You can target 1 monster you control; it cannot be destroyed by battle or card effects this turn. During the End Phase, if this card is currently banished, and was banished this turn: You can add this card to your hand. You can only use each effect of \"Guard Ghost\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "If this card is Special Summoned from the GY: You can target 1 monster you control; it cannot be destroyed by battle or card effects this turn. During the End Phase, if this card is currently banished, and was banished this turn: You can add this card to your hand. You can only use each effect of \"Guard Ghost\" once per turn.",
+    "eff": "If this card is Special Summoned from the GY: You can target 1 monster you control; it cannot be destroyed by battle or card effects this turn. During the End Phase, if this card is currently banished, and was banished this turn: You can add this card to your hand. You can only use each effect of \"Guard Ghost\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GuardGhost-IGAS-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "IGAS-EN081",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Special Summon",
+            "Activates while banished",
+            "Returns itself to hand while banished"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

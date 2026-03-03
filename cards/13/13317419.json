@@ -1,0 +1,90 @@
+{
+    "cid": "62ca0797-5be8-4eb3-be6a-b16200504a02",
+    "yid": null,
+    "password": "13317419",
+    "kid": 11668,
+    "name": "Rocket Hand",
+    "name_jp": "ロケットハンド",
+    "name_jp_rom": "Rokettohando",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to that target. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to that target. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RocketHand-MP17-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "RATE-EN093",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP17-EN235",
+            "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Quick-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips self from field",
+            "Sends itself from field to Graveyard for cost",
+            "Prevents battle position changes"
+        ],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Reduces ATK to 0",
+            "Changes ATK value of equipped"
+        ],
+        "mst": [
+            "Destroys face-up Monster Cards",
+            "Destroys face-up Spell Cards",
+            "Destroys face-up Trap Cards",
+            "Treated as Equip Card"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only 1 effect once per turn"
+        ]
+    }
+}

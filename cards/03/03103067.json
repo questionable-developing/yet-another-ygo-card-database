@@ -1,0 +1,84 @@
+{
+    "cid": "da7734f0-344a-4349-ac99-16e5ca648bd4",
+    "yid": null,
+    "password": "03103067",
+    "kid": 5487,
+    "name": "Attack Guidance Armor",
+    "name_jp": "<ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>誘</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>アーマー",
+    "name_jp_rom": "Kōgeki Yūdō Āmā",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a monster declares an attack: Activate 1 of these effects;<br />● Destroy the attacking monster.<br />● Target 1 monster on either field, except the attacking monster; change the attack target to it and perform damage calculation.<br />You can only activate 1 \"Attack Guidance Armor\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When a monster declares an attack: Activate 1 of these effects;\n● Destroy the attacking monster.\n● Target 1 monster on either field, except the attacking monster; change the attack target to it and perform damage calculation.\nYou can only activate 1 \"Attack Guidance Armor\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AttackGuidanceArmor-KC01-EN-UR-UE.png",
+            "art": "AttackGuidanceArmor-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "AttackGuidanceArmor-23PP-KR-ScR-UE.png",
+            "art": "AttackGuidanceArmor-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1",
+    "sets": [
+        {
+            "sid": "KC01-EN001",
+            "set": "25th Anniversary Ultimate Kaiba Set",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Changes attack targets",
+            "Conducts battle between your opponent's monsters",
+            "Conducts damage calculation"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

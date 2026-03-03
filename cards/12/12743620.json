@@ -1,0 +1,80 @@
+{
+    "cid": "476bd9e4-4b8b-4edc-ab41-3707e979ce2c",
+    "yid": null,
+    "password": "12743620",
+    "kid": 14143,
+    "name": "Uni-Song Tuning",
+    "name_jp": "ユニゾン・チューン",
+    "name_jp_rom": "Yunizon Chūn",
+    "name_jp_tl": "Uni-Zom Tune",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Tuner in either GY and 1 face-up monster on the field; banish that Tuner in the GY, then, until the end of this turn, the Level of the targeted monster on the field becomes the Level of the banished Tuner, also it is treated as a Tuner. You can only activate 1 \"Uni-Song Tuning\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Tuner in either GY and 1 face-up monster on the field; banish that Tuner in the GY, then, until the end of this turn, the Level of the targeted monster on the field becomes the Level of the banished Tuner, also it is treated as a Tuner. You can only activate 1 \"Uni-Song Tuning\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "UniSongTuning-SAST-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SAST-EN066",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Tuner monster"
+        ],
+        "asup": [
+            "Tuner monster"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Changes Levels",
+            "Treats monsters as Tuner monsters"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your Graveyard",
+            "Banishes from your opponent's Graveyard"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

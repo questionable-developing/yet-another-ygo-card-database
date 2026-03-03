@@ -1,0 +1,80 @@
+{
+    "cid": "710ecdfd-c5f2-429d-a0b7-8035a657344c",
+    "password": "89086647",
+    "kid": 21846,
+    "name": "Okiku's Dish Count",
+    "name_jp": "お<ruby lang=\"jp\"><rb>菊</rb><rp> (</rp><rt>きく</rt><rp>)</rp></ruby>さんの<ruby lang=\"jp\"><rb>皿</rb><rp> (</rp><rt>さら</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>算</rb><rp> (</rp><rt>ざん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>用</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Okiku-san no Sarazan'yō",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per Chain, when your opponent activates a card or effect: You can place Dish Counters on this card, equal to the Chain Link number of this effect. Apply this effect depending on the number of Dish Counters on this card.<br />● 9 or less: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.<br />● 10+: Send this card to the GY.<br />If this card is sent to the GY by its own effect: You can send the top 10 cards of your Deck to the GY.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per Chain, when your opponent activates a card or effect: You can place Dish Counters on this card, equal to the Chain Link number of this effect. Apply this effect depending on the number of Dish Counters on this card.\n● 9 or less: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.\n● 10+: Send this card to the GY.\nIf this card is sent to the GY by its own effect: You can send the top 10 cards of your Deck to the GY.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "OkikusDishCount-DOOD-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DOOD-EN080",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Quick-like, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Dish Counter",
+            "Places counters on itself"
+        ],
+        "action": [
+            "Sends itself from field to Graveyard",
+            "Activates if sent to the Graveyard",
+            "Sends from the top of your Deck to your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Cannot be targeted by card effects",
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Once per Chain",
+            "Chain Effects"
+        ]
+    }
+}

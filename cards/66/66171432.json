@@ -1,0 +1,93 @@
+{
+    "cid": "0fb58232-b83f-47e9-98d2-27e737b226ac",
+    "password": "66171432",
+    "kid": 12646,
+    "name": "Super Koi Koi",
+    "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>こいこい",
+    "name_jp_rom": "Chōkoikoi",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Excavate the top 3 cards of your Deck and Special Summon as many \"Flower Cardian\" monsters among them as possible, ignoring their Summoning conditions, but their Levels become 2 and they have their effects negated. Banish the remaining cards, face-down, and if you do, lose 1000 LP for each. You can banish this card from your Graveyard and Tribute 1 monster; Special Summon 1 \"Flower Cardian\" monster from your hand, ignoring its Summoning conditions. You can only activate 1 \"Super Koi Koi\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Excavate the top 3 cards of your Deck and Special Summon as many \"Flower Cardian\" monsters among them as possible, ignoring their Summoning conditions, but their Levels become 2 and they have their effects negated. Banish the remaining cards, face-down, and if you do, lose 1000 LP for each. You can banish this card from your Graveyard and Tribute 1 monster; Special Summon 1 \"Flower Cardian\" monster from your hand, ignoring its Summoning conditions. You can only activate 1 \"Super Koi Koi\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SuperKoiKoi-INOV-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "INOV-EN056",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Super Koi Koi"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Flower Cardian"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Excavates from the player's Deck",
+            "Activates from your Graveyard",
+            "Tributes for cost"
+        ],
+        "stat_change": [
+            "Changes Levels"
+        ],
+        "mst": [
+            "Negates the effects of the Summoned monsters"
+        ],
+        "summoning": [
+            "Special Summons excavated cards",
+            "Special Summons from your Deck",
+            "Ignoring the Summoning conditions",
+            "Special Summons from your hand"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes excavated cards",
+            "Banishes from the top of your Deck",
+            "Banishes face-down",
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "You lose Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

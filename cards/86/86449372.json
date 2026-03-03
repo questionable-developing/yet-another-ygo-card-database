@@ -1,0 +1,93 @@
+{
+    "cid": "15386950-4a6d-4df6-8557-fca0b5a873a6",
+    "password": "86449372",
+    "kid": 14860,
+    "name": "TA.I. Strike",
+    "name_jp": "<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>打</rb><rp> (</rp><rt>う</rt><rp>)</rp></ruby>ち",
+    "name_jp_rom": "Ai Uchi",
+    "name_jp_tl": "TAi Strike",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During damage calculation, if your monster battles an opponent's monster: Your battling monster's ATK becomes that opponent's monster's ATK, during that damage calculation only, also, the controller of any monster destroyed by that battle takes damage equal to its original ATK, at the end of the Damage Step. If your \"@Ignister\" monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"TA.I. Strike\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During damage calculation, if your monster battles an opponent's monster: Your battling monster's ATK becomes that opponent's monster's ATK, during that damage calculation only, also, the controller of any monster destroyed by that battle takes damage equal to its original ATK, at the end of the Damage Step. If your \"@Ignister\" monster would be destroyed by battle, you can banish this card from your GY instead. You can only activate 1 \"TA.I. Strike\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TAIStrike-MP21-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "IGAS-EN051",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN022",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect, Unclassified, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "A.I."
+        ],
+        "suparc": [
+            "@Ignister"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Changes ATK value"
+        ],
+        "mst": [
+            "Redirects destruction"
+        ],
+        "summoning": [],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [
+            "Banishes itself from Graveyard"
+        ],
+        "life_points": [
+            "Damages you",
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

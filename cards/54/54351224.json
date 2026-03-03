@@ -1,0 +1,99 @@
+{
+    "cid": "44117ef2-afc9-4724-baeb-6d7c177b5688",
+    "password": "54351224",
+    "kid": 6139,
+    "name": "Ritual Weapon",
+    "name_jp": "リチュアル・ウェポン",
+    "name_jp_rom": "Richuaru Wepon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK/DEF.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK/DEF.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RitualWeapon-SGX1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOD-EN048",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "DR3-EN048",
+            "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "THSF-EN050",
+            "set": "The Secret Forces",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SGX1-ENE14",
+            "set": "Speed Duel GX: Duel Academy Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Ritual Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Gishki"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped gains DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Requires control of specific Level",
+            "Requires control of specific Monster card type"
+        ]
+    }
+}

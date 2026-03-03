@@ -1,0 +1,84 @@
+{
+    "cid": "caec4f57-d564-4bd2-b9de-65538f791b76",
+    "yid": null,
+    "password": "32391631",
+    "kid": 8482,
+    "name": "Savage Colosseum",
+    "name_jp": "サベージ・コロシアム",
+    "name_jp_rom": "Sabēji Koroshiamu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a monster attacks, at the end of the Damage Step: Its controller gains 300 LP. All monsters must attack, if able. During each End Phase: Destroy all face-up Attack Position monsters the turn player controls, that did not declare an attack.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If a monster attacks, at the end of the Damage Step: Its controller gains 300 LP. All monsters must attack, if able. During each End Phase: Destroy all face-up Attack Position monsters the turn player controls, that did not declare an attack.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SavageColosseum-LC5D-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOVR-EN047",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LC5D-EN252",
+            "set": "Legendary Collection 5D's Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys face-up Attack Position Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Must attack"
+        ],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points",
+            "Your opponent gains Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

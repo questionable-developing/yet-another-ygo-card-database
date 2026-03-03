@@ -1,0 +1,96 @@
+{
+    "cid": "3e8d82d3-2fb6-46af-9138-ea03c662e6f9",
+    "password": "80959027",
+    "kid": 13395,
+    "name": "Mythical Beast Bashilisk",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> バジリスク",
+    "name_jp_rom": "Majikku Bīsuto Bajirisuku",
+    "name_jp_tl": "Magic Beast Basilisk",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1800,
+    "def": 500,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 4,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nIf you have no card in your other Pendulum Zone: You can destroy this card, and if you do, shuffle 1 face-up Spellcaster Pendulum Monster from your Extra Deck into your Main Deck, except \"Mythical Beast Bashilisk\", then draw 1 card. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.\n\n[ Monster Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field; return 1 \"Mythical Beast\" card from your Pendulum Zone or face-up from your Extra Deck to the hand. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
+    "pend_eff": "If you have no card in your other Pendulum Zone: You can destroy this card, and if you do, shuffle 1 face-up Spellcaster Pendulum Monster from your Extra Deck into your Main Deck, except \"Mythical Beast Bashilisk\", then draw 1 card. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
+    "mnst_eff": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field; return 1 \"Mythical Beast\" card from your Pendulum Zone or face-up from your Extra Deck to the hand. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
+    "eff": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field; return 1 \"Mythical Beast\" card from your Pendulum Zone or face-up from your Extra Deck to the hand. You can only use this effect of \"Mythical Beast Bashilisk\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MythicalBeastBashilisk-EXFO-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXFO-EN025",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like, Condition"
+        ],
+        "eff_types": [
+            "Continuous, Ignition, Condition"
+        ],
+        "mentions": [
+            "Mythical Beast Bashilisk"
+        ],
+        "sup": [
+            "Spellcaster",
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Mythical Beast"
+        ],
+        "suparc": [
+            "Mythical Beast"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Spell Counter",
+            "Places counters on itself",
+            "Removes counters for cost"
+        ],
+        "action": [
+            "Activates if other Pendulum Zone is unoccupied",
+            "Returns from your Extra Deck to your Main Deck",
+            "You draw cards",
+            "Returns from your field to your hand",
+            "Adds from Extra Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

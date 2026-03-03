@@ -1,0 +1,79 @@
+{
+    "cid": "d62c1ba8-66a6-40bc-b377-6be051e73cea",
+    "password": "75448086",
+    "kid": 14778,
+    "name": "Generaider Boss Quest",
+    "name_jp": "<ruby lang=\"jp\"><rb>王の試練</rb><rp> (</rp><rt>ジェネレイド・クエスト</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Jenereido Kuesuto",
+    "name_jp_tl": "Generaid Quest",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Reveal 1 \"Generaider\" monster in your hand, and if you do, add up to 2 \"Generaider\" Spells/Traps with different names from each other from your Deck to your hand, except \"Generaider Boss Quest\". Then place the revealed card on the bottom of your Deck. You can only activate 1 \"Generaider Boss Quest\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Reveal 1 \"Generaider\" monster in your hand, and if you do, add up to 2 \"Generaider\" Spells/Traps with different names from each other from your Deck to your hand, except \"Generaider Boss Quest\". Then place the revealed card on the bottom of your Deck. You can only activate 1 \"Generaider Boss Quest\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GeneraiderBossQuest-MYFI-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MYFI-EN035",
+            "set": "Mystic Fighters",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Generaider Boss Quest"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Generaider"
+        ],
+        "suparc": [
+            "Generaider"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals your hand for effect",
+            "Adds from Deck to hand",
+            "Returns from hand to Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

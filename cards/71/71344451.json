@@ -1,0 +1,84 @@
+{
+    "cid": "aeb67da9-fc95-4fb7-a606-a42485b50e97",
+    "password": "71344451",
+    "kid": 13814,
+    "name": "Slash Draw",
+    "name_jp": "<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>必</rb><rp> (</rp><rt>ひっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>！<ruby lang=\"jp\"><rb>居</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby>いドロー",
+    "name_jp_rom": "Ichigeki Hissatsu! Iai Dorō",
+    "name_jp_tl": "One-Strike Kill! Iai Draw",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Discard 1 card; send cards from the top of your Deck to the GY, equal to the number of cards your opponent controls, then draw 1 card and show it. Then, if it was \"Slash Draw\", send it to the GY, and if you do, destroy as many cards on the field as possible, then inflict 2000 damage to your opponent for each card destroyed and sent to the GY by this effect. If the card you drew was not \"Slash Draw\", shuffle cards from your GY into your Deck, equal to the number of cards sent from your Deck to the GY by this effect. You can only activate 1 \"Slash Draw\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Discard 1 card; send cards from the top of your Deck to the GY, equal to the number of cards your opponent controls, then draw 1 card and show it. Then, if it was \"Slash Draw\", send it to the GY, and if you do, destroy as many cards on the field as possible, then inflict 2000 damage to your opponent for each card destroyed and sent to the GY by this effect. If the card you drew was not \"Slash Draw\", shuffle cards from your GY into your Deck, equal to the number of cards sent from your Deck to the GY by this effect. You can only activate 1 \"Slash Draw\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SlashDraw-BLRR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLRR-EN020",
+            "set": "Battles of Legend: Relentless Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect, Condition"
+        ],
+        "mentions": [
+            "Slash Draw"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You discard for cost",
+            "Sends from the top of your Deck to your Graveyard",
+            "You draw cards",
+            "Shows the player's drawn cards",
+            "Sends from your hand to your Graveyard",
+            "Returns from your Graveyard to your Deck"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards",
+            "Destroys Spell Cards",
+            "Destroys Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

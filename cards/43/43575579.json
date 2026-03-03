@@ -1,0 +1,82 @@
+{
+    "cid": "f2860b84-388d-4d20-bea8-56132036dca4",
+    "password": "43575579",
+    "kid": 15375,
+    "name": "Afterglow",
+    "name_jp": "アフター・グロー",
+    "name_jp_rom": "Afutā Gurō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Banish this card, and as many \"Afterglow\" from your hand, Deck, GY, and face-up field as possible, then shuffle 1 of your banished \"Afterglow\" into the Deck. During your next Draw Phase, reveal the card you draw for your normal draw, and inflict 4000 damage to your opponent if it is \"Afterglow\". You can only activate 1 \"Afterglow\" per Duel.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Banish this card, and as many \"Afterglow\" from your hand, Deck, GY, and face-up field as possible, then shuffle 1 of your banished \"Afterglow\" into the Deck. During your next Draw Phase, reveal the card you draw for your normal draw, and inflict 4000 damage to your opponent if it is \"Afterglow\". You can only activate 1 \"Afterglow\" per Duel.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Afterglow-BLAR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLAR-EN017",
+            "set": "Battles of Legend: Armageddon",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Lingering, Condition"
+        ],
+        "mentions": [
+            "Afterglow"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns the player's banished cards to the Deck",
+            "Shows the player's drawn cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from field",
+            "Banishes from your hand",
+            "Banishes from your Deck",
+            "Banishes from your Graveyard",
+            "Banishes from your field"
+        ],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per Duel"
+        ]
+    }
+}

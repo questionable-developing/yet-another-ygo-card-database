@@ -1,0 +1,88 @@
+{
+    "cid": "4d748328-9071-4efb-84a3-976bf7413a3c",
+    "password": "58012707",
+    "kid": 13949,
+    "name": "Giant Ballpark",
+    "name_jp": "<ruby lang=\"jp\"><rb>Ｇ</rb><rp> (</rp><rt>ジャイアント</rt><rp>)</rp></ruby>・ボールパーク",
+    "name_jp_rom": "Jaianto Bōrupāku",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During damage calculation, if a player would take battle damage: You can make neither player take any battle damage from that battle, and if you do, send 1 Level 4 or lower Insect monster from your Deck to the GY, then, if you sent a Normal Monster this way, you can Special Summon any number of monsters with the same name as that monster, from your hand, Deck, and/or GY. If a monster(s) you control is sent to the GY by an opponent's card effect (except during the Damage Step): You can Special Summon 1 Insect Normal Monster from your GY. You can only use each effect of \"Giant Ballpark\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During damage calculation, if a player would take battle damage: You can make neither player take any battle damage from that battle, and if you do, send 1 Level 4 or lower Insect monster from your Deck to the GY, then, if you sent a Normal Monster this way, you can Special Summon any number of monsters with the same name as that monster, from your hand, Deck, and/or GY. If a monster(s) you control is sent to the GY by an opponent's card effect (except during the Damage Step): You can Special Summon 1 Insect Normal Monster from your GY. You can only use each effect of \"Giant Ballpark\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GiantBallpark-MP19-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOFU-EN062",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP19-EN200",
+            "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Insect",
+            "Normal Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your Deck to your Graveyard",
+            "Activates if other cards are sent to the Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your hand",
+            "Special Summons from your Deck",
+            "Special Summons from your Graveyard"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Prevents battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

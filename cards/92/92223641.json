@@ -1,0 +1,83 @@
+{
+    "cid": "d4315959-89ef-4858-971d-67160760e535",
+    "password": "92223641",
+    "kid": 8827,
+    "name": "The Fountain in the Sky",
+    "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>泉</rb><rp> (</rp><rt>いずみ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tenkū no Izumi",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a LIGHT monster is destroyed by battle and sent to your GY: You can banish that monster; gain LP equal to its ATK.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When a LIGHT monster is destroyed by battle and sent to your GY: You can banish that monster; gain LP equal to its ATK.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TheFountainintheSky-SGX4-NA-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TSHD-EN052",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SDLS-EN032",
+            "set": "Lost Sanctuary Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "LIGHT"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your Graveyard",
+            "Banishes from Graveyard for cost"
+        ],
+        "life_points": [
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

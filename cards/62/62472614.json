@@ -1,0 +1,80 @@
+{
+    "cid": "e4fc3d01-018b-4892-bede-835049105135",
+    "password": "62472614",
+    "kid": 8989,
+    "name": "Pestilence",
+    "name_jp": "<ruby lang=\"jp\"><rb>疫</rb><rp> (</rp><rt>えき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>病</rb><rp> (</rp><rt>びょう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Ekibyō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Warrior-Type, Beast-Warrior-Type, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Warrior-Type, Beast-Warrior-Type, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Pestilence-DREV-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DREV-EN058",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [
+            "Warrior",
+            "Beast-Warrior",
+            "Spellcaster"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Reduces ATK to 0",
+            "Changes ATK value of equipped"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent",
+            "Damages you"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "During the Standby Phase"
+        ]
+    }
+}

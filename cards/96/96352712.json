@@ -1,0 +1,82 @@
+{
+    "cid": "45c551a0-fbb2-4b46-b61e-1443d13ef8b7",
+    "password": "96352712",
+    "kid": 18852,
+    "name": "Overexaggeration",
+    "name_jp": "<ruby lang=\"jp\"><rb>誇</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kodaika",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "At the start of the Damage Step, if 2 monsters battle: Activate 1 of these effects;<br />● Change the attacking monster to Defense Position.<br />● Return the attack target monster to the hand.<br />● Destroy both battling monsters.<br />You can only activate 1 \"Overexaggeration\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "At the start of the Damage Step, if 2 monsters battle: Activate 1 of these effects;\n● Change the attacking monster to Defense Position.\n● Return the attack target monster to the hand.\n● Destroy both battling monsters.\nYou can only activate 1 \"Overexaggeration\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Overexaggeration-MP24-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUNE-EN065",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN376",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Changes battle positions",
+            "Returns from field to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

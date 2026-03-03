@@ -1,0 +1,89 @@
+{
+    "cid": "2aaaa850-a09e-4d35-ac51-370ff2055ae9",
+    "password": "84428023",
+    "kid": 9128,
+    "name": "Wattjustment",
+    "name_jp": "エレキャッシュ",
+    "name_jp_rom": "Erekyasshu",
+    "name_jp_tl": "Elecache",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Level 3 or lower Thunder-Type monster. It gains 800 ATK, also its effects are negated. Each time it inflicts battle damage to your opponent: Draw 1 card.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Level 3 or lower Thunder-Type monster. It gains 800 ATK, also its effects are negated. Each time it inflicts battle damage to your opponent: Draw 1 card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Wattjustment-BP03-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "STBL-EN051",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP03-EN170",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Thunder"
+        ],
+        "asup": [],
+        "arc": [
+            "Watt"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Negates equipped",
+            "Activates if battle damage is inflicted",
+            "You draw cards"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Negates the effects of Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

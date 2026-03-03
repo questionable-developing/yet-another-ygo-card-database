@@ -1,0 +1,88 @@
+{
+    "cid": "ee72caa2-9034-4a81-925a-88af1f6052b5",
+    "password": "42516299",
+    "kid": 19201,
+    "name": "Fire Recovery",
+    "name_jp": "ファイヤー・バック",
+    "name_jp_rom": "Faiyā Bakku",
+    "name_jp_tl": "Fire Back",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 FIRE monster in your GY; send 1 card from your hand to the GY, and if you do, Special Summon the targeted monster. You can banish this card from your GY, then target 3 of your FIRE monsters that are banished and/or in your GY; shuffle them into the Deck, then draw 1 card. You can only use this effect of \"Fire Recovery\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 FIRE monster in your GY; send 1 card from your hand to the GY, and if you do, Special Summon the targeted monster. You can banish this card from your GY, then target 3 of your FIRE monsters that are banished and/or in your GY; shuffle them into the Deck, then draw 1 card. You can only use this effect of \"Fire Recovery\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FireRecovery-MP24-EN-PScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "AGOV-EN059",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP24-EN126",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "FIRE"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your hand to your Graveyard",
+            "Activates from your Graveyard",
+            "Returns the player's banished cards to the Deck",
+            "Returns from your Graveyard to your Deck",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Graveyard"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

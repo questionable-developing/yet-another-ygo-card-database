@@ -1,0 +1,75 @@
+{
+    "cid": "e0cca1c5-72fd-4352-9b17-62b9414c1e60",
+    "password": "95784434",
+    "kid": 8484,
+    "name": "Molting Escape",
+    "name_jp": "モルティング・エスケープ",
+    "name_jp_rom": "Morutingu Esukēpu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Reptile-Type monster. Once per turn, if the equipped monster would be destroyed by battle, it is not destroyed. The equipped monster gains 300 ATK at the end of the Damage Step each time this effect is applied.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Reptile-Type monster. Once per turn, if the equipped monster would be destroyed by battle, it is not destroyed. The equipped monster gains 300 ATK at the end of the Damage Step each time this effect is applied.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MoltingEscape-SOVR-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOVR-EN049",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Reptile"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Equipped cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

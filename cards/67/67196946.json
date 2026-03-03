@@ -1,0 +1,80 @@
+{
+    "cid": "782f718e-ea91-458d-b656-fda66171b71e",
+    "password": "67196946",
+    "kid": 8042,
+    "name": "Star Blast",
+    "name_jp": "スター・ブラスト",
+    "name_jp_rom": "Sutā Burasuto",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay any number of Life Points in multiples of 500; reduce the Level of 1 monster you control or that is in your hand by 1 for each 500 Life Points you paid, until the End Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay any number of Life Points in multiples of 500; reduce the Level of 1 monster you control or that is in your hand by 1 for each 500 Life Points you paid, until the End Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "StarBlast-BP02-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CRMS-EN047",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BP02-EN154",
+            "set": "Battle Pack 2: War of the Giants",
+            "rarities": {
+                "Common": [],
+                "Mosaic Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your monsters lose Levels",
+            "Modifies the Levels of monsters in the hand"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "cid": "1d2bb1b8-f3c3-4584-9fed-a626bcd0099a",
+    "password": "66947913",
+    "kid": 14501,
+    "name": "Rising Fire",
+    "name_jp": "ライジング・オブ・ファイア",
+    "name_jp_rom": "Raijingu Obu Faia",
+    "name_jp_tl": "Rising of Fire",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "(This card is always treated as a \"Salamangreat\" card.)<br />If you control no monsters: Activate this card by targeting 1 FIRE monster in your GY; Special Summon it and equip it with this card. The equipped monster gains 500 ATK. When this card leaves the field, destroy that monster. If this card in your possession is destroyed by an opponent's card effect: You can banish 1 monster on the field. You can only use each effect of \"Rising Fire\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "(This card is always treated as a \"Salamangreat\" card.)\nIf you control no monsters: Activate this card by targeting 1 FIRE monster in your GY; Special Summon it and equip it with this card. The equipped monster gains 500 ATK. When this card leaves the field, destroy that monster. If this card in your possession is destroyed by an opponent's card effect: You can banish 1 monster on the field. You can only use each effect of \"Rising Fire\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RisingFire-MP20-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "RIRA-EN053",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "MP20-EN128",
+            "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Activation requirement, Effect, Continuous-like, Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "FIRE"
+        ],
+        "asup": [],
+        "arc": [
+            "Salamangreat"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by card effect"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Destroys equipped"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Equips to Summoned monster"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes from field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of no monsters",
+            "Only once per turn",
+            "Archetype condition"
+        ]
+    }
+}

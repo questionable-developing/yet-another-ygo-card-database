@@ -1,0 +1,79 @@
+{
+    "cid": "c69afe23-375a-4d1a-9676-e7138440b93c",
+    "yid": 83838727,
+    "password": "83838727",
+    "kid": 21620,
+    "name": "Sandwich Day",
+    "name_jp": "ドローパン",
+    "name_jp_rom": "Dorōpan",
+    "name_jp_tl": "Drawbread",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you have a monster in your GY: Pay 200 LP; draw 1 card and reveal it, then, if it is a monster, apply this effect based on its Attribute.<br />● An Attribute not in your GY: Draw 1 card.<br />● An Attribute in your GY: Discard 1 card.<br />You can only activate 1 \"Sandwich Day\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you have a monster in your GY: Pay 200 LP; draw 1 card and reveal it, then, if it is a monster, apply this effect based on its Attribute.\n● An Attribute not in your GY: Draw 1 card.\n● An Attribute in your GY: Discard 1 card.\nYou can only activate 1 \"Sandwich Day\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SandwichDay-MZMU-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MZMU-EN056",
+            "set": "Maze of Muertos",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You draw cards",
+            "Shows the player's drawn cards",
+            "You discard as an effect"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn",
+            "Cover card"
+        ]
+    },
+    "links": {}
+}

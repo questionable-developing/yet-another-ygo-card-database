@@ -1,0 +1,93 @@
+{
+    "cid": "a9b3adb6-f3b9-410e-a3e2-4137f44b482c",
+    "yid": null,
+    "password": "28570310",
+    "kid": 13393,
+    "name": "Mythical Beast Garuda",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> ガルーダ",
+    "name_jp_rom": "Majikku Bīsuto Garūda",
+    "name_jp_tl": "Magic Beast Garuda",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1200,
+    "def": 1600,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 4,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nIf you have no card in your other Pendulum Zone: You can target 1 other Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Mythical Beast Garuda\" once per turn.\n\n[ Monster Effect ] \nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can remove 3 Spell Counters from your field; Special Summon this card from your hand, then return that opponent's Summoned monster(s) to the hand. You can only use this effect of \"Mythical Beast Garuda\" once per turn.",
+    "pend_eff": "If you have no card in your other Pendulum Zone: You can target 1 other Spell/Trap on the field; destroy both it and this card. You can only use this effect of \"Mythical Beast Garuda\" once per turn.",
+    "mnst_eff": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can remove 3 Spell Counters from your field; Special Summon this card from your hand, then return that opponent's Summoned monster(s) to the hand. You can only use this effect of \"Mythical Beast Garuda\" once per turn.",
+    "eff": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can remove 3 Spell Counters from your field; Special Summon this card from your hand, then return that opponent's Summoned monster(s) to the hand. You can only use this effect of \"Mythical Beast Garuda\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MythicalBeastGaruda-EXFO-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXFO-EN023",
+            "set": "Extreme Force",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like, Condition"
+        ],
+        "eff_types": [
+            "Continuous, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Mythical Beast"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Spell Counter",
+            "Places counters on itself",
+            "Removes counters for cost"
+        ],
+        "action": [
+            "Activates if other Pendulum Zone is unoccupied",
+            "Activates upon Normal Summon",
+            "Activates upon Special Summon",
+            "Returns from your opponent's field to your opponent's hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself",
+            "Destroys Spell Cards",
+            "Destroys Trap Cards"
+        ],
+        "summoning": [
+            "Special Summons itself from your hand"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "cid": "d9fe76d6-e884-4d14-b05f-acc7ba1fce38",
+    "password": "65914127",
+    "kid": 18668,
+    "name": "Pendulum Pendant",
+    "name_jp": "ペンデュラム・ペンダント",
+    "name_jp_rom": "Pendyuramu Pendanto",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Banish 5 face-up Pendulum Monsters from your Extra Deck; place 1 Pendulum Monster from your Deck or face-up Extra Deck in your Pendulum Zone. You can banish this card from your GY, then target 1 card in any Pendulum Zone; reduce its Pendulum Scale by 1 (min. 0). You can only activate 1 \"Pendulum Pendant\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Banish 5 face-up Pendulum Monsters from your Extra Deck; place 1 Pendulum Monster from your Deck or face-up Extra Deck in your Pendulum Zone. You can banish this card from your GY, then target 1 card in any Pendulum Zone; reduce its Pendulum Scale by 1 (min. 0). You can only activate 1 \"Pendulum Pendant\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PendulumPendant-MP24-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CYAC-EN084",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN358",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Pendulum (archetype)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Places from Deck to Pendulum Zone",
+            "Places from Extra Deck to Pendulum Zone",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Reduces Pendulum Scale"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from Extra Deck for cost",
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

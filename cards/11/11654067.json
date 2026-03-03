@@ -1,0 +1,88 @@
+{
+    "cid": "010cfe99-9e4b-4089-9ffb-b566fd1e6e7e",
+    "yid": null,
+    "password": "11654067",
+    "kid": 18919,
+    "name": "Fire Ejection",
+    "name_jp": "ファイヤー・エジェクション",
+    "name_jp_rom": "Faiyā Ejekushon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send 1 Pyro monster from your Deck to the GY, then, if you sent a \"Volcanic\" monster to the GY, you can apply 1 of these effects.<br />● Inflict damage to your opponent equal to its Level x 100.<br />● Special Summon 1 \"Bomb Token\" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage.<br />You can only activate 1 \"Fire Ejection\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send 1 Pyro monster from your Deck to the GY, then, if you sent a \"Volcanic\" monster to the GY, you can apply 1 of these effects.\n● Inflict damage to your opponent equal to its Level x 100.\n● Special Summon 1 \"Bomb Token\" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage.\nYou can only activate 1 \"Fire Ejection\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FireEjection-DP28-JP-R.png",
+            "art": "FireEjection-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "FireEjection-LD10-EN-SR-1E.png",
+            "art": "FireEjection-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "LD10-EN022",
+            "set": "Legendary Duelists: Soulburning Volcano",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Bomb Token"
+        ],
+        "sup": [
+            "Pyro"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Volcanic"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your Deck to your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons Tokens to your opponent's field"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

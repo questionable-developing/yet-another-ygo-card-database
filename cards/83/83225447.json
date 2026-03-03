@@ -1,0 +1,84 @@
+{
+    "cid": "50623dff-0dfc-42c0-8250-ceb687869e8a",
+    "password": "83225447",
+    "kid": 4890,
+    "name": "Stim-Pack",
+    "name_jp": "ドーピング",
+    "name_jp_rom": "Dōpingu",
+    "name_jp_tl": "Doping",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "StimPack-TP14-JP-C.jpg",
+            "art": "StimPack-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "StimPack-MRD-EN-C-UE-25thAnniversaryEdition.png",
+            "art": "StimPack-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "MRD-EN141",
+            "set": "Metal Raiders",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "MRD-EN141",
+            "set": "Metal Raiders (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped loses ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

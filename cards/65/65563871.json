@@ -1,0 +1,97 @@
+{
+    "cid": "88af15fa-a8fe-444e-9af8-8ca00143a67a",
+    "password": "65563871",
+    "kid": 15866,
+    "name": "Sunvine Healer",
+    "name_jp": "<ruby lang=\"jp\"><rb>聖蔓の癒し手</rb><rp> (</rp><rt>サンヴァイン・ヒーラー</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sanvain Hīrā",
+    "name_jp_tl": "San Vine Healer",
+    "type": "Monster",
+    "attribute": "EARTH",
+    "pend": false,
+    "subtypes": [
+        "Plant",
+        "Link",
+        "Effect"
+    ],
+    "atk": 600,
+    "def": null,
+    "lrl": 1,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": 1,
+    "arrows": [
+        "Top-Center"
+    ],
+    "desc": "1 Plant Normal Monster<br />If a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; gain LP equal to its Link Rating x 300. When your Plant Link Monster inflicts battle damage to your opponent: You can gain 600 LP.",
+    "pend_eff": null,
+    "mnst_eff": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; gain LP equal to its Link Rating x 300. When your Plant Link Monster inflicts battle damage to your opponent: You can gain 600 LP.",
+    "eff": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 \"Sunavalon\" Link Monster on the field; gain LP equal to its Link Rating x 300. When your Plant Link Monster inflicts battle damage to your opponent: You can gain 600 LP.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SunvineHealer-GFTP-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "GFTP-EN023",
+            "set": "Ghosts From the Past (set)",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "Plant",
+            "Normal Monster",
+            "Link Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Sunvine"
+        ],
+        "suparc": [
+            "Sunavalon"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if other cards leave the field",
+            "Activates upon Special Summon",
+            "Activates if battle damage is inflicted"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [
+            "1 Link Material",
+            "Requires Type specific Link Materials",
+            "Requires Normal Monsters as Link Materials"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Requires control of specific Monster card type",
+            "Requires control of specific Type"
+        ]
+    }
+}

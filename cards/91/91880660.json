@@ -1,0 +1,88 @@
+{
+    "cid": "4beb7a05-bf56-41d5-b852-32980520237d",
+    "password": "91880660",
+    "kid": 19908,
+    "name": "Way Where There's a Will",
+    "name_jp": "<ruby lang=\"jp\"><rb>仇</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>すれば<ruby lang=\"jp\"><rb>通</rb><rp> (</rp><rt>つう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>図</rb><rp> (</rp><rt>ず</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kyūsureba Tsūzu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During the Main Phase: The turn player can activate this effect; excavate cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also, after that, place any remaining cards and 1 card from your hand on the bottom of the Deck in any order. You can only use this effect of \"Way Where There's a Will\" once per turn. During the End Phase of any turn a player excavated 9 or more cards at once by this card's effect: That player can activate this effect; shuffle all cards your opponent controls and in their GY into the Deck.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During the Main Phase: The turn player can activate this effect; excavate cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also, after that, place any remaining cards and 1 card from your hand on the bottom of the Deck in any order. You can only use this effect of \"Way Where There's a Will\" once per turn. During the End Phase of any turn a player excavated 9 or more cards at once by this card's effect: That player can activate this effect; shuffle all cards your opponent controls and in their GY into the Deck.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "WayWhereTheresaWill-MP25-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LEDE-EN067",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP25-EN199",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Condition, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Excavates from the player's Deck",
+            "Excavates from the opponent's Deck",
+            "Adds excavated cards to the hand",
+            "Places excavated cards on the bottom of the Deck",
+            "Places cards from the player's hand on the bottom of the Deck",
+            "Places cards from the opponent's hand on the bottom of the Deck",
+            "Returns from your field to your Deck",
+            "Returns from your Graveyard to your Deck",
+            "Returns from your opponent's field to your opponent's Deck",
+            "Returns from your opponent's Graveyard to your opponent's Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Limited activations"
+        ]
+    }
+}

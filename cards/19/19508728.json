@@ -1,0 +1,98 @@
+{
+    "cid": "d2773551-fd34-4339-8edb-0aab81d8bde2",
+    "yid": null,
+    "password": "19508728",
+    "kid": 11771,
+    "name": "Moon Mirror Shield",
+    "name_jp": "<ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>つき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>盾</rb><rp> (</rp><rt>たて</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tsukigami no Tate",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If the equipped monster battles your opponent's monster, during damage calculation: The equipped monster's ATK/DEF become equal to the ATK or DEF (whichever is higher) of the opponent's battling monster +100, during damage calculation only. If this face-up card is sent from the field to the GY: Pay 500 LP; place this card on either the top or bottom of your Deck.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If the equipped monster battles your opponent's monster, during damage calculation: The equipped monster's ATK/DEF become equal to the ATK or DEF (whichever is higher) of the opponent's battling monster +100, during damage calculation only. If this face-up card is sent from the field to the GY: Pay 500 LP; place this card on either the top or bottom of your Deck.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MoonMirrorShield-SDCL-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CROS-EN081",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "MP16-EN039",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SDCL-EN030",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "OP29-EN008",
+            "set": "OTS Tournament Pack 29",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Places itself from the player's Graveyard on the top of the Deck",
+            "Places itself from the player's Graveyard on the bottom of the Deck"
+        ],
+        "stat_change": [
+            "Changes ATK value of equipped",
+            "Changes DEF value of equipped"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

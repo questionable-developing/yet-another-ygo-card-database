@@ -1,0 +1,99 @@
+{
+    "cid": "37513edd-ed16-44a0-929c-0784b4ef919d",
+    "yid": null,
+    "password": "11961740",
+    "kid": 5532,
+    "name": "Different Dimension Capsule",
+    "name_jp": "タイムカプセル",
+    "name_jp_rom": "Taimu Kapuseru",
+    "name_jp_tl": "Time Capsule",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Banish 1 card from your Deck face-down. After this card's activation, it remains on the field. Destroy this card during your 2nd Standby Phase after activating this card, and if you do, add the banished card to the hand.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Banish 1 card from your Deck face-down. After this card's activation, it remains on the field. Destroy this card during your 2nd Standby Phase after activating this card, and if you do, add the banished card to the hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DifferentDimensionCapsule-SGX1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DR1-EN031",
+            "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP04-EN019",
+            "set": "Duelist Pack: Zane Truesdale",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EGO1-EN025",
+            "set": "Egyptian God Deck: Obelisk the Tormentor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SGX1-ENG12",
+            "set": "Speed Duel GX: Duel Academy Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Remains on the field",
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your Deck",
+            "Banishes face-down"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

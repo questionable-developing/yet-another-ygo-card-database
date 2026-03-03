@@ -1,0 +1,85 @@
+{
+    "cid": "5cca8dd6-3754-49db-9569-af24458b6cf7",
+    "password": "39229392",
+    "kid": 10891,
+    "name": "Overlay Sentinel",
+    "name_jp": "オーバーレイ・スナイパー",
+    "name_jp_rom": "Ōbārei Sunaipā",
+    "name_jp_tl": "Overlay Sniper",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Warrior",
+        "Effect"
+    ],
+    "atk": 2000,
+    "def": 0,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Cannot be Special Summoned. When this card is Normal Summoned: Change this card to Defense Position. If you control a face-up Xyz Monster that has Xyz Material: You can banish this card from your Graveyard, then target 1 monster your opponent controls; it loses 500 ATK for each Xyz Material attached to a monster you control.",
+    "pend_eff": null,
+    "mnst_eff": "Cannot be Special Summoned. When this card is Normal Summoned: Change this card to Defense Position. If you control a face-up Xyz Monster that has Xyz Material: You can banish this card from your Graveyard, then target 1 monster your opponent controls; it loses 500 ATK for each Xyz Material attached to a monster you control.",
+    "eff": "Cannot be Special Summoned. When this card is Normal Summoned: Change this card to Defense Position. If you control a face-up Xyz Monster that has Xyz Material: You can banish this card from your Graveyard, then target 1 monster your opponent controls; it loses 500 ATK for each Xyz Material attached to a monster you control.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "OverlaySentinel-LVAL-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LVAL-EN005",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Summoning condition, Trigger, Ignition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Xyz Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Overlay (series)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Normal Summon",
+            "Changes own battle position"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [
+            "Cannot be Special Summoned"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Monster card type"
+        ]
+    }
+}

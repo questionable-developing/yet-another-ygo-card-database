@@ -1,0 +1,81 @@
+{
+    "cid": "12e4c4c4-4b7f-4bf3-bf61-16a362935d52",
+    "password": "51670553",
+    "kid": 7313,
+    "name": "Soul Devouring Bamboo Sword",
+    "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>を<ruby lang=\"jp\"><rb>吸</rb><rp> (</rp><rt>す</rt><rp>)</rp></ruby>う<ruby lang=\"jp\"><rb>竹</rb><rp> (</rp><rt>たけ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>みつ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tamashī o Suu Takemitsu",
+    "name_jp_tl": "Soul-Absorbing Bamboo Sword",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Select 1 monster equipped with a \"Bamboo Sword\" Equip Spell Card. If it inflicts Battle Damage to your opponent while equipped with a \"Bamboo Sword\" card, they skip their next Draw Phase. Destroy this card during your second Standby Phase after activation.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Select 1 monster equipped with a \"Bamboo Sword\" Equip Spell Card. If it inflicts Battle Damage to your opponent while equipped with a \"Bamboo Sword\" card, they skip their next Draw Phase. Destroy this card during your second Standby Phase after activation.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SoulDevouringBambooSword-GLAS-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "GLAS-EN060",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Equip Spell Card"
+        ],
+        "asup": [],
+        "arc": [
+            "Bamboo Sword"
+        ],
+        "suparc": [
+            "Bamboo Sword"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if battle damage is inflicted",
+            "Skips Draw Phase"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "During the Standby Phase"
+        ]
+    }
+}

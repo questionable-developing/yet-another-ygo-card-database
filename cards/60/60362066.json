@@ -1,0 +1,84 @@
+{
+    "cid": "00edcb34-e148-4f7d-a61c-911c6a1f65dd",
+    "password": "60362066",
+    "kid": 17812,
+    "name": "Tearlaments Heartbeat",
+    "name_jp": "<ruby lang=\"jp\"><rb>壱世壊を揺るがす鼓動</rb><rp> (</rp><rt>ティアラメンツ・ハートビーツ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tiaramentsu Hātobītsu",
+    "name_jp_tl": "Tearlaments Heartbeats",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Spell/Trap on the field, or you can target 2 if you control \"Visas Starfrost\"; shuffle them into the Deck, then send 1 card from your hand to the GY. If this card is sent to the GY by card effect: You can target 1 \"Tearlaments\" Trap in your GY; add it to your hand. You can only use 1 \"Tearlaments Heartbeat\" effect per turn, and only once that turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Spell/Trap on the field, or you can target 2 if you control \"Visas Starfrost\"; shuffle them into the Deck, then send 1 card from your hand to the GY. If this card is sent to the GY by card effect: You can target 1 \"Tearlaments\" Trap in your GY; add it to your hand. You can only use 1 \"Tearlaments Heartbeat\" effect per turn, and only once that turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TearlamentsHeartbeat-DABL-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DABL-EN057",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Visas Starfrost"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Heart",
+            "Tearlaments"
+        ],
+        "suparc": [
+            "Tearlaments"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Visas"
+        ],
+        "counter": [],
+        "action": [
+            "Returns from field to Deck",
+            "Sends from your hand to your Graveyard",
+            "Activates from your Graveyard",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific card",
+            "Only 1 effect once per turn"
+        ]
+    }
+}

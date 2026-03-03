@@ -1,0 +1,92 @@
+{
+    "cid": "44bfe43b-f7c6-4380-9431-c16e4d5cba0b",
+    "password": "71422989",
+    "kid": 11453,
+    "name": "Absorb Fusion",
+    "name_jp": "<ruby lang=\"jp\"><rb>吸光融合</rb><rp> (</rp><rt>アブソープ・フュージョン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Abusōpu Fyūjon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Add 1 \"Gem-Knight\" card from your Deck to your hand, then you can apply this effect.<br />● Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, by banishing its materials from your hand or field.<br />You can only activate 1 \"Absorb Fusion\" per turn. You cannot Special Summon the turn you activate this card, except \"Gem-Knight\" monsters.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Add 1 \"Gem-Knight\" card from your Deck to your hand, then you can apply this effect.\n● Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, by banishing its materials from your hand or field.\nYou can only activate 1 \"Absorb Fusion\" per turn. You cannot Special Summon the turn you activate this card, except \"Gem-Knight\" monsters.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AbsorbFusion-BLMM-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CORE-EN092",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "BLMM-EN164",
+            "set": "Battles of Legend: Monster Mayhem",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Fusion (archetype)"
+        ],
+        "suparc": [
+            "Gem-Knight"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Uses cards in the hand as Fusion Materials",
+            "Uses cards on the player's field as Fusion Materials"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Extra Deck",
+            "Performs a Fusion Summon",
+            "Restricts the player's Special Summons to archetype specific monsters"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes from your hand",
+            "Banishes from your field",
+            "Banishes Fusion Materials used in a Fusion Summon"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

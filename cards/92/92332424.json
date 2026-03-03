@@ -1,0 +1,107 @@
+{
+    "cid": "1d173e36-09ef-48ad-84a7-0c2641d8d416",
+    "password": "92332424",
+    "kid": 17779,
+    "name": "Majesty Pegasus, the Dracoslayer",
+    "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>マジェスティ<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ペガサス</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Ryūkenshi Majesuti Pegasasu",
+    "name_jp_tl": "Majesty Pegasus, the Dragon Swordsman",
+    "type": "Monster",
+    "attribute": "WIND",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1500,
+    "def": 1500,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 2,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nIf you have a \"Dracoslayer\" or \"Majespecter\" card in your other Pendulum Zone: You can add 1 \"Dracoslayer\" Pendulum Monster with a different original name than that card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.\n\n[ Monster Effect ] \n(This card is always treated as a \"Majespecter\" card.)\n(Quick Effect): You can discard this card; for the rest of this turn, your opponent cannot target \"Dracoslayer\" monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. If this card is Special Summoned by the effect of a \"Dracoslayer\" card, or Pendulum Summoned: You can add 1 Field Spell from your Deck to your hand, then discard 1 card. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+    "pend_eff": "If you have a \"Dracoslayer\" or \"Majespecter\" card in your other Pendulum Zone: You can add 1 \"Dracoslayer\" Pendulum Monster with a different original name than that card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+    "mnst_eff": "(This card is always treated as a \"Majespecter\" card.)\n(Quick Effect): You can discard this card; for the rest of this turn, your opponent cannot target \"Dracoslayer\" monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. If this card is Special Summoned by the effect of a \"Dracoslayer\" card, or Pendulum Summoned: You can add 1 Field Spell from your Deck to your hand, then discard 1 card. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+    "eff": "(This card is always treated as a \"Majespecter\" card.)\n(Quick Effect): You can discard this card; for the rest of this turn, your opponent cannot target \"Dracoslayer\" monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. If this card is Special Summoned by the effect of a \"Dracoslayer\" card, or Pendulum Summoned: You can add 1 Field Spell from your Deck to your hand, then discard 1 card. You can only use this effect of \"Majesty Pegasus, the Dracoslayer\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MajestyPegasustheDracoslayer-MP23-EN-PScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DABL-EN023",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "MP23-EN173",
+            "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like, Condition"
+        ],
+        "eff_types": [
+            "Condition, Quick, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Pendulum Monster",
+            "Field Spell Card"
+        ],
+        "asup": [],
+        "arc": [
+            "Dracoslayer",
+            "Majespecter"
+        ],
+        "suparc": [
+            "Dracoslayer",
+            "Majespecter"
+        ],
+        "asuparc": [],
+        "rel": [
+            "True Draco"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if other Pendulum Zone is occupied by specific card",
+            "Adds from Deck to hand",
+            "Activates from your hand",
+            "Discards itself for cost",
+            "Activates upon Pendulum Summon",
+            "Activates upon Special Summon",
+            "You discard as an effect"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your Spell Cards",
+            "Prevents other cards being targeted by card effects",
+            "Prevents other cards being destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn",
+            "Archetype condition"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "cid": "4ad957bb-a36f-4ce8-af0d-9a1e529796bd",
+    "password": "50186558",
+    "kid": 14138,
+    "name": "Guardragon Shield",
+    "name_jp": "<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shugoryū no Kekkai",
+    "name_jp_tl": "Guardragon Barrier",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can target 1 Dragon monster you control; it gains ATK/DEF equal to the total Link Rating of the Link Monsters currently on the field x 100, until the end of the opponent's turn. You can only use this effect of \"Guardragon Shield\" once per turn. Once per turn, if exactly 1 Dragon monster you control would be destroyed by battle or card effect, you can send 1 Normal Monster from your hand or Deck to the GY instead.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can target 1 Dragon monster you control; it gains ATK/DEF equal to the total Link Rating of the Link Monsters currently on the field x 100, until the end of the opponent's turn. You can only use this effect of \"Guardragon Shield\" once per turn. Once per turn, if exactly 1 Dragon monster you control would be destroyed by battle or card effect, you can send 1 Normal Monster from your hand or Deck to the GY instead.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GuardragonShield-MP20-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SAST-EN061",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "MP20-EN028",
+            "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Condition, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Dragon",
+            "Normal Monster",
+            "Link Monster"
+        ],
+        "asup": [
+            "Link Monster"
+        ],
+        "arc": [
+            "Guardragon"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your Deck to your Graveyard",
+            "Sends from your hand to your Graveyard"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK",
+            "Your monsters gain DEF"
+        ],
+        "mst": [
+            "Redirects destruction",
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Only once per turn",
+            "Limited activations"
+        ]
+    }
+}

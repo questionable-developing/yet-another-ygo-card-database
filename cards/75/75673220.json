@@ -1,0 +1,77 @@
+{
+    "cid": "c20cad0b-e6a5-4cc5-bf33-5972490a9408",
+    "password": "75673220",
+    "kid": 9435,
+    "name": "Snapdragon",
+    "name_jp": "スナップドラゴン",
+    "name_jp_rom": "Sunappudoragon",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "EARTH",
+    "pend": false,
+    "subtypes": [
+        "Plant",
+        "Effect"
+    ],
+    "atk": 300,
+    "def": 100,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is sent to the Graveyard: Banish 1 random card from your opponent's hand, until the End Phase. You can only use the effect of \"Snapdragon\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "When this card is sent to the Graveyard: Banish 1 random card from your opponent's hand, until the End Phase. You can only use the effect of \"Snapdragon\" once per turn.",
+    "eff": "When this card is sent to the Graveyard: Banish 1 random card from your opponent's hand, until the End Phase. You can only use the effect of \"Snapdragon\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Snapdragon-LVAL-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LVAL-EN094",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Condition"
+        ],
+        "mentions": [
+            "Snapdragon"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if sent to the Graveyard",
+            "Returns the opponent's banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

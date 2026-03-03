@@ -1,0 +1,80 @@
+{
+    "cid": "7d08779d-f42f-46df-9411-81a4b5ae3c21",
+    "yid": null,
+    "password": "27863269",
+    "kid": 8662,
+    "name": "Rocket Pilder",
+    "name_jp": "ロケット・パイルダー",
+    "name_jp_rom": "Roketto Pairudā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RocketPilder-BP02-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ABPF-EN051",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP02-EN157",
+            "set": "Battle Pack 2: War of the Giants",
+            "rarities": {
+                "Common": [],
+                "Mosaic Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Equipped cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

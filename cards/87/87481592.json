@@ -1,0 +1,89 @@
+{
+    "cid": "4cfb8071-30e5-4269-86fd-8da965885d18",
+    "password": "87481592",
+    "kid": 15533,
+    "name": "Dogmatikacism",
+    "name_jp": "<ruby lang=\"jp\"><rb>教導神理</rb><rp> (</rp><rt>ドラグマティズム</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Doragumatizumu",
+    "name_jp_tl": "Dragmatism",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If the equipped monster is a \"Dogmatika\" monster, it gains ATK equal to its Level x 100. If not, it loses 200 ATK for each \"Dogmatika\" monster you control. If this card is sent to the GY because the equipped monster is destroyed: You can send 1 monster from your Extra Deck to the GY. You can only use this effect of \"Dogmatikacism\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If the equipped monster is a \"Dogmatika\" monster, it gains ATK equal to its Level x 100. If not, it loses 200 ATK for each \"Dogmatika\" monster you control. If this card is sent to the GY because the equipped monster is destroyed: You can send 1 monster from your Extra Deck to the GY. You can only use this effect of \"Dogmatikacism\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Dogmatikacism-MP21-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHRA-EN054",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN203",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Dogmatika"
+        ],
+        "suparc": [
+            "Dogmatika"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Sends from your Extra Deck to your Graveyard"
+        ],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped loses ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

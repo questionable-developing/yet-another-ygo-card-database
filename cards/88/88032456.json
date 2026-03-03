@@ -1,0 +1,109 @@
+{
+    "cid": "d852e7a4-5ab5-4690-abe7-214ec1701f84",
+    "password": "88032456",
+    "kid": 4800,
+    "name": "Mimicat",
+    "name_jp": "コピーキャット",
+    "name_jp_rom": "Kopīkyatto",
+    "name_jp_tl": "Copycat",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you control \"Toon World\" and a Toon monster: Target 1 card in your opponent's GY; if it is a monster, Special Summon it to your field, or if it is a Spell/Trap, Set it to your field. You can only activate 1 \"Mimicat\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you control \"Toon World\" and a Toon monster: Target 1 card in your opponent's GY; if it is a monster, Special Summon it to your field, or if it is a Spell/Trap, Set it to your field. You can only activate 1 \"Mimicat\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Mimicat-CPD1-JP-C.png",
+            "art": "Mimicat-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "Mimicat-DLCS-EN-UR-1E.png",
+            "art": "Mimicat-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "DRL2-EN027",
+            "set": "Dragons of Legend 2",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LED2-EN051",
+            "set": "Legendary Duelists: Ancient Millennium",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SS01-ENV03",
+            "set": "Speed Duel Starter Decks: Destiny Masters",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DLCS-EN078",
+            "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect, Condition"
+        ],
+        "mentions": [
+            "Mimicat",
+            "Toon World"
+        ],
+        "sup": [
+            "Toon monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Toon"
+        ],
+        "counter": [],
+        "action": [
+            "Sets from your opponent's Graveyard to your field",
+            "Exchanges cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your opponent's Graveyard to your field"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Requires control of specific card",
+            "Cover card"
+        ]
+    }
+}

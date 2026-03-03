@@ -1,0 +1,93 @@
+{
+    "cid": "1b6e1888-a173-4d63-b565-31e563720054",
+    "password": "80681226",
+    "kid": 15373,
+    "name": "Psychic Wave",
+    "name_jp": "サイキック・ウェーブ",
+    "name_jp_rom": "Saikikku Wēbu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you control a Machine monster: Send 1 \"Jinzo\" from your hand or Deck to the GY; inflict 600 damage to your opponent. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Machine monster in your GY; send 1 \"Jinzo\" monster from your Deck to the GY, and if you do, add that targeted monster to your hand. You can only use this effect of \"Psychic Wave\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you control a Machine monster: Send 1 \"Jinzo\" from your hand or Deck to the GY; inflict 600 damage to your opponent. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Machine monster in your GY; send 1 \"Jinzo\" monster from your Deck to the GY, and if you do, add that targeted monster to your hand. You can only use this effect of \"Psychic Wave\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PsychicWave-CP20-JP-C.png",
+            "art": "PsychicWave-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "PsychicWave-BLAR-EN-UR-1E.png",
+            "art": "PsychicWave-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "BLAR-EN015",
+            "set": "Battles of Legend: Armageddon",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Jinzo"
+        ],
+        "sup": [
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [
+            "Signature move"
+        ],
+        "suparc": [
+            "Jinzo (archetype)"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from hand to Graveyard for cost",
+            "Sends from Deck to Graveyard for cost",
+            "Activates from your Graveyard",
+            "Sends from your Deck to your Graveyard",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Only once per turn"
+        ]
+    }
+}

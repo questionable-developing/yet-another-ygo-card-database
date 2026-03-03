@@ -1,0 +1,85 @@
+{
+    "cid": "dc69caae-efe1-4412-a7f3-9fc75c65ae6d",
+    "yid": null,
+    "password": "08324284",
+    "kid": 20391,
+    "name": "Spirit Shield",
+    "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>盾</rb><rp> (</rp><rt>たて</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shiryō no Tate",
+    "name_jp_tl": "Ghost Shield",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per battle, when an opponent's monster declares an attack: You can banish 1 Fiend or Zombie monster from your GY; negate that attack. Once per turn, when your opponent activates a card or effect that would destroy a card(s): You can banish 1 Fiend or Zombie monster from your GY; negate that activation. Once per turn, during the End Phase, if you do not control a Fiend or Zombie monster: Send this card to the GY.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per battle, when an opponent's monster declares an attack: You can banish 1 Fiend or Zombie monster from your GY; negate that attack. Once per turn, when your opponent activates a card or effect that would destroy a card(s): You can banish 1 Fiend or Zombie monster from your GY; negate that activation. Once per turn, during the End Phase, if you do not control a Fiend or Zombie monster: Send this card to the GY.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SpiritShield-MZTM-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MZTM-EN035",
+            "set": "Maze of the Master",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Quick-like, Quick-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Fiend",
+            "Zombie"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Sends itself from field to Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the activation of your opponent's Effect Monster's effect",
+            "Negates the activation of your opponent's Spell Cards",
+            "Negates the activation of your opponent's Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Negates attacks"
+        ],
+        "banished": [
+            "Banishes from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Requires control of specific Type"
+        ]
+    }
+}

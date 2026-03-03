@@ -1,0 +1,82 @@
+{
+    "cid": "867878cf-9954-4398-aab5-e8dc8de0e653",
+    "password": "50418970",
+    "kid": 8340,
+    "name": "Spirit Burner",
+    "name_jp": "スピリット・バーナー",
+    "name_jp_rom": "Supiritto Bānā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, you can change the battle position of the equipped monster to Defense Position. When the equipped monster is returned from the field to the hand and this card is sent to the Graveyard, inflict 600 damage to your opponent. If this card is in the Graveyard, you can add it to your hand instead of conducting a normal draw during your Draw Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, you can change the battle position of the equipped monster to Defense Position. When the equipped monster is returned from the field to the hand and this card is sent to the Graveyard, inflict 600 damage to your opponent. If this card is in the Graveyard, you can add it to your hand instead of conducting a normal draw during your Draw Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SpiritBurner-ANPR-JP-C.jpg",
+            "art": "SpiritBurner-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "SpiritBurner-ANPR-EN-C-UE.png",
+            "art": "SpiritBurner-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "ANPR-EN050",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Changes battle positions",
+            "Activates if returned from the field to the hand",
+            "Activates from your Graveyard",
+            "Returns itself from Graveyard to hand",
+            "Replaces normal draw"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

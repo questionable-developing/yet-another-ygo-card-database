@@ -1,0 +1,85 @@
+{
+    "cid": "eaab7246-4e60-43fc-8892-fa4433e99320",
+    "password": "38538445",
+    "kid": 5382,
+    "name": "Fushi No Tori",
+    "name_jp": "<ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>フ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>ノ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>ト</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>リ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Fushi no Tori",
+    "name_jp_tl": "Immortal Bird",
+    "type": "Monster",
+    "attribute": "FIRE",
+    "pend": false,
+    "subtypes": [
+        "Winged Beast",
+        "Spirit"
+    ],
+    "atk": 1200,
+    "def": 0,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent's Life Points, increase your Life Points by an amount equal to the Battle Damage.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": null,
+    "flavor": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent's Life Points, increase your Life Points by an amount equal to the Battle Damage.",
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FushiNoTori-DB2-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LOD-EN072",
+            "set": "Legacy of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DB2-EN184",
+            "set": "Dark Beginning 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Summoning condition, Trigger, Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates during the turn in which it was Normal Summoned",
+            "Returns itself from field to hand",
+            "Activates if battle damage is inflicted"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Cannot be Special Summoned"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

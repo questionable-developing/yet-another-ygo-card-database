@@ -1,0 +1,88 @@
+{
+    "cid": "772d01dc-b47e-4368-a2f4-05da8bfb29bb",
+    "password": "39980304",
+    "kid": 7466,
+    "name": "Chain Material",
+    "name_jp": "チェーン・マテリアル",
+    "name_jp_rom": "Chēn Materiaru",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters. You cannot attack during the turn this card is activated. If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters. You cannot attack during the turn this card is activated. If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ChainMaterial-DE02-JP-C.jpg",
+            "art": "ChainMaterial-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "ChainMaterial-PTDN-EN-SP-1E.png",
+            "art": "ChainMaterial-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "PTDN-EN067",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Short Print": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Modifies which cards can be used as Fusion Material",
+            "Uses cards in the hand as Fusion Materials",
+            "Uses cards on the player's field as Fusion Materials",
+            "Uses cards in the player's Deck as Fusion Materials",
+            "Uses cards in the player's Graveyard as Fusion Materials"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Prevents your monsters from attacking"
+        ],
+        "banished": [
+            "Banishes from your field",
+            "Banishes from your Deck",
+            "Banishes from your hand",
+            "Banishes from your Graveyard",
+            "Banishes Fusion Materials used in a Fusion Summon"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

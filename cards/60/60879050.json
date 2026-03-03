@@ -1,0 +1,90 @@
+{
+    "cid": "acd38267-86f8-45e6-987f-47be8bf50ed8",
+    "password": "60879050",
+    "kid": 11184,
+    "name": "Train Connection",
+    "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>関</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>連</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けつ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kikan Renketsu",
+    "name_jp_tl": "Engine Connection",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Must be equipped to an EARTH Machine monster, by banishing 2 Level 10 or higher Machine monsters from your GY. The equipped monster's ATK becomes double its original ATK, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. Other monsters you control cannot attack.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Must be equipped to an EARTH Machine monster, by banishing 2 Level 10 or higher Machine monsters from your GY. The equipped monster's ATK becomes double its original ATK, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. Other monsters you control cannot attack.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TrainConnection-DLCS-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DRLG-EN039",
+            "set": "Dragons of Legend",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DLCS-EN041",
+            "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "EARTH",
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [
+            "Train"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Changes ATK value of equipped"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Piercing",
+            "Prevents your monsters from attacking"
+        ],
+        "banished": [
+            "Banishes from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Attribute",
+            "Requires control of specific Type",
+            "Equips only to a specific target"
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "cid": "04270623-e69f-4740-9c39-97b92b90b67f",
+    "password": "46303688",
+    "kid": 5599,
+    "name": "Roulette Barrel",
+    "name_jp": "ルーレットボマー",
+    "name_jp_rom": "Rūretto Bomā",
+    "name_jp_tl": "Roulette Bomber",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Machine",
+        "Effect"
+    ],
+    "atk": 1000,
+    "def": 2000,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn: You can roll a six-sided die twice, choose 1 result, and destroy 1 monster on the field whose Level is equal to that result.",
+    "pend_eff": null,
+    "mnst_eff": "Once per turn: You can roll a six-sided die twice, choose 1 result, and destroy 1 monster on the field whose Level is equal to that result.",
+    "eff": "Once per turn: You can roll a six-sided die twice, choose 1 result, and destroy 1 monster on the field whose Level is equal to that result.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RouletteBarrel-EE1-JP-C.jpg",
+            "art": "RouletteBarrel-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "RouletteBarrel-LCJW-EN-C-1E.png",
+            "art": "RouletteBarrel-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "DR1-EN080",
+            "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LCJW-EN263",
+            "set": "Legendary Collection 4: Joey's World Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [],
+        "mst": [
+            "Destroys face-up Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Die roll"
+        ]
+    }
+}

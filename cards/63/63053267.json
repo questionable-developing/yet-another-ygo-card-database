@@ -1,0 +1,88 @@
+{
+    "cid": "01767b20-e521-4722-983d-7823e7a42109",
+    "password": "63053267",
+    "kid": 13425,
+    "name": "Nagel's Protection",
+    "name_jp": "ナーゲルの<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Nāgeru no Shugoten",
+    "name_jp_tl": "Nagel's Protection Sky",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "\"Tindangle\" monsters in your Main Monster Zones cannot be destroyed by battle or your opponent's card effects. Once per turn, if your \"Tindangle\" monster inflicts battle damage to your opponent, the damage is doubled. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Nagel's Protection\" from your Deck to your hand. You can only use this effect of \"Nagel's Protection\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "\"Tindangle\" monsters in your Main Monster Zones cannot be destroyed by battle or your opponent's card effects. Once per turn, if your \"Tindangle\" monster inflicts battle damage to your opponent, the damage is doubled. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Nagel's Protection\" from your Deck to your hand. You can only use this effect of \"Nagel's Protection\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "NagelsProtection-EXFO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXFO-EN054",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Continuous-like, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Nagel's Protection"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Tindangle"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if battle damage is inflicted",
+            "Activates from your Graveyard",
+            "You discard for cost",
+            "Adds from Deck to hand",
+            "Adds copies of itself to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Increases battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Only once per turn"
+        ]
+    }
+}

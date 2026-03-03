@@ -1,0 +1,90 @@
+{
+    "cid": "656baf6b-3ae3-4509-9c12-740f2a67ff5c",
+    "password": "91019775",
+    "kid": 7250,
+    "name": "Scrap Garage",
+    "name_jp": "スクラップ・ガレージ",
+    "name_jp_rom": "Sukurappu Garēji",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a face-up Machine monster(s) you control is destroyed by battle or card effect: Target up to 3 DARK Machine monsters in your GY; Special Summon them, but their ATK/DEF become 0. You can banish this card from your GY, then target 1 Machine monster you control; destroy it. You can only use each effect of \"Scrap Garage\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If a face-up Machine monster(s) you control is destroyed by battle or card effect: Target up to 3 DARK Machine monsters in your GY; Special Summon them, but their ATK/DEF become 0. You can banish this card from your GY, then target 1 Machine monster you control; destroy it. You can only use each effect of \"Scrap Garage\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ScrapGarage-BLMM-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLMM-EN030",
+            "set": "Battles of Legend: Monster Mayhem",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Quick-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine",
+            "DARK"
+        ],
+        "asup": [],
+        "arc": [
+            "Scrap"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Motor"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Changes ATK value",
+            "Changes DEF value",
+            "Reduces ATK to 0",
+            "Reduces DEF to 0"
+        ],
+        "mst": [
+            "Destroys your face-up Monster Cards"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Only once per turn"
+        ]
+    }
+}

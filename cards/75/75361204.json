@@ -1,0 +1,86 @@
+{
+    "cid": "8d31cd6f-8bac-425a-90ec-f4802dee091a",
+    "password": "75361204",
+    "kid": 12019,
+    "name": "Graydle Split",
+    "name_jp": "グレイドル・スプリット",
+    "name_jp_rom": "Gureidoru Supuritto",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-up monster you control; equip this card to it. It gains 500 ATK. During your Main Phase: You can send this card equipped to a monster by this effect to the Graveyard; destroy the monster this card was equipped to, and if you do, Special Summon 2 \"Graydle\" monsters with different names from your Deck, but destroy them during the End Phase. You can only use this effect of \"Graydle Split\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-up monster you control; equip this card to it. It gains 500 ATK. During your Main Phase: You can send this card equipped to a monster by this effect to the Graveyard; destroy the monster this card was equipped to, and if you do, Special Summon 2 \"Graydle\" monsters with different names from your Deck, but destroy them during the End Phase. You can only use this effect of \"Graydle Split\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GraydleSplit-DOCS-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DOCS-EN075",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like, Quick-like, Condition"
+        ],
+        "mentions": [
+            "Graydle Split"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Graydle"
+        ],
+        "suparc": [
+            "Graydle"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips self from field",
+            "Sends itself from field to Graveyard for cost"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Treated as Equip Card",
+            "Destroys your face-up Monster Cards",
+            "Destroys equipped"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

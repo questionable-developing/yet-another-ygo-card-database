@@ -1,0 +1,82 @@
+{
+    "cid": "e341711a-4951-43fa-866a-473771248262",
+    "password": "56256517",
+    "kid": 13783,
+    "name": "Ledger of Legerdemain",
+    "name_jp": "<ruby lang=\"jp\"><rb>予</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>見</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>通</rb><rp> (</rp><rt>つう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帳</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Yoken Tsūchō",
+    "name_jp_tl": "Foreseeing Ledger",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Banish 3 cards from the top of your Deck, face-down. During your 3rd Standby Phase after this card's activation, add all 3 cards to your hand. You can only activate 1 \"Ledger of Legerdemain\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Banish 3 cards from the top of your Deck, face-down. During your 3rd Standby Phase after this card's activation, add all 3 cards to your hand. You can only activate 1 \"Ledger of Legerdemain\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LedgerofLegerdemain-SBC1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CYHO-EN067",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SBC1-ENF11",
+            "set": "Speed Duel: Streets of Battle City",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Lingering, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from Deck",
+            "Banishes face-down"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "During the Standby Phase"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "cid": "4190c8e3-c1b5-4edd-9646-d5e883e331a1",
+    "password": "75153328",
+    "kid": 14317,
+    "name": "Packet Swap",
+    "name_jp": "<ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>制</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>切</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kyōsei Setsudan",
+    "name_jp_tl": "Forced Disconnection",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-up non-Link Monster you control and 1 Link Monster your opponent controls; switch control of those monsters. You can only activate 1 \"Packet Swap\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-up non-Link Monster you control and 1 Link Monster your opponent controls; switch control of those monsters. You can only activate 1 \"Packet Swap\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PacketSwap-DANE-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DANE-EN067",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [
+            "Link Monster"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Gives control of your monster",
+            "Takes control of an opponent's monster"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

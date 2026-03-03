@@ -1,0 +1,100 @@
+{
+    "cid": "9dbb70b6-c7f6-4fa2-970a-5580cfb4dab0",
+    "password": "65726770",
+    "kid": 19844,
+    "name": "Silent Magician Zero",
+    "name_jp": "サイレント・マジシャン・ゼロ",
+    "name_jp_rom": "Sairento Majishan Zero",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "atk": 1000,
+    "def": 1000,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect, while you control \"Shining Sarcophagus\" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of \"Silent Magician Zero\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect, while you control \"Shining Sarcophagus\" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of \"Silent Magician Zero\" once per turn.",
+    "eff": "If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect, while you control \"Shining Sarcophagus\" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of \"Silent Magician Zero\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SilentMagicianZero-MP25-EN-PScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LEDE-ENSP1",
+            "set": "Legacy of Destruction Premiere! promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-EN003",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "MP25-EN060",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Continuous, Quick, Condition"
+        ],
+        "mentions": [
+            "Shining Sarcophagus"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Silent Magician (archetype)",
+            "Shining Sarcophagus (series)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if your opponent draws a card"
+        ],
+        "stat_change": [
+            "This card gains Levels",
+            "This card gains ATK"
+        ],
+        "mst": [
+            "Negates the activation of your opponent's Spell Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific card",
+            "Only once per turn"
+        ]
+    }
+}

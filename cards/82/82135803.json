@@ -1,0 +1,108 @@
+{
+    "cid": "7b8d11f2-68d6-4b0a-bbc2-e35db4ca6408",
+    "password": "82135803",
+    "kid": 20215,
+    "name": "Fiendsmith's Desirae",
+    "name_jp": "<ruby lang=\"jp\"><rb>刻まれし魔</rb><rp> (</rp><rt>デモンスミス</rt><rp>)</rp></ruby>ディエスイレ",
+    "name_jp_rom": "Demonsumisu Diesu Ire",
+    "name_jp_tl": "Demonsmith Dies Irae",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Fusion",
+        "Effect"
+    ],
+    "atk": 2800,
+    "def": 2400,
+    "lrl": 9,
+    "level": 9,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "\"Fiendsmith Engraver\" + 2 LIGHT Fiend monsters<br />(Quick Effect): You can negate the effects of a number of face-up cards on the field, up to the total Link Rating of Link Monsters equipped to this card, until the end of this turn. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck, then target 1 card on the field; send it to the GY. You can only use each effect of \"Fiendsmith's Desirae\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "\"Fiendsmith Engraver\" + 2 LIGHT Fiend monsters\n(Quick Effect): You can negate the effects of a number of face-up cards on the field, up to the total Link Rating of Link Monsters equipped to this card, until the end of this turn. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck, then target 1 card on the field; send it to the GY. You can only use each effect of \"Fiendsmith's Desirae\" once per turn.",
+    "eff": "\"Fiendsmith Engraver\" + 2 LIGHT Fiend monsters\n(Quick Effect): You can negate the effects of a number of face-up cards on the field, up to the total Link Rating of Link Monsters equipped to this card, until the end of this turn. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck, then target 1 card on the field; send it to the GY. You can only use each effect of \"Fiendsmith's Desirae\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FiendsmithsDesirae-RA04-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "INFO-EN036",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RA04-EN056",
+            "set": "Quarter Century Stampede",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Quarter Century Secret Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Quick, Trigger, Condition"
+        ],
+        "mentions": [
+            "Fiendsmith Engraver"
+        ],
+        "sup": [
+            "LIGHT",
+            "Fiend",
+            "Link Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Fiendsmith"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if sent to the Graveyard",
+            "Returns from Graveyard to Deck for cost",
+            "Returns from Graveyard to Extra Deck for cost",
+            "Sends from field to Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of Effect Monsters",
+            "Negates the effects of Spell Cards",
+            "Negates the effects of Trap Cards"
+        ],
+        "summoning": [
+            "3 Fusion Materials",
+            "Requires specific Effect Monsters as Fusion Materials",
+            "Requires Attribute specific Fusion Materials",
+            "Requires Type specific Fusion Materials"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

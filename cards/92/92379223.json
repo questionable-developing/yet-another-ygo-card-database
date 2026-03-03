@@ -1,0 +1,91 @@
+{
+    "cid": "a0b5d917-c974-4553-9f30-571da4d98446",
+    "password": "92379223",
+    "kid": 15132,
+    "name": "El Dorado Adelantado",
+    "name_jp": "<ruby lang=\"jp\"><rb>黄金の征服王</rb><rp> (</rp><rt>エル・ドラド・アデランタード</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Eru Dorado Aderantādo",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you control an \"Eldlich\" monster: Activate 1 of these effects;<br />● Shuffle 3 of your banished \"Eldlixir\" Spells/Traps with different names into your Deck, and if you do, destroy all cards on the field.<br />● Shuffle 3 of your banished \"Golden Land\" Spells/Traps with different names into your Deck, and if you do, halve your opponent's LP, then you gain LP equal to their LP.<br />You can only activate 1 \"El Dorado Adelantado\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you control an \"Eldlich\" monster: Activate 1 of these effects;\n● Shuffle 3 of your banished \"Eldlixir\" Spells/Traps with different names into your Deck, and if you do, destroy all cards on the field.\n● Shuffle 3 of your banished \"Golden Land\" Spells/Traps with different names into your Deck, and if you do, halve your opponent's LP, then you gain LP equal to their LP.\nYou can only activate 1 \"El Dorado Adelantado\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ElDoradoAdelantado-MGED-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SESL-EN036",
+            "set": "Secret Slayers",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "MGED-EN129",
+            "set": "Maximum Gold: El Dorado",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Eldlich",
+            "Eldlixir",
+            "Golden Land"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns the player's banished cards to the Deck by effect"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards",
+            "Destroys Spell Cards",
+            "Destroys Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Halves the opponent's LP",
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn",
+            "Variable effects"
+        ]
+    }
+}

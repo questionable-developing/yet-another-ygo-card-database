@@ -1,0 +1,105 @@
+{
+    "cid": "ca99e30c-b676-492e-929a-4324b392eb22",
+    "yid": null,
+    "password": "06351147",
+    "kid": 19049,
+    "name": "Transaction Rollback",
+    "name_jp": "トランザクション・ロールバック",
+    "name_jp_rom": "Toranzakushon Rōrubakku",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay half your LP, then target 1 Normal Trap in your opponent's GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can banish this card from your GY and pay half your LP, then target 1 Normal Trap in your GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can only use 1 \"Transaction Rollback\" effect per turn, and only once that turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay half your LP, then target 1 Normal Trap in your opponent's GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can banish this card from your GY and pay half your LP, then target 1 Normal Trap in your GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can only use 1 \"Transaction Rollback\" effect per turn, and only once that turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TransactionRollback-RA04-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MZMI-EN038",
+            "set": "Maze of Millennia",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "MP24-EN134",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA04-EN105",
+            "set": "Quarter Century Stampede",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Quarter Century Secret Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Quick-like, Condition"
+        ],
+        "mentions": [
+            "Transaction Rollback"
+        ],
+        "sup": [
+            "Normal Trap Card"
+        ],
+        "asup": [
+            "Normal Trap Card"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Resolves as another card's effect",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Pays Life Points for cost",
+            "Halves the player's LP"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only 1 effect once per turn"
+        ]
+    }
+}

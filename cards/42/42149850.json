@@ -1,0 +1,90 @@
+{
+    "cid": "e741a3b0-0c5f-49d9-8b09-f27acfee1c36",
+    "password": "42149850",
+    "kid": 14874,
+    "name": "Disposable Learner Device",
+    "name_jp": "<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>捨</rb><rp> (</rp><rt>す</rt><rp>)</rp></ruby>て<ruby lang=\"jp\"><rb>学習装置</rb><rp> (</rp><rt>ラーニングマシン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tsukaisute Rāningu Mashin",
+    "name_jp_tl": "Disposable Learning Machine",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "The equipped monster gains 200 ATK for each monster in your GY. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Disposable Learner Device\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "The equipped monster gains 200 ATK for each monster in your GY. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Set this card, but banish it when it leaves the field. You can only use this effect of \"Disposable Learner Device\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DisposableLearnerDevice-SGX2-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "IGAS-EN065",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN027",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SGX2-ENE08",
+            "set": "Speed Duel GX: Midterm Paradox",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Sets itself from your Graveyard"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself when it leaves the field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "cid": "cb44b80c-31a5-4f58-9e6d-cc459fd20789",
+    "password": "55351724",
+    "kid": 14690,
+    "name": "Bownty",
+    "name_jp": "<ruby lang=\"jp\"><rb>犬</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>賞</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kenshōkin",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If your attacking monster destroys an opponent's monster by battle: Target 1 card in your GY; add it to your hand, but for the rest of this turn you cannot activate cards, or the effects of cards, with the same name as the added card had once it was in your hand. You can only activate 1 \"Bownty\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If your attacking monster destroys an opponent's monster by battle: Target 1 card in your GY; add it to your hand, but for the rest of this turn you cannot activate cards, or the effects of cards, with the same name as the added card had once it was in your hand. You can only activate 1 \"Bownty\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Bownty-CHIM-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CHIM-EN063",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents activation of your Effect Monsters",
+            "Prevents activation of your Spell Cards",
+            "Prevents activation of your Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

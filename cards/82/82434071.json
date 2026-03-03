@@ -1,0 +1,85 @@
+{
+    "cid": "a650096a-d7be-428b-a314-98c60c214b21",
+    "password": "82434071",
+    "kid": 15885,
+    "name": "Infernity Pawn",
+    "name_jp": "インフェルニティ・ポーン",
+    "name_jp_rom": "Inferuniti Pōn",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": 0,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During your Draw Phase, if you have no cards in your hand, instead of conducting your normal draw: You can banish this card from your GY, then activate 1 of these effects;<br />● Place 1 \"Infernity\" card from your Deck on top of your Deck.<br />● Set 1 \"Void\" Spell/Trap directly from your Deck.",
+    "pend_eff": null,
+    "mnst_eff": "During your Draw Phase, if you have no cards in your hand, instead of conducting your normal draw: You can banish this card from your GY, then activate 1 of these effects;\n● Place 1 \"Infernity\" card from your Deck on top of your Deck.\n● Set 1 \"Void\" Spell/Trap directly from your Deck.",
+    "eff": "During your Draw Phase, if you have no cards in your hand, instead of conducting your normal draw: You can banish this card from your GY, then activate 1 of these effects;\n● Place 1 \"Infernity\" card from your Deck on top of your Deck.\n● Set 1 \"Void\" Spell/Trap directly from your Deck.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "InfernityPawn-GFP2-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "GFP2-EN018",
+            "set": "Ghosts From the Past: The 2nd Haunting",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Infernity"
+        ],
+        "suparc": [
+            "Infernity",
+            "Void"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Replaces normal draw",
+            "Places cards from the player's Deck on the top of the Deck",
+            "Sets from your Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires having no cards in hand",
+            "Variable effects"
+        ]
+    }
+}

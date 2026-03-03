@@ -1,0 +1,89 @@
+{
+    "cid": "558a1e35-b00a-4dd0-a9f6-67a2ea9946cb",
+    "password": "71331215",
+    "kid": 15951,
+    "name": "War Rock Ordeal",
+    "name_jp": "ウォークライ・オーディール",
+    "name_jp_rom": "Wōkurai Ōdīru",
+    "name_jp_tl": "Warcry Ordeal",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can only control 1 \"War Rock Ordeal\". When this card is activated: Place 3 counters on it. When your \"War Rock\" monster destroys an opponent's monster by battle and sends it to their GY: You can remove 1 counter from this card, and if you do, draw 1 card. If the last counter has been removed by this effect, send this card to the GY.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can only control 1 \"War Rock Ordeal\". When this card is activated: Place 3 counters on it. When your \"War Rock\" monster destroys an opponent's monster by battle and sends it to their GY: You can remove 1 counter from this card, and if you do, draw 1 card. If the last counter has been removed by this effect, send this card to the GY.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "WarRockOrdeal-BLVO-EN-C-1E.png",
+            "art": "WarRockOrdeal-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "WarRockOrdeal-WPP2-JP-C.png",
+            "art": "WarRockOrdeal-MADU-JP-VG-artwork.png"
+        }
+    },
+    "image": "1",
+    "sets": [
+        {
+            "sid": "BLVO-EN098",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Unclassified, Effect, Trigger-like, Continuous-like"
+        ],
+        "mentions": [
+            "War Rock Ordeal"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "War Rock"
+        ],
+        "suparc": [
+            "War Rock"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Counter (counter)",
+            "Places counters on itself",
+            "Removes counters from itself"
+        ],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "You draw cards",
+            "Sends itself from field to Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Control only one",
+            "Requires control of specific archetype"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "cid": "2b7570eb-2325-426d-b39c-b5f194bb2691",
+    "password": "71578874",
+    "kid": 11959,
+    "name": "Performage Mirror Conductor",
+    "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>ミラー・コンダクター",
+    "name_jp_rom": "Entameiji Mirā Kondakutā",
+    "name_jp_tl": "Entermage Mirror Conductor",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 600,
+    "def": 1400,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 3,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).\n\n[ Monster Effect ] \nOnce per turn, during either player's turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.",
+    "pend_eff": "Once per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).",
+    "mnst_eff": "Once per turn, during either player's turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.",
+    "eff": "Once per turn, during either player's turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformageMirrorConductor-MP16-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DOCS-EN015",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP16-EN118",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like"
+        ],
+        "eff_types": [
+            "Quick"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performage"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your monsters lose ATK",
+            "Your monsters lose DEF",
+            "Your opponent's monsters lose ATK",
+            "Your opponent's monsters lose DEF",
+            "Switches ATK and DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages you"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

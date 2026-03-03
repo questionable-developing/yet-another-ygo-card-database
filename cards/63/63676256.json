@@ -1,0 +1,87 @@
+{
+    "cid": "ca880d51-8c10-4b13-b67e-141fc205a268",
+    "password": "63676256",
+    "kid": 9493,
+    "name": "Buster Blaster",
+    "name_jp": "バスター・ショットマン",
+    "name_jp_rom": "Basutā Shottoman",
+    "name_jp_tl": "Buster Shotman",
+    "type": "Monster",
+    "attribute": "EARTH",
+    "pend": false,
+    "subtypes": [
+        "Machine",
+        "Union"
+    ],
+    "atk": 0,
+    "def": 0,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, the equipped monster loses 500 ATK and DEF. If the equipped monster destroys an opponent's monster by battle: Destroy all face-up monsters on the field with the same Monster Type as the destroyed monster. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": null,
+    "flavor": "Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, the equipped monster loses 500 ATK and DEF. If the equipped monster destroys an opponent's monster by battle: Destroy all face-up monsters on the field with the same Monster Type as the destroyed monster. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BusterBlaster-DT06-EN-DNPR-DT.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXVC-EN022",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition, Ignition-like, Continuous-like, Trigger-like, Condition, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [
+            "Union monster"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "Equips self from field"
+        ],
+        "stat_change": [
+            "Equipped loses ATK",
+            "Equipped loses DEF"
+        ],
+        "mst": [
+            "Destroys your opponent's face-up Monster Cards",
+            "Redirects destruction",
+            "Destroys itself",
+            "Treated as Equip Card"
+        ],
+        "summoning": [
+            "Special Summons itself from your Spell & Trap Zone"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

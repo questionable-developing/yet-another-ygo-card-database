@@ -1,0 +1,86 @@
+{
+    "cid": "26f1b1b0-5669-485f-b2d0-0f10068501b9",
+    "yid": 11035075,
+    "password": "11035075",
+    "kid": 22182,
+    "name": "Shichi-Go-San",
+    "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>誤</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>算</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shichigosan Shugo",
+    "name_jp_tl": "Grave Miscalculation Safeguard",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Special Summon 1 Level/Rank 1 monster from either GY to your field, and if you do, equip this card to it. Once per turn, during the End Phase: Increase the equipped monster's Level/Rank by 1. Apply the following effects based on the equipped monster's Level/Rank.<br />● 3+: It gains ATK equal to its original ATK.<br />● 5+: It is unaffected by your opponent's activated effects.<br />Once per turn, during your Standby Phase, if the equipped monster's Level/Rank is 7 or higher: Send all cards on the field to the GY.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Special Summon 1 Level/Rank 1 monster from either GY to your field, and if you do, equip this card to it. Once per turn, during the End Phase: Increase the equipped monster's Level/Rank by 1. Apply the following effects based on the equipped monster's Level/Rank.\n● 3+: It gains ATK equal to its original ATK.\n● 5+: It is unaffected by your opponent's activated effects.\nOnce per turn, during your Standby Phase, if the equipped monster's Level/Rank is 7 or higher: Send all cards on the field to the GY.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ShichiGoSan-BPRO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BPRO-EN080",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips self from field",
+            "Sends from field to Graveyard"
+        ],
+        "stat_change": [
+            "Equipped gains Levels",
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Treated as Equip Card",
+            "Unaffected by activated card effects",
+            "Unaffected by the opponent's card effects"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Special Summons from your opponent's Graveyard"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "During the Standby Phase",
+            "Variable effects"
+        ]
+    },
+    "links": {}
+}

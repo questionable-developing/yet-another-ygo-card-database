@@ -1,0 +1,98 @@
+{
+    "cid": "4ccd906d-b1c4-4a8e-88ef-7d68eb017c81",
+    "password": "65472618",
+    "kid": 11871,
+    "name": "Dragodies, the Empowered Warrior",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> ドラゴディウス",
+    "name_jp_rom": "Masōsenshi Doragodiusu",
+    "name_jp_tl": "Dragodies, the Magic-Equipped Warrior",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": true,
+    "subtypes": [
+        "Warrior",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1500,
+    "def": 1500,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 2,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nAt the start of the Damage Step, if a monster you control battles an opponent's face-up monster: You can discard 1 card; the opponent's battling monster's ATK and DEF become half its current ATK and DEF (even if this card leaves the field).\n\n[ Monster Effect ] \nIf this card in its owner's Monster Zone is destroyed by your opponent's attack or card effect: You can add 1 Warrior or Spellcaster-Type monster with 2000 or less ATK from your Deck to your hand, except \"Dragodies, the Empowered Warrior\", during the End Phase of this turn.",
+    "pend_eff": "At the start of the Damage Step, if a monster you control battles an opponent's face-up monster: You can discard 1 card; the opponent's battling monster's ATK and DEF become half its current ATK and DEF (even if this card leaves the field).",
+    "mnst_eff": "If this card in its owner's Monster Zone is destroyed by your opponent's attack or card effect: You can add 1 Warrior or Spellcaster-Type monster with 2000 or less ATK from your Deck to your hand, except \"Dragodies, the Empowered Warrior\", during the End Phase of this turn.",
+    "eff": "If this card in its owner's Monster Zone is destroyed by your opponent's attack or card effect: You can add 1 Warrior or Spellcaster-Type monster with 2000 or less ATK from your Deck to your hand, except \"Dragodies, the Empowered Warrior\", during the End Phase of this turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DragodiestheEmpoweredWarrior-MP17-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TDIL-EN093",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP17-EN120",
+            "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger-like"
+        ],
+        "eff_types": [
+            "Trigger"
+        ],
+        "mentions": [
+            "Dragodies, the Empowered Warrior"
+        ],
+        "sup": [
+            "Warrior",
+            "Spellcaster"
+        ],
+        "asup": [],
+        "arc": [
+            "Empower",
+            "Empowered Warrior"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You discard for cost",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK",
+            "Your opponent's monsters lose DEF",
+            "Halves ATK",
+            "Halves DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

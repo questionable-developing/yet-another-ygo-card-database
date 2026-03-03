@@ -1,0 +1,88 @@
+{
+    "cid": "712d330d-42cd-413b-8fc8-8fb4ab0f2fd3",
+    "yid": null,
+    "password": "03461403",
+    "kid": 19209,
+    "name": "The Immortal Bushi Mourns the Mortal Body",
+    "name_jp": "<ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>悼</rb><rp> (</rp><rt>いた</rt><rp>)</rp></ruby>み",
+    "name_jp_rom": "Fushibushi no Itami",
+    "name_jp_tl": "Mourning of the Immortal Samurai",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "All monsters in your GY become Warrior monsters. Once per turn, during the End Phase: You can destroy all monsters you control.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "All monsters in your GY become Warrior monsters. Once per turn, during the End Phase: You can destroy all monsters you control.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TheImmortalBushiMournstheMortalBody-AGOV-JP-NR.png",
+            "art": "TheImmortalBushiMournstheMortalBody-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "TheImmortalBushiMournstheMortalBody-MP24-EN-C-1E.png",
+            "art": "TheImmortalBushiMournstheMortalBody-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "AGOV-EN067",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN397",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Warrior"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Changes Types in the Graveyard"
+        ],
+        "mst": [
+            "Destroys your Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

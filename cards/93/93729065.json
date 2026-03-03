@@ -1,0 +1,112 @@
+{
+    "cid": "a2f2caae-03b7-472a-9a08-237e1514a943",
+    "password": "93729065",
+    "kid": 16428,
+    "name": "Starving Venemy Dragon",
+    "name_jp": "スターヴ・ヴェネミー・ドラゴン",
+    "name_jp_rom": "Sutāvu Venemī Doragon",
+    "name_jp_tl": "Starve Venemy Dragon",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Dragon",
+        "Fusion",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 2500,
+    "def": 2000,
+    "lrl": 7,
+    "level": 7,
+    "rank": null,
+    "scale": 1,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nEach time a card(s) is sent from the field to the GY, place 1 Venemy Counter on this card for each sent card. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field. Once per turn, you can reduce the battle damage you take to 0.\n\n[ Monster Effect ] \n1 DARK monster + 1 Pendulum Monster\nYou can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name and replace this effect with that monster's original effects, then, that monster loses 500 ATK/DEF, its effects are negated, also inflict 500 damage to your opponent. You can only use this effect of \"Starving Venemy Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "pend_eff": "Each time a card(s) is sent from the field to the GY, place 1 Venemy Counter on this card for each sent card. All monsters on the field, except DARK Dragon monsters, lose 200 ATK for each Venemy Counter on the field. Once per turn, you can reduce the battle damage you take to 0.",
+    "mnst_eff": "1 DARK monster + 1 Pendulum Monster\nYou can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name and replace this effect with that monster's original effects, then, that monster loses 500 ATK/DEF, its effects are negated, also inflict 500 damage to your opponent. You can only use this effect of \"Starving Venemy Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "eff": "1 DARK monster + 1 Pendulum Monster\nYou can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name and replace this effect with that monster's original effects, then, that monster loses 500 ATK/DEF, its effects are negated, also inflict 500 damage to your opponent. You can only use this effect of \"Starving Venemy Dragon\" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "StarvingVenemyDragon-BROL-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BROL-EN034",
+            "set": "Brothers of Legend",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Continuous-like, Continuous-like, Continuous-like"
+        ],
+        "eff_types": [
+            "Ignition, Condition, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "DARK",
+            "Dragon",
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Starving Venom",
+            "Venom",
+            "Fusion Dragon",
+            "Four Dimension Dragons"
+        ],
+        "counter": [
+            "Venemy Counter",
+            "Places counters on itself"
+        ],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Goes to Pendulum Zone"
+        ],
+        "stat_change": [
+            "All monsters lose ATK",
+            "Changes own name while on the field",
+            "Copies name",
+            "Copies effects",
+            "Your opponent's monsters lose ATK",
+            "Your opponent's monsters lose DEF"
+        ],
+        "mst": [
+            "Negates the effects of your opponent's Effect Monsters"
+        ],
+        "summoning": [
+            "2 Fusion Materials",
+            "Requires Attribute specific Fusion Materials",
+            "Requires Pendulum Monsters as Fusion Materials"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Reduces battle damage",
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Archetype-exclusion condition",
+            "Fusion Pendulum Monster",
+            "Limited activations",
+            "Only once per turn",
+            "Cover card"
+        ]
+    }
+}

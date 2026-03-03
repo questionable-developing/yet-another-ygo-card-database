@@ -1,0 +1,91 @@
+{
+    "cid": "56e636ad-75d4-4def-ae59-03a80652c2c9",
+    "password": "87468732",
+    "kid": 15991,
+    "name": "Clock Arc",
+    "name_jp": "<ruby lang=\"jp\"><rb>変</rb><rp> (</rp><rt>へん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>咎</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby> クロックアーク",
+    "name_jp_rom": "Hendōkikō Kurokkuāku",
+    "name_jp_tl": "Clock Arc, the Fluctuerror Orchanism",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Machine",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 600,
+    "def": 1200,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 4,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nIf you control no monsters, or only Pendulum Monsters, apply this effect, based on this card's Pendulum Zone.\n● Left: Reduce its Pendulum Scale by 3.\n● Right: Increase its Pendulum Scale by 4.\nDuring your opponent's Standby Phase: You can Special Summon this card.\n\n[ Monster Effect ] \nIf this card is Special Summoned to a zone that is not the center Main Monster Zone, destroy it. Cannot be destroyed by battle. Once per turn, during your opponent's End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, place this card in your Pendulum Zone.",
+    "pend_eff": "If you control no monsters, or only Pendulum Monsters, apply this effect, based on this card's Pendulum Zone.\n● Left: Reduce its Pendulum Scale by 3.\n● Right: Increase its Pendulum Scale by 4.\nDuring your opponent's Standby Phase: You can Special Summon this card.",
+    "mnst_eff": "If this card is Special Summoned to a zone that is not the center Main Monster Zone, destroy it. Cannot be destroyed by battle. Once per turn, during your opponent's End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, place this card in your Pendulum Zone.",
+    "eff": "If this card is Special Summoned to a zone that is not the center Main Monster Zone, destroy it. Cannot be destroyed by battle. Once per turn, during your opponent's End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, place this card in your Pendulum Zone.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ClockArc-LIOV-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LIOV-EN030",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Continuous-like, Trigger-like"
+        ],
+        "eff_types": [
+            "Continuous, Continuous, Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Special Summon",
+            "Places from field to Pendulum Zone"
+        ],
+        "stat_change": [
+            "Reduces Pendulum Scale",
+            "Increases Pendulum Scale"
+        ],
+        "mst": [
+            "Destroys itself",
+            "Destroys your face-up Spell Cards"
+        ],
+        "summoning": [
+            "Special Summons itself from your Pendulum Zone"
+        ],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of no monsters",
+            "Limited activations",
+            "Requires control of specific Monster card type",
+            "During the Standby Phase"
+        ]
+    }
+}

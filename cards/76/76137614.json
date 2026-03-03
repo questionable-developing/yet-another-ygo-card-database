@@ -1,0 +1,85 @@
+{
+    "cid": "3cb38c3e-a10e-4506-908a-19469182bb1e",
+    "password": "76137614",
+    "kid": 8133,
+    "name": "Disenchanter",
+    "name_jp": "<ruby lang=\"jp\"><rb>聖なる解呪師</rb><rp> (</rp><rt>セイント・ディスエンチャンター</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Seinto Disuenchantā",
+    "name_jp_tl": "Saint Disenchanter",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "atk": 2000,
+    "def": 2300,
+    "lrl": 5,
+    "level": 5,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+    "pend_eff": null,
+    "mnst_eff": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+    "eff": "Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Disenchanter-SR08-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SDSC-EN002",
+            "set": "Spellcaster's Command Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR08-EN013",
+            "set": "Structure Deck: Order of the Spellcasters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Spell Counter",
+            "Removes counters"
+        ],
+        "action": [
+            "Returns from field to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Archetype-exclusion condition",
+            "Limited activations"
+        ]
+    }
+}

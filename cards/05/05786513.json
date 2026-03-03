@@ -1,0 +1,92 @@
+{
+    "cid": "de6af982-6aae-4d1a-a0ac-963c78407824",
+    "yid": null,
+    "password": "05786513",
+    "kid": 19893,
+    "name": "Turn Silence",
+    "name_jp": "<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>沈</rb><rp> (</rp><rt>ちん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黙</rb><rp> (</rp><rt>もく</rt><rp>)</rp></ruby>－ターン・サイレンス",
+    "name_jp_rom": "Toki no Chinmoku - Tān Sairensu",
+    "name_jp_tl": "Silence of Time - Turn Silence",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-up monster you control; increase its Level by 3, also if you activated this card in response to your opponent's monster effect activation, while you control \"Shining Sarcophagus\" and a monster that mentions it, negate that opponent's effect. During damage calculation, if your monster that mentions \"Shining Sarcophagus\" battles: You can banish this card from your GY; end the Battle Phase. You can only activate 1 \"Turn Silence\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-up monster you control; increase its Level by 3, also if you activated this card in response to your opponent's monster effect activation, while you control \"Shining Sarcophagus\" and a monster that mentions it, negate that opponent's effect. During damage calculation, if your monster that mentions \"Shining Sarcophagus\" battles: You can banish this card from your GY; end the Battle Phase. You can only activate 1 \"Turn Silence\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TurnSilence-MP25-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LEDE-EN052",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP25-EN192",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Shining Sarcophagus"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Shining Sarcophagus (series)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Ends the Battle Phase"
+        ],
+        "stat_change": [
+            "Your monsters gain Levels"
+        ],
+        "mst": [
+            "Negates the effects of your opponent's Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific card",
+            "Mentions",
+            "Only once per turn"
+        ]
+    }
+}

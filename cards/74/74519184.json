@@ -1,0 +1,107 @@
+{
+    "cid": "6b6ab758-e040-454b-a3ec-2567461f1fbf",
+    "password": "74519184",
+    "kid": 7389,
+    "name": "Hand Destruction",
+    "name_jp": "<ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>て</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>札</rb><rp> (</rp><rt>ふだ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tefuda Dansatsu",
+    "name_jp_tl": "Hand Severing",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "HandDestruction-SR06-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DP07-EN018",
+            "set": "Duelist Pack: Jesse Anderson",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TU01-EN014",
+            "set": "Turbo Pack: Booster One",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDMM-EN028",
+            "set": "Machina Mayhem Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDOK-EN028",
+            "set": "Onslaught of the Fire Kings Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR02-EN030",
+            "set": "Rise of the True Dragons Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR06-EN025",
+            "set": "Structure Deck: Lair of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your hand to your Graveyard",
+            "Sends from your opponent's hand to your opponent's Graveyard",
+            "You draw cards",
+            "Your opponent draws cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

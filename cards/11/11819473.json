@@ -1,0 +1,88 @@
+{
+    "cid": "5e334850-2ae5-4e9f-9fa8-871d6d00148e",
+    "yid": null,
+    "password": "11819473",
+    "kid": 15543,
+    "name": "Arcana Reading",
+    "name_jp": "アルカナリーディング",
+    "name_jp_rom": "Arukana Rīdingu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Toss a coin and apply this effect. If \"Light Barrier\" is in your Field Zone, you can choose the effect instead.<br />● Heads: Add 1 card from your Deck to your hand that has a coin tossing effect, except \"Arcana Reading\".<br />● Tails: Your opponent adds 1 card from their Deck to their hand.<br />You can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 \"Arcana Force\" monster.<br />You can only use each effect of \"Arcana Reading\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Toss a coin and apply this effect. If \"Light Barrier\" is in your Field Zone, you can choose the effect instead.\n● Heads: Add 1 card from your Deck to your hand that has a coin tossing effect, except \"Arcana Reading\".\n● Tails: Your opponent adds 1 card from their Deck to their hand.\nYou can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 \"Arcana Force\" monster.\nYou can only use each effect of \"Arcana Reading\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ArcanaReading-SGX4-NA-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHRA-EN064",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Light Barrier",
+            "Arcana Reading"
+        ],
+        "sup": [
+            "Coin toss"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Arcana Force"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Allows multiple Normal Summons",
+            "Performs a Normal Summon"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Coin toss",
+            "Variable effects",
+            "Requires control of specific card",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "cid": "8afc4ace-3a2e-4379-87ef-537a3e0fb45d",
+    "password": "78199891",
+    "kid": 18026,
+    "name": "Mikanko Rivalry",
+    "name_jp": "<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby>かみくらべ",
+    "name_jp_rom": "Mikanko Kamikurabe",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you control a \"Mikanko\" monster: Target 1 face-up monster on the field; equip it with 1 Equip Spell from your Deck that can equip to it. If an Equip Spell(s) is sent to your GY, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 Equip Spell in your GY; add it to your hand. You can only use each effect of \"Mikanko Rivalry\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you control a \"Mikanko\" monster: Target 1 face-up monster on the field; equip it with 1 Equip Spell from your Deck that can equip to it. If an Equip Spell(s) is sent to your GY, while this card is in your GY (except during the Damage Step): You can banish this card, then target 1 Equip Spell in your GY; add it to your hand. You can only use each effect of \"Mikanko Rivalry\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MikankoRivalry-TTP1-JP-C.png",
+            "art": "MikankoRivalry-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "MikankoRivalry-AMDE-EN-R-1E.png",
+            "art": "MikankoRivalry-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "AMDE-EN036",
+            "set": "Amazing Defenders",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Equip Spell Card"
+        ],
+        "asup": [],
+        "arc": [
+            "Mikanko"
+        ],
+        "suparc": [
+            "Mikanko"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips from the player's Deck",
+            "Activates from your Graveyard",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

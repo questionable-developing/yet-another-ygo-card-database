@@ -1,0 +1,106 @@
+{
+    "cid": "66a206f9-e571-4c72-aff1-6fa3500dcaef",
+    "password": "94585852",
+    "kid": 5791,
+    "name": "Pandemonium",
+    "name_jp": "<ruby lang=\"jp\"><rb>万魔殿</rb><rp> (</rp><rt>パンディモニウム</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>巣</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>窟</rb><rp> (</rp><rt>くつ</rt><rp>)</rp></ruby>－",
+    "name_jp_rom": "Pandimoniumu -Akuma no Sōkutsu-",
+    "name_jp_tl": "Pandemonium -Demon's Den-",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Neither player has to pay LP during the Standby Phase for \"Archfiend\" monsters. When an \"Archfiend\" monster is destroyed and sent to the GY, except by battle: Its owner can add 1 \"Archfiend\" monster from their Deck to their hand with a lower Level than the destroyed card.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Neither player has to pay LP during the Standby Phase for \"Archfiend\" monsters. When an \"Archfiend\" monster is destroyed and sent to the GY, except by battle: Its owner can add 1 \"Archfiend\" monster from their Deck to their hand with a lower Level than the destroyed card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Pandemonium-DCR-EN-C-UE-25thAnniversaryEdition.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DR1-EN256",
+            "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DCR-EN094",
+            "set": "Dark Crisis",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "GLD1-EN037",
+            "set": "Gold Series",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SGX3-ENE14",
+            "set": "Speed Duel GX: Duelists of Shadows",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DCR-EN094",
+            "set": "Dark Crisis (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Archfiend"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Field Searcher",
+            "Zera"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by card effect",
+            "Adds from Deck to hand",
+            "Changes cost"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

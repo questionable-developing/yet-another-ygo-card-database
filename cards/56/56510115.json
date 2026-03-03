@@ -1,0 +1,90 @@
+{
+    "cid": "72ab9595-c461-4173-86a1-4dad25a422ae",
+    "password": "56510115",
+    "kid": 18528,
+    "name": "Solfachord Symphony",
+    "name_jp": "ドレミコード・シンフォニア",
+    "name_jp_rom": "Doremikōdo Shinfonia",
+    "name_jp_tl": "Doremichord Symphonia",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Apply these effects, in sequence, based on the number of face-up \"Solfachord\" Pendulum Monsters with different names in your Extra Deck.<br />● 3+: \"Solfachord\" Pendulum Monsters you control gain ATK equal to their own Pendulum Scale x 300 this turn.<br />● 5+: You can destroy 1 card your opponent controls, then if you have an odd Pendulum Scale in your Pendulum Zone, draw 1 card.<br />● 7+: You can Special Summon 1 \"GranSolfachord\" monster from your Extra Deck.<br />You can only activate 1 \"Solfachord Symphony\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Apply these effects, in sequence, based on the number of face-up \"Solfachord\" Pendulum Monsters with different names in your Extra Deck.\n● 3+: \"Solfachord\" Pendulum Monsters you control gain ATK equal to their own Pendulum Scale x 300 this turn.\n● 5+: You can destroy 1 card your opponent controls, then if you have an odd Pendulum Scale in your Pendulum Zone, draw 1 card.\n● 7+: You can Special Summon 1 \"GranSolfachord\" monster from your Extra Deck.\nYou can only activate 1 \"Solfachord Symphony\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SolfachordSymphony-CYAC-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CYAC-EN065",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Solfachord"
+        ],
+        "suparc": [
+            "Solfachord",
+            "GranSolfachord"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You draw cards"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [
+            "Destroys your opponent's Monster Cards",
+            "Destroys your opponent's Spell Cards",
+            "Destroys your opponent's Trap Cards"
+        ],
+        "summoning": [
+            "Special Summons from your Extra Deck"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Requires control of specific archetype",
+            "Requires control of specific Monster type",
+            "Requires control of specific Pendulum Scale",
+            "Only once per turn"
+        ]
+    }
+}

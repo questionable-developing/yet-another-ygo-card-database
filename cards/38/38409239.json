@@ -1,0 +1,85 @@
+{
+    "cid": "56ff9dd8-dc2f-43e3-a43e-dfa66f23149d",
+    "password": "38409239",
+    "kid": 18040,
+    "name": "Ghoti Cosmos",
+    "name_jp": "ゴーティス・コスモス",
+    "name_jp_rom": "Gōtisu Kosumosu",
+    "name_jp_tl": "Ghotis Cosmos",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Apply these effects in sequence, based on the number of banished Fish monsters.<br />● 1+: Your Fish monsters cannot be destroyed by battle this turn.<br />● 4+: The activation and effects of Fish monster effects activated on your field cannot be negated this turn.<br />● 8+: Special Summon 1 Fish Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)<br />You can only activate 1 \"Ghoti Cosmos\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Apply these effects in sequence, based on the number of banished Fish monsters.\n● 1+: Your Fish monsters cannot be destroyed by battle this turn.\n● 4+: The activation and effects of Fish monster effects activated on your field cannot be negated this turn.\n● 8+: Special Summon 1 Fish Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)\nYou can only activate 1 \"Ghoti Cosmos\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GhotiCosmos-DABL-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DABL-EN090",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Fish",
+            "Synchro Monster"
+        ],
+        "asup": [
+            "Fish"
+        ],
+        "arc": [
+            "Ghoti"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Prevents the negation of activations",
+            "Prevents the negation of card effects"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Extra Deck",
+            "Treats Special Summon as Synchro Summon"
+        ],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

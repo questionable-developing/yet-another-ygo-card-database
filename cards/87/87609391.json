@@ -1,0 +1,86 @@
+{
+    "cid": "eefc212d-6607-4131-8732-b31988b3e4be",
+    "password": "87609391",
+    "kid": 11999,
+    "name": "Raptor's Ultimate Mace",
+    "name_jp": "ラプターズ・アルティメット・メイス",
+    "name_jp_rom": "Raputāzu Arutimetto Meisu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a \"Raidraptor\" monster. It gains 1000 ATK. When the equipped monster is targeted for an attack by a monster whose ATK is higher than the equipped monster: You can add 1 \"Rank-Up-Magic\" Spell Card from your Deck to your hand, and if you do, you take no battle damage from that battle.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a \"Raidraptor\" monster. It gains 1000 ATK. When the equipped monster is targeted for an attack by a monster whose ATK is higher than the equipped monster: You can add 1 \"Rank-Up-Magic\" Spell Card from your Deck to your hand, and if you do, you take no battle damage from that battle.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RaptorsUltimateMace-MP16-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DOCS-EN055",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP16-EN145",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Raidraptor",
+            "Rank-Up-Magic"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if targeted for an attack",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Prevents battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

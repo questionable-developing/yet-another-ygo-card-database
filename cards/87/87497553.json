@@ -1,0 +1,96 @@
+{
+    "cid": "df2c30ad-46c9-41f1-9f8f-a97c1b5fdb9f",
+    "password": "87497553",
+    "kid": 14311,
+    "name": "Crusadia Testament",
+    "name_jp": "テスタメント・パラディオン",
+    "name_jp_rom": "Tesutamento Paradion",
+    "name_jp_tl": "Testament Palladion",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate 1 of these effects.<br />● Your opponent cannot activate cards or effects in response to the activation of your \"Crusadia\" monster effects this turn.<br />● After damage calculation, if your \"Crusadia\" Link Monster destroys an opponent's monster by battle: Draw cards equal to your monster's Link Rating.<br />You can only activate 1 \"Crusadia Testament\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate 1 of these effects.\n● Your opponent cannot activate cards or effects in response to the activation of your \"Crusadia\" monster effects this turn.\n● After damage calculation, if your \"Crusadia\" Link Monster destroys an opponent's monster by battle: Draw cards equal to your monster's Link Rating.\nYou can only activate 1 \"Crusadia Testament\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CrusadiaTestament-DANE-JP-C.png",
+            "art": "CrusadiaTestament-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "CrusadiaTestament-MP20-EN-R-1E.png",
+            "art": "CrusadiaTestament-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "DANE-EN061",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP20-EN078",
+            "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Link Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Crusadia"
+        ],
+        "suparc": [
+            "Crusadia"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents responding to its activation",
+            "Prevents activation of your opponent's Effect Monsters",
+            "Prevents activation of your opponent's Spell Cards",
+            "Prevents activation of your opponent's Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Variable effects"
+        ]
+    }
+}

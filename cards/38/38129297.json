@@ -1,0 +1,85 @@
+{
+    "cid": "c19dddaa-37a4-4482-bdd3-f65e4bb8e3a8",
+    "yid": 38129297,
+    "password": "38129297",
+    "kid": 22155,
+    "name": "Double Interlock",
+    "name_jp": "ダブル・トリガー",
+    "name_jp_rom": "Daburu Torigā",
+    "name_jp_tl": "Double Trigger",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate 1 of these effects (but you can only use each effect of \"Double Interlock\" once per turn);<br />● Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing its materials from your GY, including a \"Rokket\" monster.<br />● Ritual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed its Level, including a \"Rokket\" monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate 1 of these effects (but you can only use each effect of \"Double Interlock\" once per turn);\n● Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing its materials from your GY, including a \"Rokket\" monster.\n● Ritual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed its Level, including a \"Rokket\" monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DoubleInterlock-BPRO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BPRO-EN052",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Rokket"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Uses cards in the player's Graveyard as Fusion Materials",
+            "Must include particular Fusion Materials",
+            "Must include particular monsters for Ritual Summon"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Performs a Fusion Summon",
+            "Performs a Ritual Summon"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes from your Graveyard",
+            "Banishes Fusion Materials used in a Fusion Summon",
+            "Banishes monsters from Graveyard for Ritual Summon"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

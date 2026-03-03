@@ -1,0 +1,82 @@
+{
+    "cid": "987edb4b-ff72-4a5c-9bed-aaca0ee8f298",
+    "password": "44092304",
+    "kid": 17178,
+    "name": "Parasomnia Pillow",
+    "name_jp": "<ruby lang=\"jp\"><rb>夢迷枕</rb><rp> (</rp><rt>ゆめまくら</rt><rp>)</rp></ruby>パラソムニア",
+    "name_jp_rom": "Yumemakura Parasomunia",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During the End Phase: You can destroy the equipped monster. If this card is sent to the GY because the equipped monster was destroyed and sent to the GY: Special Summon 1 \"Parasomnia Token\" (Level 1/ATK ?/DEF 0) with the equipped monster's original Type, Attribute, and ATK, then equip this card to that Token. You can only use each effect of \"Parasomnia Pillow\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During the End Phase: You can destroy the equipped monster. If this card is sent to the GY because the equipped monster was destroyed and sent to the GY: Special Summon 1 \"Parasomnia Token\" (Level 1/ATK ?/DEF 0) with the equipped monster's original Type, Attribute, and ATK, then equip this card to that Token. You can only use each effect of \"Parasomnia Pillow\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ParasomniaPillow-DIFO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DIFO-EN067",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Parasomnia Token"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Equips self from Graveyard"
+        ],
+        "stat_change": [
+            "Changes Type",
+            "Changes Attribute",
+            "Changes ATK value"
+        ],
+        "mst": [
+            "Destroys equipped"
+        ],
+        "summoning": [
+            "Special Summons Tokens"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

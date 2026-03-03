@@ -1,0 +1,106 @@
+{
+    "cid": "57d27cfc-ac36-419b-8c7a-52cbce92821b",
+    "yid": null,
+    "password": "36708764",
+    "kid": 4820,
+    "name": "Roulette Spider",
+    "name_jp": "ルーレット・スパイダー",
+    "name_jp_rom": "Rūretto Supaidā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When an opponent's monster declares an attack: Roll a six-sided die and apply the result.<br />1: Halve your LP.<br />2: Make that attack a direct attack.<br />3: Choose 1 monster you control, change the attack target to it, and perform damage calculation.<br />4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation.<br />5: Negate the attack, and if you do, inflict damage to your opponent equal to that monster's ATK.<br />6: Destroy that opponent's monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When an opponent's monster declares an attack: Roll a six-sided die and apply the result.\n1: Halve your LP.\n2: Make that attack a direct attack.\n3: Choose 1 monster you control, change the attack target to it, and perform damage calculation.\n4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation.\n5: Negate the attack, and if you do, inflict damage to your opponent equal to that monster's ATK.\n6: Destroy that opponent's monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RouletteSpider-SBC1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DRL2-EN014",
+            "set": "Dragons of Legend 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LDK2-ENJ30",
+            "set": "Legendary Decks II",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DLCS-EN065",
+            "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SBC1-ENB10",
+            "set": "Speed Duel: Streets of Battle City",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Allows direct attacks",
+            "Changes attack targets",
+            "Conducts damage calculation",
+            "Negates attacks",
+            "Conducts battle between your opponent's monsters"
+        ],
+        "banished": [],
+        "life_points": [
+            "You lose Life Points",
+            "Damages your opponent",
+            "Halves the player's LP"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Die roll",
+            "Variable effects"
+        ]
+    }
+}

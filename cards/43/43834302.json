@@ -1,0 +1,104 @@
+{
+    "cid": "8ffd1608-2892-44b0-ab45-53f9a06b23d8",
+    "yid": 43834302,
+    "password": "43834302",
+    "kid": 21905,
+    "name": "Synchro Fellowship",
+    "name_jp": "シンクロ・フェローズ",
+    "name_jp_rom": "Shinkuro Ferōzu",
+    "name_jp_tl": "Synchro Fellows",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Add 2 monsters from your Deck to your hand (1 \"Junk Synchron\" and 1 monster that mentions \"Junk Warrior\" or \"Stardust Dragon\"), then discard 1 card. You can banish this card from your GY, then target 1 Synchro Monster you control; reduce its Level by 1, then you can Normal Summon 1 \"Synchron\" monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can only activate 1 \"Synchro Fellowship\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Add 2 monsters from your Deck to your hand (1 \"Junk Synchron\" and 1 monster that mentions \"Junk Warrior\" or \"Stardust Dragon\"), then discard 1 card. You can banish this card from your GY, then target 1 Synchro Monster you control; reduce its Level by 1, then you can Normal Summon 1 \"Synchron\" monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can only activate 1 \"Synchro Fellowship\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SynchroFellowship-SD48-JP-NPR.png",
+            "art": "SynchroFellowship-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "SynchroFellowship-L5DD-EN-UR-1E.png",
+            "art": "SynchroFellowship-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "L5DD-ENY05",
+            "set": "Legendary 5D's Decks",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Junk Synchron",
+            "Junk Warrior",
+            "Stardust Dragon"
+        ],
+        "sup": [
+            "Synchro Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Synchro (archetype)",
+            "Rose"
+        ],
+        "suparc": [
+            "Synchron"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Junk",
+            "Warrior (archetype)",
+            "Stardust (archetype)"
+        ],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "You discard as an effect",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Your monsters lose Levels"
+        ],
+        "mst": [],
+        "summoning": [
+            "Allows multiple Normal Summons"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Mentions",
+            "Requires control of specific Monster card type",
+            "Gain this effect once per turn",
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

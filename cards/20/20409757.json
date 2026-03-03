@@ -1,0 +1,126 @@
+{
+    "cid": "90b7b791-4d3d-4511-b2f0-1bcb037afd17",
+    "yid": null,
+    "password": "20409757",
+    "kid": 11135,
+    "name": "Timegazer Magician",
+    "name_jp": "<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>とき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>読</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby>みの<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tokiyomi no Majutsushi",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1200,
+    "def": 600,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": 8,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nYou must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n[ Monster Effect ] \nEach turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
+    "pend_eff": "You must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.",
+    "mnst_eff": "Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
+    "eff": "Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TimegazerMagician-LED6-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "YS14-EN010",
+            "set": "Super Starter: Space-Time Showdown",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SP15-EN011",
+            "set": "Star Pack ARC-V",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        },
+        {
+            "sid": "SDMP-EN008",
+            "set": "Master of Pendulum Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YS16-EN010",
+            "set": "Starter Deck: Yuya",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PEVO-EN012",
+            "set": "Pendulum Evolution",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LED6-EN050",
+            "set": "Legendary Duelists: Magical Hero",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Activation requirement, Continuous-like, Continuous-like"
+        ],
+        "eff_types": [
+            "Continuous"
+        ],
+        "mentions": [],
+        "sup": [
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Magician"
+        ],
+        "suparc": [
+            "Magician",
+            "Odd-Eyes"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Applies effect if other Pendulum Zone is not occupied by specific card"
+        ],
+        "stat_change": [
+            "Changes own Pendulum Scale"
+        ],
+        "mst": [
+            "Prevents activation of your opponent's Trap Cards",
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "cid": "aa8185b4-4061-419e-8ee7-73e0a0b1dcf6",
+    "password": "53323475",
+    "kid": 20546,
+    "name": "Puppet Shark",
+    "name_jp": "<ruby lang=\"jp\"><rb>傀</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>儡</rb><rp> (</rp><rt>ぐつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>流</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－パペット・シャーク",
+    "name_jp_rom": "Kugutsu Ryūgi - Papetto Shāku",
+    "name_jp_tl": "Puppet Style - Puppet Shark",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Detach 1 material from a monster on either field, and if you do, excavate the top 4 cards of your Deck, choose 1 of them, and apply the appropriate effect based on its card type, also place the rest on top of the Deck in the same order.<br />● Monster/Spell: Add it to your hand.<br />● Trap: Set it. It can be activated this turn.<br />You can only activate 1 \"Puppet Shark\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Detach 1 material from a monster on either field, and if you do, excavate the top 4 cards of your Deck, choose 1 of them, and apply the appropriate effect based on its card type, also place the rest on top of the Deck in the same order.\n● Monster/Spell: Add it to your hand.\n● Trap: Set it. It can be activated this turn.\nYou can only activate 1 \"Puppet Shark\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PuppetShark-MP25-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ROTA-EN070",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP25-EN423",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Xyz Monster"
+        ],
+        "asup": [
+            "Xyz Monster"
+        ],
+        "arc": [
+            "Puppet",
+            "Shark (archetype)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Detaches Xyz Materials for effect",
+            "Excavates from the player's Deck",
+            "Places excavated cards on the top of the Deck",
+            "Adds excavated cards to the hand",
+            "Sets excavated cards"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Allows activation of Trap Cards the turn they were Set"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

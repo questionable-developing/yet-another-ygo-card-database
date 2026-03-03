@@ -1,0 +1,84 @@
+{
+    "cid": "3e826010-67d2-4a70-9b4f-5ad41296eeaf",
+    "password": "51790181",
+    "kid": 8672,
+    "name": "Pot of Benevolence",
+    "name_jp": "<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Muyoku na Tsubo",
+    "name_jp_tl": "Pot of Selflessness",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 2 cards in the GY(s); shuffle them into the Deck(s). After activation, banish this card instead of sending it to the GY. You can only activate 1 \"Pot of Benevolence\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 2 cards in the GY(s); shuffle them into the Deck(s). After activation, banish this card instead of sending it to the GY. You can only activate 1 \"Pot of Benevolence\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PotofBenevolence-TBC1-EN-UPR-LE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ABPF-EN061",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "TBC1-EN004",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Greed (series)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns from your Graveyard to your Deck",
+            "Returns from your opponent's Graveyard to your opponent's Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from field",
+            "Banishes cards that would be sent to the Graveyard"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

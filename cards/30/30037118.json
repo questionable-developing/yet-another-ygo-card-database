@@ -1,0 +1,87 @@
+{
+    "cid": "a333d350-5acf-4db0-900b-3d14f4906aff",
+    "yid": null,
+    "password": "30037118",
+    "kid": 17144,
+    "name": "Devouring Sarcoughagus",
+    "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>製</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>棺</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>サルコファガス",
+    "name_jp_rom": "Shiseikan Sarukofagasu",
+    "name_jp_tl": "Death-Made Coffin Sarcophagus",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Zombie",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": 0,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is destroyed by battle with an opponent's monster: You can take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. When your Zombie monster is destroyed by battle with an opponent's monster, while this card is in your GY: You can banish this card; take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. You can only use this effect of \"Devouring Sarcoughagus\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "When this card is destroyed by battle with an opponent's monster: You can take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. When your Zombie monster is destroyed by battle with an opponent's monster, while this card is in your GY: You can banish this card; take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. You can only use this effect of \"Devouring Sarcoughagus\" once per turn.",
+    "eff": "When this card is destroyed by battle with an opponent's monster: You can take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. When your Zombie monster is destroyed by battle with an opponent's monster, while this card is in your GY: You can banish this card; take control of that opponent's monster, and if you do, it becomes a Zombie monster, also its ATK/DEF become 0. You can only use this effect of \"Devouring Sarcoughagus\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DevouringSarcoughagus-DIFO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DIFO-EN033",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Zombie"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Takes control of an opponent's monster",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Changes Type",
+            "Changes ATK value",
+            "Changes DEF value",
+            "Reduces ATK to 0",
+            "Reduces DEF to 0"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

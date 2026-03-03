@@ -1,0 +1,92 @@
+{
+    "cid": "0e11efdb-56d4-44d5-816d-0c9aed821ea6",
+    "password": "52430902",
+    "kid": 7891,
+    "name": "Psychic Jumper",
+    "name_jp": "サイコジャンパー",
+    "name_jp_rom": "Saiko Janpā",
+    "name_jp_tl": "Psycho Jumper",
+    "type": "Monster",
+    "attribute": "EARTH",
+    "pend": false,
+    "subtypes": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
+    "atk": 100,
+    "def": 1500,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn: You can pay 1000 LP, then target 1 face-up monster your opponent controls and 1 Psychic-Type monster you control, except \"Psychic Jumper\"; switch control of both those targets, and if you do, their battle positions cannot be changed this turn.",
+    "pend_eff": null,
+    "mnst_eff": "Once per turn: You can pay 1000 LP, then target 1 face-up monster your opponent controls and 1 Psychic-Type monster you control, except \"Psychic Jumper\"; switch control of both those targets, and if you do, their battle positions cannot be changed this turn.",
+    "eff": "Once per turn: You can pay 1000 LP, then target 1 face-up monster your opponent controls and 1 Psychic-Type monster you control, except \"Psychic Jumper\"; switch control of both those targets, and if you do, their battle positions cannot be changed this turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PsychicJumper-BP03-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CSOC-EN023",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP03-EN051",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition"
+        ],
+        "mentions": [
+            "Psychic Jumper"
+        ],
+        "sup": [
+            "Psychic"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Takes control of an opponent's monster",
+            "Gives control of your monster",
+            "Prevents battle position changes"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Requires control of specific Type"
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "cid": "ee0ac13c-def4-4927-937d-6dbe660f9809",
+    "password": "86778566",
+    "kid": 10196,
+    "name": "Impenetrable Attack",
+    "name_jp": "<ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>敵</rb><rp> (</rp><rt>てき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kōgeki no Mutekika",
+    "name_jp_tl": "Attack Invulnerability",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During the Battle Phase, activate 1 of these effects.<br />● Target 1 monster on the field; it cannot be destroyed by battle or by card effects during this Battle Phase.<br />● You take no battle damage during this Battle Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During the Battle Phase, activate 1 of these effects.\n● Target 1 monster on the field; it cannot be destroyed by battle or by card effects during this Battle Phase.\n● You take no battle damage during this Battle Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ImpenetrableAttack-ST13-JP-C.png",
+            "art": "ImpenetrableAttack-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "ImpenetrableAttack-BP02-EN-C-1E.png",
+            "art": "ImpenetrableAttack-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "REDU-EN066",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YS13-EN034",
+            "set": "Super Starter: V for Victory",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP02-EN211",
+            "set": "Battle Pack 2: War of the Giants",
+            "rarities": {
+                "Common": [],
+                "Mosaic Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [],
+        "mst": [
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [
+            "Prevents battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "cid": "e9db2773-3b8b-4775-90b9-5e32a5f273d2",
+    "yid": null,
+    "password": "28531163",
+    "kid": 21838,
+    "name": "Apocavities",
+    "name_jp": "<ruby lang=\"jp\"><rb>黙歯録</rb><rp> (</rp><rt>アポカリエス</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Apokariesu",
+    "name_jp_tl": "Apocaries",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is activated: Place C Counters on this card, equal to the number of cards your opponent controls. You can target 1 face-up monster your opponent controls and remove up to 4 C Counters from your field; apply this effect to that monster, based on the number removed.<br />● 1: It loses 500 ATK.<br />● 2: Its ATK becomes 0.<br />● 3: Its effects are negated.<br />● 4: Destroy it.<br />You can only activate 1 \"Apocavities\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When this card is activated: Place C Counters on this card, equal to the number of cards your opponent controls. You can target 1 face-up monster your opponent controls and remove up to 4 C Counters from your field; apply this effect to that monster, based on the number removed.\n● 1: It loses 500 ATK.\n● 2: Its ATK becomes 0.\n● 3: Its effects are negated.\n● 4: Destroy it.\nYou can only activate 1 \"Apocavities\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Apocavities-DOOD-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DOOD-EN072",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "C Counter",
+            "Places counters on itself",
+            "Removes counters from itself for cost"
+        ],
+        "action": [],
+        "stat_change": [
+            "Your opponent's monsters lose ATK",
+            "Changes ATK value",
+            "Reduces ATK to 0"
+        ],
+        "mst": [
+            "Negates the effects of your opponent's Effect Monsters",
+            "Destroys your opponent's face-up Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

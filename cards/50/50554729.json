@@ -1,0 +1,83 @@
+{
+    "cid": "691fd223-5928-4e45-8fab-dce32faf4418",
+    "password": "50554729",
+    "kid": 12335,
+    "name": "Amorphage Infection",
+    "name_jp": "アモルファージ・インフェクション",
+    "name_jp_rom": "Amorufāji Infekushon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "All \"Amorphage\" monsters on the field gain 100 ATK and DEF for each \"Amorphage\" card on the field. If a monster(s) in your hand or you control is Tributed, or destroyed by battle or card effect: You can add 1 \"Amorphage\" card from your Deck to your hand. You can only use this effect of \"Amorphage Infection\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "All \"Amorphage\" monsters on the field gain 100 ATK and DEF for each \"Amorphage\" card on the field. If a monster(s) in your hand or you control is Tributed, or destroyed by battle or card effect: You can add 1 \"Amorphage\" card from your Deck to your hand. You can only use this effect of \"Amorphage Infection\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AmorphageInfection-SHVI-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SHVI-EN063",
+            "set": "Shining Victories",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Amorphage Infection"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Amorphage"
+        ],
+        "suparc": [
+            "Amorphage"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if Tributed",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "All monsters gain ATK",
+            "All monsters gain DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

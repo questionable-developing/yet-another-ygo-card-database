@@ -1,0 +1,91 @@
+{
+    "cid": "f668588e-73f3-495c-be0d-87678f7a93ed",
+    "yid": null,
+    "password": "20822520",
+    "kid": 10357,
+    "name": "Spellbook Library of the Heliosphere",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>庫</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby>ソレイン",
+    "name_jp_rom": "Madōshoko Sorein",
+    "name_jp_tl": "Spellbook Library Solein",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you have 5 or more \"Spellbook\" Spell Cards in your Graveyard: Excavate the top 2 cards of your Deck, add any excavated \"Spellbook\" Spell Cards to your hand, also shuffle the other cards into the Deck. You can only activate 1 \"Spellbook Library of the Heliosphere\" per turn. You cannot activate any Spell Cards the turn you activate this card, except \"Spellbook\" Spell Cards.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you have 5 or more \"Spellbook\" Spell Cards in your Graveyard: Excavate the top 2 cards of your Deck, add any excavated \"Spellbook\" Spell Cards to your hand, also shuffle the other cards into the Deck. You can only activate 1 \"Spellbook Library of the Heliosphere\" per turn. You cannot activate any Spell Cards the turn you activate this card, except \"Spellbook\" Spell Cards.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SpellbookLibraryoftheHeliosphere-AP05-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ABYR-EN087",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "AP05-EN025",
+            "set": "Astral Pack Five",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect, Condition, Condition"
+        ],
+        "mentions": [
+            "Spellbook Library of the Heliosphere"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Prophecy",
+            "Spellbook"
+        ],
+        "suparc": [
+            "Spellbook"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Excavates from the player's Deck",
+            "Adds excavated cards to the hand",
+            "Adds from Deck to hand",
+            "Shuffles excavated cards into the Deck"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents activation of your Spell Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

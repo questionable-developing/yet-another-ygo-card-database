@@ -1,0 +1,87 @@
+{
+    "cid": "963dabb4-c3f7-4a49-b623-13dd6d3ffefb",
+    "yid": null,
+    "password": "03549275",
+    "kid": 5424,
+    "name": "Dice Jar",
+    "name_jp": "ダイス・ポット",
+    "name_jp_rom": "Daisu Potto",
+    "name_jp_tl": "Dice Pot",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Rock",
+        "Effect"
+    ],
+    "atk": 200,
+    "def": 300,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.",
+    "eff": "FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DiceJar-LCJW-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DB2-EN226",
+            "set": "Dark Beginning 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LCJW-EN262",
+            "set": "Legendary Collection 4: Joey's World Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Flip"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Jar"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages you",
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Die roll"
+        ]
+    }
+}

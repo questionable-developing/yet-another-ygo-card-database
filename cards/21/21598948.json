@@ -1,0 +1,100 @@
+{
+    "cid": "8b17917a-dcf6-41ea-ae4c-3e20bf820003",
+    "yid": null,
+    "password": "21598948",
+    "kid": 5113,
+    "name": "Fairy Box",
+    "name_jp": "モンスター<ruby lang=\"jp\"><rb>ＢＯＸ</rb><rp> (</rp><rt>ボックス</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Monsutā Bokkusu",
+    "name_jp_tl": "Monster Box",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. Once per turn, during your Standby Phase, pay 500 LP, or destroy this card.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. Once per turn, during your Standby Phase, pay 500 LP, or destroy this card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FairyBox-SBC2-NA-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DB1-EN227",
+            "set": "Dark Beginning 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LON-EN024",
+            "set": "Labyrinth of Nightmare",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "DL11-EN018",
+            "set": "Duelist League 2 participation cards",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LCJW-EN076",
+            "set": "Legendary Collection 4: Joey's World Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Maintenance cost"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration"
+        ],
+        "stat_change": [
+            "Reduces ATK to 0"
+        ],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Coin toss",
+            "During the Standby Phase"
+        ]
+    }
+}

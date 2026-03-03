@@ -1,0 +1,84 @@
+{
+    "cid": "52a599d6-7654-4476-9f47-2adcbab4ed76",
+    "yid": null,
+    "password": "13247801",
+    "kid": 15093,
+    "name": "Machina Defense Perimeter",
+    "name_jp": "<ruby lang=\"jp\"><rb>機甲部隊の防衛圏</rb><rp> (</rp><rt>マシンナーズ・ディフェンスリジョン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Mashinnāzu Difensu Rijon",
+    "name_jp_tl": "Machiners Defense Region",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "While you control a Level 7 or higher Machine monster, your opponent's monsters cannot target Level 6 or lower Machine monsters you control for attacks, also your opponent cannot target them with card effects. If a face-up Machine monster(s) you control is destroyed by battle or card effect: You can target 1 Machine monster in your GY; add it to your hand. You can only use this effect of \"Machina Defense Perimeter\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "While you control a Level 7 or higher Machine monster, your opponent's monsters cannot target Level 6 or lower Machine monsters you control for attacks, also your opponent cannot target them with card effects. If a face-up Machine monster(s) you control is destroyed by battle or card effect: You can target 1 Machine monster in your GY; add it to your hand. You can only use this effect of \"Machina Defense Perimeter\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MachinaDefensePerimeter-SR10-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SR10-EN024",
+            "set": "Structure Deck: Mechanized Madness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [
+            "Machina"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents other cards being targeted by card effects"
+        ],
+        "summoning": [],
+        "attack": [
+            "Prevents other cards being targeted for attacks"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Level",
+            "Requires control of specific Type",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "cid": "5114e8f0-2b89-4625-89ed-c4a439e032be",
+    "password": "37984162",
+    "kid": 10897,
+    "name": "Gorgonic Golem",
+    "name_jp": "ゴルゴニック・ゴーレム",
+    "name_jp_rom": "Gorugonikku Gōremu",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Rock",
+        "Effect"
+    ],
+    "atk": 1200,
+    "def": 600,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect's activation.",
+    "pend_eff": null,
+    "mnst_eff": "If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect's activation.",
+    "eff": "If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect's activation.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GorgonicGolem-MP14-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LVAL-EN011",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP03-EN110",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        },
+        {
+            "sid": "MP14-EN192",
+            "set": "2014 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Ignition, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Gorgonic"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Reduces ATK to 0"
+        ],
+        "mst": [
+            "Prevents activation of your opponent's Spell Cards",
+            "Prevents activation of your opponent's Trap Cards",
+            "Prevents responding to its activation"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

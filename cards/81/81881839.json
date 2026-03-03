@@ -1,0 +1,79 @@
+{
+    "cid": "7a5d632b-8c9e-4f64-94e1-2895dd3d01ca",
+    "password": "81881839",
+    "kid": 16434,
+    "name": "Double Exposure",
+    "name_jp": "<ruby lang=\"jp\"><rb>二重露光</rb><rp> (</rp><rt>ダブル・エクスポージャー</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Daburu Ekusupōjā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can target 2 Level 6 or lower monsters with the same name on the field; their Levels are doubled. At the start of the Battle Phase: You can target 1 \"Cipher\" monster you control; choose 1 other face-up monster on the field, and its name becomes that \"Cipher\" monster's, until the End Phase. You can only use each effect of \"Double Exposure\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can target 2 Level 6 or lower monsters with the same name on the field; their Levels are doubled. At the start of the Battle Phase: You can target 1 \"Cipher\" monster you control; choose 1 other face-up monster on the field, and its name becomes that \"Cipher\" monster's, until the End Phase. You can only use each effect of \"Double Exposure\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DoubleExposure-BROL-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BROL-EN040",
+            "set": "Brothers of Legend",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Cipher"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your monsters gain Levels",
+            "Your opponent's monsters gain Levels",
+            "Changes card names",
+            "Copies name"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Level",
+            "At the start of the Battle Phase",
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

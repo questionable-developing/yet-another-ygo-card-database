@@ -1,0 +1,88 @@
+{
+    "cid": "bcdda556-6617-4764-b7ba-c9f6899cad47",
+    "password": "94661166",
+    "kid": 20526,
+    "name": "Incoming Machine!",
+    "name_jp": "<ruby lang=\"jp\"><rb>迫</rb><rp> (</rp><rt>せま</rt><rp>)</rp></ruby>りくる<ruby lang=\"jp\"><rb>機械</rb><rp> (</rp><rt>マシーン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Semarikuru Mashīn",
+    "name_jp_tl": "Incoming Machine",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Add 1 monster that mentions \"Max Metalmorph\" or 1 \"Metalmorph\" Trap from your Deck or GY to your hand. If you control a \"Metalmorph\" Trap: You can banish this card from your GY, then target 1 Defense Position monster your opponent controls; change it to face-up Attack Position. You can only use this effect of \"Incoming Machine!\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Add 1 monster that mentions \"Max Metalmorph\" or 1 \"Metalmorph\" Trap from your Deck or GY to your hand. If you control a \"Metalmorph\" Trap: You can banish this card from your GY, then target 1 Defense Position monster your opponent controls; change it to face-up Attack Position. You can only use this effect of \"Incoming Machine!\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "IncomingMachine-MP25-EN-PScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ROTA-EN050",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP25-EN111",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Max Metalmorph"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Metalmorph (archetype)"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Activates from your Graveyard",
+            "Changes battle positions"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Mentions",
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

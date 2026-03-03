@@ -1,0 +1,76 @@
+{
+    "cid": "699bbc28-d0a4-41ea-b479-e804adb0d673",
+    "password": "77859858",
+    "kid": 7229,
+    "name": "Destructive Draw",
+    "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>へのクイック・ドロー",
+    "name_jp_rom": "Hametsu e no Kuikku Dorō",
+    "name_jp_tl": "Quick Draw Towards Destruction",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DestructiveDraw-TAEV-EN-C-1E.jpg",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TAEV-EN073",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Maintenance cost, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You draw cards",
+            "Your opponent draws cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost",
+            "Changes your Life Points",
+            "Damages you"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires having no cards in hand"
+        ]
+    }
+}

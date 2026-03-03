@@ -1,0 +1,91 @@
+{
+    "cid": "ccb8ddff-92e1-414d-bd5f-f9044c0e299e",
+    "password": "90020780",
+    "kid": 14064,
+    "name": "Shinobi Necro",
+    "name_jp": "シノビネクロ",
+    "name_jp_rom": "Shinobi Nekuro",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Zombie",
+        "Tuner",
+        "Effect"
+    ],
+    "atk": 800,
+    "def": 0,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If another Zombie monster is Special Summoned from your GY while you control this monster (except during the Damage Step): You can draw 1 card, then discard 1 card. If this card in the GY is banished face-up to activate an effect, or by an effect: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Shinobi Necro\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "If another Zombie monster is Special Summoned from your GY while you control this monster (except during the Damage Step): You can draw 1 card, then discard 1 card. If this card in the GY is banished face-up to activate an effect, or by an effect: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Shinobi Necro\" once per turn.",
+    "eff": "If another Zombie monster is Special Summoned from your GY while you control this monster (except during the Damage Step): You can draw 1 card, then discard 1 card. If this card in the GY is banished face-up to activate an effect, or by an effect: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Shinobi Necro\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ShinobiNecro-MP20-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SAST-EN098",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP20-EN049",
+            "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Zombie"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Special Summon",
+            "You draw cards",
+            "You discard as an effect",
+            "Activates while banished"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons itself while banished"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes itself when it leaves the field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

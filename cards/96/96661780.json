@@ -1,0 +1,90 @@
+{
+    "cid": "6ce30ebb-10ea-4a6d-967c-8c01f682f37d",
+    "password": "96661780",
+    "kid": 18331,
+    "name": "Riryoku Guardian",
+    "name_jp": "フォース・オブ・ガーディアン",
+    "name_jp_rom": "Fōsu Obu Gādian",
+    "name_jp_tl": "Force of Guardian",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If your LP are lower than your opponent's: Target 1 monster you control with \"Gate Guardian\" in its original name; halve your opponent's LP, then that monster gains ATK equal to your opponent's LP. You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use each effect of \"Riryoku Guardian\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If your LP are lower than your opponent's: Target 1 monster you control with \"Gate Guardian\" in its original name; halve your opponent's LP, then that monster gains ATK equal to your opponent's LP. You can banish this card from your GY; add 1 of your \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" that is banished or in your Deck to your hand. You can only use each effect of \"Riryoku Guardian\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RiryokuGuardian-MAZE-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MAZE-EN009",
+            "set": "Maze of Memories",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Kazejin",
+            "Sanga of the Thunder",
+            "Suijin"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Guardian"
+        ],
+        "suparc": [
+            "Gate Guardian (archetype)"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Adds from Deck to hand",
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Requires specific LP",
+            "Halves the opponent's LP",
+            "Your opponent loses Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

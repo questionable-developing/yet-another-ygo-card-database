@@ -1,0 +1,91 @@
+{
+    "cid": "a9f477d2-fb4a-4d2d-bf1b-bbe9f9b5003b",
+    "password": "65477143",
+    "kid": 18161,
+    "name": "Abyss Actor - Liberty Dramatist",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>劇</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>－リバティ・ドラマチスト",
+    "name_jp_rom": "Makai Gekidan - Ribati Doramachisuto",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1500,
+    "def": 1500,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 8,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nWhen a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.\n\n[ Monster Effect ] \nIf this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "pend_eff": "When a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "mnst_eff": "If this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "eff": "If this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AbyssActorLibertyDramatist-PHHY-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHHY-EN016",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger, Condition"
+        ],
+        "eff_types": [
+            "Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Abyss Actor"
+        ],
+        "suparc": [
+            "Abyss Script"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "You discard for cost",
+            "Activates upon Special Summon",
+            "Reveals cards from your Deck",
+            "Sets from your Deck",
+            "Activates if destroyed",
+            "Returns from your Graveyard to your Deck"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your Spell Cards"
+        ],
+        "summoning": [
+            "Special Summons itself from your Pendulum Zone to your opponent's field"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

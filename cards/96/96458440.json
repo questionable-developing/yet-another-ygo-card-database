@@ -1,0 +1,88 @@
+{
+    "cid": "8cddb330-686a-459d-9e10-f0bc5266e345",
+    "password": "96458440",
+    "kid": 6352,
+    "name": "Legendary Black Belt",
+    "name_jp": "<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>説</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帯</rb><rp> (</rp><rt>おび</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Densetsu no Kuro'obi",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". When the equipped monster destroys your opponent's monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". When the equipped monster destroys your opponent's monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LegendaryBlackBelt-DR3-EN-R-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TLM-EN045",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DR3-EN225",
+            "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Trigger-like"
+        ],
+        "mentions": [
+            "Chu-Ske the Mouse Fighter",
+            "Monk Fighter",
+            "Master Monk"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Monk"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Requires control of specific card"
+        ]
+    }
+}

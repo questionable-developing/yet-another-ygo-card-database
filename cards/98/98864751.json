@@ -1,0 +1,91 @@
+{
+    "cid": "3618a812-70d6-4117-b220-f7961f62a3b3",
+    "password": "98864751",
+    "kid": 13094,
+    "name": "Air Cracking Storm",
+    "name_jp": "エアークラック・ストーム",
+    "name_jp_rom": "Eākurakku Sutōmu",
+    "name_jp_tl": "Aircrack Storm",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Machine monster. When that attacking monster destroys your opponent's monster by battle: You can activate this effect; it can make a second attack during this Battle Phase. Your other monsters cannot attack the turn you activate this effect.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Machine monster. When that attacking monster destroys your opponent's monster by battle: You can activate this effect; it can make a second attack during this Battle Phase. Your other monsters cannot attack the turn you activate this effect.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AirCrackingStorm-MP18-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "COTD-EN055",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SP18-EN042",
+            "set": "Star Pack VRAINS",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        },
+        {
+            "sid": "MP18-EN071",
+            "set": "2018 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Allows multiple attacks",
+            "Prevents your monsters from attacking"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "cid": "96d0078e-c255-4753-9952-2cb52bad7a12",
+    "password": "86049351",
+    "kid": 11100,
+    "name": "Last Counter",
+    "name_jp": "ラスト・カウンター",
+    "name_jp_rom": "Rasuto Kauntā",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Counter",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When an attack is declared involving a \"Battlin' Boxer\" monster you control and an opponent's monster: Negate the attack, and if you do, send that monster you control to the GY, then 1 \"Battlin' Boxer\" monster you control (in Attack Position, if you declared the attack) gains ATK equal to the original ATK of that opponent's monster, also proceed to damage calculation using those monsters. Then, you take damage equal to the amount of ATK gained from this effect.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When an attack is declared involving a \"Battlin' Boxer\" monster you control and an opponent's monster: Negate the attack, and if you do, send that monster you control to the GY, then 1 \"Battlin' Boxer\" monster you control (in Attack Position, if you declared the attack) gains ATK equal to the original ATK of that opponent's monster, also proceed to damage calculation using those monsters. Then, you take damage equal to the amount of ATK gained from this effect.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LastCounter-PRIO-JP-C.png",
+            "art": "LastCounter-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "LastCounter-LD10-EN-C-1E.png",
+            "art": "LastCounter-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "PRIO-EN071",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LD10-EN059",
+            "set": "Legendary Duelists: Soulburning Volcano",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Counter (archetype)"
+        ],
+        "suparc": [
+            "Battlin' Boxer"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your field to your Graveyard"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Negates attacks",
+            "Must attack particular monster",
+            "Conducts damage calculation"
+        ],
+        "banished": [],
+        "life_points": [
+            "Damages you"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

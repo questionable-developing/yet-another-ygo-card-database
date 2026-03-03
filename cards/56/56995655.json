@@ -1,0 +1,82 @@
+{
+    "cid": "31672a75-65b2-4459-b8a6-6f22237d76d1",
+    "password": "56995655",
+    "kid": 5401,
+    "name": "Ominous Fortunetelling",
+    "name_jp": "<ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>吉</rb><rp> (</rp><rt>きつ</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>占</rb><rp> (</rp><rt>うらな</rt><rp>)</rp></ruby>い",
+    "name_jp_rom": "Fukitsu na Uranai",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During your Standby Phase, select 1 random card from your opponent's hand. Call the type of card (Monster, Spell, or Trap). If you call it right, inflict 700 points of damage to your opponent's Life Points. You can use this effect only once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During your Standby Phase, select 1 random card from your opponent's hand. Call the type of card (Monster, Spell, or Trap). If you call it right, inflict 700 points of damage to your opponent's Life Points. You can use this effect only once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "OminousFortunetelling-DB2-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LOD-EN094",
+            "set": "Legacy of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DB2-EN203",
+            "set": "Dark Beginning 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Quick-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Declares a card type",
+            "Reveals your opponent's hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "During the Standby Phase"
+        ]
+    }
+}

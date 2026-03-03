@@ -1,0 +1,91 @@
+{
+    "cid": "1e08fdd8-1e2e-4cc3-8d3d-b1b4df7afdfd",
+    "password": "79569173",
+    "kid": 6825,
+    "name": "Seismic Shockwave",
+    "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>震</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Daijishin",
+    "name_jp_tl": "Severe Earthquake",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Destroy this card during your 3rd Standby Phase after activation. Activate this card when a face-up Dinosaur-Type monster you control is destroyed and sent to the Graveyard (except during the Damage Step): Choose 3 of your opponent's unused Spell & Trap Zones. Those Zones cannot be used. If this card destroys itself: You can target 1 Dinosaur-Type monster in your Graveyard; add that target to your hand.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Destroy this card during your 3rd Standby Phase after activation. Activate this card when a face-up Dinosaur-Type monster you control is destroyed and sent to the Graveyard (except during the Damage Step): Choose 3 of your opponent's unused Spell & Trap Zones. Those Zones cannot be used. If this card destroys itself: You can target 1 Dinosaur-Type monster in your Graveyard; add that target to your hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SeismicShockwave-OP04-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SD09-EN031",
+            "set": "Structure Deck: Dinosaur's Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LCJW-EN169",
+            "set": "Legendary Collection 4: Joey's World Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "OP04-EN025",
+            "set": "OTS Tournament Pack 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Activation requirement, Effect, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Dinosaur"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by card effect",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Restricts Spell & Trap Zones",
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

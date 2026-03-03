@@ -1,0 +1,87 @@
+{
+    "cid": "9696b6b6-f3fe-4809-a8f8-3ac5aa96c43f",
+    "password": "72386290",
+    "kid": 18212,
+    "name": "Focused Aquamirror",
+    "name_jp": "<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>集</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Gisuikyō no Shūkō",
+    "name_jp_tl": "Ceremonial Water Mirror Focalization",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Add 1 \"Gishki\" monster from your Deck to your hand. During the End Phase, if you control a WATER Ritual Monster: You can banish this card from your GY; Set 1 \"Aquamirror\" Spell/Trap directly from your Deck or GY, except \"Focused Aquamirror\". You can only use this effect of \"Focused Aquamirror\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Add 1 \"Gishki\" monster from your Deck to your hand. During the End Phase, if you control a WATER Ritual Monster: You can banish this card from your GY; Set 1 \"Aquamirror\" Spell/Trap directly from your Deck or GY, except \"Focused Aquamirror\". You can only use this effect of \"Focused Aquamirror\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FocusedAquamirror-PHHY-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHHY-EN067",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Focused Aquamirror"
+        ],
+        "sup": [
+            "WATER",
+            "Ritual Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Aquamirror"
+        ],
+        "suparc": [
+            "Aquamirror",
+            "Gishki"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Sets from your Deck",
+            "Sets from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Attribute",
+            "Requires control of specific Monster card type",
+            "Only once per turn"
+        ]
+    }
+}

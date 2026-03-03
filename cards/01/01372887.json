@@ -1,0 +1,107 @@
+{
+    "cid": "c64abc2b-ae17-4162-a9e7-09d569e0c9cb",
+    "yid": 1372887,
+    "password": "01372887",
+    "kid": 10956,
+    "name": "Shared Ride",
+    "name_jp": "<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>あい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>乗</rb><rp> (</rp><rt>の</rt><rp>)</rp></ruby>り",
+    "name_jp_rom": "Ainori",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "For the rest of this turn, each time a card(s) is added from the Main Deck or GY to your opponent's hand, except by drawing them, you immediately draw 1 card. You can only activate 1 \"Shared Ride\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "For the rest of this turn, each time a card(s) is added from the Main Deck or GY to your opponent's hand, except by drawing them, you immediately draw 1 card. You can only activate 1 \"Shared Ride\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SharedRide-SR07-JP-C.png",
+            "art": "SharedRide-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "SharedRide-MAGO-EN-R-1E.png",
+            "art": "SharedRide-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "LVAL-EN070",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "MP14-EN231",
+            "set": "2014 Mega-Tin Mega Pack",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "PGL3-EN084",
+            "set": "Premium Gold: Infinite Gold",
+            "rarities": {
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "SR07-EN033",
+            "set": "Structure Deck: Zombie Horde",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MAGO-EN079",
+            "set": "Maximum Gold",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if your opponent adds a card to the hand",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

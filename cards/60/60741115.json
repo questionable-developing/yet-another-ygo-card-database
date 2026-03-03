@@ -1,0 +1,86 @@
+{
+    "cid": "1a4017f9-5177-44d7-bd36-73998fe86012",
+    "password": "60741115",
+    "kid": 8935,
+    "name": "Damage Eater",
+    "name_jp": "ダメージ・イーター",
+    "name_jp_rom": "Damēji Ītā",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Effect"
+    ],
+    "atk": 100,
+    "def": 800,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During your opponent's turn, when your opponent activates a card or effect that would inflict damage, you can remove from play this card in your Graveyard to change that effect so it increases Life Points by the same amount instead.",
+    "pend_eff": null,
+    "mnst_eff": "During your opponent's turn, when your opponent activates a card or effect that would inflict damage, you can remove from play this card in your Graveyard to change that effect so it increases Life Points by the same amount instead.",
+    "eff": "During your opponent's turn, when your opponent activates a card or effect that would inflict damage, you can remove from play this card in your Graveyard to change that effect so it increases Life Points by the same amount instead.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DamageEater-DP10-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DREV-EN004",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP10-EN009",
+            "set": "Duelist Pack: Yusei 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Quick"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Converts damage to LP gain",
+            "You gain Life Points",
+            "Your opponent gains Life Points",
+            "Prevents effect damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

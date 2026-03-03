@@ -1,0 +1,92 @@
+{
+    "cid": "9eb5c94c-7794-45b6-b27d-b159c0e159be",
+    "password": "65260293",
+    "kid": 6182,
+    "name": "Element Magician",
+    "name_jp": "エレメント・マジシャン",
+    "name_jp_rom": "Eremento Majishan",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "atk": 1500,
+    "def": 1200,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● WATER: Control of this card cannot switch. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+    "pend_eff": null,
+    "mnst_eff": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● WATER: Control of this card cannot switch. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+    "eff": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● WATER: Control of this card cannot switch. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ElementMagician-DR3-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "RDS-EN013",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR3-EN073",
+            "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "WIND",
+            "WATER"
+        ],
+        "asup": [
+            "WIND",
+            "WATER"
+        ],
+        "arc": [
+            "Element"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Cannot change control",
+            "Activates if it destroys a monster by battle"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Multiple attacker"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Attribute"
+        ]
+    }
+}

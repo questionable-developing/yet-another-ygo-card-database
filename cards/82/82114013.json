@@ -1,0 +1,93 @@
+{
+    "cid": "9bb7d6d8-3ff1-4cae-8c22-dbc682dd0613",
+    "password": "82114013",
+    "kid": 11770,
+    "name": "Sea Dragoons of Draconia",
+    "name_jp": "ドラコニアの<ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Dorakonia no Kairyūkihei",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "WATER",
+    "pend": true,
+    "subtypes": [
+        "Sea Serpent",
+        "Pendulum"
+    ],
+    "atk": 200,
+    "def": 2100,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": 7,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nWhen a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.\n\n[ Monster Effect ] \n''Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.''",
+    "pend_eff": "When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",
+    "mnst_eff": null,
+    "eff": null,
+    "flavor": "Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.",
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SeaDragoonsofDraconia-CROS-EN-R-1E.png",
+            "art": "SeaDragoonsofDraconia-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "SeaDragoonsofDraconia-EP15-JP-R.png",
+            "art": "SeaDragoonsofDraconia-MADU-JP-VG-artwork.png"
+        }
+    },
+    "image": "1",
+    "sets": [
+        {
+            "sid": "CROS-ENSP1",
+            "set": "Crossed Souls Sneak Peek Participation Card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CROS-EN000",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger-like, Condition"
+        ],
+        "eff_types": [],
+        "mentions": [],
+        "sup": [
+            "Normal Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Draconia"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "Activates if destroyed by battle"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your hand"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

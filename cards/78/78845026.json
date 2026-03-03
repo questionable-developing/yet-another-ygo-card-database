@@ -1,0 +1,79 @@
+{
+    "cid": "fdfa3fdd-9665-4152-acb9-953c2c896f71",
+    "password": "78845026",
+    "kid": 7744,
+    "name": "Lightwave Tuning",
+    "name_jp": "ライトニング・チューン",
+    "name_jp_rom": "Raitoningu Chūn",
+    "name_jp_tl": "Lightning Tune",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Select 1 Level 4 LIGHT monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Select 1 Level 4 LIGHT monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LightwaveTuning-TDGS-JP-C.jpg",
+            "art": "LightwaveTuning-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "LightwaveTuning-TDGS-EN-C-1E.jpg",
+            "art": "LightwaveTuning-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "TDGS-EN050",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [
+            "LIGHT"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Treats monsters as Tuner monsters"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Level",
+            "Requires control of specific Attribute"
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "cid": "f472ded4-e231-4e1d-ac83-86474359a0a3",
+    "password": "73130445",
+    "kid": 11679,
+    "name": "Performapal Lizardraw",
+    "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>リザードロー",
+    "name_jp_rom": "Entameito Rizādorō",
+    "name_jp_tl": "Entermate Lizardraw",
+    "type": "Monster",
+    "attribute": "EARTH",
+    "pend": true,
+    "subtypes": [
+        "Reptile",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1200,
+    "def": 600,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": 6,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nIf you have a \"Performapal\" card in your other Pendulum Zone, except \"Performapal Lizardraw\": You can destroy this card, and if you do, draw 1 card. You can only use this effect of \"Performapal Lizardraw\" once per turn.\n\n[ Monster Effect ] \nIf another face-up monster you control is destroyed by your opponent's attack or card effect: You can draw cards equal to the number of \"Performapal\" monsters you currently control. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+    "pend_eff": "If you have a \"Performapal\" card in your other Pendulum Zone, except \"Performapal Lizardraw\": You can destroy this card, and if you do, draw 1 card. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+    "mnst_eff": "If another face-up monster you control is destroyed by your opponent's attack or card effect: You can draw cards equal to the number of \"Performapal\" monsters you currently control. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+    "eff": "If another face-up monster you control is destroyed by your opponent's attack or card effect: You can draw cards equal to the number of \"Performapal\" monsters you currently control. You can only use this effect of \"Performapal Lizardraw\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformapalLizardraw-MP16-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CROS-EN004",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "OP01-EN006",
+            "set": "OTS Tournament Pack 1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP16-EN004",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like, Condition"
+        ],
+        "eff_types": [
+            "Trigger, Condition"
+        ],
+        "mentions": [
+            "Performapal Lizardraw"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performapal"
+        ],
+        "suparc": [
+            "Performapal"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if other Pendulum Zone is occupied by specific card",
+            "You draw cards",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

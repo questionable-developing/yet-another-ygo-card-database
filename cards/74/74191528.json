@@ -1,0 +1,76 @@
+{
+    "cid": "d821bc42-175d-4d92-8dd1-3fe470a3c7b3",
+    "password": "74191528",
+    "kid": 14383,
+    "name": "Card of Fate",
+    "name_jp": "<ruby lang=\"jp\"><rb>運命の一枚</rb><rp> (</rp><rt>カード・オブ・スピリット</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kādo Obu Supiritto",
+    "name_jp_tl": "Card of Spirit",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each player chooses 1 card from their Deck, then each player combines it with 4 additional random cards chosen from their Deck by their opponent, then randomly selects 1 of those 5 cards to reveal and add to their hand. Shuffle the rest back into the Decks. You can only activate 1 \"Card of Fate\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each player chooses 1 card from their Deck, then each player combines it with 4 additional random cards chosen from their Deck by their opponent, then randomly selects 1 of those 5 cards to reveal and add to their hand. Shuffle the rest back into the Decks. You can only activate 1 \"Card of Fate\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CardofFate-DUOV-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUOV-EN052",
+            "set": "Duel Overload",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Treasure Cards"
+        ],
+        "counter": [],
+        "action": [
+            "Reveals cards from your Deck",
+            "Reveals cards from your opponent's Deck",
+            "Adds from Deck to hand",
+            "Adds from your opponent's Deck to your opponent's hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "cid": "46e1a607-79f7-4b03-999a-10d47330dc65",
+    "password": "90020065",
+    "kid": 4738,
+    "name": "Jigen Bakudan",
+    "name_jp": "タイム・ボマー",
+    "name_jp_rom": "Taimu Bomā",
+    "name_jp_tl": "Time Bomber",
+    "type": "Monster",
+    "attribute": "FIRE",
+    "pend": false,
+    "subtypes": [
+        "Pyro",
+        "Flip",
+        "Effect"
+    ],
+    "atk": 200,
+    "def": 1000,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: After this card is flipped, offer it as a Tribute during your Standby Phase to destroy all monsters on your side of the field and inflict Direct Damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: After this card is flipped, offer it as a Tribute during your Standby Phase to destroy all monsters on your side of the field and inflict Direct Damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.",
+    "eff": "FLIP: After this card is flipped, offer it as a Tribute during your Standby Phase to destroy all monsters on your side of the field and inflict Direct Damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "JigenBakudan-SRL-EN-C-UE-25thAnniversaryEdition.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SRL-EN074",
+            "set": "Spell Ruler",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "SRL-EN074",
+            "set": "Spell Ruler (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "Tributes itself for cost"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Flip monster without a Flip effect",
+            "During the Standby Phase"
+        ]
+    }
+}

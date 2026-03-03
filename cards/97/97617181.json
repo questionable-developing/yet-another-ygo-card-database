@@ -1,0 +1,99 @@
+{
+    "cid": "1c95b99d-1457-49a3-89a3-31a43cacdd3f",
+    "password": "97617181",
+    "kid": 10344,
+    "name": "Galaxy Zero",
+    "name_jp": "<ruby lang=\"jp\"><rb>銀河零式</rb><rp> (</rp><rt>ギャラクシー・ゼロ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Gyarakushī Zero",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 \"Photon\" or \"Galaxy\" monster in your GY; Special Summon it in Attack Position and equip it with this card. It cannot attack or activate its effects. If it would be destroyed by battle or card effect during the Battle Phase, you can destroy this card instead. If this face-up card leaves the field: The equipped monster's ATK becomes 0. You can only activate 1 \"Galaxy Zero\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 \"Photon\" or \"Galaxy\" monster in your GY; Special Summon it in Attack Position and equip it with this card. It cannot attack or activate its effects. If it would be destroyed by battle or card effect during the Battle Phase, you can destroy this card instead. If this face-up card leaves the field: The equipped monster's ATK becomes 0. You can only activate 1 \"Galaxy Zero\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GalaxyZero-LDS2-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ZTIN-EN018",
+            "set": "Zexal Collection Tin",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LDS2-EN055",
+            "set": "Legendary Duelists: Season 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like, Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Galaxy Zero"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Galaxy"
+        ],
+        "suparc": [
+            "Galaxy",
+            "Photon"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Galaxy-Eyes"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if it leaves the field",
+            "Equips self from field"
+        ],
+        "stat_change": [
+            "Reduces ATK to 0",
+            "Changes ATK value of equipped"
+        ],
+        "mst": [
+            "Redirects destruction",
+            "Destroys itself"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Equips to Summoned monster"
+        ],
+        "attack": [
+            "Prevents equipped monster from attacking"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

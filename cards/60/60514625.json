@@ -1,0 +1,86 @@
+{
+    "cid": "8259e710-6b53-48d4-b2da-d620848bfa8c",
+    "password": "60514625",
+    "kid": 16415,
+    "name": "Ecole de Zone",
+    "name_jp": "エコール・ド・ゾーン",
+    "name_jp_rom": "Ekōru Do Zōn",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If the turn player Summons exactly 1 monster: Destroy it, and if you do, the controller of that monster Special Summons 1 \"Mask Token\" (Spellcaster/DARK/Level 1/ATK ?/DEF ?) to their field, which cannot attack directly, with ATK/DEF equal to what the destroyed monster had on the field. You can only use this effect of \"Ecole de Zone\" once per turn. If this face-up card leaves the field, destroy all \"Mask Tokens\" on the field.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If the turn player Summons exactly 1 monster: Destroy it, and if you do, the controller of that monster Special Summons 1 \"Mask Token\" (Spellcaster/DARK/Level 1/ATK ?/DEF ?) to their field, which cannot attack directly, with ATK/DEF equal to what the destroyed monster had on the field. You can only use this effect of \"Ecole de Zone\" once per turn. If this face-up card leaves the field, destroy all \"Mask Tokens\" on the field.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "EcoledeZone-BROL-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BROL-EN021",
+            "set": "Brothers of Legend",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Condition, Continuous-like"
+        ],
+        "mentions": [
+            "Mask Token"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Normal Summon",
+            "Activates upon Flip Summon",
+            "Activates upon Special Summon"
+        ],
+        "stat_change": [
+            "Changes ATK value",
+            "Changes DEF value"
+        ],
+        "mst": [
+            "Destroys Monster Cards"
+        ],
+        "summoning": [
+            "Special Summons Tokens",
+            "Special Summons Tokens to your opponent's field",
+            "Your opponent Special Summons"
+        ],
+        "attack": [
+            "Cannot attack directly"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "cid": "03cd7994-130f-45a0-bc01-d7bb2133ef65",
+    "password": "84211599",
+    "kid": 15756,
+    "name": "Pot of Prosperity",
+    "name_jp": "<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>満</rb><rp> (</rp><rt>まん</rt><rp>)</rp></ruby>で<ruby lang=\"jp\"><rb>謙</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>虚</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kinman de Kenkyo na Tsubo",
+    "name_jp_tl": "Pot of Riches and Humility",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Banish 3 or 6 cards of your choice from your Extra Deck, face-down; for the rest of this turn after this card resolves, any damage your opponent takes is halved, also excavate cards from the top of your Deck equal to the number of cards banished, add 1 excavated card to your hand, place the rest on the bottom of your Deck in any order. You can only activate 1 \"Pot of Prosperity\" per turn. You cannot draw cards by card effects the turn you activate this card.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Banish 3 or 6 cards of your choice from your Extra Deck, face-down; for the rest of this turn after this card resolves, any damage your opponent takes is halved, also excavate cards from the top of your Deck equal to the number of cards banished, add 1 excavated card to your hand, place the rest on the bottom of your Deck in any order. You can only activate 1 \"Pot of Prosperity\" per turn. You cannot draw cards by card effects the turn you activate this card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PotofProsperity-TBC1-EN-UPR-LE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLVO-EN065",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        },
+        {
+            "sid": "MP22-EN037",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA01-EN066",
+            "set": "25th Anniversary Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Quarter Century Secret Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "TBC1-EN011",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Greed (series)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Excavates from the player's Deck",
+            "Adds excavated cards to the hand",
+            "Places excavated cards on the bottom of the Deck",
+            "Prevents drawing cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from Extra Deck for cost",
+            "Banishes face-down"
+        ],
+        "life_points": [
+            "Reduces battle damage",
+            "Reduces effect damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

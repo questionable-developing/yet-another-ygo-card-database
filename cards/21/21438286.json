@@ -1,0 +1,87 @@
+{
+    "cid": "fc37ef4e-cbb8-4342-8dab-d74c90070bb7",
+    "yid": null,
+    "password": "21438286",
+    "kid": 15754,
+    "name": "Archfiend's Staff of Despair",
+    "name_jp": "デーモンの<ruby lang=\"jp\"><rb>杖</rb><rp> (</rp><rt>つえ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Dēmon no Tsue",
+    "name_jp_tl": "Daemon's Staff",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a monster you control. During your Main Phase: You can make all monsters your opponent currently controls lose ATK equal to half the equipped monster's ATK, until the end of this turn (even if this card leaves the field). If this card is sent to the GY while equipped to a monster: You can pay 1000 LP; return this card to your hand. You can only use each effect of \"Archfiend's Staff of Despair\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a monster you control. During your Main Phase: You can make all monsters your opponent currently controls lose ATK equal to half the equipped monster's ATK, until the end of this turn (even if this card leaves the field). If this card is sent to the GY while equipped to a monster: You can pay 1000 LP; return this card to your hand. You can only use each effect of \"Archfiend's Staff of Despair\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ArchfiendsStaffofDespair-MP22-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLVO-EN063",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP22-EN036",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Ignition-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Archfiend"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Returns itself from Graveyard to hand"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Only once per turn"
+        ]
+    }
+}

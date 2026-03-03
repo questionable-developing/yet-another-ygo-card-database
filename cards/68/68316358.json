@@ -1,0 +1,85 @@
+{
+    "cid": "b1f67e35-8941-4159-b760-d3005cd4b487",
+    "password": "68316358",
+    "kid": 20416,
+    "name": "Allure Dance",
+    "name_jp": "<ruby lang=\"jp\"><rb>魅惑の舞</rb><rp> (</rp><rt>アリュール・ダンス</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Aryūru Dansu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is activated: You can add 1 \"Allure Queen\" monster or 1 \"Allure Palace\" from your Deck to your hand. Each \"Allure Queen\" monster you control gains ATK, equal to the ATK of the monsters equipped to it by its effect. You can send 1 other Spell/Trap you control to the GY; Special Summon as many \"Allure Queen\" monsters with different names as possible from your GY. You can only use this effect of \"Allure Dance\" once per turn. You can only activate 1 \"Allure Dance\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When this card is activated: You can add 1 \"Allure Queen\" monster or 1 \"Allure Palace\" from your Deck to your hand. Each \"Allure Queen\" monster you control gains ATK, equal to the ATK of the monsters equipped to it by its effect. You can send 1 other Spell/Trap you control to the GY; Special Summon as many \"Allure Queen\" monsters with different names as possible from your GY. You can only use this effect of \"Allure Dance\" once per turn. You can only activate 1 \"Allure Dance\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AllureDance-AC04-JP-C.png",
+            "art": "AllureDance-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "AllureDance-MZTM-EN-R-1E.png",
+            "art": "AllureDance-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "MZTM-EN060",
+            "set": "Maze of the Master",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Allure Palace"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Allure Queen"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Sends from field to Graveyard for cost"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Graveyard"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

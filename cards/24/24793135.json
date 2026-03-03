@@ -1,0 +1,104 @@
+{
+    "cid": "38753541-702b-4a45-ac84-6aa4498aec67",
+    "yid": null,
+    "password": "24793135",
+    "kid": 16249,
+    "name": "Sacred Scrolls of the Gizmek Legend",
+    "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巧</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>神使記紀図</rb><rp> (</rp><rt>カミツカワシメノキキエ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kikōden - Kamitsukawashime no Kikie",
+    "name_jp_tl": "Mechanical Legend - Kamitsukawashime-no-Kikie",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During your Main Phase: You can excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated Machine monster whose ATK equals its own DEF to your hand, also banish the remaining cards face-down. You can only use this effect of \"Sacred Scrolls of the Gizmek Legend\" once per turn. Each time a Machine monster(s) whose ATK equals its own DEF is Normal or Special Summoned, place 1 counter on this card. While this card has 10 or more counters, neither player can activate the effects of monsters on the field whose ATK does not equal their own DEF.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During your Main Phase: You can excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated Machine monster whose ATK equals its own DEF to your hand, also banish the remaining cards face-down. You can only use this effect of \"Sacred Scrolls of the Gizmek Legend\" once per turn. Each time a Machine monster(s) whose ATK equals its own DEF is Normal or Special Summoned, place 1 counter on this card. While this card has 10 or more counters, neither player can activate the effects of monsters on the field whose ATK does not equal their own DEF.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SacredScrollsoftheGizmekLegend-AMDE-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DAMA-EN060",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "MP22-EN160",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AMDE-EN058",
+            "set": "Amazing Defenders",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Condition, Continuous-like, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [
+            "Gizmek"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Counter (counter)",
+            "Places counters on itself"
+        ],
+        "action": [
+            "Excavates from the player's Deck",
+            "Adds excavated cards to the hand",
+            "Activates upon Normal Summon",
+            "Activates upon Special Summon"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents activation of Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes excavated cards",
+            "Banishes face-down"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Requires control of specific Type",
+            "Requires control of specific ATK",
+            "Requires control of specific DEF"
+        ]
+    }
+}

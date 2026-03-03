@@ -1,0 +1,81 @@
+{
+    "cid": "59ca451e-829f-4420-be7a-f701730b79ce",
+    "password": "94662235",
+    "kid": 8501,
+    "name": "Bending Destiny",
+    "name_jp": "<ruby lang=\"jp\"><rb>運</rb><rp> (</rp><rt>うん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>湾</rb><rp> (</rp><rt>わん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>曲</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Unmei Wankyoku",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Counter",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate only if all face-up monsters you control are \"Fortune Lady\" monsters. Negate the activation of a Spell or Trap Card, or the Normal Summon of a monster, and remove that card from play. The card removed from play by this effect is returned to its owner's hand during the End Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate only if all face-up monsters you control are \"Fortune Lady\" monsters. Negate the activation of a Spell or Trap Card, or the Normal Summon of a monster, and remove that card from play. The card removed from play by this effect is returned to its owner's hand during the End Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BendingDestiny-SOVR-EN-C-1E.jpg",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOVR-EN066",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect, Lingering"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Fortune Lady"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the activation of Spell Cards",
+            "Negates the activation of Trap Cards"
+        ],
+        "summoning": [
+            "Negates Normal Summons"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes negated Summons",
+            "Banishes negated activations"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype"
+        ]
+    }
+}

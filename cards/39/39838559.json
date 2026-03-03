@@ -1,0 +1,90 @@
+{
+    "cid": "0558667e-4579-4d6f-a89a-6beab0c08c75",
+    "password": "39838559",
+    "kid": 13215,
+    "name": "F.A. Circuit Grand Prix",
+    "name_jp": "<ruby lang=\"jp\"><rb>Ｆ．Ａ．</rb><rp> (</rp><rt>フォーミュラアスリート</rt><rp>)</rp></ruby>サーキット<ruby lang=\"jp\"><rb>ＧＰ</rb><rp> (</rp><rt>グランプリ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Fōmyura Asurīto Sākitto Guranpuri",
+    "name_jp_tl": "Formula Athlete Circuit Grand Prix",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Increase the Levels of all \"F.A.\" monsters on the field by 2 during the Battle Phase only. Once per turn, when your \"F.A.\" monster destroys an opponent's monster by battle: You can draw 1 card. If this face-up card on the field is destroyed by a card effect: You can add 1 \"F.A.\" card from your Deck to your hand, except \"F.A. Circuit Grand Prix\". You can only use this effect of \"F.A. Circuit Grand Prix\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Increase the Levels of all \"F.A.\" monsters on the field by 2 during the Battle Phase only. Once per turn, when your \"F.A.\" monster destroys an opponent's monster by battle: You can draw 1 card. If this face-up card on the field is destroyed by a card effect: You can add 1 \"F.A.\" card from your Deck to your hand, except \"F.A. Circuit Grand Prix\". You can only use this effect of \"F.A. Circuit Grand Prix\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FACircuitGrandPrix-MP18-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "COTD-EN088",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP18-EN093",
+            "set": "2018 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "F.A. Circuit Grand Prix"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "F.A."
+        ],
+        "suparc": [
+            "F.A."
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "You draw cards",
+            "Activates if destroyed by card effect",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "All monsters gain Levels"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Only once per turn"
+        ]
+    }
+}

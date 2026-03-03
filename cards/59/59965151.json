@@ -1,0 +1,86 @@
+{
+    "cid": "ec6f91f0-3ae7-4b6f-b606-85e4706615e2",
+    "password": "59965151",
+    "kid": 7702,
+    "name": "Ghost Gardna",
+    "name_jp": "デッド・ガードナー",
+    "name_jp_rom": "Deddo Gādonā",
+    "name_jp_tl": "Dead Guardner",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Warrior",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": 1900,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a face-up monster you control is selected as an attack target, you can change the target to this card. When this card is destroyed and sent to the Graveyard, 1 face-up monster your opponent controls loses 1000 ATK, until the End Phase.",
+    "pend_eff": null,
+    "mnst_eff": "When a face-up monster you control is selected as an attack target, you can change the target to this card. When this card is destroyed and sent to the Graveyard, 1 face-up monster your opponent controls loses 1000 ATK, until the End Phase.",
+    "eff": "When a face-up monster you control is selected as an attack target, you can change the target to this card. When this card is destroyed and sent to the Graveyard, 1 face-up monster your opponent controls loses 1000 ATK, until the End Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GhostGardna-DT01-EN-DNPR-DT.jpg",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TDGS-EN004",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP08-EN006",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Changes attack targets"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

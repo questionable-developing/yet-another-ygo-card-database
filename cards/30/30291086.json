@@ -1,0 +1,95 @@
+{
+    "cid": "22a1cdd3-327c-4f4b-b276-0667cff0aff0",
+    "yid": null,
+    "password": "30291086",
+    "kid": 18157,
+    "name": "Mental Tuner",
+    "name_jp": "メンタル・チューナー",
+    "name_jp_rom": "Mentaru Chūnā",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Psychic",
+        "Tuner",
+        "Effect"
+    ],
+    "atk": 200,
+    "def": 2100,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can activate 1 of these effects;<br />● Banish up to 1 LIGHT and up to 1 DARK monster from your hand and/or GY; increase or decrease this card's Level by the exact number banished, until the end of this turn.<br />● Target up to 2 of your banished monsters (1 LIGHT and/or 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the exact number returned, until the end of this turn.<br />You can only use this effect of \"Mental Tuner\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "You can activate 1 of these effects;\n● Banish up to 1 LIGHT and up to 1 DARK monster from your hand and/or GY; increase or decrease this card's Level by the exact number banished, until the end of this turn.\n● Target up to 2 of your banished monsters (1 LIGHT and/or 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the exact number returned, until the end of this turn.\nYou can only use this effect of \"Mental Tuner\" once per turn.",
+    "eff": "You can activate 1 of these effects;\n● Banish up to 1 LIGHT and up to 1 DARK monster from your hand and/or GY; increase or decrease this card's Level by the exact number banished, until the end of this turn.\n● Target up to 2 of your banished monsters (1 LIGHT and/or 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the exact number returned, until the end of this turn.\nYou can only use this effect of \"Mental Tuner\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MentalTuner-MP24-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHHY-EN012",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN310",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "LIGHT",
+            "DARK"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Chaos"
+        ],
+        "counter": [],
+        "action": [
+            "Returns the player's banished cards to the Graveyard"
+        ],
+        "stat_change": [
+            "This card gains Levels",
+            "This card loses Levels"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from hand for cost",
+            "Banishes from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

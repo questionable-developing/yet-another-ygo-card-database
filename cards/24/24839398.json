@@ -1,0 +1,89 @@
+{
+    "cid": "88b9ccf0-a73a-4979-81c4-9ef8032a4014",
+    "yid": null,
+    "password": "24839398",
+    "kid": 20244,
+    "name": "Trap Gatherer",
+    "name_jp": "トラップ・ギャザー",
+    "name_jp_rom": "Torappu Gyazā",
+    "name_jp_tl": "Trap Gather",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "The equipped monster gains 400 ATK for each Trap in your GY. You can only use each of the following effects of \"Trap Gatherer\" once per turn. After damage calculation, if the equipped monster destroyed an opponent's monster by battle or inflicted battle damage to your opponent: You can send this card to the GY; Set 1 Trap from your GY. If a face-up Trap(s) you control would be destroyed by card effect, you can banish this card you control instead.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "The equipped monster gains 400 ATK for each Trap in your GY. You can only use each of the following effects of \"Trap Gatherer\" once per turn. After damage calculation, if the equipped monster destroyed an opponent's monster by battle or inflicted battle damage to your opponent: You can send this card to the GY; Set 1 Trap from your GY. If a face-up Trap(s) you control would be destroyed by card effect, you can banish this card you control instead.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TrapGatherer-MP25-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "INFO-EN065",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP25-EN392",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Condition, Trigger-like, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "Activates if battle damage is inflicted",
+            "Sends itself from field to Graveyard for cost",
+            "Sets from your Graveyard"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Prevents other cards being destroyed by card effects",
+            "Redirects destruction"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

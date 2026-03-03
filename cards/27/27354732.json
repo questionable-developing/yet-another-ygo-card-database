@@ -1,0 +1,101 @@
+{
+    "cid": "ef27d421-a3be-4b39-a846-a139955aa8c8",
+    "yid": null,
+    "password": "27354732",
+    "kid": 13396,
+    "name": "Mythical Beast Jackal King",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> キングジャッカル",
+    "name_jp_rom": "Majikku Bīsuto Kingu Jakkaru",
+    "name_jp_tl": "Magic Beast King Jackal",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 2400,
+    "def": 1400,
+    "lrl": 6,
+    "level": 6,
+    "rank": null,
+    "scale": 4,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nIf you have no card in your other Pendulum Zone: You can destroy this card, and if you do, Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, except \"Mythical Beast Jackal King\". You can only use this effect of \"Mythical Beast Jackal King\" once per turn.\n\n[ Monster Effect ] \nEach time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn, when an opponent activates a monster effect (Quick Effect): You can remove 2 Spell Counters from your field; negate the activation, and if you do, destroy that card.",
+    "pend_eff": "If you have no card in your other Pendulum Zone: You can destroy this card, and if you do, Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, except \"Mythical Beast Jackal King\". You can only use this effect of \"Mythical Beast Jackal King\" once per turn.",
+    "mnst_eff": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn, when an opponent activates a monster effect (Quick Effect): You can remove 2 Spell Counters from your field; negate the activation, and if you do, destroy that card.",
+    "eff": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn, when an opponent activates a monster effect (Quick Effect): You can remove 2 Spell Counters from your field; negate the activation, and if you do, destroy that card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MythicalBeastJackalKing-INCH-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXFO-EN026",
+            "set": "Extreme Force",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "INCH-EN048",
+            "set": "The Infinity Chasers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like, Condition"
+        ],
+        "eff_types": [
+            "Continuous, Quick"
+        ],
+        "mentions": [],
+        "sup": [
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Mythical Beast"
+        ],
+        "suparc": [
+            "Mythical Beast"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Spell Counter",
+            "Places counters on itself",
+            "Removes counters for cost"
+        ],
+        "action": [
+            "Activates if other Pendulum Zone is unoccupied"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself",
+            "Negates the activation of your opponent's Effect Monster's effect",
+            "Destroys your opponent's Monster Cards"
+        ],
+        "summoning": [
+            "Special Summons from your Extra Deck"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

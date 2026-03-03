@@ -1,0 +1,86 @@
+{
+    "cid": "b9935aa6-1cdb-4e4b-a03e-8ab06ad67745",
+    "password": "38325384",
+    "kid": 13429,
+    "name": "Mythical Bestiary",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔導加速</rb><rp> (</rp><rt>マジック・ブースト</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Majikku Būsuto",
+    "name_jp_tl": "Magic Boost",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send the top 2 cards of your Deck to the GY, then target 1 face-up card on the field that you can place a Spell Counter on; place up to 2 Spell Counters on it. If this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 monster from your Deck that you can place a Spell Counter on, and if you do, place up to 2 Spell Counters on it. You can only activate 1 \"Mythical Bestiary\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send the top 2 cards of your Deck to the GY, then target 1 face-up card on the field that you can place a Spell Counter on; place up to 2 Spell Counters on it. If this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon 1 monster from your Deck that you can place a Spell Counter on, and if you do, place up to 2 Spell Counters on it. You can only activate 1 \"Mythical Bestiary\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MythicalBestiary-OP10-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXFO-EN058",
+            "set": "Extreme Force",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "OP10-EN024",
+            "set": "OTS Tournament Pack 10",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Mythical Beast"
+        ],
+        "counter": [
+            "Spell Counter",
+            "Places counters"
+        ],
+        "action": [
+            "Sends from the top of your Deck to your Graveyard for cost",
+            "Activates if destroyed by card effect"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Deck"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

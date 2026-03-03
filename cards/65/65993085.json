@@ -1,0 +1,85 @@
+{
+    "cid": "2411693e-2c46-4a25-a32f-e6dabeae2fd2",
+    "password": "65993085",
+    "kid": 13279,
+    "name": "Overdone Burial",
+    "name_jp": "やりすぎた<ruby lang=\"jp\"><rb>埋</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>葬</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Yarisugita Maisō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate this card by discarding 1 monster, then target 1 monster in your GY whose Level is lower than the discarded monster's original Level; Special Summon it and equip it with this card. The equipped monster has its effects negated. You can only activate 1 \"Overdone Burial\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate this card by discarding 1 monster, then target 1 monster in your GY whose Level is lower than the discarded monster's original Level; Special Summon it and equip it with this card. The equipped monster has its effects negated. You can only activate 1 \"Overdone Burial\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "OverdoneBurial-MP18-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CIBR-EN063",
+            "set": "Circuit Break",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "MP18-EN143",
+            "set": "2018 Mega-Tin Mega Pack",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You discard for cost",
+            "Equips self from field",
+            "Negates equipped"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of your Effect Monsters"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Equips to Summoned monster"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

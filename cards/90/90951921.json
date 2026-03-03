@@ -1,0 +1,83 @@
+{
+    "cid": "dbee75b8-c6a3-4ec1-8f10-f58b6076853e",
+    "password": "90951921",
+    "kid": 10184,
+    "name": "Chronomaly Technology",
+    "name_jp": "<ruby lang=\"jp\"><rb>先史遺産技術</rb><rp> (</rp><rt>オーパーツテクノロジー</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Ōpātsu Tekunorojī",
+    "name_jp_tl": "OOPArts Technology",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 \"Chronomaly\" monster in your Graveyard; banish it, then look at the top 2 cards of your Deck, add 1 of them to your hand, and send the other to the Graveyard. You can only activate 1 \"Chronomaly Technology\" per turn. You cannot Special Summon any monsters during the turn you activate this card, except \"Chronomaly\" monsters.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 \"Chronomaly\" monster in your Graveyard; banish it, then look at the top 2 cards of your Deck, add 1 of them to your hand, and send the other to the Graveyard. You can only activate 1 \"Chronomaly Technology\" per turn. You cannot Special Summon any monsters during the turn you activate this card, except \"Chronomaly\" monsters.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ChronomalyTechnology-REDU-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "REDU-EN054",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition, Condition"
+        ],
+        "mentions": [
+            "Chronomaly Technology"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Chronomaly"
+        ],
+        "suparc": [
+            "Chronomaly"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Looks at cards from the top of the player's Deck",
+            "Adds from Deck to hand",
+            "Sends from the top of your Deck to your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Restricts the player's Special Summons to archetype specific monsters"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes from your Graveyard"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "cid": "ac16d892-8bb4-4bad-b070-aaee56a7cf3b",
+    "password": "54927180",
+    "kid": 16041,
+    "name": "Fukubiki",
+    "name_jp": "<ruby lang=\"jp\"><rb>福</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>悲</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喜</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Fukubiki",
+    "name_jp_tl": "Lottery of Joys and Sorrows",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to that player's GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to that player's GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Fukubiki-LIOV-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LIOV-EN080",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Changes the player's Deck order",
+            "Changes the opponent's Deck order",
+            "Excavates from the player's Deck",
+            "Excavates from the opponent's Deck",
+            "Adds excavated cards to the hand",
+            "Adds from Deck to hand",
+            "Adds from your opponent's Deck to your opponent's hand",
+            "Sends excavated cards to the Graveyard",
+            "Places excavated cards on the bottom of the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

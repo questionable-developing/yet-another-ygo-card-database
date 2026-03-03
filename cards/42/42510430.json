@@ -1,0 +1,95 @@
+{
+    "cid": "b8b460da-0a26-4ebf-a4f5-a97fee6046fb",
+    "yid": 42510430,
+    "password": "42510430",
+    "kid": 19831,
+    "name": "Sunset Beat",
+    "name_jp": "サンセット・ビート",
+    "name_jp_rom": "Sansetto Bīto",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a face-up monster you control is changed to face-down Defense Position: You can target 1 card on the field; destroy it. If a Flip monster(s) you control is flipped face-up, even during the Damage Step: You can target 1 of them; inflict damage to your opponent equal to its Level x 200. You can only use each effect of \"Sunset Beat\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If a face-up monster you control is changed to face-down Defense Position: You can target 1 card on the field; destroy it. If a Flip monster(s) you control is flipped face-up, even during the Damage Step: You can target 1 of them; inflict damage to your opponent equal to its Level x 200. You can only use each effect of \"Sunset Beat\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SunsetBeat-PHRE-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHNI-EN086",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP25-EN330",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PHRE-EN055",
+            "set": "Phantom Revenge",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Flip monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if battle positions change"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards",
+            "Destroys Spell Cards",
+            "Destroys Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

@@ -1,0 +1,93 @@
+{
+    "cid": "2207d0ac-fbf0-4cf2-b99c-15d2773e7c18",
+    "yid": null,
+    "password": "02344618",
+    "kid": 21464,
+    "name": "Lunalight Masquerade",
+    "name_jp": "<ruby lang=\"jp\"><rb>月光舞踏会</rb><rp> (</rp><rt>ムーンライト・マスカレード</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Mūnraito Masukarēdo",
+    "name_jp_tl": "Moonlight Masquerade",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During your Main Phase, if this card was activated this turn: You can send 1 \"Lunalight\" monster from your Deck to the GY. If you Fusion Summon a \"Lunalight\" monster: You can add 1 \"Polymerization\" from your GY or banishment to your hand, then you can discard 1 card, and if you do, once, if you Fusion Summon a \"Lunalight\" monster this turn, you can also banish monsters from your GY as material. You can only use each effect of \"Lunalight Masquerade\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During your Main Phase, if this card was activated this turn: You can send 1 \"Lunalight\" monster from your Deck to the GY. If you Fusion Summon a \"Lunalight\" monster: You can add 1 \"Polymerization\" from your GY or banishment to your hand, then you can discard 1 card, and if you do, once, if you Fusion Summon a \"Lunalight\" monster this turn, you can also banish monsters from your GY as material. You can only use each effect of \"Lunalight Masquerade\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LunalightMasquerade-DUAD-JP-R.png",
+            "art": "LunalightMasquerade-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "LunalightMasquerade-DUAD-EN-C-1E.png",
+            "art": "LunalightMasquerade-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "DUAD-EN053",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Polymerization"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Lunalight"
+        ],
+        "suparc": [
+            "Lunalight"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your Deck to your Graveyard",
+            "Activates upon Fusion Summon",
+            "Adds from Graveyard to hand",
+            "Adds banished cards to the hand",
+            "You discard as an effect",
+            "Modifies which cards can be used as Fusion Material",
+            "Uses cards in the player's Graveyard as Fusion Materials"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your Graveyard",
+            "Banishes Fusion Materials used in a Fusion Summon"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

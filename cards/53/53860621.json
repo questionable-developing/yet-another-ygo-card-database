@@ -1,0 +1,87 @@
+{
+    "cid": "47455fee-874b-4519-b90d-8cce6234b0f6",
+    "password": "53860621",
+    "kid": 13855,
+    "name": "Glowing Crossbow",
+    "name_jp": "グローウィング・ボウガン",
+    "name_jp_rom": "Gurōwingu Bougan",
+    "name_jp_tl": "Glowing Bowgun",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a \"Blackwing\" monster. It gains 500 ATK/DEF. You can only use each of the following effects of \"Glowing Crossbow\" once per turn.<br />● If the equipped monster destroys an opponent's monster by battle: You can discard 1 random card from your opponent's hand.<br />● If this card is sent to the GY because the equipped monster was used as a Synchro Material: You can add this card from the GY to your hand.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a \"Blackwing\" monster. It gains 500 ATK/DEF. You can only use each of the following effects of \"Glowing Crossbow\" once per turn.\n● If the equipped monster destroys an opponent's monster by battle: You can discard 1 random card from your opponent's hand.\n● If this card is sent to the GY because the equipped monster was used as a Synchro Material: You can add this card from the GY to your hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GlowingCrossbow-LDS2-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LED3-EN026",
+            "set": "Legendary Duelists: White Dragon Abyss",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LDS2-EN045",
+            "set": "Legendary Duelists: Season 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Condition, Trigger-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Blackwing"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "Your opponent discards",
+            "Activates from your Graveyard",
+            "Returns itself from Graveyard to hand"
+        ],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped gains DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Only once per turn"
+        ]
+    }
+}

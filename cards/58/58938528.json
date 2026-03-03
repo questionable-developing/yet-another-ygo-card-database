@@ -1,0 +1,103 @@
+{
+    "cid": "6a37881c-50f8-46b7-9975-a2b31a19ebaf",
+    "password": "58938528",
+    "kid": 17114,
+    "name": "Performapal Ladyange",
+    "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>レディアンジュ",
+    "name_jp_rom": "Entameito Redi Anju",
+    "name_jp_tl": "Entermate Ladyange",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": true,
+    "subtypes": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1000,
+    "def": 1500,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": 1,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn, when an attack is declared involving your monster and an opponent's monster: You can discard 1 Pendulum Monster; that opponent's monster loses 1000 ATK, until the end of this turn.\n\n[ Monster Effect ] \nYou can discard this card and 1 \"Performapal\" monster, except \"Performapal Ladyange\"; draw 2 cards. If this card is in your GY and you control an \"Odd-Eyes\" card or \"Performapal Gentrude\": You can place this card in your Pendulum Zone. You can only use 1 \"Performapal Ladyange\" effect per turn, and only once that turn.",
+    "pend_eff": "Once per turn, when an attack is declared involving your monster and an opponent's monster: You can discard 1 Pendulum Monster; that opponent's monster loses 1000 ATK, until the end of this turn.",
+    "mnst_eff": "You can discard this card and 1 \"Performapal\" monster, except \"Performapal Ladyange\"; draw 2 cards. If this card is in your GY and you control an \"Odd-Eyes\" card or \"Performapal Gentrude\": You can place this card in your Pendulum Zone. You can only use 1 \"Performapal Ladyange\" effect per turn, and only once that turn.",
+    "eff": "You can discard this card and 1 \"Performapal\" monster, except \"Performapal Ladyange\"; draw 2 cards. If this card is in your GY and you control an \"Odd-Eyes\" card or \"Performapal Gentrude\": You can place this card in your Pendulum Zone. You can only use 1 \"Performapal Ladyange\" effect per turn, and only once that turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformapalLadyange-DIFO-JP-R.png",
+            "art": "PerformapalLadyange-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "PerformapalLadyange-DIFO-EN-SR-1E.png",
+            "art": "PerformapalLadyange-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "DIFO-EN002",
+            "set": "Dimension Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger-like"
+        ],
+        "eff_types": [
+            "Ignition, Ignition, Condition"
+        ],
+        "mentions": [
+            "Performapal Ladyange",
+            "Performapal Gentrude"
+        ],
+        "sup": [
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Performapal"
+        ],
+        "suparc": [
+            "Performapal",
+            "Odd-Eyes"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "You discard for cost",
+            "Activates from your hand",
+            "Discards itself for cost",
+            "You draw cards",
+            "Activates from your Graveyard",
+            "Goes to Pendulum Zone"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Requires control of specific archetype",
+            "Requires control of specific card",
+            "Only 1 effect once per turn"
+        ]
+    }
+}

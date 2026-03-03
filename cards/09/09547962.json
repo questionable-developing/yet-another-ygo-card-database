@@ -1,0 +1,86 @@
+{
+    "cid": "9bfd3ea4-f8b5-4eb8-a318-1732b6316e08",
+    "yid": null,
+    "password": "09547962",
+    "kid": 13426,
+    "name": "Euler's Circuit",
+    "name_jp": "オイラーサーキット",
+    "name_jp_rom": "Oirā Sākitto",
+    "name_jp_tl": "Euler Circuit",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Your opponent's monsters cannot attack if you control 3 or more \"Tindangle\" monsters. Once per turn, during your Standby Phase: You can target 1 \"Tindangle\" monster you control; give control of it to your opponent. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Euler's Circuit\" from your Deck to your hand. You can only use this effect of \"Euler's Circuit\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Your opponent's monsters cannot attack if you control 3 or more \"Tindangle\" monsters. Once per turn, during your Standby Phase: You can target 1 \"Tindangle\" monster you control; give control of it to your opponent. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Euler's Circuit\" from your Deck to your hand. You can only use this effect of \"Euler's Circuit\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "EulersCircuit-EXFO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXFO-EN055",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Euler's Circuit"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Tindangle"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Gives control of your monster",
+            "Activates from your Graveyard",
+            "You discard for cost",
+            "Adds from Deck to hand",
+            "Adds copies of itself to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Prevents your opponent's monsters from attacking"
+        ],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Only once per turn",
+            "During the Standby Phase"
+        ]
+    }
+}

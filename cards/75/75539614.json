@@ -1,0 +1,83 @@
+{
+    "cid": "a3bda089-3785-401b-b4a8-45a57243a70d",
+    "password": "75539614",
+    "kid": 12008,
+    "name": "Psychic Blade",
+    "name_jp": "サイコ・ブレイド",
+    "name_jp_rom": "Saiko Bureido",
+    "name_jp_tl": "Psycho Blade",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay LP in multiples of 100 (max. 2000); equip this card to a monster. It gains that much ATK and DEF. You can only activate 1 \"Psychic Blade\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay LP in multiples of 100 (max. 2000); equip this card to a monster. It gains that much ATK and DEF. You can only activate 1 \"Psychic Blade\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PsychicBlade-MP16-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DOCS-EN064",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP16-EN150",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Continuous-like, Condition"
+        ],
+        "mentions": [
+            "Psychic Blade"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped gains DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

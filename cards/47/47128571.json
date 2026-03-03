@@ -1,0 +1,81 @@
+{
+    "cid": "412921a7-74b4-4c9a-b29b-01952eb4d07c",
+    "password": "47128571",
+    "kid": 14980,
+    "name": "Hidden Fangs of Revenge",
+    "name_jp": "<ruby lang=\"jp\"><rb>報</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>復</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>隠</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby>し<ruby lang=\"jp\"><rb>歯</rb><rp> (</rp><rt>ば</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Hōfuku no Kakushiba",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Neither player can activate cards or effects in response to this card's activation. When a monster declares an attack: Destroy 2 Set cards you control, and if you do, negate that attack, then, if any Monster Cards were destroyed by this effect and sent to the GY, choose 1 and destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster's DEF, then it becomes the End Phase. You can only activate 1 \"Hidden Fangs of Revenge\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Neither player can activate cards or effects in response to this card's activation. When a monster declares an attack: Destroy 2 Set cards you control, and if you do, negate that attack, then, if any Monster Cards were destroyed by this effect and sent to the GY, choose 1 and destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster's DEF, then it becomes the End Phase. You can only activate 1 \"Hidden Fangs of Revenge\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "HiddenFangsofRevenge-BROL-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BROL-EN050",
+            "set": "Brothers of Legend",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Activation requirement, Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Skips Battle Phase",
+            "Skips Main Phase 2",
+            "Ends your turn",
+            "Ends your opponent's turn"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your face-down Monster Cards",
+            "Destroys your face-down Spell Cards",
+            "Destroys your face-down Trap Cards",
+            "Destroys your opponent's face-up Monster Cards",
+            "Prevents responding to its activation"
+        ],
+        "summoning": [],
+        "attack": [
+            "Negates attacks"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

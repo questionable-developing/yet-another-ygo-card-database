@@ -1,0 +1,97 @@
+{
+    "cid": "e0f24dbb-bfd6-4d6c-91b0-3c82847dd463",
+    "password": "78225596",
+    "kid": 15396,
+    "name": "Appliancer Celtopus",
+    "name_jp": "<ruby lang=\"jp\"><rb>充</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>塊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>セルトパス",
+    "name_jp_rom": "Jūdenkikai Serutopasu",
+    "name_jp_tl": "Charging Appliancer Celtopus",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": null,
+    "lrl": 2,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": 2,
+    "arrows": [
+        "Bottom-Left",
+        "Bottom-Center"
+    ],
+    "desc": "2 \"Appliancer\" monsters<br />This linked card cannot be targeted by your opponent's card effects, or their monsters' attacks. During damage calculation, if an \"Appliancer\" Link Monster you control co-linked to this card battles an opponent's monster: Your battling monster gains ATK equal to the number of monsters co-linked to this card x 1000, during that damage calculation only. Once per turn, if an \"Appliancer\" Link Monster(s) you control that is not co-linked to this card is destroyed by battle or card effect: You can draw 1 card.",
+    "pend_eff": null,
+    "mnst_eff": "2 \"Appliancer\" monsters\nThis linked card cannot be targeted by your opponent's card effects, or their monsters' attacks. During damage calculation, if an \"Appliancer\" Link Monster you control co-linked to this card battles an opponent's monster: Your battling monster gains ATK equal to the number of monsters co-linked to this card x 1000, during that damage calculation only. Once per turn, if an \"Appliancer\" Link Monster(s) you control that is not co-linked to this card is destroyed by battle or card effect: You can draw 1 card.",
+    "eff": "2 \"Appliancer\" monsters\nThis linked card cannot be targeted by your opponent's card effects, or their monsters' attacks. During damage calculation, if an \"Appliancer\" Link Monster you control co-linked to this card battles an opponent's monster: Your battling monster gains ATK equal to the number of monsters co-linked to this card x 1000, during that damage calculation only. Once per turn, if an \"Appliancer\" Link Monster(s) you control that is not co-linked to this card is destroyed by battle or card effect: You can draw 1 card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AppliancerCeltopus-BLAR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLAR-EN038",
+            "set": "Battles of Legend: Armageddon",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous, Trigger, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "Link Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Appliancer"
+        ],
+        "suparc": [
+            "Appliancer"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "You draw cards"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [
+            "Cannot be targeted by card effects"
+        ],
+        "summoning": [
+            "2 Link Materials",
+            "Requires archetype specific Link Materials"
+        ],
+        "attack": [
+            "Cannot be targeted for attacks"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Co-link",
+            "Requires control of specific archetype",
+            "Limited activations"
+        ]
+    }
+}

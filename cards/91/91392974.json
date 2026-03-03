@@ -1,0 +1,89 @@
+{
+    "cid": "da60962c-db45-4e85-a10f-439de306bc13",
+    "password": "91392974",
+    "kid": 9228,
+    "name": "Apparition",
+    "name_jp": "<ruby lang=\"jp\"><rb>出</rb><rp> (</rp><rt>しゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shutsugen",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a face-up \"HERO\" monster(s) you control is destroyed by battle or card effect: Special Summon 1 Level 4 or lower \"Vision HERO\" monster from your Deck, then you can halve the original ATK/DEF of 1 monster your opponent controls. You can only activate 1 \"Apparition\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If a face-up \"HERO\" monster(s) you control is destroyed by battle or card effect: Special Summon 1 Level 4 or lower \"Vision HERO\" monster from your Deck, then you can halve the original ATK/DEF of 1 monster your opponent controls. You can only activate 1 \"Apparition\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Apparition-BLC1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLHR-EN013",
+            "set": "Battles of Legend: Hero's Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "BLC1-EN087",
+            "set": "Battles of Legend: Chapter 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "HERO",
+            "Vision HERO"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK",
+            "Your opponent's monsters lose DEF",
+            "Halves ATK",
+            "Halves DEF"
+        ],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Deck"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

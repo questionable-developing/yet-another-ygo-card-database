@@ -1,0 +1,86 @@
+{
+    "cid": "7187d845-a49e-44f3-baca-95d346a21ddb",
+    "yid": null,
+    "password": "36099620",
+    "kid": 7626,
+    "name": "Realm of Light",
+    "name_jp": "ジャスティス・ワールド",
+    "name_jp_rom": "Jasutisu Wārudo",
+    "name_jp_tl": "Justice World",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All \"Lightsworn\" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All \"Lightsworn\" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RealmofLight-SDLI-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LODT-EN053",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDLI-EN025",
+            "set": "Realm of Light Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Continuous-like, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Lightsworn"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [
+            "Shine Counter",
+            "Places counters on itself",
+            "Removes counters from itself"
+        ],
+        "action": [],
+        "stat_change": [
+            "All monsters gain ATK"
+        ],
+        "mst": [
+            "Redirects destruction",
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

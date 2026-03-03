@@ -1,0 +1,86 @@
+{
+    "cid": "17da1291-c8ed-453f-8611-a15b3d97d0e8",
+    "password": "49658464",
+    "kid": 17470,
+    "name": "Digit Jamming",
+    "name_jp": "<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>千</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>ジャミング",
+    "name_jp_rom": "Musen Jamingu",
+    "name_jp_tl": "Anti-Thousands Jamming",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During damage calculation, if a monster battles while a monster with 1000 or more ATK is on the field: The ATK of all monsters currently on the field becomes reduced by 1000 for every 1000 ATK they have, also their DEF becomes reduced by 1000 for every 1000 DEF they have. If this card is destroyed: Apply the above ATK/DEF adjustments to all monsters currently on the field, until the end of this turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During damage calculation, if a monster battles while a monster with 1000 or more ATK is on the field: The ATK of all monsters currently on the field becomes reduced by 1000 for every 1000 ATK they have, also their DEF becomes reduced by 1000 for every 1000 DEF they have. If this card is destroyed: Apply the above ATK/DEF adjustments to all monsters currently on the field, until the end of this turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DigitJamming-MP24-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "POTE-EN068",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP23-EN143",
+            "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN303",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed"
+        ],
+        "stat_change": [
+            "Changes ATK value",
+            "Changes DEF value"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

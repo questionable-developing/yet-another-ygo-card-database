@@ -1,0 +1,78 @@
+{
+    "cid": "01e5c9f2-d6d1-45d1-9722-5a22c878918d",
+    "password": "86527709",
+    "kid": 20707,
+    "name": "Insect Invitation",
+    "name_jp": "<ruby lang=\"jp\"><rb>虫</rb><rp> (</rp><rt>むし</rt><rp>)</rp></ruby>だけエリアー",
+    "name_jp_rom": "Mushidake Eriā",
+    "name_jp_tl": "Insect-Only Area",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Face-up monsters your opponent controls that were not Summoned this turn become Insect. You can only use each of the following effects of \"Insect Invitation\" once per turn. You can target 3 of your banished Insect monsters; shuffle them into the Deck, then draw 1 card. During the End Phase, if this card is in the GY because it was sent there from the hand this turn: You can place this card face-up in your Spell & Trap Zone.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Face-up monsters your opponent controls that were not Summoned this turn become Insect. You can only use each of the following effects of \"Insect Invitation\" once per turn. You can target 3 of your banished Insect monsters; shuffle them into the Deck, then draw 1 card. During the End Phase, if this card is in the GY because it was sent there from the hand this turn: You can place this card face-up in your Spell & Trap Zone.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "InsectInvitation-ROTA-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ROTA-EN083",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Condition, Ignition-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Insect"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns the player's banished cards to the Deck",
+            "You draw cards",
+            "Activates from your Graveyard",
+            "Places cards from Graveyard in Spell & Trap Zone"
+        ],
+        "stat_change": [
+            "Changes Type"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

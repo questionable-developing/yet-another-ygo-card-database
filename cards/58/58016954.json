@@ -1,0 +1,98 @@
+{
+    "cid": "7a71d4e1-8c64-4768-8620-dc4c2dfb22a2",
+    "password": "58016954",
+    "kid": 11697,
+    "name": "Shaddoll Zefranaga",
+    "name_jp": "イェシャドール－セフィラナーガ",
+    "name_jp_rom": "Yeshadōru - Sefiranāga",
+    "name_jp_tl": "Yeshaddoll - Sephiranaga",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 900,
+    "def": 100,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": 1,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nYou cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.\n\n[ Monster Effect ] \nIf this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
+    "pend_eff": "You cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.",
+    "mnst_eff": "If this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
+    "eff": "If this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ShaddollZefranaga-SDSH-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CROS-EN022",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDSH-EN010",
+            "set": "Structure Deck: Shaddoll Showdown",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Continuous-like, Condition"
+        ],
+        "eff_types": [
+            "Trigger, Condition, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Shaddoll",
+            "Zefra"
+        ],
+        "suparc": [
+            "Shaddoll",
+            "Zefra"
+        ],
+        "asuparc": [],
+        "rel": [
+            "lswarm",
+            "Constellar"
+        ],
+        "counter": [],
+        "action": [
+            "Effect that cannot be negated",
+            "Activates upon Pendulum Summon",
+            "Activates from your Graveyard",
+            "Returns from field to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Restricts the player's Pendulum Summons to archetype specific monsters"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

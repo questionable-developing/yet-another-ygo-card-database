@@ -1,0 +1,76 @@
+{
+    "cid": "7be71c3e-afd8-45fc-8f5e-75dbd2dfb8da",
+    "password": "43618262",
+    "kid": 18543,
+    "name": "Hatsugai",
+    "name_jp": "<ruby lang=\"jp\"><rb>初</rb><rp> (</rp><rt>はつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>買</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby>い",
+    "name_jp_rom": "Hatsugai",
+    "name_jp_tl": "First Purchase of the Year",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Excavate the top 5 cards of your opponent's Deck (or as many as possible), choose 1 excavated card, and declare a number in multiples of 100 (min. 100, max. 3000). Your opponent can choose to gain LP equal to the declared number. If they gained LP, you lose that amount of LP, and if you do, add that chosen card to your hand, also place the rest on top of the Deck in the same order. If they did not, place the excavated cards on top of the Deck in the same order.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Excavate the top 5 cards of your opponent's Deck (or as many as possible), choose 1 excavated card, and declare a number in multiples of 100 (min. 100, max. 3000). Your opponent can choose to gain LP equal to the declared number. If they gained LP, you lose that amount of LP, and if you do, add that chosen card to your hand, also place the rest on top of the Deck in the same order. If they did not, place the excavated cards on top of the Deck in the same order.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Hatsugai-CYAC-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CYAC-EN080",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Excavates from the opponent's Deck",
+            "Declares Life Points",
+            "Adds excavated cards to the hand",
+            "Exchanges cards",
+            "Places excavated cards on the top of the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Your opponent gains Life Points",
+            "You lose Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

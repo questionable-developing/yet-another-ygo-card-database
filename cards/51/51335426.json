@@ -1,0 +1,83 @@
+{
+    "cid": "fac8f81c-85be-4068-ada7-6d9443d0d202",
+    "password": "51335426",
+    "kid": 13617,
+    "name": "Link Bound",
+    "name_jp": "バウンドリンク",
+    "name_jp_rom": "Baundo Rinku",
+    "name_jp_tl": "Bound Link",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Link Monster you control or in your GY; return it to the Extra Deck, and if you do, draw cards equal to its Link Rating, then place cards from your hand on the bottom of the Deck, in any order, equal to the number of cards you drew. You can only activate 1 \"Link Bound\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Link Monster you control or in your GY; return it to the Extra Deck, and if you do, draw cards equal to its Link Rating, then place cards from your hand on the bottom of the Deck, in any order, equal to the number of cards you drew. You can only activate 1 \"Link Bound\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LinkBound-SDSB-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "FLOD-EN063",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SDSB-EN030",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Link Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns from your field to your Extra Deck",
+            "Returns from your Graveyard to your Extra Deck",
+            "You draw cards",
+            "Places cards from the player's hand on the bottom of the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

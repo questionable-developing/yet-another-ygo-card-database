@@ -1,0 +1,87 @@
+{
+    "cid": "50a060ec-7323-4a5a-abd5-91e35e35666b",
+    "password": "70389815",
+    "kid": 16017,
+    "name": "Amazing Time Ticket",
+    "name_jp": "アメイジングタイムチケット",
+    "name_jp_rom": "Ameijingu Taimu Chiketto",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay 800 LP; apply this effect, depending whose turn it is.<br />● Your turn: Add 1 \"Amazement\" card from your Deck to your hand.<br />● Your opponent's turn: Set 1 \"Attraction\" Trap directly from your Deck. It can be activated this turn.<br />You can only activate 1 \"Amazing Time Ticket\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay 800 LP; apply this effect, depending whose turn it is.\n● Your turn: Add 1 \"Amazement\" card from your Deck to your hand.\n● Your opponent's turn: Set 1 \"Attraction\" Trap directly from your Deck. It can be activated this turn.\nYou can only activate 1 \"Amazing Time Ticket\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AmazingTimeTicket-LIOV-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LIOV-ENSP1",
+            "set": "Lightning Overdrive Premiere! promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-EN056",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Amazement",
+            "Attraction"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Sets from your Deck"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Allows activation of Trap Cards the turn they were Set"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

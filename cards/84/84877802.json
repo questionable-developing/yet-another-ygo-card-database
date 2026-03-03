@@ -1,0 +1,85 @@
+{
+    "cid": "82b57108-4db6-4f64-8dd6-7f7aeb781ef8",
+    "password": "84877802",
+    "kid": 10539,
+    "name": "Magnum Shield",
+    "name_jp": "<ruby lang=\"jp\"><rb>最</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>盾</rb><rp> (</rp><rt>たて</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Saikyō no Tate",
+    "name_jp_tl": "The Strongest Shield",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.<br />● Attack Position: It gains ATK equal to its original DEF.<br />● Defense Position: It gains DEF equal to its original ATK.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.\n● Attack Position: It gains ATK equal to its original DEF.\n● Defense Position: It gains DEF equal to its original ATK.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MagnumShield-MP14-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LTGY-EN058",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP14-EN035",
+            "set": "2014 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Warrior"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Heroic",
+            "Heroic Champion"
+        ],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped gains DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Variable effects"
+        ]
+    }
+}

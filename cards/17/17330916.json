@@ -1,0 +1,98 @@
+{
+    "cid": "502074d1-030a-4a41-b32f-b6bcef2893e5",
+    "yid": null,
+    "password": "17330916",
+    "kid": 12111,
+    "name": "Performapal Monkeyboard",
+    "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>モンキーボード",
+    "name_jp_rom": "Entameito Monkībōdo",
+    "name_jp_tl": "Entermate Monkeyboard",
+    "type": "Monster",
+    "attribute": "EARTH",
+    "pend": true,
+    "subtypes": [
+        "Beast",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1000,
+    "def": 2400,
+    "lrl": 6,
+    "level": 6,
+    "rank": null,
+    "scale": 1,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nUnless you have a \"Performapal\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. During your Main Phase, if this card was activated this turn: You can add 1 Level 4 or lower \"Performapal\" monster from your Deck to your hand. You can only use this effect of \"Performapal Monkeyboard\" once per turn.\n\n[ Monster Effect ] \nYou can discard this card; reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set).",
+    "pend_eff": "Unless you have a \"Performapal\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. During your Main Phase, if this card was activated this turn: You can add 1 Level 4 or lower \"Performapal\" monster from your Deck to your hand. You can only use this effect of \"Performapal Monkeyboard\" once per turn.",
+    "mnst_eff": "You can discard this card; reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set).",
+    "eff": "You can discard this card; reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set).",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformapalMonkeyboard-OP01-EN-SR-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BOSH-EN003",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "OP01-EN008",
+            "set": "OTS Tournament Pack 1",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Continuous-like, Ignition-like, Condition"
+        ],
+        "eff_types": [
+            "Ignition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performapal"
+        ],
+        "suparc": [
+            "Performapal",
+            "Odd-Eyes"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Applies effect if other Pendulum Zone is not occupied by specific card",
+            "Adds from Deck to hand",
+            "Activates from your hand",
+            "Discards itself for cost",
+            "Reveals your hand for effect"
+        ],
+        "stat_change": [
+            "Changes own Pendulum Scale",
+            "Your monsters lose Levels",
+            "Modifies the Levels of monsters in the hand"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

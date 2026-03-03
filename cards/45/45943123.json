@@ -1,0 +1,96 @@
+{
+    "cid": "0ff70316-b963-4b22-8efa-e4e656fc6151",
+    "password": "45943123",
+    "kid": 15049,
+    "name": "Torpedo Takedown",
+    "name_jp": "エアー・トルピード",
+    "name_jp_rom": "Eā Torupīdo",
+    "name_jp_tl": "Air Torpedo",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 WATER Xyz Monster you control; detach 1 material from it, inflict 400 damage to your opponent for each card in your hand, and if you do, that monster gains ATK equal to the damage inflicted, until the end of this turn. You can banish this card and 1 WATER Xyz Monster from your GY; draw 2 cards. You can only use 1 \"Torpedo Takedown\" effect per turn, and only once that turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 WATER Xyz Monster you control; detach 1 material from it, inflict 400 damage to your opponent for each card in your hand, and if you do, that monster gains ATK equal to the damage inflicted, until the end of this turn. You can banish this card and 1 WATER Xyz Monster from your GY; draw 2 cards. You can only use 1 \"Torpedo Takedown\" effect per turn, and only once that turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TorpedoTakedown-MP21-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ETCO-EN063",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN078",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "WATER",
+            "Xyz Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Signature move"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Shark (archetype)"
+        ],
+        "counter": [],
+        "action": [
+            "Detaches Xyz Materials for effect",
+            "Activates from your Graveyard",
+            "You draw cards"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost",
+            "Banishes from Graveyard for cost"
+        ],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Attribute",
+            "Requires control of specific Monster card type",
+            "Only 1 effect once per turn"
+        ]
+    }
+}

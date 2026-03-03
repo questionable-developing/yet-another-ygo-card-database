@@ -1,0 +1,103 @@
+{
+    "cid": "3ca7b1c7-f676-4ac5-b5bc-5dcefbeb9284",
+    "password": "49511705",
+    "kid": 13475,
+    "name": "Proton Blast",
+    "name_jp": "<ruby lang=\"jp\"><rb>銃砲撃</rb><rp> (</rp><rt>ガン・キャノン・ショット</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Gan Kyanon Shotto",
+    "name_jp_tl": "Gun Cannon Shot",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, if an activated card effect tosses coins, immediately after it resolves, apply the following effect(s), depending on the number of heads.<br />● 1+: Inflict 500 damage to your opponent.<br />● 2+: Destroy 1 card your opponent controls.<br />● 3+: Look at your opponent's hand and discard 1 card from their hand.<br />When an effect is activated that tosses a coin 2 or more times: You can banish this card from the GY; treat all results as heads.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, if an activated card effect tosses coins, immediately after it resolves, apply the following effect(s), depending on the number of heads.\n● 1+: Inflict 500 damage to your opponent.\n● 2+: Destroy 1 card your opponent controls.\n● 3+: Look at your opponent's hand and discard 1 card from their hand.\nWhen an effect is activated that tosses a coin 2 or more times: You can banish this card from the GY; treat all results as heads.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ProtonBlast-DP19-JP-C.png",
+            "art": "ProtonBlast-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "ProtonBlast-LDS1-EN-C-1E.png",
+            "art": "ProtonBlast-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "LED2-EN017",
+            "set": "Legendary Duelists: Ancient Millennium",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LDS1-EN079",
+            "set": "Legendary Duelists: Season 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Quick-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Coin toss"
+        ],
+        "asup": [
+            "Coin toss"
+        ],
+        "arc": [
+            "Signature move"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Gun Dragon"
+        ],
+        "counter": [],
+        "action": [
+            "Reveals your opponent's hand",
+            "Your opponent discards",
+            "Changes coin toss result"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's Monster Cards",
+            "Destroys your opponent's Spell Cards",
+            "Destroys your opponent's Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Coin toss",
+            "Variable effects"
+        ]
+    }
+}

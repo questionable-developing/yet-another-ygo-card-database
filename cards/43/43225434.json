@@ -1,0 +1,94 @@
+{
+    "cid": "7cd2a49d-c6d3-404f-b3f2-4f3b272d702c",
+    "password": "43225434",
+    "kid": 11162,
+    "name": "Battle Fusion",
+    "name_jp": "<ruby lang=\"jp\"><rb>決</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>－バトル・フュージョン",
+    "name_jp_rom": "Kettō Yūgō - Batoru Fyūjon",
+    "name_jp_tl": "Duel Fusion - Battle Fusion",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When an attack is declared involving a Fusion Monster you control and an opponent's monster: That monster you control gains ATK equal to the ATK of the opponent's monster, until the end of the Damage Step. You can only activate 1 \"Battle Fusion\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When an attack is declared involving a Fusion Monster you control and an opponent's monster: That monster you control gains ATK equal to the ATK of the opponent's monster, until the end of the Damage Step. You can only activate 1 \"Battle Fusion\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BattleFusion-DLCS-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DRLG-EN017",
+            "set": "Dragons of Legend",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "FUEN-EN056",
+            "set": "Fusion Enforcers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DLCS-EN019",
+            "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Battle Fusion"
+        ],
+        "sup": [
+            "Fusion Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Fusion (archetype)",
+            "Polymerization (archetype)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

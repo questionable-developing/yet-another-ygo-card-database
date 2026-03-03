@@ -1,0 +1,79 @@
+{
+    "cid": "4e74404a-f5a5-4d2d-90c0-4ec4915c130b",
+    "password": "96029570",
+    "kid": 19742,
+    "name": "Ebon Sun",
+    "name_jp": "<ruby lang=\"jp\"><rb>漆</rb><rp> (</rp><rt>しっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>太</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shikkoku no Taiyō",
+    "name_jp_tl": "Pitch-Black Sun",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a face-up monster(s) you control is destroyed by battle or card effect: You can gain LP equal to their combined original ATK. If a monster(s) is Special Summoned face-up from your GY (except during the Damage Step): You can target 1 of them; it gains 1000 ATK. If a Spell/Trap(s) is discarded from your hand to your GY (except during the Damage Step): You can target 1 of them; add it to your hand. You can only use each effect of \"Ebon Sun\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If a face-up monster(s) you control is destroyed by battle or card effect: You can gain LP equal to their combined original ATK. If a monster(s) is Special Summoned face-up from your GY (except during the Damage Step): You can target 1 of them; it gains 1000 ATK. If a Spell/Trap(s) is discarded from your hand to your GY (except during the Damage Step): You can target 1 of them; add it to your hand. You can only use each effect of \"Ebon Sun\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "EbonSun-BLTR-EN-ScR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLTR-EN027",
+            "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Activates upon Special Summon",
+            "Activates if discarded",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [
+            "All monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "cid": "2d762c89-46c2-4119-8a2e-3f39ef0139fd",
+    "password": "88928798",
+    "kid": 8842,
+    "name": "Guard Mines",
+    "name_jp": "ボム・ガード",
+    "name_jp_rom": "Bomu Gādo",
+    "name_jp_tl": "Bomb Guard",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GuardMines-DP11-EN-C-1E.jpg",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TSHD-EN067",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP11-EN028",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if targeted by card effect"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the activation of your opponent's Spell Cards",
+            "Negates the activation of your opponent's Trap Cards",
+            "Negates the activation of your opponent's Effect Monster's effect",
+            "Destroys your opponent's Spell Cards",
+            "Destroys your opponent's Trap Cards",
+            "Destroys your opponent's Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "cid": "7b120d72-5f0e-4dad-a148-c951ad60e311",
+    "password": "74713516",
+    "kid": 6101,
+    "name": "Dark Mimic LV1",
+    "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby>のミミック <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>１",
+    "name_jp_rom": "Ankoku no Mimikku Reberu Wan",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Flip",
+        "Effect"
+    ],
+    "atk": 100,
+    "def": 1000,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: Draw 1 card.<br />Once per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+    "eff": "FLIP: Draw 1 card.\nOnce per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 \"Dark Mimic LV3\" from your hand or Deck.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DarkMimicLV1-SS05-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOD-EN009",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR3-EN009",
+            "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "GLD5-EN017",
+            "set": "Gold Series: Haunted Mine",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SS05-ENA18",
+            "set": "Speed Duel Starter Decks: Twisted Nightmares",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Flip, Trigger"
+        ],
+        "mentions": [
+            "Dark Mimic LV3"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "LV"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "You draw cards",
+            "Sends itself from field to Graveyard for cost"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your hand",
+            "Special Summons from your Deck"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    }
+}

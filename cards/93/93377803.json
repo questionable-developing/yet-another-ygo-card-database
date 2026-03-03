@@ -1,0 +1,100 @@
+{
+    "cid": "f975da64-dd70-40eb-99f3-8671bc857594",
+    "password": "93377803",
+    "kid": 13781,
+    "name": "Solitary Sword of Poison",
+    "name_jp": "<ruby lang=\"jp\"><rb>孤</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>毒</rb><rp> (</rp><rt>どく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>つるぎ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kodoku no Tsurugi",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a monster you control. If the equipped monster battles an opponent's monster, the equipped monster's original ATK/DEF is doubled during damage calculation only. If you control a monster other than the equipped monster, send this card to the GY. You can only control 1 \"Solitary Sword of Poison\".",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a monster you control. If the equipped monster battles an opponent's monster, the equipped monster's original ATK/DEF is doubled during damage calculation only. If you control a monster other than the equipped monster, send this card to the GY. You can only control 1 \"Solitary Sword of Poison\".",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SolitarySwordofPoison-SBC1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CYHO-EN065",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP19-EN123",
+            "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SBCB-EN078",
+            "set": "Speed Duel: Battle City Box",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SBC1-ENA14",
+            "set": "Speed Duel: Streets of Battle City",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Continuous-like, Unclassified"
+        ],
+        "mentions": [
+            "Solitary Sword of Poison"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends itself from field to Graveyard"
+        ],
+        "stat_change": [
+            "Changes ATK value of equipped",
+            "Changes DEF value of equipped",
+            "Changes original ATK",
+            "Changes original DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Control only one"
+        ]
+    }
+}

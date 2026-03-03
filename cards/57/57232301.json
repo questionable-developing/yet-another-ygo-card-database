@@ -1,0 +1,80 @@
+{
+    "cid": "b65e5bf3-b569-4ae6-80e9-1af4949acd38",
+    "password": "57232301",
+    "kid": 21049,
+    "name": "Shadow Severing Strike",
+    "name_jp": "<ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>烈</rb><rp> (</rp><rt>れっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>ぱ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Dan'ei Reppa",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a card(s) is banished from the hand and/or field to activate a monster effect (except during the Damage Step): You can apply 1 of the following effects based on 1 of the card types banished.<br />● Monster: Negate the effects of 1 face-up Spell/Trap on the field until the end of this turn.<br />● Spell: Draw 2 cards. ● Trap: Banish 1 monster on the field.<br />If this card is banished to activate a monster effect: You can add 1 of your other banished cards to your hand. You can only use each effect of \"Shadow Severing Strike\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If a card(s) is banished from the hand and/or field to activate a monster effect (except during the Damage Step): You can apply 1 of the following effects based on 1 of the card types banished.\n● Monster: Negate the effects of 1 face-up Spell/Trap on the field until the end of this turn.\n● Spell: Draw 2 cards. ● Trap: Banish 1 monster on the field.\nIf this card is banished to activate a monster effect: You can add 1 of your other banished cards to your hand. You can only use each effect of \"Shadow Severing Strike\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ShadowSeveringStrike-SUDA-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SUDA-EN085",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if other cards are banished",
+            "You draw cards",
+            "Activates while banished",
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of Spell Cards",
+            "Negates the effects of Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

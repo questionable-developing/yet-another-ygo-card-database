@@ -1,0 +1,97 @@
+{
+    "cid": "e76cf496-b197-4c44-94b5-8cf2c43b3968",
+    "password": "66698383",
+    "kid": 12818,
+    "name": "Vermillion Dragon Mech",
+    "name_jp": "<ruby lang=\"jp\"><rb>灼銀の機竜</rb><rp> (</rp><rt>ドラッグ・オン・ヴァーミリオン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Doraggu On Vāmirion",
+    "name_jp_tl": "Drag-On Vermillion",
+    "type": "Monster",
+    "attribute": "FIRE",
+    "pend": false,
+    "subtypes": [
+        "Machine",
+        "Synchro",
+        "Effect"
+    ],
+    "atk": 2700,
+    "def": 1800,
+    "lrl": 9,
+    "level": 9,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "1 Tuner + 1+ non-Tuner monsters<br />Once per turn: You can banish 1 Tuner from your hand, GY, or face-up field, then target 1 card on the field; destroy it. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 of your banished Tuners; add it to your hand.",
+    "pend_eff": null,
+    "mnst_eff": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can banish 1 Tuner from your hand, GY, or face-up field, then target 1 card on the field; destroy it. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 of your banished Tuners; add it to your hand.",
+    "eff": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can banish 1 Tuner from your hand, GY, or face-up field, then target 1 card on the field; destroy it. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 of your banished Tuners; add it to your hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "VermillionDragonMech-DUDE-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "INOV-EN081",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DUDE-EN015",
+            "set": "Duel Devastator",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "Tuner monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by card effect",
+            "Activates from your Graveyard",
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards",
+            "Destroys Spell Cards",
+            "Destroys Trap Cards"
+        ],
+        "summoning": [
+            "1 or more non-Tuner Synchro Materials",
+            "Does not require specific Synchro Materials"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes from hand for cost",
+            "Banishes from field for cost",
+            "Banishes from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

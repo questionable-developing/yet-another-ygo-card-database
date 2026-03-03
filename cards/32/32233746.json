@@ -1,0 +1,91 @@
+{
+    "cid": "d39aaafd-2824-49a7-b381-a8992a4c6425",
+    "yid": null,
+    "password": "32233746",
+    "kid": 7803,
+    "name": "Vanquishing Light",
+    "name_jp": "ライト・バニッシュ",
+    "name_jp_rom": "Raito Banisshu",
+    "name_jp_tl": "Light Banish",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Counter",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a monster(s) would be Summoned: Tribute 1 \"Lightsworn\" monster; negate the Summon, and if you do, destroy that monster(s).",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When a monster(s) would be Summoned: Tribute 1 \"Lightsworn\" monster; negate the Summon, and if you do, destroy that monster(s).",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "VanquishingLight-DS14-JP-UR.png",
+            "art": "VanquishingLight-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "VanquishingLight-SDLI-EN-C-1E.png",
+            "art": "VanquishingLight-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "LODT-EN089",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SDLI-EN032",
+            "set": "Realm of Light Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Cost, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Lightsworn"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Tributes for cost"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards",
+            "Destroys negated Summons"
+        ],
+        "summoning": [
+            "Negates Normal Summons",
+            "Negates Flip Summons",
+            "Negates Special Summons"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

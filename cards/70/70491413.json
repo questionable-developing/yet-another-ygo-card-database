@@ -1,0 +1,76 @@
+{
+    "cid": "a4e6d5b8-85e1-4968-b3b4-5ade15cd20af",
+    "password": "70491413",
+    "kid": 17179,
+    "name": "Surprise Chain",
+    "name_jp": "サプライズ・チェーン",
+    "name_jp_rom": "Sapuraizu Chēn",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate only as Chain Link 2 or higher; apply the following effects, depending on the Chain Link number of this card, in sequence (skip over any that do not apply). You cannot activate this card if multiple cards/effects with the same name are in that Chain.<br />● 2+: Excavate the top cards of your Deck, equal to the Chain Link number of this card, then place them on the top of your Deck in any order.<br />● 3+: Send the top card of your Deck to the GY.<br />● 4+: Draw 1 card.<br />You can only activate 1 \"Surprise Chain\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate only as Chain Link 2 or higher; apply the following effects, depending on the Chain Link number of this card, in sequence (skip over any that do not apply). You cannot activate this card if multiple cards/effects with the same name are in that Chain.\n● 2+: Excavate the top cards of your Deck, equal to the Chain Link number of this card, then place them on the top of your Deck in any order.\n● 3+: Send the top card of your Deck to the GY.\n● 4+: Draw 1 card.\nYou can only activate 1 \"Surprise Chain\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SurpriseChain-DIFO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DIFO-EN068",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Excavates from the player's Deck",
+            "Places excavated cards on the top of the Deck",
+            "Sends from the top of your Deck to your Graveyard",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Chain Effects",
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "cid": "eab727d9-c92a-4f36-a1c5-12f9282dede4",
+    "password": "63144961",
+    "kid": 16241,
+    "name": "Majestic Absorption",
+    "name_jp": "セイヴァー・アブソープション",
+    "name_jp_rom": "Seivā Abusōpushon",
+    "name_jp_tl": "Savior Absorption",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 \"Stardust Dragon\", or 1 Synchro Monster that mentions it, that you control, then activate 1 of these effects;<br />● Equip 1 face-up monster your opponent controls to that target.<br />● It can attack directly this turn.<br />● This turn, each time it destroys an opponent's monster by battle, inflict damage to your opponent equal to the destroyed monster's original ATK.<br />You can only activate 1 \"Majestic Absorption\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 \"Stardust Dragon\", or 1 Synchro Monster that mentions it, that you control, then activate 1 of these effects;\n● Equip 1 face-up monster your opponent controls to that target.\n● It can attack directly this turn.\n● This turn, each time it destroys an opponent's monster by battle, inflict damage to your opponent equal to the destroyed monster's original ATK.\nYou can only activate 1 \"Majestic Absorption\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MajesticAbsorption-MP22-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DAMA-EN052",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP22-EN153",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Stardust Dragon"
+        ],
+        "sup": [
+            "Synchro Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Majestic"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Stardust (archetype)"
+        ],
+        "counter": [],
+        "action": [
+            "Equips monsters from the opponent's field",
+            "Activates if it destroys a monster by battle"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Treats monsters as Equip Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Allows direct attacks"
+        ],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific card",
+            "Requires control of specific Monster card type",
+            "Mentions",
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "cid": "537eb034-811a-4a6e-8c30-bacd50ec2f47",
+    "password": "89558743",
+    "kid": 16555,
+    "name": "Small World",
+    "name_jp": "スモール・ワールド",
+    "name_jp_rom": "Sumōru Wārudo",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Reveal 1 monster in your hand, choose 1 monster from your Deck that has exactly 1 of the same Type, Attribute, Level, ATK or DEF, and banish the revealed monster from your hand face-down. Then add, from the Deck to your hand, 1 monster that has exactly 1 of the same Type, Attribute, Level, ATK or DEF as the monster chosen from your Deck, and banish the card chosen from the Deck face-down. You can only activate 1 \"Small World\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Reveal 1 monster in your hand, choose 1 monster from your Deck that has exactly 1 of the same Type, Attribute, Level, ATK or DEF, and banish the revealed monster from your hand face-down. Then add, from the Deck to your hand, 1 monster that has exactly 1 of the same Type, Attribute, Level, ATK or DEF as the monster chosen from your Deck, and banish the card chosen from the Deck face-down. You can only activate 1 \"Small World\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SmallWorld-RA01-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BODE-EN069",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "MP22-EN225",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA01-EN067",
+            "set": "25th Anniversary Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Quarter Century Secret Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals your hand for effect",
+            "Reveals cards from your Deck",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your hand",
+            "Banishes face-down",
+            "Banishes from your Deck"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

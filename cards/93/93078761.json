@@ -1,0 +1,84 @@
+{
+    "cid": "5eba03f0-c480-410c-a0ec-1a4a3249df65",
+    "password": "93078761",
+    "kid": 15301,
+    "name": "Diced Dice",
+    "name_jp": "<ruby lang=\"jp\"><rb>賽</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>挑</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Saichōsen",
+    "name_jp_tl": "Dice Challenge",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Roll a six-sided die, and if you roll a 1 or 6, add 1 card from your Deck to your hand that requires a die roll. If you roll a number other than 1 or 6, roll it again, and apply the appropriate effect.<br />● 1 or 6: Return this card to the hand.<br />● 2, 3, 4, or 5: Place this card on top of the Deck.<br />You can only activate 1 \"Diced Dice\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Roll a six-sided die, and if you roll a 1 or 6, add 1 card from your Deck to your hand that requires a die roll. If you roll a number other than 1 or 6, roll it again, and apply the appropriate effect.\n● 1 or 6: Return this card to the hand.\n● 2, 3, 4, or 5: Place this card on top of the Deck.\nYou can only activate 1 \"Diced Dice\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DicedDice-MP21-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ROTD-EN067",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN146",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Die roll"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Returns itself from field to hand",
+            "Places itself from the player's field on the top of the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Die roll",
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

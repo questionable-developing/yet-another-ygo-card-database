@@ -1,0 +1,119 @@
+{
+    "cid": "78f13996-e6cb-43ce-9dea-8db9d2a0550a",
+    "password": "55226821",
+    "kid": 5110,
+    "name": "Lightning Blade",
+    "name_jp": "<ruby lang=\"jp\"><rb>稲</rb><rp> (</rp><rt>いな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妻</rb><rp> (</rp><rt>ずま</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Inazuma no Ken",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Warrior monster. It gains 800 ATK. All WATER monsters on the field lose 500 ATK.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Warrior monster. It gains 800 ATK. All WATER monsters on the field lose 500 ATK.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LightningBlade-SBC1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DB1-EN225",
+            "set": "Dark Beginning 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LON-EN022",
+            "set": "Labyrinth of Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD5-EN022",
+            "set": "Structure Deck: Warrior's Triumph",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YSDJ-EN023",
+            "set": "Starter Deck: Jaden Yuki",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RP02-EN032",
+            "set": "Retro Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SBCB-EN158",
+            "set": "Speed Duel: Battle City Box",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SBC1-ENB15",
+            "set": "Speed Duel: Streets of Battle City",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Warrior"
+        ],
+        "asup": [
+            "WATER"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Your monsters lose ATK",
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

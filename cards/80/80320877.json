@@ -1,0 +1,83 @@
+{
+    "cid": "bd398a16-4060-456d-bfa9-0a731df607c9",
+    "password": "80320877",
+    "kid": 21840,
+    "name": "DoomZ Destruction",
+    "name_jp": "<ruby lang=\"jp\"><rb>終刻決壊</rb><rp> (</rp><rt>ドゥームズ・デストラクション</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Dūmuzu Desutorakushon",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 \"DoomZ\" Xyz Monster you control; equip this card to it with the following effect.<br />● Cards cannot be added from the Main Deck to your opponent's hand except by drawing them.<br />If this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 \"DoomZ\" monster from your Deck to it as an Equip Spell. You can only use each effect of \"DoomZ Destruction\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 \"DoomZ\" Xyz Monster you control; equip this card to it with the following effect.\n● Cards cannot be added from the Main Deck to your opponent's hand except by drawing them.\nIf this card is destroyed by card effect: You can target 1 face-up monster on the field; equip 1 \"DoomZ\" monster from your Deck to it as an Equip Spell. You can only use each effect of \"DoomZ Destruction\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DoomZDestruction-DOOD-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DOOD-EN074",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "DoomZ"
+        ],
+        "suparc": [
+            "DoomZ"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips self from field",
+            "Prevents adding cards from Deck to hand",
+            "Activates if destroyed by card effect",
+            "Equips monsters from the player's Deck"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Treated as Equip Card",
+            "Treats monsters as Equip Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Requires control of specific Monster card type",
+            "Only once per turn"
+        ]
+    }
+}

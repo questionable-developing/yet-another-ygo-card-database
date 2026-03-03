@@ -1,0 +1,97 @@
+{
+    "cid": "92c32088-a5f7-45c3-a66d-0c9f63d2cbf8",
+    "password": "91706817",
+    "kid": 17264,
+    "name": "Angel of Blue Tears",
+    "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>あお</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>涙</rb><rp> (</rp><rt>なみだ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Aoi Namida no Tenshi",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-up monster on the field; its controller's opponent takes damage equal to the number of cards in their hand x 200, then negate that target's effects until the end of this turn. If effect damage is inflicted (except during the Damage Step): You can banish this card from your GY; Set 1 Normal Trap directly from your hand or Deck. If Set from the hand, it can be activated this turn. You can only use 1 \"Angel of Blue Tears\" effect per turn, and only once that turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-up monster on the field; its controller's opponent takes damage equal to the number of cards in their hand x 200, then negate that target's effects until the end of this turn. If effect damage is inflicted (except during the Damage Step): You can banish this card from your GY; Set 1 Normal Trap directly from your hand or Deck. If Set from the hand, it can be activated this turn. You can only use 1 \"Angel of Blue Tears\" effect per turn, and only once that turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AngelofBlueTears-MP24-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MAZE-EN029",
+            "set": "Maze of Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "MP24-EN269",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Normal Trap Card"
+        ],
+        "asup": [],
+        "arc": [
+            "Blue Tears"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Trickstar"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if you take effect damage",
+            "Activates if your opponent takes effect damage",
+            "Activates from your Graveyard",
+            "Sets from your hand",
+            "Sets from your Deck"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of Effect Monsters",
+            "Allows activation of Trap Cards the turn they were Set"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Damages you",
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Cover card",
+            "Only 1 effect once per turn"
+        ]
+    }
+}

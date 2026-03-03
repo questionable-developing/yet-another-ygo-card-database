@@ -1,0 +1,93 @@
+{
+    "cid": "c42ca175-c1b2-4412-8549-1c41751028bd",
+    "password": "62411811",
+    "kid": 18324,
+    "name": "Shadow Ghoul of the Labyrinth",
+    "name_jp": "<ruby lang=\"jp\"><rb>迷</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宮</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>に<ruby lang=\"jp\"><rb>潜</rb><rp> (</rp><rt>ひそ</rt><rp>)</rp></ruby>むシャドウ・グール",
+    "name_jp_rom": "Meikyū ni Hisomu Shadou Gūru",
+    "name_jp_tl": "Labyrinth-Dwelling Shadow Ghoul",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Zombie",
+        "Effect"
+    ],
+    "atk": 1600,
+    "def": 1300,
+    "lrl": 5,
+    "level": 5,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can discard this card; add 1 \"Labyrinth Wall\" card from your Deck to your hand. At the start of the Damage Step, if your opponent's monster battles, while you control a \"Labyrinth Wall\" card: You can banish this card from your GY; destroy that opponent's monster. You can only use each effect of \"Shadow Ghoul of the Labyrinth\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "You can discard this card; add 1 \"Labyrinth Wall\" card from your Deck to your hand. At the start of the Damage Step, if your opponent's monster battles, while you control a \"Labyrinth Wall\" card: You can banish this card from your GY; destroy that opponent's monster. You can only use each effect of \"Shadow Ghoul of the Labyrinth\" once per turn.",
+    "eff": "You can discard this card; add 1 \"Labyrinth Wall\" card from your Deck to your hand. At the start of the Damage Step, if your opponent's monster battles, while you control a \"Labyrinth Wall\" card: You can banish this card from your GY; destroy that opponent's monster. You can only use each effect of \"Shadow Ghoul of the Labyrinth\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ShadowGhouloftheLabyrinth-MP24-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MAZE-EN002",
+            "set": "Maze of Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "MP24-EN258",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Labyrinth Wall (archetype)"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Gate Guardian (archetype)"
+        ],
+        "counter": [],
+        "action": [
+            "Activates from your hand",
+            "Discards itself for cost",
+            "Adds from Deck to hand",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys battling monster at the start of the Damage Step"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

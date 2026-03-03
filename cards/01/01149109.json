@@ -1,0 +1,91 @@
+{
+    "cid": "91b029cc-5334-4053-bfa9-e9d55c4c8ee5",
+    "yid": 1149109,
+    "password": "01149109",
+    "kid": 7633,
+    "name": "Deck Lockdown",
+    "name_jp": "デッキロック",
+    "name_jp_rom": "Dekki Rokku",
+    "name_jp_tl": "Decklock",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Neither player can add cards from the Deck to their hand except by drawing them. Monsters cannot be Special Summoned from the Main Deck. Destroy this card during your 2nd Standby Phase after activation.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Neither player can add cards from the Deck to their hand except by drawing them. Monsters cannot be Special Summoned from the Main Deck. Destroy this card during your 2nd Standby Phase after activation.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DeckLockdown-DUOV-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LODT-EN060",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AP03-EN023",
+            "set": "Astral Pack Three",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DUOV-EN090",
+            "set": "Duel Overload",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Continuous-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Prevents adding cards from Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [
+            "Prevents Special Summons"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "During the Standby Phase"
+        ]
+    },
+    "links": {}
+}

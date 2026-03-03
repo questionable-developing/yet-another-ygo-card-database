@@ -1,0 +1,103 @@
+{
+    "cid": "5cdfb188-afa0-402d-9a15-e3c7df84db3d",
+    "password": "51369889",
+    "kid": 14184,
+    "name": "Barrage Blast",
+    "name_jp": "<ruby lang=\"jp\"><rb>掃</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>射</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>特</rb><rp> (</rp><rt>とっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sōshatokkō",
+    "name_jp_tl": "Sweeping Special Attack",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, you can detach any number of materials from Machine Xyz Monsters you control, then target that many cards on the field; destroy them. If a Machine Xyz Monster(s) you control is destroyed by battle or an opponent's card effect while this card is in your GY: You can banish this card and 1 Machine Xyz Monster from your GY; inflict damage to your opponent equal to the banished monster's Rank x 200.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, you can detach any number of materials from Machine Xyz Monsters you control, then target that many cards on the field; destroy them. If a Machine Xyz Monster(s) you control is destroyed by battle or an opponent's card effect while this card is in your GY: You can banish this card and 1 Machine Xyz Monster from your GY; inflict damage to your opponent equal to the banished monster's Rank x 200.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BarrageBlast-SLF1-JP-C.png",
+            "art": "BarrageBlast-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "BarrageBlast-LDS2-EN-C-1E.png",
+            "art": "BarrageBlast-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "LED4-EN038",
+            "set": "Legendary Duelists: Sisters of the Rose",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LDS2-EN126",
+            "set": "Legendary Duelists: Season 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Quick-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine",
+            "Xyz Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Train"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Detaches Xyz Materials for cost",
+            "Detaches multiple Xyz Materials as cost",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Monster Cards",
+            "Destroys Spell Cards",
+            "Destroys Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost",
+            "Banishes from Graveyard for cost"
+        ],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Requires control of specific Monster card type",
+            "Limited activations"
+        ]
+    }
+}

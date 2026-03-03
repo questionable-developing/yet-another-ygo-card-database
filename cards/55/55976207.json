@@ -1,0 +1,91 @@
+{
+    "cid": "5c845db2-24b1-4d51-825e-506bc3ee5e19",
+    "password": "55976207",
+    "kid": 15074,
+    "name": "Execution of the Contract",
+    "name_jp": "<ruby lang=\"jp\"><rb>契</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>約</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>遂</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Keiyaku no Suikō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can reveal 1 Ritual Monster in your hand; the equipped monster becomes the revealed monster's Level, until the end of this turn (even if this card leaves the field). If this card is sent to the GY because the equipped monster is Tributed: You can target 1 monster your opponent controls; destroy it. You can only use each effect of \"Execution of the Contract\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can reveal 1 Ritual Monster in your hand; the equipped monster becomes the revealed monster's Level, until the end of this turn (even if this card leaves the field). If this card is sent to the GY because the equipped monster is Tributed: You can target 1 monster your opponent controls; destroy it. You can only use each effect of \"Execution of the Contract\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ExecutionoftheContract-WPP1-JP-C.png",
+            "art": "ExecutionoftheContract-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "ExecutionoftheContract-MP21-EN-C-1E.png",
+            "art": "ExecutionoftheContract-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "IGAS-EN084",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN036",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Ritual Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals your hand for cost",
+            "Activates from your Graveyard",
+            "Activates if Tributed"
+        ],
+        "stat_change": [
+            "Changes Level of equipped"
+        ],
+        "mst": [
+            "Destroys your opponent's Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

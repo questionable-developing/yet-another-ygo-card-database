@@ -1,0 +1,86 @@
+{
+    "cid": "456a1c38-930e-4d4a-943c-72a25009a195",
+    "password": "38450736",
+    "kid": 10053,
+    "name": "Inzektor Earwig",
+    "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ウィーグ",
+    "name_jp_rom": "Inzekutā Wīgu",
+    "name_jp_tl": "Inzektor Wig",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Insect",
+        "Effect"
+    ],
+    "atk": 1000,
+    "def": 1000,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster gains ATK and DEF equal to this card's ATK and DEF. When this card is sent to the Graveyard while equipped to a monster: The monster this card was equipped to gains 1000 ATK, until the End Phase.",
+    "pend_eff": null,
+    "mnst_eff": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster gains ATK and DEF equal to this card's ATK and DEF. When this card is sent to the Graveyard while equipped to a monster: The monster this card was equipped to gains 1000 ATK, until the End Phase.",
+    "eff": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster gains ATK and DEF equal to this card's ATK and DEF. When this card is sent to the Graveyard while equipped to a monster: The monster this card was equipped to gains 1000 ATK, until the End Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "InzektorEarwig-GAOV-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "GAOV-EN030",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition, Continuous, Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Inzektor"
+        ],
+        "suparc": [
+            "Inzektor"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips monsters from the player's hand to itself",
+            "Equips monsters from the player's Graveyard to itself",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped gains DEF",
+            "Your monsters gain ATK"
+        ],
+        "mst": [
+            "Treats monsters as Equip Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

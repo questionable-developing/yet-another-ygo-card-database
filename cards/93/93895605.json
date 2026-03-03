@@ -1,0 +1,91 @@
+{
+    "cid": "e3f6593e-46e4-402d-9a0c-223be32ad1e3",
+    "password": "93895605",
+    "kid": 7465,
+    "name": "Hate Buster",
+    "name_jp": "ヘイト・バスター",
+    "name_jp_rom": "Heito Basutā",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a Fiend-Type monster you control is targeted for an attack: Target the opponent's attacking monster and that monster you control; destroy both targets, and if you do, inflict damage to your opponent equal to the original ATK of the opponent's destroyed monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When a Fiend-Type monster you control is targeted for an attack: Target the opponent's attacking monster and that monster you control; destroy both targets, and if you do, inflict damage to your opponent equal to the original ATK of the opponent's destroyed monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "HateBuster-AT08-JP-C.png",
+            "art": "HateBuster-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "HateBuster-BP03-EN-C-1E.png",
+            "art": "HateBuster-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "PTDN-EN066",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BP03-EN205",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [
+            "Fiend"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if targeted for an attack"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's face-up Monster Cards",
+            "Destroys your face-up Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type"
+        ]
+    }
+}

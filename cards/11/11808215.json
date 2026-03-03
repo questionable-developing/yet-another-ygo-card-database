@@ -1,0 +1,82 @@
+{
+    "cid": "6bfad3a0-caa7-4a25-90b8-08d382ee2380",
+    "yid": null,
+    "password": "11808215",
+    "kid": 17623,
+    "name": "Dice Dungeon",
+    "name_jp": "ダイス・ダンジョン",
+    "name_jp_rom": "Daisu Danjon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is activated: You can add 1 \"Dimension Dice\" from your Deck to your hand. At the start of the Battle Phase: You can activate this effect; each player rolls a six-sided die and applies the result to all monsters they control, until the end of this turn.<br />● 1: Lose 1000 ATK.<br />● 2: Gain 1000 ATK.<br />● 3: Lose 500 ATK.<br />● 4: Gain 500 ATK.<br />● 5: Halve their ATK.<br />● 6: Double their ATK.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When this card is activated: You can add 1 \"Dimension Dice\" from your Deck to your hand. At the start of the Battle Phase: You can activate this effect; each player rolls a six-sided die and applies the result to all monsters they control, until the end of this turn.\n● 1: Lose 1000 ATK.\n● 2: Gain 1000 ATK.\n● 3: Lose 500 ATK.\n● 4: Gain 500 ATK.\n● 5: Halve their ATK.\n● 6: Double their ATK.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DiceDungeon-BLCR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLCR-EN005",
+            "set": "Battles of Legend: Crystal Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like"
+        ],
+        "mentions": [
+            "Dimension Dice"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "Your monsters lose ATK",
+            "Your monsters gain ATK",
+            "Your opponent's monsters lose ATK",
+            "Your opponent's monsters gain ATK",
+            "Halves ATK",
+            "Doubles ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "At the start of the Battle Phase",
+            "Die roll"
+        ]
+    }
+}

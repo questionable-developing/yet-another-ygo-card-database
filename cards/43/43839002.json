@@ -1,0 +1,96 @@
+{
+    "cid": "bbbaa7a4-ad32-435b-b9df-92f4b107191a",
+    "password": "43839002",
+    "kid": 13200,
+    "name": "Cynet Backdoor",
+    "name_jp": "サイバネット・バックドア",
+    "name_jp_rom": "Saibanetto Bakkudoa",
+    "name_jp_tl": "Cybenet Backdoor",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster from your Deck to your hand, whose ATK is lower than that monster's original ATK. During your next Standby Phase, return that monster banished by this effect to the field, and it can attack directly that turn. You can only activate 1 \"Cynet Backdoor\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster from your Deck to your hand, whose ATK is lower than that monster's original ATK. During your next Standby Phase, return that monster banished by this effect to the field, and it can attack directly that turn. You can only activate 1 \"Cynet Backdoor\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CynetBackdoor-CRBR-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SDCL-EN023",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MYFI-EN057",
+            "set": "Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "CRBR-EN029",
+            "set": "Crossover Breakers",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Lingering, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Cyberse"
+        ],
+        "asup": [],
+        "arc": [
+            "Cynet"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Returns banished cards to the field"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Allows direct attacks"
+        ],
+        "banished": [
+            "Banishes from your field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Only once per turn",
+            "During the Standby Phase"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "cid": "355c1b51-4660-4e0b-9fe5-9c9bcea60f5d",
+    "yid": null,
+    "password": "31077447",
+    "kid": 11403,
+    "name": "Punch-in-the-Box",
+    "name_jp": "びっくり<ruby lang=\"jp\"><rb>箱</rb><rp> (</rp><rt>ばこ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Bikkuribako",
+    "name_jp_tl": "Jack-in-the-Box",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When your opponent's monster declares an attack while they control 2 or more monsters: Target the attacking monster; negate that attack, and if you do, send 1 other monster they control to the Graveyard, then the targeted monster loses ATK equal to the original ATK or DEF (whichever is higher, your choice if tied) of the sent monster in the Graveyard.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When your opponent's monster declares an attack while they control 2 or more monsters: Target the attacking monster; negate that attack, and if you do, send 1 other monster they control to the Graveyard, then the targeted monster loses ATK equal to the original ATK or DEF (whichever is higher, your choice if tied) of the sent monster in the Graveyard.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PunchintheBox-MP15-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "NECH-EN071",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP15-EN180",
+            "set": "2015 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Sends from your opponent's field to your opponent's Graveyard"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Negates attacks"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

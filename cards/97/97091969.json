@@ -1,0 +1,90 @@
+{
+    "cid": "1ca08d89-182d-4858-b42a-ca9e91ad42bc",
+    "password": "97091969",
+    "kid": 15744,
+    "name": "Armed Dragon Lightning",
+    "name_jp": "<ruby lang=\"jp\"><rb>武装竜の震霆</rb><rp> (</rp><rt>アームド・ドラゴン・ライトニング</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Āmudo Doragon Raitoningu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If an \"Armed Dragon\" monster(s) you control would be destroyed by card effect, you can send this card to the GY instead. You can target 1 \"Armed Dragon\" monster you control, then activate 1 of these effects;<br />● It gains ATK equal to its Level x 100 (even if this card leaves the field).<br />● Add 1 \"Armed Dragon\" monster with an equal or lower Level than it from your GY to your hand.<br />You can only use this effect of \"Armed Dragon Lightning\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If an \"Armed Dragon\" monster(s) you control would be destroyed by card effect, you can send this card to the GY instead. You can target 1 \"Armed Dragon\" monster you control, then activate 1 of these effects;\n● It gains ATK equal to its Level x 100 (even if this card leaves the field).\n● Add 1 \"Armed Dragon\" monster with an equal or lower Level than it from your GY to your hand.\nYou can only use this effect of \"Armed Dragon Lightning\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ArmedDragonLightning-MP22-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLVO-EN053",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP22-EN031",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Armed Dragon"
+        ],
+        "suparc": [
+            "Armed Dragon"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends itself from field to Graveyard",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [
+            "Cannot be destroyed by card effects",
+            "Redirects destruction"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "cid": "5d64f39d-695c-4583-8117-c276994e58c4",
+    "password": "83715234",
+    "kid": 10359,
+    "name": "Attack the Moon!",
+    "name_jp": "ムーン・スクレイパー",
+    "name_jp_rom": "Mūn Sukureipā",
+    "name_jp_tl": "Moon Scraper",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, when the battle position of a Rock monster you control is changed: You can target 1 Spell/Trap your opponent controls; destroy that target.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, when the battle position of a Rock monster you control is changed: You can target 1 Spell/Trap your opponent controls; destroy that target.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AttacktheMoon-SBCB-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ABYR-EN089",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SDMY-EN034",
+            "set": "Structure Deck: Yugi Muto",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SBCB-EN033",
+            "set": "Speed Duel: Battle City Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Rock"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if battle positions change"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's Spell Cards",
+            "Destroys your opponent's Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Requires control of specific Type"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "cid": "d0547fb1-4ade-4035-ac67-7147d5bdf8c6",
+    "password": "62632427",
+    "kid": 16258,
+    "name": "Margin Trading",
+    "name_jp": "<ruby lang=\"jp\"><rb>信用取引</rb><rp> (</rp><rt>マージントレード</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Mājin Torēdo",
+    "name_jp_tl": "Margin Trade",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Your opponent can discard 1 card to negate this effect, otherwise both players look at their opponent's Deck and choose 1 card, then add the card from their own Deck chosen by their opponent to their hand. You can only activate 1 \"Margin Trading\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Your opponent can discard 1 card to negate this effect, otherwise both players look at their opponent's Deck and choose 1 card, then add the card from their own Deck chosen by their opponent to their hand. You can only activate 1 \"Margin Trading\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MarginTrading-DAMA-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DAMA-EN069",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Your opponent discards",
+            "Reveals cards from your Deck",
+            "Reveals cards from your opponent's Deck",
+            "Exchanges cards",
+            "Adds from Deck to hand",
+            "Adds from your opponent's Deck to your opponent's hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

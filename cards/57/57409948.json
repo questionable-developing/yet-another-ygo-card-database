@@ -1,0 +1,93 @@
+{
+    "cid": "ef37a780-1fb3-4795-8397-66a0dc3c9d09",
+    "password": "57409948",
+    "kid": 5138,
+    "name": "Bombardment Beetle",
+    "name_jp": "<ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>かめ<ruby lang=\"jp\"><rb>虫</rb><rp> (</rp><rt>ムシ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Bakudan Kamemushi",
+    "name_jp_tl": "Bomb Stink Bug",
+    "type": "Monster",
+    "attribute": "WIND",
+    "pend": false,
+    "subtypes": [
+        "Insect",
+        "Flip",
+        "Effect"
+    ],
+    "atk": 400,
+    "def": 900,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: Pick up and see 1 face-down Defense Position Monster Card on your opponent's side of the field. If it is an Effect Monster, destroy it (its Flip Effect is not activated), and if the card is not, return it to its original position.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: Pick up and see 1 face-down Defense Position Monster Card on your opponent's side of the field. If it is an Effect Monster, destroy it (its Flip Effect is not activated), and if the card is not, return it to its original position.",
+    "eff": "FLIP: Pick up and see 1 face-down Defense Position Monster Card on your opponent's side of the field. If it is an Effect Monster, destroy it (its Flip Effect is not activated), and if the card is not, return it to its original position.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BombardmentBeetle-PSV-EN-C-UE-25thAnniversaryEdition.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DB1-EN197",
+            "set": "Dark Beginning 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PSV-EN087",
+            "set": "Pharaoh's Servant",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "PSV-EN087",
+            "set": "Pharaoh's Servant (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [
+            "Effect Monster"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "Reveals face-down cards"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents activation of Flip monsters' effects",
+            "Destroys your opponent's face-down Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

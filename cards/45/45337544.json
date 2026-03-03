@@ -1,0 +1,80 @@
+{
+    "cid": "f75fb656-08ad-4878-ab42-9bfe65c55297",
+    "password": "45337544",
+    "kid": 17172,
+    "name": "Heroic Envoy",
+    "name_jp": "ヒロイック・エンヴォイ",
+    "name_jp_rom": "Hiroikku Envoi",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Add 1 \"Heroic\" monster from your Deck to your hand. If your LP are 500 or less: You can banish this card from your GY, then target 1 \"Heroic\" card in your GY; add it to your hand. You can only use each effect of \"Heroic Envoy\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Add 1 \"Heroic\" monster from your Deck to your hand. If your LP are 500 or less: You can banish this card from your GY, then target 1 \"Heroic\" card in your GY; add it to your hand. You can only use each effect of \"Heroic Envoy\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "HeroicEnvoy-DIFO-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DIFO-EN061",
+            "set": "Dimension Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Heroic"
+        ],
+        "suparc": [
+            "Heroic"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Activates from your Graveyard",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires specific LP",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "cid": "3ef4ac23-e211-4011-b5de-aa956d21890c",
+    "password": "61405855",
+    "kid": 5010,
+    "name": "Sword of Dragon's Soul",
+    "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>ごろ</rt><rp>)</rp></ruby>しの<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Ryūgoroshi no Ken",
+    "name_jp_tl": "Dragon-Slaying Sword",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SwordofDragonsSoul-SBLS-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PCJ-EN003",
+            "set": "Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SBLS-EN015",
+            "set": "Speed Duel: Arena of Lost Souls",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "STP5-EN024",
+            "set": "Speed Duel Tournament Pack 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Warrior"
+        ],
+        "asup": [
+            "Dragon"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Destroys your opponent's Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "At the end of the Battle Phase"
+        ]
+    }
+}

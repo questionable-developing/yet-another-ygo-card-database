@@ -1,0 +1,93 @@
+{
+    "cid": "d1483d5e-7c9b-4d60-ae8f-042e93f95a23",
+    "password": "79965360",
+    "kid": 9209,
+    "name": "Amazoness Heirloom",
+    "name_jp": "アマゾネスの<ruby lang=\"jp\"><rb>秘</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Amazonesu no Hihō",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to an \"Amazoness\" monster. The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. After damage calculation, if the equipped monster attacked a monster: Destroy the attacked monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to an \"Amazoness\" monster. The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. After damage calculation, if the equipped monster attacked a monster: Destroy the attacked monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AmazonessHeirloom-SGX3-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DREV-EN087",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SS02-ENC14",
+            "set": "Speed Duel Starter Decks: Duelists of Tomorrow",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SGX3-END12",
+            "set": "Speed Duel GX: Duelists of Shadows",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Amazoness"
+        ],
+        "suparc": [
+            "Amazoness"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped cannot be destroyed by battle"
+        ],
+        "mst": [
+            "Destroys your opponent's Monster Cards",
+            "Destroys battling monster after damage calculation"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Limited activations"
+        ]
+    }
+}

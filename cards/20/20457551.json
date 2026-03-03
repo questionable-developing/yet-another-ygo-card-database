@@ -1,0 +1,80 @@
+{
+    "cid": "7a89464c-118f-4e64-9c3c-8a6fb56f5420",
+    "yid": null,
+    "password": "20457551",
+    "kid": 8488,
+    "name": "Iron Core Armor",
+    "name_jp": "<ruby lang=\"jp\"><rb>鋼</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>核</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>収</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>納</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kōkaku Shūnō",
+    "name_jp_tl": "Steel Core Storage",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a \"Koa'ki Meiru\" monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster's Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a \"Koa'ki Meiru\" monster. During damage calculation only, monsters that battle with the equipped monster lose ATK equal to the equipped monster's Level x 100. If the equipped monster would be destroyed during the End Phase, you can send this card to the Graveyard instead.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "IronCoreArmor-SOVR-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOVR-EN053",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Koa'ki Meiru"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends itself from field to Graveyard"
+        ],
+        "stat_change": [
+            "Your monsters lose ATK",
+            "Your opponent's monsters lose ATK"
+        ],
+        "mst": [
+            "Redirects destruction",
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

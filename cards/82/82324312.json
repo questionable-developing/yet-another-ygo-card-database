@@ -1,0 +1,81 @@
+{
+    "cid": "3d9ada60-a9b1-4743-b8c3-3bdc08540632",
+    "password": "82324312",
+    "kid": 7606,
+    "name": "Goblin Recon Squad",
+    "name_jp": "ゴブリン<ruby lang=\"jp\"><rb>偵</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>察</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Goburin Teisatsu Butai",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "WIND",
+    "pend": false,
+    "subtypes": [
+        "Warrior",
+        "Effect"
+    ],
+    "atk": 1700,
+    "def": 0,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If this card successfully attacks directly, you can look at 1 random card in your opponent's hand. If it is a Spell Card, send it to the Graveyard. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+    "pend_eff": null,
+    "mnst_eff": "If this card successfully attacks directly, you can look at 1 random card in your opponent's hand. If it is a Spell Card, send it to the Graveyard. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+    "eff": "If this card successfully attacks directly, you can look at 1 random card in your opponent's hand. If it is a Spell Card, send it to the Graveyard. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GoblinReconSquad-LODT-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LODT-EN033",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Continuous"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [
+            "Spell Card"
+        ],
+        "arc": [
+            "Goblin"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals your opponent's hand",
+            "Sends from your opponent's hand to your opponent's Graveyard",
+            "Changes own battle position",
+            "Prevents battle position changes"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "At the end of the Battle Phase"
+        ]
+    }
+}

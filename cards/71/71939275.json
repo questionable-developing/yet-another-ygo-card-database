@@ -1,0 +1,92 @@
+{
+    "cid": "db3ad369-cde7-4d08-8651-b54c4890dcd6",
+    "password": "71939275",
+    "kid": 20390,
+    "name": "Spirit Illusion",
+    "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>残</rb><rp> (</rp><rt>ざん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>像</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shiryō no Zanzō",
+    "name_jp_tl": "Ghost Afterimage",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Level 5 or higher Fiend or Zombie monster. When an attack is declared involving the equipped monster and an opponent's monster: You can make that opponent's monster lose ATK equal to the equipped monster's ATK. You can activate 1 of these effects;<br />● Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field.<br />● Special Summon 1 \"Doppelganger Token\" (Level 5/ATK ?/DEF 0) with the equipped monster's Type, Attribute, and ATK.<br />You can only use this effect of \"Spirit Illusion\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Level 5 or higher Fiend or Zombie monster. When an attack is declared involving the equipped monster and an opponent's monster: You can make that opponent's monster lose ATK equal to the equipped monster's ATK. You can activate 1 of these effects;\n● Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field.\n● Special Summon 1 \"Doppelganger Token\" (Level 5/ATK ?/DEF 0) with the equipped monster's Type, Attribute, and ATK.\nYou can only use this effect of \"Spirit Illusion\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SpiritIllusion-MZTM-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MZTM-EN034",
+            "set": "Maze of the Master",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Trigger-like, Ignition-like, Condition"
+        ],
+        "mentions": [
+            "Doppelganger Token"
+        ],
+        "sup": [
+            "Fiend",
+            "Zombie",
+            "Fusion Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Sends from your hand to your Graveyard",
+            "Sends from your field to your Graveyard",
+            "Uses cards on the player's field as Fusion Materials",
+            "Uses cards in the hand as Fusion Materials"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK",
+            "Changes Type",
+            "Changes Attribute",
+            "Changes ATK value"
+        ],
+        "mst": [],
+        "summoning": [
+            "Performs a Fusion Summon",
+            "Special Summons from your Extra Deck",
+            "Special Summons Tokens"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

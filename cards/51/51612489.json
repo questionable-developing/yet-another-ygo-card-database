@@ -1,0 +1,84 @@
+{
+    "cid": "121d3772-fcad-4f02-adbf-c8b27b7c4e85",
+    "yid": 51612489,
+    "password": "51612489",
+    "kid": 22171,
+    "name": "Riot's Reason",
+    "name_jp": "<ruby lang=\"jp\"><rb>騒</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sōdō",
+    "name_jp_tl": "Riot",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-down Defense Position monster on the field; return it to the hand, then the player whose card was added to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to face-up Attack Position. You can only use each effect of \"Riot's Reason\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-down Defense Position monster on the field; return it to the hand, then the player whose card was added to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to face-up Attack Position. You can only use each effect of \"Riot's Reason\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RiotsReason-BPRO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BPRO-EN069",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns from field to hand",
+            "Activates upon attack declaration",
+            "Activates from your Graveyard",
+            "Changes battle positions",
+            "Flips monsters face-up"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your hand",
+            "Your opponent Special Summons",
+            "Special Summons from your opponent's hand to your opponent's field",
+            "Special Summons face-down"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

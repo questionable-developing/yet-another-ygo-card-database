@@ -1,0 +1,98 @@
+{
+    "cid": "cc7d1285-a0fc-4bab-8416-57b84b9949e3",
+    "password": "67616300",
+    "kid": 11851,
+    "name": "Chicken Game",
+    "name_jp": "チキンレース",
+    "name_jp_rom": "Chikinrēsu",
+    "name_jp_tl": "Chicken Race",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "The player with the lowest LP takes no damage. Once per turn, during the Main Phase: The turn player can pay 1000 LP, then activate 1 of these effects;<br />● Draw 1 card.<br />● Destroy this card.<br />● Your opponent gains 1000 LP.<br />Neither player can activate cards or effects in response to this effect's activation.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "The player with the lowest LP takes no damage. Once per turn, during the Main Phase: The turn player can pay 1000 LP, then activate 1 of these effects;\n● Draw 1 card.\n● Destroy this card.\n● Your opponent gains 1000 LP.\nNeither player can activate cards or effects in response to this effect's activation.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ChickenGame-RC02-JP-ScR.png",
+            "art": "ChickenGame-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "ChickenGame-CORE-EN-SP-1E.png",
+            "art": "ChickenGame-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "CORE-EN067",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "OP26-EN010",
+            "set": "OTS Tournament Pack 26",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "You draw cards",
+            "Your opponent draws cards"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents activation of Effect Monsters",
+            "Prevents activation of Spell Cards",
+            "Prevents activation of Trap Cards",
+            "Destroys itself",
+            "Prevents responding to its activation"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Prevents battle damage",
+            "Prevents effect damage",
+            "Pays Life Points for cost",
+            "Your opponent pays Life Points for cost",
+            "You gain Life Points",
+            "Your opponent gains Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Variable effects"
+        ]
+    }
+}

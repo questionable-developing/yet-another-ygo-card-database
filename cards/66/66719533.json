@@ -1,0 +1,83 @@
+{
+    "cid": "d1b7f36d-1b83-45f7-bd34-8d93563dc5a8",
+    "password": "66719533",
+    "kid": 13276,
+    "name": "Asymmetaphys",
+    "name_jp": "アシンメタファイズ",
+    "name_jp_rom": "Ashinmetafaizu",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn: You can banish 1 \"Metaphys\" card from your hand, and if you do, draw 1 card. Once per turn, if your \"Metaphys\" card in its owner's possession is banished: Apply this effect depending on whose turn it is.<br />● Your turn: All monsters on the field lose 500 ATK/DEF, except \"Metaphys\" monsters.<br />● Opponent's turn: Change the battle positions of all monsters on the field, except \"Metaphys\" monsters.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn: You can banish 1 \"Metaphys\" card from your hand, and if you do, draw 1 card. Once per turn, if your \"Metaphys\" card in its owner's possession is banished: Apply this effect depending on whose turn it is.\n● Your turn: All monsters on the field lose 500 ATK/DEF, except \"Metaphys\" monsters.\n● Opponent's turn: Change the battle positions of all monsters on the field, except \"Metaphys\" monsters.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Asymmetaphys-CIBR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CIBR-EN060",
+            "set": "Circuit Break",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Metaphys"
+        ],
+        "suparc": [
+            "Metaphys"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if other cards are banished",
+            "You draw cards",
+            "Changes battle positions"
+        ],
+        "stat_change": [
+            "All monsters lose ATK",
+            "All monsters lose DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your hand"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Variable effects"
+        ]
+    }
+}

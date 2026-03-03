@@ -1,0 +1,101 @@
+{
+    "cid": "fe1b2006-5e1b-4a7d-9f60-629624accdd9",
+    "password": "92998610",
+    "kid": 14107,
+    "name": "Aloof Lupine",
+    "name_jp": "<ruby lang=\"jp\"><rb>孤高除獣</rb><rp> (</rp><rt>ココウノケモノ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kokou no Kemono",
+    "name_jp_tl": "Aloof Beast",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Beast",
+        "Effect"
+    ],
+    "atk": 1700,
+    "def": 300,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is Normal Summoned: You can banish 1 monster from your hand; banish 1 monster from your Deck with the same Type as that monster. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 of your banished monsters; add it to your hand. You can only use each effect of \"Aloof Lupine\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "When this card is Normal Summoned: You can banish 1 monster from your hand; banish 1 monster from your Deck with the same Type as that monster. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 of your banished monsters; add it to your hand. You can only use each effect of \"Aloof Lupine\" once per turn.",
+    "eff": "When this card is Normal Summoned: You can banish 1 monster from your hand; banish 1 monster from your Deck with the same Type as that monster. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 of your banished monsters; add it to your hand. You can only use each effect of \"Aloof Lupine\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AloofLupine-CRBR-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SAST-EN030",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "OP11-EN009",
+            "set": "OTS Tournament Pack 11",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP20-EN015",
+            "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CRBR-EN026",
+            "set": "Crossover Breakers",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Normal Summon",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Adds banished cards to the hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from hand for cost",
+            "Banishes from your Deck"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

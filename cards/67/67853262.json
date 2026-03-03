@@ -1,0 +1,83 @@
+{
+    "cid": "fa349b95-6338-452d-b259-870d3485f4af",
+    "password": "67853262",
+    "kid": 18662,
+    "name": "Magician of Faithfulness",
+    "name_jp": "<ruby lang=\"jp\"><rb>神聖なる魔術師</rb><rp> (</rp><rt>セインクレッド・マジシャン</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Seinkureddo Majishan",
+    "name_jp_tl": "Saincred Magician",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Flip",
+        "Effect"
+    ],
+    "atk": 600,
+    "def": 800,
+    "lrl": 5,
+    "level": 5,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: You can target 1 Spell in your GY; add it to your hand, then you can Special Summon 1 \"Magician of Faith\" or \"Magician of Faithfulness\" from your Deck in face-down Defense Position. You can only use this effect of \"Magician of Faithfulness\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: You can target 1 Spell in your GY; add it to your hand, then you can Special Summon 1 \"Magician of Faith\" or \"Magician of Faithfulness\" from your Deck in face-down Defense Position. You can only use this effect of \"Magician of Faithfulness\" once per turn.",
+    "eff": "FLIP: You can target 1 Spell in your GY; add it to your hand, then you can Special Summon 1 \"Magician of Faith\" or \"Magician of Faithfulness\" from your Deck in face-down Defense Position. You can only use this effect of \"Magician of Faithfulness\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MagicianofFaithfulness-DUNE-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUNE-EN098",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Condition"
+        ],
+        "mentions": [
+            "Magician of Faith",
+            "Magician of Faithfulness"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Deck",
+            "Special Summons face-down",
+            "Special Summons copies of itself"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "cid": "13d737e4-60b1-426a-8f1f-89881eb6c30f",
+    "password": "40267580",
+    "kid": 6263,
+    "name": "Brain Jacker",
+    "name_jp": "ブレイン・ジャッカー",
+    "name_jp_rom": "Burein Jakkā",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Effect"
+    ],
+    "atk": 200,
+    "def": 900,
+    "lrl": 2,
+    "level": 2,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.",
+    "eff": "FLIP: Equip this card to a monster on your opponent's side of the field and treat it as an Equip Card. Take control of the equipped monster. Your opponent gains 500 Life Points during each of their Standby Phases.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BrainJacker-EE3-JP-R.jpg",
+            "art": "BrainJacker-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "BrainJacker-DR3-EN-R-UE.png",
+            "art": "BrainJacker-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "FET-EN034",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DR3-EN154",
+            "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Flip, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "Equips self from field",
+            "Takes control of equipped"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Your opponent gains Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Treated as Equip Card",
+            "During the Standby Phase"
+        ]
+    }
+}

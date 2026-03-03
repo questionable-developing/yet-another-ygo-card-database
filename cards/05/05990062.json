@@ -1,0 +1,75 @@
+{
+    "cid": "00a57dde-50bf-4fc2-b295-2061db109f3a",
+    "yid": null,
+    "password": "05990062",
+    "kid": 5541,
+    "name": "Reversal Quiz",
+    "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>逆</rb><rp> (</rp><rt>ぎゃく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>転</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>クイズ",
+    "name_jp_rom": "Daigyakuten Kuizu",
+    "name_jp_tl": "Great-Reversal Quiz",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send all cards in your hand and on your side of the field to the Graveyard. Call the type of card (Spell, Trap, or Monster) on top of your Deck. If you call it right, exchange your current Life Points with your opponent's current ones.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send all cards in your hand and on your side of the field to the Graveyard. Call the type of card (Spell, Trap, or Monster) on top of your Deck. If you call it right, exchange your current Life Points with your opponent's current ones.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ReversalQuiz-DR1-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DR1-EN040",
+            "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from field to Graveyard for cost",
+            "Sends from hand to Graveyard for cost",
+            "Declares a card type"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Changes your Life Points",
+            "Changes your opponent's Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

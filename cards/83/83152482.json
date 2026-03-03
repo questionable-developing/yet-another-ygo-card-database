@@ -1,0 +1,94 @@
+{
+    "cid": "5cfc8a30-9d7b-43d6-9d10-90a3e5ad16dc",
+    "password": "83152482",
+    "kid": 14932,
+    "name": "Union Carrier",
+    "name_jp": "ユニオン・キャリアー",
+    "name_jp_rom": "Yunion Kyariā",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Machine",
+        "Link",
+        "Effect"
+    ],
+    "atk": 1000,
+    "def": null,
+    "lrl": 2,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": 2,
+    "arrows": [
+        "Bottom-Center",
+        "Middle-Right"
+    ],
+    "desc": "2 monsters with the same Type or Attribute<br />Cannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
+    "eff": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "UnionCarrier-DUOV-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUOV-EN009",
+            "set": "Duel Overload",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Ignition, Continuous-like, Lingering, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "A-to-Z"
+        ],
+        "counter": [],
+        "action": [
+            "Equips monsters from the player's hand",
+            "Equips monsters from the player's hand to itself",
+            "Equips monsters from the player's Deck",
+            "Equips monsters from the player's Deck to itself",
+            "Grants effect to Equip Spell Card"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Treats monsters as Equip Cards"
+        ],
+        "summoning": [
+            "2 Link Materials",
+            "Requires Type specific Link Materials",
+            "Requires Attribute specific Link Materials",
+            "Cannot be used as a Link Material the turn it is Link Summoned",
+            "Restricts the player's Special Summons"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

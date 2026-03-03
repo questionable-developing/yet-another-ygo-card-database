@@ -1,0 +1,74 @@
+{
+    "cid": "0ec78ffd-5fbb-4ebc-a638-e88434b3e93f",
+    "password": "60391791",
+    "kid": 5672,
+    "name": "Senri Eye",
+    "name_jp": "<ruby lang=\"jp\"><rb>千</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>里</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Senrigan",
+    "name_jp_tl": "Clairvoyance",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, during each of your Standby Phases, you can pay 100 Life Points to look at 1 card on the top of your opponent's Deck and return it to its original position. Your opponent cannot look at the card.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, during each of your Standby Phases, you can pay 100 Life Points to look at 1 card on the top of your opponent's Deck and return it to its original position. Your opponent cannot look at the card.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SenriEye-DR1-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DR1-EN144",
+            "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Looks at cards from the top of the opponent's Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "During the Standby Phase"
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "cid": "a4f6694f-b92b-4a69-99a0-42a29a913bdc",
+    "password": "95382988",
+    "kid": 21488,
+    "name": "Regenesis Commands",
+    "name_jp": "<ruby lang=\"jp\"><rb>再世十戒</rb><rp> (</rp><rt>リジェネシス・コマンドメンツ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Rijeneshisu Komandomentsu",
+    "name_jp_tl": "Regenesis Commandments",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Apply these effects to all cards your opponent controls in the same column as your \"Regenesis\" monsters.<br />● Face-up cards: Negate their effects.<br />● Face-down monsters: Cannot change their battle positions.<br />● Face-down Spells/Traps: Cannot be activated until the end of the next turn.<br />You can only activate 1 \"Regenesis Commands\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Apply these effects to all cards your opponent controls in the same column as your \"Regenesis\" monsters.\n● Face-up cards: Negate their effects.\n● Face-down monsters: Cannot change their battle positions.\n● Face-down Spells/Traps: Cannot be activated until the end of the next turn.\nYou can only activate 1 \"Regenesis Commands\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RegenesisCommands-DUAD-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUAD-EN077",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Regenesis"
+        ],
+        "suparc": [
+            "Regenesis"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Prevents battle position changes"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the effects of your opponent's Effect Monsters",
+            "Negates the effects of your opponent's Spell Cards",
+            "Negates the effects of your opponent's Trap Cards",
+            "Prevents activation of your opponent's Spell Cards",
+            "Prevents activation of your opponent's Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Column",
+            "Only once per turn"
+        ]
+    }
+}

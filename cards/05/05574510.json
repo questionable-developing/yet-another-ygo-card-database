@@ -1,0 +1,83 @@
+{
+    "cid": "e92a98cc-2c3f-4c9b-b0c0-5cdf8039f1dd",
+    "yid": 5574510,
+    "password": "05574510",
+    "kid": 21241,
+    "name": "Shateki",
+    "name_jp": "<ruby lang=\"jp\"><rb>射</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>敵</rb><rp> (</rp><rt>てき</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shateki",
+    "name_jp_tl": "Enemy Target Shooting",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can discard 1 card, then target 1 monster your opponent controls with a Level; roll a six-sided die and apply this effect based on the result.<br />● Higher than its Level: Destroy that monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of \"Shateki\" for the rest of this turn.<br />● Equal to or lower than its Level: Reduce that monster's Level by 1 (even if this card leaves the field).",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can discard 1 card, then target 1 monster your opponent controls with a Level; roll a six-sided die and apply this effect based on the result.\n● Higher than its Level: Destroy that monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of \"Shateki\" for the rest of this turn.\n● Equal to or lower than its Level: Reduce that monster's Level by 1 (even if this card leaves the field).",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Shateki-MZMU-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MZMU-EN038",
+            "set": "Maze of Muertos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like"
+        ],
+        "mentions": [
+            "Shateki"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Token Celebration"
+        ],
+        "counter": [],
+        "action": [
+            "Discards for cost",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose Levels"
+        ],
+        "mst": [
+            "Destroys your opponent's Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Die roll",
+            "Variable effects"
+        ]
+    },
+    "links": {}
+}

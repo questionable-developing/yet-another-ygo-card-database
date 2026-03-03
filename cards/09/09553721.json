@@ -1,0 +1,92 @@
+{
+    "cid": "a4462906-f6a6-4f83-b286-34ac4d71777c",
+    "yid": null,
+    "password": "09553721",
+    "kid": 12796,
+    "name": "Shinobird Power Spot",
+    "name_jp": "<ruby lang=\"jp\"><rb>霊魂の拠所</rb><rp> (</rp><rt>エスプリット・パワースポット</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Esupuritto Pawāsupotto",
+    "name_jp_tl": "Esprit Power Spot",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Spirit monsters you control gain 500 ATK and DEF. If a face-up WIND monster(s) you control returns to your hand (except during the Damage Step): You can add 1 Spirit monster or Ritual Spell Card from your Deck to your hand. You can only use this effect of \"Shinobird Power Spot\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Spirit monsters you control gain 500 ATK and DEF. If a face-up WIND monster(s) you control returns to your hand (except during the Damage Step): You can add 1 Spirit monster or Ritual Spell Card from your Deck to your hand. You can only use this effect of \"Shinobird Power Spot\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ShinobirdPowerSpot-MP17-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "RATE-EN061",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP17-EN214",
+            "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Shinobird Power Spot"
+        ],
+        "sup": [
+            "Spirit monster",
+            "WIND",
+            "Ritual Spell Card"
+        ],
+        "asup": [],
+        "arc": [
+            "Shinobird"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if returned from the field to the hand",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK",
+            "Your monsters gain DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Attribute",
+            "Only once per turn"
+        ]
+    }
+}

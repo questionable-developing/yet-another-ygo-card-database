@@ -1,0 +1,84 @@
+{
+    "cid": "ebfbaade-3e45-4072-8a06-28e749c78d3b",
+    "yid": null,
+    "password": "30552375",
+    "kid": 14500,
+    "name": "Grid Rod",
+    "name_jp": "グリッド・ロッド",
+    "name_jp_rom": "Guriddo Roddo",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Cyberse monster you control. It gains 300 ATK, it is unaffected by your opponent's card effects, also the first time it would be destroyed by battle each turn, it is not destroyed. If this face-up card on the field is destroyed and sent to the GY: You can activate this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Cyberse monster you control. It gains 300 ATK, it is unaffected by your opponent's card effects, also the first time it would be destroyed by battle each turn, it is not destroyed. If this face-up card on the field is destroyed and sent to the GY: You can activate this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "GridRod-RIRA-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "RIRA-EN052",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Cyberse"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by card effect",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Unaffected by the opponent's card effects",
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [
+            "Equipped cannot be destroyed by battle",
+            "Cannot be destroyed by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Equips only to a specific target"
+        ]
+    }
+}

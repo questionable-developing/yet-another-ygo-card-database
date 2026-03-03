@@ -1,0 +1,89 @@
+{
+    "cid": "d0345708-24bc-4054-9425-16cb531222b1",
+    "password": "77384395",
+    "kid": 16624,
+    "name": "Pazuzule",
+    "name_jp": "パズズル",
+    "name_jp_rom": "Pazuzuru",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Fiend",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 500,
+    "def": 500,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": 1,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.\n\n[ Monster Effect ] \nPendulum Summons of your monsters cannot be negated.",
+    "pend_eff": "Once per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",
+    "mnst_eff": "Pendulum Summons of your monsters cannot be negated.",
+    "eff": "Pendulum Summons of your monsters cannot be negated.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Pazuzule-MP22-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DAMA-EN082",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP22-EN173",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like"
+        ],
+        "eff_types": [
+            "Continuous"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if other Pendulum Zone is occupied"
+        ],
+        "stat_change": [
+            "Changes own Pendulum Scale"
+        ],
+        "mst": [],
+        "summoning": [
+            "Restricts the player's Special Summons",
+            "Summon cannot be negated"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

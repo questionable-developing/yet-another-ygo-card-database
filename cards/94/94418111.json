@@ -1,0 +1,88 @@
+{
+    "cid": "e06ff7f3-e5f4-4ef0-a9bb-7241f9ce3b88",
+    "password": "94418111",
+    "kid": 13320,
+    "name": "Magical Musketeer Wild",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>射</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby> ワイルド",
+    "name_jp_rom": "Madan no Shashu Wairudo",
+    "name_jp_tl": "Magibullet Musketeer Wild",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Effect"
+    ],
+    "atk": 1700,
+    "def": 900,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 3 \"Magical Musket\" cards in your GY; shuffle all 3 into the Deck, then draw 1 card. You can only use this effect of \"Magical Musketeer Wild\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 3 \"Magical Musket\" cards in your GY; shuffle all 3 into the Deck, then draw 1 card. You can only use this effect of \"Magical Musketeer Wild\" once per turn.",
+    "eff": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 3 \"Magical Musket\" cards in your GY; shuffle all 3 into the Deck, then draw 1 card. You can only use this effect of \"Magical Musketeer Wild\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MagicalMusketeerWild-DBSW-JP-C.png",
+            "art": "MagicalMusketeerWild-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "MagicalMusketeerWild-SPWA-EN-SR-1E.png",
+            "art": "MagicalMusketeerWild-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "SPWA-EN021",
+            "set": "Spirit Warriors",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Magical Musket"
+        ],
+        "suparc": [
+            "Magical Musket"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns from your Graveyard to your Deck",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Allows activation of Spell Cards from the player's hand during the opponent's turn",
+            "Allows activation of Trap Cards from your hand"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Column"
+        ]
+    }
+}

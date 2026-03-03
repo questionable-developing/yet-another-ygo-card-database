@@ -1,0 +1,90 @@
+{
+    "cid": "043a0222-ca36-4553-ab96-10c9bec84237",
+    "password": "63851864",
+    "kid": 8663,
+    "name": "Break! Draw!",
+    "name_jp": "ブレイク・ドロー",
+    "name_jp_rom": "Bureiku Dorō",
+    "name_jp_tl": "Break Draw",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Machine monster. If the equipped monster destroys an opponent's monster by battle and sends it to the GY: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Machine monster. If the equipped monster destroys an opponent's monster by battle and sends it to the GY: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BreakDraw-SBSC-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ABPF-EN052",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AP04-EN009",
+            "set": "Astral Pack Four",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SBSC-EN042",
+            "set": "Speed Duel: Scars of Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

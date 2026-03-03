@@ -1,0 +1,84 @@
+{
+    "cid": "c6f60e00-7904-48a5-9053-5a133f1fba43",
+    "password": "42193638",
+    "kid": 19387,
+    "name": "Vaalmonica Versare",
+    "name_jp": "ヴァルモニカ・ヴェルサーレ",
+    "name_jp_rom": "Varumonika Verusāre",
+    "name_jp_tl": "Varmonica Versare",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Apply 1 of these effects. Unless you have a \"Vaalmonica\" card in your Pendulum Zone, your opponent chooses the effect.<br />● Gain 500 LP, then you can excavate cards from the top of your Deck until you excavate a \"Vaalmonica\" card, then add that card to your hand, also shuffle the rest into the Deck.<br />● Take 500 damage, then you can send 1 \"Vaalmonica\" card from your Deck to the GY, except \"Vaalmonica Versare\".<br />You can only activate 1 \"Vaalmonica Versare\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Apply 1 of these effects. Unless you have a \"Vaalmonica\" card in your Pendulum Zone, your opponent chooses the effect.\n● Gain 500 LP, then you can excavate cards from the top of your Deck until you excavate a \"Vaalmonica\" card, then add that card to your hand, also shuffle the rest into the Deck.\n● Take 500 damage, then you can send 1 \"Vaalmonica\" card from your Deck to the GY, except \"Vaalmonica Versare\".\nYou can only activate 1 \"Vaalmonica Versare\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "VaalmonicaVersare-VASM-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "VASM-EN037",
+            "set": "Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Vaalmonica Versare"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Vaalmonica"
+        ],
+        "suparc": [
+            "Vaalmonica"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Excavates from the player's Deck",
+            "Adds excavated cards to the hand",
+            "Shuffles excavated cards into the Deck",
+            "Sends from your Deck to your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points",
+            "Damages you"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

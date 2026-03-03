@@ -1,0 +1,82 @@
+{
+    "cid": "87502c48-8473-48cc-bb79-dbc1a1f1f0b2",
+    "password": "47598941",
+    "kid": 12344,
+    "name": "Amorphage Lysis",
+    "name_jp": "アモルファージ・ライシス",
+    "name_jp_rom": "Amorufāji Raishisu",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "All monsters on the field, except \"Amorphage\" monsters, lose 100 ATK and DEF for each \"Amorphage\" card on the field. If a card(s) in your Pendulum Zone is destroyed (except during the Damage Step): You can place 1 \"Amorphage\" Pendulum Monster from your Deck in your Pendulum Zone. You can only use this effect of \"Amorphage Lysis\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "All monsters on the field, except \"Amorphage\" monsters, lose 100 ATK and DEF for each \"Amorphage\" card on the field. If a card(s) in your Pendulum Zone is destroyed (except during the Damage Step): You can place 1 \"Amorphage\" Pendulum Monster from your Deck in your Pendulum Zone. You can only use this effect of \"Amorphage Lysis\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AmorphageLysis-SHVI-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SHVI-EN072",
+            "set": "Shining Victories",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Amorphage Lysis"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Amorphage"
+        ],
+        "suparc": [
+            "Amorphage"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Places from Deck to Pendulum Zone"
+        ],
+        "stat_change": [
+            "Your monsters lose ATK",
+            "Your opponent's monsters lose ATK",
+            "Your monsters lose DEF",
+            "Your opponent's monsters lose DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

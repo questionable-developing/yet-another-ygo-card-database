@@ -1,0 +1,89 @@
+{
+    "cid": "4c1628c6-59e7-4841-bad8-1d0e3f4b9300",
+    "yid": null,
+    "password": "33062423",
+    "kid": 14228,
+    "name": "Decode Destruction",
+    "name_jp": "デコード・エンド",
+    "name_jp_rom": "Dekōdo Endo",
+    "name_jp_tl": "Decode End",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 \"Decode Talker\" you control; apply the following effects this turn, depending on the number of monsters it currently points to.<br />● 1+: That monster gains 500 ATK for each monster it currently points to.<br />● 2+: Monsters destroyed by battle with that monster are banished after damage calculation.<br />● 3: After damage calculation, if that monster destroys your opponent's monster by battle: Destroy all cards your opponent controls.<br />You can only activate 1 \"Decode Destruction\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 \"Decode Talker\" you control; apply the following effects this turn, depending on the number of monsters it currently points to.\n● 1+: That monster gains 500 ATK for each monster it currently points to.\n● 2+: Monsters destroyed by battle with that monster are banished after damage calculation.\n● 3: After damage calculation, if that monster destroys your opponent's monster by battle: Destroy all cards your opponent controls.\nYou can only activate 1 \"Decode Destruction\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DecodeDestruction-DUPO-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUPO-EN016",
+            "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Decode Talker"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Signature move"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Code Talker (archetype)"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [
+            "Destroys your opponent's Monster Cards",
+            "Destroys your opponent's Spell Cards",
+            "Destroys your opponent's Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes monsters destroyed by battle",
+            "Banishes battling monster after damage calculation"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific card",
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

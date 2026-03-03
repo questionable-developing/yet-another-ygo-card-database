@@ -1,0 +1,78 @@
+{
+    "cid": "8f722ffa-625c-418d-883d-e3d0d13b56a5",
+    "password": "61965407",
+    "kid": 11748,
+    "name": "Void Purification",
+    "name_jp": "<ruby lang=\"jp\"><rb>遡</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>洸</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>煉</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sokōsuru Rengoku",
+    "name_jp_tl": "Upsurging Purgatory",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you control a monster that is not an \"Infernoid\" monster, send this card to the Graveyard. You can only use each of these effects of \"Void Purification\" once per turn.<br />● During each of your opponent's Standby Phases: You can target 1 \"Infernoid\" monster in your Graveyard; add it to your hand.<br />● During each of your Standby Phases: You can target 1 of your banished \"Infernoid\" monsters; return it to the Graveyard.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you control a monster that is not an \"Infernoid\" monster, send this card to the Graveyard. You can only use each of these effects of \"Void Purification\" once per turn.\n● During each of your opponent's Standby Phases: You can target 1 \"Infernoid\" monster in your Graveyard; add it to your hand.\n● During each of your Standby Phases: You can target 1 of your banished \"Infernoid\" monsters; return it to the Graveyard.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "VoidPurification-CROS-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CROS-EN073",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Condition, Trigger-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Void"
+        ],
+        "suparc": [
+            "Infernoid"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Graveyard to hand",
+            "Returns the player's banished cards to the Graveyard",
+            "Sends itself from field to Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "During the Standby Phase"
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "cid": "cd7279ed-6efe-4e66-9433-fa2555c24732",
+    "password": "37120512",
+    "kid": 4308,
+    "name": "Sword of Dark Destruction",
+    "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Yami no Hashinken",
+    "name_jp_tl": "Destruction Divine Sword of Darkness",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a DARK monster. It gains 400 ATK and loses 200 DEF.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a DARK monster. It gains 400 ATK and loses 200 DEF.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SwordofDarkDestruction-SDY-NA-C-1E.png",
+            "art": "SwordofDarkDestruction-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "SwordofDarkDestruction-SS05-EN-C-1E.png",
+            "art": "SwordofDarkDestruction-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "SBAD-EN019",
+            "set": "Speed Duel: Attack from the Deep",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SS05-ENA21",
+            "set": "Speed Duel Starter Decks: Twisted Nightmares",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "DARK"
+        ],
+        "asup": [
+            "DARK"
+        ],
+        "arc": [
+            "Attribute Booster"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped loses DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

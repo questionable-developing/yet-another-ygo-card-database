@@ -1,0 +1,99 @@
+{
+    "cid": "a8b63004-694f-415c-a54a-03f44b92b9f2",
+    "password": "52020510",
+    "kid": 16874,
+    "name": "Dinomorphia Alert",
+    "name_jp": "ダイノルフィア・アラート",
+    "name_jp_rom": "Dainorufia Arāto",
+    "name_jp_tl": "Dinorphia Alert",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay half your LP; Special Summon up to 2 \"Dinomorphia\" monsters from your GY whose total Levels equal 8 or less, but you cannot declare an attack with them this turn, also you cannot Special Summon for the rest of this turn, except \"Dinomorphia\" monsters. When your opponent activates a card or effect, while your LP are 2000 or less: You can banish this card from your GY; you take no effect damage from your opponent's card effects this turn. You can only activate 1 \"Dinomorphia Alert\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay half your LP; Special Summon up to 2 \"Dinomorphia\" monsters from your GY whose total Levels equal 8 or less, but you cannot declare an attack with them this turn, also you cannot Special Summon for the rest of this turn, except \"Dinomorphia\" monsters. When your opponent activates a card or effect, while your LP are 2000 or less: You can banish this card from your GY; you take no effect damage from your opponent's card effects this turn. You can only activate 1 \"Dinomorphia Alert\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DinomorphiaAlert-BACH-JP-C.png",
+            "art": "DinomorphiaAlert-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "DinomorphiaAlert-MP23-EN-C-1E.png",
+            "art": "DinomorphiaAlert-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "BACH-EN069",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP23-EN038",
+            "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Quick-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Dinomorphia"
+        ],
+        "suparc": [
+            "Dinomorphia"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Restricts the player's Special Summons to archetype specific monsters"
+        ],
+        "attack": [
+            "Prevents your monsters from attacking"
+        ],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Pays Life Points for cost",
+            "Halves the player's LP",
+            "Prevents effect damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires specific LP",
+            "Only once per turn"
+        ]
+    }
+}

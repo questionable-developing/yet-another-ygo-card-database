@@ -1,0 +1,95 @@
+{
+    "cid": "5a4ffba7-1273-45aa-b103-c9dc0c8eddf2",
+    "password": "64213017",
+    "kid": 16633,
+    "name": "Beetrooper Formation",
+    "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫隊戦術機動</rb><rp> (</rp><rt>ビートルーパー・フォーメーション</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Bītorūpā Fōmēshon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can target 1 \"Beetrooper\" monster in your GY; Special Summon it, but it cannot attack this turn, also you lose LP equal to its original ATK. If a face-up Insect monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Beetrooper Token\" (Insect/EARTH/Level 3/ATK 1000/DEF 1000). You can only use each effect of \"Beetrooper Formation\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can target 1 \"Beetrooper\" monster in your GY; Special Summon it, but it cannot attack this turn, also you lose LP equal to its original ATK. If a face-up Insect monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Beetrooper Token\" (Insect/EARTH/Level 3/ATK 1000/DEF 1000). You can only use each effect of \"Beetrooper Formation\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BeetrooperFormation-MP22-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DAMA-EN090",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP22-EN178",
+            "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Beetrooper Token"
+        ],
+        "sup": [
+            "Insect"
+        ],
+        "asup": [],
+        "arc": [
+            "Beetrooper"
+        ],
+        "suparc": [
+            "Beetrooper"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Special Summons Tokens"
+        ],
+        "attack": [
+            "Prevents your monsters from attacking"
+        ],
+        "banished": [],
+        "life_points": [
+            "You lose Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type",
+            "Only once per turn"
+        ]
+    }
+}

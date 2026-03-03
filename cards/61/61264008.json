@@ -1,0 +1,87 @@
+{
+    "cid": "3b1c793e-0d76-4cbf-95cd-c7b72c0d4924",
+    "password": "61264008",
+    "kid": 18215,
+    "name": "Land Flipping",
+    "name_jp": "<ruby lang=\"jp\"><rb>土</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>ころがし",
+    "name_jp_rom": "Tochikorogashi",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-up card in a Field Zone; banish it, then place it face-up in the other Field Zone, then, you can choose 1 Field Spell with a different original name in the current controller's GY, and place it face-up in the Field Zone of the player whose card was banished. You can only activate 1 \"Land Flipping\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-up card in a Field Zone; banish it, then place it face-up in the other Field Zone, then, you can choose 1 Field Spell with a different original name in the current controller's GY, and place it face-up in the Field Zone of the player whose card was banished. You can only activate 1 \"Land Flipping\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LandFlipping-MP24-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHHY-EN070",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN327",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Field Spell"
+        ],
+        "asup": [
+            "Field Spell"
+        ],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns banished cards to the field",
+            "Places cards from your Graveyard in your opponent's Field Zone",
+            "Places cards from your opponent's Graveyard in your Field Zone"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your field",
+            "Banishes from your opponent's field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

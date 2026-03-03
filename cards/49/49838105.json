@@ -1,0 +1,88 @@
+{
+    "cid": "666734ac-4cd3-433d-a11c-4cb7d5c2d998",
+    "password": "49838105",
+    "kid": 11102,
+    "name": "Sylvan Waterslide",
+    "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>滝</rb><rp> (</rp><rt>たき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滑</rb><rp> (</rp><rt>すべ</rt><rp>)</rp></ruby>り",
+    "name_jp_rom": "Shinra no Takisuberi",
+    "name_jp_tl": "Shinra Waterfall Slide",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each time an opponent's monster declares a direct attack: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. During your Draw Phase, instead of conducting your normal draw: Excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, add it to your hand.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each time an opponent's monster declares a direct attack: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. During your Draw Phase, instead of conducting your normal draw: Excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, add it to your hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SylvanWaterslide-MP15-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PRIO-EN073",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP15-EN042",
+            "set": "2015 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Plant"
+        ],
+        "asup": [],
+        "arc": [
+            "Sylvan"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Excavates from the player's Deck",
+            "Sends excavated cards to the Graveyard",
+            "Sends from the top of your Deck to your Graveyard",
+            "Places excavated cards on the bottom of the Deck",
+            "Changes the player's Deck order",
+            "Replaces normal draw",
+            "Adds excavated cards to the hand",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

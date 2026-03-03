@@ -1,0 +1,102 @@
+{
+    "cid": "87ae2302-e473-45a0-97ee-5d44cfcfc058",
+    "password": "78794994",
+    "kid": 7223,
+    "name": "Symbols of Duty",
+    "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>線</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>復</rb><rp> (</rp><rt>ふっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>活</rb><rp> (</rp><rt>かつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>償</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sensenfukkatsu no Daishō",
+    "name_jp_tl": "Price of Returning to War",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send 1 Normal Monster you control to the Graveyard, then target 1 monster in either player's Graveyard; Special Summon it, and if you do, equip this card to it. When this card leaves the field, destroy the equipped monster.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SymbolsofDuty-LDK2-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TAEV-EN060",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "5DS1-EN030",
+            "set": "Starter Deck: Yu-Gi-Oh! 5D's",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDWS-EN029",
+            "set": "Warriors' Strike Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LDK2-ENJ33",
+            "set": "Legendary Decks II",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Normal Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from field to Graveyard for cost",
+            "Equips self from field"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys face-up Monster Cards",
+            "Destroys equipped"
+        ],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Special Summons from your opponent's Graveyard to your field",
+            "Equips to Summoned monster"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Monster type"
+        ]
+    }
+}

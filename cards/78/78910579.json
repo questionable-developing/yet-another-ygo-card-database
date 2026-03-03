@@ -1,0 +1,90 @@
+{
+    "cid": "7c05043d-fab5-41d6-bb1a-dd8545b231a8",
+    "password": "78910579",
+    "kid": 10102,
+    "name": "Aquamirror Cycle",
+    "name_jp": "<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>ごん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Gisuikyō no Hangonjutsu",
+    "name_jp_tl": "Reincarnation Technique of the Ceremonial Water Mirror",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 WATER monster you control and 2 WATER monsters in your Graveyard; shuffle the first target into the Deck, and if you do, add the second targets to your hand.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 WATER monster you control and 2 WATER monsters in your Graveyard; shuffle the first target into the Deck, and if you do, add the second targets to your hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AquamirrorCycle-GAOV-JP-C.jpg",
+            "art": "AquamirrorCycle-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "AquamirrorCycle-THSF-EN-SR-1E.png",
+            "art": "AquamirrorCycle-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "GAOV-EN079",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "THSF-EN060",
+            "set": "The Secret Forces",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [
+            "WATER"
+        ],
+        "asup": [],
+        "arc": [
+            "Aquamirror"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Gishki"
+        ],
+        "counter": [],
+        "action": [
+            "Returns from your field to your Deck",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Attribute"
+        ]
+    }
+}

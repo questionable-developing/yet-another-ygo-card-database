@@ -1,0 +1,90 @@
+{
+    "cid": "0fe72ea4-c02f-4c20-af4e-18e7c88a651b",
+    "password": "64966519",
+    "kid": 16238,
+    "name": "Dispatchparazzi",
+    "name_jp": "<ruby lang=\"jp\"><rb>激</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撮</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>ディスパラッチ",
+    "name_jp_rom": "Gekisatsu Disuparatchi",
+    "name_jp_tl": "Paparazzi Disparazzi",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Link",
+        "Effect"
+    ],
+    "atk": 100,
+    "def": null,
+    "lrl": 2,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": 2,
+    "arrows": [
+        "Middle-Left",
+        "Middle-Right"
+    ],
+    "desc": "2 Effect Monsters<br />When another monster you control is targeted for an attack: You can change the attack target to this card, and perform damage calculation. When this card is destroyed by battle with an opponent's monster: You can destroy that opponent's monster, and if you do, gain LP equal to half that monster's original ATK. You can only use each effect of \"Dispatchparazzi\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "2 Effect Monsters\nWhen another monster you control is targeted for an attack: You can change the attack target to this card, and perform damage calculation. When this card is destroyed by battle with an opponent's monster: You can destroy that opponent's monster, and if you do, gain LP equal to half that monster's original ATK. You can only use each effect of \"Dispatchparazzi\" once per turn.",
+    "eff": "2 Effect Monsters\nWhen another monster you control is targeted for an attack: You can change the attack target to this card, and perform damage calculation. When this card is destroyed by battle with an opponent's monster: You can destroy that opponent's monster, and if you do, gain LP equal to half that monster's original ATK. You can only use each effect of \"Dispatchparazzi\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Dispatchparazzi-DAMA-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DAMA-EN049",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Activates if destroyed by battle"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's face-up Monster Cards",
+            "Destroys battling monster at the end of the Damage Step"
+        ],
+        "summoning": [
+            "2 Link Materials",
+            "Requires Effect Monsters as Link Materials"
+        ],
+        "attack": [
+            "Changes attack targets",
+            "Conducts damage calculation"
+        ],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

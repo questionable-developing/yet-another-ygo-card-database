@@ -1,0 +1,81 @@
+{
+    "cid": "221c27ba-b329-4209-bf87-fb660d9d39ad",
+    "password": "60238002",
+    "kid": 20245,
+    "name": "Interdimensional Matter Forwarder",
+    "name_jp": "<ruby lang=\"jp\"><rb>亜</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>間</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>ぶっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>質</rb><rp> (</rp><rt>しつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>回</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>送</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Akūkan Busshitsu Kaisōsōchi",
+    "name_jp_tl": "Subspace Matter Forwarder",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can target 1 monster on the field; banish it, then return it to the field. If your opponent activates a card or effect: You can target 1 face-up monster on the field whose effects are negated; banish it, then return it to the field. Before resolving an opponent's effect that targets this card on the field, banish this card, until the End Phase of the next turn. You can only use each effect of \"Interdimensional Matter Forwarder\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can target 1 monster on the field; banish it, then return it to the field. If your opponent activates a card or effect: You can target 1 face-up monster on the field whose effects are negated; banish it, then return it to the field. Before resolving an opponent's effect that targets this card on the field, banish this card, until the End Phase of the next turn. You can only use each effect of \"Interdimensional Matter Forwarder\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "InterdimensionalMatterForwarder-MP25-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "INFO-EN066",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP25-EN393",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Ignition-like, Trigger-like, Continuous-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns banished cards to the field"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from field",
+            "Banishes itself from field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

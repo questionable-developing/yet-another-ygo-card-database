@@ -1,0 +1,81 @@
+{
+    "cid": "448e9157-86b0-430d-9539-c94cbe4e25c0",
+    "password": "73206827",
+    "kid": 7624,
+    "name": "Light Barrier",
+    "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Hikari no Kekkai",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, during your Standby Phase: Toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase.<br />● When you Summon an \"Arcana Force\" monster, choose which effect to apply without tossing a coin.<br />● If your \"Arcana Force\" monster destroys an opponent's monster by battle: You gain LP equal to the destroyed monster's original ATK.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, during your Standby Phase: Toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase.\n● When you Summon an \"Arcana Force\" monster, choose which effect to apply without tossing a coin.\n● If your \"Arcana Force\" monster destroys an opponent's monster by battle: You gain LP equal to the destroyed monster's original ATK.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LightBarrier-SGX4-NA-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LODT-EN051",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Lingering, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Arcana Force"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Field Searcher"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Coin toss",
+            "Variable effects",
+            "During the Standby Phase"
+        ]
+    }
+}

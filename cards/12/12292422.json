@@ -1,0 +1,88 @@
+{
+    "cid": "ac7cafbc-cef6-4378-b456-b0ac5bbb46df",
+    "yid": null,
+    "password": "12292422",
+    "kid": 15371,
+    "name": "Specimen Inspection",
+    "name_jp": "<ruby lang=\"jp\"><rb>標</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>本</rb><rp> (</rp><rt>ほん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>閲</rb><rp> (</rp><rt>えつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>覧</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Hyōhon no Etsuran",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Reveal 1 \"Fossil Fusion\" in your hand; send 1 monster from your hand to the GY, and if you do, declare a Type and a Level, then your opponent looks at their hand and Deck, and sends 1 monster with the declared Type and Level from one of them to the GY (if possible). You can only activate 1 \"Specimen Inspection\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Reveal 1 \"Fossil Fusion\" in your hand; send 1 monster from your hand to the GY, and if you do, declare a Type and a Level, then your opponent looks at their hand and Deck, and sends 1 monster with the declared Type and Level from one of them to the GY (if possible). You can only activate 1 \"Specimen Inspection\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SpecimenInspection-BLC1-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLAR-EN013",
+            "set": "Battles of Legend: Armageddon",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "BLC1-EN136",
+            "set": "Battles of Legend: Chapter 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Fossil Fusion"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Fossil"
+        ],
+        "counter": [],
+        "action": [
+            "Reveals your hand for cost",
+            "Sends from your hand to your Graveyard",
+            "Declares a Type",
+            "Declares a Level",
+            "Sends from your opponent's hand to your opponent's Graveyard",
+            "Sends from your opponent's Deck to your opponent's Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "cid": "18f8557a-2073-4db8-a4ac-0420c73ff905",
+    "password": "60830240",
+    "kid": 19629,
+    "name": "Void Reignition",
+    "name_jp": "<ruby lang=\"jp\"><rb>熾</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>煉</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Shidōsuru Rengoku",
+    "name_jp_tl": "Igniting Purgatory",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Reveal 1 \"Infernoid\" monster or 1 \"Void\" Spell/Trap in your hand; discard your entire hand, then draw the same number of cards you discarded. If you control no monsters, or all monsters you control are Fiend monsters, except the turn this card was sent to the GY: You can banish this card from your GY, then target up to 11 of your banished \"Infernoid\" monsters with different names; return them to the GY. You can only use this effect of \"Void Reignition\" once per Duel.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Reveal 1 \"Infernoid\" monster or 1 \"Void\" Spell/Trap in your hand; discard your entire hand, then draw the same number of cards you discarded. If you control no monsters, or all monsters you control are Fiend monsters, except the turn this card was sent to the GY: You can banish this card from your GY, then target up to 11 of your banished \"Infernoid\" monsters with different names; return them to the GY. You can only use this effect of \"Void Reignition\" once per Duel.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "VoidReignition-BLTR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLTR-EN015",
+            "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Fiend"
+        ],
+        "asup": [],
+        "arc": [
+            "Void"
+        ],
+        "suparc": [
+            "Infernoid",
+            "Void"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals your hand for cost",
+            "You discard as an effect",
+            "You draw cards",
+            "Activates from your Graveyard",
+            "Returns the player's banished cards to the Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of no monsters",
+            "Requires control of specific Type",
+            "Only once per Duel"
+        ]
+    }
+}

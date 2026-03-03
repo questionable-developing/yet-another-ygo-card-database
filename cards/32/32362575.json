@@ -1,0 +1,110 @@
+{
+    "cid": "3b75a2b5-631b-4a7f-a219-eac3da0015d9",
+    "yid": null,
+    "password": "32362575",
+    "kid": 5663,
+    "name": "Magical Merchant",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雑</rb><rp> (</rp><rt>ざっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>貨</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>商</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Madō Zakkashōnin",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Insect",
+        "Flip",
+        "Effect"
+    ],
+    "atk": 200,
+    "def": 700,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
+    "eff": "FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MagicalMerchant-SDPL-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DR1-EN134",
+            "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CP05-EN003",
+            "set": "Champion Pack: Game Five",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "AP04-EN016",
+            "set": "Astral Pack Four",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SP14-EN040",
+            "set": "Star Pack 2014",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        },
+        {
+            "sid": "SDPL-EN018",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Flip"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Prophecy"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "Excavates from the player's Deck",
+            "Adds excavated cards to the hand",
+            "Adds from Deck to hand",
+            "Sends excavated cards to the Graveyard",
+            "Sends from the top of your Deck to your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

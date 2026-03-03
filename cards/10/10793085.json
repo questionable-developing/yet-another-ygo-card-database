@@ -1,0 +1,87 @@
+{
+    "cid": "b76cdd05-eb03-4db5-98fe-45958cd92d9d",
+    "yid": null,
+    "password": "10793085",
+    "kid": 18516,
+    "name": "Tri-Brigade Roar",
+    "name_jp": "<ruby lang=\"jp\"><rb>鉄獣の咆哮</rb><rp> (</rp><rt>トライブリゲード・ロアー</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Toraiburigēdo Roā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you control a Link Monster: Send 1 \"Tri-Brigade\" card from your Deck or Extra Deck to the GY, then target 1 Effect Monster on the field; apply the following effect based on the type of card sent to the GY.<br />● Monster: Change the targeted monster's ATK to 0 until the end of this turn.<br />● Spell: Negate that monster's effects until the end of this turn.<br />● Trap: Return that monster to the hand.<br />You can only activate 1 \"Tri-Brigade Roar\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you control a Link Monster: Send 1 \"Tri-Brigade\" card from your Deck or Extra Deck to the GY, then target 1 Effect Monster on the field; apply the following effect based on the type of card sent to the GY.\n● Monster: Change the targeted monster's ATK to 0 until the end of this turn.\n● Spell: Negate that monster's effects until the end of this turn.\n● Trap: Return that monster to the hand.\nYou can only activate 1 \"Tri-Brigade Roar\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TriBrigadeRoar-CYAC-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CYAC-EN053",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Link Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Tri-Brigade"
+        ],
+        "suparc": [
+            "Tri-Brigade"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from Deck to Graveyard for cost",
+            "Sends from Extra Deck to Graveyard for cost",
+            "Returns from field to hand"
+        ],
+        "stat_change": [
+            "Changes ATK value",
+            "Reduces ATK to 0"
+        ],
+        "mst": [
+            "Negates the effects of Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Monster card type",
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

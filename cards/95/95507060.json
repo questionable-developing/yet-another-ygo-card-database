@@ -1,0 +1,83 @@
+{
+    "cid": "610bcc3a-a38c-43c7-ba1c-bdbb2c580fb2",
+    "password": "95507060",
+    "kid": 8495,
+    "name": "Raging Mad Plants",
+    "name_jp": "<ruby lang=\"jp\"><rb>狂</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>植</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>ぶつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>氾</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>濫</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kyōshokubutsu no Hanran",
+    "name_jp_tl": "Overflowing Mad Plants",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "All Plant-Type monsters you currently control gain 300 ATK for each Plant-Type monster currently in your Graveyard, until the end of this turn. During the End Phase, destroy all Plant-Type monsters you control.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "All Plant-Type monsters you currently control gain 300 ATK for each Plant-Type monster currently in your Graveyard, until the end of this turn. During the End Phase, destroy all Plant-Type monsters you control.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RagingMadPlants-BP03-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SOVR-EN060",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BP03-EN165",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect"
+        ],
+        "mentions": [],
+        "sup": [
+            "Plant"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [
+            "Destroys your face-up Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific Type"
+        ]
+    }
+}

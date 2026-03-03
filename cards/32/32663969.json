@@ -1,0 +1,80 @@
+{
+    "cid": "3e6f04fc-2983-4c7a-9a20-62e8094bc645",
+    "yid": null,
+    "password": "32663969",
+    "kid": 7740,
+    "name": "Domino Effect",
+    "name_jp": "ドミノ",
+    "name_jp_rom": "Domino",
+    "name_jp_tl": "Domino",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a monster your opponent controls is destroyed by battle and sent to the Graveyard, you can send 1 monster you control to the Graveyard to destroy 1 monster your opponent controls.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When a monster your opponent controls is destroyed by battle and sent to the Graveyard, you can send 1 monster you control to the Graveyard to destroy 1 monster your opponent controls.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DominoEffect-TDGS-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "TDGS-EN046",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP08-EN018",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Sends from field to Graveyard for cost"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

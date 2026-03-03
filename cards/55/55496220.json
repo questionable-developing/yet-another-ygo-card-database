@@ -1,0 +1,77 @@
+{
+    "cid": "447ebadd-54e8-48ef-bb08-e3f133197faa",
+    "password": "55496220",
+    "kid": 16433,
+    "name": "Cipher Interference",
+    "name_jp": "<ruby lang=\"jp\"><rb>光波干渉</rb><rp> (</rp><rt>サイファー・インターフィアー</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Saifā Intāfiā",
+    "name_jp_tl": "Cipher Interfere",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During damage calculation, if your \"Cipher\" monster battles, while another monster with its same name is on the field: You can double the ATK of your battling \"Cipher\" monster until the end of the Battle Phase. You can only use this effect of \"Cipher Interference\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During damage calculation, if your \"Cipher\" monster battles, while another monster with its same name is on the field: You can double the ATK of your battling \"Cipher\" monster until the end of the Battle Phase. You can only use this effect of \"Cipher Interference\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CipherInterference-BROL-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BROL-EN039",
+            "set": "Brothers of Legend",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Cipher"
+        ],
+        "suparc": [
+            "Cipher"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Doubles ATK",
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

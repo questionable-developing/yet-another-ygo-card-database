@@ -1,0 +1,80 @@
+{
+    "cid": "298af6e8-9d93-46ef-a976-ed0cd55352b1",
+    "password": "98850929",
+    "kid": 10799,
+    "name": "Sacred Serpent's Wake",
+    "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛇</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>息</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>吹</rb><rp> (</rp><rt>ぶき</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Seija no Ibuki",
+    "name_jp_tl": "Sacred Serpent's Breath",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "You can only activate 1 \"Sacred Serpent's Wake\" per turn. If you control 2 or more different kinds of monsters (Ritual, Fusion, Synchro or Xyz): Activate 1 or more effects, depending on the number of different kinds you control, and resolve in sequence;<br />● 2 or more: Target 1 monster in your Graveyard or 1 of your banished monsters; add that target to your hand.<br />● 3 or more: Target 1 Trap Card in your Graveyard; add that target to your hand.<br />● 4: Target 1 Spell Card in your Graveyard, except \"Sacred Serpent's Wake\"; add that target to your hand.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "You can only activate 1 \"Sacred Serpent's Wake\" per turn. If you control 2 or more different kinds of monsters (Ritual, Fusion, Synchro or Xyz): Activate 1 or more effects, depending on the number of different kinds you control, and resolve in sequence;\n● 2 or more: Target 1 monster in your Graveyard or 1 of your banished monsters; add that target to your hand.\n● 3 or more: Target 1 Trap Card in your Graveyard; add that target to your hand.\n● 4: Target 1 Spell Card in your Graveyard, except \"Sacred Serpent's Wake\"; add that target to your hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SacredSerpentsWake-SHSP-EN-C-UE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SHSP-EN068",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Activation requirement, Effect"
+        ],
+        "mentions": [
+            "Sacred Serpent's Wake"
+        ],
+        "sup": [
+            "Fusion Monster",
+            "Synchro Monster",
+            "Ritual Monster",
+            "Xyz Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds banished cards to the hand",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Variable effects"
+        ]
+    }
+}

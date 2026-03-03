@@ -1,0 +1,74 @@
+{
+    "cid": "4f915d6c-0226-452e-b52e-5d04ed3115d2",
+    "password": "70916046",
+    "kid": 15771,
+    "name": "Linear Equation Cannon",
+    "name_jp": "<ruby lang=\"jp\"><rb>壱</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>砲</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>固</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>定</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Ichijihō Koteishiki",
+    "name_jp_tl": "One-o'-Clock Linear Equation Stationary Cannon",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During the Battle Phase: Declare a whole number from 1 to 6; choose 1 Effect Monster your opponent controls. Multiply the Effect Monster's Level x the declared number, then add the number of cards your opponent controls, and check if the result equals the number of cards in your GY.<br />● If yes: Send cards from the top of your Deck to the GY, up to the declared number, and if you do, shuffle cards your opponent controls into the Deck, up to the number sent to the GY.<br />● If no: You lose LP equal to the declared number x 500.<br />You can only activate 1 \"Linear Equation Cannon\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During the Battle Phase: Declare a whole number from 1 to 6; choose 1 Effect Monster your opponent controls. Multiply the Effect Monster's Level x the declared number, then add the number of cards your opponent controls, and check if the result equals the number of cards in your GY.\n● If yes: Send cards from the top of your Deck to the GY, up to the declared number, and if you do, shuffle cards your opponent controls into the Deck, up to the number sent to the GY.\n● If no: You lose LP equal to the declared number x 500.\nYou can only activate 1 \"Linear Equation Cannon\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LinearEquationCannon-BLVO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLVO-EN080",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from the top of your Deck to your Graveyard",
+            "Returns from your opponent's field to your opponent's Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You lose Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

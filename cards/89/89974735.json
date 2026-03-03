@@ -1,0 +1,81 @@
+{
+    "cid": "f3556124-771d-4cb2-8149-b8bf4f420ff1",
+    "yid": 89974735,
+    "password": "89974735",
+    "kid": 9406,
+    "name": "Burgundy the Magic Elf",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔法妖精</rb><rp> (</rp><rt>マジック・エルフ</rt><rp>)</rp></ruby> バーガンディ",
+    "name_jp_rom": "Majikku Erufu Bāgandi",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "atk": 1600,
+    "def": 1400,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If a card(s) is discarded from your opponent's hand by card effect (except during the Damage Step): You can inflict 400 damage to your opponent for each card discarded. When this card is destroyed by battle and sent to the GY: You can discard 1 random card from your opponent's hand. You can only use each effect of \"Burgundy the Magic Elf\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "If a card(s) is discarded from your opponent's hand by card effect (except during the Damage Step): You can inflict 400 damage to your opponent for each card discarded. When this card is destroyed by battle and sent to the GY: You can discard 1 random card from your opponent's hand. You can only use each effect of \"Burgundy the Magic Elf\" once per turn.",
+    "eff": "If a card(s) is discarded from your opponent's hand by card effect (except during the Damage Step): You can inflict 400 damage to your opponent for each card discarded. When this card is destroyed by battle and sent to the GY: You can discard 1 random card from your opponent's hand. You can only use each effect of \"Burgundy the Magic Elf\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BurgundytheMagicElf-MZMU-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MZMU-EN045",
+            "set": "Maze of Muertos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if sent to the Graveyard",
+            "Activates from your Graveyard",
+            "Your opponent discards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

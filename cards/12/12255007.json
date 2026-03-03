@@ -1,0 +1,105 @@
+{
+    "cid": "b54cbcf9-8e45-4066-85f9-08018ae53440",
+    "yid": null,
+    "password": "12255007",
+    "kid": 12277,
+    "name": "Performapal Fireflux",
+    "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ホタルクス",
+    "name_jp_rom": "Entameito Hotarukusu",
+    "name_jp_tl": "Entermate Fireflux",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": true,
+    "subtypes": [
+        "Insect",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1200,
+    "def": 1600,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 5,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn, when an opponent's monster declares an attack: You can Tribute 1 \"Performapal\" monster; negate the attack, then end the Battle Phase.\n\n[ Monster Effect ] \nIf a \"Performapal\" or \"Odd-Eyes\" monster you control attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "pend_eff": "Once per turn, when an opponent's monster declares an attack: You can Tribute 1 \"Performapal\" monster; negate the attack, then end the Battle Phase.",
+    "mnst_eff": "If a \"Performapal\" or \"Odd-Eyes\" monster you control attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "eff": "If a \"Performapal\" or \"Odd-Eyes\" monster you control attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformapalFireflux-MP17-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SHVI-EN005",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SP17-EN034",
+            "set": "Star Pack Battle Royal",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        },
+        {
+            "sid": "MP17-EN003",
+            "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger-like"
+        ],
+        "eff_types": [
+            "Continuous"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performapal"
+        ],
+        "suparc": [
+            "Odd-Eyes",
+            "Performapal"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Tributes for cost",
+            "Ends the Battle Phase"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Prevents activation of your opponent's Spell Cards",
+            "Prevents activation of your opponent's Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Negates attacks"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

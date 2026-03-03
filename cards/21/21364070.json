@@ -1,0 +1,93 @@
+{
+    "cid": "827b8bca-b575-492a-904e-a35778230b85",
+    "yid": null,
+    "password": "21364070",
+    "kid": 14469,
+    "name": "Mayosenju Hitot",
+    "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>独眼群主</rb><rp> (</rp><rt>ヒトツメノムラジ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Mayōsenjū Hitotsumenomuraji",
+    "name_jp_tl": "Mayosenju Hitotsumenomuraji",
+    "type": "Monster",
+    "attribute": "WIND",
+    "pend": true,
+    "subtypes": [
+        "Beast",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 2000,
+    "def": 3000,
+    "lrl": 10,
+    "level": 10,
+    "rank": null,
+    "scale": 3,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nYou can target 1 \"Yosenju\" card in your Pendulum Zone; for the rest of this turn, its Pendulum Scale becomes 11, also you cannot Special Summon monsters, except \"Yosenju\" monsters (even if this card leaves the field). During your End Phase: Return this card to the hand. You can only use each Pendulum Effect of \"Mayosenju Hitot\" once per turn.\n\n[ Monster Effect ] \nCannot be Special Summoned, except by Pendulum Summon. If this card is Normal or Special Summoned: You can target 1 card your opponent controls; return it to the hand. Each time a card(s) on the field is returned to the hand or Main Deck by your card effect, while this card is on the field: All \"Yosenju\" monsters you currently control gain 500 ATK. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+    "pend_eff": "You can target 1 \"Yosenju\" card in your Pendulum Zone; for the rest of this turn, its Pendulum Scale becomes 11, also you cannot Special Summon monsters, except \"Yosenju\" monsters (even if this card leaves the field). During your End Phase: Return this card to the hand. You can only use each Pendulum Effect of \"Mayosenju Hitot\" once per turn.",
+    "mnst_eff": "Cannot be Special Summoned, except by Pendulum Summon. If this card is Normal or Special Summoned: You can target 1 card your opponent controls; return it to the hand. Each time a card(s) on the field is returned to the hand or Main Deck by your card effect, while this card is on the field: All \"Yosenju\" monsters you currently control gain 500 ATK. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+    "eff": "Cannot be Special Summoned, except by Pendulum Summon. If this card is Normal or Special Summoned: You can target 1 card your opponent controls; return it to the hand. Each time a card(s) on the field is returned to the hand or Main Deck by your card effect, while this card is on the field: All \"Yosenju\" monsters you currently control gain 500 ATK. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "MayosenjuHitot-RIRA-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "RIRA-EN011",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like, Trigger-like, Condition"
+        ],
+        "eff_types": [
+            "Summoning condition, Trigger, Trigger, Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Yosenju"
+        ],
+        "suparc": [
+            "Yosenju"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns itself from field to hand",
+            "Returns from your opponent's field to your opponent's hand",
+            "Activates during the turn in which it was Special Summoned",
+            "Activates if returned from the field to the hand"
+        ],
+        "stat_change": [
+            "Changes Pendulum Scales",
+            "Changes own Pendulum Scale",
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [
+            "Restricts the player's Special Summons to archetype specific monsters",
+            "Cannot be Special Summoned except by a specific method"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Only once per turn"
+        ]
+    }
+}

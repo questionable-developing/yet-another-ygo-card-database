@@ -1,0 +1,92 @@
+{
+    "cid": "dc38e1e7-f25d-46da-ab81-72e869703741",
+    "password": "61950680",
+    "kid": 20242,
+    "name": "Emblema Salvation",
+    "name_jp": "<ruby lang=\"jp\"><rb>贖</rb><rp> (</rp><rt>あがな</rt><rp>)</rp></ruby>いのエンブレーマ",
+    "name_jp_rom": "Aganai no Enburēma",
+    "name_jp_tl": "Salvation Emblema",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Banish 1 face-up \"Centur-Ion\" Monster Card from your Spell & Trap Zone, then target 1 card your opponent controls; banish it. If this Set card in its owner's control is destroyed or banished by an opponent's activated effect: You can place 2 \"Centur-Ion\" monsters with different names from your hand, Deck, GY, and/or banishment in your Spell & Trap Zone as face-up Continuous Traps. You can only activate 1 \"Emblema Salvation\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Banish 1 face-up \"Centur-Ion\" Monster Card from your Spell & Trap Zone, then target 1 card your opponent controls; banish it. If this Set card in its owner's control is destroyed or banished by an opponent's activated effect: You can place 2 \"Centur-Ion\" monsters with different names from your hand, Deck, GY, and/or banishment in your Spell & Trap Zone as face-up Continuous Traps. You can only activate 1 \"Emblema Salvation\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "EmblemaSalvation-MP25-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "INFO-EN063",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP25-EN230",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Emblema"
+        ],
+        "suparc": [
+            "Centur-Ion"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed while Set",
+            "Activates while banished",
+            "Places cards from hand in Spell & Trap Zone",
+            "Places cards from Deck in Spell & Trap Zone",
+            "Places cards from Graveyard in Spell & Trap Zone"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Treats monsters as Continuous Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from field for cost",
+            "Banishes from your opponent's field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "cid": "86961524-e9f2-4c5e-a924-a87408db0f2c",
+    "yid": null,
+    "password": "06556178",
+    "kid": 13769,
+    "name": "Borrel Regenerator",
+    "name_jp": "ヴァレル・リロード",
+    "name_jp_rom": "Vareru Rirōdo",
+    "name_jp_tl": "Varrel Reload",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate this card by targeting 1 \"Rokket\" monster in your GY; Special Summon it and equip it with this card, but banish it when this card leaves the field. If this card is sent to the GY because the equipped monster is destroyed: You can draw 1 card. You can only use each effect of \"Borrel Regenerator\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate this card by targeting 1 \"Rokket\" monster in your GY; Special Summon it and equip it with this card, but banish it when this card leaves the field. If this card is sent to the GY because the equipped monster is destroyed: You can draw 1 card. You can only use each effect of \"Borrel Regenerator\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "BorrelRegenerator-QCCP-JP-SR.png",
+            "art": "BorrelRegenerator-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "BorrelRegenerator-MP19-EN-C-1E.png",
+            "art": "BorrelRegenerator-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "CYHO-EN053",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDRR-EN027",
+            "set": "Structure Deck: Rokket Revolt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP19-EN115",
+            "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Borrel"
+        ],
+        "suparc": [
+            "Rokket"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips self from field",
+            "Activates from your Graveyard",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Equips to Summoned monster"
+        ],
+        "attack": [],
+        "banished": [
+            "Banishes other cards when they leave the field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

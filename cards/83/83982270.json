@@ -1,0 +1,88 @@
+{
+    "cid": "9d1f36cd-245a-4871-bf6c-a8e2128b864c",
+    "password": "83982270",
+    "kid": 7268,
+    "name": "Cloudian - Poison Cloud",
+    "name_jp": "<ruby lang=\"jp\"><rb>雲魔物</rb><rp> (</rp><rt>クラウディアン</rt><rp>)</rp></ruby>－ポイズン・クラウド",
+    "name_jp_rom": "Kuraudian - Poizun Kuraudo",
+    "name_jp_tl": "Cloudian - Poison Cloud",
+    "type": "Monster",
+    "attribute": "WATER",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": 1000,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is destroyed by battle and sent to the Graveyard, if it was face-up at the start of the Damage Step: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.",
+    "pend_eff": null,
+    "mnst_eff": "When this card is destroyed by battle and sent to the Graveyard, if it was face-up at the start of the Damage Step: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.",
+    "eff": "When this card is destroyed by battle and sent to the Graveyard, if it was face-up at the start of the Damage Step: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CloudianPoisonCloud-BP01-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "GLAS-EN009",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP01-EN193",
+            "set": "Battle Pack: Epic Dawn",
+            "rarities": {
+                "Common": [],
+                "Starfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Cloudian"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's face-up Monster Cards",
+            "Destroys battling monster at the end of the Damage Step"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

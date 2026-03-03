@@ -1,0 +1,83 @@
+{
+    "cid": "a7dc5e86-41c4-4223-b644-d125557a0ee6",
+    "password": "72767833",
+    "kid": 7901,
+    "name": "Card Rotator",
+    "name_jp": "カード・フリッパー",
+    "name_jp_rom": "Kādo Furippā",
+    "name_jp_tl": "Card Flipper",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send 1 card from your hand to the Graveyard. Change the battle positions of all monsters your opponent controls. (Face-down Defense Position monsters are flipped to face-up Attack Position.)",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send 1 card from your hand to the Graveyard. Change the battle positions of all monsters your opponent controls. (Face-down Defense Position monsters are flipped to face-up Attack Position.)",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CardRotator-DP08-JP-C.jpg",
+            "art": "CardRotator-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "CardRotator-CSOC-EN-C-1E.jpg",
+            "art": "CardRotator-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "CSOC-EN045",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP08-EN020",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Cost, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your hand to your Graveyard for cost",
+            "Changes battle positions",
+            "Flips monsters face-up"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "cid": "87fe06c6-4b1b-4128-98d0-c56e01e83dcb",
+    "yid": null,
+    "password": "04483989",
+    "kid": 6449,
+    "name": "Prepare to Strike Back",
+    "name_jp": "<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>準</rb><rp> (</rp><rt>じゅん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>備</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Hangeki Junbi",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each time your opponent declares a face-up Defense Position monster as an attack target, toss a coin and call it. If you call it right, change the targeted monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the amount that the ATK of the attacking monster is higher than the DEF of the attack target.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each time your opponent declares a face-up Defense Position monster as an attack target, toss a coin and call it. If you call it right, change the targeted monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the amount that the ATK of the attacking monster is higher than the DEF of the attack target.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PreparetoStrikeBack-EE04-JP-C.jpg",
+            "art": "PreparetoStrikeBack-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "PreparetoStrikeBack-DR04-NA-C-UE.png",
+            "art": "PreparetoStrikeBack-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "CRV-EN060",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Changes battle positions"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages you"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Coin toss"
+        ]
+    }
+}

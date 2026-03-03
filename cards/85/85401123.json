@@ -1,0 +1,88 @@
+{
+    "cid": "5b2d409a-afce-44f9-a752-a8e3352c60e8",
+    "password": "85401123",
+    "kid": 19488,
+    "name": "Mokomoko",
+    "name_jp": "モコモッコ",
+    "name_jp_rom": "Mokomokko",
+    "name_jp_tl": "Fluffyfluff",
+    "type": "Monster",
+    "attribute": "WATER",
+    "pend": false,
+    "subtypes": [
+        "Illusion",
+        "Flip",
+        "Effect"
+    ],
+    "atk": 300,
+    "def": 300,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "FLIP: Draw 1 card.<br />During your Main Phase: You can change this card to face-down Defense Position.<br />You can only use each of the preceding effects of \"Mokomoko\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+    "pend_eff": null,
+    "mnst_eff": "FLIP: Draw 1 card.\nDuring your Main Phase: You can change this card to face-down Defense Position.\nYou can only use each of the preceding effects of \"Mokomoko\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+    "eff": "FLIP: Draw 1 card.\nDuring your Main Phase: You can change this card to face-down Defense Position.\nYou can only use each of the preceding effects of \"Mokomoko\" once per turn. If this card battles a monster, neither can be destroyed by that battle.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Mokomoko-MP25-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHNI-EN033",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP25-EN310",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Ignition, Condition, Continuous"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "You draw cards",
+            "Flips itself face-down",
+            "Changes own battle position"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Cannot be destroyed by battle",
+            "Cannot destroy by battle"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

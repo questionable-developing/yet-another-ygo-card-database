@@ -1,0 +1,79 @@
+{
+    "cid": "4687acb3-af28-49b7-b89c-052e03568761",
+    "password": "72710085",
+    "kid": 10548,
+    "name": "Jewels of the Valiant",
+    "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喰</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Seija no Shinshoku",
+    "name_jp_tl": "God Devourer of Celestial Evil",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If exactly 1 monster is banished from your Graveyard (and no other cards are banished at the same time), except during the Damage Step: You can send, from your Deck to the Graveyard, 1 monster that has a different Attribute from that banished monster. You can only use the effect of \"Jewels of the Valiant\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If exactly 1 monster is banished from your Graveyard (and no other cards are banished at the same time), except during the Damage Step: You can send, from your Deck to the Graveyard, 1 monster that has a different Attribute from that banished monster. You can only use the effect of \"Jewels of the Valiant\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "JewelsoftheValiant-LTGY-JP-C.png",
+            "art": "JewelsoftheValiant-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "JewelsoftheValiant-LTGY-EN-C-UE.png",
+            "art": "JewelsoftheValiant-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "LTGY-EN067",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Jewels of the Valiant"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if other cards are banished",
+            "Sends from your Deck to your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

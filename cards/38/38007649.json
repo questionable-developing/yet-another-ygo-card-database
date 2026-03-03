@@ -1,0 +1,89 @@
+{
+    "cid": "ad3a4d80-631e-4fe0-a972-17a115f11a1c",
+    "yid": 38007649,
+    "password": "38007649",
+    "kid": 22158,
+    "name": "DoomZ Change",
+    "name_jp": "<ruby lang=\"jp\"><rb>終刻変転</rb><rp> (</rp><rt>ドゥームズ・チェンジャー</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Dūmuzu Chenjā",
+    "name_jp_tl": "DoomZ Changer",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Destroy 1 \"DoomZ\" card in your hand, Deck, or face-up field, except \"DoomZ Change\". If this card is destroyed by card effect: You can add 1 \"DoomZ\" card from your GY to your hand, except \"DoomZ Change\", then you can Special Summon 1 \"DoomZ\" monster from your hand. You can only use each effect of \"DoomZ Change\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Destroy 1 \"DoomZ\" card in your hand, Deck, or face-up field, except \"DoomZ Change\". If this card is destroyed by card effect: You can add 1 \"DoomZ\" card from your GY to your hand, except \"DoomZ Change\", then you can Special Summon 1 \"DoomZ\" monster from your hand. You can only use each effect of \"DoomZ Change\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DoomZChange-BPRO-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BPRO-EN055",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "DoomZ Change"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Change",
+            "DoomZ"
+        ],
+        "suparc": [
+            "DoomZ"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by card effect",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys hand",
+            "Destroys your face-up Monster Cards",
+            "Destroys your face-up Spell Cards",
+            "Destroys your face-up Trap Cards",
+            "Destroys Main Deck"
+        ],
+        "summoning": [
+            "Special Summons from your hand"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

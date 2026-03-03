@@ -1,0 +1,88 @@
+{
+    "cid": "a6b97739-8c9a-4064-89ba-8585462784de",
+    "password": "69792699",
+    "kid": 16404,
+    "name": "Penguin Sword",
+    "name_jp": "ペンギン・ソード",
+    "name_jp_rom": "Pengin Sōdo",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a \"Penguin\" monster. It gains 800 ATK. When the equipped monster inflicts battle damage to your opponent: You can return 1 card your opponent controls to the hand. If a face-up card your opponent controls leaves the field by a \"Penguin\" card's effect and returns to the hand or is banished: Negate the activated effects and effects on the field of cards with that original name, until the end of the next turn. You can only use this effect of \"Penguin Sword\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a \"Penguin\" monster. It gains 800 ATK. When the equipped monster inflicts battle damage to your opponent: You can return 1 card your opponent controls to the hand. If a face-up card your opponent controls leaves the field by a \"Penguin\" card's effect and returns to the hand or is banished: Negate the activated effects and effects on the field of cards with that original name, until the end of the next turn. You can only use this effect of \"Penguin Sword\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PenguinSword-BROL-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BROL-EN008",
+            "set": "Brothers of Legend",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Penguin"
+        ],
+        "suparc": [
+            "Penguin"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if battle damage is inflicted",
+            "Returns from your opponent's field to your opponent's hand",
+            "Activates if returned from the field to the hand",
+            "Activates if other cards are banished",
+            "Activates if other cards leave the field"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Negates the effects of Effect Monsters",
+            "Negates the effects of Spell Cards",
+            "Negates the effects of Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Requires control of specific archetype",
+            "Turn limited effects",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "cid": "ec4d346d-7fc0-4eb8-aabd-f479fb06718f",
+    "password": "57093995",
+    "kid": 14868,
+    "name": "Condolence Puppet",
+    "name_jp": "コンドーレンス・パペット",
+    "name_jp_rom": "Kondōrensu Papetto",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Send \"Gimmick Puppet\" monsters with different names from your Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck +1. You can banish this card from your GY, then target 1 Machine Xyz Monster you control; it cannot be destroyed by your opponent's card effects while face-up on the field. You can only use each effect of \"Condolence Puppet\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Send \"Gimmick Puppet\" monsters with different names from your Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck +1. You can banish this card from your GY, then target 1 Machine Xyz Monster you control; it cannot be destroyed by your opponent's card effects while face-up on the field. You can only use each effect of \"Condolence Puppet\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CondolencePuppet-IGAS-JP-R.png",
+            "art": "CondolencePuppet-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "CondolencePuppet-IGAS-EN-C-1E.png",
+            "art": "CondolencePuppet-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "IGAS-EN059",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Ignition-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Machine",
+            "Xyz Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Puppet"
+        ],
+        "suparc": [
+            "Gimmick Puppet"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sends from your Deck to your Graveyard",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

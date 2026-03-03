@@ -1,0 +1,83 @@
+{
+    "cid": "90ab91dc-a0aa-4354-a564-e9e575273b7b",
+    "password": "64014615",
+    "kid": 12655,
+    "name": "Pot of Acquisitiveness",
+    "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Taiyoku na Tsubo",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 3 banished monsters; shuffle all 3 into the Deck, then draw 1 card. You can only activate 1 \"Pot of Acquisitiveness\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 3 banished monsters; shuffle all 3 into the Deck, then draw 1 card. You can only activate 1 \"Pot of Acquisitiveness\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PotofAcquisitiveness-TBC1-EN-UPR-LE.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "INOV-EN065",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TBC1-EN006",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Greed (series)"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns the player's banished cards to the Deck by effect",
+            "Returns the player's banished cards to the Extra Deck",
+            "Returns the opponent's banished cards to the Deck",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "cid": "dac07ce2-5032-4ddd-85d6-496a8e037cfb",
+    "yid": null,
+    "password": "28776350",
+    "kid": 13267,
+    "name": "Akashic Magician",
+    "name_jp": "アカシック・マジシャン",
+    "name_jp_rom": "Akashikku Majishan",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Link",
+        "Effect"
+    ],
+    "atk": 1700,
+    "def": null,
+    "lrl": 2,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": 2,
+    "arrows": [
+        "Top-Center",
+        "Bottom-Center"
+    ],
+    "desc": "2 monsters with the same Type, except Tokens<br />You can only Link Summon \"Akashic Magician(s)\" once per turn. If this card is Link Summoned: Return all monsters this card points to to the hand. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total Link Rating of the Link Monsters co-linked to this card, then if you excavated any copies of the declared card, add them to your hand, also send the remaining cards to the GY.",
+    "pend_eff": null,
+    "mnst_eff": "2 monsters with the same Type, except Tokens\nYou can only Link Summon \"Akashic Magician(s)\" once per turn. If this card is Link Summoned: Return all monsters this card points to to the hand. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total Link Rating of the Link Monsters co-linked to this card, then if you excavated any copies of the declared card, add them to your hand, also send the remaining cards to the GY.",
+    "eff": "2 monsters with the same Type, except Tokens\nYou can only Link Summon \"Akashic Magician(s)\" once per turn. If this card is Link Summoned: Return all monsters this card points to to the hand. Once per turn: You can declare 1 card name; excavate cards from the top of your Deck, equal to the total Link Rating of the Link Monsters co-linked to this card, then if you excavated any copies of the declared card, add them to your hand, also send the remaining cards to the GY.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "AkashicMagician-SHVA-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CIBR-EN051",
+            "set": "Circuit Break",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SHVA-EN052",
+            "set": "Shadows in Valhalla",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Trigger, Ignition"
+        ],
+        "mentions": [
+            "Akashic Magician"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Link Summon",
+            "Returns from field to hand",
+            "Declares a card name",
+            "Excavates from the player's Deck",
+            "Adds excavated cards to the hand",
+            "Adds from Deck to hand",
+            "Sends excavated cards to the Graveyard",
+            "Sends from the top of your Deck to your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "2 Link Materials",
+            "Requires Type specific Link Materials",
+            "Cannot use Tokens as Link Materials for its Summon",
+            "Link Summon once per turn"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Co-link",
+            "Limited activations"
+        ]
+    }
+}

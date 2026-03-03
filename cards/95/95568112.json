@@ -1,0 +1,90 @@
+{
+    "cid": "f4429973-a925-4f72-9971-e4ca2b17cc9f",
+    "password": "95568112",
+    "kid": 13884,
+    "name": "Rain Bozu",
+    "name_jp": "レイン・ボーズ",
+    "name_jp_rom": "Rein Bōzu",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": true,
+    "subtypes": [
+        "Fairy",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 0,
+    "def": 0,
+    "lrl": 7,
+    "level": 7,
+    "rank": null,
+    "scale": 8,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in the Extra Decks x 100, until the end of this turn (even if this card leaves the field).\n\n[ Monster Effect ] \nGains ATK during your turn only, and gains DEF during your opponent's turn only, each equal to the difference between the number of cards in the Extra Decks x 200. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "pend_eff": "Once per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in the Extra Decks x 100, until the end of this turn (even if this card leaves the field).",
+    "mnst_eff": "Gains ATK during your turn only, and gains DEF during your opponent's turn only, each equal to the difference between the number of cards in the Extra Decks x 200. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "eff": "Gains ATK during your turn only, and gains DEF during your opponent's turn only, each equal to the difference between the number of cards in the Extra Decks x 200. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RainBozu-MP21-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ETCO-EN093",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN090",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like"
+        ],
+        "eff_types": [
+            "Continuous, Continuous, Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Changes own battle position",
+            "Goes to Pendulum Zone"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK",
+            "This card gains ATK",
+            "This card gains DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "At the end of the Battle Phase"
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "cid": "051cd94d-f2f0-4bfb-a83f-6a790adf628c",
+    "password": "55599882",
+    "kid": 11093,
+    "name": "Bujintervention",
+    "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>決</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Bujin Kessen",
+    "name_jp_tl": "Bujin Decisive Battle",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 \"Bujin\" monster on the field; apply this effect to it for the rest of this turn. Each time it destroys a monster by battle whose current ATK is greater than or equal to the targeted monster's original ATK, and sends it to the Graveyard: Banish the destroyed monster, and if you do, banish all monsters from your opponent's hand, Main Deck, Extra Deck, and Graveyard with the same name that the destroyed monster had in the Graveyard.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 \"Bujin\" monster on the field; apply this effect to it for the rest of this turn. Each time it destroys a monster by battle whose current ATK is greater than or equal to the targeted monster's original ATK, and sends it to the Graveyard: Banish the destroyed monster, and if you do, banish all monsters from your opponent's hand, Main Deck, Extra Deck, and Graveyard with the same name that the destroyed monster had in the Graveyard.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Bujintervention-MP15-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "LVAL-ENDE4",
+            "set": "Legacy of the Valiant: Deluxe Edition",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "PRIO-EN064",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP15-EN037",
+            "set": "2015 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Bujin"
+        ],
+        "suparc": [
+            "Bujin"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your opponent's field",
+            "Banishes from your opponent's hand",
+            "Banishes from your opponent's Deck",
+            "Banishes from your opponent's Extra Deck",
+            "Banishes from your opponent's Graveyard"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

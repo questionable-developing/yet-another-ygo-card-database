@@ -1,0 +1,86 @@
+{
+    "cid": "f71e1820-0a24-4e64-adb2-3ab976520cab",
+    "yid": null,
+    "password": "27753563",
+    "kid": 16870,
+    "name": "Uradora of Fate",
+    "name_jp": "<ruby lang=\"jp\"><rb>運</rb><rp> (</rp><rt>うん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>のウラドラ",
+    "name_jp_rom": "Unmei no Uradora",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Pay 1000 LP, then target 1 face-up monster you control; it gains 1000 ATK until the end of your opponent's turn, and if it does, apply this effect until the end of your opponent's turn.<br />● Each time it destroys an opponent's monster by battle: You can reveal the bottom card of your Deck and place it on the top or bottom of the Deck. If the revealed card was a Dragon, Dinosaur, Sea Serpent, or Wyrm monster, draw 1 card for every 1000 ATK of that monster, then gain 1000 LP for each card drawn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Pay 1000 LP, then target 1 face-up monster you control; it gains 1000 ATK until the end of your opponent's turn, and if it does, apply this effect until the end of your opponent's turn.\n● Each time it destroys an opponent's monster by battle: You can reveal the bottom card of your Deck and place it on the top or bottom of the Deck. If the revealed card was a Dragon, Dinosaur, Sea Serpent, or Wyrm monster, draw 1 card for every 1000 ATK of that monster, then gain 1000 LP for each card drawn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "UradoraofFate-BACH-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BACH-EN065",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Dragon",
+            "Dinosaur",
+            "Sea Serpent",
+            "Wyrm"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if it destroys a monster by battle",
+            "Reveals from the bottom of the player's Deck",
+            "Places cards from the player's Deck on the top of the Deck",
+            "Places cards from the player's Deck on the bottom of the Deck",
+            "You draw cards"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost",
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Turn limited effects"
+        ]
+    }
+}

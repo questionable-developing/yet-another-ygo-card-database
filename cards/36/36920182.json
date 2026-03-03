@@ -1,0 +1,94 @@
+{
+    "cid": "d002d35f-f497-4a75-b052-6b21808c9be6",
+    "yid": null,
+    "password": "36920182",
+    "kid": 18841,
+    "name": "Realm Resonance",
+    "name_jp": "<ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>心</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sekai Dōshin",
+    "name_jp_tl": "The Broken Worlds as One",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate 1 of these effects;<br />● Special Summon 1 monster with 1500 ATK/2100 DEF from your GY.<br />● Shuffle into the Deck, 1 of your \"Visas Starfrost\" and 4 of your monsters with 1500 ATK/2100 DEF, that are banished, in your GY, and/or face-up on your field, and if you do, Special Summon 1 \"Visas\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)<br />You can only activate 1 \"Realm Resonance\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate 1 of these effects;\n● Special Summon 1 monster with 1500 ATK/2100 DEF from your GY.\n● Shuffle into the Deck, 1 of your \"Visas Starfrost\" and 4 of your monsters with 1500 ATK/2100 DEF, that are banished, in your GY, and/or face-up on your field, and if you do, Special Summon 1 \"Visas\" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)\nYou can only activate 1 \"Realm Resonance\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "RealmResonance-MP24-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DUNE-EN054",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP24-EN374",
+            "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Visas Starfrost"
+        ],
+        "sup": [
+            "Synchro Monster"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Visas"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Heart"
+        ],
+        "counter": [],
+        "action": [
+            "Returns the player's banished cards to the Deck",
+            "Returns from your field to your Deck",
+            "Returns from your Graveyard to your Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [
+            "Special Summons from your Graveyard",
+            "Special Summons from your Extra Deck",
+            "Treats Special Summon as Synchro Summon"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

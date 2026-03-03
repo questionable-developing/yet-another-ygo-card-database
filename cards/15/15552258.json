@@ -1,0 +1,91 @@
+{
+    "cid": "ddab5340-08d4-4ea0-abd8-2e3eb420a5cd",
+    "yid": null,
+    "password": "15552258",
+    "kid": 8062,
+    "name": "Half or Nothing",
+    "name_jp": "ハーフ<ruby lang=\"jp\"><rb>ｏｒ</rb><rp> (</rp><rt>オア</rt><rp>)</rp></ruby>ストップ",
+    "name_jp_rom": "Hāfu Oa Sutoppu",
+    "name_jp_tl": "Half or Stop",
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "During your opponent's Battle Phase (except during the Damage Step): Your opponent chooses 1 of these effects.<br />● Halve the ATK of all monsters they currently control, until the end of the Battle Phase.<br />● End the Battle Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "During your opponent's Battle Phase (except during the Damage Step): Your opponent chooses 1 of these effects.\n● Halve the ATK of all monsters they currently control, until the end of the Battle Phase.\n● End the Battle Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "HalforNothing-BP02-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CRMS-EN067",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP01-EN101",
+            "set": "Battle Pack: Epic Dawn",
+            "rarities": {
+                "Starfoil Rare": [],
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP02-EN201",
+            "set": "Battle Pack 2: War of the Giants",
+            "rarities": {
+                "Mosaic Rare": [],
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Ends the Battle Phase"
+        ],
+        "stat_change": [
+            "Your opponent's monsters lose ATK",
+            "Halves ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects"
+        ]
+    }
+}

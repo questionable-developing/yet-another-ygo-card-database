@@ -1,0 +1,91 @@
+{
+    "cid": "f89235a6-588c-4ce4-9537-2b1f89b90457",
+    "yid": null,
+    "password": "20281581",
+    "kid": 12374,
+    "name": "Performapal Momoncarpet",
+    "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>モモンカーペット",
+    "name_jp_rom": "Entameito Momonkāpetto",
+    "name_jp_tl": "Entermate Momoncarpet",
+    "type": "Monster",
+    "attribute": "EARTH",
+    "pend": true,
+    "subtypes": [
+        "Beast",
+        "Pendulum",
+        "Flip",
+        "Effect"
+    ],
+    "atk": 1000,
+    "def": 100,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": 7,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nUnless you have a card in your other Pendulum Zone, destroy this card. While this card is in the Pendulum Zone, any battle damage you take becomes halved.\n\n[ Monster Effect ] \nFLIP: You can target 1 Set card on the field; destroy it. If this card is Special Summoned: You can change it to face-down Defense Position.",
+    "pend_eff": "Unless you have a card in your other Pendulum Zone, destroy this card. While this card is in the Pendulum Zone, any battle damage you take becomes halved.",
+    "mnst_eff": "FLIP: You can target 1 Set card on the field; destroy it. If this card is Special Summoned: You can change it to face-down Defense Position.",
+    "eff": "FLIP: You can target 1 Set card on the field; destroy it. If this card is Special Summoned: You can change it to face-down Defense Position.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformapalMomoncarpet-YS16-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "YS16-EN004",
+            "set": "Starter Deck: Yuya",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Continuous-like, Continuous-like"
+        ],
+        "eff_types": [
+            "Flip, Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performapal"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon being flipped face-up",
+            "Applies effect if other Pendulum Zone is unoccupied",
+            "Flips itself face-down",
+            "Changes own battle position"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself",
+            "Destroys face-down Monster Cards",
+            "Destroys face-down Spell Cards",
+            "Destroys face-down Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Reduces battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Pendulum Flip monster"
+        ]
+    }
+}

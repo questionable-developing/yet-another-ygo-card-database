@@ -1,0 +1,81 @@
+{
+    "cid": "6b0dfeae-d434-4eaf-8ee2-177a43c0582c",
+    "password": "92346415",
+    "kid": 8049,
+    "name": "Psychic Sword",
+    "name_jp": "サイコ・ソード",
+    "name_jp_rom": "Saiko Sōdo",
+    "name_jp_tl": "Psycho Sword",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Psychic-Type monster. While your LP is lower than your opponent's, the equipped monster gains ATK equal to the difference (max. 2000).",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Psychic-Type monster. While your LP is lower than your opponent's, the equipped monster gains ATK equal to the difference (max. 2000).",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PsychicSword-BP03-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CRMS-EN054",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP03-EN163",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Psychic"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "cid": "9544af64-354e-46e3-a89c-8b0de3bb122e",
+    "yid": null,
+    "password": "32549749",
+    "kid": 6455,
+    "name": "Arms Regeneration",
+    "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>再</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Busō Saisei",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Activate 1 of the following effects.<br />● Target 1 face-up monster you control; it gains 800 ATK until the end of this turn.<br />● Target 1 Equip Spell in either GY; Set it to your field, or equip it to 1 appropriate monster you control.<br />You can only activate 1 \"Arms Regeneration\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Activate 1 of the following effects.\n● Target 1 face-up monster you control; it gains 800 ATK until the end of this turn.\n● Target 1 Equip Spell in either GY; Set it to your field, or equip it to 1 appropriate monster you control.\nYou can only activate 1 \"Arms Regeneration\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "ArmsRegeneration-BLMR-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BLMR-EN032",
+            "set": "Battles of Legend: Monstrous Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Equip Spell Card"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Sets from your Graveyard",
+            "Sets from your opponent's Graveyard to your field",
+            "Equips from the player's Graveyard",
+            "Equips from the opponent's Graveyard"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

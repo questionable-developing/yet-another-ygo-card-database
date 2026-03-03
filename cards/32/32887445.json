@@ -1,0 +1,87 @@
+{
+    "cid": "89531888-789e-421c-943f-3b61784c72f9",
+    "yid": null,
+    "password": "32887445",
+    "kid": 15058,
+    "name": "Flourishing Frolic",
+    "name_jp": "<ruby lang=\"jp\"><rb>繁</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>はな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>笑</rb><rp> (</rp><rt>え</rt><rp>)</rp></ruby>み",
+    "name_jp_rom": "Hanka no Hanaemi",
+    "name_jp_tl": "Flourishing Smile",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Excavate cards from your Deck equal to the number of \"Flourishing Frolic\" in your GY + 3, and if you excavate at least 1 Monster, 1 Spell, and 1 Trap, add 1 of them to your hand and send the other cards to the GY. If you did not, shuffle all excavated cards into your Deck. You can only activate 1 \"Flourishing Frolic\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Excavate cards from your Deck equal to the number of \"Flourishing Frolic\" in your GY + 3, and if you excavate at least 1 Monster, 1 Spell, and 1 Trap, add 1 of them to your hand and send the other cards to the GY. If you did not, shuffle all excavated cards into your Deck. You can only activate 1 \"Flourishing Frolic\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FlourishingFrolic-MP21-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ETCO-EN072",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP21-EN082",
+            "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [
+            "Flourishing Frolic"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Sylvan"
+        ],
+        "counter": [],
+        "action": [
+            "Excavates from the player's Deck",
+            "Adds excavated cards to the hand",
+            "Sends excavated cards to the Graveyard",
+            "Sends from the top of your Deck to your Graveyard",
+            "Shuffles excavated cards into the Deck"
+        ],
+        "stat_change": [],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

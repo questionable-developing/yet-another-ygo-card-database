@@ -1,0 +1,91 @@
+{
+    "cid": "4a15ea78-2b2c-46c5-a806-0d4a1366c9ef",
+    "password": "64379430",
+    "kid": 7424,
+    "name": "Doomsday Horror",
+    "name_jp": "<ruby lang=\"jp\"><rb>終焉の精霊</rb><rp> (</rp><rt>ジ・エンド・スピリッツ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Ji Endo Supirittsu",
+    "name_jp_tl": "The End Spirits",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Fiend",
+        "Effect"
+    ],
+    "atk": -1,
+    "def": -1,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
+    "pend_eff": null,
+    "mnst_eff": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
+    "eff": "This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DoomsdayHorror-PTDN-JP-C.png",
+            "art": "DoomsdayHorror-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "DoomsdayHorror-DESO-EN-SR-1E.png",
+            "art": "DoomsdayHorror-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "PTDN-EN022",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DESO-EN049",
+            "set": "Destiny Soldiers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "DARK"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Returns the player's banished cards to the Graveyard",
+            "Returns the opponent's banished cards to the Graveyard"
+        ],
+        "stat_change": [
+            "Changes own ATK value",
+            "Changes own DEF value"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": []
+    }
+}

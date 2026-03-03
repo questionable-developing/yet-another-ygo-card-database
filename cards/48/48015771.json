@@ -1,0 +1,79 @@
+{
+    "cid": "d9c493d4-201c-4310-996d-31d0b6333b7d",
+    "password": "48015771",
+    "kid": 14147,
+    "name": "Summon Over",
+    "name_jp": "サモンオーバー",
+    "name_jp_rom": "Samon Ōbā",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Field",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Each time a monster(s) is Special Summoned, place 1 Summon Counter on this card (max. 6). This card with 6 Summon Counters cannot be destroyed by card effects. At the start of each Main Phase 1, if this card has 6 Summon Counters: The turn player can activate this effect; they send this card to the GY, and if they do, they send all Special Summoned monsters their opponent controls to the GY.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Each time a monster(s) is Special Summoned, place 1 Summon Counter on this card (max. 6). This card with 6 Summon Counters cannot be destroyed by card effects. At the start of each Main Phase 1, if this card has 6 Summon Counters: The turn player can activate this effect; they send this card to the GY, and if they do, they send all Special Summoned monsters their opponent controls to the GY.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SummonOver-SAST-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SAST-EN070",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous-like, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Summon Restriction"
+        ],
+        "counter": [
+            "Summon Counter",
+            "Places counters on itself"
+        ],
+        "action": [
+            "Sends itself from field to Graveyard",
+            "Sends from your opponent's field to your opponent's Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "At the start of Main Phase 1"
+        ]
+    }
+}

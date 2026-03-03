@@ -1,0 +1,108 @@
+{
+    "cid": "bd55acd9-e0fe-4259-9245-db85baa87395",
+    "password": "68819554",
+    "kid": 11799,
+    "name": "Performage Damage Juggler",
+    "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>ダメージ・ジャグラー",
+    "name_jp_rom": "Entameiji Damēji Jagurā",
+    "name_jp_tl": "Entermage Damage Juggler",
+    "type": "Monster",
+    "attribute": "LIGHT",
+    "pend": false,
+    "subtypes": [
+        "Spellcaster",
+        "Effect"
+    ],
+    "atk": 1500,
+    "def": 1000,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When a card or effect is activated that would inflict damage to you (Quick Effect): You can discard this card; negate the activation, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can discard this card; reduce the next battle damage you would take this turn to 0. You can banish this card from your GY; add 1 \"Performage\" monster from your Deck to your hand, except \"Performage Damage Juggler\". You can only use this effect of \"Performage Damage Juggler\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "When a card or effect is activated that would inflict damage to you (Quick Effect): You can discard this card; negate the activation, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can discard this card; reduce the next battle damage you would take this turn to 0. You can banish this card from your GY; add 1 \"Performage\" monster from your Deck to your hand, except \"Performage Damage Juggler\". You can only use this effect of \"Performage Damage Juggler\" once per turn.",
+    "eff": "When a card or effect is activated that would inflict damage to you (Quick Effect): You can discard this card; negate the activation, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can discard this card; reduce the next battle damage you would take this turn to 0. You can banish this card from your GY; add 1 \"Performage\" monster from your Deck to your hand, except \"Performage Damage Juggler\". You can only use this effect of \"Performage Damage Juggler\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformageDamageJuggler-GEIM-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "CORE-EN015",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BLRR-EN059",
+            "set": "Battles of Legend: Relentless Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "GEIM-EN060",
+            "set": "Genesis Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Quick, Quick, Ignition, Condition"
+        ],
+        "mentions": [
+            "Performage Damage Juggler"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performage"
+        ],
+        "suparc": [
+            "Performage"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your hand",
+            "Discards itself for cost",
+            "Adds from Deck to hand",
+            "Activates from your Graveyard"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Negates the activation of Effect Monster's effect",
+            "Negates the activation of Spell Cards",
+            "Negates the activation of Trap Cards",
+            "Destroys Monster Cards",
+            "Destroys Spell Cards",
+            "Destroys Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes itself from Graveyard for cost"
+        ],
+        "life_points": [
+            "Prevents battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "cid": "0b4a83d7-3818-4b0e-9229-92b7807ed613",
+    "password": "53819028",
+    "kid": 12830,
+    "name": "Predaplant Sarraceniant",
+    "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>セラセニアント",
+    "name_jp_rom": "Puredetā Purantsu Serasenianto",
+    "name_jp_tl": "Predator Plants Sarraceniant",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": false,
+    "subtypes": [
+        "Plant",
+        "Effect"
+    ],
+    "atk": 100,
+    "def": 600,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. If this card is destroyed by battle, or if this card on the field is sent to the Graveyard by a card effect: You can add 1 \"Predap\" card from your Deck to your hand, except \"Predaplant Sarraceniant\". You can only use this effect of \"Predaplant Sarraceniant\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. If this card is destroyed by battle, or if this card on the field is sent to the Graveyard by a card effect: You can add 1 \"Predap\" card from your Deck to your hand, except \"Predaplant Sarraceniant\". You can only use this effect of \"Predaplant Sarraceniant\" once per turn.",
+    "eff": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. If this card is destroyed by battle, or if this card on the field is sent to the Graveyard by a card effect: You can add 1 \"Predap\" card from your Deck to your hand, except \"Predaplant Sarraceniant\". You can only use this effect of \"Predaplant Sarraceniant\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PredaplantSarraceniant-FUEN-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "FUEN-EN001",
+            "set": "Fusion Enforcers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger, Trigger, Trigger, Condition"
+        ],
+        "mentions": [
+            "Predaplant Sarraceniant"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Predap",
+            "Predaplant"
+        ],
+        "suparc": [
+            "Predap"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Activates from your Graveyard",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's face-up Monster Cards",
+            "Destroys battling monster after damage calculation"
+        ],
+        "summoning": [
+            "Special Summons itself from your hand"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

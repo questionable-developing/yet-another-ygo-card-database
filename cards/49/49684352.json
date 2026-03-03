@@ -1,0 +1,95 @@
+{
+    "cid": "5e503c44-1289-43a5-8486-eff41fae44ab",
+    "password": "49684352",
+    "kid": 12908,
+    "name": "Double Iris Magician",
+    "name_jp": "<ruby lang=\"jp\"><rb>虹</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>彩</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kōsai no Majutsushi",
+    "name_jp_tl": "Iris Magician",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1500,
+    "def": 1000,
+    "lrl": 4,
+    "level": 4,
+    "rank": null,
+    "scale": 8,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn: You can target 1 DARK Spellcaster-Type monster you control; apply this effect to it, then destroy this card. Once applied, double any battle damage that monster inflicts to your opponent this turn if it battles an opponent's monster.\n\n[ Monster Effect ] \n(This card is always treated as a \"Pendulum Dragon\" card.)\nIf this card is destroyed by battle or card effect: You can add 1 \"Pendulumgraph\" card from your Deck to your hand.",
+    "pend_eff": "Once per turn: You can target 1 DARK Spellcaster-Type monster you control; apply this effect to it, then destroy this card. Once applied, double any battle damage that monster inflicts to your opponent this turn if it battles an opponent's monster.",
+    "mnst_eff": "(This card is always treated as a \"Pendulum Dragon\" card.)\nIf this card is destroyed by battle or card effect: You can add 1 \"Pendulumgraph\" card from your Deck to your hand.",
+    "eff": "(This card is always treated as a \"Pendulum Dragon\" card.)\nIf this card is destroyed by battle or card effect: You can add 1 \"Pendulumgraph\" card from your Deck to your hand.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DoubleIrisMagician-PEVO-EN-UR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PEVO-EN003",
+            "set": "Pendulum Evolution",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like"
+        ],
+        "eff_types": [
+            "Condition, Trigger"
+        ],
+        "mentions": [],
+        "sup": [
+            "DARK",
+            "Spellcaster"
+        ],
+        "asup": [],
+        "arc": [
+            "Magician",
+            "Pendulum (archetype)",
+            "Pendulum Dragon"
+        ],
+        "suparc": [
+            "Pendulumgraph"
+        ],
+        "asuparc": [],
+        "rel": [
+            "Four Dimension Dragons"
+        ],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Adds from Deck to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Increases battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Archetype condition"
+        ]
+    }
+}

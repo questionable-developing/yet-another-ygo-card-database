@@ -1,0 +1,77 @@
+{
+    "cid": "2cbfbab5-44c0-4860-a63f-823535514171",
+    "yid": null,
+    "password": "36378044",
+    "kid": 10210,
+    "name": "Lucky Punch",
+    "name_jp": "ラッキーパンチ",
+    "name_jp_rom": "Rakkīpanchi",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, when an opponent's monster declares an attack: You can toss a coin 3 times. If the result is 3 heads, draw 3 cards, but if the result is 3 tails, destroy this card. If this face-up card on the field is destroyed: You lose 6000 Life Points.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, when an opponent's monster declares an attack: You can toss a coin 3 times. If the result is 3 heads, draw 3 cards, but if the result is 3 tails, destroy this card. If this face-up card on the field is destroyed: You lose 6000 Life Points.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "LuckyPunch-REDU-EN-SP-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "REDU-EN080",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Short Print": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration",
+            "You draw cards"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys itself"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You lose Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Coin toss"
+        ]
+    }
+}

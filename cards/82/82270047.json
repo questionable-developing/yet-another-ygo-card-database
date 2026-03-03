@@ -1,0 +1,101 @@
+{
+    "cid": "c04b7d39-dbf8-4bdc-9886-0527b9282bb8",
+    "password": "82270047",
+    "kid": 12104,
+    "name": "Kozmo Lightsword",
+    "name_jp": "<ruby lang=\"jp\"><rb>Ｋｏｚｍｏ</rb><rp> (</rp><rt>コズモ</rt><rp>)</rp></ruby>－レイブレード",
+    "name_jp_rom": "Kozumo - Reiburēdo",
+    "name_jp_tl": "Kozmo - Rayblade",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Psychic-Type \"Kozmo\" monster. It gains 500 ATK and DEF, it can make up to 2 attacks on monsters during each Battle Phase, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can pay 800 LP; add this card to your hand. You can only use this effect of \"Kozmo Lightsword\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Psychic-Type \"Kozmo\" monster. It gains 500 ATK and DEF, it can make up to 2 attacks on monsters during each Battle Phase, also if it attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can pay 800 LP; add this card to your hand. You can only use this effect of \"Kozmo Lightsword\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "KozmoLightsword-EP16-JP-C.png",
+            "art": "KozmoLightsword-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "KozmoLightsword-PGL3-EN-GScR-1E.png",
+            "art": "KozmoLightsword-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "DOCS-EN086",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PGL3-EN033",
+            "set": "Premium Gold: Infinite Gold",
+            "rarities": {
+                "Gold Secret Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like, Condition"
+        ],
+        "mentions": [
+            "Kozmo Lightsword"
+        ],
+        "sup": [
+            "Psychic"
+        ],
+        "asup": [],
+        "arc": [
+            "Kozmo"
+        ],
+        "suparc": [
+            "Kozmo"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates from your Graveyard",
+            "Returns itself from Graveyard to hand"
+        ],
+        "stat_change": [
+            "Equipped gains ATK",
+            "Equipped gains DEF"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Allows multiple attacks on monsters",
+            "Piercing"
+        ],
+        "banished": [],
+        "life_points": [
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "cid": "ac1d08eb-41c8-41e3-8df7-89abd6ae53ee",
+    "yid": null,
+    "password": "28265983",
+    "kid": 11859,
+    "name": "Dried Winds",
+    "name_jp": "<ruby lang=\"jp\"><rb>渇</rb><rp> (</rp><rt>かわ</rt><rp>)</rp></ruby>きの<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kawaki no Kaze",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If you gain LP: Target 1 face-up monster your opponent controls; destroy it. If you control an \"Aroma\" monster and your LP are at least 3000 higher than your opponent's: You can pay LP equal to the difference; destroy face-up monsters your opponent controls whose combined ATK is less than or equal to the LP you paid to activate this effect. You can only use each effect of \"Dried Winds\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If you gain LP: Target 1 face-up monster your opponent controls; destroy it. If you control an \"Aroma\" monster and your LP are at least 3000 higher than your opponent's: You can pay LP equal to the difference; destroy face-up monsters your opponent controls whose combined ATK is less than or equal to the LP you paid to activate this effect. You can only use each effect of \"Dried Winds\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DriedWinds-CORE-JP-C.png",
+            "art": "DriedWinds-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "DriedWinds-OP25-EN-C-UE.png",
+            "art": "DriedWinds-MADU-EN-VG-artwork.png"
+        }
+    },
+    "image": "1.1",
+    "sets": [
+        {
+            "sid": "CORE-EN075",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "OP25-EN025",
+            "set": "OTS Tournament Pack 25",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like, Quick-like, Condition"
+        ],
+        "mentions": [
+            "Dried Winds"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Aroma"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if you gain Life Points"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys your opponent's face-up Monster Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Requires specific LP",
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Requires control of specific archetype",
+            "Only once per turn"
+        ]
+    }
+}

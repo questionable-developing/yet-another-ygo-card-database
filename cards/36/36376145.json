@@ -1,0 +1,87 @@
+{
+    "cid": "20c71bdf-fed2-43ef-a9c7-cbe5d7062381",
+    "yid": null,
+    "password": "36376145",
+    "kid": 10840,
+    "name": "Soul Strike",
+    "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Tamashī no Ichigeki",
+    "name_jp_tl": null,
+    "type": "Trap",
+    "attribute": "Trap",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "If your LP is 4000 or less, when an attack is declared involving a monster you control and an opponent's monster: Pay half your LP, then target 1 face-up monster you control; it gains ATK equal to the deficit between your current LP and 4000 until the end of your opponent's turn. You can only activate 1 \"Soul Strike\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "If your LP is 4000 or less, when an attack is declared involving a monster you control and an opponent's monster: Pay half your LP, then target 1 face-up monster you control; it gains ATK equal to the deficit between your current LP and 4000 until the end of your opponent's turn. You can only activate 1 \"Soul Strike\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SoulStrike-MP15-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "SECE-EN099",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP15-EN247",
+            "set": "2015 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Activation requirement, Effect, Condition"
+        ],
+        "mentions": [
+            "Soul Strike"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration"
+        ],
+        "stat_change": [
+            "Your monsters gain ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Requires specific LP",
+            "Halves the player's LP",
+            "Pays Life Points for cost"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

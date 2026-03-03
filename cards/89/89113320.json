@@ -1,0 +1,95 @@
+{
+    "cid": "30e88743-fd6b-4500-b8c6-5a7609c59c05",
+    "password": "89113320",
+    "kid": 12113,
+    "name": "Performapal Bit Bite Turtle",
+    "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ビッグバイトタートル",
+    "name_jp_rom": "Entameito Biggubaitotātoru",
+    "name_jp_tl": "Entermate Big Bite Turtle",
+    "type": "Monster",
+    "attribute": "WATER",
+    "pend": true,
+    "subtypes": [
+        "Reptile",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 800,
+    "def": 1200,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": 3,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nOnce per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).\n\n[ Monster Effect ] \nWhen this card is destroyed by battle: You can destroy the monster that destroyed it.",
+    "pend_eff": "Once per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).",
+    "mnst_eff": "When this card is destroyed by battle: You can destroy the monster that destroyed it.",
+    "eff": "When this card is destroyed by battle: You can destroy the monster that destroyed it.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformapalBitBiteTurtle-MP16-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BOSH-EN005",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP16-EN176",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Ignition-like"
+        ],
+        "eff_types": [
+            "Trigger"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performapal"
+        ],
+        "suparc": [
+            "Performapal",
+            "Odd-Eyes"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals your hand for effect",
+            "Activates if destroyed by battle"
+        ],
+        "stat_change": [
+            "Modifies the Levels of monsters in the hand"
+        ],
+        "mst": [
+            "Destroys your opponent's face-up Monster Cards",
+            "Destroys battling monster at the end of the Damage Step"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

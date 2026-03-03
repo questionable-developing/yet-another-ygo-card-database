@@ -1,0 +1,108 @@
+{
+    "cid": "9230416a-0529-4df1-9721-2a7bcd58b314",
+    "password": "37880706",
+    "kid": 13421,
+    "name": "Duelittle Chimera",
+    "name_jp": "ドリトル・キメラ",
+    "name_jp_rom": "Doritoru Kimera",
+    "name_jp_tl": null,
+    "type": "Monster",
+    "attribute": "FIRE",
+    "pend": false,
+    "subtypes": [
+        "Beast",
+        "Link",
+        "Effect"
+    ],
+    "atk": 1400,
+    "def": null,
+    "lrl": 2,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": 2,
+    "arrows": [
+        "Bottom-Left",
+        "Bottom-Right"
+    ],
+    "desc": "2 FIRE monsters<br />All FIRE monsters on the field gain 500 ATK/DEF, also all WATER monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 FIRE monster in your GY; add it to your hand. You can only use this effect of \"Duelittle Chimera\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": "2 FIRE monsters\nAll FIRE monsters on the field gain 500 ATK/DEF, also all WATER monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 FIRE monster in your GY; add it to your hand. You can only use this effect of \"Duelittle Chimera\" once per turn.",
+    "eff": "2 FIRE monsters\nAll FIRE monsters on the field gain 500 ATK/DEF, also all WATER monsters on the field lose 400 ATK/DEF. If this card is destroyed by battle or card effect: You can target 1 FIRE monster in your GY; add it to your hand. You can only use this effect of \"Duelittle Chimera\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "DuelittleChimera-MP19-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "EXFO-EN050",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SDSB-EN045",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP19-EN270",
+            "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Continuous, Trigger, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "FIRE"
+        ],
+        "asup": [
+            "WATER"
+        ],
+        "arc": [
+            "Attribute Booster"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if destroyed by battle",
+            "Activates if destroyed by card effect",
+            "Adds from Graveyard to hand"
+        ],
+        "stat_change": [
+            "All monsters gain ATK",
+            "All monsters gain DEF",
+            "All monsters lose ATK",
+            "All monsters lose DEF"
+        ],
+        "mst": [],
+        "summoning": [
+            "2 Link Materials",
+            "Requires Attribute specific Link Materials"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "cid": "556a2c5f-31a2-4cdd-a150-d37a437d63ad",
+    "yid": null,
+    "password": "24649931",
+    "kid": 19526,
+    "name": "Materialization",
+    "name_jp": "<ruby lang=\"jp\"><rb>変</rb><rp> (</rp><rt>へん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Hengen",
+    "name_jp_tl": "Transformation",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-up Monster Card in any Spell & Trap Zone, then activate 1 of these effects;<br />● Special Summon it to its owner's field.<br />● Return it to the hand.<br />● Destroy it, then you can destroy 1 monster on the field with an equal or lower Level.<br />You can only activate 1 \"Materialization\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-up Monster Card in any Spell & Trap Zone, then activate 1 of these effects;\n● Special Summon it to its owner's field.\n● Return it to the hand.\n● Destroy it, then you can destroy 1 monster on the field with an equal or lower Level.\nYou can only activate 1 \"Materialization\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "Materialization-MP25-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "PHNI-EN071",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MP25-EN322",
+            "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Returns from field to hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys face-up Spell Cards",
+            "Destroys face-up Trap Cards",
+            "Destroys face-up Monster Cards"
+        ],
+        "summoning": [
+            "Special Summons from your Spell & Trap Zone",
+            "Special Summons from your opponent's Spell & Trap Zone to your opponent's field"
+        ],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Variable effects",
+            "Only once per turn"
+        ]
+    }
+}

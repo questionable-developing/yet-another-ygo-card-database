@@ -1,0 +1,107 @@
+{
+    "cid": "557a5f9d-7234-4b3a-9274-860a0408bd4f",
+    "yid": null,
+    "password": "28106077",
+    "kid": 5357,
+    "name": "Cestus of Dagla",
+    "name_jp": "ダグラの<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>つるぎ</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Dagura no Tsurugi",
+    "name_jp_tl": "Sword of Dagla",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Fairy monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Fairy monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "CestusofDagla-DCR-EN-C-UE-25thAnniversaryEdition.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "DR1-EN252",
+            "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DCR-EN090",
+            "set": "Dark Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BP03-EN148",
+            "set": "Battle Pack 3: Monster League",
+            "rarities": {
+                "Common": [],
+                "Shatterfoil Rare": []
+            }
+        },
+        {
+            "sid": "SBCB-EN140",
+            "set": "Speed Duel: Battle City Box",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DCR-EN090",
+            "set": "Dark Crisis (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like"
+        ],
+        "mentions": [],
+        "sup": [
+            "Fairy"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if battle damage is inflicted"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "You gain Life Points"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target"
+        ]
+    }
+}

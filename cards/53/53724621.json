@@ -1,0 +1,99 @@
+{
+    "cid": "e4651bbe-ae31-4884-b2ad-a1b5a7bd64bf",
+    "password": "53724621",
+    "kid": 12112,
+    "name": "Performapal Guitartle",
+    "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ギタートル",
+    "name_jp_rom": "Entameito Gitātoru",
+    "name_jp_tl": "Entermate Guitartle",
+    "type": "Monster",
+    "attribute": "WATER",
+    "pend": true,
+    "subtypes": [
+        "Aqua",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 300,
+    "def": 400,
+    "lrl": 1,
+    "level": 1,
+    "rank": null,
+    "scale": 6,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nIf a \"Performapal\" card is activated in your other Pendulum Zone: You can draw 1 card. You can only use this effect of \"Performapal Guitartle\" once per turn.\n\n[ Monster Effect ] \nOnce per turn: You can target 1 card in your Pendulum Zone; increase its Pendulum Scale by 2 until the end of this turn.",
+    "pend_eff": "If a \"Performapal\" card is activated in your other Pendulum Zone: You can draw 1 card. You can only use this effect of \"Performapal Guitartle\" once per turn.",
+    "mnst_eff": "Once per turn: You can target 1 card in your Pendulum Zone; increase its Pendulum Scale by 2 until the end of this turn.",
+    "eff": "Once per turn: You can target 1 card in your Pendulum Zone; increase its Pendulum Scale by 2 until the end of this turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PerformapalGuitartle-MP16-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BOSH-EN004",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "OP01-EN009",
+            "set": "OTS Tournament Pack 1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "MP16-EN175",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Trigger-like, Condition"
+        ],
+        "eff_types": [
+            "Ignition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [
+            "Performapal"
+        ],
+        "suparc": [
+            "Performapal"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates if other Pendulum Zone is occupied by specific card",
+            "You draw cards"
+        ],
+        "stat_change": [
+            "Increases Pendulum Scale"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Limited activations"
+        ]
+    }
+}

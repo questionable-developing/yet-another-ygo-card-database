@@ -1,0 +1,81 @@
+{
+    "cid": "810e705e-8888-48db-8b58-89b5d175e624",
+    "password": "65114115",
+    "kid": 21206,
+    "name": "Seven Stars Slash - Army Annihilator Hagun",
+    "name_jp": "<ruby lang=\"jp\"><rb>七</rb><rp> (</rp><rt>しち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>流</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>抜</rb><rp> (</rp><rt>ばっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>－「<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby>」",
+    "name_jp_rom": "Shichiseiten-ryū Battōjutsu - \"Hagun\"",
+    "name_jp_tl": "Seven Stars Sky-Style Sword-Drawing Art - \"Army Annihilator\"",
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Quick-Play",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Target 1 face-up monster you control; equip it with 1 Level 7 monster with the same Type but a different name from your hand or Deck as an Equip Spell that gives it 700 ATK, but return that Equip Spell to the hand during the End Phase. When your opponent's Level/Rank 8 or higher monster is destroyed by battle, while this card is in your GY: You can add this card to your hand. You can only activate 1 \"Seven Stars Slash - Army Annihilator Hagun\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Target 1 face-up monster you control; equip it with 1 Level 7 monster with the same Type but a different name from your hand or Deck as an Equip Spell that gives it 700 ATK, but return that Equip Spell to the hand during the End Phase. When your opponent's Level/Rank 8 or higher monster is destroyed by battle, while this card is in your GY: You can add this card to your hand. You can only activate 1 \"Seven Stars Slash - Army Annihilator Hagun\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SevenStarsSlashArmyAnnihilatorHagun-ALIN-EN-C-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "ALIN-EN069",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Equips monsters from the player's hand",
+            "Equips monsters from the player's Deck",
+            "Grants effect to Equip Spell Card",
+            "Returns from your field to your hand",
+            "Activates if destroyed by battle",
+            "Activates from your Graveyard",
+            "Returns itself from Graveyard to hand"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [
+            "Treats monsters as Equip Cards"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    }
+}

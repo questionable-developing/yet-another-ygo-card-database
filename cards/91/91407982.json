@@ -1,0 +1,79 @@
+{
+    "cid": "826e1986-336e-45ca-8acc-538679025aff",
+    "password": "91407982",
+    "kid": 14508,
+    "name": "Fortune Vision",
+    "name_jp": "フォーチュン・ヴィジョン",
+    "name_jp_rom": "Fōchun Vijon",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "When this card is activated: You can add 1 \"Fortune Lady\" card from your Deck to your hand. Once per turn, if a card(s) you control is banished by card effect (except during the Damage Step): You can activate this effect; this turn, monsters you control cannot be destroyed by card effects (even if this card leaves the field). Once per turn, if a card(s) your opponent controls is banished by card effect (except during the Damage Step): You can make the next battle damage you take this turn become 0 (even if this card leaves the field). You can only activate 1 \"Fortune Vision\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "When this card is activated: You can add 1 \"Fortune Lady\" card from your Deck to your hand. Once per turn, if a card(s) you control is banished by card effect (except during the Damage Step): You can activate this effect; this turn, monsters you control cannot be destroyed by card effects (even if this card leaves the field). Once per turn, if a card(s) your opponent controls is banished by card effect (except during the Damage Step): You can make the next battle damage you take this turn become 0 (even if this card leaves the field). You can only activate 1 \"Fortune Vision\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "FortuneVision-RIRA-EN-R-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "RIRA-EN055",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [
+            "Fortune Lady"
+        ],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Adds from Deck to hand",
+            "Activates if other cards are banished"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Prevents battle damage"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn",
+            "Limited activations"
+        ]
+    }
+}

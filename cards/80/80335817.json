@@ -1,0 +1,105 @@
+{
+    "cid": "9393bb72-783b-4c74-8e3f-f4e6ebb158ed",
+    "password": "80335817",
+    "kid": 12110,
+    "name": "Timebreaker Magician",
+    "name_jp": "<ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Kokken no Majutsushi",
+    "name_jp_tl": "Timesword Magician",
+    "type": "Monster",
+    "attribute": "DARK",
+    "pend": true,
+    "subtypes": [
+        "Spellcaster",
+        "Pendulum",
+        "Effect"
+    ],
+    "atk": 1400,
+    "def": 0,
+    "lrl": 3,
+    "level": 3,
+    "rank": null,
+    "scale": 2,
+    "link": null,
+    "arrows": null,
+    "desc": "[ Pendulum Effect ] \nEach turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.\n\n[ Monster Effect ] \nWhen this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field until your next Standby Phase.",
+    "pend_eff": "Each turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.",
+    "mnst_eff": "When this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field until your next Standby Phase.",
+    "eff": "When this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field until your next Standby Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "TimebreakerMagician-PEVO-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "BOSH-EN002",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "MP16-EN174",
+            "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "PEVO-EN019",
+            "set": "Pendulum Evolution",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [
+            "Continuous-like"
+        ],
+        "eff_types": [
+            "Trigger, Ignition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Pendulum Monster"
+        ],
+        "asup": [],
+        "arc": [
+            "Magician"
+        ],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon Pendulum Summon",
+            "Returns banished cards to the field",
+            "Returns itself to field while banished"
+        ],
+        "stat_change": [
+            "Changes own ATK value"
+        ],
+        "mst": [
+            "Cannot be destroyed by card effects"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [
+            "Banishes from your field",
+            "Banishes from your opponent's field",
+            "Banishes itself from field"
+        ],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations"
+        ]
+    }
+}

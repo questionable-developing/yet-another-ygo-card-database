@@ -1,0 +1,88 @@
+{
+    "cid": "cb0b9bd8-bcb1-4ecd-83c3-8422a8e1ca6e",
+    "yid": null,
+    "password": "33872334",
+    "kid": 19047,
+    "name": "Phoenix Gearblade",
+    "name_jp": "フェニックス・ギア・ブレード",
+    "name_jp_rom": "Fenikkusu Gia Burēdo",
+    "name_jp_tl": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Equip",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Equip only to a Warrior or FIRE monster. It gains 300 ATK. At the end of the Damage Step, if the equipped monster attacked: You can send this card to the GY; during this Battle Phase, each of your Warrior monsters and FIRE monsters can make a second attack. If this card is sent to the GY, or banished, to activate a monster effect: You can add this card to your hand. You can only use this effect of \"Phoenix Gearblade\" once per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Equip only to a Warrior or FIRE monster. It gains 300 ATK. At the end of the Damage Step, if the equipped monster attacked: You can send this card to the GY; during this Battle Phase, each of your Warrior monsters and FIRE monsters can make a second attack. If this card is sent to the GY, or banished, to activate a monster effect: You can add this card to your hand. You can only use this effect of \"Phoenix Gearblade\" once per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "PhoenixGearblade-MZMI-EN-SR-1E.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [
+        {
+            "sid": "MZMI-EN036",
+            "set": "Maze of Millennia",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Condition, Continuous-like, Trigger-like, Trigger-like, Condition"
+        ],
+        "mentions": [],
+        "sup": [
+            "Warrior",
+            "FIRE"
+        ],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [
+            "Gearfried"
+        ],
+        "counter": [],
+        "action": [
+            "Sends itself from field to Graveyard for cost",
+            "Activates if sent to the Graveyard for cost",
+            "Activates while banished",
+            "Returns itself from Graveyard to hand",
+            "Returns itself to hand while banished"
+        ],
+        "stat_change": [
+            "Equipped gains ATK"
+        ],
+        "mst": [],
+        "summoning": [],
+        "attack": [
+            "Allows multiple attacks"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Equips only to a specific target",
+            "Requires control of specific Type",
+            "Requires control of specific Attribute",
+            "Only once per turn"
+        ]
+    }
+}
