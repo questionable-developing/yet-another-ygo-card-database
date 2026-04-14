@@ -6,7 +6,9 @@
     "name": "Stardust Dragon/Assault Mode",
     "name_jp": "スターダスト・ドラゴン<ruby lang=\"jp\"><rb>／</rb><rp> (</rp><rt>スラッシュ</rt><rp>)</rp></ruby>バスター",
     "name_jp_rom": "Sutādasuto Doragon Surasshu Basutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stardust Dragon Slash Buster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -36,7 +38,7 @@
         "2": {
             "idx": "2",
             "full": "StardustDragonAssaultMode-BPRO-EN-StR-1E.png",
-            "art": null
+            "art": "StardustDragonAssaultMode-MADU-EN-VG-artwork-2.png"
         }
     },
     "image": "2",
@@ -68,6 +70,30 @@
             "set": "Burst Protocol",
             "rarities": {
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DB01-JP001",
+            "set": "Duelist Box",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP09-JP001",
+            "set": "Duelist Pack: Yusei 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "BPRO-JPS02",
+            "set": "Burst Protocol +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],

@@ -1,11 +1,14 @@
 {
     "cid": "2c0f7587-2890-4d45-b2bd-9caa61d3c5c2",
+    "yid": 92110878,
     "password": "92110878",
     "kid": 19845,
     "name": "Gadget Trio",
     "name_jp": "トリコロール・ガジェット",
     "name_jp_rom": "Torikorōru Gajetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tricolore Gadget",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP004",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

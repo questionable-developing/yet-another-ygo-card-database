@@ -1,11 +1,14 @@
 {
     "cid": "c5b47c92-64e5-4025-823b-b316120ca482",
+    "yid": 59718521,
     "password": "59718521",
     "kid": 7762,
     "name": "Mind Over Matter",
     "name_jp": "ブローニング・パワー",
     "name_jp_rom": "Burōningu Pawā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Browning Power",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "MindOverMatter-DE03-JP-C.png",
+            "art": "MindOverMatter-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "MindOverMatter-BP03-EN-C-1E.png",
-            "art": null
+            "art": "MindOverMatter-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TDGS-EN073",
@@ -45,6 +53,22 @@
             "rarities": {
                 "Common": [],
                 "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP073",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP029",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -85,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7251ceda-77b4-488a-97f4-9e2e975ec7f6",
+    "yid": 78811937,
     "password": "78811937",
     "kid": 9933,
     "name": "Creeping Darkness",
     "name_jp": "<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>しの</rt><rp>)</rp></ruby>び<ruby lang=\"jp\"><rb>寄</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby>る<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shinobiyoru Yami",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -59,6 +62,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP059",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPD24",
+            "set": "Duelist Set: Version Dark Returner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

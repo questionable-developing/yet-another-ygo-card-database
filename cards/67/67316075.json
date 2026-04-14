@@ -1,11 +1,14 @@
 {
     "cid": "de19f7b3-a62b-44cb-9d09-5e5c1773bf1b",
+    "yid": 67316075,
     "password": "67316075",
     "kid": 7352,
     "name": "Darklord Nurse Reficule",
     "name_jp": "<ruby lang=\"jp\"><rb>堕</rb><rp> (</rp><rt>だ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ナース－レフィキュル",
     "name_jp_rom": "Datenshi Nāsu - Refikyuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fallen Angel Nurse - Reficul",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,17 +32,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DarklordNurseReficule-GX05-JP-UR.png",
+            "art": "DarklordNurseReficule-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DarklordNurseReficule-DESO-EN-SR-1E.png",
-            "art": null
+            "art": "DarklordNurseReficule-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DESO-EN048",
             "set": "Destiny Soldiers",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GX05-JP001",
+            "set": "Yu-Gi-Oh! GX Tag Force Evolution promotional cards",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -71,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

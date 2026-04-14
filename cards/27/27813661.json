@@ -1,12 +1,14 @@
 {
     "cid": "09b8252a-be4c-4604-b0df-dbb61ee4165a",
-    "yid": null,
+    "yid": 27813661,
     "password": "27813661",
     "kid": 11939,
     "name": "Sky Iris",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>虹</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>彩</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenkū no Kōsai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD29-JP025",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

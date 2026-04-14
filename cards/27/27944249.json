@@ -1,12 +1,14 @@
 {
     "cid": "22ef01be-80d7-4a9e-9623-f5c9e11f17a1",
-    "yid": null,
+    "yid": 27944249,
     "password": "27944249",
     "kid": 9169,
     "name": "Windaar, Sage of Gusto",
     "name_jp": "ガスタの<ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby> ウィンダール",
     "name_jp_rom": "Gasuta no Kenja Windāru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Windaar, Sage of Gusta",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT10-JP025",
+            "set": "Duel Terminal - Raid of the Inverz!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC4-JP012",
+            "set": "Duel Terminal Chronicle 4 - Chapter of Opposites",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

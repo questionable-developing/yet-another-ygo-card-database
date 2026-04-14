@@ -1,12 +1,14 @@
 {
     "cid": "2d696cf0-cf40-4299-b98e-218d1eefcd91",
-    "yid": null,
+    "yid": 25163248,
     "password": "25163248",
     "kid": 10139,
     "name": "Chronomaly Mayan Machine",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>マヤン・マシーン",
     "name_jp_rom": "Ōpātsu Mayan Mashīn",
+    "name_jp_rom_base": "Senshi Isan Mayan Mashīn",
     "name_jp_tl": "OOPArts Mayan Machine",
+    "name_jp_tl_base": "Prehistoric Heritage Mayan Machine",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP009",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

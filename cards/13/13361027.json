@@ -1,12 +1,14 @@
 {
     "cid": "93efbec4-1be8-4106-89c0-41047ebb2558",
-    "yid": null,
+    "yid": 13361027,
     "password": "13361027",
     "kid": 8391,
     "name": "Dragunity Darkspear",
     "name_jp": "ドラグニティ－ブラックスピア",
     "name_jp_rom": "Doraguniti - Burakkusupia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragunity - Blackspear",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -60,6 +62,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT06-JP012",
+            "set": "Duel Terminal - Dragunity of the Hurricane!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD19-JP007",
+            "set": "Structure Deck: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DTC2-JP064",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP010",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +130,6 @@
             "Requires control of specific Type",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

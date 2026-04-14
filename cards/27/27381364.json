@@ -1,12 +1,14 @@
 {
     "cid": "0241ef46-cbd5-42e1-b555-98c6a84019fe",
-    "yid": null,
+    "yid": 27381364,
     "password": "27381364",
     "kid": 17451,
     "name": "Spright Elf",
     "name_jp": "スプライト・エルフ",
     "name_jp_rom": "Supuraito Erufu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -48,6 +50,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP049",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "POTE-JP049",
+            "set": "Power of the Elements +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP129",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

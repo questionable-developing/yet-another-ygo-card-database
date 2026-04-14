@@ -1,12 +1,14 @@
 {
     "cid": "a9fd3c95-531a-4c7b-a77a-a01c816f5a76",
-    "yid": null,
+    "yid": 6077601,
     "password": "06077601",
     "kid": 11731,
     "name": "Frightfur Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>魔玩具融合</rb><rp> (</rp><rt>デストーイ・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Desutōi Fyūjon",
+    "name_jp_rom_base": "Magangu Yūgō",
     "name_jp_tl": "Death-Toy Fusion",
+    "name_jp_tl_base": "Demon Toy Fusion",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -63,6 +65,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP056",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPFE-JP025",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

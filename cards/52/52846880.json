@@ -1,11 +1,14 @@
 {
     "cid": "9eda7fa7-66a5-4a9a-ab65-26baf84c9be0",
+    "yid": 52846880,
     "password": "52846880",
     "kid": 11488,
     "name": "Nekroz of Catastor",
     "name_jp": "カタストルの<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Katasutoru no Nekurosu",
+    "name_jp_rom_base": "Katasutoru no Eireii",
     "name_jp_tl": "Necroth of Catastor",
+    "name_jp_tl_base": "Shadow Spirit Cloth of Catastor",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -41,6 +44,23 @@
             "set": "The Secret Forces",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP018",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP086",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -87,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

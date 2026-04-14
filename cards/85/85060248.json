@@ -1,11 +1,14 @@
 {
     "cid": "d656a7e6-56dd-4648-abbf-f507e848f91d",
+    "yid": 85060248,
     "password": "85060248",
     "kid": 7717,
     "name": "Mind Protector",
     "name_jp": "メンタルプロテクター",
     "name_jp_rom": "Mentaru Purotekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mental Protector",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TDGS-EN019",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP019",
             "set": "The Duelist Genesis",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

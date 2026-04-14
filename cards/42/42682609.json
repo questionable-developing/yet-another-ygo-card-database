@@ -1,11 +1,14 @@
 {
     "cid": "59523ae2-20be-4d4e-a144-3240bef50212",
+    "yid": 42682609,
     "password": "42682609",
     "kid": 6764,
     "name": "Chrysalis Dolphin",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>コクーン</rt><rp>)</rp></ruby>・ドルフィーナ",
     "name_jp_rom": "Kokūn Dorufīna",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cocoon Dolphina",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP006",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "POTD-JP006",
+            "set": "Power of the Duelist: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP03-JP008",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

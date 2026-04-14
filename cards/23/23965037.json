@@ -1,12 +1,14 @@
 {
     "cid": "78b5cfcb-a5f1-4f2e-82a8-1df5271b4b07",
-    "yid": null,
+    "yid": 23965037,
     "password": "23965037",
     "kid": 6350,
     "name": "Doriado's Blessing",
     "name_jp": "ドリアードの<ruby lang=\"jp\"><rb>祈</rb><rp> (</rp><rt>いの</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Doriādo no Inori",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Doriado's Prayer",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP043",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP223",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +99,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

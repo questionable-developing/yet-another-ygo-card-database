@@ -1,12 +1,14 @@
 {
     "cid": "00a2a4a0-45a0-4866-abf1-48b01354349f",
-    "yid": null,
+    "yid": 12510878,
     "password": "12510878",
     "kid": 7046,
     "name": "Neo-Parshath, the Sky Paladin",
     "name_jp": "<ruby lang=\"jp\"><rb>天空勇士</rb><rp> (</rp><rt>エンジェルブレイブ</rt><rp>)</rp></ruby>ネオパーシアス",
     "name_jp_rom": "Enjerubureibu Neopāshiasu",
+    "name_jp_rom_base": "Tenkū Yūshi Neopāshiasu",
     "name_jp_tl": "Angel Brave Neo-Perseus",
+    "name_jp_tl_base": "Neo-Perseus, the Sky Brave",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD11-JP001",
+            "set": "Structure Deck: Surge of Radiance",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD11-JPS01",
+            "set": "Structure Deck: Surge of Radiance Special Edition",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "TP19-JP001",
+            "set": "Tournament Pack 2011 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR05-JP004",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +133,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

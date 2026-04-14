@@ -1,11 +1,14 @@
 {
     "cid": "ca1fca52-77dd-48df-8a56-c01822ec6ead",
+    "yid": 57624336,
     "password": "57624336",
     "kid": 11826,
     "name": "Archfiend Eccentrick",
     "name_jp": "エキセントリック・デーモン",
     "name_jp_rom": "Ekisentorikku Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eccentrick Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -85,6 +88,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP042",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST16-JP015",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD31-JP020",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18SP-JP405",
+            "set": "Special Pack 20th Anniversary Edition Vol.4",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "25WP-JP302",
+            "set": "Winner's Pack 2025 Vol.3",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -121,5 +162,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

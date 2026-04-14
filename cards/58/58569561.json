@@ -1,11 +1,14 @@
 {
     "cid": "664018a4-dc39-463d-821e-554a2517b3b0",
+    "yid": 58569561,
     "password": "58569561",
     "kid": 11820,
     "name": "Aromage Rosemary",
     "name_jp": "アロマージ－ローズマリー",
     "name_jp_rom": "Aromāji - Rōzumarī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP036",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
             "Requires control of specific Type",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

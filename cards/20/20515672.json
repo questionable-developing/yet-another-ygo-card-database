@@ -1,12 +1,14 @@
 {
     "cid": "035b7de8-f21f-40e4-a072-78032ef61d92",
-    "yid": null,
+    "yid": 20515672,
     "password": "20515672",
     "kid": 18513,
     "name": "S-Force Nightchaser",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ－Ｆｏｒｃｅ</rb><rp> (</rp><rt>セキュリティ・フォース</rt><rp>)</rp></ruby> ナイトチェイサー",
     "name_jp_rom": "Sekyuriti Fōsu Naitocheisā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Security Force Nightchaser",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -47,6 +49,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP050",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,7 +84,7 @@
             "1 Link Material",
             "Cannot use Link Monsters as Link Materials for its Summon",
             "Requires archetype specific Link Materials",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Prevents other cards being targeted for attacks"
@@ -87,5 +98,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

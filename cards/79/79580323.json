@@ -1,11 +1,14 @@
 {
     "cid": "e6f44c20-7450-4d85-9b64-bfd5e300aafd",
+    "yid": 79580323,
     "password": "79580323",
     "kid": 7283,
     "name": "Gladiator Beast Spartacus",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>スパルティクス",
     "name_jp_rom": "Guradiaru Bīsuto Suparutikusu",
+    "name_jp_rom_base": "Kentōjū Suparutikusu",
     "name_jp_tl": "Gladial Beast Sparticus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "Gladiator's Assault",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP018",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -88,5 +100,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

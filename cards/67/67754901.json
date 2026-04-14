@@ -1,11 +1,14 @@
 {
     "cid": "8106490f-2fe3-4b9f-9109-8bf5d4bbc9b5",
+    "yid": 67754901,
     "password": "67754901",
     "kid": 12481,
     "name": "Odd-Eyes Mirage Dragon",
     "name_jp": "オッドアイズ・ミラージュ・ドラゴン",
     "name_jp_rom": "Oddoaizu Mirāju Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -58,6 +61,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPF1-JP001",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -106,5 +119,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

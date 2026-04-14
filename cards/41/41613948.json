@@ -1,11 +1,14 @@
 {
     "cid": "4e07ee6a-38fe-4b54-a8b2-aed4151e5176",
+    "yid": 41613948,
     "password": "41613948",
     "kid": 6658,
     "name": "Destiny HERO - Doom Lord",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> デビルガイ",
     "name_jp_rom": "Desutenī Hīrō Debirugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Devilguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP001",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EOJ-JP001",
+            "set": "Enemy of Justice: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP001",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP181",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +132,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "86e49421-e519-4920-a05a-946956555bd5",
+    "yid": 68601507,
     "password": "68601507",
     "kid": 10623,
     "name": "Bujingi Crane",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－ハバキリ",
     "name_jp_rom": "Bujingi - Habakiri",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP020",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP3-JP060",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f576a4be-4710-488b-9cd4-83b9bc556569",
+    "yid": 50797682,
     "password": "50797682",
     "kid": 16264,
     "name": "Chronomaly Esperanza Glyph",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産石紋</rb><rp> (</rp><rt>オーパーツ・エスペランサ・グリフ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōpātsu Esuperansa Gurifu",
+    "name_jp_rom_base": "Senshi Isan Sekimon",
     "name_jp_tl": "OOPArts Esperanza Glyph",
+    "name_jp_tl_base": "Prehistoric Heritage Stone Crest",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DAMA-EN075",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP075",
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

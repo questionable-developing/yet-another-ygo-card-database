@@ -1,12 +1,14 @@
 {
     "cid": "6425ae00-7069-48e1-9206-7fe646b9848e",
-    "yid": null,
+    "yid": 30350202,
     "password": "30350202",
     "kid": 21185,
     "name": "Eclipse, Dragon Ruler of Catastrophes",
     "name_jp": "<ruby lang=\"jp\"><rb>凶</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－エクレプシス",
     "name_jp_rom": "Kyōseiryū - Ekurepushisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragon Ruler of Woes - Eclepsis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +48,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP048",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ALIN-JP048",
+            "set": "Alliance Insight +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +101,7 @@
             "2 Xyz Materials",
             "Requires Type specific Xyz Materials",
             "Special Summons from your Deck",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -93,5 +114,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

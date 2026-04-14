@@ -1,11 +1,14 @@
 {
     "cid": "771ccb0c-9810-478a-9d48-77df825b76c8",
+    "yid": 95466842,
     "password": "95466842",
     "kid": 10241,
     "name": "Mermail Abysslung",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－アビスラング",
     "name_jp_rom": "Māmeiru - Abisurangu",
+    "name_jp_rom_base": "Suiseirin - Abisurangu",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ABYR-EN019",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP019",
             "set": "Abyss Rising",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

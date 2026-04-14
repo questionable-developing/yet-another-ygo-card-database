@@ -1,11 +1,14 @@
 {
     "cid": "3cd105e7-9137-47bb-b78c-afcf352cba00",
+    "yid": 72060415,
     "password": "72060415",
     "kid": 15047,
     "name": "Deep Sea Aria",
     "name_jp": "<ruby lang=\"jp\"><rb>深</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>のアリア",
     "name_jp_rom": "Shinkai no Aria",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP061",
+            "set": "Eternity Code",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

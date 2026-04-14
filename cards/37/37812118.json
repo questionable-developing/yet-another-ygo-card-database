@@ -1,11 +1,14 @@
 {
     "cid": "d59ffe42-990b-44a7-9523-71b17e471ef3",
+    "yid": 37812118,
     "password": "37812118",
     "kid": 7623,
     "name": "Cup of Ace",
     "name_jp": "カップ・オブ・エース",
     "name_jp_rom": "Kappu Obu Ēsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,29 @@
         {
             "sid": "LODT-EN050",
             "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP050",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP141",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "22TP-JP413",
+            "set": "Tournament Pack 2022 Vol.4",
             "rarities": {
                 "Common": []
             }
@@ -71,5 +97,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

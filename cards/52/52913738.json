@@ -1,11 +1,14 @@
 {
     "cid": "94963f85-0b82-4b97-87fc-28a99ca44b38",
+    "yid": 52913738,
     "password": "52913738",
     "kid": 8669,
     "name": "Ritual of Destruction",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hametsu no Gishiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "ABPF-EN058",
             "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP058",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP117",
+            "set": "Duelist Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -80,5 +99,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

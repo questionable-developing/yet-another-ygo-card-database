@@ -1,11 +1,14 @@
 {
     "cid": "edb064c8-8ce4-48fb-8169-e182060e04a7",
+    "yid": 48144509,
     "password": "48144509",
     "kid": 12007,
     "name": "Odd-Eyes Fusion",
     "name_jp": "オッドアイズ・フュージョン",
     "name_jp_rom": "Oddoaizu Fyūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP063",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +120,6 @@
             "Only once per turn",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

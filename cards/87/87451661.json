@@ -1,11 +1,14 @@
 {
     "cid": "21aee1c7-aa6f-4902-ae40-80a6f3b1aaad",
+    "yid": 87451661,
     "password": "87451661",
     "kid": 19021,
     "name": "Scarred Dragon Archfiend",
     "name_jp": "スカーレッド・デーモン",
     "name_jp_rom": "Sukāreddo Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scarred Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1+ non-Tuner DARK monsters<br />This card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as Synchro Material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuner DARK monsters<br />This card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1+ non-Tuner DARK monsters\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as Synchro Material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
-    "eff": "1 Tuner + 1+ non-Tuner DARK monsters\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as Synchro Material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuner DARK monsters\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
+    "eff": "1 Tuner + 1+ non-Tuner DARK monsters\nThis card's name becomes \"Red Dragon Archfiend\" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of \"Scarred Dragon Archfiend\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "ScarredDragonArchfiend-SDCK-EN-SR-1E.png",
+            "full": "ScarredDragonArchfiend-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -41,6 +44,29 @@
             "set": "Structure Deck: The Crimson King",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN044",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD46-JPP05",
+            "set": "Structure Deck: Pulse of the King Rumbling of Heaven and Earth Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -93,7 +119,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

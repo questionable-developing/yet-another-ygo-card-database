@@ -1,11 +1,14 @@
 {
     "cid": "bbaf236a-3205-47b2-98b8-6a0225ea7a57",
+    "yid": 92901944,
     "password": "92901944",
     "kid": 9102,
     "name": "Scrap Searcher",
     "name_jp": "スクラップ・サーチャー",
     "name_jp_rom": "Sukurappu Sāchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STBL-EN025",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP025",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

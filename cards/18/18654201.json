@@ -1,12 +1,14 @@
 {
     "cid": "b87e9f96-ccfb-4c61-8cb0-0ad74eca2d8e",
-    "yid": null,
+    "yid": 18654201,
     "password": "18654201",
     "kid": 6322,
     "name": "Criosphinx",
     "name_jp": "クリオスフィンクス",
     "name_jp_rom": "Kuriosufinkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP013",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD7-JP010",
+            "set": "Structure Deck: Invincible Fortress",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP193",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +101,8 @@
         "counter": [],
         "action": [
             "Activates if returned from the field to the hand",
-            "Sends from hand to Graveyard"
+            "Sends from hand to Graveyard",
+            "Sends from your opponent's hand to your opponent's Graveyard"
         ],
         "stat_change": [],
         "mst": [],
@@ -87,5 +113,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

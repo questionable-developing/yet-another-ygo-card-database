@@ -1,11 +1,14 @@
 {
     "cid": "be31aaa2-655f-42d8-b9d6-eb77950497f3",
+    "yid": 73345237,
     "password": "73345237",
     "kid": 16009,
     "name": "Benghalancer the Resurgent",
     "name_jp": "<ruby lang=\"jp\"><rb>廻</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>のベンガランゼス",
     "name_jp_rom": "Kaisei no Bengaranzesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -49,6 +52,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP048",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP048",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +112,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

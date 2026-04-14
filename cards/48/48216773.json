@@ -1,11 +1,14 @@
 {
     "cid": "2c82a32d-e4fd-4a75-a583-77e65289b780",
+    "yid": 48216773,
     "password": "48216773",
     "kid": 10204,
     "name": "Compulsory Escape Device",
     "name_jp": "<ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>制</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>退</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>出</rb><rp> (</rp><rt>しゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyōsei Taishutsu Sōchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP074",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,5 +78,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

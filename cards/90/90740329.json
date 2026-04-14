@@ -1,11 +1,14 @@
 {
     "cid": "713649c6-5dbf-43e3-a3e8-a1801822d3a6",
+    "yid": 90740329,
     "password": "90740329",
     "kid": 6140,
     "name": "Taunt",
     "name_jp": "<ruby lang=\"jp\"><rb>挑</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>はつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōhatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP049",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP049",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

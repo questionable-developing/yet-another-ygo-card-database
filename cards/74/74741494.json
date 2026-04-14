@@ -1,11 +1,14 @@
 {
     "cid": "ea4a7758-e81e-46b4-bb42-fd59e3f49034",
+    "yid": 74741494,
     "password": "74741494",
     "kid": 7632,
     "name": "Level Tuning",
     "name_jp": "<ruby lang=\"jp\"><rb>能力調整</rb><rp> (</rp><rt>パワー・チューン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Pawā Chūn",
+    "name_jp_rom_base": "Nōryoku Chōsei",
     "name_jp_tl": "Power Tune",
+    "name_jp_tl_base": "Ability Adjustment",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP059",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,5 +77,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

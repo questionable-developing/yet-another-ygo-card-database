@@ -1,12 +1,14 @@
 {
     "cid": "11d7802e-5dcd-42af-beb4-bf84454c767e",
-    "yid": null,
+    "yid": 25774450,
     "password": "25774450",
     "kid": 5168,
     "name": "Mystic Box",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>のマジック・ボックス",
     "name_jp_rom": "Shi no Majikku Bokkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Box of Death",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,64 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "P4-05",
+            "set": "Premium Pack 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "YU-29",
+            "set": "Structure Deck: Yugi",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SY2-027",
+            "set": "Structure Deck: Yugi Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD6-JP030",
+            "set": "Structure Deck: Spellcaster's Judgment",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT04-JP045",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "15AY-JPA25",
+            "set": "Memories of the Duel King: Duelist Kingdom Arc",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDMY-JP025",
+            "set": "Structure Deck: Yugi Muto",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LG01-JP012",
+            "set": "Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +134,8 @@
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "Dark Magician (archetype)"
+            "Dark Magician (archetype)",
+            "Ritual of Light and Darkness (series)"
         ],
         "counter": [],
         "action": [
@@ -91,5 +152,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

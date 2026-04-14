@@ -1,12 +1,14 @@
 {
     "cid": "c42c731b-331b-4f3f-a15a-6527ba7af8ac",
-    "yid": null,
+    "yid": 7714344,
     "password": "07714344",
     "kid": 12530,
     "name": "Performapal Uni",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ユニ",
     "name_jp_rom": "Entameito Yuni",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Uni",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PerformapalUni-CPF1-JP-R.png",
+            "art": "PerformapalUni-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PerformapalUni-DLCS-EN-C-1E.png",
-            "art": null
+            "art": "PerformapalUni-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DRL3-EN002",
@@ -48,6 +55,15 @@
             "set": "Dragons of Legend: The Complete Series",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CPF1-JP002",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -93,5 +109,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

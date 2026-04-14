@@ -1,11 +1,14 @@
 {
     "cid": "cf789f41-194d-4a74-9eaa-ee6505bc77e0",
+    "yid": 48427163,
     "password": "48427163",
     "kid": 12281,
     "name": "Lunalight Purple Butterfly",
     "name_jp": "<ruby lang=\"jp\"><rb>月光紫蝶</rb><rp> (</rp><rt>ムーンライト・パープル・バタフライ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Pāpuru Batafurai",
+    "name_jp_rom_base": "Gekkō Shichō",
     "name_jp_tl": "Moonlight Purple Butterfly",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SHVI-EN009",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP009",
             "set": "Shining Victories",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e3835a3c-311c-4d20-b38f-4fe154d62859",
-    "yid": null,
+    "yid": 30581601,
     "password": "30581601",
     "kid": 21371,
     "name": "Yummy★Snatchy",
     "name_jp": "ヤミー★スナッチー",
     "name_jp_rom": "Yamī★Sunatchī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -33,11 +35,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "YummySnatchy-JUSH-EN-UR-1E.png",
+            "full": "YummySnatchy-DBJH-JP-UR.png",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "YummySnatchy-JUSH-EN-UR-1E.png",
+            "art": "YummySnatchy-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JUSH-EN022",
@@ -46,6 +53,15 @@
                 "Ultra Rare": [],
                 "Collector's Rare": [],
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP022",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -97,7 +113,9 @@
         "smat": [],
         "misc": [
             "Only once per turn",
-            "Once per Chain"
+            "Once per Chain",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

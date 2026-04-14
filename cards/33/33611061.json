@@ -1,12 +1,14 @@
 {
     "cid": "046d3850-59c6-4ca9-ad9c-0e0b4aee7394",
-    "yid": null,
+    "yid": 33611061,
     "password": "33611061",
     "kid": 10951,
     "name": "Bujinunity",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>集</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bujin Shūketsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP065",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
             "Requires control of no cards",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

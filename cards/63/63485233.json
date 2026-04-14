@@ -1,11 +1,14 @@
 {
     "cid": "580f4bf1-66e0-4c20-9666-9ddf3019f708",
+    "yid": 63485233,
     "password": "63485233",
     "kid": 9676,
     "name": "Star Changer",
     "name_jp": "スター・チェンジャー",
     "name_jp_rom": "Sutā Chenjā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP059",
+            "set": "Generation Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DB12-JP025",
+            "set": "Duelist Box 2012",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST12-JP022",
+            "set": "Starter Deck 2012",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +113,6 @@
             "Archetype condition",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

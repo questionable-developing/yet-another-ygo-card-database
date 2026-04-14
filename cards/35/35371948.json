@@ -1,12 +1,14 @@
 {
     "cid": "194ea4e5-4e0a-41c8-b0d1-77a1c71d02b7",
-    "yid": null,
+    "yid": 35371948,
     "password": "35371948",
     "kid": 13092,
     "name": "Trickstar Light Stage",
     "name_jp": "トリックスター・ライトステージ",
     "name_jp_rom": "Torikkusutā Raito Sutēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TrickstarLightStage-DP29-JP-C.png",
+            "art": "TrickstarLightStage-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TrickstarLightStage-MP24-EN-QCScR-1E.png",
-            "art": null
+            "art": "TrickstarLightStage-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "COTD-EN053",
@@ -59,6 +66,40 @@
             "sid": "MP24-EN046",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP053",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18SP-JP309",
+            "set": "Special Pack 20th Anniversary Edition Vol.3",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP050",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP049",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -103,5 +144,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

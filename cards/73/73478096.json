@@ -1,11 +1,14 @@
 {
     "cid": "f10bea63-30dc-40af-85fe-bd52108bdba1",
+    "yid": 73478096,
     "password": "73478096",
     "kid": 18146,
     "name": "Photon Emperor",
     "name_jp": "フォトン・エンペラー",
     "name_jp_rom": "Foton Enperā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP001",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP055",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +110,6 @@
             "Only once per turn",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

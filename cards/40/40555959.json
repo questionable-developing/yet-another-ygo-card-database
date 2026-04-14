@@ -1,11 +1,14 @@
 {
     "cid": "753e7809-c74e-4a0a-b41d-0fea1fa8e789",
+    "yid": 40555959,
     "password": "40555959",
     "kid": 8847,
     "name": "Phantom Hand",
     "name_jp": "ハンドレス・フェイク",
     "name_jp_rom": "Handoresu Feiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Handless Fake",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TSHD-EN072",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP072",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

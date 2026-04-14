@@ -1,11 +1,14 @@
 {
     "cid": "bc59b76d-a8b4-482c-8a53-74eb7da57242",
+    "yid": 80168720,
     "password": "80168720",
     "kid": 4902,
     "name": "Darkness Approaches",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>訪</rb><rp> (</rp><rt>おとず</rt><rp>)</rp></ruby>れ",
     "name_jp_rom": "Yami no Otozure",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MR-40",
+            "set": "Magic Ruler (Japanese)",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL1-029",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

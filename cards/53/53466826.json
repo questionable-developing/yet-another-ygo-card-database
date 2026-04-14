@@ -1,11 +1,14 @@
 {
     "cid": "fcc71973-925a-4e8d-bd6a-e1f89929265d",
+    "yid": 53466826,
     "password": "53466826",
     "kid": 10183,
     "name": "Heroic Chance",
     "name_jp": "ヒロイック・チャンス",
     "name_jp_rom": "Hiroikku Chansu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "REDU-EN053",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP053",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

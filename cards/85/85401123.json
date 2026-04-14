@@ -1,11 +1,14 @@
 {
     "cid": "5b2d409a-afce-44f9-a752-a8e3352c60e8",
+    "yid": 85401123,
     "password": "85401123",
     "kid": 19488,
     "name": "Mokomoko",
     "name_jp": "モコモッコ",
     "name_jp_rom": "Mokomokko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fluffyfluff",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP033",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

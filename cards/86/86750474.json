@@ -1,11 +1,14 @@
 {
     "cid": "c127fe47-21c2-4c64-aeb7-3734938fac9e",
+    "yid": 86750474,
     "password": "86750474",
     "kid": 13512,
     "name": "Trickstar Foxglove Witch",
     "name_jp": "トリックスター・フォクシーウィッチ",
     "name_jp_rom": "Torikkusutā Fokushī Witchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trickstar Foxywitch",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
         {
             "sid": "DUPO-EN021",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVB1-JP006",
+            "set": "LINK VRAINS Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a70ee867-c1b2-41af-80c9-c5b57e8d0dcb",
+    "yid": 75702749,
     "password": "75702749",
     "kid": 12972,
     "name": "Phantasm Spiral Grip",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>煌</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>螺旋絞</rb><rp> (</rp><rt>スパイラル・ホールド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gen'ōryū no Supairaru Hōrudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Phantasm Dragon Spiral Hold",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN058",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP058",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
             "Equips only to a specific target",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

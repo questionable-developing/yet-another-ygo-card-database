@@ -1,11 +1,14 @@
 {
     "cid": "4a25f7a4-f76c-4d95-9e79-e6e93f966b85",
+    "yid": 50920465,
     "password": "50920465",
     "kid": 11036,
     "name": "Blizzard Thunderbird",
     "name_jp": "ブリザード・サンダーバード",
     "name_jp_rom": "Burizādo Sandābādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP007",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

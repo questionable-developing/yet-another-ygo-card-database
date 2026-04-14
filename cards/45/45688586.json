@@ -1,11 +1,14 @@
 {
     "cid": "778b4da3-2f83-4de5-92f6-c06e928ac468",
+    "yid": 45688586,
     "password": "45688586",
     "kid": 4416,
     "name": "Karakuri Spider",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>蜘</rb><rp> (</rp><rt>グ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛛</rb><rp> (</rp><rt>モ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Gumo",
-    "name_jp_tl": null,
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Mechanical Spider",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Booster 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP14-JP007",
+            "set": "Tournament Pack 2010 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

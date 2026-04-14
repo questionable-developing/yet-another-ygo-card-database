@@ -1,11 +1,14 @@
 {
     "cid": "ef796b6d-e8d1-4b5b-bc59-386f033bf9fc",
+    "yid": 95992081,
     "password": "95992081",
     "kid": 9660,
     "name": "Leviair the Sea Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>虚</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>リヴァイエール",
     "name_jp_rom": "Kokūkairyū Rivaiēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Leviair the Void Sea Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -74,6 +77,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP043",
+            "set": "Generation Force",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP039",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP410",
+            "set": "Tournament Pack 2023 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,7 +122,7 @@
         "summoning": [
             "2 Xyz Materials",
             "Does not require specific Xyz Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -104,5 +133,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

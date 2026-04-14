@@ -1,11 +1,14 @@
 {
     "cid": "a58e7ca9-dca1-40f3-8af8-727819bf262b",
+    "yid": 58990362,
     "password": "58990362",
     "kid": 11700,
     "name": "Zefraniu, Secret of the Yang Zing",
     "name_jp": "<ruby lang=\"jp\"><rb>秘</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－セフィラシウゴ",
     "name_jp_rom": "Hiryūsei - Sefirashiugo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Secret Dragon Star - Sephiraqiuguo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP025",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP073",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like, Condition"
@@ -99,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

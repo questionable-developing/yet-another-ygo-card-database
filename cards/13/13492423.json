@@ -1,12 +1,14 @@
 {
     "cid": "b3962f50-58af-4b90-9da4-54cacc978a1f",
-    "yid": null,
+    "yid": 13492423,
     "password": "13492423",
     "kid": 10134,
     "name": "Photon Caesar",
     "name_jp": "フォトン・カイザー",
     "name_jp_rom": "Foton Kaizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Photon Kaiser",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN004",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP004",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

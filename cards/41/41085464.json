@@ -1,11 +1,14 @@
 {
     "cid": "f9a7a044-41ad-4369-8b9b-0e97e85ce884",
+    "yid": 41085464,
     "password": "41085464",
     "kid": 17398,
     "name": "Libromancer Bonded",
     "name_jp": "リブロマンサー・リライジング",
     "name_jp_rom": "Riburomansā Riraijingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Libromancer Re-Rising",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP025",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,7 +93,7 @@
         ],
         "attack": [],
         "banished": [
-            "Cannot be banished"
+            "Prevents cards from being banished"
         ],
         "life_points": [],
         "fmat": [],
@@ -90,5 +102,6 @@
             "Nonspecific Ritual Spell Card",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

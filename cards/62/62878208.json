@@ -1,11 +1,14 @@
 {
     "cid": "8ab22d57-c687-457a-92b4-b8f1bf52200f",
+    "yid": 62878208,
     "password": "62878208",
     "kid": 7753,
     "name": "Equip Shot",
     "name_jp": "イクイップ・シュート",
     "name_jp_rom": "Ikuippu Shūto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Equip Shoot",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP063",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP08-JP021",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

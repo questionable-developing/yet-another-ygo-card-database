@@ -1,11 +1,14 @@
 {
     "cid": "6100e1cd-b0ac-413e-be20-680f85432c58",
+    "yid": 48596760,
     "password": "48596760",
     "kid": 14654,
     "name": "Luna the Dark Spirit",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby> ルーナ",
     "name_jp_rom": "Yami no Seirei Rūna",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,14 +32,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "LunatheDarkSpirit-CHIM-JP-C.png",
+            "art": "LunatheDarkSpirit-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "LunatheDarkSpirit-CHIM-EN-C-1E.png",
-            "art": null
+            "art": "LunatheDarkSpirit-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CHIM-EN027",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP027",
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
@@ -83,5 +100,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

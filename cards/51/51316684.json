@@ -1,11 +1,14 @@
 {
     "cid": "bacd0718-99ce-40ca-b6c7-47ad45e207d9",
+    "yid": 51316684,
     "password": "51316684",
     "kid": 11537,
     "name": "Infernoid Seitsemas",
     "name_jp": "インフェルノイド・ヴァエル",
     "name_jp_rom": "Inferunoido Vaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infernoid Vael",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP017",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP105",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +124,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

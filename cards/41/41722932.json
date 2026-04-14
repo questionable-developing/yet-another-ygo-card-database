@@ -1,11 +1,14 @@
 {
     "cid": "5b2d7a6d-e811-45b3-a079-ad762cfc04c5",
+    "yid": 41722932,
     "password": "41722932",
     "kid": 9932,
     "name": "Dark Mambele",
     "name_jp": "ダーク・ジェノサイド・カッター",
     "name_jp_rom": "Dāku Jenosaido Kattā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Genocide Cutter",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP058",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

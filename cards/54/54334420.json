@@ -1,11 +1,14 @@
 {
     "cid": "3288563d-49a4-4d61-8fcb-9561bfec4349",
+    "yid": 54334420,
     "password": "54334420",
     "kid": 16499,
     "name": "Floowandereeze & Eglen",
     "name_jp": "ふわんだりぃず×いぐるん",
     "name_jp_rom": "Fuwandaryizu × Igurun",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP014",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Only once per turn",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b887b535-6f0b-484a-8b99-d95e450438f7",
-    "yid": null,
+    "yid": 28423537,
     "password": "28423537",
     "kid": 10634,
     "name": "Archfiend Emperor, the First Lord of Horror",
     "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>慄</rb><rp> (</rp><rt>りつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>凶</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>－ジェネシス・デーモン",
     "name_jp_rom": "Senritsu no Kyōkō - Jeneshisu Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil Emperor of Horror - Genesis Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ArchfiendEmperortheFirstLordofHorror-SR06-JP-C.png",
+            "art": "ArchfiendEmperortheFirstLordofHorror-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ArchfiendEmperortheFirstLordofHorror-SR06-EN-C-1E.png",
-            "art": null
+            "art": "ArchfiendEmperortheFirstLordofHorror-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JOTL-EN031",
@@ -60,6 +67,22 @@
         {
             "sid": "SR06-EN007",
             "set": "Structure Deck: Lair of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP031",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR06-JP007",
+            "set": "Structure Deck R: Curse of the Dark",
             "rarities": {
                 "Common": []
             }
@@ -112,5 +135,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

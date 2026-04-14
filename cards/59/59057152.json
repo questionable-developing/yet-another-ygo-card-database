@@ -1,11 +1,14 @@
 {
     "cid": "7ca4ee77-3bf0-4c83-8787-ede31f32aa4b",
+    "yid": 59057152,
     "password": "59057152",
     "kid": 10469,
     "name": "Noble Knight Medraut",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>モルドレッド",
     "name_jp_rom": "Seikishi Morudoreddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Mordred",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP032",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP053",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +128,6 @@
             "Requires control of no other monsters",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

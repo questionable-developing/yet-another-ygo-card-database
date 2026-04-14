@@ -1,11 +1,14 @@
 {
     "cid": "bcea6d4e-0ae8-415a-b476-8a4230a1249d",
+    "yid": 89252153,
     "password": "89252153",
     "kid": 6527,
     "name": "Elemental HERO Necroshade",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ネクロダークマン",
     "name_jp_rom": "Erementaru Hīrō Nekurodākuman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Necrodarkman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -78,6 +81,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GX1-JP001",
+            "set": "Yu-Gi-Oh! GX Duel Academy promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "YSD2-JPS01",
+            "set": "Starter Deck 2007 Special Set",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DT07-JP007",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD27-JP010",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LPG1-JP018",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,7 +154,9 @@
         ],
         "smat": [],
         "misc": [
-            "Once while in the Graveyard"
+            "Once while in the Graveyard",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "80e027a6-f91c-440a-b9c8-9287313aec7d",
+    "yid": 46724542,
     "password": "46724542",
     "kid": 13758,
     "name": "Cyber Dragon Sieger",
     "name_jp": "サイバー・ドラゴン・ズィーガー",
     "name_jp_rom": "Saibā Doragon Zīgā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -61,6 +64,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP046",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP027",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA34",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +138,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

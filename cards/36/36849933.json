@@ -1,12 +1,14 @@
 {
     "cid": "f7285c56-129f-4c40-9028-629fff8ed80f",
-    "yid": null,
+    "yid": 36849933,
     "password": "36849933",
     "kid": 14846,
     "name": "Megalith Och",
     "name_jp": "メガリス・オク",
     "name_jp_rom": "Megarisu Oku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "IGAS-EN037",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP037",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

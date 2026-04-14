@@ -1,11 +1,14 @@
 {
     "cid": "d1fbba45-a56f-47b0-a699-f25d008fe432",
+    "yid": 70271583,
     "password": "70271583",
     "kid": 9318,
     "name": "Karakuri Watchdog mdl 313 \"Saizan\"",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衛</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>参</rb><rp> (</rp><rt>サ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壱</rb><rp> (</rp><rt>イ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>参</rb><rp> (</rp><rt>ザン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Shuei Saizan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Guard 313",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STOR-EN027",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP027",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

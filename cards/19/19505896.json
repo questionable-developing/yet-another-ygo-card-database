@@ -1,12 +1,14 @@
 {
     "cid": "d8ff09d7-f2ca-494e-8752-66bde4c3fc9a",
-    "yid": null,
+    "yid": 19505896,
     "password": "19505896",
     "kid": 7667,
     "name": "Nettles",
     "name_jp": "ウィード",
     "name_jp_rom": "Wīdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Weed",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,22 @@
         {
             "sid": "CSOC-EN024",
             "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP024",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP041",
+            "set": "Duelist Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +95,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

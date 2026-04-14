@@ -1,11 +1,14 @@
 {
     "cid": "c2bd1290-074f-4b6a-957b-e4634b64785c",
+    "yid": 99330325,
     "password": "99330325",
     "kid": 12250,
     "name": "Interrupted Kaiju Slumber",
     "name_jp": "<ruby lang=\"jp\"><rb>妨</rb><rp> (</rp><rt>さまた</rt><rp>)</rp></ruby>げられた<ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>眠</rb><rp> (</rp><rt>ねむ</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Samatagerareta Kaijū no Nemuri",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP030",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP202",
+            "set": "Tournament Pack 2020 Vol.2",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

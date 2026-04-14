@@ -1,12 +1,14 @@
 {
     "cid": "b0d510bd-0a92-483e-aec4-f059616958f7",
-    "yid": null,
+    "yid": 3606728,
     "password": "03606728",
     "kid": 9877,
     "name": "Gagaga Girl",
     "name_jp": "ガガガガール",
     "name_jp_rom": "Gagaga Gāru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -80,6 +82,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP003",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "ST13-JP010",
+            "set": "Starter Deck 2013",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD42-JP005",
+            "set": "Structure Deck: Overlay Universe",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS01",
+            "set": "Duelist Advance +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,7 +132,9 @@
             "Gagaga"
         ],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Signature move"
+        ],
         "counter": [],
         "action": [
             "Grants effect as Xyz Material",
@@ -117,5 +152,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

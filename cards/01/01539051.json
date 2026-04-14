@@ -1,12 +1,14 @@
 {
     "cid": "1b5c73af-4d51-4bd3-8c05-07454d45bd50",
-    "yid": null,
+    "yid": 1539051,
     "password": "01539051",
     "kid": 7619,
     "name": "Space Gift",
     "name_jp": "スペーシア・ギフト",
     "name_jp_rom": "Supēshia Gifuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spacia Gift",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP046",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

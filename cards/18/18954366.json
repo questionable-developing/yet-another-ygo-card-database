@@ -1,12 +1,14 @@
 {
     "cid": "9cbc9a7c-6a0f-4f6b-baa2-073cc020cb67",
-    "yid": null,
+    "yid": 18954366,
     "password": "18954366",
     "kid": 15319,
     "name": "Necroquip Prism",
     "name_jp": "<ruby lang=\"jp\"><rb>優麗なる霊鏡</rb><rp> (</rp><rt>ネクロイップ・プリズム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nekuroippu Purizumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Necroip Prism",
+    "name_jp_tl_base": "Exquisite Spirit Mirror",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "ETCO-EN084",
             "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP071",
+            "set": "World Premiere Pack 2020",
             "rarities": {
                 "Common": []
             }
@@ -75,5 +86,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

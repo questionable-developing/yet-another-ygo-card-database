@@ -1,12 +1,14 @@
 {
     "cid": "72379f1b-d5a6-4f7c-af1d-ea841c63b947",
-    "yid": null,
+    "yid": 29246354,
     "password": "29246354",
     "kid": 7157,
     "name": "Chrysalis Pinny",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>コクーン</rt><rp>)</rp></ruby>・ピニー",
     "name_jp_rom": "Kokūn Pinī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cocoon Pinny",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "TAEV-EN009",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP009",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

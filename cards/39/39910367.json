@@ -1,11 +1,14 @@
 {
     "cid": "e92eaa96-f960-4a79-853f-69f09080227e",
+    "yid": 39910367,
     "password": "39910367",
     "kid": 8135,
     "name": "Magical Citadel of Endymion",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>都</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>市</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>エンディミオン",
     "name_jp_rom": "Mahō Toshi Endimion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic City Endymion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD16-JP021",
+            "set": "Structure Deck: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "17TP-JP411",
+            "set": "Tournament Pack 2017 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR08-JP024",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +124,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

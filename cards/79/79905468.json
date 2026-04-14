@@ -1,11 +1,14 @@
 {
     "cid": "03035e19-0c11-4f0c-b5cc-d9bf9ac4a389",
+    "yid": 79905468,
     "password": "79905468",
     "kid": 14091,
     "name": "Guardragon Promineses",
     "name_jp": "<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>プロミネシス",
     "name_jp_rom": "Shugoryū Puromineshisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP20-EN010",
             "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP014",
+            "set": "Savage Strike",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +105,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "749cf6f0-bfe5-49a9-9ab1-b9609784f621",
+    "yid": 58931850,
     "password": "58931850",
     "kid": 21218,
     "name": "Dragon Master Lords",
     "name_jp": "<ruby lang=\"jp\"><rb>超究極魔導竜王</rb><rp> (</rp><rt>マスター・オブ・ドラゴンロード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Masutā Obu Doragon Rōdo",
+    "name_jp_rom_base": "Chōkyūkyoku Madōryūō",
     "name_jp_tl": "Master of Dragon Lord",
+    "name_jp_tl_base": "Super Ultimate Magical Dragon King",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "ALIN-EN000",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP000",
             "set": "Alliance Insight",
             "rarities": {
                 "Quarter Century Secret Rare": []
@@ -86,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

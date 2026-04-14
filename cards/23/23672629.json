@@ -1,12 +1,14 @@
 {
     "cid": "586956cd-f29f-476d-9549-4d4faf699138",
-    "yid": null,
+    "yid": 23672629,
     "password": "23672629",
     "kid": 15030,
     "name": "Valiant Shark Lancer",
     "name_jp": "ヴァリアント・シャーク・ランサー",
     "name_jp_rom": "Varianto Shāku Ransā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -31,7 +33,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "ValiantSharkLancer-ETCO-EN-SR-1E.png",
+            "full": "ValiantSharkLancer-OP26-EN-C-UE.png",
             "art": null
         }
     },
@@ -49,6 +51,18 @@
             "set": "OTS Tournament Pack 26",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP044",
+            "set": "Eternity Code",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
             }
         }
     ],
@@ -94,5 +108,6 @@
             "Only once per turn",
             "Can be activated during either player's turn"
         ]
-    }
+    },
+    "links": {}
 }

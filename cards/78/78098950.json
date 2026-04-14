@@ -1,11 +1,14 @@
 {
     "cid": "eefe012f-f7ba-48bc-8a35-7bf26c0662ad",
+    "yid": 78098950,
     "password": "78098950",
     "kid": 18487,
     "name": "Tsumuha-Kutsunagi the Lord of Swords",
     "name_jp": "<ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>トウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>オウ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>都牟羽沓薙</rb><rp> (</rp><rt>ツムハクツナギ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tōō - Tsumuhakutsunagi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP024",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP024",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +114,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

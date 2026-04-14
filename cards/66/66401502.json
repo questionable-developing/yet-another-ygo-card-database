@@ -1,11 +1,14 @@
 {
     "cid": "a09b851a-0874-404c-8569-284ccb87356c",
+    "yid": 66401502,
     "password": "66401502",
     "kid": 18728,
     "name": "Vanquish Soul Pantera",
     "name_jp": "<ruby lang=\"jp\"><rb>ＶＳ</rb><rp> (</rp><rt>ヴァンキッシュ・ソウル</rt><rp>)</rp></ruby> パンテラ",
     "name_jp_rom": "Vankisshu Souru Pantera",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -61,6 +64,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP017",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +117,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

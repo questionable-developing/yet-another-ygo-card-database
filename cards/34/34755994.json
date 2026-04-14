@@ -1,12 +1,14 @@
 {
     "cid": "ec235414-e50a-4615-8ff7-347572c3feee",
-    "yid": null,
+    "yid": 34755994,
     "password": "34755994",
     "kid": 15619,
     "name": "Artemis, the Magistus Moon Maiden",
     "name_jp": "<ruby lang=\"jp\"><rb>聖魔の乙女</rb><rp> (</rp><rt>マギストス・メイデン</rt><rp>)</rp></ruby>アルテミス",
     "name_jp_rom": "Magisutosu Meiden Arutemisu",
+    "name_jp_rom_base": "Seima no Otome Arutemisu",
     "name_jp_tl": "Artemis, the Magistus Maiden",
+    "name_jp_tl_base": "Artemis, the Sacred Magic Maiden",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -68,6 +70,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP008",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP050",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP081",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +146,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

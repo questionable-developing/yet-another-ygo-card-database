@@ -1,11 +1,14 @@
 {
     "cid": "11ce20f4-f419-4fd4-ad8d-3faeb17efa68",
+    "yid": 74202664,
     "password": "74202664",
     "kid": 15559,
     "name": "One or Eight",
     "name_jp": "<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby>か<ruby lang=\"jp\"><rb>八</rb><rp> (</rp><rt>ばち</rt><rp>)</rp></ruby>か",
     "name_jp_rom": "Ichika Bachika",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP080",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

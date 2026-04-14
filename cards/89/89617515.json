@@ -1,11 +1,14 @@
 {
     "cid": "12bcfd2b-1361-4f87-82bb-99680c85b11c",
+    "yid": 89617515,
     "password": "89617515",
     "kid": 15267,
     "name": "Lifeless Leaffish",
     "name_jp": "<ruby lang=\"jp\"><rb>揺</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魚</rb><rp> (</rp><rt>ぎょ</rt><rp>)</rp></ruby>デッドリーフ",
     "name_jp_rom": "Yōkaigyo Deddorīfu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ephemeral Fish Deadleaf",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP033",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP401",
+            "set": "Tournament Pack 2023 Vol.4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP401",
+            "set": "Top Prize Pack 2023 Vol.4",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "AC04-JP038",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

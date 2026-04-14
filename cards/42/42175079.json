@@ -1,11 +1,14 @@
 {
     "cid": "9f198809-e82e-4fae-b2d4-020334469e20",
+    "yid": 42175079,
     "password": "42175079",
     "kid": 6824,
     "name": "Volcanic Eruption",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>噴</rb><rp> (</rp><rt>ふん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daifunka",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Great Volcanic Eruption",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD09-JP030",
+            "set": "Structure Deck: Dinosaur's Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

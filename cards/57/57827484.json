@@ -1,11 +1,14 @@
 {
     "cid": "733c6af2-d4a3-45ca-a4d1-13f07fbbe738",
+    "yid": 57827484,
     "password": "57827484",
     "kid": 7204,
     "name": "Shadow Delver",
     "name_jp": "シャドウ・ダイバー",
     "name_jp_rom": "Shadō Daibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shadow Diver",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TAEV-EN027",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP027",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

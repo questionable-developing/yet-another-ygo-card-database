@@ -1,11 +1,14 @@
 {
     "cid": "3b0c1fa8-989c-427a-9d88-abc686f6d982",
+    "yid": 89538537,
     "password": "89538537",
     "kid": 13229,
     "name": "Altergeist Silquitous",
     "name_jp": "オルターガイスト・シルキタス",
     "name_jp_rom": "Orutāgaisuto Shirukitasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -72,6 +75,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP013",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AC03-JP054",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

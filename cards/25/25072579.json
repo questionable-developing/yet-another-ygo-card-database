@@ -1,12 +1,14 @@
 {
     "cid": "99729d6a-2d04-4408-bca2-e375f51e3970",
-    "yid": null,
+    "yid": 25072579,
     "password": "25072579",
     "kid": 21600,
     "name": "Prototype Sky Striker Ace - Amatsu",
     "name_jp": "<ruby lang=\"jp\"><rb>試</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>号</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>－アマツ",
     "name_jp_rom": "Shigō Sentōki - Amatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prototype Flash Sword Princess - Amatsu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -33,17 +35,26 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "PrototypeSkyStrikerAceAmatsu-VJMP-JP-UR.png",
+            "full": "PrototypeSkyStrikerAceAmatsu-L26D-EN-UR-1E.png",
             "art": null
         }
     },
     "image": null,
     "sets": [
         {
-            "sid": "L26D-EN???",
+            "sid": "L26D-ENS35",
             "set": "Legendary Modern Decks 2026",
             "rarities": {
-                "": []
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP271",
+            "set": "V Jump June 2025 promotional card",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -93,5 +104,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

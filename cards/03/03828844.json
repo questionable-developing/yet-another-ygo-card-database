@@ -1,12 +1,14 @@
 {
     "cid": "54564223-7b7c-476a-8204-1966fa6efc0d",
-    "yid": null,
+    "yid": 3828844,
     "password": "03828844",
     "kid": 15280,
     "name": "Rikka Queen Strenna",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>りっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>ストレナエ",
     "name_jp_rom": "Rikkasei Sutorenae",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Snowflower Saint Strenae",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP046",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTD-JP046",
+            "set": "Rise of the Duelist +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

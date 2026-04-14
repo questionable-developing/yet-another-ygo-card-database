@@ -1,12 +1,14 @@
 {
     "cid": "9515c1a6-5f92-4649-b4c2-f2626e6ebff8",
-    "yid": null,
+    "yid": 22446869,
     "password": "22446869",
     "kid": 10471,
     "name": "Mermail Abyssteus",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－ディニクアビス",
     "name_jp_rom": "Māmeiru - Dinikuabisu",
+    "name_jp_rom_base": "Suiseirin - Dinikuabisu",
     "name_jp_tl": "Mermail Dinichabyss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -72,6 +74,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP034",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP048",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +130,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "86a6edcc-9c97-4d49-8716-0b0a369ddfc8",
+    "yid": 60482781,
     "password": "60482781",
     "kid": 6179,
     "name": "Mystic Swordsman LV6",
     "name_jp": "ミスティック・ソードマン <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>６",
     "name_jp_rom": "Misutikku Sōdoman Reberu Shikkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP008",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP068",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

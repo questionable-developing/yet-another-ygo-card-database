@@ -1,12 +1,14 @@
 {
     "cid": "0d7266a4-88ec-4f8c-a7a2-88fe62820bba",
-    "yid": null,
+    "yid": 10333641,
     "password": "10333641",
     "kid": 18467,
     "name": "Superheavy Samurai Stealthy",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>オン－<ruby lang=\"jp\"><rb>３</rb><rp> (</rp><rt>ミ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>２</rb><rp> (</rp><rt>ツー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōjūmusha On-Mitsū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superheavy Samurai On-32",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP004",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

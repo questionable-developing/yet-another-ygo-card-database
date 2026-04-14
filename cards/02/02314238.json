@@ -1,12 +1,14 @@
 {
     "cid": "d4e50d44-6e1b-47a0-b6d4-633b2451d854",
-    "yid": null,
+    "yid": 2314238,
     "password": "02314238",
     "kid": 6057,
     "name": "Dark Magic Attack",
     "name_jp": "<ruby lang=\"jp\"><rb>黒・魔・導</rb><rp> (</rp><rt>ブラック・マジック</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burakku Majikku",
+    "name_jp_rom_base": "Kuromadō",
     "name_jp_tl": "Black Magic",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -104,6 +106,80 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-040",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE2-JP208",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD6-JP026",
+            "set": "Structure Deck: Spellcaster's Judgment",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT01-JP040",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "15AY-JPC29",
+            "set": "Memories of the Duel King: Ceremonial Battle Arc",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "MB01-JP031",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "SDMY-JP023",
+            "set": "Structure Deck: Yugi Muto",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LG01-JP011",
+            "set": "Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YCPC-JP006",
+            "set": "Yu-Gi-Oh! Chips",
+            "rarities": {
+                "Common": [],
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "DR01-JPA24",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -138,5 +214,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

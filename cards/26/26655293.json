@@ -1,12 +1,14 @@
 {
     "cid": "c94ae7ed-ceeb-4f4e-89df-c237d60356b7",
-    "yid": null,
+    "yid": 26655293,
     "password": "26655293",
     "kid": 13227,
     "name": "Magnarokket Dragon",
     "name_jp": "マグナヴァレット・ドラゴン",
     "name_jp_rom": "Magunavaretto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magnavullet Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP011",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVB1-JP018",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD36-JP009",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP091",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +137,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

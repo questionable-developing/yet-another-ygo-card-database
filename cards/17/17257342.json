@@ -1,12 +1,14 @@
 {
     "cid": "60c6ec8e-19e9-4ca5-9290-3971c13bd0ff",
-    "yid": null,
+    "yid": 17257342,
     "password": "17257342",
     "kid": 13914,
     "name": "Diana the Light Spirit",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby> ディアーナ",
     "name_jp_rom": "Hikari no Seirei Diāna",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP027",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
             "Special Summon Monster",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

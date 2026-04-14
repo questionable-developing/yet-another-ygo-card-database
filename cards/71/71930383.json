@@ -1,11 +1,14 @@
 {
     "cid": "92d6d08c-da06-44b6-b0fe-7c188c0cbfcb",
+    "yid": 71930383,
     "password": "71930383",
     "kid": 6384,
     "name": "Patroid",
     "name_jp": "パトロイド",
     "name_jp_rom": "Patoroido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP006",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP006",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

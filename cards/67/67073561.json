@@ -1,11 +1,14 @@
 {
     "cid": "2efcf3f3-c969-4455-ab7a-b56195e5055d",
+    "yid": 67073561,
     "password": "67073561",
     "kid": 14498,
     "name": "Baba Barber",
     "name_jp": "ミス・ケープ・バーバ",
     "name_jp_rom": "Misu Kēpu Bāba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Miss Cape Barba",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP050",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
             "Only once per turn",
             "At the start of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e03d2e86-3a43-40eb-9363-b605af2507c2",
-    "yid": null,
+    "yid": 4483598,
     "password": "04483598",
     "kid": 18488,
     "name": "Full Active Duplex",
     "name_jp": "フルアクティブ・デュプレックス",
     "name_jp_rom": "Furuakutibu Dyupurekkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP24-EN340",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP025",
+            "set": "Cyberstorm Access",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +102,6 @@
             "Only once per turn",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

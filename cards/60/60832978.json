@@ -1,11 +1,14 @@
 {
     "cid": "9b5661c7-5876-4b27-a4fe-e318dc9a1104",
+    "yid": 60832978,
     "password": "60832978",
     "kid": 12930,
     "name": "Double Resonator",
     "name_jp": "ダブル・リゾネーター",
     "name_jp_rom": "Daburu Rizonētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP016",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

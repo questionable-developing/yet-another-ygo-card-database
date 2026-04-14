@@ -1,11 +1,14 @@
 {
     "cid": "92cc3177-9cca-45f8-b357-2e73af627eed",
+    "yid": 98259197,
     "password": "98259197",
     "kid": 6469,
     "name": "Ojamuscle",
     "name_jp": "おジャマッスル",
     "name_jp_rom": "Ojamassuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP041",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP2-JP021",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP101",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +110,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

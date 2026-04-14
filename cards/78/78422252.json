@@ -1,11 +1,14 @@
 {
     "cid": "eb44ec82-37a3-4196-8854-ddb49c23d641",
+    "yid": 78422252,
     "password": "78422252",
     "kid": 8522,
     "name": "XX-Saber Fulhelmknight",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＸ</rb><rp> (</rp><rt>ダブルエックス</rt><rp>)</rp></ruby>－セイバー フラムナイト",
     "name_jp_rom": "Daburuekkusu - Seibā Furamunaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "When an opponent's monster declares an attack: You can target the attacking monster; negate that attack. This effect can only be used once while this card is face-up on the field. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon it.",
+    "desc": "Once while face-up on the field, when an opponent's monster declares an attack: You can target the attacking monster; negate that attack. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your GY; Special Summon it.",
     "pend_eff": null,
-    "mnst_eff": "When an opponent's monster declares an attack: You can target the attacking monster; negate that attack. This effect can only be used once while this card is face-up on the field. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon it.",
-    "eff": "When an opponent's monster declares an attack: You can target the attacking monster; negate that attack. This effect can only be used once while this card is face-up on the field. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon it.",
+    "mnst_eff": "Once while face-up on the field, when an opponent's monster declares an attack: You can target the attacking monster; negate that attack. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your GY; Special Summon it.",
+    "eff": "Once while face-up on the field, when an opponent's monster declares an attack: You can target the attacking monster; negate that attack. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower \"X-Saber\" monster in your GY; Special Summon it.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XXSaberFulhelmknight-SP15-EN-C-1E.png",
+            "full": "XXSaberFulhelmknight-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -50,12 +53,36 @@
                 "Common": [],
                 "Shatterfoil Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENX06",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXP3-JP012",
+            "set": "Extra Pack Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPRG-JP018",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
         }
     ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Trigger, Condition, Trigger"
+            "Trigger, Trigger"
         ],
         "mentions": [],
         "sup": [],
@@ -90,5 +117,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

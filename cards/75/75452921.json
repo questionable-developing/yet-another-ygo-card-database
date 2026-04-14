@@ -1,11 +1,14 @@
 {
     "cid": "8be7a9be-cc7b-4a4c-8518-37ae29b27fdb",
+    "yid": 75452921,
     "password": "75452921",
     "kid": 13599,
     "name": "Knightmare Cerberus",
     "name_jp": "トロイメア・ケルベロス",
     "name_jp_rom": "Toroimea Keruberosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Troymare Cerberus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -61,6 +64,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP045",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP031",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "24EP-JP209",
+            "set": "Event Pack 2024 Vol.2",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP068",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +139,6 @@
             "Co-link",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

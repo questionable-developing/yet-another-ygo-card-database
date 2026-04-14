@@ -1,11 +1,14 @@
 {
     "cid": "dfd7a252-65da-423d-8972-c7d33c09f294",
+    "yid": 58169731,
     "password": "58169731",
     "kid": 11588,
     "name": "Wall of Disruption",
     "name_jp": "<ruby lang=\"jp\"><rb>分</rb><rp> (</rp><rt>ぶん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>壁</rb><rp> (</rp><rt>かべ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bundan no Kabe",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wall of Division",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WallofDisruption-ST16-JP-C.png",
+            "art": "WallofDisruption-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WallofDisruption-SBC2-NA-C-1E.png",
-            "art": null
+            "art": "WallofDisruption-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SECE-EN068",
@@ -90,6 +98,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP068",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST16-JP033",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -117,5 +141,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

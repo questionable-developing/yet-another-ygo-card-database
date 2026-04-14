@@ -1,11 +1,14 @@
 {
     "cid": "7f1f7443-d477-4c68-b5bb-12b8d71ea4f6",
+    "yid": 79306385,
     "password": "79306385",
     "kid": 11398,
     "name": "Oracle of the Herald",
     "name_jp": "<ruby lang=\"jp\"><rb>宣告者の神託</rb><rp> (</rp><rt>デクレアラー・オラクル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dekurearā Orakuru",
+    "name_jp_rom_base": "Senkokusha no Shintaku",
     "name_jp_tl": "Declarer Oracle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP15-EN176",
             "set": "2015 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP066",
+            "set": "The New Challengers",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +98,6 @@
             "Archetype-exclusion condition",
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

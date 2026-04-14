@@ -1,12 +1,14 @@
 {
     "cid": "d978e17d-e184-43da-9723-eb085a7ff2d2",
-    "yid": null,
+    "yid": 35394356,
     "password": "35394356",
     "kid": 14838,
     "name": "Daruma Dropper",
     "name_jp": "<ruby lang=\"jp\"><rb>達</rb><rp> (</rp><rt>だる</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>磨</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>落</rb><rp> (</rp><rt>おと</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daruma Otoshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP029",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

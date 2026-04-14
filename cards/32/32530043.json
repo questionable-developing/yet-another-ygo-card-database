@@ -1,12 +1,14 @@
 {
     "cid": "2688b2fc-3a7f-4b4f-8f47-03e0b1c34485",
-    "yid": null,
+    "yid": 32530043,
     "password": "32530043",
     "kid": 14663,
     "name": "Gallant Granite",
     "name_jp": "<ruby lang=\"jp\"><rb>御</rb><rp> (</rp><rt>ミ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>カゲ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>志</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mikage Shishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP036",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "25WP-JP203",
+            "set": "Winner's Pack 2025 Vol.2",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP060",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +124,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

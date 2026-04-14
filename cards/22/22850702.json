@@ -1,12 +1,14 @@
 {
     "cid": "779f75ab-a016-4421-8107-e92ee6b1d324",
-    "yid": null,
+    "yid": 22850702,
     "password": "22850702",
     "kid": 18507,
     "name": "Chaos Angel",
     "name_jp": "カオス・アンヘル－<ruby lang=\"jp\"><rb>混</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>沌</rb><rp> (</rp><rt>とん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>双</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Kaosu Anheru -Konton no Sōyoku-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chaos Ángel -Twin Wings of Chaos-",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "ChaosAngel-MP24-EN-PScR-1E.png",
+            "full": "ChaosAngel-RA05-EN-SR-1E.png",
+            "art": "ChaosAngel-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "ChaosAngel-LOSP-JP-PScR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "CYAC-EN044",
@@ -54,6 +61,52 @@
         {
             "sid": "MP24-EN086",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN043",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "BLGG-EN???",
+            "set": "Battles of Legend: Glorious Gallery",
+            "rarities": {
+                "Ultra Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP044",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP037",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOSP-JP017",
+            "set": "Limit Over Special Pack Vol.2",
             "rarities": {
                 "Prismatic Secret Rare": []
             }
@@ -107,5 +160,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2c7aac37-5a4f-4c7b-bb16-e137ce06cdaa",
+    "yid": 99004752,
     "password": "99004752",
     "kid": 10075,
     "name": "Mini-Guts",
     "name_jp": "ミニマム・ガッツ",
     "name_jp_rom": "Minimamu Gattsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Minimum Guts",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP052",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "180d5aaf-ff0c-45ed-9a36-cd40f661333d",
+    "yid": 85840608,
     "password": "85840608",
     "kid": 14085,
     "name": "Neo Space Connector",
     "name_jp": "ネオスペース・コネクター",
     "name_jp_rom": "Neosupēsu Konekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Neospace Connector",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP008",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

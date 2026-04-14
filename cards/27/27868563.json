@@ -1,12 +1,14 @@
 {
     "cid": "8523b9c4-6150-4acf-a310-cb51e7b43652",
-    "yid": null,
+    "yid": 27868563,
     "password": "27868563",
     "kid": 19465,
     "name": "Goblin Biker Boom Mach",
     "name_jp": "<ruby lang=\"jp\"><rb>百鬼羅刹</rb><rp> (</rp><rt>ゴブリンライダー</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>神速</rb><rp> (</rp><rt>マッハ</rt><rp>)</rp></ruby>ブーン",
     "name_jp_rom": "Goburin Raidā Mahha Būn",
+    "name_jp_rom_base": "Hyakkirasetsu Shinsoku Būn",
     "name_jp_tl": "Goblin Rider Mach Boon",
+    "name_jp_tl_base": "Hundred Demons Godspeed Boon",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP010",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Once per Chain"
         ]
-    }
+    },
+    "links": {}
 }

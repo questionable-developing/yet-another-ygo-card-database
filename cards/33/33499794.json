@@ -1,12 +1,14 @@
 {
     "cid": "ea75b122-56e7-48b3-b45f-261597b70564",
-    "yid": null,
+    "yid": 33499794,
     "password": "33499794",
     "kid": 19219,
     "name": "Nemleria Repeter",
     "name_jp": "ネムレリア・レペッテ",
     "name_jp_rom": "Nemureria Repette",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "AGOV-EN077",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP077",
             "set": "Age of Overlord",
             "rarities": {
                 "Common": []
@@ -87,5 +98,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

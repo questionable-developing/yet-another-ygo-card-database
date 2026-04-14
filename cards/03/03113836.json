@@ -1,12 +1,14 @@
 {
     "cid": "d0b491d3-ad0c-4e09-a14c-a70133f15b96",
-    "yid": null,
+    "yid": 3113836,
     "password": "03113836",
     "kid": 10000,
     "name": "Gem-Knight Seraphinite",
     "name_jp": "ジェムナイト・セラフィ",
     "name_jp_rom": "Jemunaito Serafi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gem-Knight Seraphi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT14-JP032",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP110",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP017",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP062",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +135,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "02ef8cd4-6857-410d-80fa-063bdf836d36",
+    "yid": 43378076,
     "password": "43378076",
     "kid": 10767,
     "name": "Rasetsu",
     "name_jp": "<ruby lang=\"jp\"><rb>羅刹</rb><rp> (</rp><rt>ラセツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rasetsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rakshasa",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SHSP-EN036",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP036",
             "set": "Shadow Specters",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

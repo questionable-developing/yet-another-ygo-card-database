@@ -1,11 +1,14 @@
 {
     "cid": "8e5e407b-e298-4c86-bfaa-70ce6ea90280",
+    "yid": 80551022,
     "password": "80551022",
     "kid": 20716,
     "name": "Mimighoul Slime",
     "name_jp": "ミミグル・スライム",
     "name_jp_rom": "Mimiguru Suraimu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mimigul Slime",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP021",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "0dcec30a-5cf9-4ba4-b775-a535737d6371",
-    "yid": null,
+    "yid": 19362568,
     "password": "19362568",
     "kid": 15763,
     "name": "Icy Breeze Refrain",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby>のリフレイン",
     "name_jp_rom": "Hyōfū no Rifurein",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP072",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

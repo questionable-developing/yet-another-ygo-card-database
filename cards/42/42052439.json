@@ -1,11 +1,14 @@
 {
     "cid": "ba38444a-1cc8-43cf-b516-ad122d121071",
+    "yid": 42052439,
     "password": "42052439",
     "kid": 15392,
     "name": "Fire Flint Lady",
     "name_jp": "キリビ・レディ",
     "name_jp_rom": "Kiribi Redi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP20-JP034",
+            "set": "Collection Pack 2020",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP306",
+            "set": "Tournament Pack 2023 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

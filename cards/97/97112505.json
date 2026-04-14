@@ -1,11 +1,14 @@
 {
     "cid": "3fbdce1e-30c7-4ae8-bacb-bc18760fce96",
+    "yid": 97112505,
     "password": "97112505",
     "kid": 16202,
     "name": "Chronomaly Magella Globe",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>メガラ・グローヴ",
     "name_jp_rom": "Ōpātsu Megara Gurōvu",
+    "name_jp_rom_base": "Senshi Isan Megara Gurōvu",
     "name_jp_tl": "OOPArts Megalla Globe",
+    "name_jp_tl_base": "Prehistoric Heritage Megalla Globe",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP013",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

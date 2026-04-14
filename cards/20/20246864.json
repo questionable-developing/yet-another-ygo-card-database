@@ -1,12 +1,14 @@
 {
     "cid": "e2505895-5ec5-47ff-b722-8d6a5bb618ad",
-    "yid": null,
+    "yid": 20246864,
     "password": "20246864",
     "kid": 15708,
     "name": "Windwitch - Freeze Bell",
     "name_jp": "<ruby lang=\"jp\"><rb>ＷＷ</rb><rp> (</rp><rt>ウィンド・ウィッチ</rt><rp>)</rp></ruby>－フリーズ・ベル",
     "name_jp_rom": "Windo Witchi - Furīzu Beru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wind Witch - Freeze Bell",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP22-EN008",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP017",
+            "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
             }
@@ -94,5 +105,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

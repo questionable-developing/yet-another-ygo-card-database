@@ -1,11 +1,14 @@
 {
     "cid": "829787f0-7899-429e-b7ef-3ca694987b4a",
+    "yid": 67694706,
     "password": "67694706",
     "kid": 20419,
     "name": "Magicolloidal Sol",
     "name_jp": "<ruby lang=\"jp\"><rb>魔溶生物</rb><rp> (</rp><rt>マジコロイダル</rt><rp>)</rp></ruby>ゾル",
     "name_jp_rom": "Majikoroidaru Soru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Magical Molten Creature Sol",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP056",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

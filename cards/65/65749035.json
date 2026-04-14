@@ -1,11 +1,14 @@
 {
     "cid": "97c2ae20-c5a6-4343-8d9a-029dfed165f0",
+    "yid": 65749035,
     "password": "65749035",
     "kid": 8262,
     "name": "Gungnir, Dragon of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> グングニール",
     "name_jp_rom": "Hyōkekkai no Ryū Gungunīru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -65,6 +68,59 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT05-JP040",
+            "set": "Duel Terminal - Champion of Chaos!!",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": [],
+                "Duel Terminal Secret Parallel Rare": []
+            }
+        },
+        {
+            "sid": "GS03-JP009",
+            "set": "Gold Series 2011",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "GDB1-JP049",
+            "set": "The Gold Box",
+            "rarities": {
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP060",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": [],
+                "Duel Terminal Secret Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD40-JPP03",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison Melting Destiny Pack",
+            "rarities": {
+                "Super Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP038",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,7 +161,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Limited activations"
+            "Limited activations",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

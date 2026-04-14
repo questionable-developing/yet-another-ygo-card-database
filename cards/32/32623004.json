@@ -1,12 +1,14 @@
 {
     "cid": "10a84443-c9ba-4ff0-917a-b4366aaedc53",
-    "yid": null,
+    "yid": 32623004,
     "password": "32623004",
     "kid": 11066,
     "name": "Nopenguin",
     "name_jp": "<ruby lang=\"jp\"><rb>否</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>定</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>ペンギン",
     "name_jp_rom": "Hitei Pengin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,22 @@
         {
             "sid": "PRIO-EN037",
             "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP037",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20TP-JP304",
+            "set": "Tournament Pack 2020 Vol.3",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

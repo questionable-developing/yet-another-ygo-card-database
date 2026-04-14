@@ -1,12 +1,14 @@
 {
     "cid": "0c290bcd-7003-4b6a-b213-dd1a2aab30dc",
-    "yid": null,
+    "yid": 28506708,
     "password": "28506708",
     "kid": 8831,
     "name": "Worm Call",
     "name_jp": "ワーム・コール",
     "name_jp_rom": "Wāmu Kōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "TSHD-EN056",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP056",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
             "Requires control of no monsters",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

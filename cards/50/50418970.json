@@ -1,11 +1,14 @@
 {
     "cid": "867878cf-9954-4398-aab5-e8dc8de0e653",
+    "yid": 50418970,
     "password": "50418970",
     "kid": 8340,
     "name": "Spirit Burner",
     "name_jp": "スピリット・バーナー",
     "name_jp_rom": "Supiritto Bānā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP050",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

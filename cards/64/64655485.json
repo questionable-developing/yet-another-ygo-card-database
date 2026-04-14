@@ -1,11 +1,14 @@
 {
     "cid": "3982508b-1cfc-43bd-8b03-b0f9b33203b3",
+    "yid": 64655485,
     "password": "64655485",
     "kid": 14112,
     "name": "Elemental HERO Brave Neos",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ブレイヴ・ネオス",
     "name_jp_rom": "Erementaru Hīrō Bureivu Neosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP035",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,7 +90,7 @@
             "2 Fusion Materials",
             "Requires specific Normal Monsters as Fusion Materials",
             "Requires Level specific Fusion Materials",
-            "Requires Effect Monsters as Fusion Materials",
+            "Requires nonspecific Effect Monsters as Fusion Materials",
             "Nomi"
         ],
         "attack": [],
@@ -89,5 +101,6 @@
         "misc": [
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

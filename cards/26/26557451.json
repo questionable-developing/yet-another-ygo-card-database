@@ -1,12 +1,14 @@
 {
     "cid": "99d4044e-df1f-4e97-8199-142b656f46f4",
-    "yid": null,
+    "yid": 26557451,
     "password": "26557451",
     "kid": 14515,
     "name": "Draw Discharge",
     "name_jp": "ドロー・ディスチャージ",
     "name_jp_rom": "Dorō Disuchāji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -53,10 +55,19 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP067",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect, Condition"
+            "Effect, Condition"
         ],
         "mentions": [],
         "sup": [],
@@ -68,7 +79,7 @@
         "counter": [],
         "action": [
             "Activates if your opponent draws a card",
-            "Reveals your opponent's hand"
+            "Shows the opponent's drawn cards"
         ],
         "stat_change": [],
         "mst": [],
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

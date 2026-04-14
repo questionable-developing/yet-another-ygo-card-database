@@ -1,12 +1,14 @@
 {
     "cid": "d2daada9-1237-4941-ac05-ad3c6ac8fddc",
-    "yid": null,
+    "yid": 11082056,
     "password": "11082056",
     "kid": 11885,
     "name": "The Fang of Critias",
     "name_jp": "クリティウスの<ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>きば</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kuritiusu no Kiba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Fang of Critius",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -77,6 +79,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP006",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -122,5 +134,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

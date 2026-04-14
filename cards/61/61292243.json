@@ -1,11 +1,14 @@
 {
     "cid": "2122e1be-f71f-4db2-b5d5-9df0396a4717",
+    "yid": 61292243,
     "password": "61292243",
     "kid": 18845,
     "name": "EMERGENCY!",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭＥＲＧＥＮＣＹ</rb><rp> (</rp><rt>エマージェンシー</rt><rp>)</rp></ruby>！",
     "name_jp_rom": "Emājenshī!",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP058",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TT02-JPA15",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +119,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

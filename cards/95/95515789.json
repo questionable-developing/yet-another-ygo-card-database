@@ -1,11 +1,14 @@
 {
     "cid": "ea5a2bbe-8228-4976-b366-b12eb151be37",
+    "yid": 95515789,
     "password": "95515789",
     "kid": 17767,
     "name": "Blazing Cartesia, the Virtuous",
     "name_jp": "<ruby lang=\"jp\"><rb>赫</rb><rp> (</rp><rt>あか</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby>カルテシア",
     "name_jp_rom": "Aka no Seijo Karuteshia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cartesia, the Sparkling Saint",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -88,6 +91,53 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP011",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DABL-JP011",
+            "set": "Darkwing Blast +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "AW01-JP010",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": []
+            }
+        },
+        {
+            "sid": "CF01-JP138",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JPS04",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP004",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -137,5 +187,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

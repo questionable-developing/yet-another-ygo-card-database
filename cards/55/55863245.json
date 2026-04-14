@@ -1,11 +1,14 @@
 {
     "cid": "655dd32b-5b9a-40c0-9e7c-f41b4ddc1d78",
+    "yid": 55863245,
     "password": "55863245",
     "kid": 11660,
     "name": "Tatsunoko",
     "name_jp": "たつのこ",
     "name_jp_rom": "Tatsunoko",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -23,15 +26,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1+ non-Tuner monsters<br />If this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
+    "desc": "1 Tuner + 1+ non-Tuners<br />If this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1+ non-Tuner monsters\nIf this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
-    "eff": "1 Tuner + 1+ non-Tuner monsters\nIf this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuners\nIf this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
+    "eff": "1 Tuner + 1+ non-Tuners\nIf this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "Tatsunoko-HISU-EN-SR-1E.png",
+            "full": "Tatsunoko-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -56,6 +59,51 @@
             "set": "Hidden Summoners",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN040",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JF15-JP009",
+            "set": "Jump Festa 2015 - Promotion Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DF16-JP004",
+            "set": "Duelist Festival 2016 - Promotion Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC02-JP028",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP035",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -93,5 +141,6 @@
         "misc": [
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

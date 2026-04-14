@@ -1,12 +1,14 @@
 {
     "cid": "ccdb74d2-e631-4a6c-b2bf-f033cae31976",
-    "yid": null,
+    "yid": 20073910,
     "password": "20073910",
     "kid": 12434,
     "name": "Amaterasu",
     "name_jp": "<ruby lang=\"jp\"><rb>天照大神</rb><rp> (</rp><rt>アマテラス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amaterasu",
+    "name_jp_rom_base": "Amaterasu Ōkami",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Amaterasu-Okami",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -45,6 +47,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP035",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

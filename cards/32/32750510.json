@@ -1,12 +1,14 @@
 {
     "cid": "f92db403-0e8c-439d-84bf-d6db828e40ab",
-    "yid": null,
+    "yid": 32750510,
     "password": "32750510",
     "kid": 7025,
     "name": "Ice Master",
     "name_jp": "アイス・ブリザード・マスター",
     "name_jp_rom": "Aisu Burizādo Masutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ice Blizzard Master",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP023",
+            "set": "V Jump Spring 2007 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TP22-JP002",
+            "set": "Tournament Pack 2012 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +109,6 @@
             "Requires control of specific Attribute",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

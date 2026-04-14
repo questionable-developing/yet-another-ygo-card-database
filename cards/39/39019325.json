@@ -1,11 +1,14 @@
 {
     "cid": "e59c8014-eae3-4700-a3d3-d3775c67771d",
+    "yid": 39019325,
     "password": "39019325",
     "kid": 6072,
     "name": "Order to Smash",
     "name_jp": "<ruby lang=\"jp\"><rb>玉</rb><rp> (</rp><rt>ぎょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>砕</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>指</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>令</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyokusai Shirei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Order to an Honorable Death",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-055",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP223",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +104,6 @@
             "Requires control of specific Level",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

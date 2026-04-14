@@ -1,12 +1,14 @@
 {
     "cid": "d74143ae-a543-4f0f-8ddf-51b71dc89be1",
-    "yid": null,
+    "yid": 3146695,
     "password": "03146695",
     "kid": 9542,
     "name": "Psychic Reactor",
     "name_jp": "サイコ・リアクター",
     "name_jp_rom": "Saiko Riakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Reactor",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP071",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
             "Turn limited effects",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

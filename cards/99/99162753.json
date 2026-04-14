@@ -1,11 +1,14 @@
 {
     "cid": "8cc69c47-e2b3-4a9d-a174-765ccd4f7485",
+    "yid": 99162753,
     "password": "99162753",
     "kid": 14514,
     "name": "Sextet Summon",
     "name_jp": "セクステット・サモン",
     "name_jp_rom": "Sekusutetto Samon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP066",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

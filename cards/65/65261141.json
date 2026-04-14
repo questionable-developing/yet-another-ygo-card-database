@@ -1,11 +1,14 @@
 {
     "cid": "ad7b6276-1a39-4523-9a7e-2876600e64c4",
+    "yid": 65261141,
     "password": "65261141",
     "kid": 19509,
     "name": "Nightmare Pain",
     "name_jp": "ナイトメア・ペイン",
     "name_jp_rom": "Naitomea Pein",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP054",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP005",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +121,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ae88b09b-062d-443c-ba09-bc78f03ea0b8",
+    "yid": 55320758,
     "password": "55320758",
     "kid": 20488,
     "name": "Goblin Bikers Gone Wild",
     "name_jp": "<ruby lang=\"jp\"><rb>天上天下百鬼羅刹</rb><rp> (</rp><rt>バッド・アス・ゴブリンライダーズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Baddo Asu Goburin Raidāzu",
+    "name_jp_rom_base": "Tenjōtenge Hyakkirasetsu",
     "name_jp_tl": "Bad-Ass Goblin Riders",
+    "name_jp_tl_base": "Hundred Rakshasas of Heaven and Earth",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP012",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
             "Only once per turn",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

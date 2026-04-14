@@ -1,11 +1,14 @@
 {
     "cid": "3052199c-6849-4e74-b364-b27ede4c4022",
+    "yid": 44201739,
     "password": "44201739",
     "kid": 19934,
     "name": "Mira Match",
     "name_jp": "ミラァと<ruby lang=\"jp\"><rb>燐寸之仔</rb><rp> (</rp><rt>マッチノコ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Miraa to Matchinoko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mira and Matchnoko",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "24PR-JP001",
+            "set": "Promotion Pack 2024",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -58,7 +70,7 @@
         "counter": [],
         "action": [
             "Activates from your hand",
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Reveals cards from your Deck",
             "Sends itself from field to Graveyard for cost",
             "Sends from your Deck to your Graveyard",
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

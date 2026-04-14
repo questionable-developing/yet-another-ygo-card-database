@@ -1,12 +1,14 @@
 {
     "cid": "fc37ef4e-cbb8-4342-8dab-d74c90070bb7",
-    "yid": null,
+    "yid": 21438286,
     "password": "21438286",
     "kid": 15754,
     "name": "Archfiend's Staff of Despair",
     "name_jp": "デーモンの<ruby lang=\"jp\"><rb>杖</rb><rp> (</rp><rt>つえ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dēmon no Tsue",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Daemon's Staff",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP063",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
             "Equips only to a specific target",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

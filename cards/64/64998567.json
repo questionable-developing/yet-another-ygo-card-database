@@ -1,11 +1,14 @@
 {
     "cid": "ea065694-8d29-4e61-93b1-08d314079a1e",
+    "yid": 64998567,
     "password": "64998567",
     "kid": 21209,
     "name": "Curse of Diabell",
     "name_jp": "カース・オブ・ディアベル",
     "name_jp_rom": "Kāsu Obu Diaberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ALIN-EN072",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP072",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

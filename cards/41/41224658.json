@@ -1,11 +1,14 @@
 {
     "cid": "08497bbd-a803-4cd1-875d-3f65496b3951",
+    "yid": 41224658,
     "password": "41224658",
     "kid": 8967,
     "name": "Ambitious Gofer",
     "name_jp": "<ruby lang=\"jp\"><rb>野</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>望</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby>のゴーファー",
     "name_jp_rom": "Yabō no Gōfā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP036",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,7 +79,7 @@
         ],
         "counter": [],
         "action": [
-            "Reveals your opponent's hand"
+            "Reveals cards from your opponent's hand"
         ],
         "stat_change": [],
         "mst": [
@@ -84,5 +96,6 @@
             "Limited activations",
             "From Konami Video Games"
         ]
-    }
+    },
+    "links": {}
 }

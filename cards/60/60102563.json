@@ -1,11 +1,14 @@
 {
     "cid": "8d563371-2a98-45e6-8773-2b1dbd8f5739",
+    "yid": 60102563,
     "password": "60102563",
     "kid": 6242,
     "name": "Maji-Gire Panda",
     "name_jp": "<ruby lang=\"jp\"><rb>本</rb><rp> (</rp><rt>マ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>ジ</rt><rp>)</rp></ruby>ギレパンダ",
     "name_jp_rom": "Maji Gire Panda",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Seriously Angry Panda",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP012",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP132",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

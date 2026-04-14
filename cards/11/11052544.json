@@ -1,12 +1,14 @@
 {
     "cid": "3e6884bb-1962-4882-8729-502e866eaa43",
-    "yid": null,
+    "yid": 11052544,
     "password": "11052544",
     "kid": 8348,
     "name": "Saber Slash",
     "name_jp": "セイバー・スラッシュ",
     "name_jp_rom": "Seibā Surasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -19,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Destroy a number of face-up cards on the field equal to the number of face-up Attack Position \"X-Saber\" monsters you control.",
+    "desc": "Destroy face-up cards on the field equal to the number of Attack Position \"X-Saber\" monsters you control.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Destroy a number of face-up cards on the field equal to the number of face-up Attack Position \"X-Saber\" monsters you control.",
+    "eff": "Destroy face-up cards on the field equal to the number of Attack Position \"X-Saber\" monsters you control.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SaberSlash-TU03-EN-R-UE.png",
+            "full": "SaberSlash-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -45,6 +47,36 @@
             "set": "Turbo Pack: Booster Three",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX17",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP058",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP032",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP014",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -79,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

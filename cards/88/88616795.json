@@ -1,11 +1,14 @@
 {
     "cid": "2e572f2f-b1d9-4723-80cf-6a44b9407de9",
+    "yid": 88616795,
     "password": "88616795",
     "kid": 10190,
     "name": "Spellbook of Wisdom",
     "name_jp": "トーラの<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tōra no Madōsho",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spellbook of Torah",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -67,6 +70,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP060",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR08-JP029",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +119,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

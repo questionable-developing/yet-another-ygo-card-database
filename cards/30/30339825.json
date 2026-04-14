@@ -1,12 +1,14 @@
 {
     "cid": "2178e623-26cd-46f6-8d39-ec0c3c236174",
-    "yid": null,
+    "yid": 30339825,
     "password": "30339825",
     "kid": 20801,
     "name": "Hydor, the Base of All Things",
     "name_jp": "<ruby lang=\"jp\"><rb>万物の始源</rb><rp> (</rp><rt>へー・アルケー</rt><rp>)</rp></ruby>－「<ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>ヒュドール</rt><rp>)</rp></ruby>」",
     "name_jp_rom": "Hē Arukē - \"Hyudōru\"",
+    "name_jp_rom_base": "Banbutsu no Shigen - \"Mizu\"",
     "name_jp_tl": "He Arkho - \"Hudor\"",
+    "name_jp_tl_base": "The Source of All Things - \"Water\"",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN064",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP064",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

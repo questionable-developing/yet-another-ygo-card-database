@@ -1,11 +1,14 @@
 {
     "cid": "439cfdb4-0245-406d-8950-4dcecbd1d038",
+    "yid": 58406094,
     "password": "58406094",
     "kid": 15875,
     "name": "Starry Knight Sky",
     "name_jp": "<ruby lang=\"jp\"><rb>煌めく聖夜</rb><rp> (</rp><rt>ホーリーナイツ・スカイ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hōrī Naitsu Sukai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Nights Sky",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,16 @@
             "set": "Ghosts From the Past (set)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP046",
+            "set": "Selection 10",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -81,5 +94,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

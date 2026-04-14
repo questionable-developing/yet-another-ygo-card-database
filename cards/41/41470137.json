@@ -1,11 +1,14 @@
 {
     "cid": "ed86e138-8764-4d6a-a4a5-22431e511125",
+    "yid": 41470137,
     "password": "41470137",
     "kid": 7285,
     "name": "Gladiator Beast Bestiari",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ベストロウリィ",
     "name_jp_rom": "Guradiaru Bīsuto Besutorouryi",
+    "name_jp_rom_base": "Kentōjū Besutorouryi",
     "name_jp_tl": "Gladial Beast Bestrouli",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -78,6 +81,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP020",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP037",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP008",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +146,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

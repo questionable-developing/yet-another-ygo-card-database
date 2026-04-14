@@ -1,11 +1,14 @@
 {
     "cid": "595c7b74-786e-49f6-beb3-ff64171d733f",
+    "yid": 96316857,
     "password": "96316857",
     "kid": 5845,
     "name": "Recycle",
     "name_jp": "リサイクル",
     "name_jp_rom": "Risaikuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "306-041",
+            "set": "Controller of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP041",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +102,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

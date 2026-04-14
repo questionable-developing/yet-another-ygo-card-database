@@ -1,12 +1,14 @@
 {
     "cid": "20c2948e-6da1-43fe-b678-5fa76ab329e8",
-    "yid": null,
+    "yid": 11765832,
     "password": "11765832",
     "kid": 17746,
     "name": "Garura, Wings of Resonant Life",
     "name_jp": "<ruby lang=\"jp\"><rb>共</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>つばさ</rt><rp>)</rp></ruby>ガルーラ",
     "name_jp_rom": "Kyōmei no Tsubasa Garūra",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP049",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPC28",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP029",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

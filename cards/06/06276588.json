@@ -1,12 +1,14 @@
 {
     "cid": "8ecf1166-d35b-4497-8cb9-a06896c4eded",
-    "yid": null,
+    "yid": 6276588,
     "password": "06276588",
     "kid": 9319,
     "name": "Karakuri Ninja mdl 919 \"Kuick\"",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>九</rb><rp> (</rp><rt>ク</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壱</rb><rp> (</rp><rt>イッ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>九</rb><rp> (</rp><rt>ク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Ninja Kuikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Ninja 919",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "STOR-EN028",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP028",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

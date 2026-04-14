@@ -1,11 +1,14 @@
 {
     "cid": "50c22919-3155-48e5-ab51-23e8973a0392",
+    "yid": 97926515,
     "password": "97926515",
     "kid": 13100,
     "name": "Emerging Emergency Rescute Rescue",
     "name_jp": "<ruby lang=\"jp\"><rb>緊</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>救</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>救</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>レスキュー",
     "name_jp_rom": "Kinkyū Kyūkyū Kyūmei Resukyū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Urgent Emergency Assistance Rescue",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP061",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

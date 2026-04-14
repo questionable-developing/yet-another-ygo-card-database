@@ -1,11 +1,14 @@
 {
     "cid": "712b140b-5a03-4c8b-a28f-4d4cbecc10b0",
+    "yid": 70226289,
     "password": "70226289",
     "kid": 15053,
     "name": "Witchcrafter Unveiling",
     "name_jp": "ウィッチクラフト・デモンストレーション",
     "name_jp_rom": "Witchikurafuto Demonsutorēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Demonstration",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WitchcrafterUnveiling-SSB1-JP-NPR.png",
+            "art": "WitchcrafterUnveiling-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WitchcrafterUnveiling-MP21-EN-C-1E.png",
-            "art": null
+            "art": "WitchcrafterUnveiling-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ETCO-EN067",
@@ -44,6 +52,23 @@
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP067",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SSB1-JP021",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -89,5 +114,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

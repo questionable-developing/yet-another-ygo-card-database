@@ -1,12 +1,14 @@
 {
     "cid": "373b0b74-6470-4da4-8640-510227a55072",
-    "yid": null,
+    "yid": 29942771,
     "password": "29942771",
     "kid": 17777,
     "name": "Naturia Camellia",
     "name_jp": "ナチュル・カメリア",
     "name_jp_rom": "Nachuru Kameria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Naturu Camellia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP021",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

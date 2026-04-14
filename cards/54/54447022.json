@@ -1,11 +1,14 @@
 {
     "cid": "7ed0bbe0-98f5-469d-9293-758d4e846a66",
+    "yid": 54447022,
     "password": "54447022",
     "kid": 11159,
     "name": "Soul Charge",
     "name_jp": "ソウル・チャージ",
     "name_jp_rom": "Sōru Chāji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -90,6 +93,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP014",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR01-JP033",
+            "set": "Structure Deck R: Advent of the True Monarch",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20AP-JP093",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD32-JP024",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +154,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

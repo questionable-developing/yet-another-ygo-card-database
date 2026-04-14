@@ -1,11 +1,14 @@
 {
     "cid": "3fea2dda-29bc-4800-887a-09839a68ba77",
+    "yid": 59156966,
     "password": "59156966",
     "kid": 9124,
     "name": "Golden Gearbox",
     "name_jp": "<ruby lang=\"jp\"><rb>黄</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>ごん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>歯</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>車</rb><rp> (</rp><rt>ぐるま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>箱</rb><rp> (</rp><rt>ばこ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōgon no Hagurumasōchibako",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "STBL-EN047",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP047",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -70,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

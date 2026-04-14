@@ -1,12 +1,14 @@
 {
     "cid": "5773fdf3-21fa-4b0a-ae2d-7975df1163c9",
-    "yid": null,
+    "yid": 4632019,
     "password": "04632019",
     "kid": 17143,
     "name": "Yamatako Orochi",
     "name_jp": "ヤマタコオロチ",
     "name_jp_rom": "Yamatako-orochi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP032",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

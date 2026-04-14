@@ -1,12 +1,14 @@
 {
     "cid": "5e1645ed-2928-440d-b697-231b13b33ae0",
-    "yid": null,
+    "yid": 23020408,
     "password": "23020408",
     "kid": 14907,
     "name": "Soul Servant",
     "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>のしもべ",
     "name_jp_rom": "Tamashī no Shimobe",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP23-JP003",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP010",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP020",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +128,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

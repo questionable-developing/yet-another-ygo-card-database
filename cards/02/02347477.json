@@ -1,12 +1,14 @@
 {
     "cid": "686cfeb7-a020-43fe-a698-70919de839a0",
-    "yid": null,
+    "yid": 2347477,
     "password": "02347477",
     "kid": 13872,
     "name": "Micro Coder",
     "name_jp": "マイクロ・コーダー",
     "name_jp_rom": "Maikuro Kōdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD34-JP004",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP022",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

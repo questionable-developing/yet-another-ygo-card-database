@@ -1,11 +1,14 @@
 {
     "cid": "07e5db98-a75a-4f81-9914-1f493cd9fd7e",
+    "yid": 37820550,
     "password": "37820550",
     "kid": 4322,
     "name": "Electro-Whip",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鞭</rb><rp> (</rp><rt>むち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dengeki Muchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PG-32",
+            "set": "Phantom God",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL2-062",
+            "set": "Duelist Legacy Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +105,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

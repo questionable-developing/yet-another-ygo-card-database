@@ -1,12 +1,14 @@
 {
     "cid": "16167a9f-f61b-43d3-8310-bc5748307999",
-    "yid": null,
+    "yid": 8805651,
     "password": "08805651",
     "kid": 21799,
     "name": "Megalith Phuloch",
     "name_jp": "メガリス・フローチュ",
     "name_jp_rom": "Megarisu Furōchu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "DOOD-EN033",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP033",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

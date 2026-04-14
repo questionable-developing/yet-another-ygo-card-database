@@ -1,11 +1,14 @@
 {
     "cid": "cbf6c5e6-a1c4-4d95-8208-ce1557f088f6",
+    "yid": 86325573,
     "password": "86325573",
     "kid": 11037,
     "name": "Battlin' Boxer Big Bandage",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> ビッグバンテージ",
     "name_jp_rom": "Bāningu Nakkurā Biggu Bantēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Big Bandage",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP008",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8716d1ab-e6c8-4880-b069-3d6d5476685f",
+    "yid": 71015787,
     "password": "71015787",
     "kid": 11009,
     "name": "Silent Wobby",
     "name_jp": "サイレント・ウォビー",
     "name_jp_rom": "Sairento Wobī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP16-JP004",
+            "set": "Premium Pack 16",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

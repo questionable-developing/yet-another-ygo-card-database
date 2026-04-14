@@ -1,12 +1,14 @@
 {
     "cid": "e148b7eb-469b-4d7e-97e9-7a7419b539bb",
-    "yid": null,
+    "yid": 32181268,
     "password": "32181268",
     "kid": 13252,
     "name": "Amano-Iwato",
     "name_jp": "<ruby lang=\"jp\"><rb>天岩戸</rb><rp> (</rp><rt>アマノイワト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ama no Iwato",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heavenly Stone Gate",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP036",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

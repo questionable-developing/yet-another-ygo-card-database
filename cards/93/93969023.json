@@ -1,11 +1,14 @@
 {
     "cid": "79049508-aaa9-41c3-9b31-0cccbf66091d",
+    "yid": 93969023,
     "password": "93969023",
     "kid": 11806,
     "name": "Black Metal Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>黒鋼竜</rb><rp> (</rp><rt>ブラックメタルドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burakku Metaru Doragon",
+    "name_jp_rom_base": "Kokukōryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Black Steel Dragon",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -84,6 +87,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP022",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP111",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +141,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

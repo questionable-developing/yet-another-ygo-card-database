@@ -1,12 +1,14 @@
 {
     "cid": "313665d8-6d3c-4d17-84b8-cd56444afa6e",
-    "yid": null,
+    "yid": 3285551,
     "password": "03285551",
     "kid": 16748,
     "name": "Rite of Aramesir",
     "name_jp": "アラメシアの<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arameshia no Gi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -57,6 +59,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP025",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP072",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

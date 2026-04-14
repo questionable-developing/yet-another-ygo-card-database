@@ -1,12 +1,14 @@
 {
     "cid": "8ae7f370-fa63-435d-b809-6a51e631106c",
-    "yid": null,
+    "yid": 27980138,
     "password": "27980138",
     "kid": 9675,
     "name": "Quill Pen of Gulldos",
     "name_jp": "ガルドスの<ruby lang=\"jp\"><rb>羽</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>根</rb><rp> (</rp><rt>ね</rt><rp>)</rp></ruby>ペン",
     "name_jp_rom": "Garudosu no Hane Pen",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP058",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

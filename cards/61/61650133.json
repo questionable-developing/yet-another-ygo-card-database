@@ -1,11 +1,14 @@
 {
     "cid": "43d74a34-8b04-4ae2-88df-5b648b03eb3b",
+    "yid": 61650133,
     "password": "61650133",
     "kid": 8992,
     "name": "Summoning Curse",
     "name_jp": "<ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>詛</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shōkan no Juso",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -60,6 +63,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP061",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e33ec980-24b6-40f1-b9ac-a9e702f7ccda",
+    "yid": 99529628,
     "password": "99529628",
     "kid": 19470,
     "name": "Keaf, Murk of the Ghoti",
     "name_jp": "ゴーティスの<ruby lang=\"jp\"><rb>朧</rb><rp> (</rp><rt>おぼろ</rt><rp>)</rp></ruby>キーフ",
     "name_jp_rom": "Gōtisu no Oboro Kīfu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Keaf, Murk of the Ghotis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP015",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +83,7 @@
         "mst": [],
         "summoning": [
             "Special Summons itself from your hand",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons itself while banished"
         ],
         "attack": [],
@@ -87,5 +99,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

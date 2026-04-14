@@ -1,11 +1,14 @@
 {
     "cid": "5440b352-fce5-46f5-980e-cedea562f790",
+    "yid": 44273680,
     "password": "44273680",
     "kid": 10613,
     "name": "Star Seraph Sage",
     "name_jp": "<ruby lang=\"jp\"><rb>光天使</rb><rp> (</rp><rt>ホーリー・ライトニング</rt><rp>)</rp></ruby>ブックス",
     "name_jp_rom": "Hōrī Raitoningu Bukkusu",
+    "name_jp_rom_base": "Kōtenshi Bukkusu",
     "name_jp_tl": "Holy Lightning Books",
+    "name_jp_tl_base": "Light Angel Books",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "JOTL-EN010",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP010",
             "set": "Judgment of the Light",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

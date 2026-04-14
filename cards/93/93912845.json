@@ -1,11 +1,14 @@
 {
     "cid": "e33e966b-51b3-4d44-9b1e-a30b626bdec4",
+    "yid": 93912845,
     "password": "93912845",
     "kid": 7923,
     "name": "Revival Gift",
     "name_jp": "リバイバル・ギフト",
     "name_jp_rom": "Ribaibaru Gifuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CSOC-EN068",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP068",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

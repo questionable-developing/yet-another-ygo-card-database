@@ -1,12 +1,14 @@
 {
     "cid": "444ab308-07fd-4c79-b070-40b30734b636",
-    "yid": null,
+    "yid": 28234578,
     "password": "28234578",
     "kid": 14692,
     "name": "Spiritual Entanglement",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>もつれ",
     "name_jp_rom": "Ryōshi Motsure",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP065",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

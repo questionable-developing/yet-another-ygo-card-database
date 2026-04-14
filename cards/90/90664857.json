@@ -1,11 +1,14 @@
 {
     "cid": "08011509-8d50-4f30-aaca-3d1f5296e577",
+    "yid": 90664857,
     "password": "90664857",
     "kid": 15521,
     "name": "Virtual World Shell - Jaja",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堺</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>甲</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>甲</rb><rp> (</rp><rt>ジャ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>々</rb><rp> (</rp><rt>ジャ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dennōkaikō - Jaja",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP042",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

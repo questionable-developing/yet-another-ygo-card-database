@@ -1,12 +1,14 @@
 {
     "cid": "20222ae4-ad88-47d8-9bd8-bf5d656eb172",
-    "yid": null,
+    "yid": 33609093,
     "password": "33609093",
     "kid": 15055,
     "name": "Ancient Warriors Saga - Borrowing of Arrows",
     "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>史</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>略</rb><rp> (</rp><rt>りゃく</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>万</rb><rp> (</rp><rt>まん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>の</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>矢</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senka Shiryaku - Jūman no Ya",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Warring Flower Saga - One Hundred Thousand Arrows",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ETCO-EN069",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP069",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

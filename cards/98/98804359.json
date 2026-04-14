@@ -1,11 +1,14 @@
 {
     "cid": "d9f014cb-516c-442d-b4f4-85d25db75ea9",
+    "yid": 98804359,
     "password": "98804359",
     "kid": 15298,
     "name": "Fury of Kairyu-Shin",
     "name_jp": "<ruby lang=\"jp\"><rb>海竜神</rb><rp> (</rp><rt>リバイアサン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>激</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>昂</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ribaiasan no Gekikō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fury of Leviathan",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP064",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP26-JP028",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

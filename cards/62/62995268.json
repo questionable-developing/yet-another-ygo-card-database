@@ -1,11 +1,14 @@
 {
     "cid": "5a42d50b-db88-44aa-beb0-8738e599ec07",
+    "yid": 62995268,
     "password": "62995268",
     "kid": 20250,
     "name": "Woes of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のわざわいなり",
     "name_jp_rom": "Shiroki Mori no Wazawai Nari",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP071",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ce8fe5ce-a1ba-4572-a346-7905debfb23d",
+    "yid": 75874514,
     "password": "75874514",
     "kid": 19720,
     "name": "Shining Star Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>輝</rb><rp> (</rp><rt>かがや</rt><rp>)</rp></ruby>ける<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>ほし</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kagayakeru Hoshi no Ryū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -40,6 +43,17 @@
             "sid": "BLTR-EN002",
             "set": "Battles of Legend: Terminal Revenge",
             "rarities": {
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "QCDB-JP003",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Ultra Rare": [],
                 "Secret Rare": [],
                 "Quarter Century Secret Rare": []
             }
@@ -89,5 +103,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

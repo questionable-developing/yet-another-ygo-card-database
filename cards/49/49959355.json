@@ -1,11 +1,14 @@
 {
     "cid": "72da1730-128c-4bbd-b6eb-ce6e50c3de6b",
+    "yid": 49959355,
     "password": "49959355",
     "kid": 11560,
     "name": "Uni-Zombie",
     "name_jp": "ユニゾンビ",
     "name_jp_rom": "Yunizonbi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -84,6 +87,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP040",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP018",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP019",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBSS-JP042",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +156,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

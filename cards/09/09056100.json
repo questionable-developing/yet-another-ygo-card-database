@@ -1,12 +1,14 @@
 {
     "cid": "c98f39fc-a181-46da-9b06-a1c855d33ff5",
-    "yid": null,
+    "yid": 9056100,
     "password": "09056100",
     "kid": 8406,
     "name": "General Grunard of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>虎</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>将</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby> グルナード",
     "name_jp_rom": "Hyōkekkai no Koshō Gurunādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Grunard, Tiger General of the Ice Barrier",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -59,6 +61,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT06-JP027",
+            "set": "Duel Terminal - Dragunity of the Hurricane!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP079",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD40-JP017",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP020",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +123,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

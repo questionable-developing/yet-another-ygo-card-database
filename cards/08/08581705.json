@@ -1,12 +1,14 @@
 {
     "cid": "9ddecac0-556f-448c-8056-7f43fa4942bf",
-    "yid": null,
+    "yid": 8581705,
     "password": "08581705",
     "kid": 5776,
     "name": "Infernalqueen Archfiend",
     "name_jp": "インフェルノクインデーモン",
     "name_jp_rom": "Inferuno Kuin Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Inferno Queen Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-018",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP233",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +124,6 @@
             "Die roll",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

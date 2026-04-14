@@ -1,12 +1,14 @@
 {
     "cid": "c27a39de-8b10-4a3f-a89c-92e2f947fd51",
-    "yid": null,
+    "yid": 34536828,
     "password": "34536828",
     "kid": 16858,
     "name": "Branded Disciple",
     "name_jp": "<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>徒</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakuin no Shito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,22 @@
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP053",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP092",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -80,5 +98,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

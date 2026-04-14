@@ -1,11 +1,14 @@
 {
     "cid": "25d2df1d-a95e-451d-9003-9bf60501cd6f",
+    "yid": 96540807,
     "password": "96540807",
     "kid": 21150,
     "name": "Regenesis Warrior",
     "name_jp": "<ruby lang=\"jp\"><rb>再世の戦神</rb><rp> (</rp><rt>リジェネシス・ウォリアー</rt><rp>)</rp></ruby> ベレシート",
     "name_jp_rom": "Rijeneshisu Woriā Bereshīto",
+    "name_jp_rom_base": "Saisei no Senshin Bereshīto",
     "name_jp_tl": "Regenesis Warrior Beresheet",
+    "name_jp_tl_base": "Regenerated World War God Beresheet",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ALIN-EN013",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP013",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Requires control of specific DEF",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

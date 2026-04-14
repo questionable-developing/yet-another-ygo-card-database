@@ -1,11 +1,14 @@
 {
     "cid": "92a2e71c-5c68-4eee-a25f-c08d750a257a",
+    "yid": 97262307,
     "password": "97262307",
     "kid": 20197,
     "name": "Ragnaraika Wicked Butterfly",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>姫邪眼</rb><rp> (</rp><rt>ヒメジャノメ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika no Himejanome",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Princess Wicked Eye",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP018",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

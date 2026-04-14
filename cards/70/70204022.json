@@ -1,11 +1,14 @@
 {
     "cid": "a4b1ed6e-74c6-422f-abcf-38bd55209aec",
+    "yid": 70204022,
     "password": "70204022",
     "kid": 17133,
     "name": "Symphonic Warrior DJJ",
     "name_jp": "<ruby lang=\"jp\"><rb>音響戦士</rb><rp> (</rp><rt>サウンドウォリアー</rt><rp>)</rp></ruby>ディージェス",
     "name_jp_rom": "Saundo Woriā Dījesu",
+    "name_jp_rom_base": "Onkyō Senshi Dījesu",
     "name_jp_tl": "Sound Warrior Deejays",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DIFO-EN021",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP021",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -93,5 +105,6 @@
             "Only once per turn",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

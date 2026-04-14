@@ -1,11 +1,14 @@
 {
     "cid": "9d32e000-51b4-4c39-bf05-9e09cb0b24cb",
+    "yid": 42685062,
     "password": "42685062",
     "kid": 8183,
     "name": "Emissary from Pandemonium",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>からの<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Jigoku kara no Tsukai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Emissary from Hell",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,22 @@
         {
             "sid": "RGBT-EN031",
             "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP031",
+            "set": "Raging Battle",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP130",
+            "set": "Duelist Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

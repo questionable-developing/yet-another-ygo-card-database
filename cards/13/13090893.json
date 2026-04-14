@@ -1,12 +1,14 @@
 {
     "cid": "3119a127-76f0-4898-8588-cf671731965d",
-    "yid": null,
+    "yid": 13090893,
     "password": "13090893",
     "kid": 14252,
     "name": "Grid Sweeper",
     "name_jp": "グリッド・スィーパー",
     "name_jp_rom": "Guriddo Swīpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -45,6 +47,15 @@
         },
         {
             "sid": "DANE-EN002",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP002",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -93,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

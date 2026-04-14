@@ -1,11 +1,14 @@
 {
     "cid": "4d908c68-f214-4b73-9df8-555e0292ffd7",
+    "yid": 37457534,
     "password": "37457534",
     "kid": 6842,
     "name": "Ancient Gear Tank",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械戦車</rb><rp> (</rp><rt>アンティーク・ギアタンク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Tanku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Tank",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SD10-EN018",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD10-JP018",
             "set": "Structure Deck: Machine Re-Volt",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

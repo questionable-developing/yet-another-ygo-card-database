@@ -1,11 +1,14 @@
 {
     "cid": "dcd7cbe9-d545-4ed2-ba70-d4ca830aa633",
+    "yid": 73244186,
     "password": "73244186",
     "kid": 17748,
     "name": "Moray of Avarice",
     "name_jp": "<ruby lang=\"jp\"><rb>貪</rb><rp> (</rp><rt>どん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>なウツボ",
     "name_jp_rom": "Don'yoku na Utsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +48,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP059",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +94,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

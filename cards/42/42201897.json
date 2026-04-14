@@ -1,11 +1,14 @@
 {
     "cid": "63287ba5-1c1f-42c7-ae5c-e91faf2ccce5",
+    "yid": 42201897,
     "password": "42201897",
     "kid": 20549,
     "name": "Azamina Determination",
     "name_jp": "アザミナ・ハマルティア",
     "name_jp_rom": "Azamina Hamarutia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Azamina Hamartia",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP073",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +80,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Returns from your Graveyard to your Deck",
             "Returns the player's banished cards to the Deck",
             "Activates from your Graveyard",
@@ -93,5 +105,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

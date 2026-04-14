@@ -1,11 +1,14 @@
 {
     "cid": "0653bbef-0240-490e-99cd-55ab2f1f0d17",
+    "yid": 47596607,
     "password": "47596607",
     "kid": 7004,
     "name": "Skyscraper 2 - Hero City",
     "name_jp": "<ruby lang=\"jp\"><rb>摩</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>楼</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>２－ヒーローシティ",
     "name_jp_rom": "Matenrō Tsū - Hīrō Shiti",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -77,6 +80,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP048",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP06-JP018",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP104",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +135,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7e4a08fd-a77c-4508-b55d-01c925aaffe5",
+    "yid": 37953640,
     "password": "37953640",
     "kid": 8144,
     "name": "Royal Swamp Eel",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宮</rb><rp> (</rp><rt>ぐう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>タウナギ",
     "name_jp_rom": "Ryūgū no Shiro Taunagi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "White Swamp Eel of the Dragon Palace",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP037",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "17SP-JP002",
+            "set": "Special Pack",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

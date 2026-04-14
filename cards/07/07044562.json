@@ -1,12 +1,14 @@
 {
     "cid": "b62cdc83-4a7b-435d-8f9a-6f4b4f13314e",
-    "yid": null,
+    "yid": 7044562,
     "password": "07044562",
     "kid": 12467,
     "name": "Card of the Soul",
     "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>のカード",
     "name_jp_rom": "Tamashī no Kādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP068",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

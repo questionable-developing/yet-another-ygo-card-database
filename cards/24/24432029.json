@@ -1,12 +1,14 @@
 {
     "cid": "56df6fed-373a-4f72-a01c-67d93f344bc6",
-    "yid": null,
+    "yid": 24432029,
     "password": "24432029",
     "kid": 8104,
     "name": "Genex Blastfan",
     "name_jp": "ジェネクス・ブラスト",
     "name_jp_rom": "Jenekusu Burasuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Genex Blast",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT04-JP023",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP013",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP066",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

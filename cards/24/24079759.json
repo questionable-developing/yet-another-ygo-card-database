@@ -1,12 +1,14 @@
 {
     "cid": "5f5660d9-eaef-4f17-bad7-3b9a8b7730f2",
-    "yid": null,
+    "yid": 24079759,
     "password": "24079759",
     "kid": 19463,
     "name": "Goblin Biker Dugg Charger",
     "name_jp": "<ruby lang=\"jp\"><rb>百鬼羅刹</rb><rp> (</rp><rt>ゴブリンライダー</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>特</rb><rp> (</rp><rt>とっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>ダグ",
     "name_jp_rom": "Goburin Raidā Tokkō Dagu",
+    "name_jp_rom_base": "Hyakkirasetsu Tokkō Dagu",
     "name_jp_tl": "Goblin Rider Suicide-Attack Dugg",
+    "name_jp_tl_base": "Hundred Demons Suicide-Attack Dugg",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP008",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHNI-JP008",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "882f24b3-3ac1-47a6-b4c3-03e0fadd7e9f",
+    "yid": 80722024,
     "password": "80722024",
     "kid": 19368,
     "name": "Mementotlan Bone Party",
     "name_jp": "メメント・ボーン・パーティー",
     "name_jp_rom": "Memento Bōn Pātī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Memento Bone Party",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +56,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP009",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "ULSP-JP010",
+            "set": "Ultimate Special Pack",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

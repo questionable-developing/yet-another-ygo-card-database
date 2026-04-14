@@ -1,12 +1,14 @@
 {
     "cid": "240745f7-6006-4546-8997-25865796423c",
-    "yid": null,
+    "yid": 5577149,
     "password": "05577149",
     "kid": 17137,
     "name": "Battleguard Cadet",
     "name_jp": "バーバリアン０<ruby lang=\"jp\"><rb>号</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bābarian Zero-gō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Barbarian #0",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DIFO-EN025",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP025",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

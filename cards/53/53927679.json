@@ -1,11 +1,14 @@
 {
     "cid": "aeefd127-0b2b-43ab-a353-fe659ecf8996",
+    "yid": 53927679,
     "password": "53927679",
     "kid": 7490,
     "name": "Fire Trooper",
     "name_jp": "ファイヤー・トルーパー",
     "name_jp_rom": "Faiyā Torūpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP013",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP073",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

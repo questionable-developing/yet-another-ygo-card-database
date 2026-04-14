@@ -1,12 +1,14 @@
 {
     "cid": "5c0089b4-b45d-4c89-8d56-72497349240b",
-    "yid": null,
+    "yid": 4779091,
     "password": "04779091",
     "kid": 7410,
     "name": "Yubel - Terror Incarnate",
     "name_jp": "ユベル－<ruby lang=\"jp\"><rb>Ｄａｓ　Ａｂｓｃｈｅｕｌｉｃｈ　Ｒｉｔｔｅｒ</rb><rp> (</rp><rt>ダス・アプシェリッヒ・リッター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yuberu - Dasu Apusherihhi Rittā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yubel - Das Abscheulich Ritter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -74,6 +76,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP007",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP069",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP125",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -122,5 +150,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

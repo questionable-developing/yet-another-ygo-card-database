@@ -1,11 +1,14 @@
 {
     "cid": "91ffcb0a-2423-4305-befe-cd7db08f981b",
+    "yid": 37803970,
     "password": "37803970",
     "kid": 12643,
     "name": "Amazing Pendulum",
     "name_jp": "アメイジング・ペンデュラム",
     "name_jp_rom": "Ameijingu Pendyuramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP053",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD31-JP024",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2e0280ed-049e-4e4e-88e4-bf24de783cbe",
-    "yid": null,
+    "yid": 29139104,
     "password": "29139104",
     "kid": 6699,
     "name": "Avalanching Aussa",
     "name_jp": "<ruby lang=\"jp\"><rb>荒</rb><rp> (</rp><rt>あら</rt><rp>)</rp></ruby>ぶるアウス",
     "name_jp_rom": "Araburu Ausu",
-    "name_jp_tl": "Raging Aussa",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Raging Aus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,22 @@
         {
             "sid": "EOJ-EN026",
             "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP026",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP206",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -85,5 +103,6 @@
             "Limited activations",
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

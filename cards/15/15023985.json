@@ -1,12 +1,14 @@
 {
     "cid": "c178da5f-a6b7-4028-aa54-9f00f12248c2",
-    "yid": null,
+    "yid": 15023985,
     "password": "15023985",
     "kid": 4638,
     "name": "Stone Ogre Grotto",
     "name_jp": "ストーンジャイアント",
     "name_jp_rom": "Sutōn Jaianto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stone Giant",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-07",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -74,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

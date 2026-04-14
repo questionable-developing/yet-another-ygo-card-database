@@ -1,12 +1,14 @@
 {
     "cid": "f6985165-b651-4727-97c6-0eb919a34cf4",
-    "yid": null,
+    "yid": 18027138,
     "password": "18027138",
     "kid": 11264,
     "name": "Hippo Carnival",
     "name_jp": "カバーカーニバル",
     "name_jp_rom": "Kabākānibaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +70,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP055",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST16-JP023",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +120,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

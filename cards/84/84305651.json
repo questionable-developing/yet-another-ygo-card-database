@@ -1,11 +1,14 @@
 {
     "cid": "219cc133-db93-4a01-802d-c629cb49c090",
+    "yid": 84305651,
     "password": "84305651",
     "kid": 12159,
     "name": "Goyo King",
     "name_jp": "ゴヨウ・キング",
     "name_jp_rom": "Goyou Kingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "BOSH-EN051",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP051",
             "set": "Breakers of Shadow",
             "rarities": {
                 "Rare": []
@@ -87,5 +99,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "20528ec5-83e9-4118-bdde-200f7d564ea8",
-    "yid": null,
+    "yid": 32278723,
     "password": "32278723",
     "kid": 20524,
     "name": "Aqua Jet Surface",
     "name_jp": "アクア・ジェット・サーフェス",
     "name_jp_rom": "Akua Jetto Sāfesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP25-EN416",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP048",
+            "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

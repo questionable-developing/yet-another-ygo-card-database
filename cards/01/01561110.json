@@ -1,12 +1,14 @@
 {
     "cid": "479f4da9-c797-47e5-af53-d9ad5753c6da",
-    "yid": null,
+    "yid": 1561110,
     "password": "01561110",
     "kid": 12590,
     "name": "ABC-Dragon Buster",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>エー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｂ</rb><rp> (</rp><rt>ビー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>シー</rt><rp>)</rp></ruby>－ドラゴン・バスター",
     "name_jp_rom": "Ē Bī Shī - Doragon Basutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -67,6 +69,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SDKS-JP041",
+            "set": "Structure Deck: Seto Kaiba",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP012",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP29-JP033",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,7 +129,7 @@
             "Contact Fusion",
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -121,5 +147,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

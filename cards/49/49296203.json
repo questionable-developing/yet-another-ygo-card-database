@@ -1,11 +1,14 @@
 {
     "cid": "831b6a0d-d76d-4939-9b0e-1f1f9666b959",
+    "yid": 49296203,
     "password": "49296203",
     "kid": 14823,
     "name": "Karakuri Bonze mdl 9763 \"Kunamzan\"",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>九</rb><rp> (</rp><rt>ク</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>七</rb><rp> (</rp><rt>ナ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ム</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>参</rb><rp> (</rp><rt>ザン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Hōshi Kunamuzan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Bonze 9763",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "IGAS-EN014",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP014",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

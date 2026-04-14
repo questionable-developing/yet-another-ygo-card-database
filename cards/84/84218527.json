@@ -1,11 +1,14 @@
 {
     "cid": "b7bb569a-c31f-4ae0-9e86-50d6a0f57232",
+    "yid": 84218527,
     "password": "84218527",
     "kid": 14520,
     "name": "Fortune Lady Rewind",
     "name_jp": "フォーチュンレディ・リワインド",
     "name_jp_rom": "Fōchun Redi Riwaindo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyRewind-RIRA-JP-C.png",
+            "art": "FortuneLadyRewind-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyRewind-RIRA-EN-R-1E.png",
-            "art": null
+            "art": "FortuneLadyRewind-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RIRA-EN070",
             "set": "Rising Rampage",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP070",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -64,7 +81,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -74,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

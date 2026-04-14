@@ -1,11 +1,14 @@
 {
     "cid": "2d762c89-46c2-4119-8a2e-3f39ef0139fd",
+    "yid": 88928798,
     "password": "88928798",
     "kid": 8842,
     "name": "Guard Mines",
     "name_jp": "ボム・ガード",
     "name_jp_rom": "Bomu Gādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bomb Guard",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP067",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP11-JP028",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

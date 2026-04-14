@@ -1,11 +1,14 @@
 {
     "cid": "437fe38b-a18b-4281-a221-76e3c46a2a5a",
+    "yid": 57970721,
     "password": "57970721",
     "kid": 15646,
     "name": "Drytron Asterism",
     "name_jp": "<ruby lang=\"jp\"><rb>星彩の竜輝巧</rb><rp> (</rp><rt>ドライトロン・アステリズム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraitoron Asuterizumu",
+    "name_jp_rom_base": "Seisai no Ryūkikō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Asterism Draconic Bright Machine",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,16 @@
             "set": "Genesis Impact",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP035",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -77,5 +90,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

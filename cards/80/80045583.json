@@ -1,11 +1,14 @@
 {
     "cid": "fa9f51ed-6d69-42aa-8753-d2c1ed65f5a9",
+    "yid": 80045583,
     "password": "80045583",
     "kid": 6587,
     "name": "Ancient Gear Cannon",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械砲台</rb><rp> (</rp><rt>アンティーク・ギアキャノン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Kyanon",
+    "name_jp_rom_base": "Kodai no Kikaihōdai",
     "name_jp_tl": "Antique Gear Cannon",
+    "name_jp_tl_base": "Ancient Machine Artillery",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +58,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP009",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD10-JP016",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP129",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

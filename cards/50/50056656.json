@@ -1,11 +1,14 @@
 {
     "cid": "791b700f-5134-47e8-a97b-20e398d60766",
+    "yid": 50056656,
     "password": "50056656",
     "kid": 19020,
     "name": "Red Zone",
     "name_jp": "スカーレッド・ゾーン",
     "name_jp_rom": "Sukāreddo Zōn",
-    "name_jp_tl": "Scar-Red Zone",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Scarred Zone",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD46-JP033",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS09",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +88,7 @@
             "Destroys Trap Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -82,5 +101,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e91265d0-6ecf-4e17-803c-8c76374cd5e9",
+    "yid": 61679541,
     "password": "61679541",
     "kid": 10738,
     "name": "Battlin' Boxer Rabbit Puncher",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> ラビット・パンチャー",
     "name_jp_rom": "Bāningu Nakkurā Rabitto Panchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Rabbit Puncher",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP007",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

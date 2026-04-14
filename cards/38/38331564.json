@@ -1,11 +1,14 @@
 {
     "cid": "fe652370-ce47-4b53-8d64-b53c9ef80184",
+    "yid": 38331564,
     "password": "38331564",
     "kid": 11292,
     "name": "Star Seraph Scepter",
     "name_jp": "<ruby lang=\"jp\"><rb>光天使</rb><rp> (</rp><rt>ホーリー・ライトニング</rt><rp>)</rp></ruby>セプター",
     "name_jp_rom": "Hōrī Raitoningu Seputā",
+    "name_jp_rom_base": "Kōtenshi Seputā",
     "name_jp_tl": "Holy Lightning Scepter",
+    "name_jp_tl_base": "Light Angel Scepter",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP083",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

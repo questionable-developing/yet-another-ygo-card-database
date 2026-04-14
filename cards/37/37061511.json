@@ -1,11 +1,14 @@
 {
     "cid": "44223221-931c-4cab-8271-6375594effec",
+    "yid": 37061511,
     "password": "37061511",
     "kid": 14843,
     "name": "Water Leviathan @Ignister",
     "name_jp": "ウォーターリヴァイアサン<ruby lang=\"jp\"><rb>＠</rb><rp> (</rp><rt>アット</rt><rp>)</rp></ruby>イグニスター",
     "name_jp_rom": "Wōtā Rivaiasan Atto Igunisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "IGAS-EN034",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP034",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "07a78537-a6d6-40cf-bdb3-dc24bc027c8f",
+    "yid": 45141013,
     "password": "45141013",
     "kid": 9139,
     "name": "Heat Wave",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>熱</rb><rp> (</rp><rt>ねっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>波</rb><rp> (</rp><rt>ぱ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daineppa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Large Heat Wave",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -72,6 +75,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP061",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD39-JP028",
+            "set": "Structure Deck: Masters of the Spiritual Arts",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS1-JP028",
+            "set": "Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +133,6 @@
             "At the start of Main Phase 1",
             "Turn limited effects"
         ]
-    }
+    },
+    "links": {}
 }

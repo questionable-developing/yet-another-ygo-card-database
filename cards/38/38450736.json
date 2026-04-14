@@ -1,11 +1,14 @@
 {
     "cid": "456a1c38-930e-4d4a-943c-72a25009a195",
+    "yid": 38450736,
     "password": "38450736",
     "kid": 10053,
     "name": "Inzektor Earwig",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ウィーグ",
     "name_jp_rom": "Inzekutā Wīgu",
+    "name_jp_rom_base": "Kōchūsōki Wīgu",
     "name_jp_tl": "Inzektor Wig",
+    "name_jp_tl_base": "Beetle Armed Machine Wig",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN030",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP030",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

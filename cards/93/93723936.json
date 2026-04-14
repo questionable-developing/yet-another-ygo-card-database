@@ -1,11 +1,14 @@
 {
     "cid": "25351f32-7735-40c7-8705-be057caebe6a",
+    "yid": 93723936,
     "password": "93723936",
     "kid": 20532,
     "name": "Scourge of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のあくま",
     "name_jp_rom": "Shiroki Mori no Akuma",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon of the White Forest",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP056",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "0d5ff64e-1701-444c-a95d-dc78dccd7227",
-    "yid": null,
+    "yid": 21879581,
     "password": "21879581",
     "kid": 8499,
     "name": "Synchro Barrier",
     "name_jp": "シンクロ・バリアー",
     "name_jp_rom": "Shinkuro Bariā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP064",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP10-JP026",
+            "set": "Duelist Pack: Yusei 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

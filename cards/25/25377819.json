@@ -1,12 +1,14 @@
 {
     "cid": "d3807f3a-f54c-4fd4-b29f-55654c80c344",
-    "yid": null,
+    "yid": 25377819,
     "password": "25377819",
     "kid": 10079,
     "name": "Hieratic Seal of Convocation",
     "name_jp": "<ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>集</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shōshū no Seikokuin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hieroglyphic Seal of Convocation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP056",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP034",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "93e3ffb0-4114-4b71-97a2-4ae15a0a3af4",
+    "yid": 84851250,
     "password": "84851250",
     "kid": 15707,
     "name": "Windwitch - Blizzard Bell",
     "name_jp": "<ruby lang=\"jp\"><rb>ＷＷ</rb><rp> (</rp><rt>ウィンド・ウィッチ</rt><rp>)</rp></ruby>－ブリザード・ベル",
     "name_jp_rom": "Windo Witchi - Burizādo Beru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wind Witch - Blizzard Bell",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -46,6 +49,15 @@
         {
             "sid": "MP22-EN007",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP016",
+            "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +104,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

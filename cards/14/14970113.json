@@ -1,12 +1,14 @@
 {
     "cid": "1a089d76-bd09-4f8d-b5f0-06d68e681de9",
-    "yid": null,
+    "yid": 14970113,
     "password": "14970113",
     "kid": 12961,
     "name": "Zoodiac Hammerkong",
     "name_jp": "<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>しし</rt><rp>)</rp></ruby>ハマーコング",
     "name_jp_rom": "Jūnishishi Hamākongu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hammerkong of the Twelve Zodiac Beasts",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "MACR-EN047",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP047",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -91,5 +102,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "5a9365cf-f80f-40df-8d89-39b194f346bb",
+    "yid": 67237709,
     "password": "67237709",
     "kid": 12037,
     "name": "Kozmotown",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｋｏｚｍｏ</rb><rp> (</rp><rt>コズモ</rt><rp>)</rp></ruby>－エメラルドポリス",
     "name_jp_rom": "Kozumo - Emerarudoporisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kozmo - Emeraldopolis",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP017",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +92,7 @@
         "counter": [],
         "action": [
             "Adds banished cards to the hand",
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Returns from your hand to your Deck",
             "You draw cards",
             "Activates from your Graveyard",
@@ -99,5 +111,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

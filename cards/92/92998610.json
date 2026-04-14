@@ -1,11 +1,14 @@
 {
     "cid": "fe1b2006-5e1b-4a7d-9f60-629624accdd9",
+    "yid": 92998610,
     "password": "92998610",
     "kid": 14107,
     "name": "Aloof Lupine",
     "name_jp": "<ruby lang=\"jp\"><rb>孤高除獣</rb><rp> (</rp><rt>ココウノケモノ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kokou no Kemono",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Aloof Beast",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP030",
+            "set": "Savage Strike",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DBCB-JP026",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "bf0605aa-2b87-4fd8-b417-0610d06227c0",
-    "yid": null,
+    "yid": 3806388,
     "password": "03806388",
     "kid": 18156,
     "name": "Core of Chaos",
     "name_jp": "<ruby lang=\"jp\"><rb>混沌核</rb><rp> (</rp><rt>コア・オブ・カオス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Koa Obu Kaosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP011",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,7 +98,7 @@
             "Special Summons itself from your hand",
             "Restricts the player's Special Summons from the Extra Deck",
             "Restricts the player's Special Summons to Attribute specific monsters",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -102,5 +113,6 @@
             "Special Summon Monster",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

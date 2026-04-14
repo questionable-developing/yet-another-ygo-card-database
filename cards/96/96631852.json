@@ -1,11 +1,14 @@
 {
     "cid": "45d96c28-f12e-4069-b242-02e06ef52e7f",
+    "yid": 96631852,
     "password": "96631852",
     "kid": 6355,
     "name": "Impenetrable Formation",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>てっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壁</rb><rp> (</rp><rt>ぺき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>布</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陣</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Teppeki no Fujin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP048",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP228",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

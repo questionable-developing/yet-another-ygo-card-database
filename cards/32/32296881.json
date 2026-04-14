@@ -1,12 +1,14 @@
 {
     "cid": "e7fd7e71-ca28-4fca-bdfd-ad2b6f17c886",
-    "yid": null,
+    "yid": 32296881,
     "password": "32296881",
     "kid": 6690,
     "name": "Bountiful Artemis",
     "name_jp": "<ruby lang=\"jp\"><rb>豊</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>穣</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>のアルテミス",
     "name_jp_rom": "Hōjō no Arutemisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -73,6 +75,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP020",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD11-JP016",
+            "set": "Structure Deck: Surge of Radiance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP200",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR05-JP008",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +136,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

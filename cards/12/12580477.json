@@ -1,12 +1,14 @@
 {
     "cid": "97510354-b6a8-43aa-8c08-c2c3677a37c4",
-    "yid": null,
+    "yid": 12580477,
     "password": "12580477",
     "kid": 4343,
     "name": "Raigeki",
     "name_jp": "サンダー・ボルト",
     "name_jp_rom": "Sandā Boruto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder Bolt",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "Raigeki-RA03-EN-PlScR-1E.png",
+            "full": "Raigeki-RA05-EN-SR-1E.png",
             "art": "Raigeki-MADU-EN-VG-artwork.png"
         },
         "2": {
@@ -37,124 +39,265 @@
         },
         "3": {
             "idx": "3",
-            "full": "Raigeki-LPST-JP-OP.png",
+            "full": "Raigeki-RA05-EN-UR-1E-AA.png",
             "art": null
         }
     },
-    "image": "2",
+    "image": "1",
     "sets": [
         {
             "sid": "LOB-EN053",
             "set": "Legend of Blue Eyes White Dragon",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "DB1-EN114",
             "set": "Dark Beginning 1",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "BP01-EN032",
             "set": "Battle Pack: Epic Dawn",
             "rarities": {
-                "Rare": [],
-                "Starfoil Rare": []
+                "Rare": ["1"],
+                "Starfoil Rare": ["1"]
             }
         },
         {
             "sid": "LCYW-EN054",
             "set": "Legendary Collection 3: Yugi's World Mega Pack",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "LCJW-EN057",
             "set": "Legendary Collection 4: Joey's World Mega Pack",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "PGL2-EN048",
             "set": "Premium Gold: Return of the Bling",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["1"]
             }
         },
         {
             "sid": "OP02-EN003",
             "set": "OTS Tournament Pack 2",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "LCKC-EN088",
             "set": "Legendary Collection Kaiba Mega Pack",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "TN19-EN010",
             "set": "2019 Gold Sarcophagus Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "SDCH-EN021",
             "set": "Structure Deck: Spirit Charmers",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "MGED-EN038",
             "set": "Maximum Gold: El Dorado",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "SDBT-EN025",
             "set": "Structure Deck: Beware of Traptrix",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "LOB-EN053",
             "set": "Legend of Blue Eyes White Dragon (25th Anniversary Edition)",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "MP24-EN056",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "RA03-EN083",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "MP25-EN015",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["2"]
+            }
+        },
+        {
+            "sid": "L26D-ENS05",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN110",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1", "3"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Starlight Rare": ["1", "3"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Starter Box: Theatrical Release",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "",
+            "set": "Starter Box",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LB-52",
+            "set": "Legend of Blue Eyes White Dragon (Japanese)",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PE-25",
+            "set": "Structure Deck: Pegasus",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DL2-034",
+            "set": "Duelist Legacy Volume.2",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "BE1-JP114",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "BE01-JP099",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "ST19-JP025",
+            "set": "Starter Deck 2019",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "DP22-JP000",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Holographic Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP031",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR12-JP031",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD45-JP025",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TDS2-JP025",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCCU-JP194",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPA20",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP028",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],
@@ -166,7 +309,9 @@
         "mentions": [],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Raigeki (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -183,5 +328,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "369f2938-63b2-410e-b129-92d567b3f8e9",
+    "yid": 96434581,
     "password": "96434581",
     "kid": 13772,
     "name": "Crusadia Power",
     "name_jp": "オーバード・パラディオン",
     "name_jp_rom": "Ōbādo Paradion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Aubade Palladion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP055",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

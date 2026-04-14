@@ -1,12 +1,14 @@
 {
     "cid": "794a069e-bbc5-481e-bf6d-f356b1eb00df",
-    "yid": null,
+    "yid": 26845680,
     "password": "26845680",
     "kid": 13945,
     "name": "Orcustrated Return",
     "name_jp": "オルフェゴール・プライム",
     "name_jp_rom": "Orufegōru Puraimu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Prime",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP058",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP050",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "16a95ed6-8b6a-486a-b7ec-e26b8e95faec",
+    "yid": 72813401,
     "password": "72813401",
     "kid": 14206,
     "name": "Hi-Speedroid Rubber Band Shooter",
     "name_jp": "<ruby lang=\"jp\"><rb>ＨＳＲ</rb><rp> (</rp><rt>ハイスピードロイド</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｇ</rb><rp> (</rp><rt>ジー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｏ</rb><rp> (</rp><rt>オー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｍ</rb><rp> (</rp><rt>エム</rt><rp>)</rp></ruby>ガン",
     "name_jp_rom": "Haisupīdoroido - Jī Ō Emu Gan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "High-Speedroid - GOM Gun",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -54,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP2-JP081",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP409",
+            "set": "Tournament Pack 2024 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +119,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

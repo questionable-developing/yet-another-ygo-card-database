@@ -1,11 +1,14 @@
 {
     "cid": "e8498bdb-0838-4dc6-9d0c-77e5b5cf2e05",
+    "yid": 72444406,
     "password": "72444406",
     "kid": 19497,
     "name": "Enigmaster Packbit",
     "name_jp": "エニグマスター・パックビット",
     "name_jp_rom": "Enigumasutā Pakkubitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +55,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP042",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHNI-JP042",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP408",
+            "set": "Tournament Pack 2025 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

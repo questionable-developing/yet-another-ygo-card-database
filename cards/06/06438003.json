@@ -1,12 +1,14 @@
 {
     "cid": "9c047dcb-2769-44a3-b512-0346f9144af1",
-    "yid": null,
+    "yid": 6438003,
     "password": "06438003",
     "kid": 15008,
     "name": "Ancient Warriors - Deceptive Jia Wen",
     "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>詭</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>賈</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>文</rb><rp> (</rp><rt>ぶん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senka no Ki - Kabun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Schemer of the Warring Flower - Jia Wen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ETCO-EN022",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP022",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

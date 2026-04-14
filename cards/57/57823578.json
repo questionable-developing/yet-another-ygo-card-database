@@ -1,11 +1,14 @@
 {
     "cid": "87cad489-66ca-4270-9144-83ab3d5e8db3",
+    "yid": 57823578,
     "password": "57823578",
     "kid": 14519,
     "name": "Simorgh Sky Battle",
     "name_jp": "<ruby lang=\"jp\"><rb>神鳥</rb><rp> (</rp><rt>シムルグ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>烈</rb><rp> (</rp><rt>れっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shimurugu no Ressen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Simorgh Furious Battle",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RIRA-EN073",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP073",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

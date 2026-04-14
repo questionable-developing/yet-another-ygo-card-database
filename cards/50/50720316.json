@@ -1,11 +1,14 @@
 {
     "cid": "5d93723e-8088-4265-847f-fcca1d566881",
+    "yid": 50720316,
     "password": "50720316",
     "kid": 11308,
     "name": "Elemental HERO Shadow Mist",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> シャドー・ミスト",
     "name_jp_rom": "Erementaru Hīro Shadō Misuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD27-JP001",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP024",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP016",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP028",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +122,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

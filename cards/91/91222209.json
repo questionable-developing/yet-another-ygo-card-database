@@ -1,11 +1,14 @@
 {
     "cid": "fce35157-5007-4f73-bb81-b42ca76169e9",
+    "yid": 91222209,
     "password": "91222209",
     "kid": 17993,
     "name": "Rescue-ACE Monitor",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｒ－ＡＣＥ</rb><rp> (</rp><rt>レスキュー・エース</rt><rp>)</rp></ruby>イントルーダー",
     "name_jp_rom": "Resukyū Ēsu Intorūdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rescue-ACE Intruder",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP003",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

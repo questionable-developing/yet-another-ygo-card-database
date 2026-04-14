@@ -1,11 +1,14 @@
 {
     "cid": "fa125508-d594-4beb-80be-077f44171b76",
+    "yid": 76145933,
     "password": "76145933",
     "kid": 17405,
     "name": "Spright Blue",
     "name_jp": "スプライト・ブルー",
     "name_jp_rom": "Supuraito Burū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SprightBlue-BLTR-EN-UR-1E.png",
+            "full": "SprightBlue-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -52,6 +55,52 @@
         {
             "sid": "BLTR-EN075",
             "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN021",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP003",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "POTE-JP003",
+            "set": "Power of the Elements +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB06",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP121",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -96,5 +145,6 @@
             "Requires control of specific Rank",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

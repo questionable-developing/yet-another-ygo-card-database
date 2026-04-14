@@ -1,12 +1,14 @@
 {
     "cid": "6acc5e98-e8be-4cf5-94fb-6391c07ef2b7",
-    "yid": null,
+    "yid": 9603356,
     "password": "09603356",
     "kid": 5773,
     "name": "Shadowknight Archfiend",
     "name_jp": "シャドウナイトデーモン",
     "name_jp_rom": "Shadō Naito Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shadow Knight Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-015",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP230",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +121,6 @@
             "Die roll",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

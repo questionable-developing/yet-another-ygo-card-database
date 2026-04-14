@@ -1,11 +1,14 @@
 {
     "cid": "b7efa182-446d-4424-a42a-53007a9e7419",
+    "yid": 86852702,
     "password": "86852702",
     "kid": 15092,
     "name": "Machina Redeployment",
     "name_jp": "<ruby lang=\"jp\"><rb>機甲部隊の再編制</rb><rp> (</rp><rt>マシンナーズ・リフォーメーション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mashinnāzu Rifōmēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machiners Reformation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "SR10-EN023",
             "set": "Structure Deck: Mechanized Madness",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR10-JP023",
+            "set": "Structure Deck R: Machiners Command",
             "rarities": {
                 "Super Rare": []
             }
@@ -75,5 +87,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

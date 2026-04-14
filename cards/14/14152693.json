@@ -1,12 +1,14 @@
 {
     "cid": "100d958b-4828-4c50-9a1f-841caf54c92b",
-    "yid": null,
+    "yid": 14152693,
     "password": "14152693",
     "kid": 14186,
     "name": "Lunalight Emerald Bird",
     "name_jp": "<ruby lang=\"jp\"><rb>月光翠鳥</rb><rp> (</rp><rt>ムーンライト・エメラルド・バード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Emerarudo Bādo",
+    "name_jp_rom_base": "Gekkō Suichō",
     "name_jp_tl": "Moonlight Emerald Bird",
+    "name_jp_tl_base": "Moonlight Green Bird",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP21-JP046",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS08",
+            "set": "Duelist Advance +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,7 +101,7 @@
         ],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -93,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

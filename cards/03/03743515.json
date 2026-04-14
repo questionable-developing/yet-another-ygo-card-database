@@ -1,12 +1,14 @@
 {
     "cid": "16b554f6-7374-4b7f-9722-7986245b37b7",
-    "yid": null,
+    "yid": 3743515,
     "password": "03743515",
     "kid": 21187,
     "name": "Steamed Sabersaurus",
     "name_jp": "<ruby lang=\"jp\"><rb>怒</rb><rp> (</rp><rt>ど</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>髪</rb><rp> (</rp><rt>はつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衝</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>セイバーザウルス",
     "name_jp_rom": "Dohatsutenshō Seibāzaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Steamed Charging Sabersaurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "ALIN-EN050",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP050",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

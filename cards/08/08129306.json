@@ -1,12 +1,14 @@
 {
     "cid": "346f3c79-8fcb-4166-ada3-bbe46c4139b3",
-    "yid": null,
+    "yid": 8129306,
     "password": "08129306",
     "kid": 15111,
     "name": "Primula the Rikka Fairy",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>りっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>プリム",
     "name_jp_rom": "Rikkasei Purimu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prim the Snowflower Fairy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,17 +32,32 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PrimulatheRikkaFairy-DBSS-JP-C.png",
+            "art": "PrimulatheRikkaFairy-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PrimulatheRikkaFairy-SESL-EN-ScR-1E.png",
-            "art": null
+            "art": "PrimulatheRikkaFairy-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SESL-EN015",
             "set": "Secret Slayers",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBSS-JP015",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -81,5 +98,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

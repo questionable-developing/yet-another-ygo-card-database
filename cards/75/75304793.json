@@ -1,11 +1,14 @@
 {
     "cid": "fd57ea16-36ab-4a54-9534-57e9251363f5",
+    "yid": 75304793,
     "password": "75304793",
     "kid": 11610,
     "name": "Symph Amplifire",
     "name_jp": "アンプリファイヤー",
     "name_jp_rom": "Anpurifaiyā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amplifire",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP090",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "22TP-JP114",
+            "set": "Tournament Pack 2022 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

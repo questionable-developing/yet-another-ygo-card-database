@@ -1,12 +1,14 @@
 {
     "cid": "f5cfc788-d2a8-4ead-83f2-3122592ed460",
-    "yid": null,
+    "yid": 9763474,
     "password": "09763474",
     "kid": 20065,
     "name": "Haggard Lizardose",
     "name_jp": "<ruby lang=\"jp\"><rb>盛</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>悴</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby>のリザルドーズ",
     "name_jp_rom": "Seisui no Rizarudōzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flourishaggard Lizardose",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -62,6 +64,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP059",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP051",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

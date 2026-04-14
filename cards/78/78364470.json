@@ -1,11 +1,14 @@
 {
     "cid": "90bb12f6-faa8-40f8-93ad-facf1233a1ef",
+    "yid": 78364470,
     "password": "78364470",
     "kid": 9810,
     "name": "Constellar Pollux",
     "name_jp": "セイクリッド・ポルクス",
     "name_jp_rom": "Seikuriddo Porukusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Pollux",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT13-JP021",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP098",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPL05",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPRG-JP048",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +110,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

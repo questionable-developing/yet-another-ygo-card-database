@@ -1,11 +1,14 @@
 {
     "cid": "e94d409d-db7e-4f3b-b8ec-a337d29eae01",
+    "yid": 88123329,
     "password": "88123329",
     "kid": 11549,
     "name": "Spiritual Beast Rampengu",
     "name_jp": "<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> ラムペンタ",
     "name_jp_rom": "Seireijū Ramupenta",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spiritual Beast Ramupenta",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP029",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP132",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +118,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

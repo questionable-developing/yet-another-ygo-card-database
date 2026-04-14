@@ -1,11 +1,14 @@
 {
     "cid": "b9e18027-1b6a-446c-8167-7907fc24cbef",
+    "yid": 81028112,
     "password": "81028112",
     "kid": 11206,
     "name": "Wattsychic Fighter",
     "name_jp": "エレキック・ファイター",
     "name_jp_rom": "Erekikku Faitā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elechic Fighter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP047",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

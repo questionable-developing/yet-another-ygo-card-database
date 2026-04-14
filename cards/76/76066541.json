@@ -1,11 +1,14 @@
 {
     "cid": "28818254-f820-4b44-9b3c-3805fdd51463",
+    "yid": 76066541,
     "password": "76066541",
     "kid": 11558,
     "name": "Dragon Dowser",
     "name_jp": "ドラゴンダウザー",
     "name_jp_rom": "Doragon Dauzā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP038",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST16-JP019",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

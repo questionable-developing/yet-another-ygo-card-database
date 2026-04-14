@@ -1,11 +1,14 @@
 {
     "cid": "298e1502-e9c2-4ff3-b143-80ed06a4b608",
+    "yid": 41639001,
     "password": "41639001",
     "kid": 10041,
     "name": "Hieratic Dragon of Nuit",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－ドラゴンヌート",
     "name_jp_rom": "Seikokuryū - Doragon Nūto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hieroglyphic Dragon - Dragon Nut",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN018",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP018",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

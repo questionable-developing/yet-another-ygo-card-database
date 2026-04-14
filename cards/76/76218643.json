@@ -1,11 +1,14 @@
 {
     "cid": "62d26f73-b6e7-4948-b1c1-97d41cf681ce",
+    "yid": 76218643,
     "password": "76218643",
     "kid": 8640,
     "name": "Black Potan",
     "name_jp": "ブラックポータン",
     "name_jp_rom": "Burakku Pōtan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ABPF-EN029",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP029",
             "set": "Absolute Powerforce",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

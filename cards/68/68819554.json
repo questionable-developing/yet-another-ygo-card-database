@@ -1,11 +1,14 @@
 {
     "cid": "bd55acd9-e0fe-4259-9245-db85baa87395",
+    "yid": 68819554,
     "password": "68819554",
     "kid": 11799,
     "name": "Performage Damage Juggler",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>ダメージ・ジャグラー",
     "name_jp_rom": "Entameiji Damēji Jagurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermage Damage Juggler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP015",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AC04-JP051",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

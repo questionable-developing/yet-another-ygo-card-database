@@ -1,12 +1,14 @@
 {
     "cid": "216af585-01e9-468e-a56e-d0230997dd2f",
-    "yid": null,
+    "yid": 30453613,
     "password": "30453613",
     "kid": 19840,
     "name": "Awakening of Veidos",
     "name_jp": "ヴェイドスの<ruby lang=\"jp\"><rb>目</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>覚</rb><rp> (</rp><rt>ざ</rt><rp>)</rp></ruby>め",
     "name_jp_rom": "Veidosu no Mezame",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP037",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

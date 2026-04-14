@@ -1,11 +1,14 @@
 {
     "cid": "4849a58d-f26f-40dd-b040-fd215ca49518",
+    "yid": 87774234,
     "password": "87774234",
     "kid": 6092,
     "name": "Watapon",
     "name_jp": "ワタポン",
     "name_jp_rom": "Watapon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cotton Pop",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MOV-JP001",
+            "set": "Yu-Gi-Oh! The Movie preview distribution card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "MOV-JPT03",
+            "set": "Movie Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "GS01-JP001",
+            "set": "Gold Series (OCG)",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "GDB1-JP001",
+            "set": "The Gold Box",
+            "rarities": {
+                "Gold Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

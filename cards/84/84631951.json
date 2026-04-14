@@ -1,11 +1,14 @@
 {
     "cid": "13026460-7bfc-46d6-acef-4b4aa85b0b55",
+    "yid": 84631951,
     "password": "84631951",
     "kid": 19871,
     "name": "Dinovatus Docus",
     "name_jp": "ディノベーダー・ドクス",
     "name_jp_rom": "Dinobēdā Dokusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dinovader Docus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP030",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

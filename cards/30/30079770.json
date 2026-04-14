@@ -1,12 +1,14 @@
 {
     "cid": "93d811c0-1574-41db-9d74-034566721655",
-    "yid": null,
+    "yid": 30079770,
     "password": "30079770",
     "kid": 11804,
     "name": "Red-Eyes Black Flare Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>真紅眼の黒炎竜</rb><rp> (</rp><rt>レッドアイズ・ブラックフレアドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reddoaizu Burakku Furea Doragon",
+    "name_jp_rom_base": "Shinkume no Kokuenryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Deep-Crimson-Eyes Black Flame Dragon",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP020",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
             "Only once per turn",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

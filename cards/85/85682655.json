@@ -1,11 +1,14 @@
 {
     "cid": "9abe04a5-c213-46de-b0b0-bbb5d32b8fd0",
+    "yid": 85682655,
     "password": "85682655",
     "kid": 9632,
     "name": "Wind-Up Juggler",
     "name_jp": "ゼンマイジャグラー",
     "name_jp_rom": "Zenmai Jagurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,10 +54,19 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP015",
+            "set": "Generation Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Trigger"
+            "Trigger, Condition"
         ],
         "mentions": [],
         "sup": [],
@@ -81,5 +93,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

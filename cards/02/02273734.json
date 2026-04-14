@@ -1,12 +1,14 @@
 {
     "cid": "b68d431b-6d51-48a1-8128-757f07c0aaf5",
-    "yid": null,
+    "yid": 2273734,
     "password": "02273734",
     "kid": 11228,
     "name": "Satellarknight Altair",
     "name_jp": "<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby> アルタイル",
     "name_jp_rom": "Sateranaito Arutairu",
+    "name_jp_rom_base": "Seiinshi Arutairu",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP019",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP046",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

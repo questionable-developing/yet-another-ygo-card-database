@@ -1,11 +1,14 @@
 {
     "cid": "47de454e-f824-4c14-8dfd-e5175abf3af6",
+    "yid": 49904658,
     "password": "49904658",
     "kid": 21339,
     "name": "Hrimnir the Divine Follower",
     "name_jp": "<ruby lang=\"jp\"><rb>久</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遠</rb><rp> (</rp><rt>おん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>徒</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby>フリムニル",
     "name_jp_rom": "Kuon no Shinto Furimuniru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hrimnir the Divine Follower of Eternity",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "ALIN-EN082",
             "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP043",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +93,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

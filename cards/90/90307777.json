@@ -1,11 +1,14 @@
 {
     "cid": "afd6e7b8-37f1-47ca-b104-df29fe1dcb12",
+    "yid": 90307777,
     "password": "90307777",
     "kid": 11480,
     "name": "Shurit, Strategist of the Nekroz",
     "name_jp": "<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> シュリット",
     "name_jp_rom": "Nekurosu no Jutsushi Shuritto",
+    "name_jp_rom_base": "Eireii no Jutsushi Shuritto",
     "name_jp_tl": "Shurit, Caster of the Necroth",
+    "name_jp_tl_base": "Shurit, Caster of the Shadow Spirit Cloth",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP010",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP099",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP076",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

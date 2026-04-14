@@ -1,12 +1,14 @@
 {
     "cid": "89b98eb4-0093-4cf9-b91a-bf3eea41a634",
-    "yid": null,
+    "yid": 36331074,
     "password": "36331074",
     "kid": 9383,
     "name": "Reeze, Whirlwind of Gusto",
     "name_jp": "ガスタの<ruby lang=\"jp\"><rb>疾</rb><rp> (</rp><rt>しっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ぷう</rt><rp>)</rp></ruby> リーズ",
     "name_jp_rom": "Gasuta no Shippū Rīzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reeze, Gale of Gusta",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT11-JP027",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC4-JP042",
+            "set": "Duel Terminal Chronicle 4 - Chapter of Opposites",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +103,6 @@
             "Requires control of specific archetype",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

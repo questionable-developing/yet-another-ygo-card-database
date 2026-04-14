@@ -1,12 +1,14 @@
 {
     "cid": "7548a87d-3da2-4ada-b95e-9187e43feb8a",
-    "yid": null,
+    "yid": 18165869,
     "password": "18165869",
     "kid": 19363,
     "name": "Mementotlan Dark Blade",
     "name_jp": "メメント・ダークソード",
     "name_jp_rom": "Memento Dāku Sōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Memento Dark Sword",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP004",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

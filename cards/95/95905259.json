@@ -1,11 +1,14 @@
 {
     "cid": "12862d6e-dc31-4808-afaa-5e8fd0ee4220",
+    "yid": 95905259,
     "password": "95905259",
     "kid": 9906,
     "name": "Chow Len the Prophet",
     "name_jp": "<ruby lang=\"jp\"><rb>予</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>言</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>僧</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby> チョウレン",
     "name_jp_rom": "Yogensō Chōren",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chōren the Prophet Monk",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP032",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR01-JPA07",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

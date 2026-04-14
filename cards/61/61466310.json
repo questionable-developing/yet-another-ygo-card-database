@@ -1,11 +1,14 @@
 {
     "cid": "6c2fa2b5-5a00-45bb-a033-9f5c20fc2e73",
+    "yid": 61466310,
     "password": "61466310",
     "kid": 10798,
     "name": "Return of the Monarchs",
     "name_jp": "<ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>開</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岩</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Teiō no Kaigan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Unearthing of the Monarchs",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP067",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR01-JP026",
+            "set": "Structure Deck R: Advent of the True Monarch",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

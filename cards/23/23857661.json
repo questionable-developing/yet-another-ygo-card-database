@@ -1,12 +1,14 @@
 {
     "cid": "1ff83a64-e7e8-4e60-aa56-43e16d8a8330",
-    "yid": null,
+    "yid": 23857661,
     "password": "23857661",
     "kid": 10915,
     "name": "Bujingi Fox",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－オキツ",
     "name_jp_rom": "Bujingi - Okitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujingi - Okitsu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP029",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

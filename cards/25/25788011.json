@@ -1,12 +1,14 @@
 {
     "cid": "9f866ab4-94fb-4ab6-a511-3b65d108c91f",
-    "yid": null,
+    "yid": 25788011,
     "password": "25788011",
     "kid": 10523,
     "name": "Risebell the Star Adjuster",
     "name_jp": "<ruby lang=\"jp\"><rb>調</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ライズベルト",
     "name_jp_rom": "Chōseishi Raizuberuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Risebelt the Star Adjuster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP042",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DBGC-JP037",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

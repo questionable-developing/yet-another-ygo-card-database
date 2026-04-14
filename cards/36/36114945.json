@@ -1,12 +1,14 @@
 {
     "cid": "1f3d1e4b-316e-4bf3-a601-1285edff4cf2",
-    "yid": null,
+    "yid": 36114945,
     "password": "36114945",
     "kid": 17035,
     "name": "Yuki-Onna, the Icicle Mayakashi",
     "name_jp": "<ruby lang=\"jp\"><rb>垂</rb><rp> (</rp><rt>たる</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔妖</rb><rp> (</rp><rt>まやかし</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>雪</rb><rp> (</rp><rt>ゆき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>おんな</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Taruhi no Mayakashi - Yukionna",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SSB1-JPS03",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP003",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +98,7 @@
         "summoning": [
             "2+ Link Materials",
             "Requires Type specific Link Materials",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -93,5 +111,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

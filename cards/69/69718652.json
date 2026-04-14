@@ -1,11 +1,14 @@
 {
     "cid": "5b17bbcf-a246-499c-8cc9-1a8a36178fa4",
+    "yid": 69718652,
     "password": "69718652",
     "kid": 19632,
     "name": "Ritual Beast Ulti-Nochiudrago",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> ノチウドラゴ",
     "name_jp_rom": "Seireijūki Nochiudorago",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Spirit Beast Steed Nochiwdrago",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -49,6 +52,21 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TW01-JP123",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,7 +104,7 @@
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
             "Special Summon once per turn",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Prevents direct attacks"
@@ -100,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

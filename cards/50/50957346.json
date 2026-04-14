@@ -1,11 +1,14 @@
 {
     "cid": "81ddb6f4-f22d-46a1-87d0-55b2e54426c4",
+    "yid": 50957346,
     "password": "50957346",
     "kid": 6981,
     "name": "Raging Earth",
     "name_jp": "レイジアース",
     "name_jp_rom": "Reiji Āsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rage Earth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STON-EN027",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP027",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

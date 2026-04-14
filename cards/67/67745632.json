@@ -1,11 +1,14 @@
 {
     "cid": "60f7fa38-ccb4-4660-a650-0ef3192b322e",
+    "yid": 67745632,
     "password": "67745632",
     "kid": 18722,
     "name": "Transcendosaurus Gigantozowler",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>越</rb><rp> (</rp><rt>えつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ギガントザウラー",
     "name_jp_rom": "Chōetsuryū Gigantozaurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +42,15 @@
         {
             "sid": "WISU-EN003",
             "set": "Wild Survivors",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP003",
+            "set": "Deck-Build Pack: Wild Survivors",
             "rarities": {
                 "Super Rare": []
             }
@@ -81,7 +93,7 @@
         "summoning": [
             "2 Fusion Materials",
             "Requires Type specific Fusion Materials",
-            "Requires Normal Monsters as Fusion Materials",
+            "Requires nonspecific Normal Monsters as Fusion Materials",
             "Special Summons itself from your Graveyard"
         ],
         "attack": [],
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

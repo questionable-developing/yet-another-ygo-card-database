@@ -1,11 +1,14 @@
 {
     "cid": "da6ac55d-22b7-4586-a341-08d6013765c6",
+    "yid": 63261835,
     "password": "63261835",
     "kid": 15463,
     "name": "Cyber Slash Harpie Lady",
     "name_jp": "ハーピィ・レディ・<ruby lang=\"jp\"><rb>ＳＣ</rb><rp> (</rp><rt>スクラッチ・クラッシュ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hāpyi Redi Sukuratchi Kurasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Harpie Lady Scratch Crush",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -56,6 +59,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VP20-JP002",
+            "set": "Prismatic Special Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DBVS-JP027",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

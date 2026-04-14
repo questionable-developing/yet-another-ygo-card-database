@@ -1,12 +1,14 @@
 {
     "cid": "a869e873-c5ff-4e3d-97c1-3b9ebffc3369",
-    "yid": null,
+    "yid": 2196767,
     "password": "02196767",
     "kid": 7296,
     "name": "Gambler of Legend",
     "name_jp": "<ruby lang=\"jp\"><rb>伝説の賭博師</rb><rp> (</rp><rt>レジェンド・ギャンブラー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rejendo Gyanburā",
+    "name_jp_rom_base": "Densetsu no Tobakushi",
     "name_jp_tl": "Legend Gambler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "GLAS-EN031",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP031",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
             "Limited activations",
             "Coin toss"
         ]
-    }
+    },
+    "links": {}
 }

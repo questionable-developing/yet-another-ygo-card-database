@@ -1,11 +1,14 @@
 {
     "cid": "9a7fda29-bdba-4745-9a35-cc05cb7cd22a",
+    "yid": 63233638,
     "password": "63233638",
     "kid": 14847,
     "name": "Megalith Phaleg",
     "name_jp": "メガリス・ファレグ",
     "name_jp_rom": "Megarisu Faregu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "IGAS-EN038",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP038",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "fbda8b1b-30ef-446b-ae1c-b62c0c261c37",
+    "yid": 87462901,
     "password": "87462901",
     "kid": 19479,
     "name": "Emissary from the House of Wax",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蝋</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>館</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Genrōkan no Shisha",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP030",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Only once per turn",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

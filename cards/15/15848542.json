@@ -1,12 +1,14 @@
 {
     "cid": "c8fd2053-d989-41ed-8f36-b11ec02cba4d",
-    "yid": null,
+    "yid": 15848542,
     "password": "15848542",
     "kid": 14764,
     "name": "Dragonmaid Lorpar",
     "name_jp": "ドラゴンメイド・ルフト",
     "name_jp_rom": "Doragonmeido Rufuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Luft",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -64,6 +66,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP021",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP063",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP010",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +135,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

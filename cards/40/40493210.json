@@ -1,11 +1,14 @@
 {
     "cid": "8cf4e774-ac2e-4fe1-a9f0-08b267c2a389",
+    "yid": 40493210,
     "password": "40493210",
     "kid": 16563,
     "name": "Magikey Locking",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鍵</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>錠</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>施</rb><rp> (</rp><rt>ロック</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Makenjō - Rokku -",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magikey Lock - Lock -",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP077",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

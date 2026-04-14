@@ -1,11 +1,14 @@
 {
     "cid": "1abb6138-9cad-4831-bfd2-2a74aab15927",
+    "yid": 64911387,
     "password": "64911387",
     "kid": 20751,
     "name": "Materiactor Zeptwing",
     "name_jp": "マテリアクトル・ゼプトウィング",
     "name_jp_rom": "Materiakutoru Zeputowingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SUDA-EN012",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP012",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

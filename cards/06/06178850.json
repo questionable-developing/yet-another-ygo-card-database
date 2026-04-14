@@ -1,12 +1,14 @@
 {
     "cid": "696f7805-d858-43b7-b462-938fc1c77617",
-    "yid": null,
+    "yid": 6178850,
     "password": "06178850",
     "kid": 7739,
     "name": "Fighting Spirit",
     "name_jp": "ファイティング・スピリッツ",
     "name_jp_rom": "Faitingu Supirittsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fighting Spirits",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -93,6 +95,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP045",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP08-JP017",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +139,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

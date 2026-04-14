@@ -1,12 +1,14 @@
 {
     "cid": "48f0f0c7-925f-42a6-936e-7f93a46c69c4",
-    "yid": null,
+    "yid": 32061744,
     "password": "32061744",
     "kid": 9151,
     "name": "Wattkeeper",
     "name_jp": "エレキーパー",
     "name_jp_rom": "Erekīpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eleckeeper",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "STBL-EN074",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP074",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c1122be6-861d-48bc-a81e-1399e5aedce9",
+    "yid": 42577802,
     "password": "42577802",
     "kid": 15776,
     "name": "Myutant Fusion",
     "name_jp": "フュージョン・ミュートリアス",
     "name_jp_rom": "Fyūjon Myūtoriasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fusion Myutrias",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "PHRA-EN093",
             "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP2-JP023",
+            "set": "World Premiere Pack 2021",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

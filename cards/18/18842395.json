@@ -1,12 +1,14 @@
 {
     "cid": "c827b7ce-1b88-4b9e-8b23-aa93b278646b",
-    "yid": null,
+    "yid": 18842395,
     "password": "18842395",
     "kid": 8620,
     "name": "Power Invader",
     "name_jp": "パワー・インベーダー",
     "name_jp_rom": "Pawā Inbēdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP009",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP086",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

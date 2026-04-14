@@ -1,11 +1,14 @@
 {
     "cid": "9df669d5-bd4e-47d6-aac0-c1a5d73abf95",
+    "yid": 97036149,
     "password": "97036149",
     "kid": 14459,
     "name": "Tenyi Spirit - Nahata",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－ナハタ",
     "name_jp_rom": "Ten'iryū - Nahata",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tenyi Dragon - Nahata",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -64,6 +67,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP015",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

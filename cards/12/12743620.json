@@ -1,12 +1,14 @@
 {
     "cid": "476bd9e4-4b8b-4edc-ab41-3707e979ce2c",
-    "yid": null,
+    "yid": 12743620,
     "password": "12743620",
     "kid": 14143,
     "name": "Uni-Song Tuning",
     "name_jp": "ユニゾン・チューン",
     "name_jp_rom": "Yunizon Chūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Uni-Zom Tune",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SAST-EN066",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP066",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

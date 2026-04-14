@@ -1,11 +1,14 @@
 {
     "cid": "b0a7fd99-d3ed-43c4-a209-40152c043ee8",
+    "yid": 56240989,
     "password": "56240989",
     "kid": 9900,
     "name": "Evoltile Casinerio",
     "name_jp": "エヴォルド・カシネリア",
     "name_jp_rom": "Evorudo Kashineria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evold Casineria",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN026",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP026",
             "set": "Order of Chaos",
             "rarities": {
                 "Rare": []
@@ -83,5 +95,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

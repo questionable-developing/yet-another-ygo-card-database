@@ -1,12 +1,14 @@
 {
     "cid": "84b04a8e-adda-40c3-b09e-0fe612dedd9d",
-    "yid": null,
+    "yid": 17825378,
     "password": "17825378",
     "kid": 17131,
     "name": "Predaplant Triantis",
     "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>トリアンティス",
     "name_jp_rom": "Puredetā Purantsu Toriantisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Plants Triantis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP019",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS14",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like"
@@ -79,8 +97,8 @@
         "action": [
             "Uses Spell Cards as Fusion Materials",
             "Activates if used as Fusion Material",
-            "Activates from your Graveyard",
-            "Activates from your Extra Deck"
+            "Activates if sent to the Graveyard",
+            "Activates if added to the Extra Deck"
         ],
         "stat_change": [
             "Changes Levels"
@@ -93,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

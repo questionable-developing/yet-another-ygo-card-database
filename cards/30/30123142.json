@@ -1,12 +1,14 @@
 {
     "cid": "b6e772d1-c16d-4f94-a635-b564859e1d93",
-    "yid": null,
+    "yid": 30123142,
     "password": "30123142",
     "kid": 7921,
     "name": "Synchro Strike",
     "name_jp": "シンクロ・ストライク",
     "name_jp_rom": "Shinkuro Sutoraiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP066",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP08-JP028",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

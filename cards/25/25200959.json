@@ -1,12 +1,14 @@
 {
     "cid": "9aba5946-adac-46a1-b645-23f2004787ce",
-    "yid": null,
+    "yid": 25200959,
     "password": "25200959",
     "kid": 14120,
     "name": "Cyberse Integrator",
     "name_jp": "サイバース・インテグレーター",
     "name_jp_rom": "Saibāsu Integurētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "SAST-EN043",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP043",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

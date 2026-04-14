@@ -1,12 +1,14 @@
 {
     "cid": "89763098-96c9-4d54-8db9-e3dc1f6b4a8f",
-    "yid": null,
+    "yid": 18843291,
     "password": "18843291",
     "kid": 19884,
     "name": "Minerva, the Athenian Lightsworn",
     "name_jp": "ライトロード・アテナ ミネルバ",
     "name_jp_rom": "Raitorōdo Atena Mineruba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Athena Minerva",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +55,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP043",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP043",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

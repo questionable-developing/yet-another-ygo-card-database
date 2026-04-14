@@ -1,12 +1,14 @@
 {
     "cid": "1ee28b8b-1ae1-44b7-9248-3c910cb8b387",
-    "yid": null,
+    "yid": 2830693,
     "password": "02830693",
     "kid": 10890,
     "name": "Rainbow Kuriboh",
     "name_jp": "<ruby lang=\"jp\"><rb>虹</rb><rp> (</rp><rt>にじ</rt><rp>)</rp></ruby>クリボー",
     "name_jp_rom": "Niji Kuribō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +67,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP004",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR01-JP022",
+            "set": "Structure Deck R: Advent of the True Monarch",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR09-JP020",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD42-JP020",
+            "set": "Structure Deck: Overlay Universe",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +137,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

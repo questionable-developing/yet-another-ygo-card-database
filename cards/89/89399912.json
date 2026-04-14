@@ -1,11 +1,14 @@
 {
     "cid": "02719d29-2151-4970-b05e-d0f2bc9db773",
+    "yid": 89399912,
     "password": "89399912",
     "kid": 10522,
     "name": "Tempest, Dragon Ruler of Storms",
     "name_jp": "<ruby lang=\"jp\"><rb>嵐</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－テンペスト",
     "name_jp_rom": "Ranseiryū - Tenpesuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -84,6 +87,48 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP041",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "GS06-JP007",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPC83",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Secret Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP016",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP080",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -130,5 +175,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

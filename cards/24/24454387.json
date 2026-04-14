@@ -1,12 +1,14 @@
 {
     "cid": "599069ca-d1c4-4d98-b0d4-55e17ebb694e",
-    "yid": null,
+    "yid": 24454387,
     "password": "24454387",
     "kid": 19079,
     "name": "Zuttomozaurus",
     "name_jp": "ズットモザウルス",
     "name_jp_rom": "Zuttomozaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "BFFsaurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "DUNE-EN081",
             "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP054",
+            "set": "World Premiere Pack 2024",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +89,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

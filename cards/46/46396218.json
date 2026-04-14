@@ -1,11 +1,14 @@
 {
     "cid": "d39a291b-849f-40b7-b94a-a3000e6ac034",
+    "yid": 46396218,
     "password": "46396218",
     "kid": 20506,
     "name": "Azamina Ilia Silvia",
     "name_jp": "<ruby lang=\"jp\"><rb>背信聖徒</rb><rp> (</rp><rt>アザミナ・レア</rt><rp>)</rp></ruby>シルヴィア",
     "name_jp_rom": "Azamina Rea Shiruvia",
+    "name_jp_rom_base": "Haishinseito Shiruvia",
     "name_jp_tl": "Azamina Rhea Silvia",
+    "name_jp_tl_base": "Betrayal Saint Silvia",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +69,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP030",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTA-JP030",
+            "set": "Rage of the Abyss +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP010",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +149,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "45b9c922-518d-4583-b0a7-8856b6105e5d",
+    "yid": 78917791,
     "password": "78917791",
     "kid": 14492,
     "name": "Shaman of the Tenyi",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>にょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ten'i no Ryūsennyo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragon Shamaness of the Tenyi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -33,11 +36,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ShamanoftheTenyi-RIRA-JP-SR.png",
+            "art": "ShamanoftheTenyi-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ShamanoftheTenyi-OP17-EN-C-UE.png",
-            "art": null
+            "art": "ShamanoftheTenyi-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RIRA-EN044",
@@ -58,6 +66,17 @@
             "set": "OTS Tournament Pack 17",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP044",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
             }
         }
     ],
@@ -105,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

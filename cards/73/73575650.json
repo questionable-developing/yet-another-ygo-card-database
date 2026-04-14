@@ -1,11 +1,14 @@
 {
     "cid": "2bf95815-4d41-4012-80c6-cbf65ce8bb71",
+    "yid": 73575650,
     "password": "73575650",
     "kid": 14154,
     "name": "Subterror Succession",
     "name_jp": "サブテラーの<ruby lang=\"jp\"><rb>継</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>承</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sabuterā no Keishō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP077",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP040",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b1fd2e39-70c7-4d4b-a5ba-9cf6d8823bfc",
+    "yid": 83488497,
     "password": "83488497",
     "kid": 17121,
     "name": "Scareclaw Astra",
     "name_jp": "スケアクロー・アストラ",
     "name_jp_rom": "Sukeakurō Asutora",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP009",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
             "Column",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

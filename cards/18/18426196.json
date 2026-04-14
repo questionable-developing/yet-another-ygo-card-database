@@ -1,12 +1,14 @@
 {
     "cid": "01b527ad-3c11-439a-8b8a-967794e0ae8d",
-    "yid": null,
+    "yid": 18426196,
     "password": "18426196",
     "kid": 9201,
     "name": "Noble Knight Joan",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ジャンヌ",
     "name_jp_rom": "Seikishi Jannu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Jeanne",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "NobleKnightJoan-SR09-JP-C.png",
+            "art": "NobleKnightJoan-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "NobleKnightJoan-LED8-EN-C-1E.png",
-            "art": null
+            "art": "NobleKnightJoan-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CBLZ-EN092",
@@ -46,6 +53,29 @@
         {
             "sid": "LED8-EN030",
             "set": "Legendary Duelists: Synchro Storm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TF05-JPB01",
+            "set": "Yu-Gi-Oh! 5D's Tag Force 5 Advance Tag Duel promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR09-JP013",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP25-JP029",
+            "set": "Duelist Pack: Duelists of Whirlwind",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

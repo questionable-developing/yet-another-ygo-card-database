@@ -1,11 +1,14 @@
 {
     "cid": "ac817dbd-0f0e-4255-9f2e-99078fd61b9e",
+    "yid": 72656408,
     "password": "72656408",
     "kid": 18149,
     "name": "Bystial Baldrake",
     "name_jp": "<ruby lang=\"jp\"><rb>深淵の獣</rb><rp> (</rp><rt>ビーステッド</rt><rp>)</rp></ruby>バルドレイク",
     "name_jp_rom": "Bīsuteddo Barudoreiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Byssted Baldrake",
+    "name_jp_tl_base": "Abyss Beast Baldrake",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -54,6 +57,22 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP004",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP142",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -106,5 +125,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

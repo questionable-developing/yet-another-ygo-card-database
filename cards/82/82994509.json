@@ -1,11 +1,14 @@
 {
     "cid": "1df7b2c5-7b08-4aee-9df4-bf536a2817c5",
+    "yid": 82994509,
     "password": "82994509",
     "kid": 7669,
     "name": "Horseytail",
     "name_jp": "ツクシー",
     "name_jp_rom": "Tsukushī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Horse Tail",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP026",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CSOC-JP026",
+            "set": "Crossroads of Chaos 2-Pack Set",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

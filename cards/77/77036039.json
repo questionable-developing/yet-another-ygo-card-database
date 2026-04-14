@@ -1,11 +1,14 @@
 {
     "cid": "3ba5b1bc-5187-43fe-9647-866e62569205",
+    "yid": 77036039,
     "password": "77036039",
     "kid": 8021,
     "name": "Assault Mercenary",
     "name_jp": "バスター・マーセナリ",
     "name_jp_rom": "Basutā Māsenari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Mercenary",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CRMS-EN023",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP023",
             "set": "Crimson Crisis",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "ed1b80a2-c4e8-4942-9f89-3707c0d2c882",
-    "yid": null,
+    "yid": 28770951,
     "password": "28770951",
     "kid": 13897,
     "name": "Galaxy Cleric",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河の修道師</rb><rp> (</rp><rt>ギャラクシー・プリースト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Purīsuto",
+    "name_jp_rom_base": "Ginga no Shūdōshi",
     "name_jp_tl": "Galaxy Priest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP010",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

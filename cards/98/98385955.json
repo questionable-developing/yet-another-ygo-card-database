@@ -1,11 +1,14 @@
 {
     "cid": "d0304aba-7a44-4a97-a3f8-d777ad0e392f",
+    "yid": 98385955,
     "password": "98385955",
     "kid": 20194,
     "name": "Silvy of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のシルヴィ",
     "name_jp_rom": "Shiroki Mori no Shiruvi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Silvy of the White Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP015",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

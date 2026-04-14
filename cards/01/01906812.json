@@ -1,12 +1,14 @@
 {
     "cid": "11e6ce95-354f-47e4-ab72-6a224a808a90",
-    "yid": null,
+    "yid": 1906812,
     "password": "01906812",
     "kid": 15729,
     "name": "Sprind the Irondash Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>てっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>駆</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>スプリンド",
     "name_jp_rom": "Tekkuryū Supurindo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP038",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP045",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP039",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP048",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,7 +124,7 @@
         "summoning": [
             "2 Fusion Materials",
             "Requires specific Effect Monsters as Fusion Materials",
-            "Requires Effect Monsters as Fusion Materials",
+            "Requires nonspecific Effect Monsters as Fusion Materials",
             "Special Summons from your Deck"
         ],
         "attack": [],
@@ -104,5 +136,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

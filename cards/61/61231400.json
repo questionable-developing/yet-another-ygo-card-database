@@ -1,11 +1,14 @@
 {
     "cid": "85598ae4-8ff0-47f9-92ee-d5910b93c2c8",
+    "yid": 61231400,
     "password": "61231400",
     "kid": 10400,
     "name": "Pyrotech Mech - Shiryu",
     "name_jp": "<ruby lang=\"jp\"><rb>炎神機</rb><rp> (</rp><rt>フレイムギア</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>紫</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fureimugia - Shiryū",
+    "name_jp_rom_base": "Enshinki - Shiryū",
     "name_jp_tl": "Flame Gear - Shiryu",
+    "name_jp_tl_base": "Flame God Machine - Shiryu",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP041",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

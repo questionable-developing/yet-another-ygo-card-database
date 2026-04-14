@@ -1,11 +1,14 @@
 {
     "cid": "a6701089-fddf-4b07-a164-34687c1b2289",
+    "yid": 53039326,
     "password": "53039326",
     "kid": 8666,
     "name": "Iron Core Specimen Lab",
     "name_jp": "<ruby lang=\"jp\"><rb>鋼</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>核</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>成</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>研</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>究</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>所</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōkaku Gōseijū Kenkyūjo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Steel Core Chimera Research Lab",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,17 +29,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "IronCoreSpecimenLab-DE04-JP-C.jpg",
+            "art": "IronCoreSpecimenLab-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "IronCoreSpecimenLab-ABPF-EN-SR-1E.png",
-            "art": null
+            "art": "IronCoreSpecimenLab-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ABPF-EN055",
             "set": "Absolute Powerforce",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP055",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP115",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -72,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "89552284-e27c-4773-a755-31e9bc90005e",
-    "yid": null,
+    "yid": 18458255,
     "password": "18458255",
     "kid": 18522,
     "name": "Dream Tower of Princess Nemleria",
     "name_jp": "ネムレリアの<ruby lang=\"jp\"><rb>寝</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>楼</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nemureria no Shinkirō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sleeping Princess Tower of Nemleria",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CYAC-EN059",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP059",
             "set": "Cyberstorm Access",
             "rarities": {
                 "Common": []
@@ -89,5 +100,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

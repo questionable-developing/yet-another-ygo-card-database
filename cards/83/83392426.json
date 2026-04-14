@@ -1,11 +1,14 @@
 {
     "cid": "32028561-5ebb-40b3-8b84-8798fac610f5",
+    "yid": 83392426,
     "password": "83392426",
     "kid": 8613,
     "name": "Bicular",
     "name_jp": "ヴィークラー",
     "name_jp_rom": "Vīkurā",
-    "name_jp_tl": "Vehicler",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Bicler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,14 +32,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Bicular-ABPF-JP-C.jpg",
+            "art": "Bicular-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Bicular-ABPF-EN-C-1E.png",
-            "art": null
+            "art": "Bicular-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ABPF-EN002",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP002",
             "set": "Absolute Powerforce",
             "rarities": {
                 "Common": []
@@ -76,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

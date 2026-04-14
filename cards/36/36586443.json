@@ -1,12 +1,14 @@
 {
     "cid": "6b9e53cd-c36d-4de8-b3e7-1b88d8dcfce5",
-    "yid": null,
+    "yid": 36586443,
     "password": "36586443",
     "kid": 6676,
     "name": "Elemental Recharge",
     "name_jp": "エレメンタル・チャージ",
     "name_jp_rom": "Erementaru Chāji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental Charge",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ElementalRecharge-EE04-JP-C.jpg",
+            "art": "ElementalRecharge-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ElementalRecharge-LCGX-EN-C-1E.png",
-            "art": null
+            "art": "ElementalRecharge-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "EOJ-EN050",
@@ -50,6 +57,29 @@
         {
             "sid": "LCGX-EN115",
             "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP050",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP05-JP022",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP230",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -84,5 +114,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

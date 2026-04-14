@@ -1,12 +1,14 @@
 {
     "cid": "05cded82-c142-4e21-9943-f82419fbb312",
-    "yid": null,
+    "yid": 22530212,
     "password": "22530212",
     "kid": 11189,
     "name": "Magic Hand",
     "name_jp": "マジック・ハンド",
     "name_jp_rom": "Majikku Hando",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP044",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

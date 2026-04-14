@@ -1,11 +1,14 @@
 {
     "cid": "23c28b5f-399d-414a-b932-2406c813142b",
+    "yid": 89086566,
     "password": "89086566",
     "kid": 7554,
     "name": "Detonate",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kiraika",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +79,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP043",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "15AY-JPA33",
+            "set": "Memories of the Duel King: Duelist Kingdom Arc",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +132,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

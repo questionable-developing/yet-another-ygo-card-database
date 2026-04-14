@@ -1,11 +1,14 @@
 {
     "cid": "45e26695-d41a-4618-9c2a-26637888c839",
+    "yid": 84693918,
     "password": "84693918",
     "kid": 21786,
     "name": "Solfachord Solfegia",
     "name_jp": "ドレミコード・ソルフェージア",
     "name_jp_rom": "Doremikōdo Sorufējia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Doremichord Solfeggia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DOOD-EN020",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP020",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -80,7 +92,7 @@
             "Special Summons itself from your hand",
             "Special Summons from your hand",
             "Special Summons from your Graveyard",
-            "Special Summons from your Extra Deck"
+            "Special Summons from your face-up Extra Deck"
         ],
         "attack": [],
         "banished": [],
@@ -92,5 +104,6 @@
             "Only once per turn",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "f471f286-be7c-4d22-bb9a-6bf3b8f77368",
-    "yid": null,
+    "yid": 34351849,
     "password": "34351849",
     "kid": 7646,
     "name": "Froggy Forcefield",
     "name_jp": "フロッグ・バリア",
     "name_jp_rom": "Furoggu Baria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Frog Barrier",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -46,6 +48,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP073",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP154",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +97,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

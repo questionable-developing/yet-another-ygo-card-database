@@ -1,12 +1,14 @@
 {
     "cid": "bdab4e51-66c8-4608-8f37-e20543baa657",
-    "yid": null,
+    "yid": 33145233,
     "password": "33145233",
     "kid": 11246,
     "name": "Djinn Demolisher of Rituals",
     "name_jp": "<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>デモリッシャー",
-    "name_jp_rom": "Gishiki Majin Demorisshā",
+    "name_jp_rom": "Gishikimajin Demorisshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ritual Djinn Demolisher",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP037",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

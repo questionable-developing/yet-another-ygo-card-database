@@ -1,11 +1,14 @@
 {
     "cid": "c1556bcf-7833-4491-a079-b585e3e32c28",
+    "yid": 85243784,
     "password": "85243784",
     "kid": 15035,
     "name": "Linkross",
     "name_jp": "リンクロス",
     "name_jp_rom": "Rinkurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -46,6 +49,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP049",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

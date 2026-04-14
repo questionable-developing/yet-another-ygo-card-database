@@ -1,11 +1,14 @@
 {
     "cid": "67aae74e-1e9b-4ca5-a89a-2a409b6822fb",
+    "yid": 81344637,
     "password": "81344637",
     "kid": 14420,
     "name": "Basilius, Familiar of the Evil Eye",
     "name_jp": "<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>眷</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>属</rb><rp> (</rp><rt>ぞく</rt><rp>)</rp></ruby> バジリウス",
     "name_jp_rom": "Jugan no Kenzoku Bajiriusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Basilius, Familiar of the Cursed Eye",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP030",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

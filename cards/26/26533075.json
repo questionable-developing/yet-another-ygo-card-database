@@ -1,12 +1,14 @@
 {
     "cid": "72141fb8-0e4d-402b-b793-4edf70ae0df3",
-    "yid": null,
+    "yid": 26533075,
     "password": "26533075",
     "kid": 7489,
     "name": "Security Orb",
     "name_jp": "セキュリティー・ボール",
     "name_jp_rom": "Sekyuritī Bōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Security Ball",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP022",
+            "set": "Extra Pack",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "72ab9595-c461-4173-86a1-4dad25a422ae",
+    "yid": 56510115,
     "password": "56510115",
     "kid": 18528,
     "name": "Solfachord Symphony",
     "name_jp": "ドレミコード・シンフォニア",
     "name_jp_rom": "Doremikōdo Shinfonia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Doremichord Symphonia",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CYAC-EN065",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP065",
             "set": "Cyberstorm Access",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
             "Requires control of specific Pendulum Scale",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

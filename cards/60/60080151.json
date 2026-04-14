@@ -1,11 +1,14 @@
 {
     "cid": "e01d7425-6a94-4015-8d5d-2928fc43d1cc",
+    "yid": 60080151,
     "password": "60080151",
     "kid": 10297,
     "name": "Memory of an Adversary",
     "name_jp": "<ruby lang=\"jp\"><rb>好敵手</rb><rp> (</rp><rt>とも</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>記</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>憶</rb><rp> (</rp><rt>おく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tomo no Kioku",
+    "name_jp_rom_base": "Kōtekishu no Kioku",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP075",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +80,7 @@
         "mst": [],
         "summoning": [
             "Special Summons the opponent's banished monsters to the player's field",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -80,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

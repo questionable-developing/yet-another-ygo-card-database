@@ -1,11 +1,14 @@
 {
     "cid": "7742faaa-efc9-4c55-bfbd-98b5c76711fb",
+    "yid": 43066927,
     "password": "43066927",
     "kid": 20715,
     "name": "Mimighoul Fairy",
     "name_jp": "ミミグル・フェアリー",
     "name_jp_rom": "Mimiguru Fearī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mimigul Fairy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP020",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "546bea27-5328-4516-8c4d-427cf465ff98",
+    "yid": 71083002,
     "password": "71083002",
     "kid": 20281,
     "name": "Tachyon Spiral of Destruction",
     "name_jp": "<ruby lang=\"jp\"><rb>殲</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>のタキオン・スパイラル",
     "name_jp_rom": "Senmetsu no Takion Supairaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tachyon Spiral of Annihilation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "MZTM-EN015",
             "set": "Maze of the Master",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP005",
+            "set": "Duelist Pack: Duelists of Brilliance",
             "rarities": {
                 "Rare": []
             }
@@ -93,5 +105,6 @@
             "Requires control of specific archetype",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

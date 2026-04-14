@@ -1,11 +1,14 @@
 {
     "cid": "d15d8f01-a361-446b-a747-6244238a15c0",
+    "yid": 81914447,
     "password": "81914447",
     "kid": 16729,
     "name": "Noh-P.U.N.K. Ogre Dance",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ</rb><rp> (</rp><rt>ノウ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp> (</rp><rt>パンク</rt><rp>)</rp></ruby>オーガ・ナンバー",
     "name_jp_rom": "Nou-Panku Ōga Nanbā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Noh-P.U.N.K. Ogre Number",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP006",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP026",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +120,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

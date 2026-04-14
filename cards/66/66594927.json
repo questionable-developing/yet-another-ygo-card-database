@@ -1,11 +1,14 @@
 {
     "cid": "0a579ce9-d434-4e5c-ab5d-5c62118a208b",
+    "yid": 66594927,
     "password": "66594927",
     "kid": 15342,
     "name": "Meklord Deflection",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>統</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>制</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikōtōsei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machine Imperial Control",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "LED7-EN021",
             "set": "Legendary Duelists: Rage of Ra",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP24-JP021",
+            "set": "Duelist Pack: Duelists of Gloom",
             "rarities": {
                 "Rare": []
             }
@@ -81,5 +93,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

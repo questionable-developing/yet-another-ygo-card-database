@@ -1,11 +1,14 @@
 {
     "cid": "61d87f3c-4651-443a-bf31-b4e44a7608e8",
+    "yid": 88241506,
     "password": "88241506",
     "kid": 10588,
     "name": "Maiden with Eyes of Blue",
     "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>あお</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>乙女</rb><rp> (</rp><rt>おとめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Aoki Me no Otome",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD25-JP005",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "GP16-JP002",
+            "set": "Gold Pack 2016",
+            "rarities": {
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP008",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +140,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

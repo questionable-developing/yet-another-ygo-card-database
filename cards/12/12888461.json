@@ -1,12 +1,14 @@
 {
     "cid": "d062e7bc-0e50-4da3-a52c-616ac7cfda03",
-    "yid": null,
+    "yid": 12888461,
     "password": "12888461",
     "kid": 21341,
     "name": "Aspischool",
     "name_jp": "アスピスクール",
     "name_jp_rom": "Asupisukūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "ALIN-EN084",
             "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP053",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -79,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

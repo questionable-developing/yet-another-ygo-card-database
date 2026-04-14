@@ -1,12 +1,14 @@
 {
     "cid": "2df59887-38d0-4137-9f2a-f8dd1a9aa6c3",
-    "yid": null,
+    "yid": 24062258,
     "password": "24062258",
     "kid": 10740,
     "name": "Secret Sect Druid Dru",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>躍</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby>のドルイド・ドリュース",
     "name_jp_rom": "Anyaku no Doruido Doryūsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Secret Maneuvering Druid Druise",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP009",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

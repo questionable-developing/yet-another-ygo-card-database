@@ -1,11 +1,14 @@
 {
     "cid": "ea438df2-ed9d-4fb0-8380-347595b61721",
+    "yid": 53586134,
     "password": "53586134",
     "kid": 6537,
     "name": "Bubble Blaster",
     "name_jp": "バブル・ショット",
     "name_jp_rom": "Baburu Shotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bubble Shot",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DP1-EN023",
+            "set": "Duelist Pack: Jaden Yuki",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP1-JP023",
             "set": "Duelist Pack: Jaden Yuki",
             "rarities": {
                 "Super Rare": []
@@ -76,5 +88,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

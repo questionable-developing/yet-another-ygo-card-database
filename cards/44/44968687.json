@@ -1,11 +1,14 @@
 {
     "cid": "df2be541-572c-4ec3-89e9-ebcd77997e90",
+    "yid": 44968687,
     "password": "44968687",
     "kid": 11961,
     "name": "The Legendary Fisherman III",
     "name_jp": "<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>説</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby>のフィッシャーマン<ruby lang=\"jp\"><rb>三</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Densetsu no Fisshāman Sansei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -70,6 +73,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP017",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP18-JP020",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP26-JP025",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +145,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

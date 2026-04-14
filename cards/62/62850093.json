@@ -1,11 +1,14 @@
 {
     "cid": "35283fef-556c-4b77-a530-30e1035b7017",
+    "yid": 62850093,
     "password": "62850093",
     "kid": 15019,
     "name": "Cataclysmic Circumpolar Chilblainia",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禍</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>チルブレイン",
     "name_jp_rom": "Hyōtenka Chiruburein",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chilblain the Freezing Cataclysm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ETCO-EN033",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP033",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

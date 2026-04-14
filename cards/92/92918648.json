@@ -1,11 +1,14 @@
 {
     "cid": "e77e3c79-5c57-4420-ae0d-9cc58172f2ca",
+    "yid": 92918648,
     "password": "92918648",
     "kid": 10175,
     "name": "Hierophant of Prophecy",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby> ハイロン",
     "name_jp_rom": "Madōhōō Hairon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hieron the Magical Hierophant",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,16 @@
     "sets": [
         {
             "sid": "REDU-EN045",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP045",
             "set": "Return of the Duelist",
             "rarities": {
                 "Ultra Rare": [],
@@ -82,5 +95,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

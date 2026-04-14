@@ -1,12 +1,14 @@
 {
     "cid": "a597d905-0c90-4975-bf66-34085bab1262",
-    "yid": null,
+    "yid": 16832845,
     "password": "16832845",
     "kid": 12512,
     "name": "Final Geas",
     "name_jp": "ファイナル・ギアス",
     "name_jp_rom": "Fainaru Giasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MVP1-JP029",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "rarities": {
+                "Kaiba Corporation Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +87,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -88,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

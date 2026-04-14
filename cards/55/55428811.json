@@ -1,11 +1,14 @@
 {
     "cid": "abd6c9e6-5c74-4c23-8dfd-9da034ef748c",
+    "yid": 55428811,
     "password": "55428811",
     "kid": 7161,
     "name": "Fifth Hope",
     "name_jp": "ホープ・オブ・フィフス",
     "name_jp_rom": "Hōpu Obu Fifusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hope of Fifth",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "FifthHope-DE02-JP-C.jpg",
+            "full": "FifthHope-DE02-JP-C.png",
             "art": "FifthHope-MADU-JP-VG-artwork.png"
         },
         "1.1": {
@@ -55,6 +58,29 @@
         {
             "sid": "SGX2-ENE07",
             "set": "Speed Duel GX: Midterm Paradox",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP045",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP06-JP019",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP019",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -95,5 +121,6 @@
             "Requires control of no cards",
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

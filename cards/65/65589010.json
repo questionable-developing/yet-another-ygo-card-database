@@ -1,11 +1,14 @@
 {
     "cid": "5f64ff38-1cc1-4ea5-8bf3-f054f6ed3a98",
+    "yid": 65589010,
     "password": "65589010",
     "kid": 15285,
     "name": "Dogmatika Nation",
     "name_jp": "<ruby lang=\"jp\"><rb>教</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>国</rb><rp> (</rp><rt>こっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>家</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>ドラグマ",
     "name_jp_rom": "Kyōdōkokka Doraguma",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragma, the Dogmatic Nation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -18,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn.<br />● After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: Destroy that opponent's monster.<br />● If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
+    "desc": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn. After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: You can destroy that opponent's monster. If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn.\n● After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: Destroy that opponent's monster.\n● If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
+    "eff": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn. After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: You can destroy that opponent's monster. If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "DogmatikaNation-MP21-EN-C-1E.png",
+            "full": "DogmatikaNation-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -44,6 +47,35 @@
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "RA05-EN066",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP051",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP001",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -83,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

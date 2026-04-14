@@ -1,11 +1,14 @@
 {
     "cid": "c7821ef9-6c45-4822-8d32-ff45b72700db",
+    "yid": 73820802,
     "password": "73820802",
     "kid": 12397,
     "name": "Onikuji",
     "name_jp": "<ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>おに</rt><rp>)</rp></ruby>くじ",
     "name_jp_rom": "Onikuji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fiendish Fortune",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Onikuji-17PR-JP-C.png",
+            "art": "Onikuji-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Onikuji-MP18-EN-C-1E.png",
-            "art": null
+            "art": "Onikuji-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "MACR-EN099",
@@ -42,6 +50,22 @@
         {
             "sid": "MP18-EN030",
             "set": "2018 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DF16-JP011",
+            "set": "Duelist Festival 2016 - Promotion Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "17PR-JP006",
+            "set": "Promotion Pack 2017",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +105,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

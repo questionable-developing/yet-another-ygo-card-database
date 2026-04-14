@@ -1,12 +1,14 @@
 {
     "cid": "456fd476-1f25-4b6a-ba3c-c7605f25732b",
-    "yid": null,
+    "yid": 30213599,
     "password": "30213599",
     "kid": 8639,
     "name": "Gravekeeper's Descendant",
     "name_jp": "<ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>はか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>末</rb><rp> (</rp><rt>まつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>裔</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakamori no Matsuei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP028",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP099",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

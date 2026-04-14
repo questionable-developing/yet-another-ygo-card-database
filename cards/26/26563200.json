@@ -1,12 +1,14 @@
 {
     "cid": "b880a05b-2500-45cc-a8c1-d45923bf8fd9",
-    "yid": null,
+    "yid": 26563200,
     "password": "26563200",
     "kid": 10125,
     "name": "Muzurhythm the String Djinn",
     "name_jp": "<ruby lang=\"jp\"><rb>弦</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>ムズムズリズム",
     "name_jp_rom": "Genmajin Muzumuzurizumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Muzumuzurhythm the String Djinn",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ST12-JP040",
+            "set": "Starter Deck 2012",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

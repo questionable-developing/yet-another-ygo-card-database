@@ -1,11 +1,14 @@
 {
     "cid": "6b9ab7b6-308d-482b-988c-d11926b08453",
+    "yid": 68337209,
     "password": "68337209",
     "kid": 20588,
     "name": "Maliss in Underground",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｍ∀ＬＩＣＥ</rb><rp> (</rp><rt>マリス</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ＩＮ</rb><rp> (</rp><rt>イン</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ＵＮＤＥＲＧＲＯＵＮＤ</rb><rp> (</rp><rt>アンダーグラウンド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Marisu In Andāguraundo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "MⱯLICE IN UNDERGROUND",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -29,6 +32,11 @@
             "full": "MalissinUnderground-DBCB-JP-SR.png",
             "art": "MalissinUnderground-MADU-JP-VG-artwork.png"
         },
+        "2": {
+            "idx": "2",
+            "full": "MalissinUnderground-LOCR-JP-UR.png",
+            "art": "MalissinUnderground-OW-2.png"
+        },
         "1.1": {
             "idx": "1.1",
             "full": "MalissinUnderground-MP25-EN-PScR-1E.png",
@@ -50,6 +58,24 @@
             "sid": "MP25-EN127",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBCB-JP021",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP038",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
                 "Prismatic Secret Rare": []
             }
         }
@@ -95,5 +121,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

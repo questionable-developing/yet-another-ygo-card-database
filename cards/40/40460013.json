@@ -1,11 +1,14 @@
 {
     "cid": "109186b1-6e30-4f04-970f-8db72deddecf",
+    "yid": 40460013,
     "password": "40460013",
     "kid": 18031,
     "name": "Zalamander Catalyzer",
     "name_jp": "<ruby lang=\"jp\"><rb>炎魔の触媒</rb><rp> (</rp><rt>ザラマンデル・カタライザー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zaramanderu Kataraizā",
+    "name_jp_rom_base": "Enma no Shokubai",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Flame Demon Catalyst",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP046",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

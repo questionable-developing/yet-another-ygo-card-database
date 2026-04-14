@@ -1,11 +1,14 @@
 {
     "cid": "34e5e82d-608d-40c1-84ec-724b7611b5fb",
+    "yid": 63224564,
     "password": "63224564",
     "kid": 4323,
     "name": "Cyber Shield",
     "name_jp": "サイバー・ボンテージ",
     "name_jp_rom": "Saibā Bontēji",
-    "name_jp_tl": "Cyber Bondage",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Cyber Bontage",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "CyberShield-15AX-JP-MLR.png",
+            "art": "CyberShield-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "CyberShield-LDS2-EN-C-1E.png",
-            "art": null
+            "art": "CyberShield-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "STOR-EN090",
@@ -58,6 +66,30 @@
             "set": "Legendary Duelists: Season 2",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TP12-JP010",
+            "set": "Tournament Pack 2009 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AX-JPM42",
+            "set": "Duelist Road -Piece of Memory- Side: Yugi Muto",
+            "rarities": {
+                "Common": [],
+                "Millennium Rare": []
             }
         }
     ],
@@ -96,5 +128,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

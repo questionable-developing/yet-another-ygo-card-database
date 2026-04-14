@@ -1,11 +1,14 @@
 {
     "cid": "bbdd966c-39b3-4ace-922d-d5d74aae586c",
+    "yid": 40543231,
     "password": "40543231",
     "kid": 21347,
     "name": "Mitsurugi no Mikoto, Aramasa",
-    "name_jp": "<ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>ノ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>尊</rb><rp> (</rp><rt>ミコト</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>麁正</rb><rp> (</rp><rt>アラマサ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>巳剣之尊</rb><rp> (</rp><rt>ミツルギノミコト</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>麁正</rb><rp> (</rp><rt>アラマサ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mitsurugi no Mikoto Aramasa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword Lord, Aramasa",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsuruginoMikotoAramasa-ALIN-EN-SR-1E.png",
+            "full": "MitsuruginoMikotoAramasa-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -43,10 +46,22 @@
             }
         },
         {
-            "sid": "L26D-EN???",
+            "sid": "L26D-ENM06",
             "set": "Legendary Modern Decks 2026",
             "rarities": {
-                "": []
+                "Common": [],
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP031",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -95,5 +110,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

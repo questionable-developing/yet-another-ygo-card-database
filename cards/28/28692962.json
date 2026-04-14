@@ -1,12 +1,14 @@
 {
     "cid": "d7f682d3-0799-493d-b662-b0220d31e03f",
-    "yid": null,
+    "yid": 28692962,
     "password": "28692962",
     "kid": 13390,
     "name": "Mekk-Knight Purple Nightfall",
     "name_jp": "<ruby lang=\"jp\"><rb>紫</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宵</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>機界騎士</rb><rp> (</rp><rt>ジャックナイツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shishō no Jakkunaitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Jack-Knights of the Purple Nightfall",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP020",
+            "set": "Extreme Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD45-JP017",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS2-JP017",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +125,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

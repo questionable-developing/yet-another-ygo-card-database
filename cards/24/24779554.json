@@ -1,12 +1,14 @@
 {
     "cid": "ffe6fdef-5ea6-463b-9599-c2fdad71a3ef",
-    "yid": null,
+    "yid": 24779554,
     "password": "24779554",
     "kid": 20195,
     "name": "Rucia of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のルシア",
     "name_jp_rom": "Shiroki Mori no Rushia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP016",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +115,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

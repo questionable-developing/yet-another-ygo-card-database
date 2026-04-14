@@ -1,12 +1,14 @@
 {
     "cid": "7b5a4af6-070d-49d5-9c0e-841cc4d0e765",
-    "yid": null,
+    "yid": 35544402,
     "password": "35544402",
     "kid": 11575,
     "name": "Constellar Twinkle",
     "name_jp": "ティンクル・セイクリッド",
     "name_jp_rom": "Tinkuru Seikuriddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Twinkle Sacred",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SECE-EN055",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP055",
             "set": "Secrets of Eternity",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

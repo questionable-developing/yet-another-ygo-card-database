@@ -1,12 +1,14 @@
 {
     "cid": "80502293-a58d-4de0-85ed-17b2dbd60463",
-    "yid": null,
+    "yid": 22628574,
     "password": "22628574",
     "kid": 8222,
     "name": "Fake Feather",
     "name_jp": "フェイク・フェザー",
     "name_jp_rom": "Feiku Fezā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FakeFeather-DE03-JP-C.png",
+            "art": "FakeFeather-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FakeFeather-DP11-EN-C-1E.jpg",
-            "art": null
+            "art": "FakeFeather-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RGBT-EN070",
@@ -43,6 +50,29 @@
         {
             "sid": "DP11-EN024",
             "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP070",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP11-JP024",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP152",
+            "set": "Duelist Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

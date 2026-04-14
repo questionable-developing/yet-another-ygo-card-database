@@ -1,12 +1,14 @@
 {
     "cid": "44d279ae-b281-434a-8aa9-17a6ca62378b",
-    "yid": null,
+    "yid": 33746252,
     "password": "33746252",
     "kid": 11063,
     "name": "Majesty's Fiend",
     "name_jp": "<ruby lang=\"jp\"><rb>威光魔人</rb><rp> (</rp><rt>マジェスティー・デビル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majesutī Debiru",
+    "name_jp_rom_base": "Ikō Majin",
     "name_jp_tl": "Majesty Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -73,6 +75,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP034",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +113,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

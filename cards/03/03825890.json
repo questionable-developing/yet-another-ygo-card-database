@@ -1,12 +1,14 @@
 {
     "cid": "f18625b4-a0f7-4fbe-aaa7-6586b10dd0c3",
-    "yid": null,
+    "yid": 3825890,
     "password": "03825890",
     "kid": 8638,
     "name": "Gravekeeper's Visionary",
     "name_jp": "<ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>はか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>官</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakamori no Daishinkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gravekeeper's High Priest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP027",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP098",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

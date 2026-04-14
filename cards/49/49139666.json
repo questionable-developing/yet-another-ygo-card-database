@@ -1,11 +1,14 @@
 {
     "cid": "b352864d-3eb5-4678-816d-2156ee74b49d",
+    "yid": 49139666,
     "password": "49139666",
     "kid": 19484,
     "name": "E Stranger Big Bang",
     "name_jp": "<ruby lang=\"jp\"><rb>異星戦隊</rb><rp> (</rp><rt>エストレンジャー</rt><rp>)</rp></ruby> ビッグ・バン",
     "name_jp_rom": "Esutorenjā Biggu Ban",
+    "name_jp_rom_base": "Isei Sentai Biggu Ban",
     "name_jp_tl": "Estranger Big Bang",
+    "name_jp_tl_base": "Interstellar Squadron Big Bang",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "PHNI-EN028",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP028",
             "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

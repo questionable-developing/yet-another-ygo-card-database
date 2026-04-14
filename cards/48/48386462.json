@@ -1,11 +1,14 @@
 {
     "cid": "4800285d-e4ed-42f9-b727-93631311faa3",
+    "yid": 48386462,
     "password": "48386462",
     "kid": 18818,
     "name": "The Cuckoo Commanded to Croon",
     "name_jp": "<ruby lang=\"jp\"><rb>鳴</rb><rp> (</rp><rt>な</rt><rp>)</rp></ruby>いて<ruby lang=\"jp\"><rb>時鳥</rb><rp> (</rp><rt>ホトトギス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naite Hototogisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Singing Cuckoo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP031",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

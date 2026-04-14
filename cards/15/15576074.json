@@ -1,12 +1,14 @@
 {
     "cid": "250496b3-9897-4232-addf-eaaa08fcdc53",
-    "yid": null,
+    "yid": 15576074,
     "password": "15576074",
     "kid": 9347,
     "name": "Resonator Engine",
     "name_jp": "リゾネーター・エンジン",
     "name_jp_rom": "Rizonētā Enjin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP056",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD46-JP027",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "063985a4-a098-41b7-a52a-f14f6b5e04b6",
+    "yid": 98204536,
     "password": "98204536",
     "kid": 16248,
     "name": "Chronomaly Temple - Trilithon",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産驚神殿</rb><rp> (</rp><rt>オーパーツパレス</rt><rp>)</rp></ruby>－トリリトン",
     "name_jp_rom": "Ōpātsu Paresu - Toririton",
+    "name_jp_rom_base": "Senshi Isan Kyōshinden - Toririton",
     "name_jp_tl": "OOPArts Palace - Trilithon",
+    "name_jp_tl_base": "Prehistoric Heritage Wonder Temple - Trilithon",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DAMA-EN059",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP059",
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

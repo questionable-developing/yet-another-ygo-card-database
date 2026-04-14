@@ -1,11 +1,14 @@
 {
     "cid": "d80f9186-8e4e-48e6-ac5e-5987a14a9bf5",
+    "yid": 89621922,
     "password": "89621922",
     "kid": 6773,
     "name": "Neo-Spacian Flare Scarab",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎ</rb><rp> (</rp><rt>ネオスペーシアン</rt><rp>)</rp></ruby>・フレア・スカラベ",
     "name_jp_rom": "Neosupēshian Furea Sukarabe",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -65,6 +68,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP004",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP03-JP006",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "YSD2-JP017",
+            "set": "Starter Deck 2007",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP004",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +134,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

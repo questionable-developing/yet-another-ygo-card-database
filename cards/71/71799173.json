@@ -1,11 +1,14 @@
 {
     "cid": "0132eec5-ac00-4db4-8ada-310f209bb23c",
+    "yid": 71799173,
     "password": "71799173",
     "kid": 7795,
     "name": "Guardian of Order",
     "name_jp": "ガーディアン・オブ・オーダー",
     "name_jp_rom": "Gādian Obu Ōdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP001",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPL15",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
             "Requires control of specific Attribute",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

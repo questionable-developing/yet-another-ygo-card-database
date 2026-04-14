@@ -1,12 +1,14 @@
 {
     "cid": "9d8b4094-b698-4c0c-b4c3-8dd2a3825977",
-    "yid": null,
+    "yid": 13173832,
     "password": "13173832",
     "kid": 14080,
     "name": "Salamangreat Wolvie",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>ウルヴィー",
     "name_jp_rom": "Saramangureito Uruvī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP003",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +109,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

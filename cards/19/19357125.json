@@ -1,12 +1,14 @@
 {
     "cid": "984a79a1-a46a-46cb-9864-0131e43cc8ab",
-    "yid": null,
+    "yid": 19357125,
     "password": "19357125",
     "kid": 7727,
     "name": "Dark Hunter",
     "name_jp": "ダーク・アサシン",
     "name_jp_rom": "Dāku Asashin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Assassin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP033",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +90,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

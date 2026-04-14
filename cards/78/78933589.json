@@ -1,11 +1,14 @@
 {
     "cid": "009a5861-9bd8-4d3b-a762-a62fc3890257",
+    "yid": 78933589,
     "password": "78933589",
     "kid": 9930,
     "name": "Primordial Soup",
     "name_jp": "<ruby lang=\"jp\"><rb>原</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>初</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>のスープ",
     "name_jp_rom": "Gensho no Sūpu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ORCS-EN056",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP056",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
             "Limited activations",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f396330d-b8b0-4eb2-a051-fca5a12649ee",
+    "yid": 94681654,
     "password": "94681654",
     "kid": 8043,
     "name": "Raptor Wing Strike",
     "name_jp": "フェザー・ウィンド・アタック",
     "name_jp_rom": "Fezā Windo Atakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Feather Wind Attack",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP048",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP11-JP017",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

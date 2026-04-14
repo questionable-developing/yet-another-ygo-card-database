@@ -6,7 +6,9 @@
     "name": "Amatsu-Okami of the Divine Peaks",
     "name_jp": "<ruby lang=\"jp\"><rb>神峰之天津靇</rb><rp> (</rp><rt>シンポウノアマツオカミ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shinpou no Amatsuokami",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +59,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP070",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Extra Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "misc": [
             "Extra Link"
         ]
-    }
+    },
+    "links": {}
 }

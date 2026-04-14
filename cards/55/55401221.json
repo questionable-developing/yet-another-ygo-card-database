@@ -1,11 +1,14 @@
 {
     "cid": "a0826eaf-5097-4d5a-83d1-94ac493d96e2",
+    "yid": 55401221,
     "password": "55401221",
     "kid": 6703,
     "name": "Batteryman D",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>池</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>メン－<ruby lang=\"jp\"><rb>単</rb><rp> (</rp><rt>たん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>型</rb><rp> (</rp><rt>がた</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Denchimen - Tan'ichigata",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP030",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP210",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

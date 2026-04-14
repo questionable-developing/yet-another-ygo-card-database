@@ -1,12 +1,14 @@
 {
     "cid": "502074d1-030a-4a41-b32f-b6bcef2893e5",
-    "yid": null,
+    "yid": 17330916,
     "password": "17330916",
     "kid": 12111,
     "name": "Performapal Monkeyboard",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>モンキーボード",
     "name_jp_rom": "Entameito Monkībōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Monkeyboard",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP003",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP082",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like, Ignition-like, Condition"
@@ -77,7 +97,7 @@
             "Adds from Deck to hand",
             "Activates from your hand",
             "Discards itself for cost",
-            "Reveals your hand for effect"
+            "Reveals cards from your hand"
         ],
         "stat_change": [
             "Changes own Pendulum Scale",
@@ -94,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

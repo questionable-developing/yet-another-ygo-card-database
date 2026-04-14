@@ -1,11 +1,14 @@
 {
     "cid": "9d88b123-83ea-41f3-a99d-8d73d77b8152",
+    "yid": 42425831,
     "password": "42425831",
     "kid": 10101,
     "name": "Sealing Ceremony of Raiton",
     "name_jp": "<ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遁</rb><rp> (</rp><rt>とん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>封</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raiton Fūinshiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sealing Ceremony of Lightning Escape",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GAOV-EN078",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP078",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -74,5 +86,6 @@
             "Limited activations",
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

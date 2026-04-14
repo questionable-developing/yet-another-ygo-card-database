@@ -1,12 +1,14 @@
 {
     "cid": "b8a84f82-d3e1-482d-9ef9-e6c1c41f595d",
-    "yid": null,
+    "yid": 25244515,
     "password": "25244515",
     "kid": 11547,
     "name": "Yosenju Tsujik",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>辻斬風</rb><rp> (</rp><rt>ツジキリカゼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yōsenjū Tsujikirikaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yosenju Passerby-Killing Wind",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "SECE-EN027",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP027",
             "set": "Secrets of Eternity",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

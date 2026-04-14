@@ -1,12 +1,14 @@
 {
     "cid": "cb070db2-8bb0-463f-a3b4-3e631a99d0d6",
-    "yid": null,
+    "yid": 18803791,
     "password": "18803791",
     "kid": 11897,
     "name": "Dark Dragon Ritual",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>降</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>臨</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kokuryū Kōrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Dragon Descent",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "DLCS-EN070",
             "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP019",
+            "set": "Collectors Pack: Duelist of Destiny Version",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +98,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

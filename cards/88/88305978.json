@@ -1,11 +1,14 @@
 {
     "cid": "9986ff9c-a6bd-4b55-a5d0-2cf609dd0e7b",
+    "yid": 88305978,
     "password": "88305978",
     "kid": 9300,
     "name": "Blackwing - Calima the Haze",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＦ</rb><rp> (</rp><rt>ブラックフェザー</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>かげ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>のカーム",
     "name_jp_rom": "Burakku Fezā - Kagerō no Kāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Feather - Calm the Shimmer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP009",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Requires control of no monsters",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

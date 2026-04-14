@@ -1,12 +1,14 @@
 {
     "cid": "1f018161-980f-4424-a063-3115bcb12622",
-    "yid": null,
+    "yid": 21522601,
     "password": "21522601",
     "kid": 14409,
     "name": "Witchcrafter Madame Verre",
     "name_jp": "ウィッチクラフトマスター・ヴェール",
     "name_jp_rom": "Witchikurafuto Masutā Vēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Master Verre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -31,10 +33,15 @@
         "1": {
             "idx": "1",
             "full": "WitchcrafterMadameVerre-MP20-EN-SR-1E.png",
-            "art": null
+            "art": "WitchcrafterMadameVerre-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "WitchcrafterMadameVerre-LOCH-JP-UR.png",
+            "art": "WitchcrafterMadameVerre-OW-2.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "INCH-EN019",
@@ -55,6 +62,32 @@
             "set": "2020 Tin of Lost Memories",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP019",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "AW01-JP002",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": []
+            }
+        },
+        {
+            "sid": "LOCH-JP029",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -80,7 +113,7 @@
         ],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "You discard for cost"
         ],
         "stat_change": [
@@ -94,12 +127,15 @@
         "attack": [],
         "banished": [],
         "life_points": [],
-        "fmat": [],
+        "fmat": [
+            "Witchcrafter Madame Rilliona"
+        ],
         "smat": [],
         "misc": [
             "Requires control of specific Type",
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

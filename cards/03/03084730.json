@@ -1,12 +1,14 @@
 {
     "cid": "ef284dd8-a9a4-4687-a953-c1416d8552e7",
-    "yid": null,
+    "yid": 3084730,
     "password": "03084730",
     "kid": 18159,
     "name": "Bio-Insect Armor",
     "name_jp": "<ruby lang=\"jp\"><rb>昆虫機甲鎧</rb><rp> (</rp><rt>バイオインセクトアーマー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Baio Insekuto Āmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Insect Machine Armor",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP24-EN311",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP014",
+            "set": "Photon Hypernova",
             "rarities": {
                 "Common": []
             }
@@ -95,5 +106,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

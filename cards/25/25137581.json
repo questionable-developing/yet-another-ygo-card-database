@@ -1,12 +1,14 @@
 {
     "cid": "ccb7768c-a798-44c5-a118-1e86171e3d23",
-    "yid": null,
+    "yid": 25137581,
     "password": "25137581",
     "kid": 18175,
     "name": "Sneaky \"C\"",
     "name_jp": "<ruby lang=\"jp\"><rb>潜</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>伏</rb><rp> (</rp><rt>ぷく</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>Ｇ</rb><rp> (</rp><rt>ジー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senpukusuru Jī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hiding G",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP030",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

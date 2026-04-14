@@ -1,12 +1,14 @@
 {
     "cid": "75c30048-76f0-45b6-9bb9-2fdf828caf0b",
-    "yid": null,
+    "yid": 26866984,
     "password": "26866984",
     "kid": 15018,
     "name": "Trias Hierarchia",
     "name_jp": "トリアス・ヒエラルキア",
     "name_jp_rom": "Toriasu Hierarukia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP032",
+            "set": "Eternity Code",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP407",
+            "set": "Tournament Pack 2022 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25WP-JP201",
+            "set": "Winner's Pack 2025 Vol.2",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +126,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

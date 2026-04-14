@@ -1,12 +1,14 @@
 {
     "cid": "98d0537c-7d9d-4760-a43b-388dafda23db",
-    "yid": null,
+    "yid": 33767325,
     "password": "33767325",
     "kid": 5216,
     "name": "Meteor of Destruction",
     "name_jp": "デス・メテオ",
     "name_jp_rom": "Desu Meteo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death Meteor",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -63,6 +65,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP041",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD3-JP026",
+            "set": "Structure Deck: Blaze of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP161",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DB12-JP027",
+            "set": "Duelist Box 2012",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

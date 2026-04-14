@@ -1,12 +1,14 @@
 {
     "cid": "1198a4b3-7e5a-4683-b2e4-2041ca9eafff",
-    "yid": null,
+    "yid": 26285557,
     "password": "26285557",
     "kid": 13610,
     "name": "Gouki Face Turn",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>フェイスターン",
     "name_jp_rom": "Gōki Feisu Tān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Face Turn",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP056",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

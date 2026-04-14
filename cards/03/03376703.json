@@ -1,12 +1,14 @@
 {
     "cid": "df8d8a96-19a0-4222-b248-fdd53cd2f5a7",
-    "yid": null,
+    "yid": 3376703,
     "password": "03376703",
     "kid": 20743,
     "name": "Arcana Force V - The Hierophant",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>Ⅴ</rb><rp> (</rp><rt>ファイブ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＨＩＥＲＯＰＨＡＮＴ</rb><rp> (</rp><rt>ザ・ハイエロファント</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Faibu - Za Haierofanto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "SUDA-EN004",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP004",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -87,5 +98,6 @@
         "misc": [
             "Coin toss"
         ]
-    }
+    },
+    "links": {}
 }

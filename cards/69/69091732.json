@@ -1,11 +1,14 @@
 {
     "cid": "ea899e8a-7fbe-4556-baf8-e3caa45223b3",
+    "yid": 69091732,
     "password": "69091732",
     "kid": 7135,
     "name": "Introduction to Gallantry",
     "name_jp": "<ruby lang=\"jp\"><rb>義</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>賊</rb><rp> (</rp><rt>ぞく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>入</rb><rp> (</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>門</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gizoku no Nyūmonsho",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Introduction Manual of the Chivalrous Thief",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP053",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP154",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

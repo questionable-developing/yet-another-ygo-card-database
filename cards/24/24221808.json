@@ -1,12 +1,14 @@
 {
     "cid": "34b86c90-975d-4b9b-8910-0d418e6e245d",
-    "yid": null,
+    "yid": 24221808,
     "password": "24221808",
     "kid": 9515,
     "name": "Overmind Archfiend",
     "name_jp": "メンタルオーバー・デーモン",
     "name_jp_rom": "Mentaru Ōbā Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mental Over Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +48,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP044",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,7 +84,7 @@
             "Requires Type specific Tuner Synchro Materials",
             "Requires Type specific non-Tuner Synchro Materials",
             "2 or more non-Tuner Synchro Materials",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -84,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

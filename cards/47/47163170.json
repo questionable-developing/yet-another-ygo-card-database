@@ -1,11 +1,14 @@
 {
     "cid": "2eb624b6-82d0-4330-9249-5204c0134478",
+    "yid": 47163170,
     "password": "47163170",
     "kid": 16005,
     "name": "Tri-Brigade Bearbrumm the Rampant Rampager",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣戦線</rb><rp> (</rp><rt>トライブリゲード</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>塊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>のベアブルム",
     "name_jp_rom": "Toraiburigēdo Kaigeki no Beaburumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tri-Brigade Bearbrumm the Heavy Hitter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP044",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP068",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,7 +105,7 @@
         "summoning": [
             "2 Link Materials",
             "Requires archetype specific Link Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Restricts the player's Special Summons to archetype specific monsters"
         ],
         "attack": [],
@@ -97,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

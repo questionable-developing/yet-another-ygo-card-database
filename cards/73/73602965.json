@@ -1,11 +1,14 @@
 {
     "cid": "dfb2d50b-fdad-482d-8a64-a0898c522713",
+    "yid": 73602965,
     "password": "73602965",
     "kid": 19159,
     "name": "Arias the Labrynth Butler",
     "name_jp": "<ruby lang=\"jp\"><rb>白銀の城の執事</rb><rp> (</rp><rt>ラビュリンス・バトラー</rt><rp>)</rp></ruby> アリアス",
     "name_jp_rom": "Rabyurinsu Batorā Ariasu",
+    "name_jp_rom_base": "Shirogane no Shiro no Shitsuji Ariasu",
     "name_jp_tl": "Labrynth Butler Arias",
+    "name_jp_tl_base": "Arias the Silver Castle Butler",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "AriastheLabrynthButler-MP24-EN-PScR-1E.png",
+            "full": "AriastheLabrynthButler-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -48,6 +51,38 @@
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN028",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP017",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JP017",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -95,5 +130,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

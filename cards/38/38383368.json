@@ -1,11 +1,14 @@
 {
     "cid": "c06d951e-0f67-4244-8dfe-833e6436dbe6",
+    "yid": 38383368,
     "password": "38383368",
     "kid": 14108,
     "name": "Extraceratops",
     "name_jp": "エキストラケアトップス",
     "name_jp_rom": "Ekisutorakeatoppusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP031",
+            "set": "Savage Strike",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

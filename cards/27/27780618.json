@@ -1,12 +1,14 @@
 {
     "cid": "360bda7e-cb69-4c39-8686-c9338443d1e3",
-    "yid": null,
+    "yid": 27780618,
     "password": "27780618",
     "kid": 9229,
     "name": "Vision HERO Vyon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｖ・ＨＥＲＯ</rb><rp> (</rp><rt>ヴィジョンヒーロー</rt><rp>)</rp></ruby> ヴァイオン",
     "name_jp_rom": "Vijon Hīrō Vaion",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -72,6 +74,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP19-JP018",
+            "set": "Premium Pack 19",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP025",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP040",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP035",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +149,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

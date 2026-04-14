@@ -1,11 +1,14 @@
 {
     "cid": "df8c0c20-9283-4d3e-84bc-c91050dd5fa3",
+    "yid": 64373401,
     "password": "64373401",
     "kid": 11528,
     "name": "Superheavy Samurai Trumpeter",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>ホラガ－<ruby lang=\"jp\"><rb>Ｅ</rb><rp> (</rp><rt>イー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōjūmusha Horaga-Ī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superheavy Samurai Horaga-E",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +69,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP008",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +115,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

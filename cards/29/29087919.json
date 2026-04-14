@@ -1,12 +1,14 @@
 {
     "cid": "bb30bbcd-e779-4aa3-8648-b2b6ce38d8f9",
-    "yid": null,
+    "yid": 29087919,
     "password": "29087919",
     "kid": 11870,
     "name": "Geargia Change",
     "name_jp": "ギアギアチェンジ",
     "name_jp_rom": "Giagiachenji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP086",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

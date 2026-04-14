@@ -1,11 +1,14 @@
 {
     "cid": "f1619be0-2b00-4197-9a5c-d0c127d99d59",
+    "yid": 43061293,
     "password": "43061293",
     "kid": 6438,
     "name": "Fire Darts",
     "name_jp": "ファイアーダーツ",
     "name_jp_rom": "Faiādātsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +44,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP049",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP049",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +88,6 @@
             "Die roll",
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

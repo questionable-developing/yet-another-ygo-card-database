@@ -1,11 +1,14 @@
 {
     "cid": "f9e65c37-5a38-43ee-bf00-38d8489fb995",
+    "yid": 88540324,
     "password": "88540324",
     "kid": 14245,
     "name": "Salamangreat Claw",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣の烈爪</rb><rp> (</rp><rt>サラマングレイト・クロー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saramangureito Kurō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SDSB-EN024",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD35-JP024",
             "set": "Structure Deck: Soulburner",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Equips only to a specific target",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

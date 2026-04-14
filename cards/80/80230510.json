@@ -1,11 +1,14 @@
 {
     "cid": "3eb0c836-f174-4bc5-9d16-9e63d5e24003",
+    "yid": 80230510,
     "password": "80230510",
     "kid": 12571,
     "name": "Tribute Burial",
     "name_jp": "<ruby lang=\"jp\"><rb>埋</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>葬</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>されし<ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>け<ruby lang=\"jp\"><rb>贄</rb><rp> (</rp><rt>にえ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Maisōsareshi Ikenie",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP17-JP009",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "PGB1-JP043",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

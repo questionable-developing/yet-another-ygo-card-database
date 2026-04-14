@@ -1,11 +1,14 @@
 {
     "cid": "6de84740-1935-4c8b-a887-e635ad310075",
+    "yid": 53701259,
     "password": "53701259",
     "kid": 15143,
     "name": "Awakening of the Sacred Beasts",
     "name_jp": "<ruby lang=\"jp\"><rb>覚</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>醒</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>三</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kakusei no Sangenma",
-    "name_jp_tl": "Awakening of the Three Phantasms",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "The Awakened Three Phantasms",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD38-JP035",
+            "set": "Structure Deck: Sacred Beasts of Chaos",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,7 +74,8 @@
         ],
         "asup": [],
         "arc": [
-            "Phantasm"
+            "Phantasm",
+            "Sacred Beast (archetype)"
         ],
         "suparc": [],
         "asuparc": [],
@@ -91,5 +104,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

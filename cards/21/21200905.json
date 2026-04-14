@@ -1,12 +1,14 @@
 {
     "cid": "bc2e4f92-3ede-45ae-bb19-d53860896371",
-    "yid": null,
+    "yid": 21200905,
     "password": "21200905",
     "kid": 13505,
     "name": "Aromaseraphy Jasmine",
     "name_jp": "アロマセラフィ－ジャスミン",
     "name_jp_rom": "Aromaserafi - Jasumin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -56,6 +58,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP076",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP166",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +119,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

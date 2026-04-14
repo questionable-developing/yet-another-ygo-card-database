@@ -1,11 +1,14 @@
 {
     "cid": "dc563e30-2cc0-4b3b-a979-5fa4349e0cb4",
+    "yid": 79979666,
     "password": "79979666",
     "kid": 6393,
     "name": "Elemental HERO Bubbleman",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> バブルマン",
     "name_jp_rom": "Erementaru Hīrō Baburuman",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -87,6 +90,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP014",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP1-JP009",
+            "set": "Duelist Pack: Jaden Yuki",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP014",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD27-JP012",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LPG1-JP016",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -129,5 +169,6 @@
             "Requires control of no other monsters",
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

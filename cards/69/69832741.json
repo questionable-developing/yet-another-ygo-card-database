@@ -1,11 +1,14 @@
 {
     "cid": "3fb35583-4127-47b5-9dd9-0fe52d5e7c30",
+    "yid": 69832741,
     "password": "69832741",
     "kid": 5280,
     "name": "Spirit Elimination",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>消</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reikon Shōmetsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LN-51",
+            "set": "Labyrinth of Nightmare (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL3-134",
+            "set": "Duelist Legacy Volume.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,5 +86,6 @@
         "misc": [
             "Turn limited effects"
         ]
-    }
+    },
+    "links": {}
 }

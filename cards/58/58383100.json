@@ -1,11 +1,14 @@
 {
     "cid": "b61a4548-b74b-40de-a554-6dcce0188e62",
+    "yid": 58383100,
     "password": "58383100",
     "kid": 12601,
     "name": "Cipher Mirror Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>光波鏡騎士</rb><rp> (</rp><rt>サイファー・ミラーナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saifā Mirānaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Lightwave Mirror Knight",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP011",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

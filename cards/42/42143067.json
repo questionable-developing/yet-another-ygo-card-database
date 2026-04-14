@@ -1,11 +1,14 @@
 {
     "cid": "d1e40fb3-b90a-4886-8912-8cb4335f06a8",
+    "yid": 42143067,
     "password": "42143067",
     "kid": 12622,
     "name": "Doki Doki",
     "name_jp": "<ruby lang=\"jp\"><rb>怒</rb><rp> (</rp><rt>ど</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>土</rb><rp> (</rp><rt>ど</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doki Doki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Angry Earthenware",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP032",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBSS-JP037",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

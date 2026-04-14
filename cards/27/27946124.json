@@ -1,12 +1,14 @@
 {
     "cid": "51eaa3a4-ed9e-4167-afa9-39b2cd4c357c",
-    "yid": null,
+    "yid": 27946124,
     "password": "27946124",
     "kid": 15868,
     "name": "Sunvine Shrine",
     "name_jp": "<ruby lang=\"jp\"><rb>聖蔓の社</rb><rp> (</rp><rt>サンヴァイン・シュライン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sanvain Shurain",
+    "name_jp_rom_base": null,
     "name_jp_tl": "San Vine Shrine",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Ghosts From the Past (set)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP038",
+            "set": "Selection 10",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -85,5 +96,6 @@
             "Requires control of specific Monster card type",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

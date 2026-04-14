@@ -1,11 +1,14 @@
 {
     "cid": "57e1f287-a04a-4283-8adb-abe23d3a95ac",
+    "yid": 43892408,
     "password": "43892408",
     "kid": 11151,
     "name": "Dark Magician Girl the Dragon Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ブラック・マジシャン・ガール",
     "name_jp_rom": "Ryūkishi Burakku Majishan Gāru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Magician Girl the Dragon Knight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -78,6 +81,51 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP004",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP020",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Premium Gold Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP023",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP020",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP014",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,7 +147,8 @@
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "Legendary Dragon"
+            "Legendary Dragon",
+            "Timaeus (series)"
         ],
         "counter": [],
         "action": [
@@ -128,5 +177,6 @@
             "Limited activations",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f232ae52-d0be-497d-af81-c67865dce3c1",
+    "yid": 40633084,
     "password": "40633084",
     "kid": 16946,
     "name": "Beetrooper Squad",
     "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫歩兵分隊</rb><rp> (</rp><rt>ビートルーパー・スクワッド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bītorūpā Sukuwaddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP014",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

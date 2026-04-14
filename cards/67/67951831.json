@@ -1,11 +1,14 @@
 {
     "cid": "45a403ab-7efb-4d1c-b1d2-0d49de36209d",
+    "yid": 67951831,
     "password": "67951831",
     "kid": 6571,
     "name": "Hero Heart",
     "name_jp": "ヒーローハート",
     "name_jp_rom": "Hīrō Hāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP037",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP157",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

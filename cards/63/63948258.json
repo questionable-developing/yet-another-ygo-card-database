@@ -1,11 +1,14 @@
 {
     "cid": "560e5bf3-ccef-4d6d-a4ea-02a7ded9be4e",
+    "yid": 63948258,
     "password": "63948258",
     "kid": 8145,
     "name": "Submarine Frog",
     "name_jp": "<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>知</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>ガエル",
     "name_jp_rom": "Michigaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Unknown Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP038",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

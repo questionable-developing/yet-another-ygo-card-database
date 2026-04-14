@@ -1,11 +1,14 @@
 {
     "cid": "636f3580-a34a-448b-9b0e-9f2a226483e9",
+    "yid": 60226558,
     "password": "60226558",
     "kid": 11579,
     "name": "Nephe Shaddoll Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>魂写しの同化</rb><rp> (</rp><rt>ネフェシャドール・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nefeshadōru Fyūjon",
+    "name_jp_rom_base": "Konshashi no Dōka",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Assimilation of a Soul Duplicate",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP059",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD37-JP025",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
             "Equips only to a specific target",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

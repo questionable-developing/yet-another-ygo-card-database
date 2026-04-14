@@ -1,12 +1,14 @@
 {
     "cid": "f9fd5f3a-15af-4cbb-ac8b-929bff0ddb4f",
-    "yid": null,
+    "yid": 10860121,
     "password": "10860121",
     "kid": 10987,
     "name": "Bujingi Pavo",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－イオツミ",
     "name_jp_rom": "Bujingi - Iotsumi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujingi Iotsumi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP024",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

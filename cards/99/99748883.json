@@ -1,11 +1,14 @@
 {
     "cid": "e88fa601-fe01-4343-9d48-65e39f63081d",
+    "yid": 99748883,
     "password": "99748883",
     "kid": 18174,
     "name": "Meteor Rush - Monochroid",
     "name_jp": "<ruby lang=\"jp\"><rb>流星連打</rb><rp> (</rp><rt>メテオラッシュ</rt><rp>)</rp></ruby>－シロクロイド",
     "name_jp_rom": "Meteorasshu - Shirokuroido",
+    "name_jp_rom_base": "Ryūseirenda - Shirokuroido",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Meteor Barrage - Monochroid",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP029",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

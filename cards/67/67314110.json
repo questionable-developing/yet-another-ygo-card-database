@@ -1,11 +1,14 @@
 {
     "cid": "94b68a4f-5316-43fc-bb75-690ef3b4c524",
+    "yid": 67314110,
     "password": "67314110",
     "kid": 15969,
     "name": "Amazement Attendant Comica",
     "name_jp": "<ruby lang=\"jp\"><rb>驚楽園の案内人</rb><rp> (</rp><rt>アメイズメント・アテンダント</rt><rp>)</rp></ruby> ＜<ruby lang=\"jp\"><rb>Ｃｏｍｉｃａ</rb><rp> (</rp><rt>コミカ</rt><rp>)</rp></ruby>＞",
     "name_jp_rom": "Ameizumento Atendanto <Komika>",
+    "name_jp_rom_base": "Kyōrakuen no An'nainin <Komika>",
     "name_jp_tl": "Amazement Attendant <Comica>",
+    "name_jp_tl_base": "Amazing Paradise Guide <Comica>",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -40,6 +43,25 @@
             "set": "Lightning Overdrive",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP008",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP008",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -80,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

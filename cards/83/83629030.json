@@ -1,11 +1,14 @@
 {
     "cid": "2609a1c1-60d0-4d6d-96e0-bd94bf472d2a",
+    "yid": 83629030,
     "password": "83629030",
     "kid": 11827,
     "name": "Toon Cyber Dragon",
     "name_jp": "トゥーン・サイバー・ドラゴン",
     "name_jp_rom": "Tūn Saibā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP043",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
             "Requires control of no monsters",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

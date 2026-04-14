@@ -1,11 +1,14 @@
 {
     "cid": "82351b51-5c0e-4218-af9f-c18dd7ef0691",
+    "yid": 65952776,
     "password": "65952776",
     "kid": 16753,
     "name": "Dunnell, the Noble Arms of Light",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>ダンネル",
     "name_jp_rom": "Hikari no Seiken Danneru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dunnell, the Holy Sword of Light",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP030",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +107,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

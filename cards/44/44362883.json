@@ -1,11 +1,14 @@
 {
     "cid": "ef838786-15c9-4b2c-9f4d-c72be1d1badd",
+    "yid": 44362883,
     "password": "44362883",
     "kid": 17066,
     "name": "Branded Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakuin Yūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD43-JP021",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP101",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP020",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +134,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

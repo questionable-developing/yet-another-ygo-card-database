@@ -1,11 +1,14 @@
 {
     "cid": "1d962870-3dd1-4b4f-8df8-2d86ded542e2",
+    "yid": 86489182,
     "password": "86489182",
     "kid": 7612,
     "name": "Simorgh, Bird of Ancestry",
     "name_jp": "<ruby lang=\"jp\"><rb>始</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>祖</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>シムルグ",
     "name_jp_rom": "Shiso Shinchō Shimurugu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Simorgh, Divine Bird of Ancestry",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LODT-EN039",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP039",
             "set": "Light of Destruction",
             "rarities": {
                 "Rare": []
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

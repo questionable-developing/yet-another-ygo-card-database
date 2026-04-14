@@ -1,11 +1,14 @@
 {
     "cid": "900fcdb3-d565-4327-a56d-a999707a76fa",
+    "yid": 88236094,
     "password": "88236094",
     "kid": 6026,
     "name": "Aswan Apparition",
     "name_jp": "アスワンの<ruby lang=\"jp\"><rb>亡</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Asuwan no Bōrei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-009",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "309-009",
+            "set": "Pharaoh's Inheritance: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE2-JP177",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2f815b7f-9be3-45a8-b46c-f808c5690040",
-    "yid": null,
+    "yid": 34680482,
     "password": "34680482",
     "kid": 11057,
     "name": "Madolche Anjelly",
     "name_jp": "マドルチェ・エンジェリー",
     "name_jp_rom": "Madoruche Enjerī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +68,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP028",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP1-JP045",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP149",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +133,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

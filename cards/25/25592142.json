@@ -1,12 +1,14 @@
 {
     "cid": "0d605455-461f-439c-94e5-ad7d173e7fa4",
-    "yid": null,
+    "yid": 25592142,
     "password": "25592142",
     "kid": 20192,
     "name": "Astellar of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のアステーリャ",
     "name_jp_rom": "Shiroki Mori no Asutērya",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Asteria of the White Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -35,25 +37,61 @@
         },
         "2": {
             "idx": "2",
-            "full": "AstellaroftheWhiteForest-LPST-JP-OP.png",
+            "full": "AstellaroftheWhiteForest-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "INFO-EN013",
             "set": "The Infinite Forbidden",
             "rarities": {
-                "Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "MP25-EN079",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN100",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP013",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "INFO-JP013",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP018",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -99,5 +137,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

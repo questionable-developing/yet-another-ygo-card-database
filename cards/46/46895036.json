@@ -1,11 +1,14 @@
 {
     "cid": "151ee453-0376-46a0-bba3-88e0c1839459",
+    "yid": 46895036,
     "password": "46895036",
     "kid": 10939,
     "name": "Ghostrick Dullahan",
     "name_jp": "ゴーストリック・デュラハン",
     "name_jp_rom": "Gōsutorikku Dyurahan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP053",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP034",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +117,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

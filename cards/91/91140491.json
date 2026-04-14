@@ -1,11 +1,14 @@
 {
     "cid": "da854faf-70cd-4d0c-8015-2f08ddd4247c",
+    "yid": 91140491,
     "password": "91140491",
     "kid": 14677,
     "name": "Seraphim Papillion",
     "name_jp": "<ruby lang=\"jp\"><rb>熾天蝶</rb><rp> (</rp><rt>セラフィム・パピヨン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Serafimu Papiyon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP050",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

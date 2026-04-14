@@ -1,11 +1,14 @@
 {
     "cid": "82197275-d0b7-441f-9fe6-2bc5683aabcc",
+    "yid": 79206750,
     "password": "79206750",
     "kid": 10434,
     "name": "Abyss-scorn",
     "name_jp": "アビスコーン",
     "name_jp_rom": "Abisukōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Abysscorn",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Abyssscorn-CBLZ-JP-C.png",
+            "art": "Abyssscorn-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Abyssscorn-CBLZ-EN-C-1E.png",
-            "art": null
+            "art": "Abyssscorn-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CBLZ-EN075",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP075",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Common": []
@@ -74,5 +91,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

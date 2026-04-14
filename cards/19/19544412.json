@@ -1,12 +1,14 @@
 {
     "cid": "a9183002-5d76-45f8-ac91-d16540ef35d8",
-    "yid": null,
+    "yid": 19544412,
     "password": "19544412",
     "kid": 19037,
     "name": "Ring Announcer",
     "name_jp": "<ruby lang=\"jp\"><rb>選</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>入</rb><rp> (</rp><rt>にゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>場</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>アナウンス",
     "name_jp_rom": "Senshu Nyūjō Anaunsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Player Entrance Announcement",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Maze of Millennia",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC03-JP016",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -79,5 +90,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

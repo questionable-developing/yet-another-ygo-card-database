@@ -1,11 +1,14 @@
 {
     "cid": "e9178916-a3d0-4a04-93f5-79af68f03114",
+    "yid": 97273514,
     "password": "97273514",
     "kid": 13495,
     "name": "Inzektor Picofalena",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ピコファレーナ",
     "name_jp_rom": "Inzekutā Pikofarēna",
+    "name_jp_rom_base": "Kōchūsōki Pikofarēna",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Picofalena",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -68,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP026",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP310",
+            "set": "Tournament Pack 2022 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +131,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

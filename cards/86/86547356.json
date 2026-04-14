@@ -1,11 +1,14 @@
 {
     "cid": "cf648713-2aaa-450d-81d6-e4c78adc8e18",
+    "yid": 86547356,
     "password": "86547356",
     "kid": 15539,
     "name": "Infernity Paranoia",
     "name_jp": "インフェルニティ・パラノイア",
     "name_jp_rom": "Inferuniti Paranoia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHRA-EN060",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP060",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

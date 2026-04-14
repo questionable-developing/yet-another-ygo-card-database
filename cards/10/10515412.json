@@ -1,12 +1,14 @@
 {
     "cid": "e5faa1b6-f0e6-4b9b-9d9e-07315faf359e",
-    "yid": null,
+    "yid": 10515412,
     "password": "10515412",
     "kid": 20780,
     "name": "Lightstorm Dragon",
     "name_jp": "ライトストーム・ドラゴン",
     "name_jp_rom": "Raitosutōmu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -42,6 +44,25 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP043",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP060",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -88,5 +109,6 @@
             "Requires control of specific Monster type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

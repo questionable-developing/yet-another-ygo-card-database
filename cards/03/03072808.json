@@ -1,12 +1,14 @@
 {
     "cid": "40707977-93e8-4af4-9db4-fa1dcb72b512",
-    "yid": null,
+    "yid": 3072808,
     "password": "03072808",
     "kid": 9479,
     "name": "Blackwing - Hillen the Tengu-wind",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＦ</rb><rp> (</rp><rt>ブラックフェザー</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狗</rb><rp> (</rp><rt>ぐ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>のヒレン",
     "name_jp_rom": "Burakku Fezā - Tengukaze no Hiren",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Feather - Hillen the Tengu-wind",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN008",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP008",
             "set": "Extreme Victory",
             "rarities": {
                 "Super Rare": []
@@ -83,5 +94,6 @@
         "misc": [
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

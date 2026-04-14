@@ -1,12 +1,14 @@
 {
     "cid": "d6e193a1-bc32-4a8e-b462-0c8e41f86912",
-    "yid": null,
+    "yid": 31828916,
     "password": "31828916",
     "kid": 8696,
     "name": "Machina Armored Unit",
     "name_jp": "<ruby lang=\"jp\"><rb>機甲部隊の最前線</rb><rp> (</rp><rt>マシンナーズ・フロントライン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mashinnāzu Furontorain",
+    "name_jp_rom_base": "Kikōbutai no Saizensen",
     "name_jp_tl": "Machiners Frontline",
+    "name_jp_tl_base": "Frontline of the Armored Regiment",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD18-JP020",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR10-JP025",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +120,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

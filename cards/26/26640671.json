@@ -1,12 +1,14 @@
 {
     "cid": "f1ec9e93-a9fc-41e9-999f-c895150876f5",
-    "yid": null,
+    "yid": 26640671,
     "password": "26640671",
     "kid": 8665,
     "name": "Spiders' Lair",
     "name_jp": "<ruby lang=\"jp\"><rb>蜘</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛛</rb><rp> (</rp><rt>も</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>領</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kumo no Ryōiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ABPF-EN054",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP054",
             "set": "Absolute Powerforce",
             "rarities": {
                 "Common": []
@@ -75,5 +86,6 @@
             "Requires control of specific Type",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

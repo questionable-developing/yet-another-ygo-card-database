@@ -1,11 +1,14 @@
 {
     "cid": "cc3314bc-87db-45c5-a5af-623f0c2a59cd",
+    "yid": 58421530,
     "password": "58421530",
     "kid": 13517,
     "name": "Tactical Exchanger",
     "name_jp": "タクティカル・エクスチェンバー",
     "name_jp_rom": "Takutikaru Ekusuchenbā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tactical Exchamber",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "DUPO-EN026",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVB1-JP017",
+            "set": "LINK VRAINS Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -72,5 +84,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

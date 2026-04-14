@@ -1,11 +1,14 @@
 {
     "cid": "fc51c3dc-95e3-4bec-a8d6-cad8c8a7edc2",
+    "yid": 54199839,
     "password": "54199839",
     "kid": 13792,
     "name": "Metaphys Ascension",
     "name_jp": "メタファイズ・アセンション",
     "name_jp_rom": "Metafaizu Asenshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CYHO-EN076",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP076",
             "set": "Cybernetic Horizon",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

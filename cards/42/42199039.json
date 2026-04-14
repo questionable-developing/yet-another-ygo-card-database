@@ -1,11 +1,14 @@
 {
     "cid": "c712ccfc-b7c1-4fef-8bc6-0b10c28836e0",
+    "yid": 42199039,
     "password": "42199039",
     "kid": 11400,
     "name": "Cursed Bamboo Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竹</rb><rp> (</rp><rt>たけ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>みつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yōtō Takemitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -44,6 +47,29 @@
             "set": "OTS Tournament Pack 29",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP068",
+            "set": "The New Challengers",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SR09-JP029",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25TP-JP210",
+            "set": "Tournament Pack 2025 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -86,5 +112,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a2e081a0-8f19-49e2-9cee-e8c7ba3f9cc7",
+    "yid": 88789641,
     "password": "88789641",
     "kid": 6149,
     "name": "Hallowed Life Barrier",
     "name_jp": "ホーリーライフバリアー",
     "name_jp_rom": "Hōrī Raifu Bariā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Life Barrier",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,10 +58,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP060",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP060",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Cost, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [],
@@ -85,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

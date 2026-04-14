@@ -1,11 +1,14 @@
 {
     "cid": "e7d961d0-1ffb-44f9-89a3-5151b89e171a",
+    "yid": 99217226,
     "password": "99217226",
     "kid": 20818,
     "name": "Paladins of Bonds and Unity",
     "name_jp": "<ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>束</rb><rp> (</rp><rt>そく</rt><rp>)</rp></ruby>と<ruby lang=\"jp\"><rb>絆</rb><rp> (</rp><rt>きずな</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>超魔導剣士</rb><rp> (</rp><rt>パラディン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kessoku to Kizuna no Paradin",
+    "name_jp_rom_base": "Kessoku to Kizuna no Chōmadōkenshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Super Magical Swordsmen of Bonds and Unity",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "SUDA-EN000",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP000",
             "set": "Supreme Darkness",
             "rarities": {
                 "Quarter Century Secret Rare": []
@@ -88,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

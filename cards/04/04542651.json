@@ -1,12 +1,14 @@
 {
     "cid": "b06caa2c-f61d-4558-81f7-e8cfdf330d00",
-    "yid": null,
+    "yid": 4542651,
     "password": "04542651",
     "kid": 5161,
     "name": "Yellow Luster Shield",
     "name_jp": "カオス・シールド",
     "name_jp_rom": "Kaosu Shīrudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chaos Shield",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "306-037",
+            "set": "Controller of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP037",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

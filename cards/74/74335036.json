@@ -1,11 +1,14 @@
 {
     "cid": "47a8f37d-a637-40d7-815c-a6ae6de53b90",
+    "yid": 74335036,
     "password": "74335036",
     "kid": 11504,
     "name": "Fusion Substitute",
     "name_jp": "<ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>換</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chikan Yūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FusionSubstitute-SD43-JP-C.png",
+            "art": "FusionSubstitute-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FusionSubstitute-SDAZ-EN-C-1E.png",
-            "art": null
+            "art": "FusionSubstitute-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "NECH-EN081",
@@ -63,6 +71,30 @@
         {
             "sid": "SDAZ-EN026",
             "set": "Structure Deck: Albaz Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP063",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPFE-JP041",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP026",
+            "set": "Structure Deck: Alba Strike",
             "rarities": {
                 "Common": []
             }
@@ -111,5 +143,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

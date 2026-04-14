@@ -1,12 +1,14 @@
 {
     "cid": "622b51bc-1d59-4365-9513-7898fceba3ec",
-    "yid": null,
+    "yid": 15397015,
     "password": "15397015",
     "kid": 13405,
     "name": "Inspector Boarder",
     "name_jp": "インスペクト・ボーダー",
     "name_jp_rom": "Insupekuto Bōdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Inspect Boarder",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -71,6 +73,28 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP035",
+            "set": "Extreme Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP011",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +130,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

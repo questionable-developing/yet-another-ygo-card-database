@@ -1,12 +1,14 @@
 {
     "cid": "fbea4fdc-bea6-4eee-9bdc-887c012919b3",
-    "yid": null,
+    "yid": 6836211,
     "password": "06836211",
     "kid": 9654,
     "name": "The Great Emperor Penguin",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>ペンギン",
     "name_jp_rom": "Daikōtei Pengin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP037",
+            "set": "Generation Force",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "AC01-JP045",
+            "set": "Animation Chronicle 2021",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f2b8afbd-3ead-41b9-b775-d2dee89ab2cd",
+    "yid": 75083197,
     "password": "75083197",
     "kid": 16235,
     "name": "Dragonlark Pairen",
     "name_jp": "<ruby lang=\"jp\"><rb>告</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>パイレン",
     "name_jp_rom": "Kōtenshiryū Pairen",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP046",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

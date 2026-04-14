@@ -1,12 +1,14 @@
 {
     "cid": "3e12b115-1f94-4191-8941-cad02337656f",
-    "yid": null,
+    "yid": 1980574,
     "password": "01980574",
     "kid": 14656,
     "name": "Hop Ear Squadron",
     "name_jp": "ホップ・イヤー<ruby lang=\"jp\"><rb>飛</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hoppu Iyā Hikōtai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP029",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP019",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

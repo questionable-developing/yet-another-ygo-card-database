@@ -1,11 +1,14 @@
 {
     "cid": "1b316bbd-08cc-4e57-b695-592dcf92fa09",
+    "yid": 95612049,
     "password": "95612049",
     "kid": 13775,
     "name": "Turning of the World",
     "name_jp": "リバース・オブ・ザ・ワールド",
     "name_jp_rom": "Ribāsu Obu Za Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reverse of the World",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CYHO-EN058",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP058",
             "set": "Cybernetic Horizon",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

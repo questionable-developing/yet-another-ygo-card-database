@@ -1,11 +1,14 @@
 {
     "cid": "4a25e7f4-efc6-4878-a46f-792a209e8306",
+    "yid": 55154048,
     "password": "55154048",
     "kid": 9336,
     "name": "Nordic Relic Draupnir",
     "name_jp": "<ruby lang=\"jp\"><rb>極</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>ドラウプニル",
     "name_jp_rom": "Kyokuseihō Doraupuniru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Polar Star Relic Draupnir",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP045",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

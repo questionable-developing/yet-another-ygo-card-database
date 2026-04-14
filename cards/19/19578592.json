@@ -1,12 +1,14 @@
 {
     "cid": "9c4ca583-32ee-41a6-8411-eb1d20015896",
-    "yid": null,
+    "yid": 19578592,
     "password": "19578592",
     "kid": 9135,
     "name": "Axe of Fools",
     "name_jp": "<ruby lang=\"jp\"><rb>愚</rb><rp> (</rp><rt>ぐ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鈍</rb><rp> (</rp><rt>どん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>斧</rb><rp> (</rp><rt>おの</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gudon no Ono",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP058",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "VS15-JPS19",
+            "set": "Duelist Entry Deck VS",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +108,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

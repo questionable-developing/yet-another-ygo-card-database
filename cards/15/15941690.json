@@ -1,12 +1,14 @@
 {
     "cid": "7d1f0490-4c98-4027-b010-548878c41869",
-    "yid": null,
+    "yid": 15941690,
     "password": "15941690",
     "kid": 10142,
     "name": "Chronomaly Crystal Bones",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>クリスタル・ボーン",
     "name_jp_rom": "Ōpātsu Kurisutaru Bōn",
+    "name_jp_rom_base": "Senshi Isan Kurisutaru Bōn",
     "name_jp_tl": "OOPArts Crystal Bone",
+    "name_jp_tl_base": "Prehistoric Heritage Crystal Bone",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,12 +46,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP012",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Unclassified, Trigger"
         ],
-        "mentions": [],
+        "mentions": [
+            "Chronomaly Crystal Bones"
+        ],
         "sup": [],
         "asup": [],
         "arc": [
@@ -77,5 +90,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

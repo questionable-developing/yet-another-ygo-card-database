@@ -1,11 +1,14 @@
 {
     "cid": "89d162b6-728c-436c-8d44-ef97e3700975",
+    "yid": 77098449,
     "password": "77098449",
     "kid": 9936,
     "name": "Galaxy Wave",
     "name_jp": "ギャラクシー・ウェーブ",
     "name_jp_rom": "Gyarakushī Wēbu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ORCS-EN062",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP062",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

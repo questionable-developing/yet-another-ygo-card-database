@@ -1,12 +1,14 @@
 {
     "cid": "a40fef0b-5e4c-4260-9330-13f9789765dd",
-    "yid": null,
+    "yid": 23776077,
     "password": "23776077",
     "kid": 10408,
     "name": "Hazy Flame Basiltrice",
     "name_jp": "<ruby lang=\"jp\"><rb>陽炎獣</rb><rp> (</rp><rt>ヘイズビースト</rt><rp>)</rp></ruby> バジリコック",
     "name_jp_rom": "Heizu Bīsuto Bajirikokku",
+    "name_jp_rom_base": "Yōenjū Bajirikokku",
     "name_jp_tl": "Haze Beast Basilicock",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "CBLZ-EN049",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP049",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Rare": []
@@ -88,5 +99,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

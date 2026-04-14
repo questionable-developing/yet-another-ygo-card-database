@@ -1,11 +1,14 @@
 {
     "cid": "2cbddd12-1eed-4245-8fc7-0dc934544080",
+    "yid": 84462118,
     "password": "84462118",
     "kid": 17227,
     "name": "Dragonbite",
     "name_jp": "<ruby lang=\"jp\"><rb>竜咬蟲</rb><rp> (</rp><rt>ドラゴンバイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragonbaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Dragonbite Bug",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +44,15 @@
             "set": "Battle of Chaos",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP032",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -83,5 +95,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

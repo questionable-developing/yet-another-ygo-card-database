@@ -1,11 +1,14 @@
 {
     "cid": "00473437-31d0-46d3-ba3d-e90de84c78ec",
+    "yid": 78789356,
     "password": "78789356",
     "kid": 19205,
     "name": "Ogdoadic Daybreak",
     "name_jp": "<ruby lang=\"jp\"><rb>黎</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>溟</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>闢</rb><rp> (</rp><rt>びゃく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reimeikaibyaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Abyssal Dawn of Creation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP24-EN395",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP063",
+            "set": "Age of Overlord",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +100,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

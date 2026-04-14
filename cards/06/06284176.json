@@ -1,12 +1,14 @@
 {
     "cid": "f3029eb4-e1e4-4512-9c15-a35c9c1786c2",
-    "yid": null,
+    "yid": 6284176,
     "password": "06284176",
     "kid": 15117,
     "name": "Kanzashi the Rikka Queen",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>りっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>カンザシ",
     "name_jp_rom": "Rikkasei Kanzashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kanzashi the Snowflower Saint",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -40,6 +42,15 @@
         {
             "sid": "SESL-EN021",
             "set": "Secret Slayers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBSS-JP021",
+            "set": "Deck-Build Pack: Secret Slayers",
             "rarities": {
                 "Super Rare": []
             }
@@ -89,5 +100,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

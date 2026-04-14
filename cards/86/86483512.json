@@ -1,11 +1,14 @@
 {
     "cid": "151d8bda-804e-420b-9f0e-0c4586b98b88",
+    "yid": 86483512,
     "password": "86483512",
     "kid": 15490,
     "name": "Virtual World Roshi - Laolao",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堺</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>悟</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>老</rb><rp> (</rp><rt>ラオ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>々</rb><rp> (</rp><rt>ラオ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dennōkaigo - Raorao",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Virtual World Savant - Laolao",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP011",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f75fb656-08ad-4878-ab42-9bfe65c55297",
+    "yid": 45337544,
     "password": "45337544",
     "kid": 17172,
     "name": "Heroic Envoy",
     "name_jp": "ヒロイック・エンヴォイ",
     "name_jp_rom": "Hiroikku Envoi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Dimension Force",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP061",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -76,5 +88,6 @@
             "Requires specific LP",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

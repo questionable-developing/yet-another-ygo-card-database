@@ -1,11 +1,14 @@
 {
     "cid": "695e7fe2-a504-4ba9-9103-0a458ed1f860",
+    "yid": 91842653,
     "password": "91842653",
     "kid": 4735,
     "name": "Toon Summoned Skull",
     "name_jp": "トゥーン・デーモン",
     "name_jp_rom": "Tūn Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Toon Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -93,6 +96,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-22",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "PE-12",
+            "set": "Structure Deck: Pegasus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-057",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "BE1-JP040",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE01-JP036",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -145,5 +186,6 @@
             "Requires control of specific card",
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

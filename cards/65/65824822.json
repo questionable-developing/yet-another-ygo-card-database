@@ -1,11 +1,14 @@
 {
     "cid": "040b36d2-a43d-4536-b9b7-d535e0902b39",
+    "yid": 65824822,
     "password": "65824822",
     "kid": 6517,
     "name": "Dark Deal",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>取</rb><rp> (</rp><rt>とり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>引</rb><rp> (</rp><rt>ひき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yami no Torihiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deal of Darkness",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP052",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP112",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

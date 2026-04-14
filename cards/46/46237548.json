@@ -1,11 +1,14 @@
 {
     "cid": "295fbf19-e5a3-4d98-9bd5-5ddc3f4eea5c",
+    "yid": 46237548,
     "password": "46237548",
     "kid": 8467,
     "name": "Knight of the Red Lotus",
     "name_jp": "<ruby lang=\"jp\"><rb>紅</rb><rp> (</rp><rt>ぐ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蓮</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gurenmatōshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon Fighter of the Red Lotus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP032",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR09-JP011",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

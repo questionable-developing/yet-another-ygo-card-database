@@ -1,11 +1,14 @@
 {
     "cid": "45652674-f456-48a0-a76b-938cb5f7c55a",
+    "yid": 67768675,
     "password": "67768675",
     "kid": 21432,
     "name": "Kaibaman the Legend",
     "name_jp": "<ruby lang=\"jp\"><rb>正</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>義</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>説</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby> カイバーマン",
     "name_jp_rom": "Seigi no Densetsu Kaibāman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kaibaman the Legend of Justice",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP021",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +104,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

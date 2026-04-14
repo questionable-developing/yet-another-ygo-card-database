@@ -1,11 +1,14 @@
 {
     "cid": "3dd1ff72-97db-4ea6-b281-108b2ddc8c87",
+    "yid": 74615388,
     "password": "74615388",
     "kid": 18192,
     "name": "Laevatein, Generaider Boss of Shadows",
     "name_jp": "<ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>かげ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>ジェネレイド</rt><rp>)</rp></ruby> レイヴァーテイン",
     "name_jp_rom": "Kage no Jenereido Reivātein",
+    "name_jp_rom_base": "Kage no Ō Reivātein",
     "name_jp_tl": "Laevatein, Generaid of Shadows",
+    "name_jp_tl_base": "Laevatein, King of Shadows",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "2+ Level 9 monsters<br />You can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster as material, up to the number of materials this card had.",
+    "desc": "2+ Level 9 monsters<br />You can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster, up to the number of materials this card had.",
     "pend_eff": null,
-    "mnst_eff": "2+ Level 9 monsters\nYou can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster as material, up to the number of materials this card had.",
-    "eff": "2+ Level 9 monsters\nYou can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster as material, up to the number of materials this card had.",
+    "mnst_eff": "2+ Level 9 monsters\nYou can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster, up to the number of materials this card had.",
+    "eff": "2+ Level 9 monsters\nYou can only control 1 \"Laevatein, Generaider Boss of Shadows\". Monsters your opponent controls lose 1000 ATK/DEF. (Quick Effect): You can Tribute this Xyz Summoned card; Special Summon 1 non-Fairy \"Generaider\" Xyz Monster from your Extra Deck, then you can attach cards from any field and/or GYs to that Special Summoned monster, up to the number of materials this card had.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "LaevateinGeneraiderBossofShadows-PHHY-EN-UR-1E.png",
+            "full": "LaevateinGeneraiderBossofShadows-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -41,6 +44,38 @@
             "set": "Photon Hypernova",
             "rarities": {
                 "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN051",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP047",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHHY-JP047",
+            "set": "Photon Hypernova +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -92,5 +127,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

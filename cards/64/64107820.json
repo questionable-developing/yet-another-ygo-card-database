@@ -1,11 +1,14 @@
 {
     "cid": "ccc9740d-adc2-4ad2-b126-e5fa5273193b",
+    "yid": 64107820,
     "password": "64107820",
     "kid": 9673,
     "name": "Future Glow",
     "name_jp": "フューチャー・グロウ",
     "name_jp_rom": "Fyūchā Gurō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP056",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

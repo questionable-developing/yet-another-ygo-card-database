@@ -1,11 +1,14 @@
 {
     "cid": "d30817b7-c016-4dfd-995f-2949ac487b79",
+    "yid": 59687381,
     "password": "59687381",
     "kid": 13105,
     "name": "Defense Zone",
     "name_jp": "ディフェンスゾーン",
     "name_jp_rom": "Difensu Zōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP066",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
         "misc": [
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "ec848598-106a-4c3d-84f7-58d7ecca8523",
-    "yid": null,
+    "yid": 12079734,
     "password": "12079734",
     "kid": 8806,
     "name": "Delta Tri",
     "name_jp": "デルタトライ",
     "name_jp_rom": "Derutatorai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP030",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +102,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

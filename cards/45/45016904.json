@@ -1,11 +1,14 @@
 {
     "cid": "e0d4cd15-e1b4-479d-b285-48cc1712e958",
+    "yid": 45016904,
     "password": "45016904",
     "kid": 21797,
     "name": "Tao Tao the Chanter",
     "name_jp": "<ruby lang=\"jp\"><rb>陰</rb><rp> (</rp><rt>おん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>みょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> タオタオ",
     "name_jp_rom": "Onmyōshi Taotao",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tao Tao the Exorcist",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DOOD-EN031",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP031",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

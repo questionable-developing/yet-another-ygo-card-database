@@ -1,11 +1,14 @@
 {
     "cid": "4f11634b-8118-43e3-94dd-e685ecfa8d2e",
+    "yid": 45171524,
     "password": "45171524",
     "kid": 21058,
     "name": "Mitsurugi Prayers",
-    "name_jp": "<ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>勧請</rb><rp> (</rp><rt>カンジョウ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>巳剣勧請</rb><rp> (</rp><rt>ミツルギカンジョウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mitsurugi Kanjou",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword Prayers",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsurugiPrayers-SUDA-EN-C-1E.png",
+            "full": "MitsurugiPrayers-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -44,6 +47,26 @@
             "set": "OTS Tournament Pack 29",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENM14",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP038",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -91,5 +114,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

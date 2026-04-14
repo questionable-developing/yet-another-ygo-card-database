@@ -1,11 +1,14 @@
 {
     "cid": "a8a28672-084c-4029-bd85-0a0a22aaf961",
+    "yid": 39964797,
     "password": "39964797",
     "kid": 12634,
     "name": "Crystron Quandax",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－クオンダム",
     "name_jp_rom": "Kurisutoron - Kuondamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crystron - Quandam",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP044",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP092",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +112,6 @@
             "Once per Chain",
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

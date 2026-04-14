@@ -1,11 +1,14 @@
 {
     "cid": "29007533-90dc-4789-a5b8-d2cb83dd0d34",
+    "yid": 82633039,
     "password": "82633039",
     "kid": 11263,
     "name": "Castel, the Skyblaster Musketeer",
     "name_jp": "<ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>銃</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>カステル",
     "name_jp_rom": "Chōjūshi Kasuteru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Castel, the Avian Musketeer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -106,6 +109,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP054",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP094",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBGC-JP040",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "24EP-JP406",
+            "set": "Event Pack 2024 Vol.4",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -141,5 +176,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

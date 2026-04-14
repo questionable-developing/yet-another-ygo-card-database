@@ -1,11 +1,14 @@
 {
     "cid": "a00351df-25c6-4aa0-804f-1913e227feff",
+    "yid": 84677654,
     "password": "84677654",
     "kid": 10811,
     "name": "BIG Win!?",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>ぼし</rt><rp>)</rp></ruby>！？",
     "name_jp_rom": "Daikinboshi!?",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BIGWin-SHSP-JP-NR.png",
+            "art": "BIGWin-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BIGWin-SHSP-EN-SP-1E.png",
-            "art": null
+            "art": "BIGWin-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHSP-EN080",
             "set": "Shadow Specters",
             "rarities": {
                 "Short Print": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP080",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -71,5 +88,6 @@
         "misc": [
             "Coin toss"
         ]
-    }
+    },
+    "links": {}
 }

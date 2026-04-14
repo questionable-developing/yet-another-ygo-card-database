@@ -1,12 +1,14 @@
 {
     "cid": "ca6de453-786e-412e-bc6a-4ffd0ad0354e",
-    "yid": null,
+    "yid": 12215894,
     "password": "12215894",
     "kid": 12340,
     "name": "Deskbot Base",
     "name_jp": "ブンボーグ・ベース",
     "name_jp_rom": "Bunbōgu Bēsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bunborg Base",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP068",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +79,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Returns from your hand to your Deck",
             "You draw cards",
             "Returns from your opponent's field to your opponent's Deck",
@@ -92,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

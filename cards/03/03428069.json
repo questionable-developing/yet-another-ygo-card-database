@@ -1,12 +1,14 @@
 {
     "cid": "c545df1f-59a5-4c0d-a92f-7410f3c8e47a",
-    "yid": null,
+    "yid": 3428069,
     "password": "03428069",
     "kid": 12126,
     "name": "Buster Blader, the Destruction Swordmaster",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>て</rt><rp>)</rp></ruby>－バスター・ブレイダー",
     "name_jp_rom": "Hakaiken no Tsukaite - Basutā Bureidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -65,6 +67,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP018",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP009",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +126,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

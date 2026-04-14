@@ -1,12 +1,14 @@
 {
     "cid": "8bb69bc3-488b-42c8-ac58-861c407535c9",
-    "yid": null,
+    "yid": 34884015,
     "password": "34884015",
     "kid": 14225,
     "name": "Soul Pendulum",
     "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>のペンデュラム",
     "name_jp_rom": "Tamashī no Pendyuramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "DUPO-EN013",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "20TH-JPB27",
+            "set": "20th Anniversary Duelist Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -81,5 +92,6 @@
             "Only once per turn",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

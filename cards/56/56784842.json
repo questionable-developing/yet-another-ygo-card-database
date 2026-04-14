@@ -1,11 +1,14 @@
 {
     "cid": "602199ae-b649-4071-a6ed-77102fa51dd9",
+    "yid": 56784842,
     "password": "56784842",
     "kid": 7035,
     "name": "Angel O7",
     "name_jp": "エンジェル<ruby lang=\"jp\"><rb>Ｏ</rb><rp> (</rp><rt>オー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>７</rb><rp> (</rp><rt>セブン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Enjeru Ō Sebun",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "AngelO7-YR04-JP-UR.png",
+            "art": "AngelO7-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "AngelO7-SBCB-EN-C-1E.png",
-            "art": null
+            "art": "AngelO7-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LODT-EN092",
@@ -47,6 +55,15 @@
             "set": "Speed Duel: Battle City Box",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "YR04-JP001",
+            "set": "Yu-Gi-Oh! R Volume 4 promotional card",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -75,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

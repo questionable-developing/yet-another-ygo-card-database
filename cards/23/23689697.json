@@ -1,12 +1,14 @@
 {
     "cid": "0bbf78f8-eb5f-4f2f-bab3-62c27374c772",
-    "yid": null,
+    "yid": 23689697,
     "password": "23689697",
     "kid": 10926,
     "name": "Mobius the Mega Monarch",
     "name_jp": "<ruby lang=\"jp\"><rb>凍</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>メビウス",
     "name_jp_rom": "Tōhyōtei Mebiusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Möbius the Frigid Ice Monarch",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -60,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP040",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

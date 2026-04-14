@@ -1,11 +1,14 @@
 {
     "cid": "8259e710-6b53-48d4-b2da-d620848bfa8c",
+    "yid": 60514625,
     "password": "60514625",
     "kid": 16415,
     "name": "Ecole de Zone",
     "name_jp": "エコール・ド・ゾーン",
     "name_jp_rom": "Ekōru Do Zōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,16 @@
             "set": "Brothers of Legend",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC01-JP021",
+            "set": "Animation Chronicle 2021",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
             }
         }
     ],
@@ -82,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

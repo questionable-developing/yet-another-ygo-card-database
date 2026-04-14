@@ -1,11 +1,14 @@
 {
     "cid": "b85c6f96-2a29-495d-9dff-2abb37ab6715",
+    "yid": 68226653,
     "password": "68226653",
     "kid": 7533,
     "name": "Flamvell Dragnov",
     "name_jp": "フレムベル・ドラグノフ",
     "name_jp_rom": "Furemuberu Doragunofu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP016",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP007",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "6eed1cb4-92df-4d26-b463-f1bcb878003c",
-    "yid": null,
+    "yid": 6256844,
     "password": "06256844",
     "kid": 8246,
     "name": "R-Genex Turbo",
     "name_jp": "レアル・ジェネクス・ターボ",
     "name_jp_rom": "Rearu Jenekusu Tābo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Real Genex Turbo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +46,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT05-JP021",
+            "set": "Duel Terminal - Champion of Chaos!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP044",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP069",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

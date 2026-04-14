@@ -1,11 +1,14 @@
 {
     "cid": "a24fe205-56f1-4b4b-aaf7-67bc0d941b22",
+    "yid": 49407319,
     "password": "49407319",
     "kid": 15999,
     "name": "Star Mine",
     "name_jp": "スター・マイン",
     "name_jp_rom": "Sutā Main",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP038",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

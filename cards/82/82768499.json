@@ -1,11 +1,14 @@
 {
     "cid": "d159bab7-21a1-4b2b-9540-fd3225b208e8",
+    "yid": 82768499,
     "password": "82768499",
     "kid": 13006,
     "name": "Spiral Flame Strike",
     "name_jp": "<ruby lang=\"jp\"><rb>螺</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>旋</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>のストライクバースト",
     "name_jp_rom": "Rasen no Sutoraiku Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spiral Strike Burst",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "20AP-JP059",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Secret Parallel Rare": []
+            }
+        },
+        {
+            "sid": "YCPC-JP018",
+            "set": "Yu-Gi-Oh! Chips",
+            "rarities": {
+                "Common": [],
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "DP23-JP055",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +120,6 @@
             "Variable effects",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

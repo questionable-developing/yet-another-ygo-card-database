@@ -1,11 +1,14 @@
 {
     "cid": "74e1cac5-50e1-4543-80de-c0213dbb2dfb",
+    "yid": 45705025,
     "password": "45705025",
     "kid": 10375,
     "name": "Heraldic Beast Unicorn",
     "name_jp": "<ruby lang=\"jp\"><rb>紋</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>章</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>ユニコーン",
     "name_jp_rom": "Monshōjū Yunikōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP016",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d4fca257-5af9-4f57-b99c-ee18b98811e9",
-    "yid": null,
+    "yid": 29934351,
     "password": "29934351",
     "kid": 8505,
     "name": "Earthbound Wave",
     "name_jp": "<ruby lang=\"jp\"><rb>地縛波</rb><rp> (</rp><rt>グランド・ウェーブ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gurando Wēbu",
+    "name_jp_rom_base": "Jibakuha",
     "name_jp_tl": "Ground Wave",
+    "name_jp_tl_base": "Earthbound Wave",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP070",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP082",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +105,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

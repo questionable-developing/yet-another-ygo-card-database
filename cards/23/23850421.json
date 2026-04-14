@@ -1,12 +1,14 @@
 {
     "cid": "a6ff6c27-2cdd-47d9-9f70-9d92a4cd1223",
-    "yid": null,
+    "yid": 23850421,
     "password": "23850421",
     "kid": 13052,
     "name": "Jack Wyvern",
     "name_jp": "ジャック・ワイバーン",
     "name_jp_rom": "Jakku Waibān",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP013",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

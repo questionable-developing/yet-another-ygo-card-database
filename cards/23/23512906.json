@@ -1,12 +1,14 @@
 {
     "cid": "50f008b8-7c6c-4e00-bdee-ac71d0a1596e",
-    "yid": null,
+    "yid": 23512906,
     "password": "23512906",
     "kid": 18455,
     "name": "Gold Pride - Leon",
     "name_jp": "<ruby lang=\"jp\"><rb>ＧＰ</rb><rp> (</rp><rt>ゴールド・プライド</rt><rp>)</rp></ruby>－リオン",
     "name_jp_rom": "Gōrudo Puraido - Rion",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -59,6 +61,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP029",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +116,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

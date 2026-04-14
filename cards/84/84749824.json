@@ -1,11 +1,14 @@
 {
     "cid": "4435f991-1f97-45e4-8a76-17cf2b26a64d",
+    "yid": 84749824,
     "password": "84749824",
     "kid": 9008,
     "name": "Solemn Warning",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>かみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>警</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>告</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kami no Keikoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "God's Warning",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -31,94 +34,180 @@
         },
         "2": {
             "idx": "2",
-            "full": "SolemnWarning-LPST-JP-OP.png",
+            "full": "SolemnWarning-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "DREV-EN077",
             "set": "Duelist Revolution",
             "rarities": {
-                "Ultra Rare": [],
-                "Ultimate Rare": []
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "CT08-EN015",
             "set": "Collectible Tins 2011 Wave 2",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "LCYW-EN301",
             "set": "Legendary Collection 3: Yugi's World Mega Pack",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "DL18-EN019",
             "set": "Duelist League 18 participation cards",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "NKRT-EN035",
             "set": "Noble Knights of the Round Table Box Set",
             "rarities": {
-                "Platinum Rare": []
+                "Platinum Rare": ["1"]
             }
         },
         {
             "sid": "PGL2-EN068",
             "set": "Premium Gold: Return of the Bling",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["1"]
             }
         },
         {
             "sid": "SDSE-EN039",
             "set": "Synchron Extreme Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "DUSA-EN085",
             "set": "Duelist Saga",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "SR05-EN037",
             "set": "Structure Deck: Wave of Light",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "SDCH-EN036",
             "set": "Structure Deck: Spirit Charmers",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA02-EN078",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN126",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP077",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "GS05-JP020",
+            "set": "Gold Series 2013",
+            "rarities": {
+                "Common": ["1"],
+                "Gold Rare": ["1"],
+                "Gold Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD27-JP040",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "20AP-JP079",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Super Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR05-JP038",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD39-JP040",
+            "set": "Structure Deck: Masters of the Spiritual Arts",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TDS1-JP040",
+            "set": "Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "24EP-JP315",
+            "set": "Event Pack 2024 Vol.3",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP091",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP044",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -161,5 +250,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

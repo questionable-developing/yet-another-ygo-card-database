@@ -1,12 +1,14 @@
 {
     "cid": "e481925a-f704-4964-bafc-c4f9408b68fe",
-    "yid": null,
+    "yid": 25401880,
     "password": "25401880",
     "kid": 8210,
     "name": "Psychic Path",
     "name_jp": "サイコパス",
     "name_jp_rom": "Saikopasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Path",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP058",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT11-JP005",
+            "set": "Advanced Tournament Pack 2015 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

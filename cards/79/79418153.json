@@ -1,11 +1,14 @@
 {
     "cid": "4b93232e-77fd-4e41-94f1-477c29a0d7dc",
+    "yid": 79418153,
     "password": "79418153",
     "kid": 9086,
     "name": "Lancer Archfiend",
     "name_jp": "ランサー・デーモン",
     "name_jp_rom": "Ransā Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lancer Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP009",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

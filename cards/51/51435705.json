@@ -1,11 +1,14 @@
 {
     "cid": "2e759d4f-570e-4eb0-ad34-aa58a401dcb0",
+    "yid": 51435705,
     "password": "51435705",
     "kid": 10143,
     "name": "Chronomaly Crystal Skull",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>クリスタル・スカル",
     "name_jp_rom": "Ōpātsu Kurisutaru Sukaru",
+    "name_jp_rom_base": "Senshi Isan Kurisutaru Sukaru",
     "name_jp_tl": "OOPArts Crystal Skull",
+    "name_jp_tl_base": "Prehistoric Heritage Crystal Skull",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -40,6 +43,22 @@
             "set": "Return of the Duelist",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP013",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SUB1-JP021",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -79,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

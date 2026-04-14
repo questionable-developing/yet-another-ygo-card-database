@@ -1,11 +1,14 @@
 {
     "cid": "135ecec6-ee6f-4d06-b03e-bff562618ecc",
+    "yid": 70576413,
     "password": "70576413",
     "kid": 21804,
     "name": "D/D/D First King Clovis",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>創</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>始</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>クロヴィス",
     "name_jp_rom": "Dīdīdī Sōshiō Kurovisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "D/D/D Founder King Clovis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP038",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +86,7 @@
         "summoning": [
             "1 or more non-Tuner Synchro Materials",
             "Does not require specific Synchro Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [
@@ -88,5 +100,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

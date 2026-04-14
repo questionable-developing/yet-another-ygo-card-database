@@ -1,11 +1,14 @@
 {
     "cid": "0a50d309-2716-444a-b509-f642b9c1b916",
+    "yid": 70825459,
     "password": "70825459",
     "kid": 18541,
     "name": "Trap Tracks",
     "name_jp": "トラップトラック",
     "name_jp_rom": "Torapputorakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trap Track",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP078",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCDB-JP060",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

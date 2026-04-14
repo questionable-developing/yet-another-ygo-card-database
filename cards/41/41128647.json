@@ -1,11 +1,14 @@
 {
     "cid": "16a9626a-a15f-49fe-94a9-6c9996ac9082",
+    "yid": 41128647,
     "password": "41128647",
     "kid": 12170,
     "name": "Dinomic Powerload",
     "name_jp": "ダイナミック<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>パワーロード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dainamikku Pawārōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dynamic Powerload",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP062",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

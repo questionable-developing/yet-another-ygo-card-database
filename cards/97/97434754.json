@@ -1,11 +1,14 @@
 {
     "cid": "2554dbc2-6aca-497f-8a8c-4185fe865239",
+    "yid": 97434754,
     "password": "97434754",
     "kid": 21422,
     "name": "Artmage Litera",
     "name_jp": "<ruby lang=\"jp\"><rb>神芸学徒</rb><rp> (</rp><rt>アルトメギア</rt><rp>)</rp></ruby> リテラ",
     "name_jp_rom": "Arutomegia Ritera",
+    "name_jp_rom_base": "Shingeigakuto Ritera",
     "name_jp_tl": "Artmegia Litera",
+    "name_jp_tl_base": "Divine Arts Student Litera",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP011",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,7 +74,7 @@
         ],
         "asuparc": [],
         "rel": [
-            "Elvennotes"
+            "Elfnote"
         ],
         "counter": [],
         "action": [
@@ -87,5 +100,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

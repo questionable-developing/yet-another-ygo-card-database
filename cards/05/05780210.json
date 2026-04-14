@@ -1,12 +1,14 @@
 {
     "cid": "fd64b6c3-0a3b-4caf-ae9b-d66fdad84c83",
-    "yid": null,
+    "yid": 5780210,
     "password": "05780210",
     "kid": 9090,
     "name": "Creation Resonator",
     "name_jp": "クリエイト・リゾネーター",
     "name_jp_rom": "Kurieito Rizonētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Create Resonator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP013",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP005",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +109,6 @@
             "Requires control of specific Level",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

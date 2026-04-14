@@ -1,12 +1,14 @@
 {
     "cid": "98957314-4399-4fd5-8e84-e8ac6222c42f",
-    "yid": null,
+    "yid": 27995943,
     "password": "27995943",
     "kid": 11985,
     "name": "Dr. Frankenderp",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄｒ．</rb><rp> (</rp><rt>ドクター</rt><rp>)</rp></ruby>フランゲ",
     "name_jp_rom": "Dokutā Furange",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dr. Frange",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP041",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

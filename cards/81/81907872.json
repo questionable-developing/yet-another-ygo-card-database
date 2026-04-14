@@ -1,11 +1,14 @@
 {
     "cid": "436e1105-c2bb-4b5e-8bdc-a2bb25b7f1d5",
+    "yid": 81907872,
     "password": "81907872",
     "kid": 10748,
     "name": "Ghostrick Specter",
     "name_jp": "ゴーストリック・スペクター",
     "name_jp_rom": "Gōsutorikku Supekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP017",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

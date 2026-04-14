@@ -1,11 +1,14 @@
 {
     "cid": "8505cd02-3efa-4c43-9f3b-21faebcc63be",
+    "yid": 69176131,
     "password": "69176131",
     "kid": 9779,
     "name": "Space Cyclone",
     "name_jp": "スペース・サイクロン",
     "name_jp_rom": "Supēsu Saikuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHSW-EN061",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP061",
             "set": "Photon Shockwave",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

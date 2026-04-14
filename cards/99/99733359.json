@@ -1,11 +1,14 @@
 {
     "cid": "5d8585ba-3030-4775-b842-6aed35547d85",
+    "yid": 99733359,
     "password": "99733359",
     "kid": 11423,
     "name": "Stegocyber",
     "name_jp": "<ruby lang=\"jp\"><rb>盾</rb><rp> (</rp><rt>じゅん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>航</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>車</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>ステゴサイバー",
     "name_jp_rom": "Junkōsensha Sutegosaibā",
-    "name_jp_tl": "Complete Shield Tank - Stegocyber",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Shield Cruise Tank Stegocyber",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP068",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR04-JP016",
+            "set": "Structure Deck R: Tyranno's Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

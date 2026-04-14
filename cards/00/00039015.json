@@ -6,7 +6,9 @@
     "name": "Assault Sentinel",
     "name_jp": "バスター・スナイパー",
     "name_jp_rom": "Basutā Sunaipā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Sniper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DANE-EN011",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP011",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []

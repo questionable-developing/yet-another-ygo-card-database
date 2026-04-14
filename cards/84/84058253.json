@@ -1,11 +1,14 @@
 {
     "cid": "e3d86e4e-f81e-4466-9805-ef1d1f22a2fd",
+    "yid": 84058253,
     "password": "84058253",
     "kid": 11764,
     "name": "Chimeratech Rampage Dragon",
     "name_jp": "キメラテック・ランページ・ドラゴン",
     "name_jp_rom": "Kimeratekku Ranpēji Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +69,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP089",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP019",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP023",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA31",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +121,9 @@
             "Cyber Dragon (archetype)"
         ],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Raigeki (series)"
+        ],
         "counter": [],
         "action": [
             "Activates upon Fusion Summon",
@@ -110,5 +149,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

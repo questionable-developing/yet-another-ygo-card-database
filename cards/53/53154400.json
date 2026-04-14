@@ -1,11 +1,14 @@
 {
     "cid": "44fdf4d8-1090-4e2c-a549-7cf0460ca339",
+    "yid": 53154400,
     "password": "53154400",
     "kid": 17790,
     "name": "Psychic Rover",
     "name_jp": "サイコ・ローヴァー",
     "name_jp_rom": "Saiko Rōvā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Rover",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP035",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Die roll"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "c5b57515-94f8-4818-b160-643551f48e5d",
-    "yid": null,
+    "yid": 35215622,
     "password": "35215622",
     "kid": 5714,
     "name": "Blindly Loyal Goblin",
     "name_jp": "<ruby lang=\"jp\"><rb>盲</rb><rp> (</rp><rt>もう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>信</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>するゴブリン",
     "name_jp_rom": "Mōshinsuru Goburin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "304-022",
+            "set": "Power of the Guardian",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP184",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +103,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

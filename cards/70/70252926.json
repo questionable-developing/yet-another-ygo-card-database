@@ -1,11 +1,14 @@
 {
     "cid": "f5a2fe44-3b45-4d81-a672-24cc78b11221",
+    "yid": 70252926,
     "password": "70252926",
     "kid": 14486,
     "name": "Fortune Lady Every",
     "name_jp": "フォーチュンレディ・エヴァリー",
     "name_jp_rom": "Fōchun Redi Evarī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,17 +33,33 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyEvery-RIRA-JP-SR.png",
+            "art": "FortuneLadyEvery-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyEvery-RIRA-EN-ScR-1E.png",
-            "art": null
+            "art": "FortuneLadyEvery-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RIRA-EN038",
             "set": "Rising Rampage",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP038",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
             }
         }
     ],
@@ -89,5 +108,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

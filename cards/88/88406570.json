@@ -1,11 +1,14 @@
 {
     "cid": "3a8479e1-2115-4fcb-b411-f276d8ab3e20",
+    "yid": 88406570,
     "password": "88406570",
     "kid": 13344,
     "name": "Gouki Destroy Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>デストロイ・オーガ",
     "name_jp_rom": "Gōki Desutoroi Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Destroy Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -35,11 +38,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GoukiDestroyOgre-VP17-JP-UR.png",
+            "art": "GoukiDestroyOgre-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GoukiDestroyOgre-MP21-EN-C-1E.png",
-            "art": null
+            "art": "GoukiDestroyOgre-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "IGAS-ENSE2",
@@ -53,6 +61,15 @@
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VP17-JP004",
+            "set": "LINK VRAINS Edition",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -94,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

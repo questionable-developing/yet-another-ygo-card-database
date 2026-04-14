@@ -1,11 +1,14 @@
 {
     "cid": "78e33701-3a0b-432c-aa2f-ecbc9ca6d4d1",
+    "yid": 69723159,
     "password": "69723159",
     "kid": 10620,
     "name": "Bujingi Quilin",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－ムラクモ",
     "name_jp_rom": "Bujingi - Murakumo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujingi Murakumo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP017",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

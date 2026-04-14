@@ -1,12 +1,14 @@
 {
     "cid": "14ee79da-f03c-41ef-a1a2-bc4a48447f70",
-    "yid": null,
+    "yid": 20665527,
     "password": "20665527",
     "kid": 14300,
     "name": "Amphibious Swarmship Amblowhale",
     "name_jp": "<ruby lang=\"jp\"><rb>揚</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陸</rb><rp> (</rp><rt>りく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>群</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>艦</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>アンブロエール",
     "name_jp_rom": "Yōriku Gunkan Anburoēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -70,6 +72,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP050",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP207",
+            "set": "Tournament Pack 2024 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +137,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

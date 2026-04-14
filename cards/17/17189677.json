@@ -1,12 +1,14 @@
 {
     "cid": "66f06472-e7f3-4081-9e67-d0a81f577eaf",
-    "yid": null,
+    "yid": 17189677,
     "password": "17189677",
     "kid": 7166,
     "name": "Snake Rain",
     "name_jp": "スネーク・レイン",
     "name_jp_rom": "Sunēku Rein",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP052",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP020",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP2-JP030",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBAG-JP042",
+            "set": "Deck-Build Pack: Ancient Guardians",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "65d6ed51-22e8-4e50-9678-8662bfe41b62",
-    "yid": null,
+    "yid": 31980955,
     "password": "31980955",
     "kid": 13149,
     "name": "Quiet Life",
     "name_jp": "スローライフ",
     "name_jp_rom": "Surōraifu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Slow Life",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -46,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP17-JP024",
+            "set": "Collectors Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +90,6 @@
             "At the start of Main Phase 1",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

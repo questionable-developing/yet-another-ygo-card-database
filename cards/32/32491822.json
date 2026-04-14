@@ -1,12 +1,14 @@
 {
     "cid": "0e4901c2-a0f4-4044-8b76-995af7d542b7",
-    "yid": null,
+    "yid": 32491822,
     "password": "32491822",
     "kid": 6564,
     "name": "Hamon, Lord of Striking Thunder",
     "name_jp": "<ruby lang=\"jp\"><rb>降</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>ハモン",
     "name_jp_rom": "Kōraiō Hamon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -94,6 +96,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP002",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP122",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "17TP-JP202",
+            "set": "Tournament Pack 2017 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD38-JPP02",
+            "set": "Structure Deck: Sacred Beasts of Chaos Sacred Beasts Unleashed Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD44-JP011",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,6 +152,7 @@
         "asuparc": [],
         "rel": [
             "Phantasm",
+            "Sacred Beast (archetype)",
             "Signature move"
         ],
         "counter": [],
@@ -139,7 +181,9 @@
         ],
         "smat": [],
         "misc": [
-            "Special Summon Monster"
+            "Special Summon Monster",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

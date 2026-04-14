@@ -1,12 +1,14 @@
 {
     "cid": "7c5be450-6527-4dc4-b686-531ba1d7ad83",
-    "yid": null,
+    "yid": 5414777,
     "password": "05414777",
     "kid": 21192,
     "name": "World of Spirits",
     "name_jp": "<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seirei no Sekai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP055",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -91,5 +102,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

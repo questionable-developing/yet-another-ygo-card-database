@@ -1,11 +1,14 @@
 {
     "cid": "4a76728c-214b-4c0f-a08c-b0d303239733",
+    "yid": 90640901,
     "password": "90640901",
     "kid": 9886,
     "name": "Reverse Buster",
     "name_jp": "リバース・バスター",
     "name_jp_rom": "Ribāsu Basutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP012",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP13-JP010",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

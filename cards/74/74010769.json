@@ -1,11 +1,14 @@
 {
     "cid": "6c974990-db8a-433b-935e-382da09b3044",
+    "yid": 74010769,
     "password": "74010769",
     "kid": 10388,
     "name": "Hazy Flame Griffin",
     "name_jp": "<ruby lang=\"jp\"><rb>陽炎獣</rb><rp> (</rp><rt>ヘイズビースト</rt><rp>)</rp></ruby> グリプス",
     "name_jp_rom": "Heizu Bīsuto Guripusu",
+    "name_jp_rom_base": "Yōenjū Guripusu",
     "name_jp_tl": "Haze Beast Gryps",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CBLZ-EN029",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP029",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

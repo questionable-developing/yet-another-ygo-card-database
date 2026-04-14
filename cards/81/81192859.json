@@ -1,11 +1,14 @@
 {
     "cid": "a0d02c41-9680-4459-a30f-23aa78d44c8c",
+    "yid": 81192859,
     "password": "81192859",
     "kid": 16732,
     "name": "Gagaku-P.U.N.K. Wild Picking",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｇａ</rb><rp> (</rp><rt>ガガク</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp> (</rp><rt>パンク</rt><rp>)</rp></ruby>ワイルド・ピッキング",
     "name_jp_rom": "Gagaku-Panku Wairudo Pikkingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,16 @@
             "set": "The Grand Creators",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP009",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -76,5 +89,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

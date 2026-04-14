@@ -1,11 +1,14 @@
 {
     "cid": "c012d615-f7cb-4cdf-93e2-ae7dfee3ec1f",
+    "yid": 51808422,
     "password": "51808422",
     "kid": 8326,
     "name": "XX-Saber Faultroll",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＸ</rb><rp> (</rp><rt>ダブルエックス</rt><rp>)</rp></ruby>－セイバー フォルトロール",
     "name_jp_rom": "Daburu Ekkusu-Seibā Forutorōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -21,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up \"X-Saber\" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon that target.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more \"X-Saber\" monsters. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your GY; Special Summon it.",
     "pend_eff": null,
-    "mnst_eff": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up \"X-Saber\" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon that target.",
-    "eff": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up \"X-Saber\" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your Graveyard; Special Summon that target.",
+    "mnst_eff": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more \"X-Saber\" monsters. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your GY; Special Summon it.",
+    "eff": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more \"X-Saber\" monsters. Once per turn: You can target 1 Level 4 or lower \"X-Saber\" monster in your GY; Special Summon it.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XXSaberFaultroll-DT07-EN-DNPR-DT.png",
+            "full": "XXSaberFaultroll-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -47,6 +50,53 @@
             "set": "Turbo Pack: Booster Three",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX04",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP035",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT13-JP013",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP017",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPRG-JP016",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP007",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -88,5 +138,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0b8a9775-e71f-40c5-b64a-c1b4496ab451",
+    "yid": 39357122,
     "password": "39357122",
     "kid": 11807,
     "name": "Red-Eyes Archfiend of Lightning",
     "name_jp": "<ruby lang=\"jp\"><rb>真紅眼の凶雷皇</rb><rp> (</rp><rt>レッドアイズ・ライトニング・ロード</rt><rp>)</rp></ruby>－エビル・デーモン",
     "name_jp_rom": "Reddoaizu Raitoningu Rōdo - Ebiru Dēmon",
+    "name_jp_rom_base": "Shinkume no Kyōraikō - Ebiru Dēmon",
     "name_jp_tl": "Red-Eyes Lightning Lord - Evil Daemon",
+    "name_jp_tl_base": "Deep-Crimson-Eyes Evil Lightning Lord - Evil Daemon",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP023",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b6366889-c213-445e-bda1-83c811f97e44",
-    "yid": null,
+    "yid": 22147147,
     "password": "22147147",
     "kid": 6814,
     "name": "Cyclone Blade",
     "name_jp": "<ruby lang=\"jp\"><rb>旋風剣</rb><rp> (</rp><rt>サイクロンブレード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saikuron Burēdo",
+    "name_jp_rom_base": "Senpūken",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Whirlwind Blade",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP043",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP018",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP032",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +111,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

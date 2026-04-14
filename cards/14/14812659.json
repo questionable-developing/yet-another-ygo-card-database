@@ -1,12 +1,14 @@
 {
     "cid": "e8528550-ac05-417e-b068-1860d6f469a5",
-    "yid": null,
+    "yid": 14812659,
     "password": "14812659",
     "kid": 10775,
     "name": "Risebell the Star Psycher",
     "name_jp": "<ruby lang=\"jp\"><rb>覚</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ライズベルト",
     "name_jp_rom": "Kakuseishi Raizuberuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Risebelt the Star Awakener",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP044",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

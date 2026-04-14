@@ -1,11 +1,14 @@
 {
     "cid": "ed097f70-2513-4c03-a09a-2c5964c997f5",
+    "yid": 52918032,
     "password": "52918032",
     "kid": 19472,
     "name": "Mementotlan Ghattic",
     "name_jp": "メメント・ウラモン",
     "name_jp_rom": "Memento Uramon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Memento Attic Ghost",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP017",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

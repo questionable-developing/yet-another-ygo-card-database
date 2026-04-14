@@ -1,12 +1,14 @@
 {
     "cid": "ad7d6d41-bfc7-41fd-86a7-99275e968057",
-    "yid": null,
+    "yid": 12524259,
     "password": "12524259",
     "kid": 15096,
     "name": "Unauthorized Reactivation",
     "name_jp": "<ruby lang=\"jp\"><rb>無許可の再奇動</rb><rp> (</rp><rt>メイルファクターズ・コマンド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Meirufakutāzu Komando",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Malefactor's Command",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "SR10-EN041",
             "set": "Structure Deck: Mechanized Madness",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR10-JP041",
+            "set": "Structure Deck R: Machiners Command",
             "rarities": {
                 "Super Rare": []
             }
@@ -76,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

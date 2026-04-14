@@ -1,11 +1,14 @@
 {
     "cid": "6b834963-b8f9-4cff-a05f-ccd65d4cca06",
+    "yid": 63211608,
     "password": "63211608",
     "kid": 8712,
     "name": "Genex Ally Reliever",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>アーリー</rt><rp>)</rp></ruby>・ジェネクス・リバイバー",
     "name_jp_rom": "Ārī Jenekusu Ribaibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ally Genex Reviver",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT08-JP020",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP040",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP086",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

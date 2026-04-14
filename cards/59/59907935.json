@@ -1,11 +1,14 @@
 {
     "cid": "3dba8ee8-2703-4224-910d-b15a893f97be",
+    "yid": 59907935,
     "password": "59907935",
     "kid": 6417,
     "name": "Cyber Archfiend",
     "name_jp": "サイバーデーモン",
     "name_jp_rom": "Saibā Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cyber Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP019",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP019",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2083ffb4-fdfb-412e-b62d-950ebd83866c",
-    "yid": null,
+    "yid": 15381252,
     "password": "15381252",
     "kid": 11153,
     "name": "Berserker Soul",
     "name_jp": "<ruby lang=\"jp\"><rb>狂戦士の魂</rb><rp> (</rp><rt>バーサーカー・ソウル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bāsākā Sōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP007",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,7 +99,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Repeats the effect"
         ]
-    }
+    },
+    "links": {}
 }

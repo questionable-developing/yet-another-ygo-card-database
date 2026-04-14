@@ -1,11 +1,14 @@
 {
     "cid": "f2a5c4d6-108f-4097-84d3-4da01cdc66ac",
+    "yid": 48654323,
     "password": "48654323",
     "kid": 16840,
     "name": "White Relic of Dogmatika",
     "name_jp": "<ruby lang=\"jp\"><rb>凶導</rb><rp> (</rp><rt>ドラグマ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>白聖骸</rb><rp> (</rp><rt>アルバス・セイント</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraguma no Arubasu Seinto",
+    "name_jp_rom_base": "Kyōdō no Shiroseigai",
     "name_jp_tl": "Albus Saint of Dragma",
+    "name_jp_tl_base": "White Holy Corpse of Evil Dogma",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,6 +44,32 @@
             "set": "Battle of Chaos",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP035",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JP035",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP090",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -87,5 +116,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

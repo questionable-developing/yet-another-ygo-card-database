@@ -1,11 +1,14 @@
 {
     "cid": "c0d54fc7-a539-4835-b834-2dff2c75cc56",
+    "yid": 45877457,
     "password": "45877457",
     "kid": 16222,
     "name": "Magikey Mechmortar - Garesglasser",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鍵</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>砲</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>－ガレスヴェート",
     "name_jp_rom": "Makenhō - Garesuvēto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magikey Cannon - Garesvet",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP033",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DAMA-JP033",
+            "set": "Dawn of Majesty +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

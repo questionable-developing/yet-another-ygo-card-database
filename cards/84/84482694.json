@@ -1,11 +1,14 @@
 {
     "cid": "e8bf1647-a5cc-4006-8870-dc6185083610",
+    "yid": 84482694,
     "password": "84482694",
     "kid": 14869,
     "name": "Charged-Up Heraldry",
     "name_jp": "<ruby lang=\"jp\"><rb>顕現する紋章</rb><rp> (</rp><rt>チャージ・メダリオン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chāji Medarion",
+    "name_jp_rom_base": "Kengensuru Monshō",
     "name_jp_tl": "Charge Medallion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "IGAS-EN060",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP060",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "fed9c035-2db6-4e53-a473-0185ea1c0794",
-    "yid": null,
+    "yid": 27415516,
     "password": "27415516",
     "kid": 10577,
     "name": "Stream, Dragon Ruler of Droplets",
     "name_jp": "<ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－ストリーム",
     "name_jp_rom": "Suiseiryū - Sutorīmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stream, Dragon Ruler of Water",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PR03-JP002",
+            "set": "Promotion Pack 3: Part A",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP504",
+            "set": "Tournament Pack 2024 Vol.5",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7d27db49-cda4-4fde-92ae-1f6833a6bf0e",
+    "yid": 58464739,
     "password": "58464739",
     "kid": 13108,
     "name": "Pulse Mines",
     "name_jp": "パルス・ボム",
     "name_jp_rom": "Parusu Bomu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pulse Bomb",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP069",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b41e67d6-67a1-4b3b-9648-8a5e918c2bce",
-    "yid": null,
+    "yid": 32687071,
     "password": "32687071",
     "kid": 12302,
     "name": "Amorphage Sloth",
     "name_jp": "アモルファージ・ノーテス",
     "name_jp_rom": "Amorufāji Nōtesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amorphage Notes",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP030",
+            "set": "Shining Victories",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like, Maintenance cost"
@@ -92,5 +103,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

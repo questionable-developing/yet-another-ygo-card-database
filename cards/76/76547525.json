@@ -1,11 +1,14 @@
 {
     "cid": "5a33fb4f-9931-4c79-8ecb-b121e977d8ad",
+    "yid": 76547525,
     "password": "76547525",
     "kid": 12065,
     "name": "Red Wyvern",
     "name_jp": "レッド・ワイバーン",
     "name_jp_rom": "Reddo Waibān",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPHR-JP022",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP311",
+            "set": "Tournament Pack 2023 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +102,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

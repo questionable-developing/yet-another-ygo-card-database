@@ -1,12 +1,14 @@
 {
     "cid": "c909404f-fdba-41ab-8c20-880c49b8113f",
-    "yid": null,
+    "yid": 34933456,
     "password": "34933456",
     "kid": 15622,
     "name": "Magistus Invocation",
     "name_jp": "<ruby lang=\"jp\"><rb>聖なる法典</rb><rp> (</rp><rt>マギストス・インヴォケーション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Magisutosu Invokēshon",
+    "name_jp_rom_base": "Seinaru Hōten",
     "name_jp_tl": "Magistus Invocation",
+    "name_jp_tl_base": "Sacred Lawbook",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,16 @@
             "set": "Genesis Impact",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP011",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -86,5 +98,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

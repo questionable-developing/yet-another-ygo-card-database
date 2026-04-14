@@ -1,12 +1,14 @@
 {
     "cid": "941c9f23-869f-444d-a909-aa3897e69df3",
-    "yid": null,
+    "yid": 27412542,
     "password": "27412542",
     "kid": 14681,
     "name": "Abomination's Prison",
     "name_jp": "<ruby lang=\"jp\"><rb>雙</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かせ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōō no Kase",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dual King's Chains",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +63,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP054",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

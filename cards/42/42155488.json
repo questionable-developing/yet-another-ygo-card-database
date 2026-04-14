@@ -1,11 +1,14 @@
 {
     "cid": "e43ed198-ec0d-4713-baf6-1f58cf2207cd",
+    "yid": 42155488,
     "password": "42155488",
     "kid": 10770,
     "name": "Genomix Fighter",
     "name_jp": "ジェノミックス・ファイター",
     "name_jp_rom": "Jenomikkusu Faitā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP039",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

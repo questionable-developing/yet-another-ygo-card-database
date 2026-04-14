@@ -1,12 +1,14 @@
 {
     "cid": "45d57a77-b787-4531-8324-ef0cd5ca442a",
-    "yid": null,
+    "yid": 6260554,
     "password": "06260554",
     "kid": 10555,
     "name": "Do a Barrel Roll",
     "name_jp": "<ruby lang=\"jp\"><rb>弾幕回避</rb><rp> (</rp><rt>バレル・ロール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bareru Rōru",
+    "name_jp_rom_base": "Danmaku Kaihi",
     "name_jp_tl": "Barrel Roll",
+    "name_jp_tl_base": "Barrage Evasion",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP074",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

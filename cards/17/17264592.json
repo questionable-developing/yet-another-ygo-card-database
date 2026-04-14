@@ -1,12 +1,14 @@
 {
     "cid": "b276dd0b-03a6-43e0-8275-63ee75382db2",
-    "yid": null,
+    "yid": 17264592,
     "password": "17264592",
     "kid": 11777,
     "name": "U.A. Rival Rebounder",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕ．Ａ．</rb><rp> (</rp><rt>ウルトラアスリート</rt><rp>)</rp></ruby>コリバルリバウンダー",
     "name_jp_rom": "Urutora Asurīto Koribaruribaundā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ultra Athlete Corival Rebounder",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "CROS-EN087",
             "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP027",
+            "set": "Extra Pack 2015",
             "rarities": {
                 "Common": []
             }
@@ -84,5 +95,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

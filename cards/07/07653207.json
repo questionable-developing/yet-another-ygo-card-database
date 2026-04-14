@@ -1,12 +1,14 @@
 {
     "cid": "447f02e8-e559-4546-a4c9-3a83b51ba657",
-    "yid": null,
+    "yid": 7653207,
     "password": "07653207",
     "kid": 9665,
     "name": "Aqua Jet",
     "name_jp": "アクア・ジェット",
     "name_jp_rom": "Akua Jetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP048",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD23-JP026",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPB18",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +108,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

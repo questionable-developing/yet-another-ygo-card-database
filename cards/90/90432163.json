@@ -1,11 +1,14 @@
 {
     "cid": "392b4dc9-3936-4748-b732-a1ef02ffcfe3",
+    "yid": 90432163,
     "password": "90432163",
     "kid": 12198,
     "name": "The Phantom Knights of Ancient Cloak",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ダスティローブ",
     "name_jp_rom": "Fantomu Naitsu Dasuti Rōbu",
+    "name_jp_rom_base": "Gen'ei Kishidan Dasuti Rōbu",
     "name_jp_tl": "Phantom Knights Dusty Robe",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -86,6 +89,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP001",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP078",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP145",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -132,5 +160,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

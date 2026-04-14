@@ -1,12 +1,14 @@
 {
     "cid": "14a3099f-1f67-4ca7-9131-dac6a7903034",
-    "yid": null,
+    "yid": 25067275,
     "password": "25067275",
     "kid": 10797,
     "name": "Swords at Dawn",
     "name_jp": "<ruby lang=\"jp\"><rb>旗</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鼓</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堂</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>々</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikodōdō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Grandeur",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP066",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

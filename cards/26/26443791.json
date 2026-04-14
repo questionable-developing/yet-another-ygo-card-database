@@ -1,12 +1,14 @@
 {
     "cid": "b4d776a1-f784-48d3-a8b8-a9cd391c8575",
-    "yid": null,
+    "yid": 26443791,
     "password": "26443791",
     "kid": 14575,
     "name": "Battlewasp - Ballista the Armageddon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｂ・Ｆ</rb><rp> (</rp><rt>ビー・フォース</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>決</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>のビッグ・バリスタ",
     "name_jp_rom": "Bī Fōsu - Kessen no Biggu Barisuta",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bee Force - Big Ballista the Armageddon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -45,6 +47,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP19-JP042",
+            "set": "Collection Pack: Duelist of Revolution Version",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,7 +87,7 @@
         "summoning": [
             "Does not require specific Synchro Materials",
             "1 or more non-Tuner Synchro Materials",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Piercing"
@@ -87,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

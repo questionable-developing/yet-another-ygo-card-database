@@ -1,11 +1,14 @@
 {
     "cid": "3aa88950-cbb1-411d-b6b7-ecf7b1dda25a",
+    "yid": 50275295,
     "password": "50275295",
     "kid": 15535,
     "name": "Virtual World Gate - Qinglong",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堺</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>門</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>チン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>ロン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dennōkaimon - Chinron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP056",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

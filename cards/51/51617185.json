@@ -1,11 +1,14 @@
 {
     "cid": "9614fed7-ace2-48be-aebf-5904ada1b5c2",
+    "yid": 51617185,
     "password": "51617185",
     "kid": 11368,
     "name": "Machina Megaform",
     "name_jp": "マシンナーズ・メガフォーム",
     "name_jp_rom": "Mashinnāzu Megafōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machiners Megaform",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP036",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR10-JP008",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +117,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

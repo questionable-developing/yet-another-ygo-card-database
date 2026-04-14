@@ -1,12 +1,14 @@
 {
     "cid": "210fdd4a-0919-4afe-8132-b1616ca00c13",
-    "yid": null,
+    "yid": 13972452,
     "password": "13972452",
     "kid": 12003,
     "name": "Majespecter Storm",
     "name_jp": "マジェスペクター・ストーム",
     "name_jp_rom": "Majesupekutā Sutōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP059",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

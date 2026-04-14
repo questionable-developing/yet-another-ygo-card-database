@@ -1,11 +1,14 @@
 {
     "cid": "3cf80e7a-01a5-487c-8e29-43e0946f527a",
+    "yid": 54537489,
     "password": "54537489",
     "kid": 11877,
     "name": "Mare Mare",
     "name_jp": "タツノオトシオヤ",
     "name_jp_rom": "Tatsu-no-otoshioya",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Parent Seahorse",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP062",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP098",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Only thrice per turn"
         ]
-    }
+    },
+    "links": {}
 }

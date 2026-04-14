@@ -1,12 +1,14 @@
 {
     "cid": "104863c6-de15-4487-90d8-25bc442003a2",
-    "yid": null,
+    "yid": 10698416,
     "password": "10698416",
     "kid": 13236,
     "name": "Krawler Ranvier",
     "name_jp": "クローラー・ランヴィエ",
     "name_jp_rom": "Kurōrā Ranvie",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "CIBR-EN020",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP020",
             "set": "Circuit Break",
             "rarities": {
                 "Common": []
@@ -83,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

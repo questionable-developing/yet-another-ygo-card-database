@@ -1,12 +1,14 @@
 {
     "cid": "2b3f204c-3cfa-4229-946b-6974608ddddd",
-    "yid": null,
+    "yid": 14261867,
     "password": "14261867",
     "kid": 5421,
     "name": "8-Claws Scorpion",
     "name_jp": "<ruby lang=\"jp\"><rb>八</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby>つ<ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>で</rt><rp>)</rp></ruby>サソリ",
     "name_jp_rom": "Yatsude Sasori",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eight-Hands Scorpion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PH-24",
+            "set": "Pharaonic Guardian (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL5-109",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +92,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

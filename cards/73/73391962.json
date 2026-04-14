@@ -1,11 +1,14 @@
 {
     "cid": "23241e5c-5336-458a-b59f-8fed0bf56dbe",
+    "yid": 73391962,
     "password": "73391962",
     "kid": 20507,
     "name": "Azamina Mu Rcielago",
     "name_jp": "<ruby lang=\"jp\"><rb>告死聖徒</rb><rp> (</rp><rt>アザミナ・ムゥ</rt><rp>)</rp></ruby>ルシエラーゴ",
     "name_jp_rom": "Azamina Muu Rushierāgo",
+    "name_jp_rom_base": "Kokushiseito Rushierāgo",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Death Sentence Saint Rcielago",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +68,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP031",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTA-JP031",
+            "set": "Rage of the Abyss +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP011",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +143,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

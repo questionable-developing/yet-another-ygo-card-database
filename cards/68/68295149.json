@@ -1,11 +1,14 @@
 {
     "cid": "552351d1-dd51-43bb-8a1b-8ffa5885f1a8",
+    "yid": 68295149,
     "password": "68295149",
     "kid": 14495,
     "name": "Linkmail Archfiend",
     "name_jp": "リンクメイル・デーモン",
     "name_jp_rom": "Rinkumeiru Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Linkmail Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -56,6 +59,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP047",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

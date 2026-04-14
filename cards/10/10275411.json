@@ -1,12 +1,14 @@
 {
     "cid": "e46fffdf-00e2-4c04-9a39-7a639a22edb7",
-    "yid": null,
+    "yid": 10275411,
     "password": "10275411",
     "kid": 10540,
     "name": "Xyz Revenge",
     "name_jp": "エクシーズ・リベンジ",
     "name_jp_rom": "Ekushīzu Ribenji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "LTGY-EN059",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP059",
             "set": "Lord of the Tachyon Galaxy",
             "rarities": {
                 "Rare": []
@@ -79,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

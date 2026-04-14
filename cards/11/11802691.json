@@ -1,12 +1,14 @@
 {
     "cid": "96be86be-d210-4881-aa73-10df0de4c422",
-    "yid": null,
+    "yid": 11802691,
     "password": "11802691",
     "kid": 18859,
     "name": "The Continuing Epic of Charles",
     "name_jp": "シャルルの<ruby lang=\"jp\"><rb>叙</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>事</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>詩</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sharuru no Jojishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Epic of Charles",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP072",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +81,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Equips from the player's hand",
             "Sends from your hand to your Graveyard",
             "Activates from your Graveyard",
@@ -99,5 +110,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

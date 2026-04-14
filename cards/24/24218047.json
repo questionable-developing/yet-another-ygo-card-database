@@ -1,12 +1,14 @@
 {
     "cid": "74f37e20-4ce9-4444-b10d-cd7a5101956a",
-    "yid": null,
+    "yid": 24218047,
     "password": "24218047",
     "kid": 11367,
     "name": "Unmasked Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>破面竜</rb><rp> (</rp><rt>ネイキッド・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Neikiddo Doragon",
+    "name_jp_rom_base": "Hamenryū",
     "name_jp_tl": "Naked Dragon",
+    "name_jp_tl_base": "Shattered Mask Dragon",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP035",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "838d54ff-0d20-4e17-a373-578547ca54e3",
+    "yid": 68756810,
     "password": "68756810",
     "kid": 20402,
     "name": "Cutter Shark",
     "name_jp": "カット・イン・シャーク",
     "name_jp_rom": "Katto In Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cut-In Shark",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -40,6 +43,16 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP015",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -85,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

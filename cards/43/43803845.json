@@ -1,11 +1,14 @@
 {
     "cid": "c288fc15-451f-47ef-bc23-06d11974a9be",
+    "yid": 43803845,
     "password": "43803845",
     "kid": 13249,
     "name": "Duck Dummy",
     "name_jp": "ダックドロッパー",
     "name_jp_rom": "Dakku Doroppā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Duck Dropper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP033",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

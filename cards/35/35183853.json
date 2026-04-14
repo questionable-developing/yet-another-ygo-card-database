@@ -1,12 +1,14 @@
 {
     "cid": "9db36146-c1a7-4e6b-bed0-8cab5f1627a7",
-    "yid": null,
+    "yid": 35183853,
     "password": "35183853",
     "kid": 10794,
     "name": "Bujin Regalia - The Mirror",
     "name_jp": "<ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳴</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyomei-suru Bujin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mirror-Resonating Bujin",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP063",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
             "Turn limited effects",
             "At the start of Main Phase 1"
         ]
-    }
+    },
+    "links": {}
 }

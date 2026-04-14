@@ -1,11 +1,14 @@
 {
     "cid": "c36a6158-f016-445c-8ade-a38c39533d17",
+    "yid": 63509474,
     "password": "63509474",
     "kid": 13548,
     "name": "Whitefish Salvage",
     "name_jp": "<ruby lang=\"jp\"><rb>白の救済</rb><rp> (</rp><rt>ホワイト・サルベージ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Howaito Sarubēji",
+    "name_jp_rom_base": "Shiro no Kyūsai",
     "name_jp_tl": "White Salvage",
+    "name_jp_tl_base": "White Salvation",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP20-JP007",
+            "set": "Premium Pack 20",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

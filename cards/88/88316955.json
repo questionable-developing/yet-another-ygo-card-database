@@ -1,11 +1,14 @@
 {
     "cid": "0380dcca-fe9e-425e-8c79-2c383bea83e1",
+    "yid": 88316955,
     "password": "88316955",
     "kid": 13232,
     "name": "Krawler Spine",
     "name_jp": "クローラー・スパイン",
     "name_jp_rom": "Kurōrā Supain",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "CIBR-EN016",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP016",
             "set": "Circuit Break",
             "rarities": {
                 "Common": []
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

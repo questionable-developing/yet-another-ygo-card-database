@@ -1,11 +1,14 @@
 {
     "cid": "06e52570-08d5-41c2-9e72-dc4623677c71",
+    "yid": 42015635,
     "password": "42015635",
     "kid": 6775,
     "name": "Neo Space",
     "name_jp": "ネオスペース",
     "name_jp_rom": "Neosupēsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP046",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP03-JP024",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP034",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +125,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

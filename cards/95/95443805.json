@@ -1,11 +1,14 @@
 {
     "cid": "ff7e0340-0026-4b5a-8612-71b6cd73eaef",
+    "yid": 95443805,
     "password": "95443805",
     "kid": 7531,
     "name": "Mist Valley Shaman",
     "name_jp": "<ruby lang=\"jp\"><rb>霞の谷</rb><rp> (</rp><rt>ミスト・バレー</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祈</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>祷</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Misuto Barē no Kitōshi",
+    "name_jp_rom_base": "Kasumi no Tani no Kitōshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP014",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP005",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a2055f16-c5c5-4846-965c-3af59791f5c7",
+    "yid": 55697723,
     "password": "55697723",
     "kid": 20477,
     "name": "Surfacing Big Jaws",
     "name_jp": "<ruby lang=\"jp\"><rb>浮</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>上</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>するビッグ・ジョーズ",
     "name_jp_rom": "Fujōsuru Biggu Jōzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP001",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTA-JP001",
+            "set": "Rage of the Abyss +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

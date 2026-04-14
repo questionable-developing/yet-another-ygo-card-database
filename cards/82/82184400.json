@@ -1,11 +1,14 @@
 {
     "cid": "cdd27cb0-2204-44f1-aa66-be4c762fec8c",
+    "yid": 82184400,
     "password": "82184400",
     "kid": 16938,
     "name": "Abyss Keeper",
     "name_jp": "アビス・オーパー",
     "name_jp_rom": "Abisu Ōpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Abyss Oper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP042",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

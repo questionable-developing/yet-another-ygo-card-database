@@ -1,12 +1,14 @@
 {
     "cid": "7f8e5557-58a3-4ddb-bf6f-a14e5f008f7d",
-    "yid": null,
+    "yid": 35726888,
     "password": "35726888",
     "kid": 12800,
     "name": "Foolish Burial Goods",
     "name_jp": "おろかな<ruby lang=\"jp\"><rb>副</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>葬</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Orokana Fukusō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -83,6 +85,55 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP065",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR06-JP026",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC03-JP039",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SD44-JP030",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TT01-JPC12",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP093",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +163,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

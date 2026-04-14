@@ -1,11 +1,14 @@
 {
     "cid": "43fa78f4-b9aa-4cc3-9fb7-3fce50488fd2",
+    "yid": 93332803,
     "password": "93332803",
     "kid": 12038,
     "name": "Dogoran, the Mad Flame Kaiju",
     "name_jp": "<ruby lang=\"jp\"><rb>怒</rb><rp> (</rp><rt>ど</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>ドゴラン",
     "name_jp_rom": "Doenkaijū Dogoran",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -86,6 +89,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP021",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP012",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR14-JP014",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA08",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -129,5 +163,6 @@
             "Control only one",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4edca4b6-369c-4de5-ab17-07febb7f1c5b",
+    "yid": 63947968,
     "password": "63947968",
     "kid": 20184,
     "name": "Fiend Reflection of the Millennium",
     "name_jp": "ミレニアム・アブソリューター",
     "name_jp_rom": "Mireniamu Abusoryūtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Millennium Absoluter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP005",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "bb4ef23d-3fcf-4ec9-96eb-17333a6f1f77",
+    "yid": 96380700,
     "password": "96380700",
     "kid": 13881,
     "name": "Talkback Lancer",
     "name_jp": "トークバック・ランサー",
     "name_jp_rom": "Tōkubakku Ransā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +49,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD34-JP043",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

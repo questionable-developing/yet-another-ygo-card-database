@@ -1,11 +1,14 @@
 {
     "cid": "17243120-76fa-4e40-814f-ef5b74502a05",
+    "yid": 87532344,
     "password": "87532344",
     "kid": 19528,
     "name": "Eternal Favorite",
     "name_jp": "エターナル・フェイバリット",
     "name_jp_rom": "Etānaru Feibaritto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP073",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,7 +97,7 @@
             "Prevents activation of Trap Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard",
             "Prevents activations upon Summon",
             "Performs a Fusion Summon",
@@ -102,5 +114,6 @@
             "Requires control of specific card",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

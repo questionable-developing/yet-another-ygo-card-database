@@ -1,11 +1,14 @@
 {
     "cid": "0e34e004-a1ff-48be-8ec1-f4b72a7980e6",
+    "yid": 94431029,
     "password": "94431029",
     "kid": 15066,
     "name": "Pinpoint Dash",
     "name_jp": "ピンポイント<ruby lang=\"jp\"><rb>奪取</rb><rp> (</rp><rt>ダッシュ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Pinpointo Dasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP080",
+            "set": "Eternity Code",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -64,8 +76,8 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your Extra Deck",
-            "Reveals your opponent's Extra Deck",
+            "Reveals cards from your Extra Deck",
+            "Reveals cards from your opponent's Extra Deck",
             "Sends from your Extra Deck to your Graveyard",
             "Sends from your opponent's Extra Deck to your opponent's Graveyard"
         ],
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

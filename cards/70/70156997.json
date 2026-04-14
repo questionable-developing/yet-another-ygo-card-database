@@ -1,11 +1,14 @@
 {
     "cid": "c06eaceb-6662-43dd-9984-c17dcbe5b5c7",
+    "yid": 70156997,
     "password": "70156997",
     "kid": 6439,
     "name": "Spiritual Earth Art - Kurogane",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>－「<ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>くろがね</rt><rp>)</rp></ruby>」",
     "name_jp_rom": "Chireijutsu - \"Kurogane\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Earth Spiritual Art - \"Iron\"",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,10 +50,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP050",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP050",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD39-JP033",
+            "set": "Structure Deck: Masters of the Spiritual Arts",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS1-JP033",
+            "set": "Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Cost, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [
@@ -87,5 +120,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

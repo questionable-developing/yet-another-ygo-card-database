@@ -1,12 +1,14 @@
 {
     "cid": "55558057-f976-4408-93fc-ed610c14a5c0",
-    "yid": null,
+    "yid": 8321183,
     "password": "08321183",
     "kid": 12799,
     "name": "Ritual Beast Return",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>誓</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>還</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reijū no Seikan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirit Beast Promised Return",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP064",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP142",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +88,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -80,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

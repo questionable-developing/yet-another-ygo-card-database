@@ -1,12 +1,14 @@
 {
     "cid": "bfb67277-219d-444c-afa1-b01d52cc28da",
-    "yid": null,
+    "yid": 32180819,
     "password": "32180819",
     "kid": 7912,
     "name": "Psychokinesis",
     "name_jp": "<ruby lang=\"jp\"><rb>最</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>古</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>念</rb><rp> (</rp><rt>ねん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saikoshikinendō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ancient Telekinesis",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP056",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP058",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +113,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

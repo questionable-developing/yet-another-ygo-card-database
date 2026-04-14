@@ -1,12 +1,14 @@
 {
     "cid": "b4c5994f-fbb3-4797-b281-2fd350a27e2a",
-    "yid": null,
+    "yid": 15175429,
     "password": "15175429",
     "kid": 8002,
     "name": "Spell Reactor・RE",
     "name_jp": "マジック・リアクター・<ruby lang=\"jp\"><rb>ＡＩＤ</rb><rp> (</rp><rt>エイド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majikku Riakutā Eido",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Reactor AID",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP014",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP077",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

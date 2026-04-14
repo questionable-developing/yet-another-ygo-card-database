@@ -1,11 +1,14 @@
 {
     "cid": "e178a338-bd26-45c5-ac72-76e85fe32d87",
+    "yid": 73422829,
     "password": "73422829",
     "kid": 14263,
     "name": "Super Quantum White Layer",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>量</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ホワイトレイヤー",
     "name_jp_rom": "Chōryōshi Howaito Reiyā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DANE-EN013",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP013",
             "set": "Dark Neostorm",
             "rarities": {
                 "Rare": []
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

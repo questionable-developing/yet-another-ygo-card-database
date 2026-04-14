@@ -1,11 +1,14 @@
 {
     "cid": "bd4e432a-6ae4-464c-a67b-4202568acfd9",
+    "yid": 49752795,
     "password": "49752795",
     "kid": 15552,
     "name": "Dual Avatar Return",
     "name_jp": "<ruby lang=\"jp\"><rb>双</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>再</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>来</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōten no Sairai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dual Sky Return",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHRA-EN073",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP073",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -74,5 +86,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

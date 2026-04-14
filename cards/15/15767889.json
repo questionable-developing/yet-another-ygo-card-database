@@ -1,12 +1,14 @@
 {
     "cid": "5266ff0f-b73d-4bfe-b26b-464a5112f968",
-    "yid": null,
+    "yid": 15767889,
     "password": "15767889",
     "kid": 10769,
     "name": "Knight Day Grepher",
     "name_jp": "<ruby lang=\"jp\"><rb>騎士</rb><rp> (</rp><rt>ナイト</rt><rp>)</rp></ruby>デイ・グレファー",
     "name_jp_rom": "Naito Dei Gurefā",
+    "name_jp_rom_base": "Kishi Dei Gurefā",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -60,6 +62,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP038",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR09-JP008",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

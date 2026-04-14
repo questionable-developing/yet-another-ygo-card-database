@@ -1,11 +1,14 @@
 {
     "cid": "71382140-0cbc-4364-ba23-c8b479294a35",
+    "yid": 51827737,
     "password": "51827737",
     "kid": 8105,
     "name": "Genex Recycled",
     "name_jp": "リサイクル・ジェネクス",
     "name_jp_rom": "Risaikuru Jenekusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Recycle Genex",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +47,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT04-JP024",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP014",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP067",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

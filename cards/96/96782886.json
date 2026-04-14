@@ -1,11 +1,14 @@
 {
     "cid": "6f7f4c10-f5af-44f0-b2bf-83a67957e62e",
+    "yid": 96782886,
     "password": "96782886",
     "kid": 7714,
     "name": "Mind Master",
     "name_jp": "メンタルマスター",
     "name_jp_rom": "Mentaru Masutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mental Master",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,17 +32,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "MindMaster-DE03-JP-C.png",
+            "art": "MindMaster-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "MindMaster-TDGS-EN-R-UE.png",
-            "art": null
+            "art": "MindMaster-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TDGS-EN016",
             "set": "The Duelist Genesis",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP016",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP006",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -76,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

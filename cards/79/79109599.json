@@ -1,11 +1,14 @@
 {
     "cid": "e7bc0180-ce82-4260-a7ca-8bbc00d5a4ca",
+    "yid": 79109599,
     "password": "79109599",
     "kid": 6044,
     "name": "King of the Swamp",
     "name_jp": "<ruby lang=\"jp\"><rb>沼</rb><rp> (</rp><rt>ぬま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Numachi no Mashin'ō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Devil King of the Swamp",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -86,6 +89,68 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-027",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP195",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT08-JP005",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "AT06-JP006",
+            "set": "Advanced Tournament Pack 2014 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPFE-JP040",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP204",
+            "set": "Tournament Pack 2022 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP018",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "TH01-JP009",
+            "set": "Half Deck: Dragon-Type x Fusion Summon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,7 +163,9 @@
             "Fusion Monster"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Swamp"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [
@@ -122,5 +189,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

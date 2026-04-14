@@ -1,11 +1,14 @@
 {
     "cid": "0386945c-a657-44a1-904b-a061bf00edd2",
+    "yid": 95718355,
     "password": "95718355",
     "kid": 21153,
     "name": "Regenesis Archfiend",
     "name_jp": "<ruby lang=\"jp\"><rb>再世の魔神</rb><rp> (</rp><rt>リジェネシス・デーモン</rt><rp>)</rp></ruby> ベミドバル",
     "name_jp_rom": "Rijeneshisu Dēmon Bemidobaru",
+    "name_jp_rom_base": "Saisei no Mashin Bemidobaru",
     "name_jp_tl": "Regenesis Daemon Bemidbar",
+    "name_jp_tl_base": "Regenerated World Devil Bemidbar",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -47,6 +50,25 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP016",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ALIN-JP016",
+            "set": "Alliance Insight +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -94,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

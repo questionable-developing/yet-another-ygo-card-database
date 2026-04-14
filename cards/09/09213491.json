@@ -1,12 +1,14 @@
 {
     "cid": "c38ec332-f95e-4eb2-84a8-912f7bde0e6a",
-    "yid": null,
+    "yid": 9213491,
     "password": "09213491",
     "kid": 21424,
     "name": "Serene Psychic Girl",
     "name_jp": "<ruby lang=\"jp\"><rb>静</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>寂</rb><rp> (</rp><rt>じゃく</rt><rp>)</rp></ruby>のサイコガール",
     "name_jp_rom": "Seijaku no Saiko Gāru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serene Psycho Girl",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -31,17 +33,32 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SerenePsychicGirl-DUAD-JP-SR.png",
+            "art": "SerenePsychicGirl-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SerenePsychicGirl-DUAD-EN-C-1E.png",
-            "art": null
+            "art": "SerenePsychicGirl-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DUAD-EN013",
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP013",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -89,5 +106,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

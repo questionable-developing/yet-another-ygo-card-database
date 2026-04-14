@@ -1,12 +1,14 @@
 {
     "cid": "d3e87ca2-0663-4274-99db-95b7727e2c2c",
-    "yid": null,
+    "yid": 12670770,
     "password": "12670770",
     "kid": 10869,
     "name": "Cyber Network",
     "name_jp": "サイバー・ネットワーク",
     "name_jp_rom": "Saibā Nettowāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -56,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD26-JP029",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "18TP-JP214",
+            "set": "Tournament Pack 2018 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,7 +108,7 @@
             "Prevents activation of your Effect Monsters"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -103,5 +121,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "80b4d925-cc77-4b7b-91a2-89949bdc5185",
-    "yid": null,
+    "yid": 16241441,
     "password": "16241441",
     "kid": 7172,
     "name": "Chrysalis Larva",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>コクーン</rt><rp>)</rp></ruby>・ラーバ",
     "name_jp_rom": "Kokūn Rāba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cocoon Larva",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "TAEV-EN010",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP010",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

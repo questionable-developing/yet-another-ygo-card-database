@@ -1,12 +1,14 @@
 {
     "cid": "88b9ccf0-a73a-4979-81c4-9ef8032a4014",
-    "yid": null,
+    "yid": 24839398,
     "password": "24839398",
     "kid": 20244,
     "name": "Trap Gatherer",
     "name_jp": "トラップ・ギャザー",
     "name_jp_rom": "Torappu Gyazā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trap Gather",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP25-EN392",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP065",
+            "set": "The Infinite Forbidden",
             "rarities": {
                 "Common": []
             }
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

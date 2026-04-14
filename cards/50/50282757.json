@@ -1,11 +1,14 @@
 {
     "cid": "6f52a9ad-1a6c-47b9-a328-899285fa9d2c",
+    "yid": 50282757,
     "password": "50282757",
     "kid": 7379,
     "name": "Evil HERO Infernal Sniper",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> ヘル・スナイパー",
     "name_jp_rom": "Ībiru Hīrō Heru Sunaipā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil HERO Hell Sniper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP06-JP016",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP035",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +122,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

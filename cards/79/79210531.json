@@ -1,11 +1,14 @@
 {
     "cid": "dbb71fd9-569e-49d1-a92f-1ac7b0b27707",
+    "yid": 79210531,
     "password": "79210531",
     "kid": 18484,
     "name": "Tellarknight Lyran",
     "name_jp": "<ruby lang=\"jp\"><rb>星騎士</rb><rp> (</rp><rt>テラナイト</rt><rp>)</rp></ruby> リュラ",
     "name_jp_rom": "Teranaito Ryura",
+    "name_jp_rom_base": "Seikishi Ryura",
     "name_jp_tl": "Tellarknight Lyra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP021",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP050",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +109,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

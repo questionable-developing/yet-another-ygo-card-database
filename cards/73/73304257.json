@@ -1,11 +1,14 @@
 {
     "cid": "c4d9b058-d721-4ca7-80c9-5157d6fbecd4",
+    "yid": 73304257,
     "password": "73304257",
     "kid": 15502,
     "name": "Alpha, the Master of Beasts",
     "name_jp": "<ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>しし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>アルファ",
     "name_jp_rom": "Shishiō Arufa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Alpha, the King of Beasts",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -71,6 +74,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP023",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP023",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP023",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR14-JP022",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +157,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

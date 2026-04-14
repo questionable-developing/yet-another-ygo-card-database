@@ -1,12 +1,14 @@
 {
     "cid": "76055da2-1858-44f3-8b10-12a51dcb92fd",
-    "yid": null,
+    "yid": 29596581,
     "password": "29596581",
     "kid": 13908,
     "name": "Thunder Dragonroar",
     "name_jp": "<ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－サンダー・ドラゴン",
     "name_jp_rom": "Raijūryū - Sandā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder Beast Dragon - Thunder Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP021",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP172",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +120,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

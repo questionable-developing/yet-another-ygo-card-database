@@ -1,12 +1,14 @@
 {
     "cid": "7c775500-81fa-407d-9340-b7fb1e5165a7",
-    "yid": null,
+    "yid": 35800511,
     "password": "35800511",
     "kid": 11684,
     "name": "Superheavy Samurai Soulbuster Gauntlet",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>留</rb><rp> (</rp><rt>る</rt><rp>)</rp></ruby>バスター・ガントレット",
     "name_jp_rom": "Chōjūmusha Sōru Basutā Gantoretto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP009",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

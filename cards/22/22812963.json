@@ -1,12 +1,14 @@
 {
     "cid": "5d49b56e-be6c-4cc0-bcb5-4de26e964d02",
-    "yid": null,
+    "yid": 22812963,
     "password": "22812963",
     "kid": 21154,
     "name": "Regenesis Lord",
     "name_jp": "<ruby lang=\"jp\"><rb>創世の神</rb><rp> (</rp><rt>リジェネシス・ゴッド</rt><rp>)</rp></ruby> デウテロノミオン",
     "name_jp_rom": "Rijeneshisu Goddo Deuteronomion",
+    "name_jp_rom_base": "Sōsei no Kami Deuteronomion",
     "name_jp_tl": "Regenesis God Deuteronomion",
+    "name_jp_tl_base": "World Creation God Deuteronomion",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,26 @@
         {
             "sid": "ALIN-EN017",
             "set": "Alliance Insight",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP017",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ALIN-JP017",
+            "set": "Alliance Insight +1 Bonus Pack",
             "rarities": {
                 "Ultra Rare": [],
                 "Quarter Century Secret Rare": []
@@ -92,5 +114,6 @@
             "Requires control of specific ATK",
             "Requires control of specific DEF"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3bc7c29c-f7e9-4250-8c4a-04ed9f9076d0",
+    "yid": 42352091,
     "password": "42352091",
     "kid": 15378,
     "name": "Numeron Wall",
     "name_jp": "ヌメロン・ウォール",
     "name_jp_rom": "Numeron Wōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MGED-EN081",
             "set": "Maximum Gold: El Dorado",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CP20-JP020",
+            "set": "Collection Pack 2020",
             "rarities": {
                 "Rare": []
             }
@@ -94,5 +106,6 @@
             "Requires control of no cards<!-- The only exception is \"Numeron Wall\" as the only monster on the field -->",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

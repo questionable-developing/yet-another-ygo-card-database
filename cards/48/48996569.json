@@ -1,11 +1,14 @@
 {
     "cid": "e48cce9a-f8bc-4a55-888d-686dd39f9a67",
+    "yid": 48996569,
     "password": "48996569",
     "kid": 6990,
     "name": "Elemental HERO Grand Neos",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> グラン・ネオス",
     "name_jp_rom": "Erementaru Hīrō Guran Neosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +62,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP035",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP096",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +128,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

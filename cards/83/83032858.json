@@ -1,11 +1,14 @@
 {
     "cid": "708c106b-375b-4063-a995-e1632afb6b83",
+    "yid": 83032858,
     "password": "83032858",
     "kid": 13573,
     "name": "Elementsaber Aina",
     "name_jp": "エレメントセイバー・アイナ",
     "name_jp_rom": "Erementoseibā Aina",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "FLOD-EN019",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP019",
             "set": "Flames of Destruction",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

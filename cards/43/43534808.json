@@ -1,11 +1,14 @@
 {
     "cid": "3f4f230d-f03b-43a5-ae4b-a91803b231e3",
+    "yid": 43534808,
     "password": "43534808",
     "kid": 13918,
     "name": "Token Collector",
     "name_jp": "トークンコレクター",
     "name_jp_rom": "Tōkun Korekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -71,6 +74,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP031",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SR13-JP024",
+            "set": "Structure Deck R: Devil's Gate",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +133,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

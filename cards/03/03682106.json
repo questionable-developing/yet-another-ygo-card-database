@@ -1,12 +1,14 @@
 {
     "cid": "cb378cf7-cf88-422b-ae2a-ffd37acc52ca",
-    "yid": null,
+    "yid": 3682106,
     "password": "03682106",
     "kid": 5315,
     "name": "Double Snare",
     "name_jp": "ダブルトラップ",
     "name_jp_rom": "Daburu Torappu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Double Trap",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SC-15",
+            "set": "Struggle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL5-014",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP136",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

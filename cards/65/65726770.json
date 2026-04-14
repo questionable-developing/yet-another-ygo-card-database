@@ -1,11 +1,14 @@
 {
     "cid": "9dbb70b6-c7f6-4fa2-970a-5580cfb4dab0",
+    "yid": 65726770,
     "password": "65726770",
     "kid": 19844,
     "name": "Silent Magician Zero",
     "name_jp": "サイレント・マジシャン・ゼロ",
     "name_jp_rom": "Sairento Majishan Zero",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP003",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP003",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +118,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

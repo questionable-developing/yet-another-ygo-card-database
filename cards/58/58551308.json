@@ -1,11 +1,14 @@
 {
     "cid": "725a1d3d-0475-43d8-b311-770a18f92c21",
+    "yid": 58551308,
     "password": "58551308",
     "kid": 4923,
     "name": "Spear Cretin",
     "name_jp": "ダークファミリア",
     "name_jp_rom": "Dāku Famiria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Familiar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -63,6 +66,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-36",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-071",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT09-JP006",
+            "set": "Duel Terminal - Vylon Descends!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,8 +120,7 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": [
-            "Flip monster without a Flip effect"
-        ]
-    }
+        "misc": []
+    },
+    "links": {}
 }

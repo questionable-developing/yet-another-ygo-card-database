@@ -1,12 +1,14 @@
 {
     "cid": "29e3eaa1-19a1-418c-b349-3c9c7622bbce",
-    "yid": null,
+    "yid": 3891471,
     "password": "03891471",
     "kid": 8071,
     "name": "Psychic Tuning",
     "name_jp": "サイコ・チューン",
     "name_jp_rom": "Saiko Chūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Tune",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CRMS-EN076",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP076",
             "set": "Crimson Crisis",
             "rarities": {
                 "Rare": []
@@ -77,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "150ad593-5dc7-49c7-9533-79fc340bc014",
+    "yid": 65741786,
     "password": "65741786",
     "kid": 14676,
     "name": "I:P Masquerena",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>：<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ピー</rt><rp>)</rp></ruby>マスカレーナ",
     "name_jp_rom": "Ai:Pī Masukarēna",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,58 +46,142 @@
         },
         "3": {
             "idx": "3",
-            "full": "IPMasquerena-LPST-JP-OP.png",
-            "art": null
+            "full": "IPMasquerena-RA05-EN-UR-1E.png",
+            "art": "IPMasquerena-CA.png"
+        },
+        "4": {
+            "idx": "4",
+            "full": "IPMasquerena-LOCH-JP-UR.png",
+            "art": "IPMasquerena-MADU-JP-VG-artwork-3.png"
         },
         "1.1": {
             "idx": "1.1",
-            "full": "IPMasquerena-BLMR-EN-ScR-1E.png",
+            "full": "IPMasquerena-L26D-EN-C-1E.png",
             "art": "IPMasquerena-MADU-EN-VG-artwork.png"
         }
     },
-    "image": "2",
+    "image": "3",
     "sets": [
         {
             "sid": "CHIM-EN049",
             "set": "Chaos Impact",
             "rarities": {
-                "Ultra Rare": [],
-                "Starlight Rare": []
+                "Ultra Rare": ["1.1"],
+                "Starlight Rare": ["1.1"]
             }
         },
         {
             "sid": "MP20-EN178",
             "set": "2020 Tin of Lost Memories",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1.1"]
             }
         },
         {
             "sid": "MGED-EN035",
             "set": "Maximum Gold: El Dorado",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1.1", "2"]
             }
         },
         {
             "sid": "BLMR-EN085",
             "set": "Battles of Legend: Monstrous Revenge",
             "rarities": {
-                "Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Secret Rare": ["1.1"],
+                "Quarter Century Secret Rare": ["1.1"]
             }
         },
         {
             "sid": "RA02-EN042",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["2"],
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Platinum Secret Rare": ["2"],
+                "Quarter Century Secret Rare": ["2"],
+                "Ultimate Rare": ["2"],
+                "Collector's Rare": ["2"]
+            }
+        },
+        {
+            "sid": "L26D-ENM29",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": ["1.1"]
+            }
+        },
+        {
+            "sid": "RA05-EN105",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "UR": ["3"],
+                "StR": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP049",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PAC1-JP034",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Prismatic Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "QCCU-JP191",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPB30",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP069",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP023",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "LOCH-JP027",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Secret Rare": ["4"],
+                "Prismatic Secret Rare": ["4"]
             }
         }
     ],
@@ -139,5 +226,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

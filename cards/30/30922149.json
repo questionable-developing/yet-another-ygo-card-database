@@ -1,12 +1,14 @@
 {
     "cid": "e4da9005-bac0-4f9d-86ab-bfc97ccd345f",
-    "yid": null,
+    "yid": 30922149,
     "password": "30922149",
     "kid": 11864,
     "name": "Side Effects?",
     "name_jp": "<ruby lang=\"jp\"><rb>副</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>作</rb><rp> (</rp><rt>さ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>用</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>？",
     "name_jp_rom": "Fukusayō?",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SideEffects-CORE-JP-NR.png",
+            "art": "SideEffects-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SideEffects-MP16-EN-C-1E.png",
-            "art": null
+            "art": "SideEffects-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CORE-EN080",
@@ -45,6 +52,15 @@
             "set": "2016 Mega-Tin Mega Pack",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP080",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -75,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

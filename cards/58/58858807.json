@@ -1,11 +1,14 @@
 {
     "cid": "07832090-dd1a-486a-8236-89d47adf2c20",
+    "yid": 58858807,
     "password": "58858807",
     "kid": 18508,
     "name": "Tellarknight Constellar Caduceus",
     "name_jp": "<ruby lang=\"jp\"><rb>星騎士</rb><rp> (</rp><rt>テラナイト</rt><rp>)</rp></ruby> セイクリッド・カドケウス",
     "name_jp_rom": "Teranaito Seikuriddo Kadokeusu",
+    "name_jp_rom_base": "Seikishi Seikuriddo Kadokeusu",
     "name_jp_tl": "Tellarknight Sacred Caduceus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP045",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP045",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP059",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

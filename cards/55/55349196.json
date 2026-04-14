@@ -1,11 +1,14 @@
 {
     "cid": "99f1bfca-a40f-4226-844e-0cace6e957cf",
+    "yid": 55349196,
     "password": "55349196",
     "kid": 18794,
     "name": "Double-Headed Dino King Rex",
     "name_jp": "<ruby lang=\"jp\"><rb>双</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>頭</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>キング・レックス",
     "name_jp_rom": "Sōtōryū Kingu Rekkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Double-Headed Dragon King Rex",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP007",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2cfa2e09-61ac-4170-b538-c31deb9e1cf0",
-    "yid": null,
+    "yid": 14148099,
     "password": "14148099",
     "kid": 6199,
     "name": "B.E.S. Big Core",
     "name_jp": "<ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>艦</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby> ビッグ・コア",
     "name_jp_rom": "Kyodai Senkan Biggu Koa",
-    "name_jp_tl": "Giant Battleship - Big Core",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Giant Battleship Big Core",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP030",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP090",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
         "misc": [
             "From Konami Video Games"
         ]
-    }
+    },
+    "links": {}
 }

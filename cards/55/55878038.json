@@ -1,11 +1,14 @@
 {
     "cid": "fb25b521-122a-4573-9c57-f62ead6bba55",
+    "yid": 55878038,
     "password": "55878038",
     "kid": 13912,
     "name": "Chaos Dragon Levianeer",
     "name_jp": "<ruby lang=\"jp\"><rb>混</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>源</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>レヴィオニア",
     "name_jp_rom": "Kongenryū Revionia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chaos Origin Dragon Levianeer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -83,6 +86,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP025",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP014",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Premium Gold Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP020",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP009",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -133,5 +174,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

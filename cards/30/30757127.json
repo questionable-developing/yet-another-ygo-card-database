@@ -1,12 +1,14 @@
 {
     "cid": "87fd7bbc-2305-46c9-82e1-e6eb3eab419d",
-    "yid": null,
+    "yid": 30757127,
     "password": "30757127",
     "kid": 12694,
     "name": "Destiny HERO - Dangerous",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> デッドリーガイ",
     "name_jp_rom": "Desutenī Hīrō Deddorīgai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO - Deadlyguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -80,6 +82,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VP16-JP001",
+            "set": "20th Rival Collection",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP026",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP032",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP047",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -123,5 +157,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

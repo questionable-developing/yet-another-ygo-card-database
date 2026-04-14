@@ -1,11 +1,14 @@
 {
     "cid": "3bc72562-4475-408e-9f4e-1b1f9aa52c51",
+    "yid": 54959865,
     "password": "54959865",
     "kid": 6769,
     "name": "Neo-Spacian Air Hummingbird",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎ</rb><rp> (</rp><rt>ネオスペーシアン</rt><rp>)</rp></ruby>・エア・ハミングバード",
     "name_jp_rom": "Neosupēshian Ea Hamingubādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP004",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "YSD2-JP020",
+            "set": "Starter Deck 2007",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP06-JP001",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP079",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +136,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

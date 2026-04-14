@@ -1,12 +1,14 @@
 {
     "cid": "0288344e-d9c9-4d86-bf94-41cc998f4010",
-    "yid": null,
+    "yid": 36742774,
     "password": "36742774",
     "kid": 18838,
     "name": "Synchro World",
     "name_jp": "シンクロ・ワールド",
     "name_jp_rom": "Shinkuro Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP24-EN372",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP051",
+            "set": "Duelist Nexus",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +103,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

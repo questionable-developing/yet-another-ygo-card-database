@@ -1,11 +1,14 @@
 {
     "cid": "8cf45650-789a-4259-9f7a-8c3e648499b8",
+    "yid": 42596828,
     "password": "42596828",
     "kid": 15269,
     "name": "Dracoon Lamp",
     "name_jp": "<ruby lang=\"jp\"><rb>龍狸燈</rb><rp> (</rp><rt>ドラクーン・ランプ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dorakūn Ranpu",
+    "name_jp_rom_base": "Ryū Raitō",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP035",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

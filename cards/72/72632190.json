@@ -1,11 +1,14 @@
 {
     "cid": "10c64d9f-fe7c-4c46-b7cc-d5aad6208b58",
+    "yid": 72632190,
     "password": "72632190",
     "kid": 21795,
     "name": "Triple-Headed Behemoth",
     "name_jp": "ドリ・ドル・ドラ",
     "name_jp_rom": "Dori Doru Dora",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dri Dol Dora",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DOOD-EN029",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP029",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
             "Only once per turn",
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

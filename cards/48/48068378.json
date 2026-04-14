@@ -1,11 +1,14 @@
 {
     "cid": "f9a127b8-3f76-4d5f-be53-cdaf76fd33a3",
+    "yid": 48068378,
     "password": "48068378",
     "kid": 13752,
     "name": "Link Devotee",
     "name_jp": "リンク・ディヴォーティー",
     "name_jp_rom": "Rinku Divōtī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -53,6 +56,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP036",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
             "Co-linked",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

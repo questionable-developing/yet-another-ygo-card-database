@@ -1,12 +1,14 @@
 {
     "cid": "9512a6a1-1157-47f4-b473-5d012f831fbb",
-    "yid": null,
+    "yid": 27827272,
     "password": "27827272",
     "kid": 5237,
     "name": "Makiu, the Magical Mist",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霧</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雨</rb><rp> (</rp><rt>う</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Makiu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magical Drizzle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "L3-03",
+            "set": "Limited Edition 3: Yugi Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TP05-JP009",
+            "set": "Tournament Pack 2008 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPA34",
+            "set": "Memories of the Duel King: Duelist Kingdom Arc",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18TP-JP310",
+            "set": "Tournament Pack 2018 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +131,6 @@
             "Requires control of specific Type",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

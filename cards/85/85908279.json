@@ -1,11 +1,14 @@
 {
     "cid": "8d4a3bd6-479a-4f9c-a806-cc6a2531b0c0",
+    "yid": 85908279,
     "password": "85908279",
     "kid": 12846,
     "name": "Invoked Cocytus",
     "name_jp": "<ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>コキュートス",
     "name_jp_rom": "Shōkanjū Kokyūtosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Invoked Beast Cocytus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPFE-JP029",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP024",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

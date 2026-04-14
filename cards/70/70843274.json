@@ -1,11 +1,14 @@
 {
     "cid": "49e529c8-96c0-4a9d-aee8-8749179aca64",
+    "yid": 70843274,
     "password": "70843274",
     "kid": 19826,
     "name": "Psychic Processor",
     "name_jp": "サイコ・プロセッサー",
     "name_jp_rom": "Saiko Purosessā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Processor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP053",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

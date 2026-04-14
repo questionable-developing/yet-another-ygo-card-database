@@ -1,12 +1,14 @@
 {
     "cid": "7187d845-a49e-44f3-baca-95d346a21ddb",
-    "yid": null,
+    "yid": 36099620,
     "password": "36099620",
     "kid": 7626,
     "name": "Realm of Light",
     "name_jp": "ジャスティス・ワールド",
     "name_jp_rom": "Jasutisu Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Justice World",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP053",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DS14-JPL21",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

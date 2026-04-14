@@ -1,11 +1,14 @@
 {
     "cid": "5e56ab86-4a3f-4d78-bd22-984ccae3a417",
+    "yid": 53753697,
     "password": "53753697",
     "kid": 20483,
     "name": "Zoa the Fiendish Beast",
     "name_jp": "<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>デビルゾア",
     "name_jp_rom": "Akumajū Debiruzoa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Devilzoa the Demonic Beast",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ROTA-EN007",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP007",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

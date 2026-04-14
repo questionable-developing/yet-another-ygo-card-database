@@ -1,11 +1,14 @@
 {
     "cid": "ac19349c-d15a-4f28-8ed4-9ad282159c3c",
+    "yid": 47030842,
     "password": "47030842",
     "kid": 10158,
     "name": "Geargiaccelerator",
     "name_jp": "ギアギアクセル",
     "name_jp_rom": "Giagiakuseru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Geargiaccel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP028",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPM03",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

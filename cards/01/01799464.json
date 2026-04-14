@@ -1,12 +1,14 @@
 {
     "cid": "387c53b8-97db-4407-acf8-f3ebe0afe0f4",
-    "yid": null,
+    "yid": 1799464,
     "password": "01799464",
     "kid": 14839,
     "name": "Transcicada",
     "name_jp": "トランシケーダ",
     "name_jp_rom": "Toranshikēda",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP030",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

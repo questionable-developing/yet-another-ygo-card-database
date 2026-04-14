@@ -1,11 +1,14 @@
 {
     "cid": "d713401b-0ab5-4c87-9647-778bab90e06d",
+    "yid": 64749612,
     "password": "64749612",
     "kid": 14003,
     "name": "Yellow Ninja",
     "name_jp": "<ruby lang=\"jp\"><rb>黄色い</rb><rp> (</rp><rt>イエロー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ierō Ninja",
+    "name_jp_rom_base": "Kiiroi Ninja",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP053",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

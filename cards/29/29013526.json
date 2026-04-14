@@ -1,12 +1,14 @@
 {
     "cid": "18defec7-e1f3-40d5-9a60-b19c5a722eab",
-    "yid": null,
+    "yid": 29013526,
     "password": "29013526",
     "kid": 6702,
     "name": "Storming Wynn",
     "name_jp": "<ruby lang=\"jp\"><rb>吹</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>荒</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby>れるウィン",
     "name_jp_rom": "Fukiareru Win",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -56,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP029",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP209",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
             "Limited activations",
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

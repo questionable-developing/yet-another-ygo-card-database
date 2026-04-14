@@ -1,12 +1,14 @@
 {
     "cid": "153e0840-b902-4f5a-8e8c-ddbedb94ecdf",
-    "yid": null,
+    "yid": 35329581,
     "password": "35329581",
     "kid": 11177,
     "name": "Shadow Impulse",
     "name_jp": "シャドー・インパルス",
     "name_jp_rom": "Shadō Inparusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP032",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7e72b351-3eb0-4f3c-9c50-9aaa6b8e7b89",
+    "yid": 85862791,
     "password": "85862791",
     "kid": 14528,
     "name": "Fighting Dirty",
     "name_jp": "<ruby lang=\"jp\"><rb>泥仕合</rb><rp> (</rp><rt>ドローゲーム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dorō Gēmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Draw Game",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP080",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +82,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

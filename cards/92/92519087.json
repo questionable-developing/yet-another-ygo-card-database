@@ -1,11 +1,14 @@
 {
     "cid": "c1d016e0-86b3-4cad-9edd-7c2002bda267",
+    "yid": 92519087,
     "password": "92519087",
     "kid": 15515,
     "name": "Virtual World Kyubi - Shenshen",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堺</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狐</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>シェン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>々</rb><rp> (</rp><rt>シェン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dennōkaiko - Shenshen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Virtual World Fox - Shenshen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +61,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP036",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP036",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +119,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

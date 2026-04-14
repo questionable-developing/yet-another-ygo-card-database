@@ -1,12 +1,14 @@
 {
     "cid": "41b28e89-5c04-4c76-a218-ce3fb00bc421",
-    "yid": null,
+    "yid": 32391566,
     "password": "32391566",
     "kid": 9088,
     "name": "Extra Veiler",
     "name_jp": "エクストラ・ヴェーラー",
     "name_jp_rom": "Ekusutora Vērā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP011",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d9798ea7-f03a-491a-9a1f-45ecd82776cd",
+    "yid": 51838385,
     "password": "51838385",
     "kid": 6025,
     "name": "Theban Nightmare",
     "name_jp": "ナイトメアテーベ",
     "name_jp_rom": "Naitomea Tēbe",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Nightmare Thebe",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +68,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-008",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE2-JP176",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "VS15-JPD11",
+            "set": "Duelist Entry Deck VS",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +119,6 @@
             "Requires having no cards in hand",
             "Requires control of no Spell and Traps"
         ]
-    }
+    },
+    "links": {}
 }

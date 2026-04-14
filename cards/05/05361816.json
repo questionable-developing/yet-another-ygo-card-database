@@ -1,12 +1,14 @@
 {
     "cid": "7ec6342c-ed0f-4ce6-b8a4-94d56631b5cf",
-    "yid": null,
+    "yid": 5361816,
     "password": "05361816",
     "kid": 13986,
     "name": "Noble Knight Pellinore",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ペリノア",
     "name_jp_rom": "Seikishi Perinoa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Pellinore",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP045",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

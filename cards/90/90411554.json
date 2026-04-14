@@ -1,11 +1,14 @@
 {
     "cid": "dfc28db1-0a81-4a11-9645-53f0b5a439a7",
+    "yid": 90411554,
     "password": "90411554",
     "kid": 10519,
     "name": "Redox, Dragon Ruler of Boulders",
     "name_jp": "<ruby lang=\"jp\"><rb>巌</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－レドックス",
     "name_jp_rom": "Ganseiryū - Redokkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -77,6 +80,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP038",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "GS06-JP004",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP077",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,5 +154,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

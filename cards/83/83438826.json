@@ -1,11 +1,14 @@
 {
     "cid": "d1d07150-908a-4544-acdf-8dd17002fd02",
+    "yid": 83438826,
     "password": "83438826",
     "kid": 10356,
     "name": "Noble Arms - Arfeudutyr",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>アロンダイト",
     "name_jp_rom": "Seiken Arondaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Sword Arondight",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP027",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "19TP-JP413",
+            "set": "Tournament Pack 2019 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +127,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

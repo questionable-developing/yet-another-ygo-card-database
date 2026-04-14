@@ -1,12 +1,14 @@
 {
     "cid": "b8d1ad95-6552-476c-a486-42c1320ab0ff",
-    "yid": null,
+    "yid": 7602840,
     "password": "07602840",
     "kid": 6388,
     "name": "UFOroid",
     "name_jp": "ユーフォロイド",
     "name_jp_rom": "Yūforoido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP010",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP010",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a65e9ca8-6e7d-43ad-b938-e4a926b5f6ec",
+    "yid": 92377303,
     "password": "92377303",
     "kid": 5230,
     "name": "Dark Sage",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衣</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kokui no Daikenja",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black-Clothed Great Sage",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -21,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 \"Dark Magician\" immediately after applying the effect of \"Time Wizard\" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. If you called the coin toss right for the effect of \"Time Wizard\": You can Tribute 1 \"Dark Magician\" in your Monster Zone; Special Summon this card from your hand or Deck. If Special Summoned this way: Add 1 Spell from your Deck to your hand.",
     "pend_eff": null,
-    "mnst_eff": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 \"Dark Magician\" immediately after applying the effect of \"Time Wizard\" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
-    "eff": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 \"Dark Magician\" immediately after applying the effect of \"Time Wizard\" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
+    "mnst_eff": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. If you called the coin toss right for the effect of \"Time Wizard\": You can Tribute 1 \"Dark Magician\" in your Monster Zone; Special Summon this card from your hand or Deck. If Special Summoned this way: Add 1 Spell from your Deck to your hand.",
+    "eff": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. If you called the coin toss right for the effect of \"Time Wizard\": You can Tribute 1 \"Dark Magician\" in your Monster Zone; Special Summon this card from your hand or Deck. If Special Summoned this way: Add 1 Spell from your Deck to your hand.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "DarkSage-LCYW-EN-C-1E.png",
+            "full": "DarkSage-RA05-EN-StR-1E.png",
             "art": null
         }
     },
@@ -48,12 +51,49 @@
             "rarities": {
                 "Common": []
             }
+        },
+        {
+            "sid": "RA05-EN004",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "G5-01",
+            "set": "Yu-Gi-Oh! Duel Monsters 5: Expert 1 promotional cards",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DL1-000",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "BE1-JP096",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "BE01-JP087",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Rare": []
+            }
         }
     ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Summoning condition, Summoning condition, Trigger"
+            "Summoning condition, Summoning condition, Trigger, Trigger"
         ],
         "mentions": [
             "Dark Magician",
@@ -95,5 +135,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

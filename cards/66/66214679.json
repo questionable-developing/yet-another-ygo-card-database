@@ -1,11 +1,14 @@
 {
     "cid": "075ff5d3-cf1a-4dd6-8e2e-a99f5d1cdc2c",
+    "yid": 66214679,
     "password": "66214679",
     "kid": 7418,
     "name": "Dark Horus",
     "name_jp": "ダーク・ホルス・ドラゴン",
     "name_jp_rom": "Dāku Horusu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Horus Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP016",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP074",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +116,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

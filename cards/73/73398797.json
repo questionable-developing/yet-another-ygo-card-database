@@ -1,11 +1,14 @@
 {
     "cid": "15621ab9-60fa-4453-8daf-35a6038a7b59",
+    "yid": 73398797,
     "password": "73398797",
     "kid": 5600,
     "name": "Paladin of White Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>白竜の聖騎士</rb><rp> (</rp><rt>ナイト・オブ・ホワイトドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naito Obu Howaito Doragon",
+    "name_jp_rom_base": "Hakuryū no Seikishi",
     "name_jp_tl": "Knight of White Dragon",
+    "name_jp_tl_base": "Holy Knight of White Dragon",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +68,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "302-026",
+            "set": "Advent of Union",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SK2-019",
+            "set": "Structure Deck: Kaiba Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP081",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DR01-JPB13",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +139,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

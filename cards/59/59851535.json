@@ -1,11 +1,14 @@
 {
     "cid": "69611647-e4a7-4a23-b11b-facb799526ce",
+    "yid": 59851535,
     "password": "59851535",
     "kid": 14404,
     "name": "Witchcrafter Potterie",
     "name_jp": "ウィッチクラフト・ポトリー",
     "name_jp_rom": "Witchikurafuto Potorī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Potterie",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP014",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Requires having no cards in hand",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

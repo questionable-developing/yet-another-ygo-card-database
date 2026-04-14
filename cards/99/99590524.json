@@ -1,11 +1,14 @@
 {
     "cid": "897f10e6-d0d1-4931-96e1-b58cf8880440",
+    "yid": 99590524,
     "password": "99590524",
     "kid": 8086,
     "name": "Treacherous Trap Hole",
     "name_jp": "<ruby lang=\"jp\"><rb>狡</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>猾</rb><rp> (</rp><rt>かつ</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>落</rb><rp> (</rp><rt>お</rt><rp>)</rp></ruby>とし<ruby lang=\"jp\"><rb>穴</rb><rp> (</rp><rt>あな</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōkatsu na Otoshiana",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crafty Pitfall",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -68,6 +71,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP030",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT02-JP008",
+            "set": "Advanced Tournament Pack 2013 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18SP-JP210",
+            "set": "Special Pack 20th Anniversary Edition Vol.2",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +124,6 @@
         "misc": [
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

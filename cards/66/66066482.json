@@ -1,11 +1,14 @@
 {
     "cid": "465d3b77-b677-47bf-acc6-fc3038a3b489",
+    "yid": 66066482,
     "password": "66066482",
     "kid": 10051,
     "name": "Inzektor Firefly",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> リュシオル",
     "name_jp_rom": "Inzekutā Ryushioru",
+    "name_jp_rom_base": "Kōchūsōki Ryushioru",
     "name_jp_tl": "Inzektor Luciér",
+    "name_jp_tl_base": "Beetle Armed Machine Luciér",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN028",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP028",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

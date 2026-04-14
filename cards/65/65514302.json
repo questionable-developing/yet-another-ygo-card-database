@@ -6,7 +6,9 @@
     "name": "Magnet Bonding",
     "name_jp": "マグネット・ボンディング",
     "name_jp_rom": "Magunetto Bondingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BPRO-EN053",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BPRO-JP053",
             "set": "Burst Protocol",
             "rarities": {
                 "Common": []

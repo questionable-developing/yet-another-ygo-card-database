@@ -1,12 +1,14 @@
 {
     "cid": "b3ed1755-34f6-4433-ac1c-b68ddae47c22",
-    "yid": null,
+    "yid": 29834183,
     "password": "29834183",
     "kid": 11979,
     "name": "Graydle Eagle",
     "name_jp": "グレイドル・イーグル",
     "name_jp_rom": "Gureidoru Īguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DOCS-EN035",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP035",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
         "misc": [
             "Treated as Equip Card"
         ]
-    }
+    },
+    "links": {}
 }

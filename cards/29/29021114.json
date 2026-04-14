@@ -1,12 +1,14 @@
 {
     "cid": "6e9e6f3a-d838-4f8e-88a3-f012f2a9f4ea",
-    "yid": null,
+    "yid": 29021114,
     "password": "29021114",
     "kid": 12500,
     "name": "Silver Gadget",
     "name_jp": "シルバー・ガジェット",
     "name_jp_rom": "Shirubā Gajetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +74,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MVP1-JP017",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "rarities": {
+                "Kaiba Corporation Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPC33",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Super Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +132,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

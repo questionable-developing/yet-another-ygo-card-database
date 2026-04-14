@@ -1,11 +1,14 @@
 {
     "cid": "5e840052-4006-46b1-a2b3-09be0626449b",
+    "yid": 41269771,
     "password": "41269771",
     "kid": 9809,
     "name": "Constellar Algiedi",
     "name_jp": "セイクリッド・グレディ",
     "name_jp_rom": "Seikuriddo Guredi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Gredi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ConstellarAlgiedi-SPRG-JP-C.png",
+            "art": "ConstellarAlgiedi-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ConstellarAlgiedi-SP15-EN-C-1E.png",
-            "art": null
+            "art": "ConstellarAlgiedi-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA07-EN007",
@@ -48,6 +56,37 @@
             "rarities": {
                 "Common": [],
                 "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT13-JP020",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP097",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPL04",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPRG-JP047",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -82,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

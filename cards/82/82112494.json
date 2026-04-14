@@ -1,11 +1,14 @@
 {
     "cid": "a978ee90-ec81-4f95-a845-098b81d242ab",
+    "yid": 82112494,
     "password": "82112494",
     "kid": 18469,
     "name": "Superheavy Samurai Prodigy Wakaushi",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>童</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>ワカ－<ruby lang=\"jp\"><rb>Ｕ</rb><rp> (</rp><rt>ウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>４</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōjūshindō Waka-Ushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superheavy Prodigy Waka-U4",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -52,6 +55,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP006",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP006",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -79,7 +101,7 @@
             "Places from Deck to Pendulum Zone",
             "You discard for cost",
             "Activates if used as Synchro Material",
-            "Activates from your Extra Deck",
+            "Activates if added to the Extra Deck",
             "Goes to Pendulum Zone"
         ],
         "stat_change": [],
@@ -101,5 +123,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a718eb5b-a678-4837-8ad2-a8bd48399038",
+    "yid": 73594093,
     "password": "73594093",
     "kid": 12460,
     "name": "Metalfoes Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>錬装融合</rb><rp> (</rp><rt>メタルフォーゼ・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Metarufōze Fyūjon",
+    "name_jp_rom_base": "Rensō Yūgō",
     "name_jp_tl": "Metalphosis Fusion",
+    "name_jp_tl_base": "Refined Equip Fusion",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP061",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP089",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

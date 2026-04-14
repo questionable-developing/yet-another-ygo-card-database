@@ -1,12 +1,14 @@
 {
     "cid": "8341f4bb-db30-401b-a0e1-b590e16d1272",
-    "yid": null,
+    "yid": 14124483,
     "password": "14124483",
     "kid": 12901,
     "name": "Elemental HERO Honest Neos",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> オネスティ・ネオス",
     "name_jp_rom": "Erementaru Hīrō Onesuti Neosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Honesty Neos",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +74,49 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "20AP-JP005",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Secret Parallel Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP007",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "DP23-JP019",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "HC01-JP015",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP017",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,7 +153,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

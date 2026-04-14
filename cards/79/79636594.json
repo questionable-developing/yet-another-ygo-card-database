@@ -1,11 +1,14 @@
 {
     "cid": "4cf69e50-aac0-4658-bcd2-c9d48245085f",
+    "yid": 79636594,
     "password": "79636594",
     "kid": 11335,
     "name": "Block Spider",
     "name_jp": "ブロック・スパイダー",
     "name_jp_rom": "Burokku Supaidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "NECH-EN003",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP003",
             "set": "The New Challengers",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

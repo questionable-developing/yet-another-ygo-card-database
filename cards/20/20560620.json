@@ -1,12 +1,14 @@
 {
     "cid": "04bdcdeb-c912-48fb-b147-143628103947",
-    "yid": null,
+    "yid": 20560620,
     "password": "20560620",
     "kid": 17439,
     "name": "Emperor Tanuki's Critter Count",
     "name_jp": "お<ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狸</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>様</rb><rp> (</rp><rt>さま</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>かわ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>算</rb><rp> (</rp><rt>ざん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>様</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Odairisama no Kawazan'yō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP037",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

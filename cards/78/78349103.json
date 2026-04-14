@@ -1,11 +1,14 @@
 {
     "cid": "66b61d6e-8541-475e-bea1-c78f7cb78778",
+    "yid": 78349103,
     "password": "78349103",
     "kid": 8694,
     "name": "Machina Peacekeeper",
     "name_jp": "マシンナーズ・ピースキーパー",
     "name_jp_rom": "Mashinnāzu Pīsukīpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machiners Peacekeeper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD18-JP003",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP006",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

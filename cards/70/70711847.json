@@ -1,11 +1,14 @@
 {
     "cid": "1cc78459-2f78-4f54-9e3c-7ea1fe3b1138",
+    "yid": 70711847,
     "password": "70711847",
     "kid": 13979,
     "name": "Danger! Nessie!",
     "name_jp": "<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>のネッシー",
     "name_jp_rom": "Mikaiiki no Nesshī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Nessie of the Lands Unknown",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "DangerNessie-MP25-EN-PScR-1E.png",
+            "full": "DangerNessie-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -77,6 +80,35 @@
             "rarities": {
                 "Prismatic Secret Rare": []
             }
+        },
+        {
+            "sid": "RA05-EN012",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP022",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP022",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
         }
     ],
     "misc": {
@@ -118,5 +150,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

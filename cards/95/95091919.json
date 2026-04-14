@@ -1,11 +1,14 @@
 {
     "cid": "b9e8e994-1921-4366-b403-f593d0b49cef",
+    "yid": 95091919,
     "password": "95091919",
     "kid": 21427,
     "name": "Prototype Psychic Blaster",
     "name_jp": "プロトタイプサイコガンナー",
     "name_jp_rom": "Purototaipu Saiko Gannā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prototype Psycho Gunner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP016",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +81,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your hand",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons itself from your Graveyard"
         ],
         "attack": [],
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

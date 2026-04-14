@@ -1,12 +1,14 @@
 {
     "cid": "7eabbde6-d5b9-4f7b-9391-2a6a9145993b",
-    "yid": null,
+    "yid": 20050865,
     "password": "20050865",
     "kid": 12606,
     "name": "Crystron Citree",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－シトリィ",
     "name_jp_rom": "Kurisutoron - Shitoryi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -47,6 +49,23 @@
         {
             "sid": "OP27-EN015",
             "set": "OTS Tournament Pack 27",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP016",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP095",
+            "set": "LINK VRAINS Pack",
             "rarities": {
                 "Common": []
             }
@@ -95,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

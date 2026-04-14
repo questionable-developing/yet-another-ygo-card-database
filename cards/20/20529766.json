@@ -1,12 +1,14 @@
 {
     "cid": "a8fd2792-8739-4228-933e-4141db29dcba",
-    "yid": null,
+    "yid": 20529766,
     "password": "20529766",
     "kid": 6685,
     "name": "Super-Electromagnetic Voltech Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>磁</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>稼</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>ボルテック・ドラゴン",
     "name_jp_rom": "Chōdenjikadō Borutekku Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Electromagnetically-Powered Voltech Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP031",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP211",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

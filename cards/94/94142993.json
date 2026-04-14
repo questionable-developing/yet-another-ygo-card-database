@@ -1,11 +1,14 @@
 {
     "cid": "bf28497f-06d8-4e6f-b4d6-878145e889d4",
+    "yid": 94142993,
     "password": "94142993",
     "kid": 13383,
     "name": "Tindangle Intruder",
     "name_jp": "ティンダングル・イントルーダー",
     "name_jp_rom": "Tindanguru Intorūdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "EXFO-EN013",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP013",
             "set": "Extreme Force",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "32b1407c-b40a-4956-b7f9-b2a70d03b733",
-    "yid": null,
+    "yid": 5109321,
     "password": "05109321",
     "kid": 21639,
     "name": "R.B. Stage Landing",
     "name_jp": null,
     "name_jp_rom": null,
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +44,7 @@
             }
         }
     ],
+    "jp_sets": [],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,10 +80,13 @@
         "attack": [
             "Prevents other cards being destroyed by battle"
         ],
-        "banished": [],
+        "banished": [
+            "Banishes itself from Graveyard"
+        ],
         "life_points": [],
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

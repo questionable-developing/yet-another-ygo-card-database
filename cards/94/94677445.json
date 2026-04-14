@@ -1,11 +1,14 @@
 {
     "cid": "1f9b6b03-b9cd-4cc6-91da-7aea5be8d071",
+    "yid": 94677445,
     "password": "94677445",
     "kid": 14285,
     "name": "Ib the World Chalice Justiciar",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>杯</rb><rp> (</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby>イヴ",
     "name_jp_rom": "Seihai no Miko Ivu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eve the Star Chalice Divineress",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -32,10 +35,15 @@
         "1": {
             "idx": "1",
             "full": "IbtheWorldChaliceJusticiar-BLMM-EN-UR-1E.png",
-            "art": null
+            "art": "IbtheWorldChaliceJusticiar-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "IbtheWorldChaliceJusticiar-LOCH-JP-UR.png",
+            "art": "IbtheWorldChaliceJusticiar-OW-2.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "DANE-EN035",
@@ -57,6 +65,36 @@
             "set": "Battles of Legend: Monster Mayhem",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP035",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP043",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP032",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -105,5 +143,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

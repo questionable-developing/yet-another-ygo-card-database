@@ -1,12 +1,14 @@
 {
     "cid": "99ed6ba6-fce8-4ebe-a2c5-859cf628182a",
-    "yid": null,
+    "yid": 34904525,
     "password": "34904525",
     "kid": 18326,
     "name": "Gate Guardian of Thunder and Wind",
     "name_jp": "<ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>－ゲート・ガーディアン",
     "name_jp_rom": "Raifūmashin - Gēto Gādian",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Devil of Thunder and Wind - Gate Guardian",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -45,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP004",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,7 +89,7 @@
             "Contact Fusion",
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -92,5 +103,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

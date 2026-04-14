@@ -1,11 +1,14 @@
 {
     "cid": "b483d5ee-646a-4c2a-91e3-9555f8cc2083",
+    "yid": 46083380,
     "password": "46083380",
     "kid": 9763,
     "name": "Attraffic Control",
     "name_jp": "<ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>通</rb><rp> (</rp><rt>つう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>規</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>制</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōtsūkisei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Attack Traffic Control",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP045",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

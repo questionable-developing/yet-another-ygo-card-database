@@ -1,11 +1,14 @@
 {
     "cid": "96913ace-f2dc-47b5-b782-2a8a24bfb9c1",
+    "yid": 93125329,
     "password": "93125329",
     "kid": 18666,
     "name": "Golden Cloud Beast - Malong",
     "name_jp": "<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雲</rb><rp> (</rp><rt>うん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>馬</rb><rp> (</rp><rt>マ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>ロン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kin'unjū - Maron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP052",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP031",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +111,6 @@
             "Tuner Synchro Monster",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

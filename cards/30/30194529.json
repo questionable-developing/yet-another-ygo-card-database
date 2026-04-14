@@ -1,12 +1,14 @@
 {
     "cid": "fe488554-3c79-4142-a81e-2b4c6cc714ce",
-    "yid": null,
+    "yid": 30194529,
     "password": "30194529",
     "kid": 13089,
     "name": "Ningirsu the World Chalice Warrior",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>杯</rb><rp> (</rp><rt>はい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ニンギルス",
     "name_jp_rom": "Seihaisenshi Ningirusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ningirsu the Star Chalice Warrior",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -56,6 +58,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP050",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP082",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +117,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

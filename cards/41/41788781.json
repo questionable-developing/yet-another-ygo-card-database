@@ -1,11 +1,14 @@
 {
     "cid": "3b314c01-43ee-467d-a28f-c796c55ea3d3",
+    "yid": 41788781,
     "password": "41788781",
     "kid": 9302,
     "name": "Guldfaxe of the Nordic Beasts",
     "name_jp": "<ruby lang=\"jp\"><rb>極</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>グルファクシ",
     "name_jp_rom": "Kyokuseijū Gurufakushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Polar Star Beast Gullfaxi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -66,6 +69,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP011",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

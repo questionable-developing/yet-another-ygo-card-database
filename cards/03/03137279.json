@@ -1,12 +1,14 @@
 {
     "cid": "1fd49350-956c-4a27-981a-6ab84d96b26b",
-    "yid": null,
+    "yid": 3137279,
     "password": "03137279",
     "kid": 18036,
     "name": "Ixeep, Omen of the Ghoti",
     "name_jp": "ゴーティスの<ruby lang=\"jp\"><rb>兆</rb><rp> (</rp><rt>きざし</rt><rp>)</rp></ruby>イグジープ",
     "name_jp_rom": "Gōtisu no Kizashi Igujīpu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ixeep, Omen of the Ghotis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "DABL-EN086",
             "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP018",
+            "set": "World Premiere Pack 2023",
             "rarities": {
                 "Common": []
             }
@@ -84,5 +95,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

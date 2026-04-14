@@ -1,12 +1,14 @@
 {
     "cid": "3256b936-af89-458c-a4a9-5672a173eb1e",
-    "yid": null,
+    "yid": 2254222,
     "password": "02254222",
     "kid": 20746,
     "name": "Speedroid Wing Synchron",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＲ</rb><rp> (</rp><rt>スピードロイド</rt><rp>)</rp></ruby>ウィング・シンクロン",
     "name_jp_rom": "Supīdoroido Wingu Shinkuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -46,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP007",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -77,7 +88,7 @@
         ],
         "counter": [],
         "action": [
-            "Activates from your Extra Deck",
+            "Activates if added to the Extra Deck",
             "Sends from your Deck to your Graveyard"
         ],
         "stat_change": [],
@@ -102,5 +113,6 @@
             "Requires control of specific Attribute",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

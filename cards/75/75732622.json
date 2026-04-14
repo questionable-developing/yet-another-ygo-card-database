@@ -1,11 +1,14 @@
 {
     "cid": "3afd9032-b4ed-44d9-9b3c-e2071209c7ba",
+    "yid": 75732622,
     "password": "75732622",
     "kid": 7386,
     "name": "Grinder Golem",
     "name_jp": "トーチ・ゴーレム",
     "name_jp_rom": "Tōchi Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Torch Golem",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP07-JP011",
+            "set": "Duelist Pack: Jesse Anderson",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD33-JP010",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD38-JP006",
+            "set": "Structure Deck: Sacred Beasts of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +113,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

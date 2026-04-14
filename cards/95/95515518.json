@@ -1,11 +1,14 @@
 {
     "cid": "a9fed3db-e5a3-432f-b58e-83f1593fa5fb",
+    "yid": 95515518,
     "password": "95515518",
     "kid": 17161,
     "name": "The Weather Painter Moonbow",
     "name_jp": "<ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>つき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>アルシエル",
     "name_jp_rom": "Tsukitenki Arushieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Moon Weather Arciel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +58,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP050",
+            "set": "Dimension Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JP050",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,7 +108,7 @@
         "summoning": [
             "3 Link Materials",
             "Requires archetype specific Link Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Extra Deck"
         ],
         "attack": [],
@@ -98,5 +120,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

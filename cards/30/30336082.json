@@ -1,12 +1,14 @@
 {
     "cid": "d80f0170-bec5-446e-a253-dfcc05a6036d",
-    "yid": null,
+    "yid": 30336082,
     "password": "30336082",
     "kid": 19900,
     "name": "Sangen Summoning",
     "name_jp": "<ruby lang=\"jp\"><rb>盃</rb><rp> (</rp><rt>さかずき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>満</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby>ちる<ruby lang=\"jp\"><rb>燦</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>荘</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sakazuki Michiru Sangensō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Brimming Sangen Manor",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP059",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +111,6 @@
             "Requires control of specific Type",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

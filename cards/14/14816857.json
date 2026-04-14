@@ -1,12 +1,14 @@
 {
     "cid": "e145130d-de1e-488e-a8de-27c6a4857569",
-    "yid": null,
+    "yid": 14816857,
     "password": "14816857",
     "kid": 15485,
     "name": "Tri-Brigade Nervall",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣戦線</rb><rp> (</rp><rt>トライブリゲード</rt><rp>)</rp></ruby> ナーベル",
     "name_jp_rom": "Toraiburigēdo Nāberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP006",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP016",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

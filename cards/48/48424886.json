@@ -1,11 +1,14 @@
 {
     "cid": "6c446584-629b-4766-924f-7b47ecf3ce92",
+    "yid": 48424886,
     "password": "48424886",
     "kid": 11380,
     "name": "El Shaddoll Grysta",
     "name_jp": "エルシャドール・エグリスタ",
     "name_jp_rom": "Erushadōru Egurisuta",
+    "name_jp_rom_base": null,
     "name_jp_tl": "El Shaddoll Egrysta",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP048",
+            "set": "The New Challengers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP058",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP041",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP077",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +137,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

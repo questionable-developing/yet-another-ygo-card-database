@@ -1,11 +1,14 @@
 {
     "cid": "9e782b93-fd24-44f0-aef7-8b56f261a88d",
+    "yid": 68957034,
     "password": "68957034",
     "kid": 17374,
     "name": "Runick Flashing Fire",
     "name_jp": "<ruby lang=\"jp\"><rb>輝</rb><rp> (</rp><rt>かがや</rt><rp>)</rp></ruby>く<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>ほのお</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kagayaku Honō no Rūn",
+    "name_jp_rom_base": "Kagayaku Honō no Shinpi",
     "name_jp_tl": "Rune of Flashing Flames",
+    "name_jp_tl_base": "Divine Runestone of Flashing Flames",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP030",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

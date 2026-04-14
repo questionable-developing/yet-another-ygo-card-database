@@ -1,11 +1,14 @@
 {
     "cid": "5ba59410-0c77-4403-84ca-047969be7062",
+    "yid": 42021064,
     "password": "42021064",
     "kid": 21190,
     "name": "Dogurad, the Stonetrooper",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ドグラード",
     "name_jp_rom": "Kidōsekki Dogurādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dogurad, the Moving Stone Relic",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -42,6 +45,15 @@
     "sets": [
         {
             "sid": "ALIN-EN053",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP053",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

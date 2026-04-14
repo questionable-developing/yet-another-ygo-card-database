@@ -1,11 +1,14 @@
 {
     "cid": "a3f66936-0391-4d59-a722-1063de3b5569",
+    "yid": 76543119,
     "password": "76543119",
     "kid": 10829,
     "name": "Gimmick Puppet Des Troy",
     "name_jp": "ギミック・パペット－<ruby lang=\"jp\"><rb>死の木馬</rb><rp> (</rp><rt>デス・トロイ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gimikku Papetto - Desu Toroi",
+    "name_jp_rom_base": "Gimikku Papetto - Shi no Mokuba",
     "name_jp_tl": "Gimmick Puppet - Death Troy",
+    "name_jp_tl_base": "Gimmick Puppet - Wooden Horse of Death",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP083",
+            "set": "V Jump September 2013 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP041",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "acccd774-be46-4f7e-b043-5ca7adb8c791",
+    "yid": 78661338,
     "password": "78661338",
     "kid": 14097,
     "name": "Fantastical Dragon Phantazmay",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>創</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ファンタズメイ",
     "name_jp_rom": "Gensōryū Fantazumei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -82,6 +85,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP020",
+            "set": "Savage Strike",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP016",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP025",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP072",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -127,5 +169,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

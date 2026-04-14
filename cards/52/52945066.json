@@ -1,11 +1,14 @@
 {
     "cid": "195b983e-82d6-4f69-9e66-4a207ffd460a",
+    "yid": 52945066,
     "password": "52945066",
     "kid": 14516,
     "name": "Marincess Wave",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女波動</rb><rp> (</rp><rt>マリンセス・ウェーブ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Marinsesu Wēbu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP068",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP26-JP045",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
             "Requires control of specific Monster card type",
             "Requires control of specific Link Rating"
         ]
-    }
+    },
+    "links": {}
 }

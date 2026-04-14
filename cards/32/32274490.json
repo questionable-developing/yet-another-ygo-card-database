@@ -1,12 +1,14 @@
 {
     "cid": "ed7e1ba2-6d53-4c15-830a-a19452a1584e",
-    "yid": null,
+    "yid": 32274490,
     "password": "32274490",
     "kid": 4030,
     "name": "Skull Servant",
     "name_jp": "ワイト",
     "name_jp_rom": "Waito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -40,75 +42,136 @@
         },
         "3": {
             "idx": "3",
-            "full": "SkullServant-LPST-JP-OP.png",
+            "full": "SkullServant-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "2",
+    "image": "3",
     "sets": [
         {
             "sid": "DB1-EN101",
             "set": "Dark Beginning 1",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "LOB-EN004",
             "set": "Legend of Blue Eyes White Dragon",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "LCYW-EN219",
             "set": "Legendary Collection 3: Yugi's World Mega Pack",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "OP01-EN014",
             "set": "OTS Tournament Pack 1",
             "rarities": {
-                "Short Print": []
+                "Short Print": ["1"]
             }
         },
         {
             "sid": "SBLS-EN025",
             "set": "Speed Duel: Arena of Lost Souls",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "STP3-EN006",
             "set": "Speed Duel Tournament Pack 3",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "LOB-EN004",
             "set": "Legend of Blue Eyes White Dragon (25th Anniversary Edition)",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA04-EN110",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "BLMM-EN002",
             "set": "Battles of Legend: Monster Mayhem",
             "rarities": {
-                "Secret Rare": [],
-                "Starlight Rare": []
+                "Secret Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        },
+        {
+            "sid": "RA05-EN087",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Starter Box: Theatrical Release",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "",
+            "set": "Starter Box",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LB-04",
+            "set": "Legend of Blue Eyes White Dragon (Japanese)",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DL2-004",
+            "set": "Duelist Legacy Volume.2",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "BE1-JP101",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "BE01-JP091",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP005",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],
@@ -140,5 +203,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

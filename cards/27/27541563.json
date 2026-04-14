@@ -1,12 +1,14 @@
 {
     "cid": "cec96feb-4811-4f1a-a124-950bdb245145",
-    "yid": null,
+    "yid": 27541563,
     "password": "27541563",
     "kid": 13287,
     "name": "Altergeist Protocol",
     "name_jp": "オルターガイスト・プロトコル",
     "name_jp_rom": "Orutāgaisuto Purotokoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -63,6 +65,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP071",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AC03-JP059",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

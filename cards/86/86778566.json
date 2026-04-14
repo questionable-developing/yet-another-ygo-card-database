@@ -1,11 +1,14 @@
 {
     "cid": "ee0ac13c-def4-4927-937d-6dbe660f9809",
+    "yid": 86778566,
     "password": "86778566",
     "kid": 10196,
     "name": "Impenetrable Attack",
     "name_jp": "<ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>敵</rb><rp> (</rp><rt>てき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōgeki no Mutekika",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Attack Invulnerability",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -60,6 +63,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP066",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST13-JP034",
+            "set": "Starter Deck 2013",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "f239bb0a-18a6-415f-bacf-fdc97278a481",
-    "yid": null,
+    "yid": 11637481,
     "password": "11637481",
     "kid": 15497,
     "name": "U.A. Libero Spiker",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕ．Ａ．</rb><rp> (</rp><rt>ウルトラアスリート</rt><rp>)</rp></ruby>リベロスパイカー",
     "name_jp_rom": "Urutora Asurīto Ribero Supaikā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ultra Athlete Libero Spiker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PHRA-EN018",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP018",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

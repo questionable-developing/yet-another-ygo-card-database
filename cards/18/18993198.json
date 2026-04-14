@@ -1,12 +1,14 @@
 {
     "cid": "e2630e96-d8f4-41e7-b027-3351aa425c87",
-    "yid": null,
+    "yid": 18993198,
     "password": "18993198",
     "kid": 12615,
     "name": "Chemicritter Oxy Ox",
     "name_jp": "<ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>オキシン・オックス",
     "name_jp_rom": "Kagōjū Okishin Okkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chemical Beast Oxyn Ox",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "INOV-EN025",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP025",
             "set": "Invasion: Vengeance",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

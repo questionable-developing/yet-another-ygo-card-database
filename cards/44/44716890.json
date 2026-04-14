@@ -1,11 +1,14 @@
 {
     "cid": "d68aa06a-52fc-48c9-bd4a-2309a15f774b",
+    "yid": 44716890,
     "password": "44716890",
     "kid": 13964,
     "name": "Toll Hike",
     "name_jp": "<ruby lang=\"jp\"><rb>通</rb><rp> (</rp><rt>つう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>増</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>税</rb><rp> (</rp><rt>ぜい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tsūkō Zōzei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Toll Increase",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP077",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

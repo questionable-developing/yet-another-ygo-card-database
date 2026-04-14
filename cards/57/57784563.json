@@ -1,11 +1,14 @@
 {
     "cid": "ca7c6f69-0c0f-4f18-94ad-4881fd2d37b0",
+    "yid": 57784563,
     "password": "57784563",
     "kid": 9908,
     "name": "Dark Blade the Captain of the Evil World",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>長</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby> ダークソード",
     "name_jp_rom": "Yami Makai no Senshichō Dākusōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Sword the Warrior Captain of the Dark Demon World",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN034",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP034",
             "set": "Order of Chaos",
             "rarities": {
                 "Rare": []
@@ -82,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

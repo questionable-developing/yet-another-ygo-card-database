@@ -1,12 +1,14 @@
 {
     "cid": "bbb014dd-bbd4-4dc8-8d28-5273bb8fef56",
-    "yid": null,
+    "yid": 26834022,
     "password": "26834022",
     "kid": 7320,
     "name": "Disarm",
     "name_jp": "ディザーム",
     "name_jp_rom": "Dizāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "GLAS-EN071",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP071",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

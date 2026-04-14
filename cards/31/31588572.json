@@ -1,12 +1,14 @@
 {
     "cid": "f5c0169d-1dbd-4283-aa29-9511868460cb",
-    "yid": null,
+    "yid": 31588572,
     "password": "31588572",
     "kid": 15015,
     "name": "Unchained Twins - Sarama",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>童</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby>サラマ",
     "name_jp_rom": "Hakaidōji Sarama",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Unchained Child - Sarama",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +47,15 @@
         },
         {
             "sid": "ETCO-EN029",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP029",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -93,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

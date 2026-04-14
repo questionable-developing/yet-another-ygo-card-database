@@ -1,11 +1,14 @@
 {
     "cid": "bb17e4b6-aa48-4b7e-a3fd-2403971b7b4d",
+    "yid": 64804137,
     "password": "64804137",
     "kid": 20293,
     "name": "Trickstar Band Drumatis",
     "name_jp": "トリックスターバンド・ドラマチス",
     "name_jp_rom": "Torikkusutā Bando Doramachisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +42,15 @@
         {
             "sid": "MZTM-EN027",
             "set": "Maze of the Master",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP038",
+            "set": "Duelist Pack: Duelists of Brilliance",
             "rarities": {
                 "Rare": []
             }
@@ -84,7 +96,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

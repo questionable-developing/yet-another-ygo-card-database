@@ -1,11 +1,14 @@
 {
     "cid": "fe82e6aa-99f4-4aae-8018-178c49f11a55",
+    "yid": 81524756,
     "password": "81524756",
     "kid": 13730,
     "name": "Crusadia Maximus",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>穹</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>のパラディオン",
     "name_jp_rom": "Tenkyū no Paradion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vast Sky Palladion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP010",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

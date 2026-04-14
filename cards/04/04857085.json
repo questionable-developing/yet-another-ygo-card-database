@@ -1,12 +1,14 @@
 {
     "cid": "cdbd9d6d-8755-4714-ac69-33c6746883a6",
-    "yid": null,
+    "yid": 4857085,
     "password": "04857085",
     "kid": 7917,
     "name": "Omega Goggles",
     "name_jp": "<ruby lang=\"jp\"><rb>Ω</rb><rp> (</rp><rt>オメガ</rt><rp>)</rp></ruby>メガネ",
     "name_jp_rom": "Omega Megane",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Omega Glasses",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP062",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -55,7 +66,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your opponent's hand"
+            "Reveals cards from your opponent's hand"
         ],
         "stat_change": [],
         "mst": [],
@@ -71,5 +82,6 @@
             "Equips only to a specific target",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

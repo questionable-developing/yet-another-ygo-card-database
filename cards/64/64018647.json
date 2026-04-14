@@ -1,11 +1,14 @@
 {
     "cid": "8e6cb6ca-3f22-46bb-85ae-1cffb0471697",
+    "yid": 64018647,
     "password": "64018647",
     "kid": 16759,
     "name": "Breath of Resurrection",
     "name_jp": "リザレクション・ブレス",
     "name_jp_rom": "Rizarekushon Buresu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Resurrection Breath",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BreathofResurrection-DBGC-JP-C.png",
+            "art": "BreathofResurrection-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BreathofResurrection-MP23-EN-C-1E.png",
-            "art": null
+            "art": "BreathofResurrection-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "GRCR-EN036",
@@ -44,6 +52,16 @@
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP036",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -86,5 +104,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

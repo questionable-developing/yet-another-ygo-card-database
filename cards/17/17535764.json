@@ -1,12 +1,14 @@
 {
     "cid": "0fc62e67-3f7f-40b9-8923-8bc8411822dd",
-    "yid": null,
+    "yid": 17535764,
     "password": "17535764",
     "kid": 13917,
     "name": "Gokipole",
     "name_jp": "ゴキポール",
     "name_jp_rom": "Gokipōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Roachpole",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP030",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

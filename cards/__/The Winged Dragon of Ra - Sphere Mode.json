@@ -6,7 +6,9 @@
     "name": "The Winged Dragon of Ra - Sphere Mode",
     "name_jp": "ラーの<ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>球体形</rb><rp> (</rp><rt>スフィア・モード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rā no Yokushinryū - Sufia Mōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Winged Divine Dragon of Ra - Sphere Mode",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DIVINE",
     "pend": false,
@@ -78,6 +80,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP16-JP001",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP006",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "PGB1-JP013",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP008",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -128,5 +168,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

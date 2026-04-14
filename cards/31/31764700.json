@@ -1,12 +1,14 @@
 {
     "cid": "f461610e-3d02-48ed-8442-9d64fb113723",
-    "yid": null,
+    "yid": 31764700,
     "password": "31764700",
     "kid": 7411,
     "name": "Yubel - The Ultimate Nightmare",
     "name_jp": "ユベル－<ruby lang=\"jp\"><rb>Ｄａｓ　Ｅｘｔｒｅｍｅｒ　Ｔｒａｕｒｉｇ　Ｄｒａｃｈｅｎ</rb><rp> (</rp><rt>ダス・エクストレーム・トラウリヒ・ドラッヘ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yuberu - Dasu Ekusutorēmu Toraurihi Dorahhe",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yubel - Das Extremer Traurig Drachen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -73,6 +75,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP008",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP070",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP126",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +143,6 @@
             "Cover card",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

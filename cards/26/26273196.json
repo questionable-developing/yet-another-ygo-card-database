@@ -1,12 +1,14 @@
 {
     "cid": "bd2eec00-6e5e-4d37-9d31-1a972b908dee",
-    "yid": null,
+    "yid": 26273196,
     "password": "26273196",
     "kid": 15462,
     "name": "Time Wizard of Tomorrow",
     "name_jp": "<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Toki no Madōshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Time Wizard",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -32,16 +34,30 @@
         "1": {
             "idx": "1",
             "full": "TimeWizardofTomorrow-DLCS-EN-ScR-LE.png",
-            "art": null
+            "art": "TimeWizardofTomorrow-OW.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "TimeWizardofTomorrow-PP16-KR-SR-UE.png",
+            "art": "TimeWizardofTomorrow-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "DLCS-EN147",
             "set": "Dragons of Legend: The Complete Series",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VP20-JP001",
+            "set": "Prismatic Special Pack",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -87,5 +103,6 @@
             "Limited activations",
             "Coin toss"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "697f8f4c-882a-41f3-a82d-15b1aac01e85",
+    "yid": 50702124,
     "password": "50702124",
     "kid": 8787,
     "name": "Synchro Magnet",
     "name_jp": "シンクロ・マグネーター",
     "name_jp_rom": "Shinkuro Magunētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Synchro Magnator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TSHD-EN011",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP011",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

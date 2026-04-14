@@ -1,12 +1,14 @@
 {
     "cid": "aaa9001d-9cef-49da-b570-2502ae6dc2ab",
-    "yid": null,
+    "yid": 7133305,
     "password": "07133305",
     "kid": 14547,
     "name": "Water of Life",
     "name_jp": "<ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>いのち</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>みず</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Inochi no Mizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP19-JP002",
+            "set": "Collection Pack: Duelist of Revolution Version",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

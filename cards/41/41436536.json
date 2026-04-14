@@ -1,11 +1,14 @@
 {
     "cid": "e149a2a9-ef71-4bda-a275-ec241e719373",
+    "yid": 41436536,
     "password": "41436536",
     "kid": 6655,
     "name": "Elemental HERO Phoenix Enforcer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> フェニックスガイ",
     "name_jp_rom": "Erementaru Hīrō Fenikkusugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Phoenixguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -59,6 +62,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP032",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP012",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP212",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +126,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

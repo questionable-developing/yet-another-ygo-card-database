@@ -1,12 +1,14 @@
 {
     "cid": "d9ddf12e-72ff-4313-9804-2d76591a259b",
-    "yid": null,
+    "yid": 4825390,
     "password": "04825390",
     "kid": 17189,
     "name": "Ichiroku's Ledger Book",
     "name_jp": "イチロクの<ruby lang=\"jp\"><rb>魔物台帳</rb><rp> (</rp><rt>レジャーブック</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ichiroku no Rejābukku",
+    "name_jp_rom_base": "Ichiroku no Mamono Daichō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Ichiroku's Monster Ledger",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP078",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

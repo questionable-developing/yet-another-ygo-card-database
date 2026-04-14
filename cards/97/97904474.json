@@ -1,11 +1,14 @@
 {
     "cid": "49b5cd5c-dc1d-4ff8-8f6c-568861f17f1e",
+    "yid": 97904474,
     "password": "97904474",
     "kid": 7711,
     "name": "Handcuffs Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>手錠龍</rb><rp> (</rp><rt>ワッパー・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Wappā Doragon",
+    "name_jp_rom_base": "Tejōryū",
     "name_jp_tl": "Wapper Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP013",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT02-JP005",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

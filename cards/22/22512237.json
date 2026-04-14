@@ -1,12 +1,14 @@
 {
     "cid": "1a123a91-960a-4903-afad-b09f557995d5",
-    "yid": null,
+    "yid": 22512237,
     "password": "22512237",
     "kid": 6416,
     "name": "Mechanical Hound",
     "name_jp": "メカニカル・ハウンド",
     "name_jp_rom": "Mekanikaru Haundo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP018",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP018",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +96,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

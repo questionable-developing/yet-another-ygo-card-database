@@ -1,11 +1,14 @@
 {
     "cid": "b04274e9-ed8d-4b76-a7b5-cb2c3ff81a82",
+    "yid": 62896588,
     "password": "62896588",
     "kid": 8211,
     "name": "Natural Tune",
     "name_jp": "ナチュラル・チューン",
     "name_jp_rom": "Nachuraru Chūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "RGBT-EN059",
             "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP059",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP147",
+            "set": "Duelist Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -70,5 +89,6 @@
             "Requires control of specific Level",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

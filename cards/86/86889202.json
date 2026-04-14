@@ -1,11 +1,14 @@
 {
     "cid": "a2ecf4b7-b7d6-48ce-9ef5-870d47e8a5aa",
+    "yid": 86889202,
     "password": "86889202",
     "kid": 11372,
     "name": "Watch Dog",
     "name_jp": "<ruby lang=\"jp\"><rb>番</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>犬</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>－ウォッチドッグ",
     "name_jp_rom": "Banken - Wotchidoggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Guard Dog - Watch Dog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP040",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

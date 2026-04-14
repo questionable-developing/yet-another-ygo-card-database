@@ -1,11 +1,14 @@
 {
     "cid": "467cb482-aa31-4144-91bc-6153fa858f78",
+    "yid": 76573247,
     "password": "76573247",
     "kid": 6897,
     "name": "Alien Infiltrator",
     "name_jp": "エーリアン・ベーダー",
     "name_jp_rom": "Ērian Bēdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Alien Vader",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CDIP-EN033",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP033",
             "set": "Cyberdark Impact",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
             "Limited activations",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

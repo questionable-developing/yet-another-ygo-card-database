@@ -1,12 +1,14 @@
 {
     "cid": "fff682ab-ac2d-49ce-a6e6-bb55e2a3fb45",
-    "yid": null,
+    "yid": 28573958,
     "password": "28573958",
     "kid": 9289,
     "name": "The Agent of Miracles - Jupiter",
     "name_jp": "<ruby lang=\"jp\"><rb>奇</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>跡</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby> ジュピター",
     "name_jp_rom": "Kiseki no Daikōsha Jupitā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD20-JP003",
+            "set": "Structure Deck: Lost Sanctuary",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR12-JP007",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +102,7 @@
         ],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -96,5 +114,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d28fca4b-e1b4-419b-a55a-8d7353a721d7",
-    "yid": null,
+    "yid": 30013902,
     "password": "30013902",
     "kid": 15859,
     "name": "Sunseed Shadow",
     "name_jp": "<ruby lang=\"jp\"><rb>聖種の影芽</rb><rp> (</rp><rt>サンシード・シャドウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sanshīdo Shadou",
+    "name_jp_rom_base": "Seishu no Eiga",
     "name_jp_tl": "San Seed Shadow",
+    "name_jp_tl_base": "Shadow Bud of the Sacred Seed",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -41,6 +43,16 @@
             "set": "Ghosts From the Past (set)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP029",
+            "set": "Selection 10",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -92,5 +104,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

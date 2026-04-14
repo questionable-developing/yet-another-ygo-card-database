@@ -1,12 +1,14 @@
 {
     "cid": "c5debbd0-2437-44bd-9e41-e168842dc8de",
-    "yid": null,
+    "yid": 35261759,
     "password": "35261759",
     "kid": 12465,
     "name": "Pot of Desires",
     "name_jp": "<ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>で<ruby lang=\"jp\"><rb>貪</rb><rp> (</rp><rt>どん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōyoku de Don'yoku na Tsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pot of Greed and Avarice",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -104,6 +106,65 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP066",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP010",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SR08-JP034",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD38-JP029",
+            "set": "Structure Deck: Sacred Beasts of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR12-JP030",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TBC1-JP009",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP057",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -136,5 +197,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

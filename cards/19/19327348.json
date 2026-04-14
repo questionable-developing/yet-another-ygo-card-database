@@ -1,12 +1,14 @@
 {
     "cid": "2a80b99d-6379-46cd-b11f-67e42dae1864",
-    "yid": null,
+    "yid": 19327348,
     "password": "19327348",
     "kid": 7664,
     "name": "Dharc the Dark Charmer",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>いダルク",
     "name_jp_rom": "Yamireitsukai Daruku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dharc the Dark Spirit Charmer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -49,6 +51,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP026",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP011",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DCP1-JP005",
+            "set": "Duelist Card Protector Six Attribute Set",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DK01-JP005",
+            "set": "\"Duelist Kingdom: Collect Star Chips!\" Limited Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +117,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

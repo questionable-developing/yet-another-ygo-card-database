@@ -1,11 +1,14 @@
 {
     "cid": "a9ba1b22-3c6d-4ef8-9169-b92c5bcdd017",
+    "yid": 60222582,
     "password": "60222582",
     "kid": 10343,
     "name": "Galaxy Expedition",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河遠征</rb><rp> (</rp><rt>ギャラクシー・エクスペディション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Ekusupedishon",
+    "name_jp_rom_base": "Ginga Ensei",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP13-JP028",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CPF1-JP044",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SUB1-JP069",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP064",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

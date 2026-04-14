@@ -6,7 +6,9 @@
     "name": "Ghost Belle & Haunted Mansion",
     "name_jp": "<ruby lang=\"jp\"><rb>屋</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>敷</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>わらし",
     "name_jp_rom": "Yashiki Warashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -41,79 +43,168 @@
         },
         "3": {
             "idx": "3",
-            "full": "GhostBelleHauntedMansion-LPST-JP-UR.png",
+            "full": "GhostBelleHauntedMansion-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "3",
     "sets": [
         {
             "sid": "FLOD-EN033",
             "set": "Flames of Destruction",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "DUPO-EN078",
             "set": "Duel Power",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "DUDE-EN004",
             "set": "Duel Devastator",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["2"]
             }
         },
         {
             "sid": "MAGO-EN012",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1", "2"]
             }
         },
         {
             "sid": "DIFO-EN100",
             "set": "Dimension Force",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "MP22-EN258",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "SDCB-EN015",
             "set": "Structure Deck: Legend of the Crystal Beasts",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA01-EN011",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "PHRE-EN043",
             "set": "Phantom Revenge",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN092",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP033",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20CP-JPS09",
+            "set": "20th Secret Rare Special Pack",
+            "rarities": {
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP012",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["2"],
+                "Collector's Rare": ["2"],
+                "Premium Gold Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "PAC1-JP017",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Prismatic Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "SD44-JP015",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP012",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP051",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "DBPR-JP043",
+            "set": "Deck-Build Pack: Phantom Revengers",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP010",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],

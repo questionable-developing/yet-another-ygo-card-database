@@ -1,11 +1,14 @@
 {
     "cid": "d6f2aefe-ae00-441c-a036-ec35127cde66",
+    "yid": 91554542,
     "password": "91554542",
     "kid": 8707,
     "name": "Neo Flamvell Sabre",
     "name_jp": "ネオフレムベル・サーベル",
     "name_jp_rom": "Neo Furemuberu Sāberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT08-JP015",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP035",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

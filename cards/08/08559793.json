@@ -1,12 +1,14 @@
 {
     "cid": "2ef95171-86cb-46ee-9e09-30dc44838eb4",
-    "yid": null,
+    "yid": 8559793,
     "password": "08559793",
     "kid": 11574,
     "name": "Raidraptor - Nest",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ネスト",
     "name_jp_rom": "Reido Raputāzu - Nesuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Nest",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -70,6 +72,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP054",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPWR-JP026",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP161",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +130,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

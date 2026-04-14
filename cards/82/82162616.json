@@ -1,11 +1,14 @@
 {
     "cid": "5fb0fe17-c683-45db-8038-a82be337f6a6",
+    "yid": 82162616,
     "password": "82162616",
     "kid": 13956,
     "name": "Eternal Galaxy",
     "name_jp": "<ruby lang=\"jp\"><rb>永遠なる銀河</rb><rp> (</rp><rt>エターナル・ギャラクシー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Etānaru Gyarakushī",
+    "name_jp_rom_base": "Eiennaru Ginga",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP069",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP067",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

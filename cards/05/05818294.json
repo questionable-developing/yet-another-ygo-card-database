@@ -1,12 +1,14 @@
 {
     "cid": "dcda77c5-c84f-445e-b158-5bf6b4eff615",
-    "yid": null,
+    "yid": 5818294,
     "password": "05818294",
     "kid": 10621,
     "name": "Bujingi Turtle",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－ヘツカ",
     "name_jp_rom": "Bujingi - Hetsuka",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP018",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP3-JP059",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

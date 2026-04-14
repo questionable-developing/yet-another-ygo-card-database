@@ -1,12 +1,14 @@
 {
     "cid": "abf55c0a-bcb3-4838-a035-21ffd7afd9e3",
-    "yid": null,
+    "yid": 1984618,
     "password": "01984618",
     "kid": 15286,
     "name": "Nadir Servant",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>底</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>徒</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tentei no Shito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +70,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP052",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP063",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP003",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP027",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +140,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

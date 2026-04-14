@@ -1,11 +1,14 @@
 {
     "cid": "ca480257-5275-4497-95c2-a55f1b197893",
+    "yid": 94950218,
     "password": "94950218",
     "kid": 11085,
     "name": "Reverse Breaker",
     "name_jp": "リバース・ブレイカー",
     "name_jp_rom": "Ribāsu Bureikā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ReverseBreaker-PRIO-JP-C.png",
+            "art": "ReverseBreaker-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ReverseBreaker-PRIO-EN-C-1E.png",
-            "art": null
+            "art": "ReverseBreaker-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PRIO-EN056",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP056",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -75,5 +92,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

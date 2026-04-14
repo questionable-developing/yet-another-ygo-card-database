@@ -1,12 +1,14 @@
 {
     "cid": "474761c0-540d-4aed-a967-eae94279a4e7",
-    "yid": null,
+    "yid": 10817524,
     "password": "10817524",
     "kid": 11382,
     "name": "First of the Dragons",
     "name_jp": "<ruby lang=\"jp\"><rb>始</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>祖</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ワイアーム",
     "name_jp_rom": "Shisoryū Waiāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wyrm the Ancestral Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -73,6 +75,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP050",
+            "set": "The New Challengers",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP206",
+            "set": "Special Pack 20th Anniversary Edition Vol.2",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP209",
+            "set": "Tournament Pack 2023 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25TP-JP102",
+            "set": "Tournament Pack 2025 Vol.1",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +143,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

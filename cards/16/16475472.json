@@ -1,12 +1,14 @@
 {
     "cid": "6a4c9d62-cb34-4fac-8383-c6ce409d990d",
-    "yid": null,
+    "yid": 16475472,
     "password": "16475472",
     "kid": 5303,
     "name": "Lesser Fiend",
     "name_jp": "レッサー・デーモン",
     "name_jp_rom": "Ressā Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lesser Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -77,6 +79,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SC-03",
+            "set": "Struggle of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL5-003",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP126",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP100",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +140,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

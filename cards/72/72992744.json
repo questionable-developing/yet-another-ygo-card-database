@@ -1,11 +1,14 @@
 {
     "cid": "735b4ffa-7969-4d05-8569-15605611b956",
+    "yid": 72992744,
     "password": "72992744",
     "kid": 8299,
     "name": "Jester Lord",
     "name_jp": "ジェスター・ロード",
     "name_jp_rom": "Jesutā Rōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP008",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT07-JP001",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

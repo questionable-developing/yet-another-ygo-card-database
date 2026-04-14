@@ -1,12 +1,14 @@
 {
     "cid": "c192ba0a-3e72-4fe4-a400-c79d661641aa",
-    "yid": null,
+    "yid": 32872833,
     "password": "32872833",
     "kid": 10496,
     "name": "Parsec, the Interstellar Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>間</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>パーセク",
     "name_jp_rom": "Seikanryū Pāseku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP015",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "misc": [
             "Requires control of specific Level"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7616e643-2e37-4471-aa49-c234c32ef4e5",
+    "yid": 64964750,
     "password": "64964750",
     "kid": 16868,
     "name": "Sales Ban",
     "name_jp": "<ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>はっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禁</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>令</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakkinrei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP063",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCDB-JP057",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA19",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +113,6 @@
             "Duel-lasting effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

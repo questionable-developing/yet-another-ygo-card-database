@@ -1,11 +1,14 @@
 {
     "cid": "ceb9dcff-2371-4637-ac93-573b6834c4a9",
+    "yid": 66957584,
     "password": "66957584",
     "kid": 8823,
     "name": "Infernity Launcher",
     "name_jp": "インフェルニティガン",
     "name_jp_rom": "Inferuniti Gan",
-    "name_jp_tl": "Infernity Gun",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Infernity Gun\n<!--",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -18,10 +21,10 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Once per turn: You can send 1 \"Infernity\" monster from your hand to the Graveyard. You can send this card to the Graveyard, then target up to 2 \"Infernity\" monsters in your Graveyard; Special Summon them. You must have no cards in your hand to activate and to resolve this effect.",
+    "desc": "Once per turn: You can send 1 \"Infernity\" monster from your hand to the GY. You can send this face-up card from the Spell & Trap Zone to the GY, then target up to 2 \"Infernity\" monsters in your GY; Special Summon them. You must have no cards in your hand to activate and to resolve this effect.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Once per turn: You can send 1 \"Infernity\" monster from your hand to the Graveyard. You can send this card to the Graveyard, then target up to 2 \"Infernity\" monsters in your Graveyard; Special Summon them. You must have no cards in your hand to activate and to resolve this effect.",
+    "eff": "Once per turn: You can send 1 \"Infernity\" monster from your hand to the GY. You can send this face-up card from the Spell & Trap Zone to the GY, then target up to 2 \"Infernity\" monsters in your GY; Special Summon them. You must have no cards in your hand to activate and to resolve this effect.",
     "flavor": null,
     "images": {
         "1": {
@@ -29,26 +32,75 @@
             "full": "InfernityLauncher-20AP-JP-NPR.png",
             "art": "InfernityLauncher-MADU-JP-VG-artwork.png"
         },
+        "2": {
+            "idx": "2",
+            "full": "InfernityLauncher-STSP-JP-UR.png",
+            "art": null
+        },
         "1.1": {
             "idx": "1.1",
             "full": "InfernityLauncher-DUSA-EN-UR-1E.png",
             "art": "InfernityLauncher-MADU-EN-VG-artwork.png"
+        },
+        "2.1": {
+            "idx": "2.1",
+            "full": "InfernityLauncher-RA05-EN-UR-1E.png",
+            "art": null
         }
     },
-    "image": "1.1",
+    "image": "2.1",
     "sets": [
         {
             "sid": "TSHD-EN048",
             "set": "The Shining Darkness",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1.1"]
             }
         },
         {
             "sid": "DUSA-EN082",
             "set": "Duelist Saga",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1.1"]
+            }
+        },
+        {
+            "sid": "RA05-EN139",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2.1"],
+                "Starlight Rare": ["2.1"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP048",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DE04-JP149",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20AP-JP076",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP009",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -87,5 +139,6 @@
             "Limited activations",
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

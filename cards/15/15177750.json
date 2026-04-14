@@ -1,12 +1,14 @@
 {
     "cid": "f5203a5c-5476-454d-bed9-9dc4a40b9c48",
-    "yid": null,
+    "yid": 15177750,
     "password": "15177750",
     "kid": 14701,
     "name": "Blessed Winds",
     "name_jp": "<ruby lang=\"jp\"><rb>恵</rb><rp> (</rp><rt>めぐ</rt><rp>)</rp></ruby>みの<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Megumi no Kaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -53,6 +55,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP074",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP168",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +112,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

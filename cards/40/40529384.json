@@ -1,11 +1,14 @@
 {
     "cid": "f9e70a6b-97d2-4a49-845d-c439e31d74e1",
+    "yid": 40529384,
     "password": "40529384",
     "kid": 8192,
     "name": "Exploder Dragonwing",
     "name_jp": "エクスプロード・ウィング・ドラゴン",
     "name_jp_rom": "Ekusupurōdo Wingu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Explode Wing Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP040",
+            "set": "Raging Battle",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP136",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

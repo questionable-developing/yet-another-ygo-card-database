@@ -1,12 +1,14 @@
 {
     "cid": "8b9c17ed-efe4-4ef2-9358-2f11c54c0114",
-    "yid": null,
+    "yid": 33725002,
     "password": "33725002",
     "kid": 10605,
     "name": "V Salamander",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｖ</rb><rp> (</rp><rt>ブイ</rt><rp>)</rp></ruby>サラマンダー",
     "name_jp_rom": "Bui Saramandā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "JOTL-EN002",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP002",
             "set": "Judgment of the Light",
             "rarities": {
                 "Rare": []
@@ -89,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

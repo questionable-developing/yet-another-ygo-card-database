@@ -1,11 +1,14 @@
 {
     "cid": "73397f76-8bbd-42a4-ba35-2c63b9693d23",
+    "yid": 56907986,
     "password": "56907986",
     "kid": 12100,
     "name": "Kozmo Strawman",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｋｏｚｍｏ</rb><rp> (</rp><rt>コズモ</rt><rp>)</rp></ruby>－フォルミート",
     "name_jp_rom": "Kozumo - Forumīto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kozmo - Fowlmeat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP005",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +88,7 @@
             "Destroys your Monster Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand"
         ],
         "attack": [],
@@ -92,5 +104,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

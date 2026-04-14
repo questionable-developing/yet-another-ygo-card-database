@@ -1,12 +1,14 @@
 {
     "cid": "22d9fc80-86c8-4727-a2ef-de5f45e7fcf5",
-    "yid": null,
+    "yid": 28062325,
     "password": "28062325",
     "kid": 7930,
     "name": "Bamboo Scrap",
     "name_jp": "<ruby lang=\"jp\"><rb>竹</rb><rp> (</rp><rt>ちく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>頭</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>木</rb><rp> (</rp><rt>ぼく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>屑</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chikutōbokusetsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bamboo Head Wood Chips",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CSOC-EN075",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP075",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

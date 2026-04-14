@@ -1,11 +1,14 @@
 {
     "cid": "6515a677-3777-4e7d-8213-26b6ec34de82",
+    "yid": 65591858,
     "password": "65591858",
     "kid": 10895,
     "name": "Chronomaly Winged Sphinx",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>ウィングス・スフィンクス",
     "name_jp_rom": "Ōpātsu Wingusu Sufinkusu",
+    "name_jp_rom_base": "Senshi Isan Wingusu Sufinkusu",
     "name_jp_tl": "OOPArts Wings Sphinx",
+    "name_jp_tl_base": "Prehistoric Heritage Wings Sphinx",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP009",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

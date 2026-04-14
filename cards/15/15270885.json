@@ -1,12 +1,14 @@
 {
     "cid": "34d757c2-8e0b-4206-a143-d7f1eeec3087",
-    "yid": null,
+    "yid": 15270885,
     "password": "15270885",
     "kid": 5478,
     "name": "Toon Goblin Attack Force",
     "name_jp": "トゥーン・ゴブリン<ruby lang=\"jp\"><rb>突</rb><rp> (</rp><rt>とつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tūn Goburin Totsugeki Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +68,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PE-08",
+            "set": "Structure Deck: Pegasus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL4-130",
+            "set": "Duelist Legacy Volume.4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE2-JP117",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP091",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +139,6 @@
             "Requires control of specific card",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

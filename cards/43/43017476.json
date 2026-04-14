@@ -1,11 +1,14 @@
 {
     "cid": "539ea5ea-f6eb-4518-b58f-d31ee12bdf24",
+    "yid": 43017476,
     "password": "43017476",
     "kid": 13189,
     "name": "Duoterion",
     "name_jp": "デューテリオン",
     "name_jp_rom": "Dyūterion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deuterion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP037",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2d36e065-6e9d-4bb9-8cd4-d5cf506204a7",
-    "yid": null,
+    "yid": 34559295,
     "password": "34559295",
     "kid": 13827,
     "name": "Iron Draw",
     "name_jp": "アイアンドロー",
     "name_jp_rom": "Aiandorō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP18-JP034",
+            "set": "Collectors Pack 2018",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP027",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +119,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

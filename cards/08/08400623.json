@@ -1,12 +1,14 @@
 {
     "cid": "e6c20019-928d-4e4e-afb5-7391cceacf15",
-    "yid": null,
+    "yid": 8400623,
     "password": "08400623",
     "kid": 7522,
     "name": "Evil Dragon Ananta",
     "name_jp": "<ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>アナンタ",
     "name_jp_rom": "Jaryū Ananta",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP11-JP005",
+            "set": "Premium Pack 11",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP105",
+            "set": "Tournament Pack 2022 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +110,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7fb39f8c-1e84-491b-b180-c8a56741bbf7",
+    "yid": 61944066,
     "password": "61944066",
     "kid": 21478,
     "name": "Nouvelles Recipe Book \"Recettes de Nouvellez\"",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｒｅｃｅｔｔｅｓ ｄｅ Ｎｏｕｖｅｌｌｅｚ</rb><rp> (</rp><rt>ルセット・ド・ヌーベルズ</rt><rp>)</rp></ruby>～ヌーベルズのレシピ<ruby lang=\"jp\"><rb>帳</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>～",
     "name_jp_rom": "Rusetto Do Nūberuzu ~Nūberuzu no Reshipi-chō~",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Recettes de Nouvellez ~Nouvellez Recipe Book~",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DUAD-EN067",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP067",
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

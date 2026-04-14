@@ -1,12 +1,14 @@
 {
     "cid": "245492e6-39d8-49fa-8914-d737b7c90710",
-    "yid": null,
+    "yid": 20700531,
     "password": "20700531",
     "kid": 8107,
     "name": "Pilgrim of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>修</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>験</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hyōkekkai no Shugenja",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mountain Ascetic of the Ice Barrier",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT04-JP026",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP016",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP013",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

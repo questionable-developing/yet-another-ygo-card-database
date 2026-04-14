@@ -1,11 +1,14 @@
 {
     "cid": "253f2314-80af-442d-acfd-960b22b2b7f2",
+    "yid": 64927055,
     "password": "64927055",
     "kid": 16647,
     "name": "The Chorus in the Sky",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>歌</rb><rp> (</rp><rt>うた</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>声</rb><rp> (</rp><rt>ごえ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenkū no Utagoe",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TheChorusintheSky-SR12-JP-SR.png",
+            "art": "TheChorusintheSky-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TheChorusintheSky-GFP2-EN-UR-1E.png",
-            "art": null
+            "art": "TheChorusintheSky-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "GFP2-EN012",
             "set": "Ghosts From the Past: The 2nd Haunting",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR12-JP022",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -78,5 +95,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

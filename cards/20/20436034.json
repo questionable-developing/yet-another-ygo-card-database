@@ -1,12 +1,14 @@
 {
     "cid": "8132a1de-b47b-41f8-be84-dc9bcf17b836",
-    "yid": null,
+    "yid": 20436034,
     "password": "20436034",
     "kid": 4888,
     "name": "Ring of Magnetism",
     "name_jp": "<ruby lang=\"jp\"><rb>磁</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>りょく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>指</rb><rp> (</rp><rt>ゆび</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>輪</rb><rp> (</rp><rt>わ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jiryoku no Yubiwa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Booster 7",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ME-78",
+            "set": "Metal Raiders (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL4-068",
+            "set": "Duelist Legacy Volume.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP082",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE02-JP066",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +124,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2b03a594-db90-4ae7-8de3-1f3857516fcf",
+    "yid": 72705654,
     "password": "72705654",
     "kid": 20278,
     "name": "Tachyon Cloudragon",
     "name_jp": "<ruby lang=\"jp\"><rb>時空の雲篭</rb><rp> (</rp><rt>タキオン・クラウドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Takion Kuraudoragon",
+    "name_jp_rom_base": "Jikū no Unrō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Spacetime Cloudcradle",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "MZTM-EN012",
             "set": "Maze of the Master",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP002",
+            "set": "Duelist Pack: Duelists of Brilliance",
             "rarities": {
                 "Rare": []
             }
@@ -97,7 +109,9 @@
         "misc": [
             "Requires control of specific Type",
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

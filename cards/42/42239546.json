@@ -1,11 +1,14 @@
 {
     "cid": "131fe426-7e0e-43d0-bead-5d093eb82d94",
+    "yid": 42239546,
     "password": "42239546",
     "kid": 7173,
     "name": "Chrysalis Mole",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>コクーン</rt><rp>)</rp></ruby>・モーグ",
     "name_jp_rom": "Kokūn Mōgu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cocoon Moge",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TAEV-EN011",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP011",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

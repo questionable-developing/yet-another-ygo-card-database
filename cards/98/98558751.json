@@ -1,11 +1,14 @@
 {
     "cid": "e67e8a47-f44a-42ed-80e1-864dc1ca2ca9",
+    "yid": 98558751,
     "password": "98558751",
     "kid": 9511,
     "name": "T.G. Wonder Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> ワンダー・マジシャン",
     "name_jp_rom": "Tekku Jīnasu Wandā Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Wonder Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -67,6 +70,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP040",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP027",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP042",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +143,6 @@
             "Tuner Synchro Monster",
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

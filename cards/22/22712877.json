@@ -1,12 +1,14 @@
 {
     "cid": "4efbb2e6-74c1-4403-9cde-72f3a559f757",
-    "yid": null,
+    "yid": 22712877,
     "password": "22712877",
     "kid": 20204,
     "name": "Paralyzing Mushroom",
     "name_jp": "シビレルダケ",
     "name_jp_rom": "Shibirerudake",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tingling Mushroom",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP025",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "53b58f20-f89c-4899-b6ab-eb1d3e95c328",
-    "yid": null,
+    "yid": 11020863,
     "password": "11020863",
     "kid": 17620,
     "name": "Royal Straight Slasher",
     "name_jp": "ロイヤル・ストレート・スラッシャー",
     "name_jp_rom": "Roiyaru Sutorēto Surasshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,16 +46,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC02-JP001",
+            "set": "Animation Chronicle 2022",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Summoning condition, Summoning condition, Ignition, Trigger, Condition"
         ],
         "mentions": [
-            "Jack's Knight",
-            "King's Knight",
+            "Royal Straight",
             "Queen's Knight",
-            "Royal Straight"
+            "King's Knight",
+            "Jack's Knight"
         ],
         "sup": [
             "LIGHT",
@@ -92,5 +104,6 @@
             "Special Summon Monster",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

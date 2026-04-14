@@ -1,11 +1,14 @@
 {
     "cid": "9e9530b6-4bcd-4592-a1d5-b4bb5393327f",
+    "yid": 92744676,
     "password": "92744676",
     "kid": 20426,
     "name": "Zapper Shrimp",
     "name_jp": "デンジエビ",
     "name_jp_rom": "Denjiebi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Electromagnetic Shrimp",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP065",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
             "Only once per turn",
             "Once per Chain"
         ]
-    }
+    },
+    "links": {}
 }

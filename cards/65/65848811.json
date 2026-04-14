@@ -1,11 +1,14 @@
 {
     "cid": "4e392e35-7866-43d2-b804-02f0ed7c9bf9",
+    "yid": 65848811,
     "password": "65848811",
     "kid": 11290,
     "name": "Heroic Challenger - Assault Halberd",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｈ</rb><rp> (</rp><rt>ヒロイック</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チャレンジャー</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>襲</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>のハルベルト",
     "name_jp_rom": "Hiroikku Charenjā Kyōshū no Haruberuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "World Superstars",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP081",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -78,7 +90,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Requires control of no monsters"
+            "Requires control of no monsters",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

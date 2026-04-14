@@ -1,12 +1,14 @@
 {
     "cid": "0eb54e97-22a4-442d-b9cb-b41df111714e",
-    "yid": null,
+    "yid": 6767771,
     "password": "06767771",
     "kid": 17813,
     "name": "Tearlaments Scream",
     "name_jp": "<ruby lang=\"jp\"><rb>壱世壊を劈く弦声</rb><rp> (</rp><rt>ティアラメンツ・スクリーム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tiaramentsu Sukurīmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "String Sound Ripping Apart the First Broken World",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DABL-EN058",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP058",
             "set": "Darkwing Blast",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

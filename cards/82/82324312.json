@@ -1,11 +1,14 @@
 {
     "cid": "3d9ada60-a9b1-4743-b8c3-3bdc08540632",
+    "yid": 82324312,
     "password": "82324312",
     "kid": 7606,
     "name": "Goblin Recon Squad",
     "name_jp": "ゴブリン<ruby lang=\"jp\"><rb>偵</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>察</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Teisatsu Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP033",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,7 +73,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your opponent's hand",
+            "Reveals cards from your opponent's hand",
             "Sends from your opponent's hand to your opponent's Graveyard",
             "Changes own battle position",
             "Prevents battle position changes"
@@ -77,5 +89,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

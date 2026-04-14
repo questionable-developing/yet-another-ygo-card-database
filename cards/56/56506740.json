@@ -1,11 +1,14 @@
 {
     "cid": "0a06a5fe-a38b-499e-b971-45771af06b57",
+    "yid": 56506740,
     "password": "56506740",
     "kid": 20534,
     "name": "Primite Lordly Lode",
     "name_jp": "<ruby lang=\"jp\"><rb>原</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脈</rb><rp> (</rp><rt>みゃく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Genseki no Kōmyaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ore Lordly Lode",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "PrimiteLordlyLode-MP25-EN-PScR-1E.png",
+            "full": "PrimiteLordlyLode-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -51,6 +54,48 @@
             "sid": "MP25-EN114",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN072",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP058",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTA-JP058",
+            "set": "Rage of the Abyss +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP076",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
                 "Prismatic Secret Rare": []
             }
         }
@@ -99,5 +144,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

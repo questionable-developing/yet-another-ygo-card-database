@@ -1,11 +1,14 @@
 {
     "cid": "b3ad916b-9c2f-4263-94d1-1f7c4aa285b1",
+    "yid": 44901281,
     "password": "44901281",
     "kid": 8684,
     "name": "Saber Hole",
     "name_jp": "セイバー・ホール",
     "name_jp_rom": "Seibā Hōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -18,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Activate only while you control a face-up \"X-Saber\" monster. Negate the Summon of a monster, and destroy it.",
+    "desc": "When a monster(s) would be Summoned, while you control an \"X-Saber\" monster: Negate the Summon, and if you do, destroy that monster(s).",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Activate only while you control a face-up \"X-Saber\" monster. Negate the Summon of a monster, and destroy it.",
+    "eff": "When a monster(s) would be Summoned, while you control an \"X-Saber\" monster: Negate the Summon, and if you do, destroy that monster(s).",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SaberHole-ABPF-EN-SR-1E.jpg",
+            "full": "SaberHole-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -38,12 +41,42 @@
             "rarities": {
                 "Super Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENX27",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP073",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT07-JP008",
+            "set": "Advanced Tournament Pack 2014 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP017",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
         }
     ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [],
@@ -75,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

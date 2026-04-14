@@ -1,12 +1,14 @@
 {
     "cid": "29312a22-eb5e-4b13-a577-2cdcde7b1ea0",
-    "yid": null,
+    "yid": 4472318,
     "password": "04472318",
     "kid": 18030,
     "name": "Bayerock Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>岩</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ベアロック",
     "name_jp_rom": "Ganryū Bearokku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Boulder Dragon Bayerock",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "DABL-EN081",
             "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP045",
+            "set": "World Premiere Pack 2023",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

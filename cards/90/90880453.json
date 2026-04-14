@@ -6,7 +6,9 @@
     "name": "Elfnotes: A Plea for Help",
     "name_jp": "エルフェンノーツ～<ruby lang=\"jp\"><rb>再</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邂</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>のテルチェット～",
     "name_jp_rom": "Erufennōtsu ~Saikai no Teruchetto~",
-    "name_jp_tl": "Elfennotes ~Reunion Tercet~",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Elfennotes ~Tercet of Reunion~",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BPRO-EN057",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BPRO-JP057",
             "set": "Burst Protocol",
             "rarities": {
                 "Common": []

@@ -1,12 +1,14 @@
 {
     "cid": "3f34fe8c-3437-4a66-ab71-876233373450",
-    "yid": null,
+    "yid": 25801745,
     "password": "25801745",
     "kid": 19474,
     "name": "Lo, the Prayers of the Voiceless Voice",
     "name_jp": "<ruby lang=\"jp\"><rb>粛</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>声</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祈</rb><rp> (</rp><rt>いの</rt><rp>)</rp></ruby>り<ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>て</rt><rp>)</rp></ruby>ロー",
     "name_jp_rom": "Shukusei no Inorite Rō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Law, the Praying Hand of the Voiceless Voice",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP019",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHNI-JP019",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +129,6 @@
             "Requires control of specific Type",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

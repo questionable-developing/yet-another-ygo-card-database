@@ -1,11 +1,14 @@
 {
     "cid": "7ef577ea-9bcc-4206-aa5e-a4ea236a085d",
+    "yid": 46411259,
     "password": "46411259",
     "kid": 5539,
     "name": "Metamorphosis",
     "name_jp": "<ruby lang=\"jp\"><rb>突然変異</rb><rp> (</rp><rt>メタモルフォーゼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Metamorufōze",
+    "name_jp_rom_base": "Totsuzenhen'i",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Sudden Mutation",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "301-038",
+            "set": "The New Ruler",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP038",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCH-JP067",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +122,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

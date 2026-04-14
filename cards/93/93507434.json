@@ -1,11 +1,14 @@
 {
     "cid": "d279c273-9b82-4ee1-9555-e030f9a2a968",
+    "yid": 93507434,
     "password": "93507434",
     "kid": 13893,
     "name": "Dinowrestler Capaptera",
     "name_jp": "ダイナレスラー・カパプテラ",
     "name_jp_rom": "Dainaresurā Kapaputera",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP006",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

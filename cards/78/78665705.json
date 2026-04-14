@@ -1,11 +1,14 @@
 {
     "cid": "d25ec073-cdc7-4e5c-b1df-fbbb103e86a7",
+    "yid": 78665705,
     "password": "78665705",
     "kid": 15333,
     "name": "Ancient Chant",
     "name_jp": "<ruby lang=\"jp\"><rb>古</rb><rp> (</rp><rt>いにしえ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>文</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Inishie no Jumon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -44,6 +47,26 @@
             "set": "Maze of Millennia",
             "rarities": {
                 "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP24-JP004",
+            "set": "Duelist Pack: Duelists of Gloom",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP070",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
                 "Collector's Rare": []
             }
         }
@@ -89,5 +112,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

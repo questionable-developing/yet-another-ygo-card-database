@@ -1,11 +1,14 @@
 {
     "cid": "2411693e-2c46-4a25-a32f-e6dabeae2fd2",
+    "yid": 65993085,
     "password": "65993085",
     "kid": 13279,
     "name": "Overdone Burial",
     "name_jp": "やりすぎた<ruby lang=\"jp\"><rb>埋</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>葬</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yarisugita Maisō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP063",
+            "set": "Circuit Break",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR09-JP028",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

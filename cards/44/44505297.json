@@ -1,11 +1,14 @@
 {
     "cid": "e9798884-41bd-46ba-88a1-aaee61ca4b86",
+    "yid": 44505297,
     "password": "44505297",
     "kid": 9920,
     "name": "Inzektor Exa-Beetle",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> エクサビートル",
     "name_jp_rom": "Inzekutā Ekusabītoru",
+    "name_jp_rom_base": "Kōchūsōki Ekusabītoru",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Exa-Beetle",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP046",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +112,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

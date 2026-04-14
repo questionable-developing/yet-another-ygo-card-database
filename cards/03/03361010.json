@@ -1,12 +1,14 @@
 {
     "cid": "16241f8e-a41c-49c0-b629-7edc793d09da",
-    "yid": null,
+    "yid": 3361010,
     "password": "03361010",
     "kid": 18491,
     "name": "Kitsuni Kitsunebi",
     "name_jp": "<ruby lang=\"jp\"><rb>愉</rb><rp> (</rp><rt>ゆ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>怪</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>燐</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>のきつねびゆらら",
     "name_jp_rom": "Yukai na Rin no Kitsunebi Yurara",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yurara, the Giddy and Curious Fox-o'-Wisps",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP028",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

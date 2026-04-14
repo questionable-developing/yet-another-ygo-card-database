@@ -1,12 +1,14 @@
 {
     "cid": "fb9190b8-e67c-44e8-ad34-ad6f075c1f6c",
-    "yid": null,
+    "yid": 19307353,
     "password": "19307353",
     "kid": 14478,
     "name": "Spirit Sculptor",
     "name_jp": "<ruby lang=\"jp\"><rb>魂の造形家</rb><rp> (</rp><rt>スピリット・スカルプター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Supiritto Sukaruputā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP034",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR12-JP015",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

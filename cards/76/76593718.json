@@ -1,11 +1,14 @@
 {
     "cid": "b38ba550-e561-48a1-b9a7-41f33fd899ef",
+    "yid": 76593718,
     "password": "76593718",
     "kid": 18816,
     "name": "Greed Jar",
     "name_jp": "<ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>なポッド",
     "name_jp_rom": "Gōyoku na Poddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Greed Pod",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP029",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

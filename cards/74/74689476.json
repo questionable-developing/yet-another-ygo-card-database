@@ -1,11 +1,14 @@
 {
     "cid": "9fe56cf5-acf9-4b31-be1a-629d91191820",
+    "yid": 74689476,
     "password": "74689476",
     "kid": 16003,
     "name": "Rilliona, the Wondrous Magistus Witch Wardrobe",
     "name_jp": "<ruby lang=\"jp\"><rb>結晶の魔女</rb><rp> (</rp><rt>マギストス・ウィッチ</rt><rp>)</rp></ruby>サンドリヨン",
     "name_jp_rom": "Magisutosu Witchi Sandoriyon",
+    "name_jp_rom_base": "Kesshō no Majo Sandoriyon",
     "name_jp_tl": "Cendrillon, the Magistus Witch",
+    "name_jp_tl_base": "Cendrillon, the Crystal Witch",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP042",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP042",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

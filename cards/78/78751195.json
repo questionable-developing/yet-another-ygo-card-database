@@ -1,11 +1,14 @@
 {
     "cid": "7f3da4f5-21c3-43e7-8511-b0e677fa7ddf",
+    "yid": 78751195,
     "password": "78751195",
     "kid": 14815,
     "name": "Doshin @Ignister",
     "name_jp": "ドシン<ruby lang=\"jp\"><rb>＠</rb><rp> (</rp><rt>アット</rt><rp>)</rp></ruby>イグニスター",
     "name_jp_rom": "Doshin Atto Igunisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "IGAS-EN006",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP006",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

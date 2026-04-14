@@ -1,11 +1,14 @@
 {
     "cid": "7e9dd369-b6da-4904-ae4f-3e9e64ec6032",
+    "yid": 92562411,
     "password": "92562411",
     "kid": 14688,
     "name": "The World Legacy",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遺</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>ぶつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>みちび</rt><rp>)</rp></ruby>く<ruby lang=\"jp\"><rb>先</rb><rp> (</rp><rt>さき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seiibutsu no Michibiku Saki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Where the Star Relic Leads Next",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CHIM-EN061",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP061",
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "12172b81-e8ee-4ed8-9548-9e28b2b5aa77",
-    "yid": null,
+    "yid": 11969228,
     "password": "11969228",
     "kid": 14198,
     "name": "Dragunity Knight - Romulus",
     "name_jp": "ドラグニティナイト－ロムルス",
     "name_jp_rom": "Doraguniti Naito - Romurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -62,6 +64,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP2-JP031",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP043",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP187",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP035",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +144,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

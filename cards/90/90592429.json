@@ -1,11 +1,14 @@
 {
     "cid": "76fc0f6e-54db-4a0e-b271-40cec3dc388c",
+    "yid": 90592429,
     "password": "90592429",
     "kid": 9674,
     "name": "Vylon Filament",
     "name_jp": "ヴァイロン・フィラメント",
     "name_jp_rom": "Vairon Firamento",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GENF-EN057",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP057",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

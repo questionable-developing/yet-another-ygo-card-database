@@ -1,12 +1,14 @@
 {
     "cid": "17d8c720-4d31-4fb1-9dfc-454174f51388",
-    "yid": null,
+    "yid": 2618045,
     "password": "02618045",
     "kid": 10893,
     "name": "Photon Chargeman",
     "name_jp": "フォトン・チャージマン",
     "name_jp_rom": "Foton Chājiman",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP007",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

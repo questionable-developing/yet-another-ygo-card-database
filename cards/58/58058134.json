@@ -1,11 +1,14 @@
 {
     "cid": "51d715f9-b419-4f35-bb27-0f1e1c6d2458",
+    "yid": 58058134,
     "password": "58058134",
     "kid": 10412,
     "name": "Slacker Magician",
     "name_jp": "シャイニート・マジシャン",
     "name_jp_rom": "Shainīto Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shy-NEET Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,17 +33,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SlackerMagician-23TP-JP-C.png",
+            "art": "SlackerMagician-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SlackerMagician-CBLZ-EN-R-UE.png",
-            "art": null
+            "art": "SlackerMagician-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CBLZ-EN053",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP053",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP312",
+            "set": "Tournament Pack 2023 Vol.3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -83,5 +107,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

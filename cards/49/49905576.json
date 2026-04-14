@@ -1,11 +1,14 @@
 {
     "cid": "dedca23a-a4ee-4df5-a390-90517749b28b",
+    "yid": 49905576,
     "password": "49905576",
     "kid": 7047,
     "name": "Meltiel, Sage of the Sky",
     "name_jp": "<ruby lang=\"jp\"><rb>天空聖者</rb><rp> (</rp><rt>エンジェルセイント</rt><rp>)</rp></ruby>メルティウス",
     "name_jp_rom": "Enjeru Seinto Merutiusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Angel Saint Meltius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD11-JP002",
+            "set": "Structure Deck: Surge of Radiance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP16-JP001",
+            "set": "Tournament Pack 2010 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR05-JP006",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +124,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

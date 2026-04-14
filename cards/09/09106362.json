@@ -1,12 +1,14 @@
 {
     "cid": "1ab4a741-f61d-428e-bf51-f2385276dc81",
-    "yid": null,
+    "yid": 9106362,
     "password": "09106362",
     "kid": 12401,
     "name": "Performapal Gongato",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ドラネコ",
     "name_jp_rom": "Entameito Doraneko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Gongcat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP002",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -85,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

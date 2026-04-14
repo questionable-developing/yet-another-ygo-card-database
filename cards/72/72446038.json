@@ -1,11 +1,14 @@
 {
     "cid": "91c012cd-3ed1-4559-a0f5-9379d9b9a097",
+    "yid": 72446038,
     "password": "72446038",
     "kid": 6997,
     "name": "Synthesis Spell",
     "name_jp": "<ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>成</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōsei Majutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Synthesis Magic",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "STON-EN043",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP043",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

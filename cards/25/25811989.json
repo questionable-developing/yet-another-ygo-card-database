@@ -1,12 +1,14 @@
 {
     "cid": "2cc96b09-9517-4ac1-8f5d-d00fe3e5d13d",
-    "yid": null,
+    "yid": 25811989,
     "password": "25811989",
     "kid": 11536,
     "name": "Infernoid Piaty",
     "name_jp": "インフェルノイド・アシュメダイ",
     "name_jp_rom": "Inferunoido Ashumedai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infernoid Asmodai",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP016",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP104",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +124,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

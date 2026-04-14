@@ -1,11 +1,14 @@
 {
     "cid": "c6ae6e0d-370b-473b-868d-62440f2868d8",
+    "yid": 88836438,
     "password": "88836438",
     "kid": 17459,
     "name": "Spright Smashers",
     "name_jp": "スプライト・スマッシャーズ",
     "name_jp_rom": "Supuraito Sumasshāzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,29 @@
         {
             "sid": "BLMR-EN098",
             "set": "Battles of Legend: Monstrous Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP057",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TT01-JPB17",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP131",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -90,5 +116,6 @@
             "Requires control of specific Link Rating",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3541b01a-c9da-434f-abdc-3627ba17f1a3",
+    "yid": 60369732,
     "password": "60369732",
     "kid": 6351,
     "name": "Final Ritual of the Ancients",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daijashin no Gishiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ritual of the Great Evil God",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP044",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP224",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +97,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

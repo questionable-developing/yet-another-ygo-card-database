@@ -1,11 +1,14 @@
 {
     "cid": "d07ec63a-a1fc-40a3-8fec-b38eb90ffe26",
+    "yid": 95395761,
     "password": "95395761",
     "kid": 9892,
     "name": "Inzektor Ant",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> アーマイゼ",
     "name_jp_rom": "Inzekutā Āmaize",
+    "name_jp_rom_base": "Kōchūsōki Āmaize",
     "name_jp_tl": "Inzektor Ameise",
+    "name_jp_tl_base": "Beetle Armed Machine Ameise",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN018",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP018",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f0d02ccb-9e98-492b-9b08-3282cf632db4",
+    "yid": 84740193,
     "password": "84740193",
     "kid": 5534,
     "name": "Buster Rancher",
     "name_jp": "バスターランチャー",
     "name_jp_rom": "Basutā Ranchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Launcher",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "301-033",
+            "set": "The New Ruler",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP033",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,5 +86,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

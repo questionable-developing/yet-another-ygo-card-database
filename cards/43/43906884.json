@@ -1,11 +1,14 @@
 {
     "cid": "808e82a1-0667-4e4a-8368-9a7044000e75",
+    "yid": 43906884,
     "password": "43906884",
     "kid": 9145,
     "name": "Blackwing - Boobytrap",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＦ</rb><rp> (</rp><rt>ブラックフェザー</rt><rp>)</rp></ruby>－マイン",
     "name_jp_rom": "Burakkufezā - Main",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Feather - Mine",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "STBL-EN068",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP068",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

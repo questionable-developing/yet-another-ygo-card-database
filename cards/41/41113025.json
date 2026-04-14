@@ -1,11 +1,14 @@
 {
     "cid": "baec6a61-9ccd-411a-9729-9b1686690b9c",
+    "yid": 41113025,
     "password": "41113025",
     "kid": 7608,
     "name": "Diskblade Rider",
     "name_jp": "ディスクライダー",
     "name_jp_rom": "Disuku Raidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Disk Rider",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP035",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP133",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

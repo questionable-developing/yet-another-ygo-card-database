@@ -1,11 +1,14 @@
 {
     "cid": "f622cd86-1f4c-4cbe-b924-59a3dc4f04cc",
+    "yid": 61175706,
     "password": "61175706",
     "kid": 7584,
     "name": "Arcana Force IV - The Emperor",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>Ⅳ</rb><rp> (</rp><rt>フォー</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＥＭＰＥＲＯＲ</rb><rp> (</rp><rt>ジ・エンペラー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Fō - Ji Enperā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LODT-EN011",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP011",
             "set": "Light of Destruction",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

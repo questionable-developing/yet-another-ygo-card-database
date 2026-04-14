@@ -1,12 +1,14 @@
 {
     "cid": "31a1e6aa-d9bb-4036-a5fc-d9d630923021",
-    "yid": null,
+    "yid": 6924874,
     "password": "06924874",
     "kid": 6686,
     "name": "Harpie's Pet Baby Dragon",
     "name_jp": "ハーピィズペット<ruby lang=\"jp\"><rb>仔竜</rb><rp> (</rp><rt>ベビードラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hāpyizu Petto Bebī Doragon",
+    "name_jp_rom_base": "Hāpyizu Petto Shiryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "HarpiesPetBabyDragon-EE04-JP-R.jpg",
+            "art": "HarpiesPetBabyDragon-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "HarpiesPetBabyDragon-LDS2-EN-C-1E.png",
-            "art": null
+            "art": "HarpiesPetBabyDragon-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "EOJ-EN013",
@@ -63,6 +70,29 @@
             "set": "Legendary Duelists: Season 2",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP013",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD8-JP017",
+            "set": "Structure Deck: Lord of the Storm",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP193",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -109,5 +139,6 @@
             "Variable effects",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

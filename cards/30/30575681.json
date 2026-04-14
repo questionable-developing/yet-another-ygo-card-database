@@ -1,12 +1,14 @@
 {
     "cid": "4f8407a0-2aa7-4c80-80cf-abb79fbb0405",
-    "yid": null,
+    "yid": 30575681,
     "password": "30575681",
     "kid": 11469,
     "name": "Noble Knight Bedwyr",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ベディヴィエール",
     "name_jp_rom": "Seikishi Bediviēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Bedivere",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EONK-JP002",
+            "set": "Duel Field EX Epic of Noble Knights: Holy Sword of Guidance",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "EP15-JP043",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +94,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Once while face-up on the field"
+            "Once while face-up on the field",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

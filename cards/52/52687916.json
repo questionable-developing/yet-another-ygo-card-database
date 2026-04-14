@@ -1,11 +1,14 @@
 {
     "cid": "4874f7a5-9a26-404b-a7a8-b455a0a63fd3",
+    "yid": 52687916,
     "password": "52687916",
     "kid": 8732,
     "name": "Trishula, Dragon of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> トリシューラ",
     "name_jp_rom": "Hyōkekkai no Ryū Torishūra",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -22,106 +25,215 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 2+ non-Tuner monsters<br />When this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+    "desc": "1 Tuner + 2+ non-Tuners<br />When this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY (the card in the hand is chosen at random).",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
-    "eff": "1 Tuner + 2+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)",
+    "mnst_eff": "1 Tuner + 2+ non-Tuners\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY (the card in the hand is chosen at random).",
+    "eff": "1 Tuner + 2+ non-Tuners\nWhen this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY (the card in the hand is chosen at random).",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "TrishulaDragonoftheIceBarrier-RA02-EN-SR-1E.png",
+            "full": "TrishulaDragonoftheIceBarrier-L26D-EN-C-1E.png",
             "art": "TrishulaDragonoftheIceBarrier-MADU-EN-VG-artwork.png"
         },
         "2": {
             "idx": "2",
-            "full": "TrishulaDragonoftheIceBarrier-LPST-JP-OP.png",
+            "full": "TrishulaDragonoftheIceBarrier-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "HA04-EN060",
             "set": "Hidden Arsenal 4: Trishula's Triumph",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "HSRD-EN052",
             "set": "High-Speed Riders",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "AP08-EN001",
             "set": "Astral Pack Eight",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "DUSA-EN081",
             "set": "Duelist Saga",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "BLLR-EN060",
             "set": "Battles of Legend: Light's Revenge",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "DUDE-EN014",
             "set": "Duel Devastator",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "BLVO-EN100",
             "set": "Blazing Vortex",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "SDFC-EN045",
             "set": "Structure Deck: Freezing Chains",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "MGED-EN027",
             "set": "Maximum Gold: El Dorado",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "HAC1-EN054",
             "set": "Hidden Arsenal: Chapter 1",
             "rarities": {
-                "Duel Terminal Ultra Parallel Rare": []
+                "Duel Terminal Ultra Parallel Rare": ["1"]
             }
         },
         {
             "sid": "RA02-EN026",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "L26D-ENX36",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN101",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT08-JP042",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": ["1"],
+                "Duel Terminal Secret Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "GS03-JP010",
+            "set": "Gold Series 2011",
+            "rarities": {
+                "Normal Rare": ["1"],
+                "Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "GDB1-JP050",
+            "set": "The Gold Box",
+            "rarities": {
+                "Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "DTC3-JP060",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": ["1"],
+                "Duel Terminal Secret Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TRC1-JP030",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20AP-JP074",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Ultra Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20CP-JPF05",
+            "set": "20th Secret Rare Final Challenge Pack",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD40-JPP04",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison Melting Destiny Pack",
+            "rarities": {
+                "Super Parallel Rare": ["1"],
+                "Secret Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TW01-JP039",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Ultra Parallel Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Secret Parallel Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "AW01-JP001",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP019",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -165,5 +277,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "18a666e1-f188-477c-83a3-e59f9edbf9fc",
-    "yid": null,
+    "yid": 16643334,
     "password": "16643334",
     "kid": 13857,
     "name": "Starliege Photon Blast Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>輝</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>フォトン・ブラスト・ドラゴン",
     "name_jp_rom": "Kikōryū Foton Burasuto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Radiant-Light Dragon - Photon Blast Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP034",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP061",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,7 +113,7 @@
             "2 Xyz Materials",
             "Does not require specific Xyz Materials",
             "Special Summons from your hand",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -104,5 +124,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

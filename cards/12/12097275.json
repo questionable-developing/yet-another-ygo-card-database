@@ -1,12 +1,14 @@
 {
     "cid": "a6d05b4c-16f7-4091-bcaf-6602433a481e",
-    "yid": null,
+    "yid": 12097275,
     "password": "12097275",
     "kid": 13565,
     "name": "Gouki Bearhug",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ハッグベア",
     "name_jp_rom": "Gōki Haggubea",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Hugbear",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GoukiBearhug-FLOD-JP-C.png",
+            "art": "GoukiBearhug-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GoukiBearhug-MP19-EN-C-1E.png",
-            "art": null
+            "art": "GoukiBearhug-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "FLOD-EN010",
@@ -46,6 +53,15 @@
         {
             "sid": "MP19-EN007",
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP010",
+            "set": "Flames of Destruction",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

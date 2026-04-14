@@ -1,12 +1,14 @@
 {
     "cid": "e9a63233-81d2-48a7-aaed-b57e98e77d9c",
-    "yid": null,
+    "yid": 29280589,
     "password": "29280589",
     "kid": 15256,
     "name": "Edge Imp Scythe",
     "name_jp": "エッジインプ・サイズ",
     "name_jp_rom": "Ejji Inpu Saizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ROTD-EN022",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP022",
             "set": "Rise of the Duelist",
             "rarities": {
                 "Common": []
@@ -94,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

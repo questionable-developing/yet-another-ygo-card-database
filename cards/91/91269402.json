@@ -1,11 +1,14 @@
 {
     "cid": "4d80e7a5-388f-4be8-8c4a-78795171fb96",
+    "yid": 91269402,
     "password": "91269402",
     "kid": 13283,
     "name": "Cyberse Beacon",
     "name_jp": "サイバース・ビーコン",
     "name_jp_rom": "Saibāsu Bīkon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -62,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP067",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP033",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

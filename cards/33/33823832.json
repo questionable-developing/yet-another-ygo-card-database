@@ -1,12 +1,14 @@
 {
     "cid": "b21091ab-1133-45dd-8ab4-9672d7b08be8",
-    "yid": null,
+    "yid": 33823832,
     "password": "33823832",
     "kid": 11521,
     "name": "Performapal Fire Mufflerlion",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ファイア・マフライオ",
     "name_jp_rom": "Entameito Faia Mafuraio",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Fire Mufflio",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -60,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP001",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -99,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

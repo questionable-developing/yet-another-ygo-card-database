@@ -1,12 +1,14 @@
 {
     "cid": "4a5d676e-f116-43e7-91af-b614a8e3df19",
-    "yid": null,
+    "yid": 30643162,
     "password": "30643162",
     "kid": 7231,
     "name": "Strike Slash",
     "name_jp": "ストライク・ショット",
     "name_jp_rom": "Sutoraiku Shotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strike Shot",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP075",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

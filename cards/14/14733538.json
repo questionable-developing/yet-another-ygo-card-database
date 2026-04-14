@@ -1,12 +1,14 @@
 {
     "cid": "10ffb8f8-95da-47dc-a64c-1e9f52b6a9c4",
-    "yid": null,
+    "yid": 14733538,
     "password": "14733538",
     "kid": 12169,
     "name": "Draco Face-Off",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>呼</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>あい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>打</rb><rp> (</rp><rt>う</rt><rp>)</rp></ruby>つ",
     "name_jp_rom": "Ryūkoaiutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP061",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

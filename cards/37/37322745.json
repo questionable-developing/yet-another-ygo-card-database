@@ -1,11 +1,14 @@
 {
     "cid": "58d1c4fc-bea2-4316-b5aa-5c59950cfbd9",
+    "yid": 37322745,
     "password": "37322745",
     "kid": 8982,
     "name": "Naturia Forest",
     "name_jp": "ナチュルの<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nachuru no Mori",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Naturu Forest",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DREV-EN051",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP051",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "5f1c6169-c4eb-44e3-b4ee-bf50f2a7a998",
-    "yid": null,
+    "yid": 26357901,
     "password": "26357901",
     "kid": 16884,
     "name": "Imprudent Intrusion",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>償</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>知</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shishōfuchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Punishment of Imprudence",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BACH-EN079",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP079",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -71,5 +82,6 @@
             "Requires specific LP",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

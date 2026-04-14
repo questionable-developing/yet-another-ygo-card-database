@@ -1,12 +1,14 @@
 {
     "cid": "ac932909-658e-494a-93cf-559db9797e9d",
-    "yid": null,
+    "yid": 7617062,
     "password": "07617062",
     "kid": 10950,
     "name": "Ghostrick Museum",
     "name_jp": "ゴーストリック・ミュージアム",
     "name_jp_rom": "Gōsutorikku Myūjiamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP064",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

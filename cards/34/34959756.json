@@ -1,12 +1,14 @@
 {
     "cid": "52a20afc-c38b-46a2-a8cf-cc9202b08513",
-    "yid": null,
+    "yid": 34959756,
     "password": "34959756",
     "kid": 13813,
     "name": "Living Fossil",
     "name_jp": "リビング・フォッシル",
     "name_jp_rom": "Ribingu Fosshiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP18-JP015",
+            "set": "Collectors Pack 2018",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD37-JP030",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "4971edd3-1fd8-4a73-84a6-cef83616e01f",
-    "yid": null,
+    "yid": 33323657,
     "password": "33323657",
     "kid": 8367,
     "name": "Psychic Soul",
     "name_jp": "サイコ・ソウル",
     "name_jp_rom": "Saiko Sōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Soul",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ANPR-EN077",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP077",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Common": []
@@ -72,5 +83,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

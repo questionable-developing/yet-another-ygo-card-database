@@ -1,11 +1,14 @@
 {
     "cid": "2dbe5aeb-0d86-4b8d-8517-a7f35c475efd",
+    "yid": 43011492,
     "password": "43011492",
     "kid": 14425,
     "name": "Evil Eye Confrontation",
     "name_jp": "<ruby lang=\"jp\"><rb>惨</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禍</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sanka no Jugan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cursed Eye of Calamity",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP035",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

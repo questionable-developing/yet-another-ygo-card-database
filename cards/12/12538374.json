@@ -1,12 +1,14 @@
 {
     "cid": "8f4474f2-531f-4bee-8042-9c6af774e000",
-    "yid": null,
+    "yid": 12538374,
     "password": "12538374",
     "kid": 6603,
     "name": "Treeborn Frog",
     "name_jp": "<ruby lang=\"jp\"><rb>黄</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>泉</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby>ガエル",
     "name_jp_rom": "Yomigaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yomi Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -102,6 +104,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP025",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP145",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP033",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD32-JP019",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -137,5 +169,6 @@
             "Requires control of no Spell and Traps",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

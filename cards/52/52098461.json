@@ -1,11 +1,14 @@
 {
     "cid": "e46768a7-3404-4a20-8f15-05591e05d2db",
+    "yid": 52098461,
     "password": "52098461",
     "kid": 7553,
     "name": "Wrath of Neos",
     "name_jp": "ラス・オブ・ネオス",
     "name_jp_rom": "Rasu Obu Neosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP042",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPB11",
+            "set": "20th Anniversary Duelist Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

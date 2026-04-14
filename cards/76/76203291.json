@@ -1,11 +1,14 @@
 {
     "cid": "8c6c8d51-1a88-4fe7-b1e1-0e387b8fb928",
+    "yid": 76203291,
     "password": "76203291",
     "kid": 7566,
     "name": "Golden Flying Fish",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鱗</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>のトビウオ",
     "name_jp_rom": "Kōrin no Tobiuo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Glowing-Scales Flying Fish",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP029",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

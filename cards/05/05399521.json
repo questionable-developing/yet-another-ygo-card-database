@@ -1,12 +1,14 @@
 {
     "cid": "165fb3dc-87f2-4e41-aabb-6bebd2d289a0",
-    "yid": null,
+    "yid": 5399521,
     "password": "05399521",
     "kid": 12029,
     "name": "Symphonic Warrior Miccs",
     "name_jp": "<ruby lang=\"jp\"><rb>音響戦士</rb><rp> (</rp><rt>サウンドウォリアー</rt><rp>)</rp></ruby>マイクス",
     "name_jp_rom": "Saundo Woriā Maikusu",
+    "name_jp_rom_base": "Onkyō Senshi Maikusu",
     "name_jp_tl": "Sound Warrior Mics",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -47,6 +49,15 @@
         {
             "sid": "MP17-EN238",
             "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP085",
+            "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
             }
@@ -96,5 +107,6 @@
             "Only once per turn",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

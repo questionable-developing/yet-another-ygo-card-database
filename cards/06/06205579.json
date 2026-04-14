@@ -1,12 +1,14 @@
 {
     "cid": "0fe890db-4d9e-4d5c-ac00-a4d73101c072",
-    "yid": null,
+    "yid": 6205579,
     "password": "06205579",
     "kid": 12744,
     "name": "Fusion Parasite",
     "name_jp": "パラサイト・フュージョナー",
     "name_jp_rom": "Parasaito Fyūjonā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Parasite Fusioner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP009",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

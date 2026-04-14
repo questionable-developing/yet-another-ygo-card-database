@@ -1,12 +1,14 @@
 {
     "cid": "3f30bfd5-ed8b-4090-a4d3-666a440f8d80",
-    "yid": null,
+    "yid": 20618081,
     "password": "20618081",
     "kid": 13891,
     "name": "Salamangreat Falco",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>ファルコ",
     "name_jp_rom": "Saramangureito Faruko",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP004",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD35-JP009",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +120,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

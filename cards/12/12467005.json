@@ -1,12 +1,14 @@
 {
     "cid": "8f1467d6-9cc0-4e71-8d07-58e97853cbdb",
-    "yid": null,
+    "yid": 12467005,
     "password": "12467005",
     "kid": 10929,
     "name": "Tackle Crusader",
     "name_jp": "タックルセイダー",
     "name_jp_rom": "Takkuruseidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tackrusader",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP043",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

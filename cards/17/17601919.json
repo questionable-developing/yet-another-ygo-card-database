@@ -1,12 +1,14 @@
 {
     "cid": "e4c37e2b-b8cf-4e8a-b733-d2b3bf51bee0",
-    "yid": null,
+    "yid": 17601919,
     "password": "17601919",
     "kid": 10763,
     "name": "Pumprincess the Princess of Ghosts",
     "name_jp": "ゴースト<ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>ひめ</rt><rp>)</rp></ruby>－パンプリンセス－",
-    "name_jp_rom": "Gōsuto Hime Panpurinsesu",
-    "name_jp_tl": "Ghost Princess - Pumprincess -",
+    "name_jp_rom": "Gōsuto Hime -Panpurinsesu-",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Ghost Princess -Pumprincess-",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP032",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +109,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

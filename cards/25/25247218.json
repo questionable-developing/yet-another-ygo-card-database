@@ -1,12 +1,14 @@
 {
     "cid": "4c2d1093-4965-4f52-b4ed-e1ed85aba9e5",
-    "yid": null,
+    "yid": 25247218,
     "password": "25247218",
     "kid": 7706,
     "name": "Big Piece Golem",
     "name_jp": "ビッグ・ピース・ゴーレム",
     "name_jp_rom": "Biggu Pīsu Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP008",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DT02-JP003",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +93,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

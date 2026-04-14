@@ -1,12 +1,14 @@
 {
     "cid": "4303f695-7fbe-4221-9b10-8173f368ef9f",
-    "yid": null,
+    "yid": 22819092,
     "password": "22819092",
     "kid": 17050,
     "name": "Fish Sonar",
     "name_jp": "<ruby lang=\"jp\"><rb>魚群探知機</rb><rp> (</rp><rt>フィッシュ・ソナー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fisshu Sonā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,16 @@
             "set": "Legendary Duelists: Duels From the Deep",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP26-JP020",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -79,5 +91,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

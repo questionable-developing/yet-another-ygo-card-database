@@ -1,11 +1,14 @@
 {
     "cid": "eec55744-5467-479c-84d1-8e47cbd39bd7",
+    "yid": 87047161,
     "password": "87047161",
     "kid": 11034,
     "name": "Mermaid Shark",
     "name_jp": "マーメイド・シャーク",
     "name_jp_rom": "Māmeido Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP005",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

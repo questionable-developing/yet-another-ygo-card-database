@@ -1,11 +1,14 @@
 {
     "cid": "0e0aad1d-056f-4aa1-b25a-043c177c64cf",
+    "yid": 42647539,
     "password": "42647539",
     "kid": 5307,
     "name": "Ryu-Kishin Clown",
     "name_jp": "ガーゴイルの<ruby lang=\"jp\"><rb>道</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gāgoiru no Dōkeshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gargoyle Clown",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SC-07",
+            "set": "Struggle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

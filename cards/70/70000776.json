@@ -1,11 +1,14 @@
 {
     "cid": "390ecf91-9c7e-4abe-8847-942ea5099446",
+    "yid": 70000776,
     "password": "70000776",
     "kid": 10952,
     "name": "Hidden Temples of Necrovalley",
     "name_jp": "ネクロバレーの<ruby lang=\"jp\"><rb>祭</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殿</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nekurobarē no Saiden",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shrine of Necrovalley",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP066",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

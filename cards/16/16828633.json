@@ -1,12 +1,14 @@
 {
     "cid": "23ad985e-f103-42e9-b937-c05a5f80006c",
-    "yid": null,
+    "yid": 16828633,
     "password": "16828633",
     "kid": 7950,
     "name": "Genex Spare",
     "name_jp": "スペア・ジェネクス",
     "name_jp_rom": "Supea Jenekusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spare Genex",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +47,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT03-JP013",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP063",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP062",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +104,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

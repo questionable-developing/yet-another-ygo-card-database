@@ -1,12 +1,14 @@
 {
     "cid": "03bd0329-187d-425c-b789-bbdc3f633849",
-    "yid": null,
+    "yid": 35199656,
     "password": "35199656",
     "kid": 13046,
     "name": "Trickstar Lycoris",
     "name_jp": "トリックスター・マンジュシカ",
     "name_jp_rom": "Torikkusutā Manjushika",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trickstar Lycorisica",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -66,6 +68,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP007",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVB1-JP009",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP044",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,6 +112,7 @@
         "counter": [],
         "action": [
             "Activates from your hand",
+            "Activates if your opponent adds a card to the hand",
             "Reveals itself in the hand for cost",
             "Returns from your field to your hand"
         ],
@@ -103,5 +129,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

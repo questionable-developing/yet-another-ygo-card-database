@@ -1,11 +1,14 @@
 {
     "cid": "0aaa77ea-dbf2-4c9f-af09-0e43b2cf52f5",
+    "yid": 80666118,
     "password": "80666118",
     "kid": 11990,
     "name": "Scarlight Red Dragon Archfiend",
     "name_jp": "レッド・デーモンズ・ドラゴン・スカーライト",
     "name_jp_rom": "Reddo Dēmonzu Doragon Sukāraito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Red Daemon's Dragon Scarlight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -74,6 +77,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP046",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP305",
+            "set": "Special Pack 20th Anniversary Edition Vol.3",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP041",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -118,5 +148,6 @@
             "Limited activations",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

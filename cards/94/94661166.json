@@ -1,11 +1,14 @@
 {
     "cid": "bcdda556-6617-4764-b7ba-c9f6899cad47",
+    "yid": 94661166,
     "password": "94661166",
     "kid": 20526,
     "name": "Incoming Machine!",
     "name_jp": "<ruby lang=\"jp\"><rb>迫</rb><rp> (</rp><rt>せま</rt><rp>)</rp></ruby>りくる<ruby lang=\"jp\"><rb>機械</rb><rp> (</rp><rt>マシーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Semarikuru Mashīn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Incoming Machine",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP050",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

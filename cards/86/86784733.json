@@ -1,11 +1,14 @@
 {
     "cid": "223e99de-c433-469f-965b-a68a186b599c",
+    "yid": 86784733,
     "password": "86784733",
     "kid": 14079,
     "name": "Cyberse Synchron",
     "name_jp": "サイバース・シンクロン",
     "name_jp_rom": "Saibāsu Shinkuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "SAST-EN002",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP002",
             "set": "Savage Strike",
             "rarities": {
                 "Rare": []
@@ -85,5 +97,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

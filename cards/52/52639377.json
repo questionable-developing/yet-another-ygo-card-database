@@ -1,11 +1,14 @@
 {
     "cid": "1dcd5ee9-3f46-460b-bf32-e97b31a9c5a9",
+    "yid": 52639377,
     "password": "52639377",
     "kid": 10647,
     "name": "Underworld Fighter Balmung",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> バルムンク",
     "name_jp_rom": "Makaitōshi Barumunku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon World Fighter Balmung",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP044",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

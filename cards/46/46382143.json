@@ -1,11 +1,14 @@
 {
     "cid": "179bd933-ab4e-4110-87ab-3e5698cba1b4",
+    "yid": 46382143,
     "password": "46382143",
     "kid": 18197,
     "name": "Numeron Creation",
     "name_jp": "ヌメロン・クリエイション",
     "name_jp_rom": "Numeron Kurieishon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP24-EN320",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP052",
+            "set": "Photon Hypernova",
             "rarities": {
                 "Common": []
             }
@@ -94,5 +106,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

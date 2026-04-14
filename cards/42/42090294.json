@@ -1,11 +1,14 @@
 {
     "cid": "dc262003-0422-4d23-b9b7-b05fce714ad6",
+    "yid": 42090294,
     "password": "42090294",
     "kid": 16505,
     "name": "Reptilianne Nyami",
     "name_jp": "レプティレス・ニャミニ",
     "name_jp_rom": "Reputiresu Nyamini",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reptiless Nyaminy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BODE-EN019",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP019",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

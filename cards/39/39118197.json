@@ -1,11 +1,14 @@
 {
     "cid": "3aa4327a-d950-45c7-9723-06ed60fb90a6",
+    "yid": 39118197,
     "password": "39118197",
     "kid": 9100,
     "name": "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ム</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>参</rb><rp> (</rp><rt>ザン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壱</rb><rp> (</rp><rt>イチ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>八</rb><rp> (</rp><rt>ハ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Musha Muzan'ichiha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Warrior 6318",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STBL-EN023",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP023",
             "set": "Starstrike Blast",
             "rarities": {
                 "Rare": []
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

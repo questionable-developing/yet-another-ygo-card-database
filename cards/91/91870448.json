@@ -1,11 +1,14 @@
 {
     "cid": "c2233cd1-b9ac-4aee-adee-647928a7987c",
+    "yid": 91870448,
     "password": "91870448",
     "kid": 15346,
     "name": "Psychic Megacyber",
     "name_jp": "サイコ・ギガサイバー",
     "name_jp_rom": "Saiko Gigasaibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Gigacyber",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "LED7-EN033",
             "set": "Legendary Duelists: Rage of Ra",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP24-JP033",
+            "set": "Duelist Pack: Duelists of Gloom",
             "rarities": {
                 "Rare": []
             }
@@ -85,5 +97,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

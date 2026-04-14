@@ -1,11 +1,14 @@
 {
     "cid": "b8de5bde-115b-47a6-9de8-009155acc817",
+    "yid": 73275815,
     "password": "73275815",
     "kid": 13422,
     "name": "Link Hole",
     "name_jp": "リンケージ・ホール",
     "name_jp_rom": "Rinkēji Hōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Linkage Hole",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP051",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

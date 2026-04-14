@@ -1,11 +1,14 @@
 {
     "cid": "43c56520-6234-4e23-b49a-3a8b6e4ce68d",
+    "yid": 99707692,
     "password": "99707692",
     "kid": 19459,
     "name": "Raidraptor - Noir Lanius",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ノアール・レイニアス",
     "name_jp_rom": "Reido Raputāzu - Noāru Reiniasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Noir Lanius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP25-EN302",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP004",
+            "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

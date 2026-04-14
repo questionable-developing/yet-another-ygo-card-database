@@ -1,11 +1,14 @@
 {
     "cid": "912d02e3-bf48-4169-b939-a347beb41d33",
+    "yid": 71652522,
     "password": "71652522",
     "kid": 8362,
     "name": "Battle Teleportation",
     "name_jp": "バトル・テレポーテーション",
     "name_jp_rom": "Batoru Terepōtēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ANPR-EN072",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP072",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
             "Requires control of specific Type",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

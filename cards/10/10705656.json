@@ -1,12 +1,14 @@
 {
     "cid": "66110fc5-8cb4-4000-b5c6-4fd4cbf85aff",
-    "yid": null,
+    "yid": 10705656,
     "password": "10705656",
     "kid": 13694,
     "name": "Widget Kid",
     "name_jp": "ウィジェット・キッド",
     "name_jp_rom": "Wijetto Kiddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ST18-JP003",
+            "set": "Starter Deck 2018",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "ST19-JP010",
+            "set": "Starter Deck 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

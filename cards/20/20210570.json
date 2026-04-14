@@ -1,12 +1,14 @@
 {
     "cid": "9f972664-36f8-4d8d-9961-6c4f24d4c46c",
-    "yid": null,
+    "yid": 20210570,
     "password": "20210570",
     "kid": 8442,
     "name": "Regulus",
     "name_jp": "レグルス",
     "name_jp_rom": "Regurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "SOVR-EN007",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP007",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

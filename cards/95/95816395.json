@@ -1,11 +1,14 @@
 {
     "cid": "14f84914-cf46-4e2b-89c3-0b71bafb5c93",
+    "yid": 95816395,
     "password": "95816395",
     "kid": 11251,
     "name": "Dogu",
     "name_jp": "どぐう",
     "name_jp_rom": "Dogū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP042",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

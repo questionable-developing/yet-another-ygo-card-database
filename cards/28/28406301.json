@@ -1,12 +1,14 @@
 {
     "cid": "ca4bf0e7-c0f6-4e66-ba08-8d55bf562193",
-    "yid": null,
+    "yid": 28406301,
     "password": "28406301",
     "kid": 16818,
     "name": "D/D Gryphon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>グリフォン",
     "name_jp_rom": "Dīdī Gurifon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -49,6 +51,24 @@
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP013",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP077",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -103,5 +123,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

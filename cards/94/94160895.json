@@ -1,11 +1,14 @@
 {
     "cid": "1a863e9b-803e-420e-856c-117850f76b16",
+    "yid": 94160895,
     "password": "94160895",
     "kid": 12940,
     "name": "Mariamne, the True Dracophoenix",
     "name_jp": "<ruby lang=\"jp\"><rb>真</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>凰</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>マリアムネ",
     "name_jp_rom": "Shinryūō Mariamune",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mariamne, the True Dragon Fenghuang",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP026",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

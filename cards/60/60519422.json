@@ -1,11 +1,14 @@
 {
     "cid": "95f2b612-2b64-47c5-867e-2428a56e2f9b",
+    "yid": 60519422,
     "password": "60519422",
     "kid": 5612,
     "name": "Kishido Spirit",
     "name_jp": "<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>道</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kishidō Seishin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirit of Chivalry",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "302-038",
+            "set": "Advent of Union",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP093",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

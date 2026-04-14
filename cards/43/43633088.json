@@ -1,11 +1,14 @@
 {
     "cid": "160b5051-2fa9-41da-909b-79bd58eedc59",
+    "yid": 43633088,
     "password": "43633088",
     "kid": 19828,
     "name": "Emergency Apport",
     "name_jp": "<ruby lang=\"jp\"><rb>緊</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>アポート",
     "name_jp_rom": "Kinkyū Apōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP068",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -59,7 +71,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -68,5 +80,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

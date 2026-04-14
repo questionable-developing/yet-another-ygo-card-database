@@ -1,12 +1,14 @@
 {
     "cid": "594f1be5-e62a-4b4c-8266-b602457605f6",
-    "yid": null,
+    "yid": 18294799,
     "password": "18294799",
     "kid": 20279,
     "name": "Schwarzschild Infinity Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>限</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>シュヴァルツシルト",
     "name_jp_rom": "Mugenryū Shuvarutsushiruto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -40,6 +42,16 @@
             "sid": "MZTM-EN013",
             "set": "Maze of the Master",
             "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP003",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Super Rare": [],
                 "Secret Rare": []
             }
         }
@@ -86,7 +98,9 @@
         "smat": [],
         "misc": [
             "Requires control of no monsters",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

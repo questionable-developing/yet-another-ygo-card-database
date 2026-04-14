@@ -1,11 +1,14 @@
 {
     "cid": "9c671d85-5816-4c99-8c25-95600e3de6e1",
+    "yid": 81816475,
     "password": "81816475",
     "kid": 10030,
     "name": "Overlay Eater",
     "name_jp": "オーバーレイ・イーター",
     "name_jp_rom": "Ōbārei Ītā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN007",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP007",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

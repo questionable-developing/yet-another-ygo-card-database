@@ -1,12 +1,14 @@
 {
     "cid": "7b362794-49c2-43d2-8d49-e1669518a97e",
-    "yid": null,
+    "yid": 2204140,
     "password": "02204140",
     "kid": 5430,
     "name": "Book of Life",
     "name_jp": "<ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>禁</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Seija no Sho -Kindan no Jujutsu-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Book of the Living -Forbidden Spell-",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BookofLife-SD2-EN-C-UE.png",
+            "art": "BookofLife-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BookofLife-SGX3-EN-C-1E.png",
-            "art": null
+            "art": "BookofLife-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TP5-EN008",
@@ -126,6 +133,57 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PH-32",
+            "set": "Pharaonic Guardian (Japanese)",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DL5-117",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD2-JP021",
+            "set": "Structure Deck: Zombie Madness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP230",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD15-JP024",
+            "set": "Structure Deck: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP188",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP027",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -157,5 +215,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

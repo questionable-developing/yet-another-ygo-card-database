@@ -1,11 +1,14 @@
 {
     "cid": "97a5b8e1-d7d8-4c31-903d-95cc25667211",
+    "yid": 82896870,
     "password": "82896870",
     "kid": 15255,
     "name": "Fluffal Dolphin",
     "name_jp": "ファーニマル・ドルフィン",
     "name_jp_rom": "Fānimaru Dorufin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Furnimal Dolphin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ROTD-EN021",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP021",
             "set": "Rise of the Duelist",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

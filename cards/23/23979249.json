@@ -1,12 +1,14 @@
 {
     "cid": "10ec9be9-5739-486e-9194-873275b9dad6",
-    "yid": null,
+    "yid": 23979249,
     "password": "23979249",
     "kid": 10912,
     "name": "Bujin Arasuda",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>－アラスダ",
     "name_jp_rom": "Bujin - Arasuda",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP026",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
             "Limited activations",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

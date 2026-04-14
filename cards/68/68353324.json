@@ -1,11 +1,14 @@
 {
     "cid": "e95ddc5d-f937-47f0-b74f-3b0ab118051f",
+    "yid": 68353324,
     "password": "68353324",
     "kid": 13256,
     "name": "Nimble Beaver",
     "name_jp": "<ruby lang=\"jp\"><rb>素</rb><rp> (</rp><rt>す</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>早</rb><rp> (</rp><rt>ばや</rt><rp>)</rp></ruby>いビーバー",
     "name_jp_rom": "Subayai Bībā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP040",
+            "set": "Circuit Break",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP209",
+            "set": "Tournament Pack 2022 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ad9192ef-a51d-4747-82c7-90ff2428b70d",
+    "yid": 55586621,
     "password": "55586621",
     "kid": 8446,
     "name": "Fortune Lady Dark",
     "name_jp": "フォーチュンレディ・ダルキー",
     "name_jp_rom": "Fōchun Redi Darukī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Lady Darky",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,17 +32,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyDark-DE04-JP-C.jpg",
+            "art": "FortuneLadyDark-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyDark-SOVR-EN-R-UE.jpg",
-            "art": null
+            "art": "FortuneLadyDark-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN011",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP011",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP049",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -80,5 +104,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

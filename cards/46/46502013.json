@@ -1,11 +1,14 @@
 {
     "cid": "b41be424-4edd-4587-869d-a379542fb715",
+    "yid": 46502013,
     "password": "46502013",
     "kid": 8355,
     "name": "Pixie Ring",
     "name_jp": "ガリトラップ－ピクシーの<ruby lang=\"jp\"><rb>輪</rb><rp> (</rp><rt>わ</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Garitorappu Pikushī no Wa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gallitrap - Pixie Ring",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP065",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT06-JP047",
+            "set": "Duel Terminal - Dragunity of the Hurricane!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

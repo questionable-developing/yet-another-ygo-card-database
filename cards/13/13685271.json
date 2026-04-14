@@ -1,12 +1,14 @@
 {
     "cid": "f09482dc-760e-4fb7-85fd-466c00717ca6",
-    "yid": null,
+    "yid": 13685271,
     "password": "13685271",
     "kid": 9690,
     "name": "Treaty on Uniform Nomenclature",
     "name_jp": "<ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姓</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>名</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>盟</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>条</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>約</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dōsei Dōmei Dōmei Jōyaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Treaty of the League of Uniform Nomenclature",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "GENF-EN073",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP073",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -71,5 +82,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

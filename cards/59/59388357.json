@@ -1,11 +1,14 @@
 {
     "cid": "5086dc6a-6b69-466d-bdff-5e3e6f352c1b",
+    "yid": 59388357,
     "password": "59388357",
     "kid": 10349,
     "name": "Circle of the Fire Kings",
     "name_jp": "<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>環</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "En'ō Enkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flame Circle of the Flame Kings",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +79,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD24-JP023",
+            "set": "Structure Deck: Onslaught of the Fire Kings",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "18TP-JP302",
+            "set": "Tournament Pack 2018 Vol.3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP028",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR14-JP027",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +143,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

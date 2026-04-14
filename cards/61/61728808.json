@@ -1,11 +1,14 @@
 {
     "cid": "1a6db374-59f2-4b58-816a-77984e1d184a",
+    "yid": 61728808,
     "password": "61728808",
     "kid": 15740,
     "name": "Heavymetalfoes Amalgam",
     "name_jp": "ヘビーメタルフォーゼ・アマルガム",
     "name_jp_rom": "Hebīmetarufōze Amarugamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heavymetalphosis Amalgam",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP049",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

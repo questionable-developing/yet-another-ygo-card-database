@@ -1,11 +1,14 @@
 {
     "cid": "19fb0f00-341f-4cfc-9bca-c5c7624b6e8e",
+    "yid": 64211118,
     "password": "64211118",
     "kid": 17263,
     "name": "Firewall Dragon Darkfluid - Neo Tempest Terahertz",
     "name_jp": "ファイアウォール・ドラゴン・ダークフルード－ネオテンペスト",
     "name_jp_rom": "Faiawōru Doragon Dākufurūdo - Neo Tenpesuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Firewall Dragon Darkfluid - Neo Tempest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "HC01-JP044",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP106",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,7 +123,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

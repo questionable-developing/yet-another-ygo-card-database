@@ -1,11 +1,14 @@
 {
     "cid": "77aa4695-b31b-4f30-9986-991978fb9060",
+    "yid": 82361809,
     "password": "82361809",
     "kid": 17124,
     "name": "Scareclaw Reichheart",
     "name_jp": "スケアクロー・ライヒハート",
     "name_jp_rom": "Sukeakurō Raihihāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP012",
+            "set": "Dimension Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JP012",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +112,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "acb11cec-166b-4b19-af0a-9d1fc2837a8e",
+    "yid": 37829468,
     "password": "37829468",
     "kid": 8081,
     "name": "Rai-Jin",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＡＩ</rb><rp> (</rp><rt>ライ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＪＩＮ</rb><rp> (</rp><rt>ジン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rai-Jin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP025",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL15",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +96,6 @@
             "Requires control of specific Attribute",
             "Field-Unique"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "fc8c8dff-9d74-4330-813e-64f3ba6283ad",
+    "yid": 73659078,
     "password": "73659078",
     "kid": 10271,
     "name": "Snowdust Giant",
     "name_jp": "スノーダスト・ジャイアント",
     "name_jp_rom": "Sunōdasuto Jaianto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP049",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +83,7 @@
             "Places counters"
         ],
         "action": [
-            "Reveals your hand for effect"
+            "Reveals cards from your hand"
         ],
         "stat_change": [
             "All monsters lose ATK"
@@ -87,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

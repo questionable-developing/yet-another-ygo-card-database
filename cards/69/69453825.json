@@ -1,11 +1,14 @@
 {
     "cid": "8b8dcd2d-8487-4624-affe-6aa711f03c57",
+    "yid": 69453825,
     "password": "69453825",
     "kid": 21807,
     "name": "Gouki Dragon Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ドラゴン・オーガ",
     "name_jp_rom": "Gōki Doragon Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Dragon Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DOOD-EN041",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP041",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -6,7 +6,9 @@
     "name": "Duel Evolution - Assault Zone",
     "name_jp": "<ruby lang=\"jp\"><rb>決</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>進</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>－バスター・ゾーン",
     "name_jp_rom": "Kettō Shinka - Basutā Zōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Duel Evolution - Buster Zone",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BPRO-EN054",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BPRO-JP054",
             "set": "Burst Protocol",
             "rarities": {
                 "Common": []

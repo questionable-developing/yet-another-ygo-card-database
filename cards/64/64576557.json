@@ -1,11 +1,14 @@
 {
     "cid": "e20332b0-5105-407c-9c89-13e6c443c1e0",
+    "yid": 64576557,
     "password": "64576557",
     "kid": 16252,
     "name": "Triamid Loading",
     "name_jp": "<ruby lang=\"jp\"><rb>古代遺跡の静粛</rb><rp> (</rp><rt>トラミッド・ローディング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Toramiddo Rōdingu",
+    "name_jp_rom_base": "Kodai Iseki no Seishuku",
     "name_jp_tl": "Tramid Loading",
+    "name_jp_tl_base": "Ancient Ruins Silence",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DAMA-EN063",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP063",
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

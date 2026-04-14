@@ -1,11 +1,14 @@
 {
     "cid": "eb48b66b-11bf-4d22-9935-bc7f457f9386",
+    "yid": 80208225,
     "password": "80208225",
     "kid": 21843,
     "name": "Dracotail Sting",
     "name_jp": "<ruby lang=\"jp\"><rb>星辰の刺毒</rb><rp> (</rp><rt>ドラゴンテイル・スティング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragonteiru Sutingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragontail Sting",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DOOD-EN077",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP077",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

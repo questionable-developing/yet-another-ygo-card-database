@@ -1,12 +1,14 @@
 {
     "cid": "113e3b88-e00b-45ad-8072-777217572b71",
-    "yid": null,
+    "yid": 21639276,
     "password": "21639276",
     "kid": 17831,
     "name": "Kashtira Preparations",
     "name_jp": "クシャトリラ・プリペア",
     "name_jp_rom": "Kushatorira Puripea",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kshatrira Prepare",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP076",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +82,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand"
         ],
         "attack": [],
@@ -86,5 +97,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

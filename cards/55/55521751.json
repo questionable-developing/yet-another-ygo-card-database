@@ -1,11 +1,14 @@
 {
     "cid": "e5e52015-7490-4b2d-a65f-888eda465acb",
+    "yid": 55521751,
     "password": "55521751",
     "kid": 16545,
     "name": "Floowandereeze and the Unexplored Winds",
     "name_jp": "ふわんだりぃずと<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>知</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fuwandaryizu to Michi no Kaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP059",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -63,7 +75,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Places cards from the player's hand on the bottom of the Deck",
             "You draw cards",
             "Sends from your field to your Graveyard",
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

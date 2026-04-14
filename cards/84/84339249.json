@@ -1,11 +1,14 @@
 {
     "cid": "a068e17b-f183-4a72-9d33-a8a946cc5ffc",
+    "yid": 84339249,
     "password": "84339249",
     "kid": 16214,
     "name": "Protecting Spirit Loagaeth",
     "name_jp": "<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>ロガエス",
     "name_jp_rom": "Shugotenrei Rogaesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -56,6 +59,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP025",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DAMA-JP025",
+            "set": "Dawn of Majesty +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DBVS-JP041",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +126,6 @@
             "Only once per turn",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

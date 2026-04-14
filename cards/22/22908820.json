@@ -1,12 +1,14 @@
 {
     "cid": "ac29f5d3-aec7-4328-9a0d-28c45b01b61a",
-    "yid": null,
+    "yid": 22908820,
     "password": "22908820",
     "kid": 14910,
     "name": "Elemental HERO Sunrise",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> サンライザー",
     "name_jp_rom": "Erementaru Hīrō Sanraizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Sunriser",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP23-JP012",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP019",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP045",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +132,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c57b8676-d0c9-479e-881f-09af8bdb8ead",
+    "yid": 65384019,
     "password": "65384019",
     "kid": 7467,
     "name": "Alchemy Cycle",
     "name_jp": "アルケミー・サイクル",
     "name_jp_rom": "Arukemī Saikuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PTDN-EN068",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP068",
             "set": "Phantom Darkness",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

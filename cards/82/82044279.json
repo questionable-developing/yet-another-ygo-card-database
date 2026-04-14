@@ -1,12 +1,14 @@
 {
     "cid": "ff98907d-75b4-475a-8d2f-cd8700bdd3bc",
-    "yid": 82044280,
+    "yid": 82044279,
     "password": "82044279",
     "kid": 11721,
     "name": "Clear Wing Synchro Dragon",
     "name_jp": "クリアウィング・シンクロ・ドラゴン",
     "name_jp_rom": "Kuria Wingu Shinkuro Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -81,6 +83,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP046",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "DBLE-JPS03",
+            "set": "Dimension Box Limited Edition",
+            "rarities": {
+                "Extra Secret Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP25-JP000",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP037",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -129,5 +166,6 @@
             "Cover card",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

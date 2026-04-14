@@ -1,11 +1,14 @@
 {
     "cid": "3af7171f-6259-41d2-b6f5-8adba8fb13fd",
+    "yid": 48355999,
     "password": "48355999",
     "kid": 14084,
     "name": "Rokket Synchron",
     "name_jp": "ヴァレット・シンクロン",
     "name_jp_rom": "Varetto Shinkuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vullet Synchron",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP007",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD36-JP012",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP092",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +125,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

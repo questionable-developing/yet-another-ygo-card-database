@@ -1,12 +1,14 @@
 {
     "cid": "c5b75805-f329-40e0-800a-8a3af2d47668",
-    "yid": null,
+    "yid": 10158145,
     "password": "10158145",
     "kid": 13571,
     "name": "Knightmare Corruptor Iblee",
     "name_jp": "<ruby lang=\"jp\"><rb>夢幻崩界</rb><rp> (</rp><rt>デストロイメア</rt><rp>)</rp></ruby>イヴリース",
     "name_jp_rom": "Desutoroimea Ivurīsu",
+    "name_jp_rom_base": "Mugen Hōkai Ivurīsu",
     "name_jp_tl": "Destroymare Evelees",
+    "name_jp_tl_base": "Illusionary Collapsing World Evelees",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP017",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP083",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

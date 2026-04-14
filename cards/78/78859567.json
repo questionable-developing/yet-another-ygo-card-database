@@ -1,11 +1,14 @@
 {
     "cid": "0e22ce8d-e7c0-40f6-93f5-f8f25028a8d8",
+    "yid": 78859567,
     "password": "78859567",
     "kid": 13527,
     "name": "Packet Link",
     "name_jp": "パケットリンク",
     "name_jp_rom": "Pakettorinku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD33-JP031",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +83,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

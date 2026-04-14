@@ -1,12 +1,14 @@
 {
     "cid": "06b3271f-37b7-46a6-a411-f1bf1e1a3466",
-    "yid": null,
+    "yid": 8910240,
     "password": "08910240",
     "kid": 8881,
     "name": "Rose Papillon",
     "name_jp": "ローズ・パピヨン",
     "name_jp_rom": "Rōzu Papiyon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP233",
+            "set": "V Jump Spring 2023 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
             "Gain this effect once per turn",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

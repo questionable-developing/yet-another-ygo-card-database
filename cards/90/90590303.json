@@ -1,11 +1,14 @@
 {
     "cid": "746a6d9b-b472-43b3-a16b-8fb5c00d66ea",
+    "yid": 90590303,
     "password": "90590303",
     "kid": 13163,
     "name": "Number 41: Bagooska the Terribly Tired Tapir",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>４１ <ruby lang=\"jp\"><rb>泥</rb><rp> (</rp><rt>でい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>睡</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>バグースカ",
     "name_jp_rom": "Nanbāzu Yonjūichi Deisuimajū Bagūsuka",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numbers 41: Bagooska the Drunk Sleeping Demon Beast",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "Number41BagooskatheTerriblyTiredTapir-VASM-EN-R-1E.png",
+            "full": "Number41BagooskatheTerriblyTiredTapir-QCAC-JP-SR.png",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "Number41BagooskatheTerriblyTiredTapir-L26D-EN-C-1E.png",
+            "art": "Number41BagooskatheTerriblyTiredTapir-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CIBR-EN097",
@@ -69,6 +77,54 @@
             "set": "Valiant Smashers",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENM24",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CP17-JP042",
+            "set": "Collectors Pack 2017",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP406",
+            "set": "Special Pack 20th Anniversary Edition Vol.4",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP041",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DBVS-JP044",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP013",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -111,5 +167,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

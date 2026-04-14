@@ -1,12 +1,14 @@
 {
     "cid": "a2e65d33-e983-4d53-ae96-cc0e14e86b2b",
-    "yid": null,
+    "yid": 33537328,
     "password": "33537328",
     "kid": 8307,
     "name": "Earthbound Immortal Cusillu",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｃｕｓｉｌｌｕ</rb><rp> (</rp><rt>クシル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jibakushin Kushiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Earthbound God Cusillu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP016",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP008",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +122,6 @@
         "misc": [
             "Field-Unique"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b2f585c7-7d58-498a-908e-d4a8f8cdf96c",
+    "yid": 45112597,
     "password": "45112597",
     "kid": 17805,
     "name": "Worldsea Dragon Zealantis",
     "name_jp": "<ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ジーランティス",
     "name_jp_rom": "Sekairyū Jīrantisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -69,6 +72,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP050",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "DABL-JP050",
+            "set": "Darkwing Blast +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JPS11",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        },
+        {
+            "sid": "TT02-JPA35",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,7 +132,7 @@
         "summoning": [
             "1+ Link Materials",
             "Requires Effect Monsters as Link Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the opponent's field",
             "Special Summons face-down"
         ],
@@ -110,5 +148,6 @@
             "Only once per turn",
             "Co-linked"
         ]
-    }
+    },
+    "links": {}
 }

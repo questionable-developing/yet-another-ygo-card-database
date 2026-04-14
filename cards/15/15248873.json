@@ -1,12 +1,14 @@
 {
     "cid": "5444f7bf-384e-4bfa-943e-fdefb5d3ff4a",
-    "yid": null,
+    "yid": 15248873,
     "password": "15248873",
     "kid": 11276,
     "name": "Pop-Up",
     "name_jp": "ポップルアップ",
     "name_jp_rom": "Poppuruappu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pop-Pull-Up",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP067",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +83,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

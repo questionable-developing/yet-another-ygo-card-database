@@ -1,11 +1,14 @@
 {
     "cid": "30ff9d2f-3c91-4075-982d-f22819d947a6",
+    "yid": 82639107,
     "password": "82639107",
     "kid": 7159,
     "name": "Convert Contact",
     "name_jp": "コンバート・コンタクト",
     "name_jp_rom": "Konbāto Kontakuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -59,10 +62,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP047",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP06-JP021",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18TP-JP412",
+            "set": "Tournament Pack 2018 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [],
@@ -92,5 +118,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

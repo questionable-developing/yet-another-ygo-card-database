@@ -1,11 +1,14 @@
 {
     "cid": "287b78b9-6fb4-41eb-b0cd-b0d64c62a020",
+    "yid": 58066722,
     "password": "58066722",
     "kid": 16210,
     "name": "Alien Stealthbuster",
     "name_jp": "エーリアン・バスター",
     "name_jp_rom": "Ērian Basutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Alien Buster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DAMA-EN021",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP021",
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

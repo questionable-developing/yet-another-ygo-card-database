@@ -1,12 +1,14 @@
 {
     "cid": "113a6760-d1bf-4ab2-99f2-17cc44ab7e52",
-    "yid": null,
+    "yid": 11738489,
     "password": "11738489",
     "kid": 15036,
     "name": "The Arrival Cyberse @Ignister",
     "name_jp": "ジ・アライバル・サイバース<ruby lang=\"jp\"><rb>＠</rb><rp> (</rp><rt>アット</rt><rp>)</rp></ruby>イグニスター",
     "name_jp_rom": "Ji Araibaru Saibāsu Atto Igunisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP050",
+            "set": "Eternity Code",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP016",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +123,6 @@
             "Control only one",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

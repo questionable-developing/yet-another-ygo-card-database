@@ -1,12 +1,14 @@
 {
     "cid": "a6e5900b-b380-4702-901d-9b087026f0f7",
-    "yid": null,
+    "yid": 24573625,
     "password": "24573625",
     "kid": 12148,
     "name": "Deskbot 008",
     "name_jp": "ブンボーグ<ruby lang=\"jp\"><rb>０</rb><rp> (</rp><rt>ゼロ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>０</rb><rp> (</rp><rt>ゼロ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>８</rb><rp> (</rp><rt>エイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bunbōgu Zero Zero Eito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bunborg 008",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP040",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like, Condition"
@@ -91,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

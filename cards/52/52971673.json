@@ -1,11 +1,14 @@
 {
     "cid": "5b82f54d-7ec5-4754-86cb-e0f52b786c43",
+    "yid": 52971673,
     "password": "52971673",
     "kid": 9348,
     "name": "Token Sundae",
     "name_jp": "トークン<ruby lang=\"jp\"><rb>復</rb><rp> (</rp><rt>ふっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>活</rb><rp> (</rp><rt>かつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>祭</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tōkun Fukkatsusai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Token Easter",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -59,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP057",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

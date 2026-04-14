@@ -1,12 +1,14 @@
 {
     "cid": "613a0ac2-88f3-4206-86d9-8c1b9e4867f9",
-    "yid": null,
+    "yid": 21999001,
     "password": "21999001",
     "kid": 12600,
     "name": "Cipher Twin Raptor",
     "name_jp": "<ruby lang=\"jp\"><rb>光波双顎機</rb><rp> (</rp><rt>サイファー・ツイン・ラプトル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saifā Tsuin Raputoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Lightwave Twin Jaw Machine",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP010",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "21TP-JP306",
+            "set": "Tournament Pack 2021 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +120,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "a2011a51-48b6-459a-a012-b6cdd736b4d4",
-    "yid": null,
+    "yid": 35027493,
     "password": "35027493",
     "kid": 6284,
     "name": "Deck Devastation Virus",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>のデッキ<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>ウイルス",
     "name_jp_rom": "Ma no Dekki Hakai Uirusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deck Destruction Virus of the Devil",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -113,10 +115,55 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP058",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP178",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD12-JP028",
+            "set": "Structure Deck: Curse of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD21-JP033",
+            "set": "Structure Deck: Devil's Gate",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR06-JP032",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR13-JP038",
+            "set": "Structure Deck R: Devil's Gate",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect, Lingering"
+            "Effect"
         ],
         "mentions": [],
         "sup": [
@@ -150,5 +197,6 @@
         "misc": [
             "Turn limited effects"
         ]
-    }
+    },
+    "links": {}
 }

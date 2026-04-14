@@ -1,11 +1,14 @@
 {
     "cid": "d97a50fc-265d-4b71-9520-25dc835e849c",
+    "yid": 52947044,
     "password": "52947044",
     "kid": 14304,
     "name": "Fusion Destiny",
     "name_jp": "フュージョン・デステニー",
     "name_jp_rom": "Fyūjon Desutenī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +79,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP054",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP048",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP034",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP054",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +158,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

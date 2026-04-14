@@ -1,11 +1,14 @@
 {
     "cid": "1e295b7e-7d9e-45f3-9092-5ddf6c5661d7",
+    "yid": 63516460,
     "password": "63516460",
     "kid": 6906,
     "name": "Mystical Wind Typhoon",
     "name_jp": "<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陣</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ichijin no Kaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gust of Wind",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CDIP-EN045",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP045",
             "set": "Cyberdark Impact",
             "rarities": {
                 "Common": []
@@ -70,5 +82,6 @@
         "misc": [
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

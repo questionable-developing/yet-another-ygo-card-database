@@ -1,11 +1,14 @@
 {
     "cid": "daad5163-700a-409e-8db1-21b3cb832ea4",
+    "yid": 75119040,
     "password": "75119040",
     "kid": 13416,
     "name": "Tindangle Acute Cerberus",
     "name_jp": "ティンダングル・アキュート・ケルベロス",
     "name_jp_rom": "Tindanguru Akyūto Keruberosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +51,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP045",
+            "set": "Extreme Force",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +100,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

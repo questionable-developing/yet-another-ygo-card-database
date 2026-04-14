@@ -1,11 +1,14 @@
 {
     "cid": "87a18ab6-a19a-45c0-8654-8fdeb9833291",
+    "yid": 39078434,
     "password": "39078434",
     "kid": 18160,
     "name": "Infinite Antlion",
     "name_jp": "ジャイアント・メサイア",
     "name_jp_rom": "Jaianto Mesaia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Giant Messiah",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP24-EN312",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP015",
+            "set": "Photon Hypernova",
             "rarities": {
                 "Common": []
             }
@@ -102,5 +114,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

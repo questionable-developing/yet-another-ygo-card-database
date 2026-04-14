@@ -1,12 +1,14 @@
 {
     "cid": "16ca41b7-5494-4b00-9f79-2ec153ae5ab7",
-    "yid": null,
+    "yid": 12160911,
     "password": "12160911",
     "kid": 6036,
     "name": "Elephant Statue of Disaster",
     "name_jp": "<ruby lang=\"jp\"><rb>災</rb><rp> (</rp><rt>わざわ</rt><rp>)</rp></ruby>いの<ruby lang=\"jp\"><rb>像</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Wazawai no Zō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Statue of Disaster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-019",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP187",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +103,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

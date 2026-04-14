@@ -1,11 +1,14 @@
 {
     "cid": "75005b7d-5a0c-43b5-9c11-32ae5376a211",
+    "yid": 88086137,
     "password": "88086137",
     "kid": 13295,
     "name": "Broken Line",
     "name_jp": "<ruby lang=\"jp\"><rb>直通断線</rb><rp> (</rp><rt>シャットライン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shatto Rain",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shut Line",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP079",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

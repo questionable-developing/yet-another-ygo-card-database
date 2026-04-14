@@ -1,11 +1,14 @@
 {
     "cid": "67e5e97e-75cb-4854-ba64-2571dc44bde8",
+    "yid": 90465153,
     "password": "90465153",
     "kid": 18506,
     "name": "Mannadium Prime-Heart",
     "name_jp": "マナドゥム・プライムハート",
     "name_jp_rom": "Manadumu Puraimuhāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP043",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP043",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "25WP-JP402",
+            "set": "Winner's Pack 2025 Vol.4",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,7 +119,7 @@
             "Requires Attribute specific non-Tuner Synchro Materials",
             "Does not require non-Tuner Synchro Materials",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Multiple attacker"
@@ -99,6 +128,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f794c949-25c8-41af-9351-e5c4ffb1b2a0",
+    "yid": 81019803,
     "password": "81019803",
     "kid": 17447,
     "name": "Merry Melffys",
     "name_jp": "うきうきメルフィーズ",
     "name_jp_rom": "Ukiuki Merufīzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP045",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP176",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "765a17b2-660c-4d2f-9684-11a51fa28dba",
-    "yid": null,
+    "yid": 13647631,
     "password": "13647631",
     "kid": 11605,
     "name": "Heavy Freight Train Derricrane",
     "name_jp": "<ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>貨</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>列</rb><rp> (</rp><rt>れっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>車</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>デリックレーン",
     "name_jp_rom": "Jūkikaressha Derikkurēn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP085",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP2-JP053",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SLF1-JP004",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +133,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

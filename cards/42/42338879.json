@@ -1,11 +1,14 @@
 {
     "cid": "76e31aab-3d6a-45e0-ae62-1a4f3f1e2cfd",
+    "yid": 42338879,
     "password": "42338879",
     "kid": 10816,
     "name": "Cockadoodledoo",
     "name_jp": "こけコッコ",
     "name_jp_rom": "Koke Kokko",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP004",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP018",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR11-JP018",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +123,6 @@
             "Requires control of no monsters",
             "Requires control of no cards"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "cd6cb446-c2c4-4dd3-9608-3e2de4aff8ca",
-    "yid": null,
+    "yid": 4928565,
     "password": "04928565",
     "kid": 18153,
     "name": "Tearlaments Kashtira",
     "name_jp": "ティアラメンツ・クシャトリラ",
     "name_jp_rom": "Tiaramentsu Kushatorira",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tearlaments Kshatrira",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP008",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

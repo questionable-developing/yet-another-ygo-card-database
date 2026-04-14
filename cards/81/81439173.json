@@ -1,11 +1,14 @@
 {
     "cid": "926577fe-b9ae-4b29-8756-295e773bbd55",
+    "yid": 81439173,
     "password": "81439173",
     "kid": 5236,
     "name": "Foolish Burial",
     "name_jp": "おろかな<ruby lang=\"jp\"><rb>埋</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>葬</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Orokana Maisō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -29,194 +32,353 @@
             "full": "FoolishBurial-LART-EN-UR-LE.png",
             "art": "FoolishBurial-MADU-JP-VG-artwork.png"
         },
+        "2": {
+            "idx": "2",
+            "full": "FoolishBurial-STSP-JP-UR.png",
+            "art": null
+        },
         "1.1": {
             "idx": "1.1",
             "full": "FoolishBurial-CH01-EN-UR-1E.png",
             "art": "FoolishBurial-MADU-EN-VG-artwork.png"
+        },
+        "2.1": {
+            "idx": "2.1",
+            "full": "FoolishBurial-RA05-EN-UR-1E.png",
+            "art": null
         }
     },
-    "image": "1.1",
+    "image": "2.1",
     "sets": [
         {
             "sid": "SDRL-EN020",
             "set": "Rise of the Dragon Lords Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "TU02-EN004",
             "set": "Turbo Pack: Booster Two",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1.1"]
             }
         },
         {
             "sid": "SDMA-EN026",
             "set": "Structure Deck: Marik (TCG)",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "SDDL-EN029",
             "set": "Dragunity Legion Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "LCJW-EN070",
             "set": "Legendary Collection 4: Joey's World Mega Pack",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1.1"]
             }
         },
         {
             "sid": "SDLI-EN029",
             "set": "Realm of Light Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "NKRT-EN028",
             "set": "Noble Knights of the Round Table Box Set",
             "rarities": {
-                "Platinum Rare": []
+                "Platinum Rare": ["1.1"]
             }
         },
         {
             "sid": "PGL2-EN051",
             "set": "Premium Gold: Return of the Bling",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["1.1"]
             }
         },
         {
             "sid": "DPBC-EN025",
             "set": "Duelist Pack: Battle City",
             "rarities": {
-                "Rare": []
+                "Rare": ["1.1"]
             }
         },
         {
             "sid": "SR02-EN029",
             "set": "Rise of the True Dragons Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "LDK2-ENJ29",
             "set": "Legendary Decks II",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "SDPD-EN027",
             "set": "Pendulum Domination Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "LEHD-ENC17",
             "set": "Legendary Hero Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "SR07-EN029",
             "set": "Structure Deck: Zombie Horde",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "BLHR-EN057",
             "set": "Battles of Legend: Hero's Revenge",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1.1"]
             }
         },
         {
             "sid": "SDSH-EN029",
             "set": "Structure Deck: Shaddoll Showdown",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "LART-EN016",
             "set": "The Lost Art Promotion 2020 D",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MAGO-EN053",
             "set": "Maximum Gold",
             "rarities": {
-                "Rare": []
+                "Rare": ["1.1"]
             }
         },
         {
             "sid": "SBCB-EN139",
             "set": "Speed Duel: Battle City Box",
             "rarities": {
-                "Common": [],
-                "Secret Rare": []
+                "Common": ["1.1"],
+                "Secret Rare": ["1.1"]
             }
         },
         {
             "sid": "SGX3-ENC16",
             "set": "Speed Duel GX: Duelists of Shadows",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "SGX3-ENE13",
             "set": "Speed Duel GX: Duelists of Shadows",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "SBC1-ENE15",
             "set": "Speed Duel: Streets of Battle City",
             "rarities": {
-                "Common": []
+                "Common": ["1.1"]
             }
         },
         {
             "sid": "VASM-EN055",
             "set": "Valiant Smashers",
             "rarities": {
-                "Rare": []
+                "Rare": ["1.1"]
             }
         },
         {
             "sid": "RA02-EN049",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1.1"],
+                "Ultra Rare": ["1.1"],
+                "Secret Rare": ["1.1"],
+                "Platinum Secret Rare": ["1.1"],
+                "Quarter Century Secret Rare": ["1.1"],
+                "Ultimate Rare": ["1.1"],
+                "Collector's Rare": ["1.1"]
             }
         },
         {
             "sid": "CH01-EN031",
             "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1.1"]
+            }
+        },
+        {
+            "sid": "RA05-EN138",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2.1"],
+                "Starlight Rare": ["2.1"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SJ2-029",
+            "set": "Structure Deck: Joey Volume 2",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD13-JP019",
+            "set": "Structure Deck: Revival of the Great Dragon",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DT09-JP042",
+            "set": "Duel Terminal - Vylon Descends!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD19-JP028",
+            "set": "Structure Deck: Dragunity Drive",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DS14-JPL39",
+            "set": "Duelist Set: Version Lightsworn Judgment Enhancement Pack",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD27-JP034",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DP16-JP024",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD30-JP027",
+            "set": "Structure Deck: Pendulum Domination",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SR02-JP029",
+            "set": "Structure Deck R: Revival of the Great Divine Dragon",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC02-JP040",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR07-JP029",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD37-JP029",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SR11-JP031",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "VP23-JP003",
+            "set": "Quarter Century Anniversary Selection",
+            "rarities": {
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPC11",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "QCLP-JP023",
+            "set": "Quarter Century Limited Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP082",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": ["1"],
+                "Ultimate Rare": ["1"]
+            }
+        },
+        {
+            "sid": "CH01-JP031",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP008",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -247,5 +409,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

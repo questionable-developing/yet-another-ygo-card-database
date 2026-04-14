@@ -1,11 +1,14 @@
 {
     "cid": "88152874-65c8-4ec1-b6f9-60017181c66f",
+    "yid": 82977464,
     "password": "82977464",
     "kid": 15762,
     "name": "S-Force Specimen",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ－Ｆｏｒｃｅ</rb><rp> (</rp><rt>セキュリティ・フォース</rt><rp>)</rp></ruby> スペシメン",
     "name_jp_rom": "Sekyuriti Fōsu Supeshimen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Security Force Specimen",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP071",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,7 +77,7 @@
             "Changes Monster Zone"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -79,5 +91,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

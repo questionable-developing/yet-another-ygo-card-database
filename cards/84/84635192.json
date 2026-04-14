@@ -1,11 +1,14 @@
 {
     "cid": "12b560a9-bbce-4b25-9889-cf3be74cf3f6",
+    "yid": 84635192,
     "password": "84635192",
     "kid": 20501,
     "name": "Tsuru-Puru-Purun",
     "name_jp": "ツルプルプルン",
     "name_jp_rom": "Tsurupurupurun",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP025",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

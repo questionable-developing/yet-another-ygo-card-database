@@ -1,12 +1,14 @@
 {
     "cid": "21c9e074-0b88-4734-bf9a-e282b43a24a2",
-    "yid": null,
+    "yid": 19808608,
     "password": "19808608",
     "kid": 11954,
     "name": "D/D Berfomet",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>バフォメット",
     "name_jp_rom": "Dīdī Bafometto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "D/D Baphomet",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP010",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +106,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b64c32e5-31c8-4e32-a04a-96693dc4e5ef",
+    "yid": 86758746,
     "password": "86758746",
     "kid": 17616,
     "name": "Amazoness Secret Arts",
     "name_jp": "アマゾネスの<ruby lang=\"jp\"><rb>秘</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amazonesu no Hijutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP27-JP036",
+            "set": "Duelist Pack: Duelists of Pyroxene",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,6 +90,7 @@
             "Uses cards in the hand as Fusion Materials",
             "Uses cards on the player's field as Fusion Materials",
             "Uses cards in the player's Extra Deck as Fusion Materials",
+            "Modifies which cards can be used as Fusion Material",
             "Activates from your Graveyard"
         ],
         "stat_change": [],
@@ -96,5 +109,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

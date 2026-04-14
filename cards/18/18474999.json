@@ -1,12 +1,14 @@
 {
     "cid": "2e7db35a-1129-450f-a2cb-256580529278",
-    "yid": null,
+    "yid": 18474999,
     "password": "18474999",
     "kid": 13911,
     "name": "Impcantation Bookstone",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神儀</rb><rp> (</rp><rt>デビリチャル</rt><rp>)</rp></ruby>－ブックストーン",
     "name_jp_rom": "Debiricharu - Bukkusutōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deviritual - Bookstone",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP024",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

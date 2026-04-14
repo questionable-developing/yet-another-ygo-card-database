@@ -1,11 +1,14 @@
 {
     "cid": "4f06b57e-e53d-4242-9874-63cb6dadc302",
+    "yid": 67922702,
     "password": "67922702",
     "kid": 10503,
     "name": "Mecha Phantom Beast Tetherwolf",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>テザーウルフ",
     "name_jp_rom": "Genjūki Tezā Urufu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP022",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD33-JP012",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +120,6 @@
         "misc": [
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

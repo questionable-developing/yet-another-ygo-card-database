@@ -1,11 +1,14 @@
 {
     "cid": "2b665efd-4df7-43ed-90d7-99709ade3579",
+    "yid": 80244114,
     "password": "80244114",
     "kid": 9294,
     "name": "Stardust Phantom",
     "name_jp": "スターダスト・ファントム",
     "name_jp_rom": "Sutādasuto Fantomu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STOR-EN003",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP003",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Rare": []
@@ -87,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

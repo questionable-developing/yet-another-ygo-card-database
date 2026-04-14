@@ -1,11 +1,14 @@
 {
     "cid": "377c3c1e-3424-442b-a12c-69d510cb7254",
+    "yid": 55072170,
     "password": "55072170",
     "kid": 14416,
     "name": "Witchcrafter Masterpiece",
     "name_jp": "ウィッチクラフト・マスターピース",
     "name_jp_rom": "Witchikurafuto Masutāpīsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Masterpiece",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WitchcrafterMasterpiece-DBIC-JP-C.png",
+            "art": "WitchcrafterMasterpiece-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WitchcrafterMasterpiece-MP20-EN-UR-1E.png",
-            "art": null
+            "art": "WitchcrafterMasterpiece-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "INCH-EN026",
@@ -44,6 +52,16 @@
             "set": "2020 Tin of Lost Memories",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP026",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -89,5 +107,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

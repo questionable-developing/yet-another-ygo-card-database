@@ -6,7 +6,9 @@
     "name": "Dominus Purge",
     "name_jp": "<ruby lang=\"jp\"><rb>聖王の粉砕</rb><rp> (</rp><rt>ドミナス・パージ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dominasu Pāji",
+    "name_jp_rom_base": "Seiō no Funsai",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Holy King's Pulverization",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -32,40 +34,69 @@
         },
         "2": {
             "idx": "2",
-            "full": "DominusPurge-LOSP-JP-PScR.png",
+            "full": "DominusPurge-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "INFO-EN078",
             "set": "The Infinite Forbidden",
             "rarities": {
-                "Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "MP25-EN095",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "MZMU-EN125",
             "set": "Maze of Muertos",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "RA05-EN150",
             "set": "Rarity Collection 5",
             "rarities": {
-                "Ultra Rare": [],
-                "Starlight Rare": []
+                "Ultra Rare": ["2"],
+                "Platinum Secret Rare": ["1"],
+                "Starlight Rare": ["2"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP078",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "INFO-JP078",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP010",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],

@@ -1,11 +1,14 @@
 {
     "cid": "5d3f7cb1-d1ba-4d30-a617-f429f4f52d7f",
+    "yid": 87025064,
     "password": "87025064",
     "kid": 10591,
     "name": "Silver's Cry",
     "name_jp": "<ruby lang=\"jp\"><rb>銀</rb><rp> (</rp><rt>ぎん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>咆</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ginryū no Gōhō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Silver Dragon's Thundering Roar",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD25-JP021",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP032",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR01-JPB21",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

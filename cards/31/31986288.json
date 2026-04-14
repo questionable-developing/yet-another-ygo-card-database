@@ -1,12 +1,14 @@
 {
     "cid": "a66b373e-57f5-4950-bdfb-02da96ce71e1",
-    "yid": null,
+    "yid": 31986288,
     "password": "31986288",
     "kid": 7408,
     "name": "Regenerating Rose",
     "name_jp": "スプリット・<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>デモン</rt><rp>)</rp></ruby>・ローズ",
     "name_jp_rom": "Supuritto Demon Rōzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Split Demon Rose",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PTDN-EN005",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP005",
             "set": "Phantom Darkness",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

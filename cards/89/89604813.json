@@ -1,11 +1,14 @@
 {
     "cid": "cfeb0dc0-a04f-4004-ba0c-7b7292fc04df",
+    "yid": 89604813,
     "password": "89604813",
     "kid": 20607,
     "name": "Blue-Eyes Ultimate Spirit Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>青眼の究極霊竜</rb><rp> (</rp><rt>ブルーアイズ・スピリット・アルティメットドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burūaizu Supiritto Arutimetto Doragon",
+    "name_jp_rom_base": "Seigan no Kyūkyokureiryū",
     "name_jp_tl": "Blue-Eyes Spirit Ultimate Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -47,6 +50,31 @@
         },
         {
             "sid": "25LP-EN020",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD47-JP032",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JPP06",
+            "set": "Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack",
+            "rarities": {
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP020",
             "set": "Limited Pack World Championship 2025",
             "rarities": {
                 "Ultra Rare": [],
@@ -104,7 +132,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "03028836-51ce-4586-a03e-bb5e7b66c55c",
+    "yid": 79791878,
     "password": "79791878",
     "kid": 19892,
     "name": "Shining Sarcophagus",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>黄</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>ごん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>櫃</rb><rp> (</rp><rt>ひつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hikari no Ōgonhitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gold Chest of Light",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP051",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP051",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +108,6 @@
             "Only once per turn",
             "Mention"
         ]
-    }
+    },
+    "links": {}
 }

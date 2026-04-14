@@ -1,11 +1,14 @@
 {
     "cid": "4cfb8071-30e5-4269-86fd-8da965885d18",
+    "yid": 87481592,
     "password": "87481592",
     "kid": 15533,
     "name": "Dogmatikacism",
     "name_jp": "<ruby lang=\"jp\"><rb>教導神理</rb><rp> (</rp><rt>ドラグマティズム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragumatizumu",
+    "name_jp_rom_base": "Kyōdō Shinri",
     "name_jp_tl": "Dragmatism",
+    "name_jp_tl_base": "Dogmatic Divine Truth",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP054",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP022",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +104,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

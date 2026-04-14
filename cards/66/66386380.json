@@ -1,11 +1,14 @@
 {
     "cid": "9cac1dea-0721-4ba7-93b2-81f4ea3a2563",
+    "yid": 66386380,
     "password": "66386380",
     "kid": 14166,
     "name": "Harpie Oracle",
     "name_jp": "ハーピィ・オラクル",
     "name_jp_rom": "Hāpyi Orakuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "HarpieOracle-DP21-JP-SR.png",
+            "art": "HarpieOracle-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "HarpieOracle-LDS2-EN-UR-1E.png",
-            "art": null
+            "art": "HarpieOracle-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LED4-EN002",
@@ -47,6 +55,15 @@
             "set": "Legendary Duelists: Season 2",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP21-JP002",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -98,5 +115,6 @@
             "Mentions",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

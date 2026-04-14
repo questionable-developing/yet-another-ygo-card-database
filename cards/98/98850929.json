@@ -1,11 +1,14 @@
 {
     "cid": "298af6e8-9d93-46ef-a976-ed0cd55352b1",
+    "yid": 98850929,
     "password": "98850929",
     "kid": 10799,
     "name": "Sacred Serpent's Wake",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛇</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>息</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>吹</rb><rp> (</rp><rt>ぶき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seija no Ibuki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Serpent's Breath",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SHSP-EN068",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP068",
             "set": "Shadow Specters",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

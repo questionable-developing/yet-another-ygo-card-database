@@ -1,12 +1,14 @@
 {
     "cid": "19b782e7-d0e8-4b57-9c1d-547b78c7f01d",
-    "yid": null,
+    "yid": 1586457,
     "password": "01586457",
     "kid": 10896,
     "name": "Deep-Space Cruiser IX",
     "name_jp": "ディープ・スペース・クルーザー・ナイン",
     "name_jp_rom": "Dīpu Supēsu Kurūzā Nain",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP010",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

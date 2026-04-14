@@ -1,12 +1,14 @@
 {
     "cid": "54348d8e-11cc-444d-a3b7-d8ea2876c65e",
-    "yid": null,
+    "yid": 14541657,
     "password": "14541657",
     "kid": 12123,
     "name": "Twilight Ninja Shingetsu",
     "name_jp": "<ruby lang=\"jp\"><rb>黄</rb><rp> (</rp><rt>たそ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>昏</rb><rp> (</rp><rt>がれ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>－シンゲツ",
     "name_jp_rom": "Tasogare no Ninja - Shingetsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP015",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBLE-JP031",
+            "set": "Dimension Box Limited Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

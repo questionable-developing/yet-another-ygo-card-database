@@ -1,12 +1,14 @@
 {
     "cid": "77a50ea9-693a-45d2-983a-97462ce6aacd",
-    "yid": null,
+    "yid": 31247589,
     "password": "31247589",
     "kid": 7288,
     "name": "Gladiator Beast Dimacari",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ディカエリィ",
     "name_jp_rom": "Guradiaru Bīsuto Dikaeryi",
+    "name_jp_rom_base": "Kentōjū Dikaeryi",
     "name_jp_tl": "Gladial Beast Dicaerii",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "GLAS-EN023",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP023",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

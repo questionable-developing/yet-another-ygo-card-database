@@ -1,11 +1,14 @@
 {
     "cid": "d1d9a118-234a-4283-af1e-ad9db552b076",
+    "yid": 92962242,
     "password": "92962242",
     "kid": 18162,
     "name": "Jioh the Gravity Ninja",
     "name_jp": "<ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>かさね</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>磁</rb><rp> (</rp><rt>ジ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翁</rb><rp> (</rp><rt>オウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kasane no Ninja - Jiou",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stack Ninja - Jioh",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP017",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

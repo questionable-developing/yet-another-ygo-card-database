@@ -1,12 +1,14 @@
 {
     "cid": "f60f5bc9-6231-4d85-8d38-0cd50b5bab0d",
-    "yid": null,
+    "yid": 13708888,
     "password": "13708888",
     "kid": 20768,
     "name": "Evil HERO Neos Lord",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> ネオス・ロード",
     "name_jp_rom": "Ībiru Hīrō Neosu Rōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -40,6 +42,27 @@
         {
             "sid": "SUDA-EN031",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP031",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP031",
+            "set": "Supreme Darkness +1 Bonus Pack",
             "rarities": {
                 "Ultra Rare": [],
                 "Quarter Century Secret Rare": []
@@ -100,5 +123,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8d31cd6f-8bac-425a-90ec-f4802dee091a",
+    "yid": 75361204,
     "password": "75361204",
     "kid": 12019,
     "name": "Graydle Split",
     "name_jp": "グレイドル・スプリット",
     "name_jp_rom": "Gureidoru Supuritto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DOCS-EN075",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP075",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "6cf227d5-2cc0-4ad0-aeb7-a9f48397630e",
-    "yid": null,
+    "yid": 10877309,
     "password": "10877309",
     "kid": 14870,
     "name": "Time Thief Startup",
     "name_jp": "クロノダイバー・スタートアップ",
     "name_jp_rom": "Kuronodaibā Sutātoappu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chronodiver Startup",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP061",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

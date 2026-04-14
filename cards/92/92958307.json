@@ -1,11 +1,14 @@
 {
     "cid": "2362c026-92ef-4595-90ce-01b6c294228c",
+    "yid": 92958307,
     "password": "92958307",
     "kid": 12379,
     "name": "Performapal Show Down",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ショーダウン",
     "name_jp_rom": "Entameito Shōdaun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Show Down",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PerformapalShowDown-ST16-JP-NPR.png",
+            "art": "PerformapalShowDown-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PerformapalShowDown-YS16-EN-C-1E.png",
-            "art": null
+            "art": "PerformapalShowDown-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "YS16-EN031",
             "set": "Starter Deck: Yuya",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ST16-JP031",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -68,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

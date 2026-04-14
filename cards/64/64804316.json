@@ -1,11 +1,14 @@
 {
     "cid": "5b5ae2c0-ba04-4105-a793-b102e8c8f7f2",
+    "yid": 64804316,
     "password": "64804316",
     "kid": 16819,
     "name": "Ghostrick Siren",
     "name_jp": "ゴーストリック・セイレーン",
     "name_jp_rom": "Gōsutorikku Seirēn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BACH-EN014",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP014",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
             "Variable effects",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

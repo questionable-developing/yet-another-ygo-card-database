@@ -1,11 +1,14 @@
 {
     "cid": "02755c2f-c9d0-41f6-b2bc-b873faea5f2b",
+    "yid": 46659709,
     "password": "46659709",
     "kid": 11114,
     "name": "Galaxy Soldier",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河戦士</rb><rp> (</rp><rt>ギャラクシー・ソルジャー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Sorujā",
+    "name_jp_rom_base": "Ginga Senshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -79,6 +82,46 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP085",
+            "set": "Primal Origin",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "CPF1-JP043",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "22TP-JP404",
+            "set": "Tournament Pack 2022 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP051",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA08",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +158,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

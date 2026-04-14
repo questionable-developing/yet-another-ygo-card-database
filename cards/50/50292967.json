@@ -1,11 +1,14 @@
 {
     "cid": "8657816f-50f6-4797-b4a5-c84a259bfc72",
+    "yid": 50292967,
     "password": "50292967",
     "kid": 9688,
     "name": "Past Image",
     "name_jp": "パスト・イメージ",
     "name_jp_rom": "Pasuto Imēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GENF-EN071",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP071",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
             "Requires control of specific Type",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

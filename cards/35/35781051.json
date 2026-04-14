@@ -1,12 +1,14 @@
 {
     "cid": "a956810d-946a-4bd1-81a0-cdce631f55ee",
-    "yid": null,
+    "yid": 35781051,
     "password": "35781051",
     "kid": 7583,
     "name": "Arcana Force III - The Empress",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>Ⅲ</rb><rp> (</rp><rt>スリー</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＥＭＰＲＥＳＳ</rb><rp> (</rp><rt>ジ・エンプレス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Surī - Ji Enpuresu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,14 +32,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ArcanaForceIIITheEmpress-LODT-JP-C.jpg",
+            "art": "ArcanaForceIIITheEmpress-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ArcanaForceIIITheEmpress-SGX4-NA-C-1E.png",
-            "art": null
+            "art": "ArcanaForceIIITheEmpress-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LODT-EN010",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP010",
             "set": "Light of Destruction",
             "rarities": {
                 "Common": []
@@ -82,5 +98,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "968f5552-f3f6-4638-9f8a-606efca0cd81",
+    "yid": 96399967,
     "password": "96399967",
     "kid": 16205,
     "name": "Gizmek Naganaki, the Sunrise Signaler",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巧</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>常世宇受賣長鳴</rb><rp> (</rp><rt>トコヨウズメノナガナキ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikōchō - Tokoyo Uzume no Naganaki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mechanical Bird - Tokoyo-Uzume-no-Naganaki",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP016",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBAD-JP037",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +117,6 @@
             "Requires control of specific DEF",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

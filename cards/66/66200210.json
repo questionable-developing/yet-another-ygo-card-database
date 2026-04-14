@@ -1,11 +1,14 @@
 {
     "cid": "bb75a02d-22f7-4345-bd39-3d3a6cc3c1e2",
+    "yid": 66200210,
     "password": "66200210",
     "kid": 10506,
     "name": "Mecha Phantom Beast Hamstrat",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ハムストラット",
     "name_jp_rom": "Genjūki Hamusutoratto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -59,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP025",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +119,6 @@
             "Requires control of specific Monster type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

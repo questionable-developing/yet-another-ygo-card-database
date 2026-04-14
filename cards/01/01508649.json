@@ -1,12 +1,14 @@
 {
     "cid": "68a0b974-7a24-417b-8a28-2e9215e874bf",
-    "yid": null,
+    "yid": 1508649,
     "password": "01508649",
     "kid": 13417,
     "name": "Altergeist Hexstia",
     "name_jp": "オルターガイスト・ヘクスティア",
     "name_jp_rom": "Orutāgaisuto Hekusutia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -69,6 +71,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP046",
+            "set": "Extreme Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "AC03-JP057",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

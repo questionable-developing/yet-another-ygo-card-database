@@ -1,11 +1,14 @@
 {
     "cid": "c86c9d5d-5d1e-4e5d-9c03-12aae3ec8627",
+    "yid": 41348446,
     "password": "41348446",
     "kid": 16557,
     "name": "Detonation Code",
     "name_jp": "デトネーション・コード",
     "name_jp_rom": "Detonēshon Kōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "BODE-EN071",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP071",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

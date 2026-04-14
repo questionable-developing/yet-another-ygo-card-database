@@ -1,11 +1,14 @@
 {
     "cid": "27a6520a-4113-457b-a89d-3f4c4f0c80a9",
+    "yid": 55063751,
     "password": "55063751",
     "kid": 12106,
     "name": "Gameciel, the Sea Turtle Kaiju",
     "name_jp": "<ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>亀</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>ガメシエル",
     "name_jp_rom": "Kaikikaijū Gameshieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -85,6 +88,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP024",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP020",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP008",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -131,5 +161,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

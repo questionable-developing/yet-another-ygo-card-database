@@ -1,12 +1,14 @@
 {
     "cid": "67928ad9-e9ce-4009-b776-aa5969dcb27b",
-    "yid": null,
+    "yid": 14886190,
     "password": "14886190",
     "kid": 15534,
     "name": "Virtual World City - Kauwloon",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堺</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>都</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>九</rb><rp> (</rp><rt>ヂウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>ロン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dennōkaito - Jiuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Virtual World City - Jiulong",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP21-EN204",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP055",
+            "set": "Phantom Rage",
             "rarities": {
                 "Rare": []
             }
@@ -89,5 +100,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

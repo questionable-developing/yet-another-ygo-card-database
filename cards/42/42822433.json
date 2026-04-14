@@ -1,11 +1,14 @@
 {
     "cid": "220b49f9-11b1-45e9-96a0-5a2ddb76716b",
+    "yid": 42822433,
     "password": "42822433",
     "kid": 18483,
     "name": "Tellarknight Altairan",
     "name_jp": "<ruby lang=\"jp\"><rb>星騎士</rb><rp> (</rp><rt>テラナイト</rt><rp>)</rp></ruby> アルテア",
     "name_jp_rom": "Teranaito Arutea",
+    "name_jp_rom_base": "Seikishi Arutea",
     "name_jp_tl": "Tellarknight Altair",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -47,6 +50,23 @@
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP020",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP049",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -102,5 +122,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

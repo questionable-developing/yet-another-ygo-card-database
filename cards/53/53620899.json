@@ -1,11 +1,14 @@
 {
     "cid": "dece6f58-f414-440a-b194-3535a32b4efb",
+    "yid": 53620899,
     "password": "53620899",
     "kid": 13400,
     "name": "Mahjong Munia Maidens",
     "name_jp": "<ruby lang=\"jp\"><rb>雀</rb><rp> (</rp><rt>ジャン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姉</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妹</rb><rp> (</rp><rt>マツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Janshimatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tree Sparrow Sisters",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP030",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Once per turn"
         ]
-    }
+    },
+    "links": {}
 }

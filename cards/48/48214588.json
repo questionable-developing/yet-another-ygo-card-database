@@ -1,11 +1,14 @@
 {
     "cid": "92686e01-a655-4df0-bb53-202e9511b512",
+    "yid": 48214588,
     "password": "48214588",
     "kid": 15544,
     "name": "Rookie Fur Hire",
     "name_jp": "<ruby lang=\"jp\"><rb>新</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ぷう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shinpū no Kūgadan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "New Style Skyfang Brigade",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP065",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BPRO-JPS09",
+            "set": "Burst Protocol +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

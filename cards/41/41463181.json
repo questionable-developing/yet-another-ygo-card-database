@@ -1,11 +1,14 @@
 {
     "cid": "cf7ced01-a1bf-475b-9478-b81e92a2d544",
+    "yid": 41463181,
     "password": "41463181",
     "kid": 13927,
     "name": "Salamangreat Heatleo",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>ヒートライオ",
     "name_jp_rom": "Saramangureito Hīto Raio",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Salamangreat Heatlio",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -81,6 +84,47 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP040",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP040",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JPP03",
+            "set": "Structure Deck: Soulburner Extra Deck Enhancement Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP000",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP041",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,5 +168,6 @@
             "Limited activations",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ec79f2e2-a59c-40f5-b56c-723ecc80f784",
+    "yid": 46259438,
     "password": "46259438",
     "kid": 11449,
     "name": "Contract Laundering",
     "name_jp": "<ruby lang=\"jp\"><rb>契約洗浄</rb><rp> (</rp><rt>リース・ロンダリング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rīsu Raundaringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lease Laundering",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPRG-JP011",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD30-JP037",
+            "set": "Structure Deck: Pendulum Domination",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

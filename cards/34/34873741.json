@@ -1,12 +1,14 @@
 {
     "cid": "f0d2c26c-db98-4ab2-b144-9a0c1fa5c431",
-    "yid": null,
+    "yid": 34873741,
     "password": "34873741",
     "kid": 21145,
     "name": "Kuribon the Fairy Spirit",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>クリボン",
     "name_jp_rom": "Yōseirei Kuribon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ALIN-EN008",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP008",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -94,5 +105,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "bbc004b5-a94a-4aa2-8c18-7a7b875aeb28",
-    "yid": null,
+    "yid": 28966434,
     "password": "28966434",
     "kid": 8448,
     "name": "Solitaire Magician",
     "name_jp": "ソリテア・マジカル",
     "name_jp_rom": "Soritea Majikaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Solitaire Magical",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,14 +32,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SolitaireMagician-SOVR-JP-C.jpg",
+            "art": "SolitaireMagician-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SolitaireMagician-SOVR-EN-C-UE.jpg",
-            "art": null
+            "art": "SolitaireMagician-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN013",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP013",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Common": []
@@ -75,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

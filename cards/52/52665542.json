@@ -1,11 +1,14 @@
 {
     "cid": "914ca858-c5d7-4546-951e-bf67ffe7a539",
+    "yid": 52665542,
     "password": "52665542",
     "kid": 11302,
     "name": "Lightsworn Sanctuary",
     "name_jp": "ライトロードの<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raitorōdo no Shin'iki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Sanctuary",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,16 +30,30 @@
         "1": {
             "idx": "1",
             "full": "LightswornSanctuary-SDLI-EN-UR-1E.png",
-            "art": null
+            "art": "LightswornSanctuary-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "LightswornSanctuary-EP15-JP-C.png",
+            "art": "LightswornSanctuary-MADU-JP-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "SDLI-EN024",
             "set": "Realm of Light Structure Deck",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP045",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -79,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

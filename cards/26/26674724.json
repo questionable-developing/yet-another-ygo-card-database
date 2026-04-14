@@ -1,12 +1,14 @@
 {
     "cid": "a60fc999-abd6-4107-9d6a-0957ac0f0fab",
-    "yid": null,
+    "yid": 26674724,
     "password": "26674724",
     "kid": 11484,
     "name": "Nekroz of Brionac",
     "name_jp": "ブリューナクの<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Buryūnaku no Nekurosu",
+    "name_jp_rom_base": "Buryūnaku no Eireii",
     "name_jp_tl": "Necroth of Brionac",
+    "name_jp_tl_base": "Shadow Spirit Cloth of Brionac",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -60,6 +62,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP014",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLT1-JP015",
+            "set": "Selection 10",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP082",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "6d315260-4189-4418-9b38-c3f5fc3cb980",
+    "yid": 93717133,
     "password": "93717133",
     "kid": 9729,
     "name": "Galaxy-Eyes Photon Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河眼の光子竜</rb><rp> (</rp><rt>ギャラクシーアイズ・フォトン・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushīaizu Foton Doragon",
+    "name_jp_rom_base": "Gingame no Kōshiryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -113,6 +116,81 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP011",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "DP13-JP001",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DBLE-JP040",
+            "set": "Dimension Box Limited Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP039",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20CP-JPT07",
+            "set": "Surpassing 10000 Cards Commemoration Special Pack",
+            "rarities": {
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP030",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP033",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP049",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP004",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -162,5 +240,6 @@
             "Cover card",
             "Requires control of specific ATK"
         ]
-    }
+    },
+    "links": {}
 }

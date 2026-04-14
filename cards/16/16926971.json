@@ -1,12 +1,14 @@
 {
     "cid": "758b67de-933f-4620-a5f8-c635b00253cd",
-    "yid": null,
+    "yid": 16926971,
     "password": "16926971",
     "kid": 21175,
     "name": "Firewall Saber Dragon",
     "name_jp": "ファイアウォール・<ruby lang=\"jp\"><rb>Ｓ</rb><rp> (</rp><rt>セイバー</rt><rp>)</rp></ruby>・ドラゴン",
     "name_jp_rom": "Faiawōru Seibā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -42,6 +44,15 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP038",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -92,5 +103,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

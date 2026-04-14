@@ -1,11 +1,14 @@
 {
     "cid": "45e8df5d-c799-46ce-8eb7-b634ab20bc25",
+    "yid": 74271714,
     "password": "74271714",
     "kid": 21343,
     "name": "Fish and Bids",
     "name_jp": "フィッシュアンドビッズ",
     "name_jp_rom": "Fisshu Ando Bizzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "ALIN-EN086",
             "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP070",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -75,5 +87,6 @@
         "misc": [
             "At the start of Main Phase 1"
         ]
-    }
+    },
+    "links": {}
 }

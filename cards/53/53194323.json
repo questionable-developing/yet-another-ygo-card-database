@@ -1,11 +1,14 @@
 {
     "cid": "a314ec98-ef23-4835-8d85-26498b3d2bd7",
+    "yid": 53194323,
     "password": "53194323",
     "kid": 19518,
     "name": "Dark Element",
     "name_jp": "ダーク・エレメント",
     "name_jp_rom": "Dāku Eremento",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHNI-EN063",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP063",
             "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

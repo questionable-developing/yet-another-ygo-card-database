@@ -1,11 +1,14 @@
 {
     "cid": "1b9a44d1-eb60-42c8-8544-38a6a4807e9f",
+    "yid": 55312487,
     "password": "55312487",
     "kid": 13789,
     "name": "Crusadia Vanguard",
     "name_jp": "クルセイド・パラディオン",
     "name_jp_rom": "Kuruseido Paradion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crusade Palladion",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP071",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "87e8bb9f-980e-406f-88e1-9f17baeac79c",
-    "yid": null,
+    "yid": 34550857,
     "password": "34550857",
     "kid": 12926,
     "name": "Lyrilusc - Cobalt Sparrow",
     "name_jp": "<ruby lang=\"jp\"><rb>ＬＬ</rb><rp> (</rp><rt>リリカル・ルスキニア</rt><rp>)</rp></ruby>－コバルト・スパロー",
     "name_jp_rom": "Ririkaru Rusukinia - Kobaruto Suparō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lyrical Luscinia - Cobalt Sparrow",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP012",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP25-JP041",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "4ec05815-21e8-4d90-b1fb-f611c728aedb",
-    "yid": null,
+    "yid": 19882096,
     "password": "19882096",
     "kid": 17122,
     "name": "Scareclaw Belone",
     "name_jp": "スケアクロー・ベロネア",
     "name_jp_rom": "Sukeakurō Beronea",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP010",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
             "Column",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

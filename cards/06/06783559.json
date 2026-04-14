@@ -1,12 +1,14 @@
 {
     "cid": "2b26a2df-5ef3-4eee-857a-fd87aa539693",
-    "yid": null,
+    "yid": 6783559,
     "password": "06783559",
     "kid": 13251,
     "name": "Self-Destruct Ant",
     "name_jp": "アリジバク",
     "name_jp_rom": "Arijibaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP035",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

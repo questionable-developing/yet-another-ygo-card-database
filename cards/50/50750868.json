@@ -1,11 +1,14 @@
 {
     "cid": "5bac0762-41a3-4d6d-aff7-a6102ca97a86",
+    "yid": 50750868,
     "password": "50750868",
     "kid": 14127,
     "name": "T.G. Trident Launcher",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> トライデント・ランチャー",
     "name_jp_rom": "Tekku Jīnasu Toraidento Ranchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Trident Launcher",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +58,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP050",
+            "set": "Savage Strike",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP048",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

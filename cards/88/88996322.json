@@ -1,11 +1,14 @@
 {
     "cid": "47510d98-7b1a-4c3d-99b4-358c1e60dcc3",
+    "yid": 88996322,
     "password": "88996322",
     "kid": 14640,
     "name": "Gladiator Beast Vespasius",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ウェスパシアス",
     "name_jp_rom": "Guradiaru Bīsuto Vesupashiasu",
+    "name_jp_rom_base": "Kentōjū Vesupashiasu",
     "name_jp_tl": "Gladial Beast Vespasiaus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP013",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +113,6 @@
             "Only once per turn",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

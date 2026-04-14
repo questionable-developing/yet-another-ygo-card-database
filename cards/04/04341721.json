@@ -1,12 +1,14 @@
 {
     "cid": "10bf52b2-5484-4364-8e03-d890cd12a3b6",
-    "yid": null,
+    "yid": 4341721,
     "password": "04341721",
     "kid": 20800,
     "name": "Hallo-Ween!",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｔｒｉｃｋ</rb><rp> (</rp><rt>トリック</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ｏｒ</rb><rp> (</rp><rt>オア</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｔｒｅａｔ</rb><rp> (</rp><rt>トリート</rt><rp>)</rp></ruby>！",
     "name_jp_rom": "Torikku Oa Torīto!",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trick or Treat!",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN063",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP063",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -70,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

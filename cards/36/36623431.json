@@ -1,12 +1,14 @@
 {
     "cid": "d95e90d6-fb65-4e9d-9dad-dc1bdb7821a5",
-    "yid": null,
+    "yid": 36623431,
     "password": "36623431",
     "kid": 8207,
     "name": "Iron Core of Koa'ki Meiru",
     "name_jp": "コアキメイルの<ruby lang=\"jp\"><rb>鋼</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>核</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Koa Kimeiru no Kōkaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Steel Core of Core Chimail",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP055",
+            "set": "Raging Battle",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP146",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

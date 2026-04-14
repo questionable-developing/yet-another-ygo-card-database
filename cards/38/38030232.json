@@ -1,11 +1,14 @@
 {
     "cid": "fc2fe6d8-ca27-4464-85b6-faaf2919cf59",
+    "yid": 38030232,
     "password": "38030232",
     "kid": 14949,
     "name": "Tenyi Spirit - Sahasrara",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－サハスラーラ",
     "name_jp_rom": "Ten'iryū - Sahasurāra",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tenyi Dragon - Sahasrara",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -56,6 +59,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP3-JP096",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,7 +112,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

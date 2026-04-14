@@ -1,11 +1,14 @@
 {
     "cid": "30fe309e-4bcf-4dc5-9460-7787ed288b97",
+    "yid": 91434208,
     "password": "91434208",
     "kid": 19513,
     "name": "White Reincarnation",
     "name_jp": "<ruby lang=\"jp\"><rb>白の輪廻</rb><rp> (</rp><rt>ホワイト・リンカーネイション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Howaito Rinkāneishon",
+    "name_jp_rom_base": "Shiro no Rinne",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP25-EN317",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP058",
+            "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +102,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f42a20f2-bcaa-4d32-8edc-b23715af7093",
+    "yid": 37798171,
     "password": "37798171",
     "kid": 10851,
     "name": "Depth Shark",
     "name_jp": "デプス・シャーク",
     "name_jp_rom": "Depusu Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP15-JP003",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

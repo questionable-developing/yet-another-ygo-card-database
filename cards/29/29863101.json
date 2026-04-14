@@ -1,12 +1,14 @@
 {
     "cid": "332a1cdc-5768-4c58-a64b-28b7ce4ff98c",
-    "yid": null,
+    "yid": 29863101,
     "password": "29863101",
     "kid": 8047,
     "name": "Assault Teleport",
     "name_jp": "バスター・テレポート",
     "name_jp_rom": "Basutā Terepōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Teleport",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "CRMS-EN052",
             "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP052",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP099",
+            "set": "Duelist Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -71,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

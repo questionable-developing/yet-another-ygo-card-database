@@ -1,12 +1,14 @@
 {
     "cid": "43c41ce8-73c5-40c0-b80e-fba951aa54a5",
-    "yid": null,
+    "yid": 35848254,
     "password": "35848254",
     "kid": 9769,
     "name": "Photon Lead",
     "name_jp": "フォトン・リード",
     "name_jp_rom": "Foton Rīdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -46,6 +48,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP051",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP13-JP024",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

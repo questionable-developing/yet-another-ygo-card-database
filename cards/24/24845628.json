@@ -1,12 +1,14 @@
 {
     "cid": "815a8327-6bc9-46cb-9075-5cf337735e88",
-    "yid": null,
+    "yid": 24845628,
     "password": "24845628",
     "kid": 10800,
     "name": "Magicalized Duston Mop",
     "name_jp": "ダストンのモップ",
     "name_jp_rom": "Dasuton no Moppu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Duston Mop",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Shadow Specters",
             "rarities": {
                 "Short Print": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP069",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -81,5 +92,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

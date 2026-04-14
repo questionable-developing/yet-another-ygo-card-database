@@ -1,11 +1,14 @@
 {
     "cid": "78a8ee7a-3700-46d9-9983-5ec346cdcac2",
+    "yid": 89357740,
     "password": "89357740",
     "kid": 20498,
     "name": "Union Pilot",
     "name_jp": "ユニオン・パイロット",
     "name_jp_rom": "Yunion Pairotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "ROTA-EN022",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP022",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

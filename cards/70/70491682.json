@@ -1,11 +1,14 @@
 {
     "cid": "1f409ad9-13a8-47fb-be3e-b7f4d5033cf2",
+    "yid": 70491682,
     "password": "70491682",
     "kid": 13705,
     "name": "Vendread Anima",
     "name_jp": "ヴェンデット・アニマ",
     "name_jp_rom": "Vendetto Anima",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vendead Anima",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP18-JP010",
+            "set": "Extra Pack 2018",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,7 +90,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Restricts the player's Special Summons to Type specific monsters"
         ],
         "attack": [],
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

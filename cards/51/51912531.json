@@ -1,11 +1,14 @@
 {
     "cid": "bbb1820e-0312-4ebd-b223-8a94163212cd",
+    "yid": 51912531,
     "password": "51912531",
     "kid": 10921,
     "name": "Mystic Macrocarpa Seed",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>種</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby>ミトラ",
     "name_jp_rom": "Gen'yōshu Mitora",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mystic Seed Mitra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LVAL-EN035",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP035",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only twice per turn"
         ]
-    }
+    },
+    "links": {}
 }

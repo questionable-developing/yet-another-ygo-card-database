@@ -1,11 +1,14 @@
 {
     "cid": "1e555cb0-eac6-4fc0-89de-c153db8f94b3",
+    "yid": 74798297,
     "password": "74798297",
     "kid": 14151,
     "name": "Shiranui Style Success",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>流</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>才</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>陣</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui-ryū Saika no Jin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shiranui Style Prodigious Splendor Formation",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SAST-EN074",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP074",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

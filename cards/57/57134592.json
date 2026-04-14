@@ -1,11 +1,14 @@
 {
     "cid": "4c87103e-a9d8-4113-9acb-8a22a4d36d97",
+    "yid": 57134592,
     "password": "57134592",
     "kid": 18912,
     "name": "Salamangreat Raging Phoenix",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>レイジング・フェニックス",
     "name_jp_rom": "Saramangureito Reijingu Fenikkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -62,6 +65,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP28-JP005",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA36",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +132,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

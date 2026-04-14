@@ -1,11 +1,14 @@
 {
     "cid": "134d8305-75dc-44ea-bc17-0c05701ec1bb",
+    "yid": 65646587,
     "password": "65646587",
     "kid": 12884,
     "name": "Pendulum Fusion",
     "name_jp": "ペンデュラム・フュージョン",
     "name_jp_rom": "Pendyuramu Fyūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP19-JP004",
+            "set": "Premium Pack 19",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP213",
+            "set": "Tournament Pack 2022 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

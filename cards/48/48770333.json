@@ -1,11 +1,14 @@
 {
     "cid": "abdc6c13-a149-40e2-83f1-19ed297ae8f9",
+    "yid": 48770333,
     "password": "48770333",
     "kid": 12390,
     "name": "Thunder King, the Lightningstrike Kaiju",
     "name_jp": "<ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>サンダー・ザ・キング",
     "name_jp_rom": "Raigekikaijū Sandā Za Kingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder the King, the Lightningstrike Kaiju",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,10 +33,15 @@
         "1": {
             "idx": "1",
             "full": "ThunderKingtheLightningstrikeKaiju-SDAZ-EN-C-1E.png",
+            "art": "ThunderKingtheLightningstrikeKaiju-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "ThunderKingtheLightningstrikeKaiju-LOCR-JP-UR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "SHVI-EN087",
@@ -54,6 +62,31 @@
             "set": "Structure Deck: Albaz Strike",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP027",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP008",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCR-JP029",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -102,5 +135,6 @@
             "Control only one",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

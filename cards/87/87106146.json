@@ -1,11 +1,14 @@
 {
     "cid": "f7792246-b674-4f3f-8306-8e4340143e4d",
+    "yid": 87106146,
     "password": "87106146",
     "kid": 8845,
     "name": "Damage Gate",
     "name_jp": "ダメージ・ゲート",
     "name_jp_rom": "Damēji Gēto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DamageGate-DE04-JP-C.jpg",
+            "art": "DamageGate-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DamageGate-BP03-EN-C-1E.png",
-            "art": null
+            "art": "DamageGate-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TSHD-EN070",
@@ -71,6 +79,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP070",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP155",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +122,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2394f818-1c09-44d7-9948-b412549e4e9e",
-    "yid": null,
+    "yid": 23076639,
     "password": "23076639",
     "kid": 18790,
     "name": "Gazelle the King of Mythical Claws",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>爪</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>ガゼル",
     "name_jp_rom": "Gensō no Ō Gazeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP003",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

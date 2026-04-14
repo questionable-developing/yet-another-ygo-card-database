@@ -1,12 +1,14 @@
 {
     "cid": "3e6a9ec9-40f6-43ab-931a-5de88e917560",
-    "yid": null,
+    "yid": 16699558,
     "password": "16699558",
     "kid": 20608,
     "name": "Indigo-Eyes Silver Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>藍</rb><rp> (</rp><rt>あい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>銀</rb><rp> (</rp><rt>ぎん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Aigan no Ginryū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -45,6 +47,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD47-JP033",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JPP07",
+            "set": "Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,7 +97,7 @@
             "2 Xyz Materials",
             "Requires Type specific Xyz Materials",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Cannot attack directly"
@@ -90,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

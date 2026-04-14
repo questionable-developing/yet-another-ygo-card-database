@@ -1,11 +1,14 @@
 {
     "cid": "f42c82dd-e772-47eb-837a-7398bca7690d",
+    "yid": 90351981,
     "password": "90351981",
     "kid": 13944,
     "name": "Orcustrated Babel",
     "name_jp": "オルフェゴール・バベル",
     "name_jp_rom": "Orufegōru Baberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Babel",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP057",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP051",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +110,6 @@
         "misc": [
             "Can be activated during either player's turn"
         ]
-    }
+    },
+    "links": {}
 }

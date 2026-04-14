@@ -1,11 +1,14 @@
 {
     "cid": "ab811a29-5362-484f-a03a-6c3cdb0ca87b",
+    "yid": 66127916,
     "password": "66127916",
     "kid": 11410,
     "name": "Fusion Reserve",
     "name_jp": "<ruby lang=\"jp\"><rb>融合準備</rb><rp> (</rp><rt>フュージョン・リザーブ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fyūjon Rizābu",
+    "name_jp_rom_base": "Yūgō Junbi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP078",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18TP-JP314",
+            "set": "Tournament Pack 2018 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +103,7 @@
         ],
         "counter": [],
         "action": [
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Adds from Deck to hand",
             "Adds from Graveyard to hand"
         ],
@@ -97,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

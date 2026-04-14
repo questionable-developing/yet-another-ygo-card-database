@@ -1,11 +1,14 @@
 {
     "cid": "ff1131e2-e3b7-4b2f-91a3-99c1b52236bc",
+    "yid": 67466547,
     "password": "67466547",
     "kid": 13657,
     "name": "Helmer, Helmsman Fur Hire",
     "name_jp": "<ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>舵</rb><rp> (</rp><rt>だ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby> ヘルマー",
     "name_jp_rom": "Kūgadan no Dashu Herumā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Helmer, Helmsman of the Skyfang Brigade",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP016",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

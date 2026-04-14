@@ -1,11 +1,14 @@
 {
     "cid": "b2ab8af3-ec7a-4501-b38c-7f267ce5e9c6",
+    "yid": 54851325,
     "password": "54851325",
     "kid": 19195,
     "name": "Realm Eulogy",
     "name_jp": "<ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>賛</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>歌</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sekaisanka",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Broken World Eulogy",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP24-EN394",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP053",
+            "set": "Age of Overlord",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

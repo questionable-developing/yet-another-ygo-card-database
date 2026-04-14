@@ -1,12 +1,14 @@
 {
     "cid": "90a03efd-2f8c-4dd1-90de-f3028c65bdc7",
-    "yid": null,
+    "yid": 24010609,
     "password": "24010609",
     "kid": 13679,
     "name": "Sky Striker Mecha Modules - Multirole",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>関</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>－マルチロール",
     "name_jp_rom": "Sentōkikan - Maruchirōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flash Sword Engine - Multirole",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SkyStrikerMechaModulesMultirole-MAMA-EN-UR-1E.png",
+            "full": "SkyStrikerMechaModulesMultirole-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -52,6 +54,39 @@
             "set": "Magnificent Mavens",
             "rarities": {
                 "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENS18",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP038",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP011",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP051",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -94,5 +129,6 @@
             "Gain this effect once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

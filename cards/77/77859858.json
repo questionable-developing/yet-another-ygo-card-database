@@ -1,11 +1,14 @@
 {
     "cid": "699bbc28-d0a4-41ea-b479-e804adb0d673",
+    "yid": 77859858,
     "password": "77859858",
     "kid": 7229,
     "name": "Destructive Draw",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>へのクイック・ドロー",
     "name_jp_rom": "Hametsu e no Kuikku Dorō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Quick Draw Towards Destruction",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TAEV-EN073",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP073",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

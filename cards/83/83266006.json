@@ -1,11 +1,14 @@
 {
     "cid": "7c88a1e1-faed-43fb-a783-e22e466f4bf1",
+    "yid": 83266006,
     "password": "83266006",
     "kid": 14872,
     "name": "Ghost Meets Girl - A Mayakashi's Manuscript",
     "name_jp": "<ruby lang=\"jp\"><rb>逢</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>麗</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>譚</rb><rp> (</rp><rt>たん</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>魔妖</rb><rp> (</rp><rt>まやかし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>語</rb><rp> (</rp><rt>がたり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōkayōreitan - Mayakashi-gatari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Tale of the Meeting with the Splendid Spectral Grace - A Mayakashi Story",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP063",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +83,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard",
             "Restricts the player's Special Summons to Type specific monsters"
         ],
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

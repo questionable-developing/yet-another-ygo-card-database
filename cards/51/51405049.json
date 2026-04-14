@@ -1,11 +1,14 @@
 {
     "cid": "d0f949bc-78d3-4ddf-b6ce-9557a2bb2ee5",
+    "yid": 51405049,
     "password": "51405049",
     "kid": 10192,
     "name": "Where Arf Thou?",
     "name_jp": "ワンチャン！？",
     "name_jp_rom": "Wanchan!?",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wan-chan!?",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -75,6 +78,51 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP062",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD32-JP031",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD40-JP033",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "23TP-JP102",
+            "set": "Tournament Pack 2023 Vol.1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP102",
+            "set": "Top Prize Pack 2023 Vol.1",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBJH-JP028",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +152,6 @@
         "misc": [
             "Requires control of specific Level"
         ]
-    }
+    },
+    "links": {}
 }

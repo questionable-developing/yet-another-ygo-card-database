@@ -1,12 +1,14 @@
 {
     "cid": "f05b5b84-53d8-49c8-85ca-a82ef83e6579",
-    "yid": null,
+    "yid": 24550676,
     "password": "24550676",
     "kid": 12320,
     "name": "Lunalight Leo Dancer",
     "name_jp": "<ruby lang=\"jp\"><rb>月光舞獅子姫</rb><rp> (</rp><rt>ムーンライト・ライオ・ダンサー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Raio Dansā",
+    "name_jp_rom_base": "Gekkō Bushishihime",
     "name_jp_tl": "Moonlight Lio Dancer",
+    "name_jp_tl_base": "Moonlight Dancing Lion Princess",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP048",
+            "set": "Shining Victories",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP21-JP054",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS10",
+            "set": "Duelist Advance +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +138,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

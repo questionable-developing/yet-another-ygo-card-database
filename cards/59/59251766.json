@@ -1,11 +1,14 @@
 {
     "cid": "a9acacfd-0002-4685-9e41-16159848f0df",
+    "yid": 59251766,
     "password": "59251766",
     "kid": 10916,
     "name": "Bujingi Hare",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－サグサ",
     "name_jp_rom": "Bujingi - Sagusa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujingi - Sagusa",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP030",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

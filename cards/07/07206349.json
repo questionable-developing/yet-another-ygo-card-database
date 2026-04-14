@@ -1,12 +1,14 @@
 {
     "cid": "e2164873-8720-46b1-b2cb-670f8c512fcc",
-    "yid": null,
+    "yid": 7206349,
     "password": "07206349",
     "kid": 17821,
     "name": "Vernusylph in Full Bloom",
     "name_jp": "<ruby lang=\"jp\"><rb>春</rb><rp> (</rp><rt>はる</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>はな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>盛</rb><rp> (</rp><rt>ざかり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Harukeshō no Hanazakari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flower Bloom of the Vernalizer Fairy",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DABL-EN066",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP066",
             "set": "Darkwing Blast",
             "rarities": {
                 "Common": []
@@ -88,5 +99,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

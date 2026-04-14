@@ -1,11 +1,14 @@
 {
     "cid": "0518a51d-411c-4def-9114-d00c6254f237",
+    "yid": 70636044,
     "password": "70636044",
     "kid": 19886,
     "name": "Varudras, the Final Bringer of the End Times",
     "name_jp": "<ruby lang=\"jp\"><rb>終戒超獸</rb><rp> (</rp><rt>デカネローグ</rt><rp>)</rp></ruby>－ヴァルドラス",
     "name_jp_rom": "Dekanerōgu - Varudorasu",
+    "name_jp_rom_base": "Shūkaichōjū - Varudorasu",
     "name_jp_tl": "Decanelogue - Varudras",
+    "name_jp_tl_base": "Final Commandment Super Beast - Varudras",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +55,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP045",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP045",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3184e131-4eca-4d3f-98fd-19e4e3b5f4e3",
+    "yid": 57288064,
     "password": "57288064",
     "kid": 12161,
     "name": "Shiranui Samuraisaga",
     "name_jp": "<ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>かたな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Katanagami - Shiranui",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Blade God - Shiranui",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP053",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "cd6b4cc7-7235-4a96-9e23-4752fc55a099",
+    "yid": 52159691,
     "password": "52159691",
     "kid": 15480,
     "name": "Raider's Wing",
     "name_jp": "レイダーズ・ウィング",
     "name_jp_rom": "Reidāzu Wingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP001",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +116,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

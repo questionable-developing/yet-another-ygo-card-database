@@ -1,12 +1,14 @@
 {
     "cid": "36a5982b-34af-4020-9221-9fed4012d4fe",
-    "yid": null,
+    "yid": 14602126,
     "password": "14602126",
     "kid": 15545,
     "name": "Xyz Import",
     "name_jp": "エクシーズ・インポート",
     "name_jp_rom": "Ekushīzu Inpōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP066",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBAD-JP044",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

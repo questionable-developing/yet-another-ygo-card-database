@@ -1,11 +1,14 @@
 {
     "cid": "86eb5b11-d7b6-4e32-8a51-51285b43a8c2",
+    "yid": 99599062,
     "password": "99599062",
     "kid": 19519,
     "name": "Earthbound Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jibaku Yūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP25-EN320",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP064",
+            "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
             }
@@ -95,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

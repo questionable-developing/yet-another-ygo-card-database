@@ -1,11 +1,14 @@
 {
     "cid": "ed08cb7a-63b0-4076-b410-7b3faf2a0046",
+    "yid": 75157704,
     "password": "75157704",
     "kid": 15553,
     "name": "Dual Avatar Compact",
     "name_jp": "<ruby lang=\"jp\"><rb>双</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōten no Shimei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dual Sky Duty",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHRA-EN074",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP074",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

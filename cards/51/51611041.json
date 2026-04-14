@@ -1,11 +1,14 @@
 {
     "cid": "9417b48a-f23d-4108-a136-fd22d404ec0f",
+    "yid": 51611041,
     "password": "51611041",
     "kid": 16831,
     "name": "Epigonen, the Impersonation Invader",
     "name_jp": "<ruby lang=\"jp\"><rb>模</rb><rp> (</rp><rt>も</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>拘</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撮</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby> エピゴネン",
     "name_jp_rom": "Mokusatsu Seijin Epigonen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Epigonen, the Impersonation Alien",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP026",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

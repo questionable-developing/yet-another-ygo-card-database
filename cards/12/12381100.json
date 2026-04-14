@@ -1,12 +1,14 @@
 {
     "cid": "940959a5-0ab0-4255-8870-1c0ea2b457b9",
-    "yid": null,
+    "yid": 12381100,
     "password": "12381100",
     "kid": 19718,
     "name": "Dragon Master Magia",
     "name_jp": "<ruby lang=\"jp\"><rb>究極竜魔導師</rb><rp> (</rp><rt>マスター・オブ・ドラゴンマギア</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Masutā Obu Doragon Magia",
+    "name_jp_rom_base": "Kyūkyoku Ryūmadōshi",
     "name_jp_tl": "Master of Dragon Magia",
+    "name_jp_tl_base": "Ultimate Dragon Mage",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -34,6 +36,11 @@
             "full": "DragonMasterMagia-QCDB-JP-UR.png",
             "art": "DragonMasterMagia-MADU-JP-VG-artwork.png"
         },
+        "2": {
+            "idx": "2",
+            "full": "DragonMasterMagia-LOSP-JP-PScR.png",
+            "art": null
+        },
         "1.1": {
             "idx": "1.1",
             "full": "DragonMasterMagia-RA04-EN-PlScR-1E.png",
@@ -56,6 +63,32 @@
                 "Platinum Secret Rare": [],
                 "Ultimate Rare": [],
                 "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "BLGG-EN???",
+            "set": "Battles of Legend: Glorious Gallery",
+            "rarities": {
+                "Ultra Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "QCDB-JP001",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOSP-JP011",
+            "set": "Limit Over Special Pack Vol.2",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -109,6 +142,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

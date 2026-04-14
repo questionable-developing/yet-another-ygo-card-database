@@ -1,11 +1,14 @@
 {
     "cid": "6c2dfac3-fdc7-499a-84f3-28cc37c1b0ee",
+    "yid": 75457624,
     "password": "75457624",
     "kid": 11501,
     "name": "Ritual Beast's Bond",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>絆</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reijū no Shōban",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirit Beast's Mutual Bond",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,17 +29,44 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "RitualBeastsBond-TW01-JP-C.png",
+            "art": "RitualBeastsBond-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "RitualBeastsBond-THSF-EN-SR-1E.png",
-            "art": null
+            "art": "RitualBeastsBond-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "THSF-EN031",
             "set": "The Secret Forces",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP031",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP141",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -72,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

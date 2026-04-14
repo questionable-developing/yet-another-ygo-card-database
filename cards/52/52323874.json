@@ -1,11 +1,14 @@
 {
     "cid": "6097c9a3-11b2-4383-8f52-a56c484c77cf",
+    "yid": 52323874,
     "password": "52323874",
     "kid": 11995,
     "name": "Raidraptor - Fiend Eagle",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－デビル・イーグル",
     "name_jp_rom": "Reido Raputāzu - Debiru Īguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Devil Eagle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DOCS-EN051",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP051",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Rare": []
@@ -80,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

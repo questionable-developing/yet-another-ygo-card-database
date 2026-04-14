@@ -1,11 +1,14 @@
 {
     "cid": "e26fa390-3836-4642-ac63-05a94362bcf5",
+    "yid": 40318957,
     "password": "40318957",
     "kid": 11938,
     "name": "Performapal Skullcrobat Joker",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ドクロバット・ジョーカー",
     "name_jp_rom": "Entameito Dokurobatto Jōkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Skullcrobat Joker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -80,6 +83,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD29-JP005",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP23-JP050",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SUB1-JP038",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP081",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like, Condition"
@@ -119,5 +155,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

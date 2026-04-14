@@ -1,11 +1,14 @@
 {
     "cid": "a27a6529-c248-42f9-8f36-0f7fb16c2a07",
+    "yid": 76589546,
     "password": "76589546",
     "kid": 14254,
     "name": "Overflow Dragon",
     "name_jp": "オーバーフロー・ドラゴン",
     "name_jp_rom": "Ōbāfurō Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DANE-EN004",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP004",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

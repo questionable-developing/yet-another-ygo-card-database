@@ -1,11 +1,14 @@
 {
     "cid": "9dd0b4b0-852f-45ee-81eb-2f086daa4f63",
+    "yid": 74936480,
     "password": "74936480",
     "kid": 16844,
     "name": "Dinomorphia Stealthbergia",
     "name_jp": "ダイノルフィア・ステルスベギア",
     "name_jp_rom": "Dainorufia Suterusubegia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dinorphia Stealthbegia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP039",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Requires specific LP",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

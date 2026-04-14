@@ -1,12 +1,14 @@
 {
     "cid": "421c47a2-68ba-498e-a8f4-f815d28b5e00",
-    "yid": null,
+    "yid": 5041348,
     "password": "05041348",
     "kid": 14662,
     "name": "Draco Berserker of the Tenyi",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ten'i no Ryūkishin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fierce Dragon God of the Tenyi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +68,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP035",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "DBVS-JP026",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +132,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

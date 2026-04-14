@@ -1,11 +1,14 @@
 {
     "cid": "7b76bfe0-1c85-4af6-8929-729a77cd604b",
+    "yid": 87347365,
     "password": "87347365",
     "kid": 10316,
     "name": "Revival Golem",
     "name_jp": "リバイバルゴーレム",
     "name_jp_rom": "Ribaibaru Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP016",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP208",
+            "set": "Tournament Pack 2022 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +93,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

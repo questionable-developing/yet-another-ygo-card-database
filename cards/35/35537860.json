@@ -1,12 +1,14 @@
 {
     "cid": "5b30ccc7-47ac-4de5-b86e-930b11f8ec1e",
-    "yid": null,
+    "yid": 35537860,
     "password": "35537860",
     "kid": 7692,
     "name": "Synch Blast Wave",
     "name_jp": "<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>調</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>波</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seishin Dōchōha",
-    "name_jp_tl": "Spirit Synch Wave",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Mind Synch Wave",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,10 +64,19 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "YSD3-JP021",
+            "set": "Starter Deck 2008",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [
@@ -89,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

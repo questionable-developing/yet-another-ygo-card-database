@@ -1,11 +1,14 @@
 {
     "cid": "b77af495-893f-42d1-80e9-b9801c2571c4",
+    "yid": 97677329,
     "password": "97677329",
     "kid": 14227,
     "name": "Backup Supervisor",
     "name_jp": "バックアップ・スーパーバイザー",
     "name_jp_rom": "Bakkuappu Sūpābaizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "DUPO-EN015",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "20TH-JPB32",
+            "set": "20th Anniversary Duelist Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

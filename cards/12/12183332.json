@@ -1,12 +1,14 @@
 {
     "cid": "eac6884b-d0fc-48a5-9427-bfe846be0391",
-    "yid": null,
+    "yid": 12183332,
     "password": "12183332",
     "kid": 5529,
     "name": "Card Shuffle",
     "name_jp": "ショット・ガン・シャッフル",
     "name_jp_rom": "Shotto Gan Shaffuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shot Gun Shuffle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "DR1-EN028",
             "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "301-028",
+            "set": "The New Ruler",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP028",
+            "set": "Expert Edition Volume.1",
             "rarities": {
                 "Common": []
             }
@@ -71,5 +89,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

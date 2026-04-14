@@ -1,12 +1,14 @@
 {
     "cid": "26ee1d5d-48a4-4e7b-937a-df206d0e1bf7",
-    "yid": null,
+    "yid": 33103459,
     "password": "33103459",
     "kid": 12531,
     "name": "Performapal Corn",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>コン",
     "name_jp_rom": "Entameito Kon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Corn",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PerformapalCorn-CPF1-JP-R.png",
+            "art": "PerformapalCorn-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PerformapalCorn-DLCS-EN-C-1E.png",
-            "art": null
+            "art": "PerformapalCorn-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DRL3-EN003",
@@ -48,6 +55,15 @@
             "set": "Dragons of Legend: The Complete Series",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CPF1-JP003",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -94,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

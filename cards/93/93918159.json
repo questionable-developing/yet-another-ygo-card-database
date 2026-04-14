@@ -1,11 +1,14 @@
 {
     "cid": "33688c1e-c67c-4c5b-8a0a-98aaf1133662",
+    "yid": 93918159,
     "password": "93918159",
     "kid": 18726,
     "name": "Supersoaring",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>越</rb><rp> (</rp><rt>えつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翔</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōetsu Tenshō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Transcendental Soaring",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP007",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -63,7 +76,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters",
             "Special Summons from your Graveyard",
             "Special Summons from your opponent's Graveyard"
@@ -76,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

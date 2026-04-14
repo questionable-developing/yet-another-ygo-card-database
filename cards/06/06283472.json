@@ -1,12 +1,14 @@
 {
     "cid": "9e124c99-4f92-4c8e-a623-d2b30f2ce047",
-    "yid": null,
+    "yid": 6283472,
     "password": "06283472",
     "kid": 12301,
     "name": "Amorphage Pride",
     "name_jp": "アモルファージ・ヒュペル",
     "name_jp_rom": "Amorufāji Hyuperu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amorphage Yper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "SHVI-EN029",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP029",
             "set": "Shining Victories",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "bbbaa7a4-ad32-435b-b9df-92f4b107191a",
+    "yid": 43839002,
     "password": "43839002",
     "kid": 13200,
     "name": "Cynet Backdoor",
     "name_jp": "サイバネット・バックドア",
     "name_jp_rom": "Saibanetto Bakkudoa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cybenet Backdoor",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD32-JP023",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP044",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBCB-JP029",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +119,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

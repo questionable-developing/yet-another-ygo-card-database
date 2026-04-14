@@ -1,12 +1,14 @@
 {
     "cid": "72e2f55b-eb30-413d-ae69-b1b1c26ba878",
-    "yid": null,
+    "yid": 12067160,
     "password": "12067160",
     "kid": 21461,
     "name": "Gorgon of Zilofthonia",
     "name_jp": "<ruby lang=\"jp\"><rb>麗しき磁律機壊</rb><rp> (</rp><rt>ジロフソニア・ゴルゴーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jirofusonia Gorugōn",
+    "name_jp_rom_base": "Uruwashiki Jiritsukikai",
     "name_jp_tl": "Zilofthonía Gorgon",
+    "name_jp_tl_base": "Splendid Magnetic-Autonomous Break-Machine",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +52,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP050",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

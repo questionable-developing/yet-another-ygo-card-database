@@ -1,11 +1,14 @@
 {
     "cid": "734d3808-11ca-4cdb-b21c-b70cda3459f5",
+    "yid": 70860415,
     "password": "70860415",
     "kid": 20284,
     "name": "X-Cross Cannon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>－クロス・キャノン",
     "name_jp_rom": "Ekkusu - Kurosu Kyanon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,6 +44,16 @@
             "rarities": {
                 "Ultra Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP019",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -88,7 +101,9 @@
             "Requires control of specific Type",
             "Requires control of specific Monster card type",
             "Requires control of specific Monster type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "6cf8259d-84e9-4420-92f4-b26c82defb35",
+    "yid": 63166095,
     "password": "63166095",
     "kid": 13671,
     "name": "Sky Striker Mobilize - Engage!",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>起</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>－エンゲージ",
     "name_jp_rom": "Sentōkidō - Engēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flash Sword Startup - Engage",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,13 +29,18 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SkyStrikerMobilizeEngage-RA03-EN-PlScR-1E.png",
+            "full": "SkyStrikerMobilizeEngage-L26D-EN-C-1E.png",
             "art": "SkyStrikerMobilizeEngage-MADU-EN-VG-artwork.png"
         },
         "2": {
             "idx": "2",
-            "full": "SkyStrikerMobilizeEngage-BLMR-EN-ScR-1E.png",
+            "full": "SkyStrikerMobilizeEngage-L26D-EN-ScR-1E.png",
             "art": "SkyStrikerMobilizeEngage-MADU-EN-VG-artwork-2.png"
+        },
+        "3": {
+            "idx": "3",
+            "full": "SkyStrikerMobilizeEngage-LOCH-JP-UR.png",
+            "art": "SkyStrikerMobilizeEngage-OW-3.png"
         }
     },
     "image": "1",
@@ -80,6 +88,62 @@
                 "Platinum Secret Rare": [],
                 "Quarter Century Secret Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENS10",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP030",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP041",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP043",
+            "set": "Selection 5",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP061",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP037",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
         }
     ],
     "misc": {
@@ -118,5 +182,6 @@
         "misc": [
             "Requires control of no monsters in the Main Monster Zone"
         ]
-    }
+    },
+    "links": {}
 }

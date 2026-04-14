@@ -1,12 +1,14 @@
 {
     "cid": "c6454375-fcbd-432c-9d13-d8e85969a894",
-    "yid": null,
+    "yid": 23732205,
     "password": "23732205",
     "kid": 14291,
     "name": "Dillingerous Dragon",
     "name_jp": "デリンジャラス・ドラゴン",
     "name_jp_rom": "Derinjarasu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Derringerous Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +52,24 @@
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP041",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP100",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -98,5 +118,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

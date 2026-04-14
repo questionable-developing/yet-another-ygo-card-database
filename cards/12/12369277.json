@@ -1,12 +1,14 @@
 {
     "cid": "3e428709-6c5a-4855-b12b-dc7d5165bff9",
-    "yid": null,
+    "yid": 12369277,
     "password": "12369277",
     "kid": 12217,
     "name": "Super Quantum Blue Layer",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>量</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ブルーレイヤー",
     "name_jp_rom": "Chōryōshi Burū Reiyā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -22,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the Graveyard: You can target up to 3 \"Super Quant\" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
+    "desc": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the GY: You can target up to 3 \"Super Quant\" cards in your GY; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the Graveyard: You can target up to 3 \"Super Quant\" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
-    "eff": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the Graveyard: You can target up to 3 \"Super Quant\" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
+    "mnst_eff": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the GY: You can target up to 3 \"Super Quant\" cards in your GY; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
+    "eff": "When this card is Normal or Special Summoned: You can add 1 \"Super Quant\" card from your Deck to your hand, except \"Super Quantum Blue Layer\". If this card is sent to the GY: You can target up to 3 \"Super Quant\" cards in your GY; shuffle them into the Deck. You can only use each effect of \"Super Quantum Blue Layer\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SuperQuantumBlueLayer-OP02-EN-SR-UE.png",
+            "full": "SuperQuantumBlueLayer-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -48,6 +50,36 @@
             "set": "OTS Tournament Pack 2",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN009",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP032",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP104",
+            "set": "Tournament Pack 2025 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -89,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

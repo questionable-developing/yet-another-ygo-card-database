@@ -1,11 +1,14 @@
 {
     "cid": "4fe8e637-72d5-4c0a-96a8-404a74732fe3",
+    "yid": 94801854,
     "password": "94801854",
     "kid": 12430,
     "name": "Shiranui Solitaire",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>隠者</rb><rp> (</rp><rt>かげもの</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui no Kagemono",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shiranui Hermit",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -64,6 +67,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP031",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP018",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP023",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,7 +121,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Deck",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -105,5 +131,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

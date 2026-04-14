@@ -1,11 +1,14 @@
 {
     "cid": "47aebc99-24e7-465d-b61b-4cdea31b00e5",
+    "yid": 98780137,
     "password": "98780137",
     "kid": 10736,
     "name": "Malicevorous Knife",
     "name_jp": "マリスボラス・ナイフ",
     "name_jp_rom": "Marisuborasu Naifu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP005",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

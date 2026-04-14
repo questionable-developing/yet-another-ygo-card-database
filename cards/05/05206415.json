@@ -1,12 +1,14 @@
 {
     "cid": "cc77ef8c-ad88-4b05-8de2-47d66e86834a",
-    "yid": null,
+    "yid": 5206415,
     "password": "05206415",
     "kid": 15011,
     "name": "Thunder Dragonlord",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>震</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－サンダー・ドラゴン",
     "name_jp_rom": "Tenraishinryū - Sandā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder Rumble Dragon - Thunder Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ETCO-EN025",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP025",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -89,5 +100,6 @@
             "Special Summon Monster",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

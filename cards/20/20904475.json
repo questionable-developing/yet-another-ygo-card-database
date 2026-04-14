@@ -1,12 +1,14 @@
 {
     "cid": "f0368371-713a-4154-b095-5a9969eaa146",
-    "yid": null,
+    "yid": 20904475,
     "password": "20904475",
     "kid": 20593,
     "name": "Kairo Ryu-Ge Emva",
     "name_jp": "<ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>瀧</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>げ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>淵</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巴</rb><rp> (</rp><rt>ば</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kairōryūge - Enba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sea Waterfalls Ascendragon - Enba",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "CRBR-EN032",
             "set": "Crossover Breakers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBCB-JP032",
+            "set": "Deck-Build Pack: Crossover Breakers",
             "rarities": {
                 "Super Rare": []
             }
@@ -86,5 +97,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

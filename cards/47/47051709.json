@@ -1,11 +1,14 @@
 {
     "cid": "899fc6ba-4d87-4223-86d1-02646c87a771",
+    "yid": 47051709,
     "password": "47051709",
     "kid": 19035,
     "name": "Photon Delta Wing",
     "name_jp": "フォトン・デルタ・ウィング",
     "name_jp_rom": "Foton Deruta Wingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "PhotonDeltaWing-MZMI-EN-UR-1E.png",
+            "full": "PhotonDeltaWing-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -41,6 +44,29 @@
             "rarities": {
                 "Ultra Rare": [],
                 "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN026",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC03-JP014",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -82,7 +108,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Requires control of specific card"
+            "Requires control of specific card",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

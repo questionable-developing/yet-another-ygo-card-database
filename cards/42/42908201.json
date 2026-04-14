@@ -1,11 +1,14 @@
 {
     "cid": "f8cc57ef-1647-4758-aae4-e1770125f59f",
+    "yid": 42908201,
     "password": "42908201",
     "kid": 13403,
     "name": "Desmanian Devil",
     "name_jp": "デスマニア・デビル",
     "name_jp_rom": "Desumania Debiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deathmania Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP033",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d0532cdf-beba-470f-8da9-5d54e59a5446",
-    "yid": null,
+    "yid": 22377092,
     "password": "22377092",
     "kid": 21489,
     "name": "Trap Holic",
     "name_jp": "トラップホリック",
     "name_jp_rom": "Torappuhorikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -28,12 +30,12 @@
         "1": {
             "idx": "1",
             "full": "TrapHolic-DUAD-JP-SR.png",
-            "art": null
+            "art": "TrapHolic-MADU-JP-VG-artwork.png"
         },
         "1.1": {
             "idx": "1.1",
             "full": "TrapHolic-DUAD-EN-UR-1E.png",
-            "art": null
+            "art": "TrapHolic-MADU-EN-VG-artwork.png"
         }
     },
     "image": "1.1",
@@ -44,6 +46,16 @@
             "rarities": {
                 "Ultra Rare": [],
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP078",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -62,7 +74,9 @@
         "arc": [],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Labrynth"
+        ],
         "counter": [],
         "action": [
             "Sets from your Deck"
@@ -82,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

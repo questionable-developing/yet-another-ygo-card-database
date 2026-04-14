@@ -1,11 +1,14 @@
 {
     "cid": "060d5e9d-0348-4872-8bda-fde7b7c2f82c",
+    "yid": 65196094,
     "password": "65196094",
     "kid": 8657,
     "name": "Variety Comes Out",
     "name_jp": "バラエティ・アウト",
     "name_jp_rom": "Baraeti Auto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Variety Out",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP046",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP10-JP020",
+            "set": "Duelist Pack: Yusei 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +99,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

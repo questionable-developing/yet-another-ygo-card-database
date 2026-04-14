@@ -1,12 +1,14 @@
 {
     "cid": "0ffc0b37-6c23-450f-86c4-d98236100e9e",
-    "yid": null,
+    "yid": 10505300,
     "password": "10505300",
     "kid": 16218,
     "name": "Slower Swallow",
     "name_jp": "スロワースワロー",
     "name_jp_rom": "Surowā Suwarō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP029",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Requires control of specific Level"
         ]
-    }
+    },
+    "links": {}
 }

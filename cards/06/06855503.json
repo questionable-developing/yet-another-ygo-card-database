@@ -1,12 +1,14 @@
 {
     "cid": "95437661-3118-4010-a3a0-b6b4c835e652",
-    "yid": null,
+    "yid": 6855503,
     "password": "06855503",
     "kid": 16525,
     "name": "Masquerade the Blazing Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>赫</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>灼</rb><rp> (</rp><rt>しゃく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>マスカレイド",
     "name_jp_rom": "Kakushakuryū Masukareido",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Masquerade the Sparkling Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP038",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BODE-JP038",
+            "set": "Burst of Destiny +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP056",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +143,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

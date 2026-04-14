@@ -1,12 +1,14 @@
 {
     "cid": "f5424c2d-d8ab-46fc-8499-fddc1cf51222",
-    "yid": null,
+    "yid": 33017655,
     "password": "33017655",
     "kid": 9715,
     "name": "The Gates of Dark World",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>門</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ankokukai no Mon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD21-JP022",
+            "set": "Structure Deck: Devil's Gate",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR13-JPP05",
+            "set": "Structure Deck R: Devil's Gate The Doors of the Abyss Opened Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

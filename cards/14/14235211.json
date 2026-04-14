@@ -1,12 +1,14 @@
 {
     "cid": "b23095ba-847e-4e0f-aa5b-abdf6506cca4",
-    "yid": null,
+    "yid": 14235211,
     "password": "14235211",
     "kid": 10589,
     "name": "Rider of the Storm Winds",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>防人</rb><rp> (</rp><rt>さきもり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bōfūryū no Sakimori",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Guard of the Storm Dragons",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD25-JP006",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +111,6 @@
             "Requires control of specific Type",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

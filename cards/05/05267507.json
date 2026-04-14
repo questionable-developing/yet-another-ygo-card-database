@@ -1,12 +1,14 @@
 {
     "cid": "680e8b4d-9320-4c82-aa62-bea06689f7a7",
-    "yid": null,
+    "yid": 5267507,
     "password": "05267507",
     "kid": 20400,
     "name": "Earthbound Immortal Red Nova",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby> スカーレッド・ノヴァ",
     "name_jp_rom": "Jibakushin Sukāreddo Nova",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Earthbound God Scarred Nova",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +43,17 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP013",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
             }
         }
     ],
@@ -99,7 +112,9 @@
             "Requires control of specific archetype",
             "Requires control of specific card",
             "Variable effects",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

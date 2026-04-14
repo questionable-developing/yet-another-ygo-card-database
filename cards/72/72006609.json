@@ -1,11 +1,14 @@
 {
     "cid": "ea135776-e29f-4dee-b647-b29cd3e92d70",
+    "yid": 72006609,
     "password": "72006609",
     "kid": 13762,
     "name": "Mekk-Knight of the Morning Star",
     "name_jp": "<ruby lang=\"jp\"><rb>明</rb><rp> (</rp><rt>みょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>機械騎士</rb><rp> (</rp><rt>ジャックナイツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Myōjō no Jakkunaitsu",
+    "name_jp_rom_base": "Myōjō no Kikai Kishi",
     "name_jp_tl": "Jack-Knights of the Morning Star",
+    "name_jp_tl_base": "Machine Knight of the Morning Star",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP045",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +108,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

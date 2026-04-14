@@ -1,11 +1,14 @@
 {
     "cid": "bbdd4898-c2bf-41e3-8e6b-55620d712586",
+    "yid": 83293307,
     "password": "83293307",
     "kid": 13235,
     "name": "Krawler Receptor",
     "name_jp": "クローラー・レセプター",
     "name_jp_rom": "Kurōrā Reseputā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP019",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Only once per turn",
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

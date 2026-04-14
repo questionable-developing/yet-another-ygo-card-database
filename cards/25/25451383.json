@@ -1,12 +1,14 @@
 {
     "cid": "af7ea0fe-0f96-40a9-8244-a4054c3de421",
-    "yid": null,
+    "yid": 25451383,
     "password": "25451383",
     "kid": 16197,
     "name": "Albion the Shrouded Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衣</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>アルビオン",
     "name_jp_rom": "Kurogoryū Arubion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Albion the Black-Shrouded Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -22,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.<br />● Hand: Special Summon this card.<br />● Deck: Place this card on the bottom of the Deck, then, if you placed this card from your hand, draw 1 card.<br />You can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
+    "desc": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.<br />● Hand: Special Summon this card.<br />● Deck: Place this card on the bottom of the Deck, then if you placed this card from your hand, draw 1 card.<br />You can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.\n● Hand: Special Summon this card.\n● Deck: Place this card on the bottom of the Deck, then, if you placed this card from your hand, draw 1 card.\nYou can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
-    "eff": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.\n● Hand: Special Summon this card.\n● Deck: Place this card on the bottom of the Deck, then, if you placed this card from your hand, draw 1 card.\nYou can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
+    "mnst_eff": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.\n● Hand: Special Summon this card.\n● Deck: Place this card on the bottom of the Deck, then if you placed this card from your hand, draw 1 card.\nYou can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
+    "eff": "This card's name becomes \"Fallen of Albaz\" while on the field or in the GY. If this card is in your hand or GY: You can send 1 \"Fallen of Albaz\" or 1 \"Branded\" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.\n● Hand: Special Summon this card.\n● Deck: Place this card on the bottom of the Deck, then if you placed this card from your hand, draw 1 card.\nYou can only use this effect of \"Albion the Shrouded Dragon\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "AlbiontheShroudedDragon-CH01-EN-UR-1E.png",
+            "full": "AlbiontheShroudedDragon-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -63,6 +65,49 @@
             "rarities": {
                 "Ultra Rare": []
             }
+        },
+        {
+            "sid": "RA05-EN019",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP008",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP005",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP067",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP005",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
         }
     ],
     "misc": {
@@ -81,7 +126,8 @@
         ],
         "asuparc": [],
         "rel": [
-            "Albaz Dragon"
+            "Albaz Dragon",
+            "Ecclesia (archetype)"
         ],
         "counter": [],
         "action": [
@@ -111,5 +157,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

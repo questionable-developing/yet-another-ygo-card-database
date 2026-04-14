@@ -1,12 +1,14 @@
 {
     "cid": "d9a44b5a-afb4-402f-8c5e-2959304da0d2",
-    "yid": null,
+    "yid": 11590299,
     "password": "11590299",
     "kid": 20207,
     "name": "Dora Dora",
     "name_jp": "ドラ・ドラ",
     "name_jp_rom": "Dora Dora",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP028",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

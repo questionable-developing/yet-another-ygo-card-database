@@ -1,11 +1,14 @@
 {
     "cid": "338061c4-025e-495c-ab54-5c5eb86f61bd",
+    "yid": 94933468,
     "password": "94933468",
     "kid": 10676,
     "name": "Vain Betrayer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｖａｉｎ</rb><rp> (</rp><rt>ヴェイン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>裏</rb><rp> (</rp><rt>うら</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>切</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>りの<ruby lang=\"jp\"><rb>嘲</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>笑</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vein - Uragiri no Chōshō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vain - Sneer of Betrayal",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "VainBetrayer-JOTL-JP-R.png",
+            "art": "VainBetrayer-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "VainBetrayer-JOTL-EN-C-1E.png",
-            "art": null
+            "art": "VainBetrayer-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JOTL-EN073",
             "set": "Judgment of the Light",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP073",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -73,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

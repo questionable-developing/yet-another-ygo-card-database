@@ -1,11 +1,14 @@
 {
     "cid": "e70ea683-bc23-4bc1-9766-e68cfcf169ad",
+    "yid": 46239604,
     "password": "46239604",
     "kid": 7788,
     "name": "Dupe Frog",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>知</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>ガエル",
     "name_jp_rom": "Machigaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon-Wisdom Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP028",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP086",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD40-JP021",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

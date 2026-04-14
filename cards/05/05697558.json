@@ -1,12 +1,14 @@
 {
     "cid": "ee5f18a1-e48b-4967-aa40-687e81e03ed5",
-    "yid": null,
+    "yid": 5697558,
     "password": "05697558",
     "kid": 12687,
     "name": "The Hidden City",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>中</rb><rp> (</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>シャンバラ",
     "name_jp_rom": "Chichūkai Shanbara",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shambhala the Mediterranean World",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP17-JP014",
+            "set": "Extra Pack 2017",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

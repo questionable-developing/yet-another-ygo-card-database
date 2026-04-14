@@ -1,11 +1,14 @@
 {
     "cid": "c279ec2c-5d52-47e1-a720-bbff7bf93aa7",
+    "yid": 57477163,
     "password": "57477163",
     "kid": 11717,
     "name": "Frightfur Sheep",
     "name_jp": "デストーイ・チェーン・シープ",
     "name_jp_rom": "Desutōi Chēn Shīpu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death-Toy Chain Sheep",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +62,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP042",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPFE-JP023",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +128,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

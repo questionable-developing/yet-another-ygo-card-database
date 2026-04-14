@@ -1,12 +1,14 @@
 {
     "cid": "122e36bb-fcc8-4484-8912-59653ca766bc",
-    "yid": null,
+    "yid": 36415522,
     "password": "36415522",
     "kid": 11741,
     "name": "Performapal Pinch Helper",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ピンチヘルパー",
     "name_jp_rom": "Entameito Pinchi Herupā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Pinch Helper",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP066",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST16-JP032",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +113,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

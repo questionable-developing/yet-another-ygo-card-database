@@ -1,11 +1,14 @@
 {
     "cid": "8e1d4e7c-fe04-4adf-bf2a-d4b46ae668c2",
+    "yid": 57425061,
     "password": "57425061",
     "kid": 9070,
     "name": "Vision Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影</rb><rp> (</rp><rt>ヴィジョン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vijon Yūgō",
+    "name_jp_rom_base": "Gen'ei Yūgō",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "BLC1-EN086",
             "set": "Battles of Legend: Chapter 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CP19-JP012",
+            "set": "Collection Pack: Duelist of Revolution Version",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

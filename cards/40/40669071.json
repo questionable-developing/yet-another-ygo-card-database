@@ -1,11 +1,14 @@
 {
     "cid": "9b2b50bf-88cc-4a3c-a7a3-ecb1e0d7f699",
+    "yid": 40669071,
     "password": "40669071",
     "kid": 13409,
     "name": "Excode Talker",
     "name_jp": "エクスコード・トーカー",
     "name_jp_rom": "Ekusukōdo Tōkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -55,6 +58,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP038",
+            "set": "Extreme Force",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP042",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +117,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

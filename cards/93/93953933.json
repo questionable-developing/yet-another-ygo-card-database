@@ -1,11 +1,14 @@
 {
     "cid": "aae3bf7d-a123-4a30-9146-154cc0da70b2",
+    "yid": 93953933,
     "password": "93953933",
     "kid": 17441,
     "name": "Hydralander Orbit",
     "name_jp": "ハイドランダー・オービット",
     "name_jp_rom": "Haidorandā Ōbitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP039",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

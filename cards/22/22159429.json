@@ -1,12 +1,14 @@
 {
     "cid": "d14b5044-ad59-43b7-ba5c-f7de81da5eda",
-    "yid": null,
+    "yid": 22159429,
     "password": "22159429",
     "kid": 13513,
     "name": "Trickstar Magical Laurel",
     "name_jp": "トリックスター・マジカローラ",
     "name_jp_rom": "Torikkusutā Majikarōra",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trickstar Magicorolla",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "DUPO-EN022",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVB1-JP007",
+            "set": "LINK VRAINS Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -81,5 +92,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

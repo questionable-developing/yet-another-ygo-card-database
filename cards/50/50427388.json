@@ -1,11 +1,14 @@
 {
     "cid": "eb542598-159f-40d8-b5bc-5cde246aa6a4",
+    "yid": 50427388,
     "password": "50427388",
     "kid": 10086,
     "name": "That Wacky Magic!",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>走</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>りょく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bōsō-suru Maryoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rampaging Magic Power",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GAOV-EN063",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP063",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

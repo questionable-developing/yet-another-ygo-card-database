@@ -1,11 +1,14 @@
 {
     "cid": "8832c3cb-9941-48c9-a78b-968140716a2c",
+    "yid": 72580321,
     "password": "72580321",
     "kid": 10165,
     "name": "Block Golem",
     "name_jp": "ブロック・ゴーレム",
     "name_jp_rom": "Burokku Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP035",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT14-JP005",
+            "set": "Advanced Tournament Pack 2016 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Requires having only specific Attribute in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

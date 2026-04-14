@@ -1,12 +1,14 @@
 {
     "cid": "a06e6577-e3be-479e-a4a6-3907307e6c5f",
-    "yid": null,
+    "yid": 10560119,
     "password": "10560119",
     "kid": 11001,
     "name": "Fishborg Doctor",
     "name_jp": "フィッシュボーグ－ドクター",
     "name_jp_rom": "Fisshubōgu - Dokutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,29 @@
         {
             "sid": "DUEA-EN096",
             "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JF14-JP006",
+            "set": "Jump Festa 2014 - Promotion Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "PR04-JP004",
+            "set": "Promotion Pack 4: Part A",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "JF15-JP002",
+            "set": "Jump Festa 2015 - Promotion Pack",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

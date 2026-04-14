@@ -1,11 +1,14 @@
 {
     "cid": "af040088-e25b-4e40-932e-612cd2f23bfc",
+    "yid": 47810543,
     "password": "47810543",
     "kid": 14322,
     "name": "Magical Musket - Crooked Crown",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>－ブラッディ・クラウン",
     "name_jp_rom": "Madan - Buraddi Kuraun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magibullet - Bloody Crown",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN072",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP072",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

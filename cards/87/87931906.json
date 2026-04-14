@@ -1,11 +1,14 @@
 {
     "cid": "34de0921-055a-485e-90e8-56cd6e3800c1",
+    "yid": 87931906,
     "password": "87931906",
     "kid": 14188,
     "name": "Lunalight Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>月光融合</rb><rp> (</rp><rt>ムーンライト・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Fyūjon",
+    "name_jp_rom_base": "Gekkō Yūgō",
     "name_jp_tl": "Moonlight Fusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "LunalightFusion-LDS2-EN-C-1E.png",
+            "full": "LunalightFusion-OP28-EN-C-UE.png",
             "art": null
         }
     },
@@ -51,6 +54,15 @@
             "set": "OTS Tournament Pack 28",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP21-JP048",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

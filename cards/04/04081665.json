@@ -1,12 +1,14 @@
 {
     "cid": "b32365ee-ce0b-4ddc-9a26-02f5a31c2ca8",
-    "yid": null,
+    "yid": 4081665,
     "password": "04081665",
     "kid": 11803,
     "name": "Performage Stilts Launcher",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>スティルツ・シューター",
     "name_jp_rom": "Entameiji Sutirutsu Shūtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermage Stilts Shooter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP019",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
             "Only once per turn",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

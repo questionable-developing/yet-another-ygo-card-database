@@ -1,11 +1,14 @@
 {
     "cid": "244117c7-c266-458d-bf13-abd9e678dbab",
+    "yid": 71456737,
     "password": "71456737",
     "kid": 20513,
     "name": "Battlewasp - Sachi the Ceremonial Bow",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｂ・Ｆ</rb><rp> (</rp><rt>ビー・フォース</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>事</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弓</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>のサチ",
     "name_jp_rom": "Bī Fōsu - Shinjikyū no Sachi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bee Force - Sachi the Ceremonial Bow",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "ROTA-EN037",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP037",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
@@ -92,5 +104,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "6c57095f-bf04-4911-956e-a12c7836128f",
+    "yid": 90315086,
     "password": "90315086",
     "kid": 20752,
     "name": "Hydrojet Shark",
     "name_jp": "ジェット・シャーク",
     "name_jp_rom": "Jetto Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Jet Shark",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SUDA-EN013",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP013",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -91,5 +103,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

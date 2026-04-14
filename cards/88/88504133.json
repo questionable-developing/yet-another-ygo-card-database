@@ -1,11 +1,14 @@
 {
     "cid": "111663cb-9a72-4a02-9a53-453d0080b6ee",
+    "yid": 88504133,
     "password": "88504133",
     "kid": 15530,
     "name": "Phantom Knights' Rank-Up-Magic Force",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－ファントム・フォース",
     "name_jp_rom": "Rankuappu Majikku - Fantomu Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rank-Up-Magic - Phantom Force",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -44,6 +47,34 @@
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP051",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP051",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP199",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -95,5 +126,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

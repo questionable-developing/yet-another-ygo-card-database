@@ -1,12 +1,14 @@
 {
     "cid": "1af6b7f3-13cd-4a24-83c6-4fdd2e32a13c",
-    "yid": null,
+    "yid": 1834107,
     "password": "01834107",
     "kid": 8981,
     "name": "Wattcine",
     "name_jp": "エレキュア",
     "name_jp_rom": "Erekyua",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecure",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DREV-EN050",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP050",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

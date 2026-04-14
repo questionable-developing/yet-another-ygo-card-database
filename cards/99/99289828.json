@@ -1,11 +1,14 @@
 {
     "cid": "2350058c-3ded-47a4-b3dc-14e08d1b4148",
+    "yid": 99289828,
     "password": "99289828",
     "kid": 20237,
     "name": "Tales of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のいいつたえ",
     "name_jp_rom": "Shiroki Mori no Ītsutae",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP058",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

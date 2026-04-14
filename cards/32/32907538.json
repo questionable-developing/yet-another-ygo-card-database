@@ -1,12 +1,14 @@
 {
     "cid": "2b08fc85-6477-4dba-851c-9717c19bdcf4",
-    "yid": null,
+    "yid": 32907538,
     "password": "32907538",
     "kid": 7866,
     "name": "Grapple Blocker",
     "name_jp": "ウォールクリエイター",
     "name_jp_rom": "Wōru Kurieitā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wall Creator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP018",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

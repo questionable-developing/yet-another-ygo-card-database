@@ -1,12 +1,14 @@
 {
     "cid": "407c27c4-defd-4a06-bd0d-0ba40821177b",
-    "yid": null,
+    "yid": 5494820,
     "password": "05494820",
     "kid": 5270,
     "name": "Cyclon Laser",
     "name_jp": "サイクロンレーザー",
     "name_jp_rom": "Saikuron Rēzā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cyclone Laser",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LN-44",
+            "set": "Labyrinth of Nightmare (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL3-127",
+            "set": "Duelist Legacy Volume.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP028",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +106,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

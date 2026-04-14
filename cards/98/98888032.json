@@ -1,11 +1,14 @@
 {
     "cid": "7255960c-2760-445d-84d4-a867f1351004",
+    "yid": 98888032,
     "password": "98888032",
     "kid": 21144,
     "name": "Spore the Fairy Seed",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>胞</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>スポーア",
     "name_jp_rom": "Yōseihō Supōa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spore the Fairy Spore",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "ALIN-EN007",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP007",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -90,5 +102,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

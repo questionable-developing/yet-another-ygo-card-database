@@ -1,12 +1,14 @@
 {
     "cid": "68409d79-663f-4957-b788-acdad4cb22cb",
-    "yid": null,
+    "yid": 21056275,
     "password": "21056275",
     "kid": 20527,
     "name": "Armed Rebeellion",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蜂</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>起</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Busōhōki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ROTA-EN051",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP051",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

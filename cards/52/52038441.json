@@ -6,7 +6,9 @@
     "name": "Ghost Mourner & Moonlit Chill",
     "name_jp": "<ruby lang=\"jp\"><rb>朔</rb><rp> (</rp><rt>さ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>夜</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby>しぐれ",
     "name_jp_rom": "Sayo Shigure",
+    "name_jp_rom_base": null,
     "name_jp_tl": "New-Moon Night & Autumn Shower",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -41,66 +43,112 @@
         },
         "3": {
             "idx": "3",
-            "full": "GhostMournerMoonlitChill-LPST-JP-UR.png",
+            "full": "GhostMournerMoonlitChill-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "3",
     "sets": [
         {
             "sid": "ETCO-EN036",
             "set": "Eternity Code",
             "rarities": {
-                "Secret Rare": [],
-                "Starlight Rare": []
+                "Secret Rare": ["1"],
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "MP21-EN061",
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MGED-EN023",
             "set": "Maximum Gold: El Dorado",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1", "2"]
             }
         },
         {
             "sid": "MP22-EN260",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "RA02-EN015",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["2"],
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Platinum Secret Rare": ["2"],
+                "Quarter Century Secret Rare": ["2"],
+                "Ultimate Rare": ["2"],
+                "Collector's Rare": ["2"]
             }
         },
         {
             "sid": "RA04-EN033",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Quarter Century Secret Rare": []
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "L5DD-ENC11",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN096",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP036",
+            "set": "Eternity Code",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PAC1-JP035",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Prismatic Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "QCAC-JP053",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "LPST-JP014",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],

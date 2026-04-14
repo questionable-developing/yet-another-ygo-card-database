@@ -1,12 +1,14 @@
 {
     "cid": "ad7218a2-258d-46bd-ba52-30a7f84f7e24",
-    "yid": null,
+    "yid": 7445307,
     "password": "07445307",
     "kid": 13199,
     "name": "Dual Assembwurm",
     "name_jp": "デュアル・アセンブルム",
     "name_jp_rom": "Dyuaru Asenburumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD32-JP008",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

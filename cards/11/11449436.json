@@ -1,12 +1,14 @@
 {
     "cid": "536482c6-c2d3-4ad2-80b2-0820a98af317",
-    "yid": null,
+    "yid": 11449436,
     "password": "11449436",
     "kid": 16212,
     "name": "Glacier Aqua Madoor",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>河</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby>のアクア・マドール",
     "name_jp_rom": "Hyōga no Akua Madōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP023",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

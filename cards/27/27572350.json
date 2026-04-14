@@ -1,12 +1,14 @@
 {
     "cid": "a2b68db3-6426-4c5b-b4a7-9a69f2bf9389",
-    "yid": null,
+    "yid": 27572350,
     "password": "27572350",
     "kid": 18504,
     "name": "Bystial Dis Pater",
     "name_jp": "<ruby lang=\"jp\"><rb>深淵の神獣</rb><rp> (</rp><rt>ビーステッド</rt><rp>)</rp></ruby>ディス・パテル",
     "name_jp_rom": "Bīsuteddo Disu Pateru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Byssted Dis Pater",
+    "name_jp_tl_base": "Abyss God Beast Dis Pater",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,7 +33,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "BystialDisPater-MP24-EN-PScR-1E.png",
+            "full": "BystialDisPater-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -49,6 +51,46 @@
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN041",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP041",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP041",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP164",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -88,7 +130,7 @@
             "Does not require specific Tuner Synchro Materials",
             "1 or more non-Tuner Synchro Materials",
             "Requires Type specific non-Tuner Synchro Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters"
         ],
         "attack": [],
@@ -99,5 +141,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

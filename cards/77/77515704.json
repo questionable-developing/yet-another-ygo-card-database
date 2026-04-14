@@ -1,11 +1,14 @@
 {
     "cid": "033878e3-0161-4283-a981-e190a05656a0",
+    "yid": 77515704,
     "password": "77515704",
     "kid": 14769,
     "name": "Dragonmaid Downtime",
     "name_jp": "ドラゴンメイド・リラクゼーション",
     "name_jp_rom": "Doragonmeido Rirakuzēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Relaxation",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -52,6 +55,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP026",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP072",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP017",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +118,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

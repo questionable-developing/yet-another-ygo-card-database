@@ -1,11 +1,14 @@
 {
     "cid": "875bb289-dc96-4a83-b20c-82aa469a031a",
+    "yid": 46809548,
     "password": "46809548",
     "kid": 15501,
     "name": "Gizmek Makami, the Ferocious Fanged Fortress",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巧</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>御神尊真神</rb><rp> (</rp><rt>オンカミコトノマカミ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikōga - Onkamikoto no Makami",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mechanical Fang - Onkamikoto-no-Makami",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP022",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP022",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

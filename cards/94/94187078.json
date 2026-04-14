@@ -1,11 +1,14 @@
 {
     "cid": "a50f90dd-8956-47dd-bc5f-e0771edf45b2",
+    "yid": 94187078,
     "password": "94187078",
     "kid": 15644,
     "name": "Drytron Nova",
     "name_jp": "<ruby lang=\"jp\"><rb>極超の竜輝巧</rb><rp> (</rp><rt>ドライトロン・ノヴァ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraitoron Nova",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +56,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP033",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP184",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

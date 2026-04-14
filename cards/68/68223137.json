@@ -1,11 +1,14 @@
 {
     "cid": "f2e8fab4-4959-4f36-b543-d12c74a19ebd",
+    "yid": 68223137,
     "password": "68223137",
     "kid": 16026,
     "name": "One-Kuri-Way",
     "name_jp": "ワンクリウェイ",
     "name_jp_rom": "Wankuriwei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP065",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

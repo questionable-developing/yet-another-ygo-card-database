@@ -6,7 +6,9 @@
     "name": "Crossout Designator",
     "name_jp": "<ruby lang=\"jp\"><rb>抹</rb><rp> (</rp><rt>まっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>指</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>名</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Massatsu no Shimeisha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Obliteration Designator",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -32,52 +34,131 @@
         },
         "2": {
             "idx": "2",
-            "full": "CrossoutDesignator-LPST-JP-UR.png",
+            "full": "CrossoutDesignator-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "MP21-EN258",
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MP22-EN265",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "RA02-EN063",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "L5DD-ENY28",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
-            "sid": "RA05-EN???",
+            "sid": "RA05-EN118",
             "set": "Rarity Collection 5",
             "rarities": {
-                "UR": [],
-                "StR": []
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP164",
+            "set": "V Jump July 2019 promotional card",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP044",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD40-JP034",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "21PP-JP022",
+            "set": "Premium Pack 2021",
+            "rarities": {
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP053",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPB22",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPB18",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP087",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": ["1"],
+                "Ultimate Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD48-JP028",
+            "set": "Structure Deck: Power of Fellows",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP036",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],

@@ -1,12 +1,14 @@
 {
     "cid": "8a790586-7e97-4495-b246-822964f62244",
-    "yid": null,
+    "yid": 14745409,
     "password": "14745409",
     "kid": 10317,
     "name": "Noble Arms - Gallatin",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>ガラティーン",
     "name_jp_rom": "Seiken Garatīn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Sword Gallatin",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP017",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP055",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +116,6 @@
             "During the Standby Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

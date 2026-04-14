@@ -1,12 +1,14 @@
 {
     "cid": "5ec9edcb-c70e-4fbe-9e5d-0bfa682c3d7f",
-    "yid": null,
+    "yid": 21155323,
     "password": "21155323",
     "kid": 7200,
     "name": "Goggle Golem",
     "name_jp": "<ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>ゴーグル",
     "name_jp_rom": "Kyojin Gōguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP023",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

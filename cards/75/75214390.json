@@ -1,11 +1,14 @@
 {
     "cid": "86851472-b3f3-4980-8c4d-b47fb9f3e8b2",
+    "yid": 75214390,
     "password": "75214390",
     "kid": 10892,
     "name": "Overlay Booster",
     "name_jp": "オーバーレイ・ブースター",
     "name_jp_rom": "Ōbārei Būsutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP006",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBJH-JP042",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +110,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "43c88f39-8e42-490d-9b7b-e2b3e5947e09",
+    "yid": 86541496,
     "password": "86541496",
     "kid": 5637,
     "name": "Left Arm Offering",
     "name_jp": "<ruby lang=\"jp\"><rb>左</rb><rp> (</rp><rt>ひだり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>腕</rb><rp> (</rp><rt>うで</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>償</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hidariude no Daishō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -67,6 +70,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MP01-JP018",
+            "set": "Millennium Pack (OCG)",
+            "rarities": {
+                "Millennium Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP037",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SR08-JP033",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP24-JP013",
+            "set": "Duelist Pack: Duelists of Gloom",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +130,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

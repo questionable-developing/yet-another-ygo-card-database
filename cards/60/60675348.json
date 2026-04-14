@@ -1,11 +1,14 @@
 {
     "cid": "adb7348b-b75a-47d9-a9f2-9678bcfe03c5",
+    "yid": 60675348,
     "password": "60675348",
     "kid": 12990,
     "name": "Dinomists Howling",
     "name_jp": "ダイナミスト・ハウリング",
     "name_jp_rom": "Dainamisuto Hauringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dynamist Howling",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN076",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP076",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

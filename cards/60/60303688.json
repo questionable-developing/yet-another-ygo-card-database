@@ -1,11 +1,14 @@
 {
     "cid": "da59021f-0063-43ec-84ba-b2ad66b5aff1",
+    "yid": 60303688,
     "password": "60303688",
     "kid": 15239,
     "name": "Dogmatika Ecclesia, the Virtuous",
     "name_jp": "<ruby lang=\"jp\"><rb>教導</rb><rp> (</rp><rt>ドラグマ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby>エクレシア",
     "name_jp_rom": "Doraguma no Seijo Ekureshia",
+    "name_jp_rom_base": "Kyōdō no Seijo Ekureshia",
     "name_jp_tl": "Ecclesia, the Dragma Saint",
+    "name_jp_tl_base": "Ecclesia, the Dogmatic Saint",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -85,6 +88,52 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP005",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTD-JP005",
+            "set": "Rise of the Duelist +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP021",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP002",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP014",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -129,5 +178,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

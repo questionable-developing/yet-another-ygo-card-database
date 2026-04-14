@@ -1,11 +1,14 @@
 {
     "cid": "07a19f94-4be5-4ee7-a607-0e5d34f2a8ef",
+    "yid": 53309998,
     "password": "53309998",
     "kid": 13520,
     "name": "Sea Archiver",
     "name_jp": "シーアーカイバー",
     "name_jp_rom": "Shī Ākaibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD33-JP003",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

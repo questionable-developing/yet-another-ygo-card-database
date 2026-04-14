@@ -1,11 +1,14 @@
 {
     "cid": "8159239e-efe8-45b8-b6b3-f479248c00ea",
+    "yid": 77642288,
     "password": "77642288",
     "kid": 7289,
     "name": "Gladiator Beast Secutor",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>セクトル",
     "name_jp_rom": "Guradiaru Bīsuto Sekutoru",
+    "name_jp_rom_base": "Kentōjū Sekutoru",
     "name_jp_tl": "Gladial Beast Secutor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP024",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP040",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

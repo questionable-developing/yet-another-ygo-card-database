@@ -1,12 +1,14 @@
 {
     "cid": "cfc7c562-4771-4c90-b8b2-2d7738515e52",
-    "yid": null,
+    "yid": 22047978,
     "password": "22047978",
     "kid": 10288,
     "name": "Battle Break",
     "name_jp": "バトル・ブレイク",
     "name_jp_rom": "Batoru Bureiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP066",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP14-JP027",
+            "set": "Duelist Pack: Yuma 2: Gogogo & Dododo",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -56,7 +74,7 @@
         "counter": [],
         "action": [
             "Activates upon attack declaration",
-            "Reveals your opponent's hand",
+            "Reveals cards from your opponent's hand",
             "Ends the Battle Phase"
         ],
         "stat_change": [],
@@ -71,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

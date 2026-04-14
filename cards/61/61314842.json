@@ -1,11 +1,14 @@
 {
     "cid": "89cd15c2-930a-4107-96b6-78a96ebeed5b",
+    "yid": 61314842,
     "password": "61314842",
     "kid": 10277,
     "name": "Advanced Heraldry Art",
     "name_jp": "<ruby lang=\"jp\"><rb>高等紋章術</rb><rp> (</rp><rt>ハイ・メダリオン・アーツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hai Medarion Ātsu",
+    "name_jp_rom_base": "Kōtō Monshōjutsu",
     "name_jp_tl": "High Medallion Arts",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP055",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP509",
+            "set": "Tournament Pack 2024 Vol.5",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

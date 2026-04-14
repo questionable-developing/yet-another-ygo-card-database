@@ -1,12 +1,14 @@
 {
     "cid": "1712d641-2a8c-464f-9024-c64dd269646d",
-    "yid": null,
+    "yid": 34717238,
     "password": "34717238",
     "kid": 7016,
     "name": "Pulling the Rug",
     "name_jp": "<ruby lang=\"jp\"><rb>畳</rb><rp> (</rp><rt>たたみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>返</rb><rp> (</rp><rt>がえ</rt><rp>)</rp></ruby>し",
     "name_jp_rom": "Tatamigaeshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flipping the Tatami",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PullingtheRug-CP05-EN-R-UE.png",
+            "art": "PullingtheRug-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PullingtheRug-OP23-EN-SR-UE.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "STON-EN060",
@@ -53,6 +60,22 @@
             "set": "OTS Tournament Pack 23",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP060",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP110",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -85,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "7823efcf-1a34-4357-9e6b-40e5386af1e2",
-    "yid": null,
+    "yid": 16165939,
     "password": "16165939",
     "kid": 16553,
     "name": "Supernatural Danger Zone",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>自</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>然</rb><rp> (</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>警</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戒</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>区</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōshizen Keikai Kuiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP22-EN224",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP067",
+            "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +98,6 @@
             "Requires control of specific Monster type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

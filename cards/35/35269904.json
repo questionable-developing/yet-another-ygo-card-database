@@ -1,12 +1,14 @@
 {
     "cid": "9f8cc61b-36c6-4a96-96b7-69661c954980",
-    "yid": null,
+    "yid": 35269904,
     "password": "35269904",
     "kid": 18214,
     "name": "Triple Tactics Thrust",
     "name_jp": "<ruby lang=\"jp\"><rb>三</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>号</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sansen no Gō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Triple Tactics",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "TripleTacticsThrust-RA03-EN-SR-1E.png",
+            "full": "TripleTacticsThrust-L26D-EN-C-1E.png",
             "art": "TripleTacticsThrust-MADU-EN-VG-artwork.png"
         },
         "2": {
@@ -36,7 +38,7 @@
             "art": "TripleTacticsThrust-MADU-EN-VG-artwork-2.png"
         }
     },
-    "image": "2",
+    "image": "1",
     "sets": [
         {
             "sid": "PHHY-EN069",
@@ -87,6 +89,53 @@
                 "Secret Rare": [],
                 "Starlight Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENS23",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENX24",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP069",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA17",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP096",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP030",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
         }
     ],
     "misc": {
@@ -125,5 +174,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

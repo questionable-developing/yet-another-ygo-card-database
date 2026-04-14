@@ -1,11 +1,14 @@
 {
     "cid": "0e24f988-a999-4ce6-a391-1162ded1a345",
+    "yid": 69320362,
     "password": "69320362",
     "kid": 9670,
     "name": "Legendary Wind-Up Key",
     "name_jp": "<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>説</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby>のゼンマイ",
     "name_jp_rom": "Densetsu no Zenmai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Legendary Wind-Up",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GENF-EN053",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP053",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

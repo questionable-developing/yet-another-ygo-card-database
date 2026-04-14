@@ -1,12 +1,14 @@
 {
     "cid": "631c34b2-be1d-471d-8a17-47916d306084",
-    "yid": null,
+    "yid": 36668118,
     "password": "36668118",
     "kid": 13424,
     "name": "Boot Sector Launch",
     "name_jp": "リボルブート・セクター",
     "name_jp_rom": "Riborubūto Sekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Revolboot Sector",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP053",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVB1-JP020",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD36-JP027",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP106",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +123,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

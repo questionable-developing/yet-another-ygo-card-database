@@ -1,11 +1,14 @@
 {
     "cid": "392bcf5c-a01e-4eb1-a98d-6ed81dc87aa9",
+    "yid": 88210105,
     "password": "88210105",
     "kid": 14308,
     "name": "Cloudian Aerosol",
     "name_jp": "<ruby lang=\"jp\"><rb>雲魔物の雲核</rb><rp> (</rp><rt>クラウディアン・エアロゾル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kuraudian Earozoru",
+    "name_jp_rom_base": "Unmamono no Unkaku",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Cloud Monster Cloud Core",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "SGX3-ENH13",
             "set": "Speed Duel GX: Duelists of Shadows",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP058",
+            "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +99,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d852e7a4-5ab5-4690-abe7-214ec1701f84",
+    "yid": 88032456,
     "password": "88032456",
     "kid": 4800,
     "name": "Mimicat",
     "name_jp": "コピーキャット",
     "name_jp_rom": "Kopīkyatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Copycat",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -66,6 +69,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP027",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +117,6 @@
             "Requires control of specific card",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

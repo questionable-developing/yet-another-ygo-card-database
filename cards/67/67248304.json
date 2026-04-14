@@ -1,11 +1,14 @@
 {
     "cid": "2b175df9-0c86-4943-b8d7-c7a545d2fc3a",
+    "yid": 67248304,
     "password": "67248304",
     "kid": 17142,
     "name": "Reverse Jar",
     "name_jp": "リバースポッド",
     "name_jp_rom": "Ribāsu Poddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reverse Pod",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP031",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

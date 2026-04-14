@@ -1,11 +1,14 @@
 {
     "cid": "efc22387-c102-4a80-8c52-29dc7717823c",
+    "yid": 97466438,
     "password": "97466438",
     "kid": 12150,
     "name": "Zany Zebra",
     "name_jp": "ヨコシマウマ",
     "name_jp_rom": "Yokoshimauma",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil Horizontally-Striped Zebra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP042",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SD31-JP022",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -84,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

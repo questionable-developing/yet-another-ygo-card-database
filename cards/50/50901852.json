@@ -1,11 +1,14 @@
 {
     "cid": "afe154e7-39ed-4225-b7a9-24d855d29cb7",
+    "yid": 50901852,
     "password": "50901852",
     "kid": 16204,
     "name": "Gizmek Inaba, the Hopping Hare of Hakuto",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巧</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>菟</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>稻羽之淤岐素</rb><rp> (</rp><rt>イナバノオキノシロ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikōto - Inaba no Okinoshiro",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mechanical Hare - Inaba-no-Okinoshiro",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP22-EN130",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP015",
+            "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
             }
@@ -94,5 +106,6 @@
             "Requires control of specific DEF",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

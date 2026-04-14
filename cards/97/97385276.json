@@ -1,11 +1,14 @@
 {
     "cid": "89928f2d-d34d-4584-9eed-6d79d2f13ef9",
+    "yid": 97385276,
     "password": "97385276",
     "kid": 8155,
     "name": "Level Warrior",
     "name_jp": "レベル・ウォリアー",
     "name_jp_rom": "Reberu Woriā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,10 +61,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP002",
+            "set": "Raging Battle",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP09-JP007",
+            "set": "Duelist Pack: Yusei 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YSD5-JP015",
+            "set": "Starter Deck 2010",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP112",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Summoning condition, Unclassified"
+            "Unclassified, Unclassified"
         ],
         "mentions": [],
         "sup": [],
@@ -89,5 +122,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

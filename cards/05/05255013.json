@@ -1,12 +1,14 @@
 {
     "cid": "e04c88c9-e778-42fb-bd64-670aa5cd4485",
-    "yid": null,
+    "yid": 5255013,
     "password": "05255013",
     "kid": 11734,
     "name": "Zefra Path",
     "name_jp": "セフィラの<ruby lang=\"jp\"><rb>輝</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>跡</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sefira no Kiseki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sephira Path",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CROS-EN059",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP059",
             "set": "Crossed Souls",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

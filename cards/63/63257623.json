@@ -1,11 +1,14 @@
 {
     "cid": "acbfb106-4603-4d89-b340-e24f0ef579cf",
+    "yid": 63257623,
     "password": "63257623",
     "kid": 10901,
     "name": "Sylvan Peaskeeper",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>実</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>張</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby>り ピース",
     "name_jp_rom": "Shinra no Mihari Pīsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Peas, Peacekeepers of Shinra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP015",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

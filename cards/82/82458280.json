@@ -1,11 +1,14 @@
 {
     "cid": "23517ae0-9ac1-4c58-9b7d-f3991fd91349",
+    "yid": 82458280,
     "password": "82458280",
     "kid": 8619,
     "name": "Magic Hole Golem",
     "name_jp": "マジック・ホール・ゴーレム",
     "name_jp_rom": "Majikku Hōru Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP008",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

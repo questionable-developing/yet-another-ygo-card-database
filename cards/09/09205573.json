@@ -1,12 +1,14 @@
 {
     "cid": "6dd982a2-3c65-49d3-8bef-ce68597f7927",
-    "yid": null,
+    "yid": 9205573,
     "password": "09205573",
     "kid": 15626,
     "name": "Evil★Twin Ki-sikil",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｖｉｌ★Ｔｗｉｎ</rb><rp> (</rp><rt>イビルツイン</rt><rp>)</rp></ruby> キスキル",
     "name_jp_rom": "Ibiru Tsuin Kisukiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -66,6 +68,42 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP015",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP079",
+            "set": "Selection 5",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB27",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP067",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +149,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

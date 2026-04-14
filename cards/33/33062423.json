@@ -1,12 +1,14 @@
 {
     "cid": "4c1628c6-59e7-4841-bad8-1d0e3f4b9300",
-    "yid": null,
+    "yid": 33062423,
     "password": "33062423",
     "kid": 14228,
     "name": "Decode Destruction",
     "name_jp": "デコード・エンド",
     "name_jp_rom": "Dekōdo Endo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Decode End",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "DUPO-EN016",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "20TH-JPB33",
+            "set": "20th Anniversary Duelist Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -85,5 +96,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

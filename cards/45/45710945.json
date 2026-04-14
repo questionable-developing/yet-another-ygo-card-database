@@ -1,11 +1,14 @@
 {
     "cid": "9dfc7bfe-9293-4a89-9aed-1151fcb1e47f",
+    "yid": 45710945,
     "password": "45710945",
     "kid": 20277,
     "name": "Galaxy-Eyes Tachyon Primal",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河眼の時源竜</rb><rp> (</rp><rt>ギャラクシーアイズ・タキオン・プライマル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushīaizu Takion Puraimaru",
+    "name_jp_rom_base": "Gingagan no Jigenryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Galaxy-Eyes Time Origin Dragon",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,6 +44,16 @@
             "rarities": {
                 "Secret Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP001",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -98,7 +111,9 @@
         "misc": [
             "Requires control of specific Type",
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

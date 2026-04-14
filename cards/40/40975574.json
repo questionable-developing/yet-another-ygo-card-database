@@ -1,11 +1,14 @@
 {
     "cid": "5028e00e-efe2-4e9b-bcf1-460295a8b28d",
+    "yid": 40975574,
     "password": "40975574",
     "kid": 12061,
     "name": "Red Resonator",
     "name_jp": "レッド・リゾネーター",
     "name_jp_rom": "Reddo Rizonētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -65,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPHR-JP016",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP020",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD46-JP007",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

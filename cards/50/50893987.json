@@ -1,11 +1,14 @@
 {
     "cid": "47fc9715-2343-4024-a9a4-5cb15a6bfca7",
+    "yid": 50893987,
     "password": "50893987",
     "kid": 9505,
     "name": "Gladiator Beast Tygerius",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ティゲル",
     "name_jp_rom": "Guradiaru Bīsuto Tigeru",
+    "name_jp_rom_base": "Kentōjū Tigeru",
     "name_jp_tl": "Gladial Beast Tigel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN034",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP034",
             "set": "Extreme Victory",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

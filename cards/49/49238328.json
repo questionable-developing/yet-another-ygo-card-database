@@ -1,11 +1,14 @@
 {
     "cid": "bbac7694-7e18-488b-90c4-48144ce690fa",
+    "yid": 49238328,
     "password": "49238328",
     "kid": 14144,
     "name": "Pot of Extravagance",
     "name_jp": "<ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>で<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>満</rb><rp> (</rp><rt>まん</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōyoku de Kinman na Tsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pot of Greed and Riches",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,16 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "PotofExtravagance-TBC1-EN-UPR-LE.png",
+            "full": "PotofExtravagance-L26D-EN-C-1E.png",
             "art": "PotofExtravagance-MADU-EN-VG-artwork.png"
         },
         "2": {
             "idx": "2",
             "full": "PotofExtravagance-RA04-EN-QCScR-1E.png",
-            "art": "PotofExtravagance-OW-2.png"
+            "art": "PotofExtravagance-MADU-EN-VG-artwork-2.png"
         }
     },
-    "image": "2",
+    "image": "1",
     "sets": [
         {
             "sid": "SAST-EN067",
@@ -106,6 +109,82 @@
             "rarities": {
                 "Quarter Century Secret Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENM12",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP067",
+            "set": "Savage Strike",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP042",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP028",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC04-JP060",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP031",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TBC1-JP010",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPC09",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP016",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
         }
     ],
     "misc": {
@@ -143,5 +222,6 @@
         "misc": [
             "At the start of Main Phase 1"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0fb58232-b83f-47e9-98d2-27e737b226ac",
+    "yid": 66171432,
     "password": "66171432",
     "kid": 12646,
     "name": "Super Koi Koi",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>こいこい",
     "name_jp_rom": "Chōkoikoi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "INOV-EN056",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP056",
             "set": "Invasion: Vengeance",
             "rarities": {
                 "Rare": []
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

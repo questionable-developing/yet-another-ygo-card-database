@@ -1,11 +1,14 @@
 {
     "cid": "d6558a5b-6070-45a3-bf62-95cbfd144fcb",
+    "yid": 39552584,
     "password": "39552584",
     "kid": 17988,
     "name": "Grapha, Dragon Overlord of Dark World",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby> グラファ",
     "name_jp_rom": "Ankokukai no Ryūshin'ō Gurafa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Grapha, Dragon God King of Dark World",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +47,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR13-JPP01",
+            "set": "Structure Deck R: Devil's Gate The Doors of the Abyss Opened Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,7 +88,7 @@
             "2 Fusion Materials",
             "Requires specific Effect Monsters as Fusion Materials",
             "Requires Attribute specific Fusion Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -87,5 +100,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

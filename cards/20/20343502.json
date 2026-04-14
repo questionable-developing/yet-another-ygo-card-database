@@ -1,12 +1,14 @@
 {
     "cid": "fea88471-c878-4a99-96c6-92e5122b68a5",
-    "yid": null,
+    "yid": 20343502,
     "password": "20343502",
     "kid": 14289,
     "name": "Madolche Teacher Glassouffle",
     "name_jp": "ティーチャーマドルチェ・グラスフレ",
     "name_jp_rom": "Tīchā Madoruche Gurasufure",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Teacher Madolche Glassouffle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP039",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP153",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

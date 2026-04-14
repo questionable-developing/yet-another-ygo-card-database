@@ -6,7 +6,9 @@
     "name": "Double Interlock",
     "name_jp": "ダブル・トリガー",
     "name_jp_rom": "Daburu Torigā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Double Trigger",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BPRO-EN052",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BPRO-JP052",
             "set": "Burst Protocol",
             "rarities": {
                 "Common": []

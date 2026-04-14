@@ -1,11 +1,14 @@
 {
     "cid": "201ccf2b-14b5-4f37-8d14-68595e26484d",
+    "yid": 54239282,
     "password": "54239282",
     "kid": 14693,
     "name": "Old Mind",
     "name_jp": "オールド・マインド",
     "name_jp_rom": "Ōrudo Maindo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP066",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -59,7 +71,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your opponent's hand",
+            "Reveals cards from your opponent's hand",
             "You discard as an effect",
             "Your opponent discards",
             "Exchanges cards",
@@ -80,5 +92,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

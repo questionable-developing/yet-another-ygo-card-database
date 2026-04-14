@@ -1,11 +1,14 @@
 {
     "cid": "fcb51858-d228-4937-85c7-1cc085eabd0d",
+    "yid": 79178930,
     "password": "79178930",
     "kid": 9149,
     "name": "Karakuri Klock",
     "name_jp": "<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>限</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>カラクリ<ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jigen Karakuri Bakudan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Timed Karakuri Bomb",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -45,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP072",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

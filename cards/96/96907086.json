@@ -1,11 +1,14 @@
 {
     "cid": "8ad658e2-8f84-4b82-b80c-c2e0cd99a02c",
+    "yid": 96907086,
     "password": "96907086",
     "kid": 8481,
     "name": "Earthbound Whirlwind",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>旋</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ぷう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jibaku Senpū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP046",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP070",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

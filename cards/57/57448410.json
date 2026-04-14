@@ -1,11 +1,14 @@
 {
     "cid": "f8d258c5-7a21-4026-9088-400385417650",
+    "yid": 57448410,
     "password": "57448410",
     "kid": 21158,
     "name": "Prima Materiactor",
     "name_jp": "プリマ・マテリアクトル",
     "name_jp_rom": "Purima Materiakutoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "ALIN-EN021",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP021",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

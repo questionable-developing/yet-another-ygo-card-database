@@ -1,12 +1,14 @@
 {
     "cid": "2e274eb6-48e5-4e05-87eb-6b59c42303df",
-    "yid": null,
+    "yid": 22007085,
     "password": "22007085",
     "kid": 15874,
     "name": "Starry Knight Balefire",
     "name_jp": "<ruby lang=\"jp\"><rb>聖なる篝火</rb><rp> (</rp><rt>ホーリーナイツ・ベルファイア</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hōrī Naitsu Berufaia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Nights Bellfire",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,16 @@
             "set": "Ghosts From the Past (set)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP045",
+            "set": "Selection 10",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -80,5 +92,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b0999656-9c4e-45aa-8dbe-a26167a2effd",
+    "yid": 65549080,
     "password": "65549080",
     "kid": 7816,
     "name": "Mist Condor",
     "name_jp": "ミスト・コンドル",
     "name_jp_rom": "Misuto Kondoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT02-JP018",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP036",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +95,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b9d2e1ae-dce9-40d0-9cee-4fc850b9c007",
-    "yid": null,
+    "yid": 35283277,
     "password": "35283277",
     "kid": 17436,
     "name": "Eka the Flame Buddy",
     "name_jp": "<ruby lang=\"jp\"><rb>炎獣使い</rb><rp> (</rp><rt>フレイム・バディ</rt><rp>)</rp></ruby>エーカ",
     "name_jp_rom": "Fureimu Badi Ēka",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Eka the Flame Beast Tamer",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP034",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

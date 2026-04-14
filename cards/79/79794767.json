@@ -1,11 +1,14 @@
 {
     "cid": "7f32e549-d730-46f9-b228-5f719bac300c",
+    "yid": 79794767,
     "password": "79794767",
     "kid": 12300,
     "name": "Amorphage Wrath",
     "name_jp": "アモルファージ・オルガ",
     "name_jp_rom": "Amorufāji Oruga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amorphage Orge",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "SHVI-EN028",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP028",
             "set": "Shining Victories",
             "rarities": {
                 "Common": []
@@ -85,5 +97,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

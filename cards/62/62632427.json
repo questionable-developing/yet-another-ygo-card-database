@@ -1,11 +1,14 @@
 {
     "cid": "d0547fb1-4ade-4035-ac67-7147d5bdf8c6",
+    "yid": 62632427,
     "password": "62632427",
     "kid": 16258,
     "name": "Margin Trading",
     "name_jp": "<ruby lang=\"jp\"><rb>信用取引</rb><rp> (</rp><rt>マージントレード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mājin Torēdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Margin Trade",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP069",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -74,5 +86,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

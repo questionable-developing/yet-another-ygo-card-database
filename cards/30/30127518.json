@@ -1,12 +1,14 @@
 {
     "cid": "c432a7f2-921c-413d-aa59-ec8c3a6cbc2e",
-    "yid": null,
+    "yid": 30127518,
     "password": "30127518",
     "kid": 9157,
     "name": "Darkfall",
     "name_jp": "<ruby lang=\"jp\"><rb>落</rb><rp> (</rp><rt>お</rt><rp>)</rp></ruby>とし<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>おお</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>穴</rb><rp> (</rp><rt>あな</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Otoshiōana",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Large Pitfall",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP080",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

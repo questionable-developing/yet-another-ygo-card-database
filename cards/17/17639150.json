@@ -1,12 +1,14 @@
 {
     "cid": "0defb633-250e-42b2-9bbc-92f17ba78e25",
-    "yid": null,
+    "yid": 17639150,
     "password": "17639150",
     "kid": 11393,
     "name": "Saqlifice",
     "name_jp": "<ruby lang=\"jp\"><rb>機殻の生贄</rb><rp> (</rp><rt>サクリフォート</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sakurifōto",
+    "name_jp_rom_base": "Kikaku no Ikenie",
     "name_jp_tl": "Saqliphort",
+    "name_jp_tl_base": "Machine Husk Sacrifice",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP061",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP1-JP064",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

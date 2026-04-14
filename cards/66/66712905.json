@@ -1,11 +1,14 @@
 {
     "cid": "f31f03e3-dc21-4def-8355-1de2ff7c37c8",
+    "yid": 66712905,
     "password": "66712905",
     "kid": 17380,
     "name": "Runick Dispelling",
     "name_jp": "<ruby lang=\"jp\"><rb>解</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaiju no Rūn",
+    "name_jp_rom_base": "Kaiju no Shinpi",
     "name_jp_tl": "Rune of Dispelling",
+    "name_jp_tl_base": "Divine Runestone of Dispelling",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP032",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +106,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

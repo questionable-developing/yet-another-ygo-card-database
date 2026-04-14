@@ -1,11 +1,14 @@
 {
     "cid": "015c887e-2c5e-43ec-afc3-339627c6f9e0",
+    "yid": 58996430,
     "password": "58996430",
     "kid": 7596,
     "name": "Wulf, Lightsworn Beast",
     "name_jp": "ライトロード・ビースト ウォルフ",
     "name_jp_rom": "Raitorōdo Bīsuto Worufu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Beast Wolf",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -85,6 +88,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP023",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP124",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL07",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP129",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +156,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4e612a07-160f-4b69-9e62-a6c303e7d9e0",
+    "yid": 60394026,
     "password": "60394026",
     "kid": 20579,
     "name": "Ryzeal Plugin",
     "name_jp": "ライゼオル・プラグイン",
     "name_jp_rom": "Raizeoru Puraguin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raizeol Plugin",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBCB-JP008",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +87,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Prevents your monsters from attacking"
@@ -88,5 +101,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

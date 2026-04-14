@@ -1,11 +1,14 @@
 {
     "cid": "7d47b980-6765-4096-833d-fb15dbd9a85b",
+    "yid": 57541158,
     "password": "57541158",
     "kid": 17054,
     "name": "Marincess Sleepy Maiden",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女</rb><rp> (</rp><rt>マリンセス</rt><rp>)</rp></ruby>スリーピーメイデン",
     "name_jp_rom": "Marinsesu Surīpī Meiden",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "LED9-EN032",
             "set": "Legendary Duelists: Duels From the Deep",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP26-JP032",
+            "set": "Duelist Pack: Duelists of the Abyss",
             "rarities": {
                 "Rare": []
             }
@@ -87,5 +99,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

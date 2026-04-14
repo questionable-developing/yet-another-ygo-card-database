@@ -1,12 +1,14 @@
 {
     "cid": "4142354d-6d13-44a4-9034-17846276412c",
-    "yid": null,
+    "yid": 32548609,
     "password": "32548609",
     "kid": 9323,
     "name": "Wattmole",
     "name_jp": "エレキンモグラ",
     "name_jp_rom": "Erekinmogura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecgoldenmole",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP032",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

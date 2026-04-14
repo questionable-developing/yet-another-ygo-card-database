@@ -1,12 +1,14 @@
 {
     "cid": "889d0123-dbcb-4819-8339-1d228d755f96",
-    "yid": null,
+    "yid": 32566831,
     "password": "32566831",
     "kid": 11844,
     "name": "Cards of the Red Stone",
     "name_jp": "<ruby lang=\"jp\"><rb>紅</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>玉</rb><rp> (</rp><rt>ぎょく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>札</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōgyoku no Hōsatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Treasure Cards of the Ruby",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP060",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

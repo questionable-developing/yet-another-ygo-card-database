@@ -1,12 +1,14 @@
 {
     "cid": "91d133e4-461b-44b9-a682-b7dc809a2112",
-    "yid": null,
+    "yid": 14529511,
     "password": "14529511",
     "kid": 20216,
     "name": "Mementomictlan Tecuhtlica - Creation King",
     "name_jp": "<ruby lang=\"jp\"><rb>冥</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>骸</rb><rp> (</rp><rt>がい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>－メメントラン・テクトリカ",
     "name_jp_rom": "Meigaiō - Mementoran Tekutorika",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Corpse King - Mementolan Tecuhtlica",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -60,6 +62,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP037",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "INFO-JP037",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP009",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +137,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "c35d520e-08f6-4538-b704-c85b573f1f05",
-    "yid": null,
+    "yid": 27970830,
     "password": "27970830",
     "kid": 8602,
     "name": "Gateway of the Six",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ろく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>門</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rokubu no Mon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gate of the Six Warriors",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -77,6 +79,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP3-JP030",
+            "set": "Extra Pack Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP072",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBSW-JP014",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -118,5 +144,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

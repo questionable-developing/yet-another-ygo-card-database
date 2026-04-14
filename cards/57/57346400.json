@@ -1,11 +1,14 @@
 {
     "cid": "2bfc7265-1185-4c6a-878e-8bdf07e8c3b4",
+    "yid": 57346400,
     "password": "57346400",
     "kid": 6697,
     "name": "Guard Dog",
     "name_jp": "ガード・ドッグ",
     "name_jp_rom": "Gādo Doggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP024",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP204",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +99,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

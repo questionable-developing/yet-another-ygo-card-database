@@ -1,11 +1,14 @@
 {
     "cid": "dd7e5d82-bf30-4964-9854-f13c31790b54",
+    "yid": 56465981,
     "password": "56465981",
     "kid": 16539,
     "name": "Swordsoul Emergence",
     "name_jp": "<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>現</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryūsōkengen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragon Xiangjian Emergence",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP053",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP076",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

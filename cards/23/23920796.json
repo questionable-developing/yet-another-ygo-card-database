@@ -1,12 +1,14 @@
 {
     "cid": "ebda6c65-6ed0-48bd-aaa6-f08ca953893f",
-    "yid": null,
+    "yid": 23920796,
     "password": "23920796",
     "kid": 20430,
     "name": "Mimighoul Cerberus",
     "name_jp": "ミミグル・ケルベロス",
     "name_jp_rom": "Mimiguru Keruberosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mimigul Cerberus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP017",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +88,7 @@
             "Prevents other cards being targeted by card effects"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters to the opponent's field",
+            "Special Summons from your banishment to the opponent's field",
             "Special Summons itself from your hand to your opponent's field",
             "Special Summons itself face-down"
         ],
@@ -91,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

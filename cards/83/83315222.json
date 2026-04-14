@@ -1,11 +1,14 @@
 {
     "cid": "59bc0dfe-0259-40f6-a547-3244092dae81",
+    "yid": 83315222,
     "password": "83315222",
     "kid": 18924,
     "name": "Battlin' Boxer Promoter",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> プロモーター",
     "name_jp_rom": "Bāningu Nakkurā Puromōtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Promoter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -40,6 +43,16 @@
             "set": "Legendary Duelists: Soulburning Volcano",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP28-JP034",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -88,5 +101,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b8f89bd9-65e5-49ef-9205-0a9fc4d60c3e",
-    "yid": null,
+    "yid": 10132124,
     "password": "10132124",
     "kid": 9639,
     "name": "Wingtortoise",
     "name_jp": "ウイングトータス",
     "name_jp_rom": "Uingutōtasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP022",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

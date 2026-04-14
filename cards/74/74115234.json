@@ -1,11 +1,14 @@
 {
     "cid": "0a2896d5-ff24-4389-9956-52df61e46d2f",
+    "yid": 74115234,
     "password": "74115234",
     "kid": 7681,
     "name": "Orb of Yasaka",
     "name_jp": "<ruby lang=\"jp\"><rb>八尺勾玉</rb><rp> (</rp><rt>ヤサカノマガタマ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yasaka no Magatama",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eight-Foot Magatama",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TDGS-EN055",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP055",
             "set": "The Duelist Genesis",
             "rarities": {
                 "Common": []
@@ -74,5 +86,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

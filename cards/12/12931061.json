@@ -1,12 +1,14 @@
 {
     "cid": "c06bb33d-26e1-4537-81c8-da2d21dd89cf",
-    "yid": null,
+    "yid": 12931061,
     "password": "12931061",
     "kid": 15540,
     "name": "U.A. Hyper Stadium",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕ．Ａ．</rb><rp> (</rp><rt>ウルトラアスリート</rt><rp>)</rp></ruby>ハイパー・スタジアム",
     "name_jp_rom": "Urutora Asurīto Haipā Sutajiamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ultra Athlete Hyper Stadium",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Phantom Rage",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP061",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -86,5 +97,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

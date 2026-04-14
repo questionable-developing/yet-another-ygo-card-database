@@ -1,11 +1,14 @@
 {
     "cid": "d20f2488-2361-4e98-8108-07820f833b6d",
+    "yid": 79080761,
     "password": "79080761",
     "kid": 8184,
     "name": "Gigastone Omega",
     "name_jp": "ギガストーン・オメガ",
     "name_jp_rom": "Gigasutōn Omega",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RGBT-EN032",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP032",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

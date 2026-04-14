@@ -1,11 +1,14 @@
 {
     "cid": "0ff70316-b963-4b22-8efa-e4e656fc6151",
+    "yid": 45943123,
     "password": "45943123",
     "kid": 15049,
     "name": "Torpedo Takedown",
     "name_jp": "エアー・トルピード",
     "name_jp_rom": "Eā Torupīdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Air Torpedo",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP21-EN078",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP063",
+            "set": "Eternity Code",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +104,6 @@
             "Requires control of specific Monster card type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

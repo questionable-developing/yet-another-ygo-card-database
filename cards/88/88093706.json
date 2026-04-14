@@ -1,11 +1,14 @@
 {
     "cid": "51a51acb-f026-43f7-8af1-4ad3bd5717e0",
+    "yid": 88093706,
     "password": "88093706",
     "kid": 14122,
     "name": "Update Jammer",
     "name_jp": "アップデートジャマー",
     "name_jp_rom": "Appudēto Jamā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -54,6 +57,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP045",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP104",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +119,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

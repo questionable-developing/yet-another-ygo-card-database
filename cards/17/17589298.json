@@ -1,12 +1,14 @@
 {
     "cid": "89b8e009-e737-439b-b321-6a1f1cb6a570",
-    "yid": null,
+    "yid": 17589298,
     "password": "17589298",
     "kid": 7152,
     "name": "Sword of Dark Rites",
     "name_jp": "サクリファイス・ソード",
     "name_jp_rom": "Sakurifaisu Sōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacrifice Sword",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD12-JP015",
+            "set": "Structure Deck: Curse of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

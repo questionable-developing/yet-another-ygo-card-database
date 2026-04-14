@@ -1,11 +1,14 @@
 {
     "cid": "e4d843d0-1131-4351-a192-5a473c5d8d03",
+    "yid": 84341431,
     "password": "84341431",
     "kid": 10874,
     "name": "Archfiend Giant",
     "name_jp": "デーモンの<ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dēmon no Kyoshin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Daemon Giant God",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP014",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "<!--See Card Trivia-->",
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

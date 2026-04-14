@@ -1,11 +1,14 @@
 {
     "cid": "45ff8c5c-6ea4-41e1-99e9-3632a04fcc16",
+    "yid": 49919798,
     "password": "49919798",
     "kid": 11609,
     "name": "Symphonic Warrior Synthess",
     "name_jp": "<ruby lang=\"jp\"><rb>音響戦士</rb><rp> (</rp><rt>サウンドウォリアー</rt><rp>)</rp></ruby>サイザス",
     "name_jp_rom": "Saundo Woriā Saizasu",
+    "name_jp_rom_base": "Onkyō Senshi Saizasu",
     "name_jp_tl": "Sound Warrior Saizus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP089",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,7 +95,7 @@
         ],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -95,5 +107,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

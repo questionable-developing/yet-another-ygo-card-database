@@ -1,12 +1,14 @@
 {
     "cid": "c6666a1e-5dea-4f06-abb2-0e5c4852cf31",
-    "yid": null,
+    "yid": 6351548,
     "password": "06351548",
     "kid": 11062,
     "name": "Dawn Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>曙</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shokō no Kishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP033",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

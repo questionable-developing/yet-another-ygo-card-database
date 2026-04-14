@@ -1,11 +1,14 @@
 {
     "cid": "0c6d3e20-6ede-48b0-99ef-c658fd5d97ea",
+    "yid": 42679662,
     "password": "42679662",
     "kid": 9992,
     "name": "Evilswarm Azzathoth",
     "name_jp": "ヴェルズ・アザトホース",
     "name_jp_rom": "Veruzu Azatohōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Verz Azathohoth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,17 +32,45 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "EvilswarmAzzathoth-HA07-EN-SR-1E.png",
+            "full": "EvilswarmAzzathoth-DS13-JP-C.png",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "EvilswarmAzzathoth-HA07-EN-SR-1E.png",
+            "art": "EvilswarmAzzathoth-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA07-EN050",
             "set": "Hidden Arsenal 7: Knight of Stars",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT14-JP024",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP102",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPD10",
+            "set": "Duelist Set: Version Dark Returner",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -73,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

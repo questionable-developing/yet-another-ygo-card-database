@@ -1,11 +1,14 @@
 {
     "cid": "b55c49c0-882f-4979-848f-863da431f109",
+    "yid": 55589254,
     "password": "55589254",
     "kid": 7210,
     "name": "Frost and Flame Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>氷炎の双竜</rb><rp> (</rp><rt>フロストアンドフレイム・ツインドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Furosuto Ando Fureimu Tsuin Doragon",
+    "name_jp_rom_base": "Hyōen no Sōryū",
     "name_jp_tl": "Frost and Flame Twin Dragon",
+    "name_jp_tl_base": "Ice and Flame Twin Dragon",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP033",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TP23-JP003",
+            "set": "Tournament Pack 2012 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
             "Special Summon Monster",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

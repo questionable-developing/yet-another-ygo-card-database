@@ -1,11 +1,14 @@
 {
     "cid": "a578ed71-a862-4089-9f23-16a307750a83",
+    "yid": 38667773,
     "password": "38667773",
     "kid": 11229,
     "name": "Satellarknight Vega",
     "name_jp": "<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby> ベガ",
     "name_jp_rom": "Sateranaito Bega",
+    "name_jp_rom_base": "Seiinshi Bega",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP020",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP047",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "93ed30ce-3bc8-4a3e-a030-73f779679f4f",
+    "yid": 76721030,
     "password": "76721030",
     "kid": 9369,
     "name": "Tyrant's Tirade",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>君</rb><rp> (</rp><rt>くん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>言</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bōkun no Bōgen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tyrant's Insults",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TyrantsTirade-STOR-JP-C.jpg",
+            "art": "TyrantsTirade-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TyrantsTirade-STOR-EN-C-UE.png",
-            "art": null
+            "art": "TyrantsTirade-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "STOR-EN078",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP078",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -71,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

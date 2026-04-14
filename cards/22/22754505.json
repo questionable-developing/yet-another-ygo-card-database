@@ -1,12 +1,14 @@
 {
     "cid": "45d41bf3-ef7c-4528-a480-847443c8aac6",
-    "yid": null,
+    "yid": 22754505,
     "password": "22754505",
     "kid": 7704,
     "name": "Small Piece Golem",
     "name_jp": "スモール・ピース・ゴーレム",
     "name_jp_rom": "Sumōru Pīsu Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "TDGS-EN006",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP006",
             "set": "The Duelist Genesis",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

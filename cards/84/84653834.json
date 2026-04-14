@@ -1,11 +1,14 @@
 {
     "cid": "f5bb4e89-9102-4501-9d9d-fb9533924681",
+    "yid": 84653834,
     "password": "84653834",
     "kid": 9526,
     "name": "ESP Amplifier",
     "name_jp": "<ruby lang=\"jp\"><rb>超能力増幅器</rb><rp> (</rp><rt>サイキック・ブースター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saikikku Būsutā",
+    "name_jp_rom_base": "Chō Nōryoku Zōfukuki",
     "name_jp_tl": "Psychic Booster",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "EXVC-EN055",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP055",
             "set": "Extreme Victory",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "84354084-b614-4d71-8f96-45e1c1529f63",
+    "yid": 87988305,
     "password": "87988305",
     "kid": 14583,
     "name": "Dark Spirit of Malice",
     "name_jp": "<ruby lang=\"jp\"><rb>怨</rb><rp> (</rp><rt>おん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>念</rb><rp> (</rp><rt>ねん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>邪悪霊</rb><rp> (</rp><rt>ダーク・スピリット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Onnen no Dāku Supiritto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP22-JP003",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

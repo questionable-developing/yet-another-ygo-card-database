@@ -1,11 +1,14 @@
 {
     "cid": "d5e70b9f-7b62-4cd7-93aa-511660271750",
+    "yid": 57815601,
     "password": "57815601",
     "kid": 11594,
     "name": "Ritual Beast Ambush",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>襲</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reijū no Kishū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirit Beast Rider Ambush",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP074",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP144",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +91,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Restricts the player's Special Summons to archetype specific monsters"
         ],
         "attack": [],
@@ -82,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

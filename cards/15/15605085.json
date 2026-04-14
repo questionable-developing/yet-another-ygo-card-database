@@ -1,12 +1,14 @@
 {
     "cid": "73567357-6d16-4e79-8d2f-1c51e9d5af79",
-    "yid": null,
+    "yid": 15605085,
     "password": "15605085",
     "kid": 7953,
     "name": "Genex Solar",
     "name_jp": "ソーラー・ジェネクス",
     "name_jp_rom": "Sōrā Jenekusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Solar Genex",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT03-JP016",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP066",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP065",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

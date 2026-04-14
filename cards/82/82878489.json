@@ -1,11 +1,14 @@
 {
     "cid": "5af3843b-f234-4df5-b2fd-2633c2b1dfd9",
+    "yid": 82878489,
     "password": "82878489",
     "kid": 4674,
     "name": "Shine Palace",
     "name_jp": "シャイン・キャッスル",
     "name_jp_rom": "Shain Kyassuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shine Castle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "PE-49",
+            "set": "Structure Deck: Pegasus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AX-JPY44",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Common": [],
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +98,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

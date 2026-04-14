@@ -1,12 +1,14 @@
 {
     "cid": "f295c9f7-9af1-4e25-8839-1e2189f662a8",
-    "yid": null,
+    "yid": 33365932,
     "password": "33365932",
     "kid": 7082,
     "name": "Volcanic Shell",
     "name_jp": "ヴォルカニック・バレット",
     "name_jp_rom": "Vorukanikku Baretto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Volcanic Bullet",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -88,6 +90,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP009",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT12-JP001",
+            "set": "Duel Terminal - Xyz Startup!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP119",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP021",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP28-JP025",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -123,5 +162,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

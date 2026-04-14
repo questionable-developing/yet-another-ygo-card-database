@@ -1,11 +1,14 @@
 {
     "cid": "181dec71-9fe5-4161-b36f-0bba9ce8dbc9",
+    "yid": 71948047,
     "password": "71948047",
     "kid": 18538,
     "name": "REINFORCE!",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＥＩＮＦＯＲＣＥ</rb><rp> (</rp><rt>リインフォース</rt><rp>)</rp></ruby>！",
     "name_jp_rom": "Riinfōsu!",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP075",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TT02-JPA23",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

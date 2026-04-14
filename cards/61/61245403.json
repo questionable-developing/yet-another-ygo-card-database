@@ -1,11 +1,14 @@
 {
     "cid": "e247d6b4-8096-4558-8d9c-f09162baa583",
+    "yid": 61245403,
     "password": "61245403",
     "kid": 18436,
     "name": "Cattycorn",
     "name_jp": "ネコーン",
     "name_jp_rom": "Nekōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "23PP-JP011",
+            "set": "Premium Pack 2023",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +91,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

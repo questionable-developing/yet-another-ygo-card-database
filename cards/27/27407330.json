@@ -1,12 +1,14 @@
 {
     "cid": "bf321a38-e7bf-4401-bc20-51265533c339",
-    "yid": null,
+    "yid": 27407330,
     "password": "27407330",
     "kid": 10119,
     "name": "Lightray Grepher",
     "name_jp": "ライトレイ グレファー",
     "name_jp_rom": "Raitorei Gurefā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP005",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL14",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +106,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

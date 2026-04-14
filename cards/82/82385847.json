@@ -1,11 +1,14 @@
 {
     "cid": "53f0c216-bbd7-42cf-a3dd-91a83377603d",
+    "yid": 82385847,
     "password": "82385847",
     "kid": 13896,
     "name": "Dinowrestler Pankratops",
     "name_jp": "ダイナレスラー・パンクラトプス",
     "name_jp_rom": "Dainaresurā Pankuratopusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -86,6 +89,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP009",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19SP-JP502",
+            "set": "Special Pack 20th Anniversary Edition Vol.5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP013",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP023",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -122,7 +159,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

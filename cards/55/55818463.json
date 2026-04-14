@@ -1,11 +1,14 @@
 {
     "cid": "0f901b73-f623-4f35-a3b7-a4397e14cbac",
+    "yid": 55818463,
     "password": "55818463",
     "kid": 7147,
     "name": "Lich Lord, King of the Underworld",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>リッチーロード",
     "name_jp_rom": "Shiō Ritchīrōdo",
-    "name_jp_tl": "Death King Lich Lord",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Lich Lord, King of Death",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD12-JP002",
+            "set": "Structure Deck: Curse of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR06-JP005",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

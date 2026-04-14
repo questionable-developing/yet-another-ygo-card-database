@@ -1,12 +1,14 @@
 {
     "cid": "28b1d519-a3e4-4b9a-b723-5acba7a2e30f",
-    "yid": null,
+    "yid": 23299957,
     "password": "23299957",
     "kid": 6748,
     "name": "Vehicroid Connection Zone",
     "name_jp": "ビークロイド・コネクション・ゾーン",
     "name_jp_rom": "Bīkuroido Konekushon Zōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP040",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP029",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP18-JP035",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +126,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

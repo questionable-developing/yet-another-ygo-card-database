@@ -1,12 +1,14 @@
 {
     "cid": "b7a1a1cd-7181-447d-b174-b8bd97e1f64e",
-    "yid": null,
+    "yid": 26561172,
     "password": "26561172",
     "kid": 16824,
     "name": "Myutant Mutant",
     "name_jp": "<ruby lang=\"jp\"><rb>変</rb><rp> (</rp><rt>へん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>ミュートリア",
     "name_jp_rom": "Hen'itai Myūtoria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mutant Myutria",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -41,6 +43,15 @@
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP019",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -90,5 +101,6 @@
             "Requires control of specific archetype",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

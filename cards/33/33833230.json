@@ -1,12 +1,14 @@
 {
     "cid": "4d3377c7-a595-41c3-a25a-92f10b6f1b33",
-    "yid": null,
+    "yid": 33833230,
     "password": "33833230",
     "kid": 12594,
     "name": "Performapal Seal Eel",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>シール・イール",
     "name_jp_rom": "Entameito Shīru Īru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Seal Eel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP004",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -89,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

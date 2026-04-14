@@ -1,11 +1,14 @@
 {
     "cid": "b6b6cca7-62a7-4d29-8a32-e5ef9bfc0c09",
+    "yid": 47457347,
     "password": "47457347",
     "kid": 12854,
     "name": "Omega Summon",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>名</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>－「<ruby lang=\"jp\"><rb>大いなる獣</rb><rp> (</rp><rt>ト・メガ・セリオン</rt><rp>)</rp></ruby>」",
     "name_jp_rom": "Mahōmei - \"To Mega Serion\"",
+    "name_jp_rom_base": "Mahōmei - \"Ōinaru Kemono\"",
     "name_jp_tl": "Magical Name - \"To Mega Therion\"",
+    "name_jp_tl_base": "Magical Name - \"The Great Beast\"",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPFE-JP037",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP034",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +88,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -74,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

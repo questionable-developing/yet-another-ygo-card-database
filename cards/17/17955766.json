@@ -1,12 +1,14 @@
 {
     "cid": "f1a77934-beb5-4879-b1a1-7247700ef1ea",
-    "yid": null,
+    "yid": 17955766,
     "password": "17955766",
     "kid": 6768,
     "name": "Neo-Spacian Aqua Dolphin",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎ</rb><rp> (</rp><rt>ネオスペーシアン</rt><rp>)</rp></ruby>・アクア・ドルフィン",
     "name_jp_rom": "Neosupēshian Akua Dorufin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -35,53 +37,108 @@
         },
         "2": {
             "idx": "2",
-            "full": "NeoSpacianAquaDolphin-LPST-JP-OP.png",
+            "full": "NeoSpacianAquaDolphin-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "POTD-EN003",
             "set": "Power of the Duelist",
             "rarities": {
-                "Super Rare": [],
-                "Ultimate Rare": []
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "DP03-EN005",
             "set": "Duelist Pack: Jaden Yuki 2",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "LCGX-EN017",
             "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "BLRR-EN049",
             "set": "Battles of Legend: Relentless Revenge",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "LED6-EN018",
             "set": "Legendary Duelists: Magical Hero",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "LDS3-EN101",
             "set": "Legendary Duelists: Season 3",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN088",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP003",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"]
+            }
+        },
+        {
+            "sid": "DP03-JP005",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Rare": ["1"]
+            }
+        },
+        {
+            "sid": "DE01-JP003",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DP23-JP018",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "AC02-JP049",
+            "set": "Animation Chronicle 2022",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP006",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -129,5 +186,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

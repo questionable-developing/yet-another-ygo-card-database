@@ -1,11 +1,14 @@
 {
     "cid": "06ae2e8e-6edd-436a-b137-b2b89fb04f0f",
+    "yid": 70298454,
     "password": "70298454",
     "kid": 13250,
     "name": "Leng Ling",
     "name_jp": "<ruby lang=\"jp\"><rb>比</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>レンリン",
     "name_jp_rom": "Hiyoku Renrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Conjoined Bird - Renrin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP034",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD41-JP018",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
             "Limited activations",
             "Treated as Equip Card"
         ]
-    }
+    },
+    "links": {}
 }

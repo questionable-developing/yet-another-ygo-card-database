@@ -1,11 +1,14 @@
 {
     "cid": "bd005e33-f42c-490b-8d46-e1dd87c7edcb",
+    "yid": 60645181,
     "password": "60645181",
     "kid": 10171,
     "name": "Heroic Champion - Excalibur",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｈ</rb><rp> (</rp><rt>ヒロイック</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チャンピオン</rt><rp>)</rp></ruby> エクスカリバー",
     "name_jp_rom": "Hiroikku Chanpion Ekusukaribā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -60,6 +63,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP041",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "DP14-JP021",
+            "set": "Duelist Pack: Yuma 2: Gogogo & Dododo",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP112",
+            "set": "Tournament Pack 2022 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +126,6 @@
             "Limited activations",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

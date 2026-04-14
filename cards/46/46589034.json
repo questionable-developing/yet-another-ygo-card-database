@@ -1,11 +1,14 @@
 {
     "cid": "3e4bd415-e30a-46d7-903c-e88caf1401d9",
+    "yid": 46589034,
     "password": "46589034",
     "kid": 12287,
     "name": "Raidraptor - Pain Lanius",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ペイン・レイニアス",
     "name_jp_rom": "Reido Raputāzu - Pein Reiniasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Pain Lanius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP015",
+            "set": "Shining Victories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP155",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ca420a02-c635-4e63-b8b6-30700922eb3b",
+    "yid": 99274184,
     "password": "99274184",
     "kid": 12662,
     "name": "Crystron Impact",
     "name_jp": "クリストロン・インパクト",
     "name_jp_rom": "Kurisutoron Inpakuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP072",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +89,7 @@
             "Negates the effects of Trap Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

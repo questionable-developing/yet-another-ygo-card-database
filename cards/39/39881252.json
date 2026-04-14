@@ -1,11 +1,14 @@
 {
     "cid": "aaafa9c6-ede4-4f4b-aa66-4e9ab1371ceb",
+    "yid": 39881252,
     "password": "39881252",
     "kid": 20793,
     "name": "Play the Diabell",
     "name_jp": "プレイ・ザ・ディアベル",
     "name_jp_rom": "Purei Za Diaberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN056",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP056",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

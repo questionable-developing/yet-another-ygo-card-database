@@ -1,11 +1,14 @@
 {
     "cid": "2195b20b-c77c-4c1b-a1c1-3fc14691819f",
+    "yid": 83269557,
     "password": "83269557",
     "kid": 7600,
     "name": "Dark Valkyria",
     "name_jp": "ダーク・ヴァルキリア",
     "name_jp_rom": "Dāku Varukiria",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -74,6 +77,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP027",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD17-JP019",
+            "set": "Structure Deck: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP128",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +136,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

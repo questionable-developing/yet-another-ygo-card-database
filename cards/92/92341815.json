@@ -1,11 +1,14 @@
 {
     "cid": "0177c2a1-7831-4436-bbbd-6e33a21e45f9",
+    "yid": 92341815,
     "password": "92341815",
     "kid": 16754,
     "name": "Starlit Papillon",
     "name_jp": "<ruby lang=\"jp\"><rb>星空蝶</rb><rp> (</rp><rt>スターリット・パピヨン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sutāritto Papiyon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP031",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +106,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

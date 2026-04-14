@@ -1,11 +1,14 @@
 {
     "cid": "6a2b466a-5d27-4846-a880-13cc7b59fef4",
+    "yid": 40160226,
     "password": "40160226",
     "kid": 10255,
     "name": "Mecha Sea Dragon Plesion",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>プレシオン",
     "name_jp_rom": "Kikairyū Pureshion",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ABYR-EN033",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP033",
             "set": "Abyss Rising",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "0f42e8b2-73f4-4151-9748-758d6c482906",
-    "yid": null,
+    "yid": 12624008,
     "password": "12624008",
     "kid": 6986,
     "name": "Radiant Spirit",
     "name_jp": "シャインスピリッツ",
     "name_jp_rom": "Shain Supirittsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shine Spirits",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "STON-EN029",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP029",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

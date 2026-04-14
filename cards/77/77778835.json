@@ -1,11 +1,14 @@
 {
     "cid": "b62bd117-fd4a-4f1c-82cd-f7579551a529",
+    "yid": 77778835,
     "password": "77778835",
     "kid": 6722,
     "name": "Hysteric Party",
     "name_jp": "ヒステリック・パーティー",
     "name_jp_rom": "Hisuterikku Pātī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "HystericParty-DP16-JP-C.png",
+            "art": "HystericParty-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "HystericParty-SBC2-NA-C-1E.png",
-            "art": null
+            "art": "HystericParty-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SD8-EN027",
@@ -68,6 +76,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD8-JP027",
+            "set": "Structure Deck: Lord of the Storm",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT01-JP003",
+            "set": "Advanced Tournament Pack 2013 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP16-JP038",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +130,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2861e935-41fb-4915-a8c9-a7105320c043",
+    "yid": 65496951,
     "password": "65496951",
     "kid": 19907,
     "name": "Vaalmonica Disarmonia",
     "name_jp": "ヴァルモニカ・ディサルモニア",
     "name_jp_rom": "Varumonika Disarumonia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Varmonica Disarmonia",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "LEDE-EN066",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP066",
             "set": "Legacy of Destruction",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

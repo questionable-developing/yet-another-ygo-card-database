@@ -1,11 +1,14 @@
 {
     "cid": "1dd5c2d7-8662-4ba1-862e-4db387e458ed",
+    "yid": 83370323,
     "password": "83370323",
     "kid": 8170,
     "name": "Torapart",
     "name_jp": "トラパート",
     "name_jp_rom": "Torapāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trapart",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP018",
+            "set": "Raging Battle",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP122",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

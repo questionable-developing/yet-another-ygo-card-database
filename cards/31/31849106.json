@@ -1,12 +1,14 @@
 {
     "cid": "b5d1c2c9-43a1-4f77-baa0-d6e4347a496e",
-    "yid": null,
+    "yid": 31849106,
     "password": "31849106",
     "kid": 9154,
     "name": "Different Dimension Ground",
     "name_jp": "<ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>次</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>元</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>グランド",
     "name_jp_rom": "Ijigen Gurando",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "DifferentDimensionGround-RA04-EN-SR-1E.png",
-            "art": null
+            "full": "DifferentDimensionGround-LOCR-JP-SR.png",
+            "art": "DifferentDimensionGround-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "DifferentDimensionGround-RA04-EN-CR-1E.png",
+            "art": "DifferentDimensionGround-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "STBL-EN077",
@@ -75,6 +82,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP077",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP040",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCR-JP077",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +136,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

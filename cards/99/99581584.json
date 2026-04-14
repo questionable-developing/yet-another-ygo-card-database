@@ -1,11 +1,14 @@
 {
     "cid": "adc8006f-95c3-4e6b-92a8-125a2367b865",
+    "yid": 99581584,
     "password": "99581584",
     "kid": 10853,
     "name": "Guard Penguin",
     "name_jp": "ガード・ペンギン",
     "name_jp_rom": "Gādo Pengin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP15-JP005",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d8394d7c-cfcc-4525-bb84-e204bc4fbca4",
-    "yid": null,
+    "yid": 36492575,
     "password": "36492575",
     "kid": 14451,
     "name": "Marincess Sea Horse",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女</rb><rp> (</rp><rt>マリンセス</rt><rp>)</rp></ruby>シーホース",
     "name_jp_rom": "Marinsesu Shīhōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP003",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP26-JP038",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

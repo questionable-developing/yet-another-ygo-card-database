@@ -1,11 +1,14 @@
 {
     "cid": "93057b3c-507a-4dbd-8da6-94ece6cb246a",
+    "yid": 42469671,
     "password": "42469671",
     "kid": 15836,
     "name": "Thunderforce Attack",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>波</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby>サンダーフォース",
     "name_jp_rom": "Chōdendōha Sandāfōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superconducting Wave - Thunder Force",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PGB1-JP001",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -51,7 +64,8 @@
         "sup": [],
         "asup": [],
         "arc": [
-            "Signature move"
+            "Signature move",
+            "Raigeki (series)"
         ],
         "suparc": [],
         "asuparc": [],
@@ -81,5 +95,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

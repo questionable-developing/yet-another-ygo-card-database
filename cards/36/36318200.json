@@ -1,12 +1,14 @@
 {
     "cid": "dab85b4d-f2fc-4754-bda5-6554925f3cee",
-    "yid": null,
+    "yid": 36318200,
     "password": "36318200",
     "kid": 10161,
     "name": "Uniflora, Mystical Beast of the Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> ユニフォリア",
     "name_jp_rom": "Mori no Seijū Yuniforia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Unifolia, Holy Beast of the Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN031",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP031",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "misc": [
             "Requires having only specific Type in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2bda16f2-fd92-4e08-9f72-917496fb1e52",
+    "yid": 98169343,
     "password": "98169343",
     "kid": 13555,
     "name": "Trickstar Corobane",
     "name_jp": "トリックスター・キャロベイン",
     "name_jp_rom": "Torikkusutā Kyarobein",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP141",
+            "set": "V Jump February 2018 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "19SP-JP602",
+            "set": "Special Pack 20th Anniversary Edition Vol.6",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP046",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +114,6 @@
             "Requires control of no monsters",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "58344049-b704-41ae-99c0-af9cb6f53a86",
+    "yid": 59546528,
     "password": "59546528",
     "kid": 9110,
     "name": "Dance Princess of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>舞</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>ひめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hyōkekkai no Maihime",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP033",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD40-JP012",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP028",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +117,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

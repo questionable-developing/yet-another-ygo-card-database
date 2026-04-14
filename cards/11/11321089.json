@@ -1,12 +1,14 @@
 {
     "cid": "4b8c5c45-28c5-4feb-8535-c65cc5d0dcb6",
-    "yid": null,
+    "yid": 11321089,
     "password": "11321089",
     "kid": 16845,
     "name": "Guardian Chimera",
     "name_jp": "ガーディアン・キマイラ",
     "name_jp_rom": "Gādian Kimaira",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +68,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP040",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JP040",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JPS08",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        },
+        {
+            "sid": "25DB-JP027",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,7 +147,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

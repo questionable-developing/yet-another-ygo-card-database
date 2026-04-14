@@ -1,11 +1,14 @@
 {
     "cid": "274f7e6d-c59b-401f-8cf9-11348d43db4a",
+    "yid": 63410069,
     "password": "63410069",
     "kid": 14893,
     "name": "Desert Locusts",
     "name_jp": "<ruby lang=\"jp\"><rb>砂漠の飛蝗賊</rb><rp> (</rp><rt>デザート・ローカスト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dezāto Rōkasuto",
+    "name_jp_rom_base": "Sabaku no Battazoku",
     "name_jp_tl": "Desert Locust",
+    "name_jp_tl_base": "Locust Bandit of the Desert",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP063",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Once per Chain",
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

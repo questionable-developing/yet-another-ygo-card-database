@@ -1,11 +1,14 @@
 {
     "cid": "a56692d6-7a62-4406-813d-3f39ace5bb99",
+    "yid": 86039057,
     "password": "86039057",
     "kid": 10027,
     "name": "Tasuke Knight",
     "name_jp": "タスケナイト",
     "name_jp_rom": "Tasukenaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -66,6 +69,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP004",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "ST13-JP017",
+            "set": "Starter Deck 2013",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL17",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +126,6 @@
             "Only once per Duel",
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

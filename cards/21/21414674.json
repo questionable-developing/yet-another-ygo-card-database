@@ -1,12 +1,14 @@
 {
     "cid": "7baae3b7-cfbb-432d-9c5d-cec8bd30c688",
-    "yid": null,
+    "yid": 21414674,
     "password": "21414674",
     "kid": 11192,
     "name": "Prominence Hand",
     "name_jp": "プロミネンス・ハンド",
     "name_jp_rom": "Purominensu Hando",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP047",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

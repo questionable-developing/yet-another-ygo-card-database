@@ -1,11 +1,14 @@
 {
     "cid": "add91860-0e44-4a1f-859c-cc2b9e00cc4d",
+    "yid": 85346853,
     "password": "85346853",
     "kid": 10931,
     "name": "Paladin of Photon Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>光子竜の聖騎士</rb><rp> (</rp><rt>ナイト・オブ・フォトンドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naito Obu Foton Doragon",
+    "name_jp_rom_base": "Kōshiryū no Seikishi",
     "name_jp_tl": "Knight of Photon Dragon",
+    "name_jp_tl_base": "Holy Knight of Photon Dragon",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "LVAL-EN045",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP045",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Rare": []
@@ -83,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

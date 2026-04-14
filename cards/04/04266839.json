@@ -1,12 +1,14 @@
 {
     "cid": "29c8a598-7993-4218-a2b0-4696ea177d27",
-    "yid": null,
+    "yid": 4266839,
     "password": "04266839",
     "kid": 4976,
     "name": "Kiseitai",
     "name_jp": "<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>寄</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seishin Kiseitai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mental Parasite",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CA-47",
+            "set": "Curse of Anubis (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-131",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE1-JP093",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE01-JP085",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +121,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

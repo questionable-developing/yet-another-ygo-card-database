@@ -1,11 +1,14 @@
 {
     "cid": "d0f40cb8-5317-4f06-83ef-69163ef1aa59",
+    "yid": 52286175,
     "password": "52286175",
     "kid": 8000,
     "name": "Trap Reactor・Y FI",
     "name_jp": "トラップ・リアクター・<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>ダブルアール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Torappu Riakutā Daburu Āru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trap Reactor RR",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP013",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP076",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

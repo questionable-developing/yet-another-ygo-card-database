@@ -1,11 +1,14 @@
 {
     "cid": "a48c0d5a-9fd1-4a18-99d0-e9a4a6db7b78",
+    "yid": 96030710,
     "password": "96030710",
     "kid": 20200,
     "name": "Centur-Ion Atrii",
     "name_jp": "<ruby lang=\"jp\"><rb>竜騎士</rb><rp> (</rp><rt>センチュリオン</rt><rp>)</rp></ruby>アトリィ",
     "name_jp_rom": "Senchurion Atoryi",
+    "name_jp_rom_base": "Ryūkishi Atoryi",
     "name_jp_tl": "Centurion Atrii",
+    "name_jp_tl_base": "Dragon Knight Atrii",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP021",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "INFO-JP021",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

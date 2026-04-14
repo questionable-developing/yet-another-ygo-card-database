@@ -1,11 +1,14 @@
 {
     "cid": "38f4a899-6ecb-489c-b31a-10bbdc4f8cdd",
+    "yid": 95658967,
     "password": "95658967",
     "kid": 12539,
     "name": "Ritual Sanctuary",
     "name_jp": "<ruby lang=\"jp\"><rb>祝</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>福</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>教</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>会</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>－リチューアル・チャーチ",
     "name_jp_rom": "Shukufuku no Kyōkai - Richūaru Chāchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Church of Blessing - Ritual Church",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPF1-JP016",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP21-JP022",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "23TP-JP402",
+            "set": "Tournament Pack 2023 Vol.4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP402",
+            "set": "Top Prize Pack 2023 Vol.4",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +134,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

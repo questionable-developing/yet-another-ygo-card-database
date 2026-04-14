@@ -1,11 +1,14 @@
 {
     "cid": "e0e4d6df-daec-42b7-9d7a-3796a3043351",
+    "yid": 72819261,
     "password": "72819261",
     "kid": 13576,
     "name": "Elementsaber Malo",
     "name_jp": "エレメントセイバー・マロー",
     "name_jp_rom": "Erementoseibā Marō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "FLOD-EN022",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP022",
             "set": "Flames of Destruction",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

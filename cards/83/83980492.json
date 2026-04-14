@@ -1,11 +1,14 @@
 {
     "cid": "8cf6b35f-1300-4884-845d-bbb505dde732",
+    "yid": 83980492,
     "password": "83980492",
     "kid": 11658,
     "name": "Dragong",
     "name_jp": "<ruby lang=\"jp\"><rb>銅</rb><rp> (</rp><rt>ド</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鑼</rb><rp> (</rp><rt>ラ</rt><rp>)</rp></ruby>ドラゴン",
     "name_jp_rom": "Dora Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gong Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JF15-JP007",
+            "set": "Jump Festa 2015 - Promotion Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DF16-JP002",
+            "set": "Duelist Festival 2016 - Promotion Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -66,5 +85,6 @@
         "misc": [
             "No Pendulum Effects"
         ]
-    }
+    },
+    "links": {}
 }

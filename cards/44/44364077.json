@@ -1,11 +1,14 @@
 {
     "cid": "7a85f66a-5941-4e8a-b3cc-1ddaa280a20b",
+    "yid": 44364077,
     "password": "44364077",
     "kid": 11331,
     "name": "Performapal Salutiger",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ヘイタイガー",
     "name_jp_rom": "Entameito Heitaigā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Soldier Tiger",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VE11-JP004",
+            "set": "V Jump Edition Pendulum Victory Pack",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD29-JP010",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

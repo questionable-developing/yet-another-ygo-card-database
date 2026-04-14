@@ -1,12 +1,14 @@
 {
     "cid": "a4326e76-fdef-4553-ae16-e8427ddadcac",
-    "yid": null,
+    "yid": 28645123,
     "password": "28645123",
     "kid": 16037,
     "name": "A.I. Challenge You",
     "name_jp": "<ruby lang=\"jp\"><rb>果</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby>たし－<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Hatashi-Ai-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "F-Ai-ght",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "LIOV-EN076",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP076",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -83,5 +94,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

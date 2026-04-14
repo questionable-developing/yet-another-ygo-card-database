@@ -1,11 +1,14 @@
 {
     "cid": "21ae3811-f0fb-4f09-820d-637138aec5d0",
+    "yid": 55051920,
     "password": "55051920",
     "kid": 13958,
     "name": "Orcustrated Core",
     "name_jp": "オルフェゴール・コア",
     "name_jp_rom": "Orufegōru Koa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Core",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SOFU-EN071",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP071",
             "set": "Soul Fusion",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

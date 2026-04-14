@@ -1,12 +1,14 @@
 {
     "cid": "f0238c96-3f16-420c-8f7b-94fb22ace166",
-    "yid": null,
+    "yid": 27699122,
     "password": "27699122",
     "kid": 15473,
     "name": "Toon Page-Flip",
     "name_jp": "トゥーン・フリップ",
     "name_jp_rom": "Tūn Furippu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Toon Flip",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP004",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

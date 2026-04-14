@@ -1,12 +1,14 @@
 {
     "cid": "fd2b3bdb-5cda-4792-8e37-320d4336cda6",
-    "yid": null,
+    "yid": 29599813,
     "password": "29599813",
     "kid": 18012,
     "name": "Purrely Pretty Memory",
     "name_jp": "ピュアリィ・プリティメモリー",
     "name_jp_rom": "Pyuaryi Puriti Memorī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -19,10 +21,10 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Each player gains 1000 LP, then you can apply the following effect.<br /> ● Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.<br />A \"Purrely\" Xyz Monster that has this card as material gains the following effect.<br />● Once per turn: You can send 1 other card you control to the GY, then target 1 card your opponent controls; attach it to this card as material.",
+    "desc": "Each player gains 1000 LP, then you can apply the following effect.<br /> ● Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.<br />A \"Purrely\" Xyz Monster that has this card as material gains the following effect.<br />● Once per turn: You can send 1 other card you control to the GY, then target 1 card your opponent controls; attach it to this card.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Each player gains 1000 LP, then you can apply the following effect.\n ● Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\n● Once per turn: You can send 1 other card you control to the GY, then target 1 card your opponent controls; attach it to this card as material.",
+    "eff": "Each player gains 1000 LP, then you can apply the following effect.\n ● Discard 1 card, and if you do, Special Summon 1 Level 1 \"Purrely\" monster from your Deck.\nA \"Purrely\" Xyz Monster that has this card as material gains the following effect.\n● Once per turn: You can send 1 other card you control to the GY, then target 1 card your opponent controls; attach it to this card.",
     "flavor": null,
     "images": {
         "1": {
@@ -32,31 +34,58 @@
         },
         "2": {
             "idx": "2",
-            "full": "PurrelyPrettyMemory-LPST-JP-OP.png",
+            "full": "PurrelyPrettyMemory-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "AMDE-EN022",
             "set": "Amazing Defenders",
             "rarities": {
-                "Ultra Rare": [],
-                "Collector's Rare": []
+                "Ultra Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "RA02-EN072",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN120",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP022",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP038",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -101,5 +130,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

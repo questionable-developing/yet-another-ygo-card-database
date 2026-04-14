@@ -1,12 +1,14 @@
 {
     "cid": "0b2ea5bc-5803-4399-94da-affcca561114",
-    "yid": null,
+    "yid": 35622739,
     "password": "35622739",
     "kid": 17422,
     "name": "Gem-Knight Quartz",
     "name_jp": "ジェムナイト・クォーツ",
     "name_jp_rom": "Jemunaito Kwōtsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP020",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW02-JP052",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

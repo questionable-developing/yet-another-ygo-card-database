@@ -1,11 +1,14 @@
 {
     "cid": "00908365-ebcc-4fde-9bd4-8fa980a5962b",
+    "yid": 93104632,
     "password": "93104632",
     "kid": 13277,
     "name": "One-Time Passcode",
     "name_jp": "ワンタイム・パスコード",
     "name_jp_rom": "Wantaimu Pasukōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP061",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP025",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

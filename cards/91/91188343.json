@@ -1,11 +1,14 @@
 {
     "cid": "abfd4eb3-9f59-4323-a8e9-5f8fba6d2445",
+    "yid": 91188343,
     "password": "91188343",
     "kid": 9288,
     "name": "The Agent of Mystery - Earth",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>秘</rb><rp> (</rp><rt>ぴ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby> アース",
     "name_jp_rom": "Shinpi no Daikōsha Āsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +62,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD20-JP002",
+            "set": "Structure Deck: Lost Sanctuary",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR12-JPP04",
+            "set": "Structure Deck R: Lost Sanctuary Arrival of the Sun God Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +117,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

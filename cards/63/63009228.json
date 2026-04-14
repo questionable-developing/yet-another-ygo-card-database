@@ -1,11 +1,14 @@
 {
     "cid": "9dc758bc-8e3a-4157-a7a7-bcd69f8dd436",
+    "yid": 63009228,
     "password": "63009228",
     "kid": 14449,
     "name": "Rescue Interlacer",
     "name_jp": "レスキュー・インターレーサー",
     "name_jp_rom": "Resukyū Intārēsā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RIRA-EN001",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP001",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

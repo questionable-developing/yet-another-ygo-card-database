@@ -1,12 +1,14 @@
 {
     "cid": "bbc16606-c1cc-4c6f-9cba-e39136613754",
-    "yid": null,
+    "yid": 12210097,
     "password": "12210097",
     "kid": 21352,
     "name": "Mitsurugi Sacred Boundary",
-    "name_jp": "<ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>ノ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>磐境</rb><rp> (</rp><rt>イワサカ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>巳剣之磐境</rb><rp> (</rp><rt>ミツルギノイワサカ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mitsurugi no Iwasaka",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword Shrine",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsurugiSacredBoundary-ALIN-EN-C-1E.png",
+            "full": "MitsurugiSacredBoundary-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -36,6 +38,22 @@
         {
             "sid": "ALIN-EN095",
             "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENM18",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP040",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -79,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "44117ef2-afc9-4724-baeb-6d7c177b5688",
+    "yid": 54351224,
     "password": "54351224",
     "kid": 6139,
     "name": "Ritual Weapon",
     "name_jp": "リチュアル・ウェポン",
     "name_jp_rom": "Richuaru Wepon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP048",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Short Print": []
+            }
+        },
+        {
+            "sid": "EE3-JP048",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
             "Requires control of specific Level",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

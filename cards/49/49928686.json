@@ -1,11 +1,14 @@
 {
     "cid": "36ca2efc-3315-4717-bfe8-8a3f30cc3f81",
+    "yid": 49928686,
     "password": "49928686",
     "kid": 17407,
     "name": "Spright Pixies",
     "name_jp": "スプライト・ピクシーズ",
     "name_jp_rom": "Supuraito Pikushīzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +48,22 @@
         {
             "sid": "BLTR-EN077",
             "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP005",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP123",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -90,5 +109,6 @@
             "Requires control of specific Link Rating",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3e8d82d3-2fb6-46af-9138-ea03c662e6f9",
+    "yid": 80959027,
     "password": "80959027",
     "kid": 13395,
     "name": "Mythical Beast Bashilisk",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> バジリスク",
     "name_jp_rom": "Majikku Bīsuto Bajirisuku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Beast Basilisk",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -41,6 +44,15 @@
             "set": "Extreme Force",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP025",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

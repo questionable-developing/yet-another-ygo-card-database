@@ -6,7 +6,9 @@
     "name": "Slifer the Sky Dragon",
     "name_jp": "オシリスの<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Oshirisu no Tenkūryū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Sky Dragon of Osiris",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DIVINE",
     "pend": false,
@@ -45,117 +47,227 @@
         },
         "4": {
             "idx": "4",
-            "full": "SlifertheSkyDragon-LPST-JP-OP.png",
+            "full": "SlifertheSkyDragon-RA05-EN-UR-1E.png",
             "art": null
+        },
+        "5": {
+            "idx": "5",
+            "full": "SlifertheSkyDragon-AW02-JP-UR.png",
+            "art": "SlifertheSkyDragon-OW-3.png"
         }
     },
-    "image": "1",
+    "image": "4",
     "sets": [
         {
             "sid": "BP02-EN127",
             "set": "Battle Pack 2: War of the Giants",
             "rarities": {
-                "Mosaic Rare": []
+                "Mosaic Rare": ["1"]
             }
         },
         {
             "sid": "PGLD-EN032",
             "set": "Premium Gold",
             "rarities": {
-                "Gold Secret Rare": []
+                "Gold Secret Rare": ["1"]
             }
         },
         {
             "sid": "MVP1-EN057",
             "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["3"]
             }
         },
         {
             "sid": "CT13-EN001",
             "set": "2016 Mega-Tins",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "LDK2-ENS01",
             "set": "Legendary Decks II",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MVP1-ENG57",
             "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["3"]
             }
         },
         {
             "sid": "TN19-EN008",
             "set": "2019 Gold Sarcophagus Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["2"]
             }
         },
         {
             "sid": "MVP1-ENSV6",
             "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["3"]
             }
         },
         {
             "sid": "MVP1-ENS57",
             "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["3"]
             }
         },
         {
             "sid": "SBCB-EN201",
             "set": "Speed Duel: Battle City Box",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "EGS1-EN001",
             "set": "Egyptian God Deck: Slifer the Sky Dragon",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "KICO-EN063",
             "set": "King's Court",
             "rarities": {
-                "Ultra Rare (Pharaoh's Rare)": []
+                "Ultra Rare (Pharaoh's Rare)": ["1"]
             }
         },
         {
             "sid": "SBC1-ENH01",
             "set": "Speed Duel: Streets of Battle City",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "RA03-EN244",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["3"],
+                "Quarter Century Secret Rare": ["3"]
             }
         },
         {
             "sid": "RA04-EN117",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN128",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Starlight Rare": ["4"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP064",
+            "set": "V Jump February 2012 promotional card",
+            "rarities": {
+                "Ultra Rare": ["2"]
+            }
+        },
+        {
+            "sid": "GS06-JP003",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Gold Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "15AX-JPY57",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "Millennium Rare": ["1"]
+            }
+        },
+        {
+            "sid": "MB01-JPS01",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "VJMP-JP116",
+            "set": "V Jump July 2016 promotional card",
+            "rarities": {
+                "Kaiba Corporation Rare": ["3"]
+            }
+        },
+        {
+            "sid": "20DS-JP002",
+            "set": "20th Anniversary Duel Set (Slifer the Sky Dragon)",
+            "rarities": {
+                "20th Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "PGB1-JPS01",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PAC1-JP001",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Prismatic Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "VP23-JP001",
+            "set": "Quarter Century Anniversary Selection",
+            "rarities": {
+                "Quarter Century Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "QCCU-JP200",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP046",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Secret Rare": ["4"],
+                "Prismatic Secret Rare": ["4"]
+            }
+        },
+        {
+            "sid": "AW02-JP001",
+            "set": "Artwork Series Hanging Scrolls",
+            "rarities": {
+                "Prismatic Secret Rare": ["5"]
+            }
+        },
+        {
+            "sid": "AW02-JPM01",
+            "set": "Artwork Series Mini Hanging Scrolls: Egyptian Gods",
+            "rarities": {
+                "Ultra Rare": ["5"]
             }
         }
     ],
@@ -174,7 +286,8 @@
         "asuparc": [],
         "rel": [
             "Duel winner",
-            "Signature move"
+            "Signature move",
+            "Raigeki (series)"
         ],
         "counter": [],
         "action": [
@@ -203,6 +316,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

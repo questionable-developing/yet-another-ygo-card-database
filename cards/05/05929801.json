@@ -1,12 +1,14 @@
 {
     "cid": "230c4137-aa6f-4f0a-b045-a2eb54b0caa8",
-    "yid": null,
+    "yid": 5929801,
     "password": "05929801",
     "kid": 11797,
     "name": "Raidraptor - Fuzzy Lanius",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ファジー・レイニアス",
     "name_jp_rom": "Reido Raputāzu - Fajī Reiniasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Fuzzy Lanius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP013",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPWR-JP017",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

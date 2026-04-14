@@ -1,12 +1,14 @@
 {
     "cid": "58f3f5c6-9cdd-4cae-ab6a-6b8660c07f20",
-    "yid": null,
+    "yid": 21790410,
     "password": "21790410",
     "kid": 9893,
     "name": "Inzektor Centipede",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> センチピード",
     "name_jp_rom": "Inzekutā Senchipīdo",
+    "name_jp_rom_base": "Kōchūsōki Senchipīdo",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Centipede",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP019",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP1-JP028",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +113,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

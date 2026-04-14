@@ -1,12 +1,14 @@
 {
     "cid": "05c9750a-6d84-49c2-96d6-7543f1a606a7",
-    "yid": null,
+    "yid": 18325492,
     "password": "18325492",
     "kid": 6385,
     "name": "Gyroid",
     "name_jp": "ジャイロイド",
     "name_jp_rom": "Jairoido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -103,6 +105,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP007",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CRV-JP007",
+            "set": "Cybernetic Revolution: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP007",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -132,5 +157,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

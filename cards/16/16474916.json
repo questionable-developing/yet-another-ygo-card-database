@@ -1,12 +1,14 @@
 {
     "cid": "a227fcb5-d000-4e4e-9e07-e6cb789c5cee",
-    "yid": null,
+    "yid": 16474916,
     "password": "16474916",
     "kid": 16736,
     "name": "Exosister Elis",
     "name_jp": "エクソシスター・エリス",
     "name_jp_rom": "Ekusoshisutā Erisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -56,6 +58,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP013",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB02",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

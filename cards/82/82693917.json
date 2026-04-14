@@ -1,11 +1,14 @@
 {
     "cid": "1c872faf-da3e-45aa-b945-6045c5da6968",
+    "yid": 82693917,
     "password": "82693917",
     "kid": 8444,
     "name": "Fortune Lady Wind",
     "name_jp": "フォーチュンレディ・ウインディー",
     "name_jp_rom": "Fōchun Redi Uindī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Lady Windy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -29,17 +32,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyWind-DE04-JP-C.jpg",
+            "art": "FortuneLadyWind-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyWind-SOVR-EN-R-1E.jpg",
-            "art": null
+            "art": "FortuneLadyWind-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN009",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP009",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP047",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -79,5 +103,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

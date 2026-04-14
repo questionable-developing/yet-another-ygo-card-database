@@ -1,11 +1,14 @@
 {
     "cid": "00607a9a-fc9d-421b-beb3-3287f496afba",
+    "yid": 40844552,
     "password": "40844552",
     "kid": 9308,
     "name": "Valkyrie of the Nordic Ascendant",
     "name_jp": "<ruby lang=\"jp\"><rb>極</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>ヴァルキュリア",
     "name_jp_rom": "Kyokuseiten Varukyuria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Polar Star Angel Valkyrja",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP017",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP043",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +124,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

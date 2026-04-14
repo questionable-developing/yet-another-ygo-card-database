@@ -1,11 +1,14 @@
 {
     "cid": "187f9d21-aaa0-4cc4-a8e8-12b96e168c6a",
+    "yid": 63995093,
     "password": "63995093",
     "kid": 5498,
     "name": "Machine Duplication",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>複</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>製</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikai Fukuseijutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machine Duplication Technique",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -119,6 +122,71 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP041",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP101",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD10-JP029",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD18-JP027",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP029",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "18TP-JP202",
+            "set": "Tournament Pack 2018 Vol.2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP032",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP208",
+            "set": "Tournament Pack 2024 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA15",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -149,5 +217,6 @@
             "Requires control of specific Type",
             "Requires control of specific ATK"
         ]
-    }
+    },
+    "links": {}
 }

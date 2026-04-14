@@ -1,11 +1,14 @@
 {
     "cid": "e1cc6bc3-486b-48ef-bb86-e739214f82b1",
+    "yid": 53865474,
     "password": "53865474",
     "kid": 16107,
     "name": "Ursarctic Slider",
     "name_jp": "ベアルクティ・スライダー",
     "name_jp_rom": "Bearukuti Suraidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bearcti Slider",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAG-JP037",
+            "set": "Deck-Build Pack: Ancient Guardians",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -63,7 +76,7 @@
             "Destroys your Monster Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard",
             "Restricts the player's Special Summons to Level specific monsters"
         ],
@@ -77,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

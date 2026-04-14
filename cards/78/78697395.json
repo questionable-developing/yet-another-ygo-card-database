@@ -1,11 +1,14 @@
 {
     "cid": "4783b804-0cf2-4349-9dcc-8de48cc637db",
+    "yid": 78697395,
     "password": "78697395",
     "kid": 6061,
     "name": "The Third Sarcophagus",
     "name_jp": "<ruby lang=\"jp\"><rb>第</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>三</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>棺</rb><rp> (</rp><rt>ひつぎ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daisan no Hitsugi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-044",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP212",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

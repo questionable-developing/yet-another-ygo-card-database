@@ -1,11 +1,14 @@
 {
     "cid": "fd32814b-5bf6-4d4f-8ec1-0fb838be8283",
+    "yid": 63741331,
     "password": "63741331",
     "kid": 7304,
     "name": "Fog Control",
     "name_jp": "フォッグ・コントロール",
     "name_jp_rom": "Foggu Kontorōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP051",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

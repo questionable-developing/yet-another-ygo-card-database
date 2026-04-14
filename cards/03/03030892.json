@@ -1,12 +1,14 @@
 {
     "cid": "43b1809c-de57-4547-9a0d-d756e3cf8095",
-    "yid": null,
+    "yid": 3030892,
     "password": "03030892",
     "kid": 7290,
     "name": "Test Ape",
     "name_jp": "スレイブ・エイプ",
     "name_jp_rom": "Sureibu Eipu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Slave Ape",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "GLAS-EN025",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP025",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

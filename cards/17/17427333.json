@@ -1,12 +1,14 @@
 {
     "cid": "a8600099-266c-4a67-b245-085e93befe69",
-    "yid": null,
+    "yid": 17427333,
     "password": "17427333",
     "kid": 15769,
     "name": "E.M.R.",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ．Ｍ．Ｒ．</rb><rp> (</rp><rt>エレクトロ・マグネティック・レールガン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Erekutoro Magunetikku Rērugan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Electro-Magnetic Railgun",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP078",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

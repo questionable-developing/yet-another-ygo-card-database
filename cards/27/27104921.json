@@ -1,12 +1,14 @@
 {
     "cid": "3e6c5d84-da14-4497-8c35-cb5bac94d7e8",
-    "yid": null,
+    "yid": 27104921,
     "password": "27104921",
     "kid": 17265,
     "name": "Forge a New Future",
     "name_jp": "<ruby lang=\"jp\"><rb>運</rb><rp> (</rp><rt>うん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>囚</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Unmei no Shūjin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prisoner of Destiny",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -45,6 +47,18 @@
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "HC01-JP046",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -87,7 +101,9 @@
             "Once per Chain",
             "Requires control of specific Link Rating",
             "Variable effects",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

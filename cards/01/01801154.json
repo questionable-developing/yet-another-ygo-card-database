@@ -1,12 +1,14 @@
 {
     "cid": "16801d88-5ee8-427c-9e1d-95f58225684d",
-    "yid": null,
+    "yid": 1801154,
     "password": "01801154",
     "kid": 6271,
     "name": "Centrifugal Field",
     "name_jp": "<ruby lang=\"jp\"><rb>遠</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>心</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>分</rb><rp> (</rp><rt>ぶん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>離</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby>フィールド",
     "name_jp_rom": "Enshinbunri Fīrudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP045",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP165",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +103,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "81419cde-ab4f-4d41-9e9b-5e2a7e7c30c4",
+    "yid": 51085303,
     "password": "51085303",
     "kid": 6866,
     "name": "Elemental HERO Poison Rose",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ブルーメ",
     "name_jp_rom": "Erementaru Hīrō Burūme",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Blume",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ElementalHEROPoisonRose-PP10-JP-ScR.png",
+            "art": "ElementalHEROPoisonRose-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ElementalHEROPoisonRose-LCGX-EN-R-1E.png",
-            "art": null
+            "art": "ElementalHEROPoisonRose-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PP02-EN006",
@@ -48,6 +56,15 @@
             "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PP10-JP003",
+            "set": "Premium Pack 10",
+            "rarities": {
+                "Secret Rare": []
             }
         }
     ],
@@ -95,5 +112,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

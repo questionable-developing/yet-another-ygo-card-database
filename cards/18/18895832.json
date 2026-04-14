@@ -1,12 +1,14 @@
 {
     "cid": "d5adc761-1a04-4827-a757-d974a725fa39",
-    "yid": null,
+    "yid": 18895832,
     "password": "18895832",
     "kid": 6434,
     "name": "System Down",
     "name_jp": "システム・ダウン",
     "name_jp_rom": "Shisutemu Daun",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -63,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP041",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP041",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c801e74f-7406-4da2-8eb6-d4e39067906b",
+    "yid": 70147689,
     "password": "70147689",
     "kid": 12680,
     "name": "Ancient Gear Fortress",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械要塞</rb><rp> (</rp><rt>アンティーク・ギアフォートレス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Fōtoresu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Fortress",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -58,6 +61,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR03-JP022",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP123",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

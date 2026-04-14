@@ -1,12 +1,14 @@
 {
     "cid": "34062c8a-b78c-457e-892e-0f4077ba1a0f",
-    "yid": null,
+    "yid": 14094090,
     "password": "14094090",
     "kid": 12000,
     "name": "Super Soldier Ritual",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōsenshi no Gishiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP056",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +109,6 @@
             "Only once per turn",
             "Nonspecific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

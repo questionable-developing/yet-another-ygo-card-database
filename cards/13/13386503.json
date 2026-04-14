@@ -1,12 +1,14 @@
 {
     "cid": "70d9d601-50ae-436d-ae15-af930f4e3d51",
-    "yid": null,
+    "yid": 13386503,
     "password": "13386503",
     "kid": 6033,
     "name": "Ghost Knight of Jackal",
     "name_jp": "ジャッカルの<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jakkaru no Reikishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-016",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Ultra Parallel Rare": [],
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "EE2-JP184",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

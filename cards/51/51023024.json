@@ -1,11 +1,14 @@
 {
     "cid": "20214223-97dc-4f1c-84b9-a0e721072980",
+    "yid": 51023024,
     "password": "51023024",
     "kid": 14965,
     "name": "Reeshaddoll Wendi",
     "name_jp": "<ruby lang=\"jp\"><rb>影霊の翼</rb><rp> (</rp><rt>リーシャドール</rt><rp>)</rp></ruby> ウェンディ",
     "name_jp_rom": "Rīshadōru Wendi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Shadow Spirit Wings Wendi",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD37-JP002",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP071",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +112,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

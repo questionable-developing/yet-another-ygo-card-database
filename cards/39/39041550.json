@@ -1,11 +1,14 @@
 {
     "cid": "84519927-6fe4-4e3b-987d-dcdfaca9744e",
+    "yid": 39041550,
     "password": "39041550",
     "kid": 16629,
     "name": "Beetrooper Scale Bomber",
     "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫</rb><rp> (</rp><rt>ビートルーパー</rt><rp>)</rp></ruby>スケイル・ボム",
     "name_jp_rom": "Bītorūpā Sukeiru Bomu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beetrooper Scale Bomb",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP002",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

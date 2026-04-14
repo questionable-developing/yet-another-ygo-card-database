@@ -1,11 +1,14 @@
 {
     "cid": "560b7f9b-156e-4962-9ad7-9f3654b26387",
+    "yid": 46271408,
     "password": "46271408",
     "kid": 14871,
     "name": "Sky Striker Maneuver - Scissors Cross",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>－シザーズクロス",
     "name_jp_rom": "Sentōjutsushiki - Shizāzu Kurosu",
-    "name_jp_tl": "Flash Sword Skill - Scissors Cross",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Flash Sword Technique - Scissors Cross",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,10 +50,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP062",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20YJ-JPN01",
+            "set": "Sky Striker Ace Duel Set 2",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP054",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [
@@ -82,5 +110,6 @@
         "misc": [
             "Requires control of no monsters in the Main Monster Zone"
         ]
-    }
+    },
+    "links": {}
 }

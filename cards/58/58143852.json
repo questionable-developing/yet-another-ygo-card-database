@@ -1,11 +1,14 @@
 {
     "cid": "a81b40f1-c2b3-4ba9-91b7-38a4611dc7ca",
+    "yid": 58143852,
     "password": "58143852",
     "kid": 19870,
     "name": "Nightmare Apprentice",
     "name_jp": "<ruby lang=\"jp\"><rb>幻惑の見習い魔術師</rb><rp> (</rp><rt>ナイトメア・アプレンティス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naitomea Apurentisu",
+    "name_jp_rom_base": "Genwaku no Minarai Majutsushi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Entrancement Apprentice Magician",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,24 +33,65 @@
         "1": {
             "idx": "1",
             "full": "NightmareApprentice-MP25-EN-StR-1E.png",
+            "art": "NightmareApprentice-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "NightmareApprentice-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "LEDE-EN029",
             "set": "Legacy of Destruction",
             "rarities": {
-                "Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "MP25-EN004",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN135",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP029",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LEDE-JP029",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP005",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -95,5 +139,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

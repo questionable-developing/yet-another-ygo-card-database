@@ -1,12 +1,14 @@
 {
     "cid": "0c4c0053-411d-4599-b37d-7aee990a5e2a",
-    "yid": null,
+    "yid": 19162134,
     "password": "19162134",
     "kid": 13007,
     "name": "Dueltaining",
     "name_jp": "エンタメデュエル",
     "name_jp_rom": "Entame Dyueru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entertainment Duel",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "20AP-JP060",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
             "Only once per turn",
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

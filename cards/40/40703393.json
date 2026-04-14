@@ -1,11 +1,14 @@
 {
     "cid": "f051b25d-cde0-4a00-ad9c-f354262a5214",
+    "yid": 40703393,
     "password": "40703393",
     "kid": 5313,
     "name": "The Puppet Magic of Dark Ruler",
     "name_jp": "<ruby lang=\"jp\"><rb>冥</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>流</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>傀</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>儡</rb><rp> (</rp><rt>ぐつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Meikairyū Kugutsu Jutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Underworld-Style Puppet Technique",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ThePuppetMagicofDarkRuler-BE02-JP-C.jpg",
+            "art": "ThePuppetMagicofDarkRuler-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ThePuppetMagicofDarkRuler-SBCB-EN-C-1E.png",
-            "art": null
+            "art": "ThePuppetMagicofDarkRuler-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LOD-EN013",
@@ -49,6 +57,36 @@
         {
             "sid": "SBCB-EN192",
             "set": "Speed Duel: Battle City Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SC-13",
+            "set": "Struggle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL5-012",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP134",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP106",
+            "set": "Beginner's Edition 2 (2011)",
             "rarities": {
                 "Common": []
             }
@@ -83,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

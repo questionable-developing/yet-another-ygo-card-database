@@ -1,11 +1,14 @@
 {
     "cid": "8089173f-0ac6-4997-9d27-1c8c18009c0f",
+    "yid": 59120809,
     "password": "59120809",
     "kid": 17160,
     "name": "Scareclaw Tri-Heart",
     "name_jp": "スケアクロー・トライヒハート",
     "name_jp_rom": "Sukeakurō Toraihihāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scareclaw Trichheart",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +58,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP049",
+            "set": "Dimension Force",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JP049",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +120,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

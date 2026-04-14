@@ -1,11 +1,14 @@
 {
     "cid": "17beeb80-9e12-4712-8bd7-a4b3e16f6a2f",
+    "yid": 45960523,
     "password": "45960523",
     "kid": 13240,
     "name": "Metaphys Daedalus",
     "name_jp": "メタファイズ・ダイダロス",
     "name_jp_rom": "Metafaizu Daidarosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CIBR-EN024",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP024",
             "set": "Circuit Break",
             "rarities": {
                 "Rare": []
@@ -85,5 +97,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

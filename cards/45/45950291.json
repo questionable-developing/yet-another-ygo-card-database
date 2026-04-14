@@ -1,11 +1,14 @@
 {
     "cid": "990b2b58-4fd9-4b55-a2de-a389933f6deb",
+    "yid": 45950291,
     "password": "45950291",
     "kid": 10945,
     "name": "Rank-Up-Magic Astral Force",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－アストラル・フォース",
     "name_jp_rom": "Ranku Appu Majikku - Asutoraru Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +79,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP059",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP008",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "DBIC-JP044",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +145,6 @@
         "misc": [
             "Rank-Up Xyz Evolution"
         ]
-    }
+    },
+    "links": {}
 }

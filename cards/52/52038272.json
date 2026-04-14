@@ -1,11 +1,14 @@
 {
     "cid": "19bc30af-74d4-4446-8594-b6c3f65f7fc4",
+    "yid": 52038272,
     "password": "52038272",
     "kid": 11534,
     "name": "Infernoid Harmadik",
     "name_jp": "インフェルノイド・ルキフグス",
     "name_jp_rom": "Inferunoido Rukifugusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infernoid Lucifugus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP014",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP102",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +126,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

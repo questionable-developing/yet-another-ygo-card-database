@@ -1,11 +1,14 @@
 {
     "cid": "5f7e20a1-b097-4234-af08-12b20da01749",
+    "yid": 70645913,
     "password": "70645913",
     "kid": 13645,
     "name": "Vampire Retainer",
     "name_jp": "ヴァンパイアの<ruby lang=\"jp\"><rb>眷</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>属</rb><rp> (</rp><rt>ぞく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vanpaia no Kenzoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP002",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

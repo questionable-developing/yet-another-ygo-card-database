@@ -1,11 +1,14 @@
 {
     "cid": "56a50231-8a5a-416a-af9e-484523a100ed",
+    "yid": 40817915,
     "password": "40817915",
     "kid": 9875,
     "name": "Kurivolt",
     "name_jp": "クリボルト",
     "name_jp_rom": "Kuriboruto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP001",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ORCS-JP001",
+            "set": "Order of Chaos 2-Pack Set",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +126,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "96d21754-377b-40d5-82ed-b394d765fc5c",
-    "yid": null,
+    "yid": 32751480,
     "password": "32751480",
     "kid": 4537,
     "name": "Mystical Sand",
     "name_jp": "<ruby lang=\"jp\"><rb>砂の魔女</rb><rp> (</rp><rt>サンド・ウィッチ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sando Witchi",
+    "name_jp_rom_base": "Suna no Majo",
     "name_jp_tl": "Sand Witch",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "MysticalSand-B3-JP-C.png",
+            "art": "MysticalSand-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "MysticalSand-GFP2-EN-UR-1E.png",
-            "art": null
+            "art": "MysticalSand-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "AP01-EN019",
@@ -48,6 +55,22 @@
             "set": "Ghosts From the Past: The 2nd Haunting",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Booster 6",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "B3-33",
+            "set": "Booster R3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -80,5 +103,6 @@
         "misc": [
             "Non-Effect Monster"
         ]
-    }
+    },
+    "links": {}
 }

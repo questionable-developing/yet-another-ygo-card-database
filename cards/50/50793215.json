@@ -1,11 +1,14 @@
 {
     "cid": "786156ba-c57a-4978-91de-f801334680a4",
+    "yid": 50793215,
     "password": "50793215",
     "kid": 15028,
     "name": "Deep Sea Prima Donna",
     "name_jp": "<ruby lang=\"jp\"><rb>深</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby>プリマドーナ",
     "name_jp_rom": "Shinkaihi Purima Dōna",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deep Sea Princess Prima Donna",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +55,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP042",
+            "set": "Eternity Code",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +107,6 @@
             "Only once per turn",
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

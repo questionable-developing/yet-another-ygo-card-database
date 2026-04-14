@@ -1,11 +1,14 @@
 {
     "cid": "c0cdfc24-1d71-472e-a538-69dea7210173",
+    "yid": 79337169,
     "password": "79337169",
     "kid": 8579,
     "name": "Gauntlet Warrior",
     "name_jp": "ガントレット・ウォリアー",
     "name_jp_rom": "Gantoretto Woriā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GauntletWarrior-DP09-JP-UR.jpg",
+            "art": "GauntletWarrior-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GauntletWarrior-BP03-EN-C-1E.png",
-            "art": null
+            "art": "GauntletWarrior-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DP09-EN013",
@@ -48,6 +56,15 @@
             "rarities": {
                 "Common": [],
                 "Shatterfoil Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP09-JP013",
+            "set": "Duelist Pack: Yusei 2",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -85,5 +102,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

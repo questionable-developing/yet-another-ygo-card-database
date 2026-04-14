@@ -1,12 +1,14 @@
 {
     "cid": "2f93f3fb-1f4b-4d30-9246-b896e15792f4",
-    "yid": null,
+    "yid": 5560911,
     "password": "05560911",
     "kid": 13254,
     "name": "Destrudo the Lost Dragon's Frisson",
     "name_jp": "<ruby lang=\"jp\"><rb>亡</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>慄</rb><rp> (</rp><rt>りつ</rt><rp>)</rp></ruby>－デストルドー",
     "name_jp_rom": "Bōryū no Senritsu - Desutorudō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dead Dragon's Frisson - Destrudo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +68,53 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP038",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP016",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20TH-JPC86",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Ultra Parallel Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP017",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP117",
+            "set": "Tournament Pack 2024 Vol.1",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        },
+        {
+            "sid": "25DB-JP007",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +151,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

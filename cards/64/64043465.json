@@ -1,11 +1,14 @@
 {
     "cid": "9ea07e4f-d517-4544-859b-f33a1f96b646",
+    "yid": 64043465,
     "password": "64043465",
     "kid": 12197,
     "name": "Obliterate!!!",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神火炎砲</rb><rp> (</rp><rt>エグゾード・フレイム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Eguzōdo Fureimu",
+    "name_jp_rom_base": "Mashin Kaenhō",
     "name_jp_tl": "Exodd Flame",
+    "name_jp_tl_base": "Devil Flame Cannon",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MB01-JP003",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Gold Rare": []
+            }
+        },
+        {
+            "sid": "PGB1-JP047",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP209",
+            "set": "Tournament Pack 2024 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +110,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0ada0fb1-8397-4a1a-b77a-184576f68013",
+    "yid": 61470213,
     "password": "61470213",
     "kid": 18834,
     "name": "Altergeist Adminia",
     "name_jp": "オルターガイスト・アドミニア",
     "name_jp_rom": "Orutāgaisuto Adominia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP047",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "DUNE-JP047",
+            "set": "Duelist Nexus +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +112,6 @@
             "Once while face-up on the field",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

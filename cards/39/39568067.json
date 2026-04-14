@@ -1,11 +1,14 @@
 {
     "cid": "4ee739cd-750a-4270-82eb-3c661f329107",
+    "yid": 39568067,
     "password": "39568067",
     "kid": 16752,
     "name": "Fateful Adventure",
     "name_jp": "<ruby lang=\"jp\"><rb>運</rb><rp> (</rp><rt>うん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>旅</rb><rp> (</rp><rt>たび</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>路</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Unmei no Tabiji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -31,25 +34,51 @@
         },
         "2": {
             "idx": "2",
-            "full": "FatefulAdventure-LPST-JP-OP.png",
+            "full": "FatefulAdventure-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "GRCR-EN029",
             "set": "The Grand Creators",
             "rarities": {
-                "Ultra Rare": [],
-                "Collector's Rare": []
+                "Ultra Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "MP23-EN268",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN119",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP029",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP037",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -95,5 +124,6 @@
             "Mentions",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

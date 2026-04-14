@@ -1,12 +1,14 @@
 {
     "cid": "8f33ec79-cab4-41bf-b813-974d7ed62b29",
-    "yid": null,
+    "yid": 27664101,
     "password": "27664101",
     "kid": 13284,
     "name": "Link Restart",
     "name_jp": "リンク・リスタート",
     "name_jp_rom": "Rinku Risutāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP068",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

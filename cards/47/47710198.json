@@ -1,11 +1,14 @@
 {
     "cid": "17033fef-c617-401c-8963-f14b62de5e27",
+    "yid": 47710198,
     "password": "47710198",
     "kid": 16846,
     "name": "Swordsoul Sinister Sovereign - Qixing Longyuan",
     "name_jp": "<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>七</rb><rp> (</rp><rt>シチ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>セイ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>リュウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>淵</rb><rp> (</rp><rt>エン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōkendaija - Shichisei Ryuuen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xiangjian Great Evil - Qixing Longyuan",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP041",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JP041",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP089",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +131,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

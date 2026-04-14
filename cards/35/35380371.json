@@ -1,12 +1,14 @@
 {
     "cid": "6ac6727d-f55d-4144-9a58-44343a57662b",
-    "yid": null,
+    "yid": 35380371,
     "password": "35380371",
     "kid": 19622,
     "name": "Frozen Domain of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>に<ruby lang=\"jp\"><rb>至</rb><rp> (</rp><rt>いた</rt><rp>)</rp></ruby>る<ruby lang=\"jp\"><rb>晶</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hyōkekkai ni Itaru Shōiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crystalline Domain Leading to the Ice Barrier",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,21 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TW01-JP004",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +83,7 @@
             "Places cards from the opponent's field on the bottom of the Deck",
             "Places cards from the player's Graveyard on the bottom of the Deck",
             "Places cards from the opponent's Graveyard on the bottom of the Deck",
-            "Reveals your Extra Deck"
+            "Reveals cards from your Extra Deck"
         ],
         "stat_change": [],
         "mst": [
@@ -86,5 +103,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "17250a33-c0e8-4c7e-88f8-48eb9a9349e2",
+    "yid": 78293584,
     "password": "78293584",
     "kid": 21194,
     "name": "Filia Diabell",
     "name_jp": "フィリアス・ディアベル",
     "name_jp_rom": "Firiasu Diaberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Filias Diabell",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP057",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -78,5 +90,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "bad89ef6-9303-4516-8860-9b3f9bb5e957",
+    "yid": 67171933,
     "password": "67171933",
     "kid": 21197,
     "name": "Regenesis Code",
     "name_jp": "<ruby lang=\"jp\"><rb>再世神</rb><rp> (</rp><rt>トーラ・リジェネシス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tōra Rijeneshisu",
+    "name_jp_rom_base": "Saiseishin",
     "name_jp_tl": "Torah Regenesis",
+    "name_jp_tl_base": "Regenerated World God",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP060",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +78,7 @@
         "summoning": [
             "Special Summons from your Deck",
             "Prevents the player's Special Summons from the Extra Deck",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -79,5 +91,6 @@
             "Turn limited effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

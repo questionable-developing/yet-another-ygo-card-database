@@ -1,11 +1,14 @@
 {
     "cid": "feb524c9-7496-4c93-bf31-9bb81a64c814",
+    "yid": 71345905,
     "password": "71345905",
     "kid": 10946,
     "name": "Rank-Down-Magic Numeron Fall",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＤＭ</rb><rp> (</rp><rt>ランクダウンマジック</rt><rp>)</rp></ruby>－ヌメロン・フォール",
     "name_jp_rom": "Rankudaun Majikku - Numeron Fōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "LVAL-EN060",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP060",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Rare": []
@@ -79,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

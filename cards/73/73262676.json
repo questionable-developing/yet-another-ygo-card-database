@@ -1,11 +1,14 @@
 {
     "cid": "c093ef1e-0969-4326-870a-37e2e0a06bee",
+    "yid": 73262676,
     "password": "73262676",
     "kid": 6994,
     "name": "\"A\" Cell Scatter Burst",
     "name_jp": "「<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>エー</rt><rp>)</rp></ruby>」<ruby lang=\"jp\"><rb>細</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>胞</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>散</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>布</rb><rp> (</rp><rt>ぷ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "\"Ē\" Saibō Sanpu Bakudan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "\"A\" Cell Scatter Bomb",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "STON-EN041",
             "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP041",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP100",
+            "set": "Duelist Edition Volume 1",
             "rarities": {
                 "Common": []
             }
@@ -72,5 +91,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "f6072616-8088-4aef-8db9-296ec677ea6f",
-    "yid": null,
+    "yid": 10852583,
     "password": "10852583",
     "kid": 13585,
     "name": "Yajiro Invader",
     "name_jp": "ヤジロベーダー",
     "name_jp_rom": "Yajirobēdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yajirovader",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "FLOD-EN031",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP031",
             "set": "Flames of Destruction",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
             "Limited activations",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

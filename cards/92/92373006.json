@@ -1,11 +1,14 @@
 {
     "cid": "ef7d3502-be4d-4c7b-9952-5ba6cf533a5c",
+    "yid": 92373006,
     "password": "92373006",
     "kid": 7482,
     "name": "Test Tiger",
     "name_jp": "スレイブタイガー",
     "name_jp_rom": "Sureibu Taigā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Slave Tiger",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -73,6 +76,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP015",
+            "set": "Extra Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP009",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +129,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

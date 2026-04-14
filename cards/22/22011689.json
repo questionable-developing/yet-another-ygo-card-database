@@ -1,12 +1,14 @@
 {
     "cid": "546a6211-2e1c-439f-a54e-b4ced9e40f27",
-    "yid": null,
+    "yid": 22011689,
     "password": "22011689",
     "kid": 12597,
     "name": "Predaplant Moray Nepenthes",
     "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>モーレイ・ネペンテス",
     "name_jp_rom": "Puredetā Purantsu Mōrei Nepentesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Plants Moray Nepenthes",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP007",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPFE-JP007",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +117,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e3bf1494-18ac-4bde-bdfd-a50a16887b65",
+    "yid": 89055154,
     "password": "89055154",
     "kid": 13352,
     "name": "Power Angel Valkyria",
     "name_jp": "<ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>りき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ヴァルキリア",
     "name_jp_rom": "Riki Tenshi Varukiria",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR05-JP003",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -54,7 +66,9 @@
             "Fairy"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Counter Fairy"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -73,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

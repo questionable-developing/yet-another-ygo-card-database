@@ -1,11 +1,14 @@
 {
     "cid": "6da0784b-0175-464d-bdb3-cc23f6f168fc",
+    "yid": 59750328,
     "password": "59750328",
     "kid": 5576,
     "name": "Card of Demise",
     "name_jp": "<ruby lang=\"jp\"><rb>命</rb><rp> (</rp><rt>いのち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>削</rb><rp> (</rp><rt>けず</rt><rp>)</rp></ruby>りの<ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>札</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Inochi Kezuri no Hōsatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Life-Shaving Treasure Cards",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +72,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MP01-JP017",
+            "set": "Millennium Pack (OCG)",
+            "rarities": {
+                "Millennium Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP036",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "KC01-JP046",
+            "set": "25th Anniversary Ultimate Kaiba Set",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +132,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "bd0caee8-9f43-48e9-b5f2-04ab825aec0e",
-    "yid": null,
+    "yid": 8491308,
     "password": "08491308",
     "kid": 13763,
     "name": "Sky Striker Ace - Hayate",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>－ハヤテ",
     "name_jp_rom": "Sentōki - Hayate",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flash Sword Princess - Hayate",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -33,7 +35,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SkyStrikerAceHayate-MAMA-EN-UR-1E.png",
+            "full": "SkyStrikerAceHayate-L26D-EN-C-1E.png",
             "art": "SkyStrikerAceHayate-MADU-EN-VG-artwork.png"
         },
         "2": {
@@ -42,7 +44,7 @@
             "art": "SkyStrikerAceHayate-MADU-EN-VG-artwork-2.png"
         }
     },
-    "image": "2",
+    "image": "1",
     "sets": [
         {
             "sid": "CYHO-EN047",
@@ -76,6 +78,62 @@
             "sid": "RA04-EN073",
             "set": "Quarter Century Stampede",
             "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENS27",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP047",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SEDS-JP001",
+            "set": "Sky Striker Ace Duel Set",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP087",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SSB1-JP009",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP040",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP009",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -122,5 +180,6 @@
         "misc": [
             "Once per turn"
         ]
-    }
+    },
+    "links": {}
 }

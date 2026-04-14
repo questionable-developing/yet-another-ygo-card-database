@@ -1,11 +1,14 @@
 {
     "cid": "dfe02458-f184-43a7-9cf8-c911bc737120",
+    "yid": 40921744,
     "password": "40921744",
     "kid": 7562,
     "name": "Darklord Zerato",
     "name_jp": "<ruby lang=\"jp\"><rb>堕</rb><rp> (</rp><rt>だ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ゼラート",
     "name_jp_rom": "Datenshi Zerāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fallen Angel Zerato",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -72,6 +75,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP024",
+            "set": "Extra Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SPDS-JP041",
+            "set": "Booster SP: Destiny Soldiers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +128,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

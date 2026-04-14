@@ -1,12 +1,14 @@
 {
     "cid": "dbeb329b-4d8e-451b-989d-e4938e2c90b1",
-    "yid": null,
+    "yid": 16923472,
     "password": "16923472",
     "kid": 9742,
     "name": "Wind-Up Hunter",
     "name_jp": "ゼンマイハンター",
     "name_jp_rom": "Zenmai Hantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PHSW-EN024",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP024",
             "set": "Photon Shockwave",
             "rarities": {
                 "Super Rare": []
@@ -76,5 +87,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

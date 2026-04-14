@@ -1,12 +1,14 @@
 {
     "cid": "7504039d-3f02-403c-a927-a7b5066759d3",
-    "yid": null,
+    "yid": 18168997,
     "password": "18168997",
     "kid": 15259,
     "name": "Darklord Nergal",
     "name_jp": "<ruby lang=\"jp\"><rb>堕</rb><rp> (</rp><rt>だ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ネルガル",
     "name_jp_rom": "Datenshi Nerugaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fallen Angel Nergal",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP21-EN119",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP025",
+            "set": "Rise of the Duelist",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "988053a1-5208-4ace-ba50-da00b6532391",
+    "yid": 75380687,
     "password": "75380687",
     "kid": 10325,
     "name": "Amulet Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>呪符竜</rb><rp> (</rp><rt>アミュレット・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amyuretto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +68,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP003",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP012",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,6 +104,7 @@
         "asuparc": [],
         "rel": [
             "Legendary Dragon",
+            "Timaeus (series)",
             "Dark Magician (archetype)"
         ],
         "counter": [],
@@ -113,5 +134,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

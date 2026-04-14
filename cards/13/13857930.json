@@ -1,12 +1,14 @@
 {
     "cid": "eb75d13e-0ec4-4036-8c85-3c10ebd77085",
-    "yid": null,
+    "yid": 13857930,
     "password": "13857930",
     "kid": 7441,
     "name": "Neo-Spacian Twinkle Moss",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎ</rb><rp> (</rp><rt>ネオスペーシアン</rt><rp>)</rp></ruby>・ティンクル・モス",
     "name_jp_rom": "Neosupēshian Tinkuru Mosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Neo-Spacian Tinkle Moss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
     "sets": [
         {
             "sid": "PTDN-EN042",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP042",
             "set": "Phantom Darkness",
             "rarities": {
                 "Common": []
@@ -97,5 +108,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

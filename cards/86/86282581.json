@@ -1,11 +1,14 @@
 {
     "cid": "b272a7fc-baf3-4d2f-9597-6e2fb6d7531d",
+    "yid": 86282581,
     "password": "86282581",
     "kid": 20770,
     "name": "Evil HERO Darkest Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> ダーク・ナイト",
     "name_jp_rom": "Ībiru Hīrō Dāku Naito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil HERO Dark Knight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "SUDA-EN033",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP033",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

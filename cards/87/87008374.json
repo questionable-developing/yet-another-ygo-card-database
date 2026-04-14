@@ -1,11 +1,14 @@
 {
     "cid": "e3148433-e63f-455c-8eaa-228ac89f327a",
+    "yid": 87008374,
     "password": "87008374",
     "kid": 10133,
     "name": "ZW - Phoenix Bow",
     "name_jp": "<ruby lang=\"jp\"><rb>ＺＷ</rb><rp> (</rp><rt>ゼアル・ウェポン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>不死鳥弩弓</rb><rp> (</rp><rt>フェニックス・ボウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zearu Wepon - Fenikkusu Bō",
+    "name_jp_rom_base": "Zetto Daburu - Fushichō Dokyū",
     "name_jp_tl": "Zexal Weapon - Phoenix Bow",
+    "name_jp_tl_base": "ZW - Phoenix Crossbow Bow",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN003",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP003",
             "set": "Return of the Duelist",
             "rarities": {
                 "Rare": []
@@ -90,5 +102,6 @@
             "Requires control of specific card",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

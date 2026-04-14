@@ -1,12 +1,14 @@
 {
     "cid": "d58121b6-6bbb-4722-aa4b-f042eaec1d16",
-    "yid": null,
+    "yid": 34022290,
     "password": "34022290",
     "kid": 8536,
     "name": "Guardian Eatos",
     "name_jp": "ガーディアン・エアトス",
     "name_jp_rom": "Gādian Eatosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -72,6 +74,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LE15-JP002",
+            "set": "Limited Edition 15",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CPL1-JP009",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +130,6 @@
         "misc": [
             "Requires having no monsters in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

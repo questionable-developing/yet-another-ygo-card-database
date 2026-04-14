@@ -1,12 +1,14 @@
 {
     "cid": "cfe95307-3bae-4b8d-8593-dbf188630309",
-    "yid": null,
+    "yid": 26157485,
     "password": "26157485",
     "kid": 7887,
     "name": "Iron Chain Blaster",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チェーン</rt><rp>)</rp></ruby>・シューター",
     "name_jp_rom": "Chēn Shūtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chain Shooter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "CSOC-EN019",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP019",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4679e45c-87d7-4ff5-930d-209602402f14",
+    "yid": 91534476,
     "password": "91534476",
     "kid": 16039,
     "name": "One by One",
     "name_jp": "ワン・バイ・ワン",
     "name_jp_rom": "Wan Bai Wan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP078",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +82,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

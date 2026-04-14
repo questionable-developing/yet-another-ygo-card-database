@@ -1,12 +1,14 @@
 {
     "cid": "314d7e9c-6f8a-4859-86e5-95b933229d04",
-    "yid": null,
+    "yid": 34187685,
     "password": "34187685",
     "kid": 6347,
     "name": "Double Attack",
     "name_jp": "ダブルアタック",
     "name_jp_rom": "Daburu Atakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP040",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP220",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

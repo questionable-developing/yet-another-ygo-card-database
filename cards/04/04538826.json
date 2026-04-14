@@ -1,12 +1,14 @@
 {
     "cid": "ac4f9c93-4695-4aec-b839-0eabbce4380d",
-    "yid": null,
+    "yid": 4538826,
     "password": "04538826",
     "kid": 13975,
     "name": "Chaos Emperor, the Dragon of Armageddon",
     "name_jp": "<ruby lang=\"jp\"><rb>終</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>焉</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> カオス・エンペラー",
     "name_jp_rom": "Shūenryū Kaosu Enperā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -60,6 +62,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VP18-JP004",
+            "set": "20th Anniversary Legendary Dragons",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP005",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -100,7 +118,7 @@
             "Pendulum Monsters that cannot be Pendulum Summoned",
             "Nomi",
             "Special Summons itself from your hand",
-            "Special Summons itself from your Extra Deck",
+            "Special Summons itself from your face-up Extra Deck",
             "Special Summon by its own condition once per turn"
         ],
         "attack": [],
@@ -119,5 +137,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

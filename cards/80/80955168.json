@@ -1,11 +1,14 @@
 {
     "cid": "a4332636-5043-47cb-b189-19a5f5275037",
+    "yid": 80955168,
     "password": "80955168",
     "kid": 7932,
     "name": "Trap of the Imperial Tomb",
     "name_jp": "<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>ぼ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>罠</rb><rp> (</rp><rt>わな</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōbo no Wana",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trap of the Royal Tomb",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP077",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP036",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

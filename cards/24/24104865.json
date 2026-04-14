@@ -1,12 +1,14 @@
 {
     "cid": "b491ad59-53d3-4b19-918d-2e1119ee1734",
-    "yid": null,
+    "yid": 24104865,
     "password": "24104865",
     "kid": 6805,
     "name": "Alien Mother",
     "name_jp": "エーリアン・マザー",
     "name_jp_rom": "Ērian Mazā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP028",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP022",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +105,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

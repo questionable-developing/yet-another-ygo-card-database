@@ -1,11 +1,14 @@
 {
     "cid": "33a8eab5-d8cc-4e5b-a384-df1187d0025b",
+    "yid": 46448938,
     "password": "46448938",
     "kid": 10544,
     "name": "Spellbook of Judgment",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>判</rb><rp> (</rp><rt>ぱん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Madōsho no Shinpan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Divine Judgment of the Spellbooks",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -65,6 +68,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP063",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC04-JP055",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +130,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

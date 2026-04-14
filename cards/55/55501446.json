@@ -1,11 +1,14 @@
 {
     "cid": "66d30769-b0a9-4c95-947e-b183666ab6ec",
+    "yid": 55501446,
     "password": "55501446",
     "kid": 9731,
     "name": "Lightserpent",
     "name_jp": "ライト・サーペント",
     "name_jp_rom": "Raito Sāpento",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP013",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP13-JP003",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

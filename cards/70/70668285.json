@@ -1,11 +1,14 @@
 {
     "cid": "53bc9ee9-7add-4554-a851-ac9957517dba",
+    "yid": 70668285,
     "password": "70668285",
     "kid": 10614,
     "name": "Star Seraph Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>光天使</rb><rp> (</rp><rt>ホーリー・ライトニング</rt><rp>)</rp></ruby>ソード",
     "name_jp_rom": "Hōrī Raitoningu Sōdo",
+    "name_jp_rom_base": "Kōtenshi Sōdo",
     "name_jp_tl": "Holy Lightning Sword",
+    "name_jp_tl_base": "Light Angel Sword",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "JOTL-EN011",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP011",
             "set": "Judgment of the Light",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

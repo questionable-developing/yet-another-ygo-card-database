@@ -1,12 +1,14 @@
 {
     "cid": "a5eacb4e-277a-4ab9-a962-f820a313e95b",
-    "yid": null,
+    "yid": 33280639,
     "password": "33280639",
     "kid": 12989,
     "name": "Prologue of the Destruction Swordsman",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>揺</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>籃</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakaikenshi no Yōran",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cradle of the Destruction Swordsman",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN075",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP075",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

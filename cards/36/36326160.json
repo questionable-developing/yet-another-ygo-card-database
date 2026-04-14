@@ -1,12 +1,14 @@
 {
     "cid": "213d430d-1ecb-4cc0-b0dc-0478d0b30912",
-    "yid": null,
+    "yid": 36326160,
     "password": "36326160",
     "kid": 15624,
     "name": "Live☆Twin Ki-sikil",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｌｉｖｅ☆Ｔｗｉｎ</rb><rp> (</rp><rt>ライブツイン</rt><rp>)</rp></ruby> キスキル",
     "name_jp_rom": "Raibu Tsuin Kisukiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP013",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP074",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB02",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +128,6 @@
             "Requires control of no other monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

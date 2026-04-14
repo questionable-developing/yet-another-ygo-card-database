@@ -1,11 +1,14 @@
 {
     "cid": "1d68b229-e4fb-4894-8f84-8074e2c5432e",
+    "yid": 57069605,
     "password": "57069605",
     "kid": 5793,
     "name": "Frozen Soul",
     "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tamashii no Hyōketsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Freezing of Souls",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -33,13 +36,6 @@
     "image": null,
     "sets": [
         {
-            "sid": "DCR-EN096",
-            "set": "Dark Crisis",
-            "rarities": {
-                "Common": []
-            }
-        },
-        {
             "sid": "DR1-EN258",
             "set": "Dark Revelation Volume 1",
             "rarities": {
@@ -48,7 +44,30 @@
         },
         {
             "sid": "DCR-EN096",
+            "set": "Dark Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DCR-EN096",
             "set": "Dark Crisis (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "305-043",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP258",
+            "set": "Expert Edition Volume.1",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

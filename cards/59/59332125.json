@@ -1,11 +1,14 @@
 {
     "cid": "72dbd23a-7a1e-4185-bca6-18cb434e9d2d",
+    "yid": 59332125,
     "password": "59332125",
     "kid": 14862,
     "name": "A.I. Love Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>ラブ<ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ai Rabu Yūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ai Love Fusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP21-EN024",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP053",
+            "set": "Ignition Assault",
             "rarities": {
                 "Common": []
             }
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

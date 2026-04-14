@@ -1,11 +1,14 @@
 {
     "cid": "c68dc151-9472-4ab6-a177-2549ebfff6dd",
+    "yid": 88232397,
     "password": "88232397",
     "kid": 16829,
     "name": "Skilled Brown Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>熟</rb><rp> (</rp><rt>じゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>練</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>栗</rb><rp> (</rp><rt>くり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jukuren no Kurimadōshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Skilled Chestnut Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BACH-EN024",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP024",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

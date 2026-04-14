@@ -1,12 +1,14 @@
 {
     "cid": "7d5c23aa-8da2-484e-8534-b1ba6f4d47ee",
-    "yid": null,
+    "yid": 14001430,
     "password": "14001430",
     "kid": 10191,
     "name": "Madolche Chateau",
     "name_jp": "マドルチェ・シャトー",
     "name_jp_rom": "Madoruche Shatō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP061",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP155",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "57597daa-bbc0-4096-bfed-09cd5ad2eada",
+    "yid": 80538728,
     "password": "80538728",
     "kid": 9741,
     "name": "Wind-Up Knight",
     "name_jp": "ゼンマイナイト",
     "name_jp_rom": "Zenmai Naito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP023",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +86,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

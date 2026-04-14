@@ -1,12 +1,14 @@
 {
     "cid": "c3279980-29af-4e1c-95a6-e61645d9f28d",
-    "yid": null,
+    "yid": 9839945,
     "password": "09839945",
     "kid": 16010,
     "name": "Lyna the Light Charmer, Lustrous",
     "name_jp": "<ruby lang=\"jp\"><rb>照</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>耀</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>いライナ",
     "name_jp_rom": "Shōyō no Kōreitsukai Raina",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lyna the Lustrous Light Spirit Charmer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -69,6 +71,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP049",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP049",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP191",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +142,6 @@
             "Only once per turn",
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "7e36cc55-9761-4414-92f3-98ce444fcb1d",
-    "yid": null,
+    "yid": 5088741,
     "password": "05088741",
     "kid": 21181,
     "name": "Code Igniter",
     "name_jp": "コード・イグナイター",
     "name_jp_rom": "Kōdo Igunaitā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "ALIN-EN044",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP044",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

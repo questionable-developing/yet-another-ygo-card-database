@@ -1,11 +1,14 @@
 {
     "cid": "bd1d3729-fa11-4481-8b85-308acdca8766",
+    "yid": 71612253,
     "password": "71612253",
     "kid": 11836,
     "name": "D/D/D Marksman King Tell",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狙</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>テル",
     "name_jp_rom": "Dīdīdī Sogekiō Teru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -22,10 +25,10 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "2 Level 5 monsters<br />You can also Xyz Summon this card by using a Rank 4 \"D/D/D\" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn, during either player's turn, if you took any effect damage this turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; it loses 1000 ATK and DEF, and if it does, inflict 1000 damage to your opponent. If this card is sent from the field to the Graveyard: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the Graveyard.",
+    "desc": "2 Level 5 monsters<br />You can also Xyz Summon this card by using a Rank 4 \"D/D/D\" Xyz Monster you control (transfer its materials to this card). Once per turn, if you took any effect damage this turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster on the field; it loses 1000 ATK/DEF, and if it does, inflict 1000 damage to your opponent. If this card is sent from the field to the GY: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the GY.",
     "pend_eff": null,
-    "mnst_eff": "2 Level 5 monsters\nYou can also Xyz Summon this card by using a Rank 4 \"D/D/D\" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn, during either player's turn, if you took any effect damage this turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; it loses 1000 ATK and DEF, and if it does, inflict 1000 damage to your opponent. If this card is sent from the field to the Graveyard: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the Graveyard.",
-    "eff": "2 Level 5 monsters\nYou can also Xyz Summon this card by using a Rank 4 \"D/D/D\" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn, during either player's turn, if you took any effect damage this turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; it loses 1000 ATK and DEF, and if it does, inflict 1000 damage to your opponent. If this card is sent from the field to the Graveyard: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the Graveyard.",
+    "mnst_eff": "2 Level 5 monsters\nYou can also Xyz Summon this card by using a Rank 4 \"D/D/D\" Xyz Monster you control (transfer its materials to this card). Once per turn, if you took any effect damage this turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster on the field; it loses 1000 ATK/DEF, and if it does, inflict 1000 damage to your opponent. If this card is sent from the field to the GY: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the GY.",
+    "eff": "2 Level 5 monsters\nYou can also Xyz Summon this card by using a Rank 4 \"D/D/D\" Xyz Monster you control (transfer its materials to this card). Once per turn, if you took any effect damage this turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster on the field; it loses 1000 ATK/DEF, and if it does, inflict 1000 damage to your opponent. If this card is sent from the field to the GY: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the GY.",
     "flavor": null,
     "images": {
         "1": {
@@ -35,7 +38,7 @@
         },
         "1.1": {
             "idx": "1.1",
-            "full": "DDDMarksmanKingTell-MP16-EN-R-1E.png",
+            "full": "DDDMarksmanKingTell-RA05-EN-SR-1E.png",
             "art": "DDDMarksmanKingTell-MADU-EN-VG-artwork.png"
         }
     },
@@ -53,6 +56,46 @@
             "set": "2016 Mega-Tin Mega Pack",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN047",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP052",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP033",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP084",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -104,5 +147,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

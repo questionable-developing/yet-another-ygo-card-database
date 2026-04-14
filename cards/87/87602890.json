@@ -1,11 +1,14 @@
 {
     "cid": "4c3a5704-7953-4397-adec-687d7759c43f",
+    "yid": 87602890,
     "password": "87602890",
     "kid": 11369,
     "name": "Zaborg the Mega Monarch",
     "name_jp": "<ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>ザボルグ",
     "name_jp_rom": "Gōraitei Zaborugu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Zaborg the Roaring Thunder Monarch",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -64,6 +67,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP037",
+            "set": "The New Challengers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "17SP-JP006",
+            "set": "Special Pack",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP040",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +132,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

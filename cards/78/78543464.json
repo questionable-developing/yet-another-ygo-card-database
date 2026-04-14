@@ -1,11 +1,14 @@
 {
     "cid": "3d39c934-8687-4b5c-b659-16ecfb556f82",
+    "yid": 78543464,
     "password": "78543464",
     "kid": 14875,
     "name": "Kuji-Kiri Curse",
     "name_jp": "<ruby lang=\"jp\"><rb>九</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>字</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>切</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>りの<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>符</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kujikiri no Jufu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP066",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

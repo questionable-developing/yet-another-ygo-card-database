@@ -1,11 +1,14 @@
 {
     "cid": "c037da25-a777-4c05-a4a5-f3d773d84dc2",
+    "yid": 93018428,
     "password": "93018428",
     "kid": 15252,
     "name": "Melffy Catty",
     "name_jp": "メルフィー・キャシィ",
     "name_jp_rom": "Merufī Kyashii",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP018",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP172",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4f552106-6019-48f9-8f51-aa3b5d20bb9a",
+    "yid": 93473606,
     "password": "93473606",
     "kid": 16033,
     "name": "Amaze Attraction Wonder Wheel",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ・∀・ＷＷ</rb><rp> (</rp><rt>アメイズ・アトラクション・ワンダーホイール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ameizu Atorakushon Wandā Hoīru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amaze Ɐttraction Wonder Wheel",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "LIOV-EN072",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP072",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

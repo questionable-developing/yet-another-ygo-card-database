@@ -1,12 +1,14 @@
 {
     "cid": "94e0e652-6e61-46fd-b1f5-8ed4bc2c7404",
-    "yid": null,
+    "yid": 20537097,
     "password": "20537097",
     "kid": 13384,
     "name": "Mekk-Knight Blue Sky",
     "name_jp": "<ruby lang=\"jp\"><rb>蒼</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>穹</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>機界騎士</rb><rp> (</rp><rt>ジャックナイツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōkyū no Jakkunaitsu",
+    "name_jp_rom_base": "Sōkyū no Kikaikishi",
     "name_jp_tl": "Jack-Knights of the Blue Sky",
+    "name_jp_tl_base": "Mechworld Knight of the Blue Sky",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +67,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP014",
+            "set": "Extreme Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD45-JP018",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS2-JP018",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +130,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

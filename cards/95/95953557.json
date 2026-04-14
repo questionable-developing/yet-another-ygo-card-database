@@ -1,11 +1,14 @@
 {
     "cid": "b2ceef49-db53-4a20-a642-599df7db6d44",
+    "yid": 95953557,
     "password": "95953557",
     "kid": 15246,
     "name": "Infernoble Knight Astolfo",
     "name_jp": "<ruby lang=\"jp\"><rb>焔</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－アストルフォ",
     "name_jp_rom": "Enseikishi - Asutorufo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flame Holy Knight - Astolfo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP012",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +92,7 @@
         "summoning": [
             "Special Summons itself from your hand",
             "Special Summons itself while banished",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -96,5 +108,6 @@
             "Only once per Duel",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ffd945bc-fce7-408d-a5f7-baf7c9bbc008",
+    "yid": 48444114,
     "password": "48444114",
     "kid": 12453,
     "name": "Luna Light Perfume",
     "name_jp": "<ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>げっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>香</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gekkōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Moonlight Perfume",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -60,6 +63,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP054",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP21-JP055",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS11",
+            "set": "Duelist Advance +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +119,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "53c2bb17-eb23-4a87-af1a-ed316578681e",
+    "yid": 37442336,
     "password": "37442336",
     "kid": 18824,
     "name": "Cosmic Quasar Dragon",
     "name_jp": "コズミック・クェーサー・ドラゴン",
     "name_jp_rom": "Kozumikku Kwēsā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +42,27 @@
         {
             "sid": "DUNE-EN037",
             "set": "Duelist Nexus",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP037",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "DUNE-JP037",
+            "set": "Duelist Nexus +1 Bonus Pack",
             "rarities": {
                 "Ultra Rare": [],
                 "Quarter Century Secret Rare": []
@@ -79,6 +103,7 @@
         "summoning": [
             "Requires both Tuner and non-Tuner Synchro Monsters as Synchro Materials",
             "2 or more non-Tuner Synchro Materials",
+            "Must be Synchro Summoned with listed Synchro Materials",
             "Special Summon-only monster",
             "Special Summons from your Extra Deck",
             "Treats Special Summon as Synchro Summon"
@@ -96,5 +121,6 @@
             "Accel Synchro Monster",
             "Limit Over Accel Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "541a45af-6bc6-4275-b0b4-6d227c7f3b5a",
+    "yid": 62968263,
     "password": "62968263",
     "kid": 14959,
     "name": "Galaxy-Eyes Afterglow Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河眼の残光竜</rb><rp> (</rp><rt>ギャラクシーアイズ・アフターグロウ・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushīaizu Afutāgurou Doragon",
+    "name_jp_rom_base": "Gingame no Zankōryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -63,6 +66,28 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LGB1-JP029",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP018",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +135,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

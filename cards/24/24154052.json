@@ -1,12 +1,14 @@
 {
     "cid": "736379d0-0ea6-45c8-b2c7-79ade7d55bec",
-    "yid": null,
+    "yid": 24154052,
     "password": "24154052",
     "kid": 13556,
     "name": "Protron",
     "name_jp": "プロトロン",
     "name_jp_rom": "Purotoron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP001",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -65,5 +76,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

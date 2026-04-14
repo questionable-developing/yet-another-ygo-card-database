@@ -1,11 +1,14 @@
 {
     "cid": "683e4355-b266-4382-80fe-5a7e3fe61faf",
+    "yid": 86198326,
     "password": "86198326",
     "kid": 4806,
     "name": "7 Completed",
     "name_jp": "<ruby lang=\"jp\"><rb>７</rb><rp> (</rp><rt>セブン</rt><rp>)</rp></ruby>カード",
     "name_jp_rom": "Sebun Kādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "7 Card",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "7Completed-PSV-EN-C-UE-25thAnniversaryEdition.png",
+            "full": "7Completed-CA-JP-C.jpg",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "7Completed-DL1-JP-C.jpg",
+            "art": null
+        },
+        "1.2": {
+            "idx": "1.2",
+            "full": "7Completed-PSV-NA-C-1E.jpg",
+            "art": null
+        },
+        "1.3": {
+            "idx": "1.3",
+            "full": "7Completed-DT03-JP-DNPR-DT.jpg",
+            "art": "7Completed-MADU-JP-VG-artwork.png"
+        },
+        "1.4": {
+            "idx": "1.4",
+            "full": "7Completed-PSV-EN-C-UE-25thAnniversaryEdition.png",
+            "art": "7Completed-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.4",
     "sets": [
         {
             "sid": "PSV-EN004",
@@ -59,6 +82,29 @@
             "set": "Pharaoh's Servant (25th Anniversary Edition)",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CA-04",
+            "set": "Curse of Anubis (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-092",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT03-JP038",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -93,5 +139,6 @@
             "Equips only to a specific target",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

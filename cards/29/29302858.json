@@ -1,12 +1,14 @@
 {
     "cid": "0fc81724-52fa-4bf6-9c7a-beda95a75366",
-    "yid": null,
+    "yid": 29302858,
     "password": "29302858",
     "kid": 18727,
     "name": "Vanquish Soul Razen",
     "name_jp": "<ruby lang=\"jp\"><rb>ＶＳ</rb><rp> (</rp><rt>ヴァンキッシュ・ソウル</rt><rp>)</rp></ruby> ラゼン",
     "name_jp_rom": "Vankisshu Souru Razen",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -30,25 +32,60 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "VanquishSoulRazen-MP24-EN-PScR-1E.png",
+            "full": "VanquishSoulRazen-RA05-EN-SR-1E.png",
+            "art": "VanquishSoulRazen-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "VanquishSoulRazen-RA05-EN-UR-1E-AA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "WISU-EN016",
             "set": "Wild Survivors",
             "rarities": {
-                "Ultra Rare": [],
-                "Collector's Rare": []
+                "Ultra Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "MP24-EN139",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN134",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1", "2"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Starlight Rare": ["1", "2"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP016",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP004",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -94,5 +131,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

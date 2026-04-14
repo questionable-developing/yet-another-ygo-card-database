@@ -1,11 +1,14 @@
 {
     "cid": "4190c8e3-c1b5-4edd-9646-d5e883e331a1",
+    "yid": 75153328,
     "password": "75153328",
     "kid": 14317,
     "name": "Packet Swap",
     "name_jp": "<ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>制</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>切</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyōsei Setsudan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Forced Disconnection",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP067",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +82,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a75bef3a-fc4f-4d8f-8913-145211a709ed",
+    "yid": 76981308,
     "password": "76981308",
     "kid": 17465,
     "name": "Melffy Staring Contest",
     "name_jp": "メルフィーとにらめっこ",
     "name_jp_rom": "Merufī to Niramekko",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP063",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP180",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +92,7 @@
             "Adds from Deck to hand",
             "Adds from Graveyard to hand",
             "Places cards from the player's hand on the bottom of the Deck",
-            "Reveals your hand for effect"
+            "Reveals cards from your hand"
         ],
         "stat_change": [
             "Your opponent's monsters lose ATK",
@@ -88,5 +109,6 @@
             "Only once per turn",
             "At the start of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

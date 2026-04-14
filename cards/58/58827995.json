@@ -1,11 +1,14 @@
 {
     "cid": "0ad48316-365e-4dfd-a296-4bd9855b0c18",
+    "yid": 58827995,
     "password": "58827995",
     "kid": 15755,
     "name": "Armor Dragon Ritual",
     "name_jp": "<ruby lang=\"jp\"><rb>鎧</rb><rp> (</rp><rt>がい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>降</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>臨</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gairyū Kōrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Armored Dragon Descent",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "BLVO-EN064",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP064",
             "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Only once per turn",
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

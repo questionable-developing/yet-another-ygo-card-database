@@ -1,11 +1,14 @@
 {
     "cid": "39785b23-2c88-4515-ad4a-780b74512121",
+    "yid": 37006702,
     "password": "37006702",
     "kid": 20060,
     "name": "Krishnerd Witch",
     "name_jp": "クリシュナード・ウィッチ",
     "name_jp_rom": "Kurishunādo Witchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -48,6 +51,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP048",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,7 +92,7 @@
         ],
         "summoning": [
             "Special Summons itself from your hand",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -90,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

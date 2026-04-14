@@ -1,11 +1,14 @@
 {
     "cid": "a3f86341-dc69-4fd7-9d4b-5ce95c9bf517",
+    "yid": 88289295,
     "password": "88289295",
     "kid": 8673,
     "name": "Synchro Control",
     "name_jp": "シンクロ・コントロール",
     "name_jp_rom": "Shinkuro Kontorōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP062",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "ad2595fd-a98e-4903-9aaf-066bee451811",
-    "yid": null,
+    "yid": 33907039,
     "password": "33907039",
     "kid": 16417,
     "name": "Piri Reis Map",
     "name_jp": "ピリ・レイスの<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>図</rb><rp> (</rp><rt>ず</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Piri Reisu no Chizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC01-JP023",
+            "set": "Animation Chronicle 2021",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP112",
+            "set": "Tournament Pack 2024 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBJH-JP030",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +127,6 @@
             "At the start of Main Phase 1",
             "Turn limited effects"
         ]
-    }
+    },
+    "links": {}
 }

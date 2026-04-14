@@ -1,11 +1,14 @@
 {
     "cid": "27cb65a1-36cf-4abb-87aa-1aa8cf53910c",
+    "yid": 71002019,
     "password": "71002019",
     "kid": 15113,
     "name": "Mudan the Rikka Fairy",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>りっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>ボタン",
     "name_jp_rom": "Rikkasei Botan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Botan the Snowflower Fairy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSS-JP017",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

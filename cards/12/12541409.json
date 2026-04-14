@@ -1,12 +1,14 @@
 {
     "cid": "fd296a21-6cc4-4af0-b8c2-5046ee932bf1",
-    "yid": null,
+    "yid": 12541409,
     "password": "12541409",
     "kid": 15554,
     "name": "Infernity Suppression",
     "name_jp": "インフェルニティ・サプレッション",
     "name_jp_rom": "Inferuniti Sapuresshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +42,15 @@
     "sets": [
         {
             "sid": "PHRA-EN075",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP075",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

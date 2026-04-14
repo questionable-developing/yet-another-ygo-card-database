@@ -1,11 +1,14 @@
 {
     "cid": "833ff66c-52eb-4cdd-affa-8a55140c407f",
+    "yid": 37495766,
     "password": "37495766",
     "kid": 17997,
     "name": "Rescue-ACE Turbulence",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｒ－ＡＣＥ</rb><rp> (</rp><rt>レスキュー・エース</rt><rp>)</rp></ruby>タービュランス",
     "name_jp_rom": "Resukyū Ēsu Tābyuransu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -30,10 +33,15 @@
         "1": {
             "idx": "1",
             "full": "RescueACETurbulence-MZMI-EN-SR-1E.png",
+            "art": "RescueACETurbulence-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "RescueACETurbulence-LOCR-JP-UR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "AMDE-EN007",
@@ -48,6 +56,33 @@
             "set": "Maze of Millennia",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP007",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA01",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP030",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -96,5 +131,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

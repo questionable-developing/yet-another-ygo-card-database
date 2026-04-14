@@ -1,11 +1,14 @@
 {
     "cid": "80bbb64a-6282-48d7-b529-33e01513098d",
+    "yid": 90957527,
     "password": "90957527",
     "kid": 7302,
     "name": "Gladiator Beast Gaiodiaz",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ゲオルディアス",
     "name_jp_rom": "Guradiaru Bīsuto Georudiasu",
+    "name_jp_rom_base": "Kentōjū Georudiasu",
     "name_jp_tl": "Gladial Beast Geordias",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +44,22 @@
             "set": "Gladiator's Assault",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP043",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "GLAS-JP043",
+            "set": "Gladiator's Assault 2-Pack Set",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -93,5 +112,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

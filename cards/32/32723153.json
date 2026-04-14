@@ -1,12 +1,14 @@
 {
     "cid": "8dbf7c06-e3d8-4d1b-800f-77533619431e",
-    "yid": null,
+    "yid": 32723153,
     "password": "32723153",
     "kid": 6444,
     "name": "Magical Explosion",
     "name_jp": "マジカル・エクスプロージョン",
     "name_jp_rom": "Majikaru Ekusupurōjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -42,6 +44,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP055",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP055",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +89,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

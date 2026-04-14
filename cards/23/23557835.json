@@ -1,12 +1,14 @@
 {
     "cid": "f81b3cc5-d1a8-4f43-8b2a-40ff27a05cea",
-    "yid": null,
+    "yid": 23557835,
     "password": "23557835",
     "kid": 5906,
     "name": "Dimension Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>次</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>元</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jigen Yūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -63,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "307-039",
+            "set": "Invader of Darkness (set)",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "EE2-JP095",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +102,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the opponent's field",
             "Your opponent Special Summons"
         ],
@@ -96,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

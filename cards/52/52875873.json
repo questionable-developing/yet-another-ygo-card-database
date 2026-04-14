@@ -1,11 +1,14 @@
 {
     "cid": "d3e88ecf-4356-4dd0-ae2b-2599878c16be",
+    "yid": 52875873,
     "password": "52875873",
     "kid": 7556,
     "name": "Evolution Burst",
     "name_jp": "エヴォリューション・バースト",
     "name_jp_rom": "Evoryūshon Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP045",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD26-JP020",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +119,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

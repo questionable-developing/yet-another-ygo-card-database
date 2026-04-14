@@ -1,11 +1,14 @@
 {
     "cid": "9730603f-d49c-4c9e-92ff-0de49de69619",
+    "yid": 42280216,
     "password": "42280216",
     "kid": 8630,
     "name": "Oracle of the Sun",
     "name_jp": "<ruby lang=\"jp\"><rb>太</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>官</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Taiyō no Shinkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Priest of the Sun",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP019",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP093",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPL17",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP22-JP029",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +140,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

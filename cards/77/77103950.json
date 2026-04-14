@@ -1,11 +1,14 @@
 {
     "cid": "f6b2104a-bd97-43b8-893f-b3f5239f6999",
+    "yid": 77103950,
     "password": "77103950",
     "kid": 17462,
     "name": "Primeval Planet Perlereino",
     "name_jp": "<ruby lang=\"jp\"><rb>壱</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>＝ペルレイノ",
     "name_jp_rom": "Isekai = Perureino",
+    "name_jp_rom_base": null,
     "name_jp_tl": "First Broken World - Perlereino",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +56,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP060",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

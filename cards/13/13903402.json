@@ -1,12 +1,14 @@
 {
     "cid": "f3abe3ec-25f3-4952-92d3-1244a518c6b1",
-    "yid": null,
+    "yid": 13903402,
     "password": "13903402",
     "kid": 14770,
     "name": "Mardel, Generaider Boss of Light",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>ジェネレイド</rt><rp>)</rp></ruby> マルデル",
     "name_jp_rom": "Hikari no Jenereido Maruderu",
+    "name_jp_rom_base": "Hikari no Ō Maruderu",
     "name_jp_tl": "Mardel, Generaid of Light",
+    "name_jp_tl_base": "Mardel, King of Light",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "MardelGeneraiderBossofLight-SUB1-JP-NPR.png",
+            "art": "MardelGeneraiderBossofLight-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "MardelGeneraiderBossofLight-GFP2-EN-UR-1E.png",
-            "art": null
+            "art": "MardelGeneraiderBossofLight-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "MYFI-EN027",
@@ -48,6 +55,22 @@
             "set": "Ghosts From the Past: The 2nd Haunting",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP027",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP077",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -89,5 +112,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

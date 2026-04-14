@@ -1,12 +1,14 @@
 {
     "cid": "84d7e28c-d2db-4a43-987e-c5a31ba5cf4f",
-    "yid": null,
+    "yid": 9861795,
     "password": "09861795",
     "kid": 10226,
     "name": "Mogmole",
     "name_jp": "モグモール",
     "name_jp_rom": "Mogumōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP004",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +86,6 @@
         "misc": [
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

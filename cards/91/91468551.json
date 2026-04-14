@@ -1,11 +1,14 @@
 {
     "cid": "a53bd34d-6661-431d-b25e-87892bb76f49",
+    "yid": 91468551,
     "password": "91468551",
     "kid": 8661,
     "name": "Temple of the Sun",
     "name_jp": "<ruby lang=\"jp\"><rb>太</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祭</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壇</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Taiyō no Saidan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Altar of the Sun",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP050",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,5 +79,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

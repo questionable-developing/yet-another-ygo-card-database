@@ -1,11 +1,14 @@
 {
     "cid": "c5e29525-de91-407e-9ecf-52e1b6297a1e",
+    "yid": 96891787,
     "password": "96891787",
     "kid": 15240,
     "name": "Dogmatika Theo, the Iron Punch",
     "name_jp": "<ruby lang=\"jp\"><rb>教導</rb><rp> (</rp><rt>ドラグマ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>てっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>槌</rb><rp> (</rp><rt>つい</rt><rp>)</rp></ruby>テオ",
     "name_jp_rom": "Doraguma no Tettsui Teo",
+    "name_jp_rom_base": "Kyōdō no Tettsui Teo",
     "name_jp_tl": "Theo, the Dragma Iron Hammer",
+    "name_jp_tl_base": "Theo, the Dogmatic Iron Hammer",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP006",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP007",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

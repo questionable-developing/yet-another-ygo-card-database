@@ -1,11 +1,14 @@
 {
     "cid": "7eb90ae3-d373-4c1f-a17e-7977f6b4ef06",
+    "yid": 73018302,
     "password": "73018302",
     "kid": 8814,
     "name": "Hunter of Black Feathers",
     "name_jp": "<ruby lang=\"jp\"><rb>黒羽を狩る者</rb><rp> (</rp><rt>ダークネス・ハンター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dākunesu Hantā",
+    "name_jp_rom_base": "Kurohane o Karu Mono",
     "name_jp_tl": "Darkness Hunter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP038",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP141",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

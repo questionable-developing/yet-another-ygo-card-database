@@ -1,11 +1,14 @@
 {
     "cid": "dc58a28a-a768-495e-b31d-7e2bfc3ae838",
+    "yid": 80321197,
     "password": "80321197",
     "kid": 9801,
     "name": "Crimson Blader",
     "name_jp": "クリムゾン・ブレーダー",
     "name_jp_rom": "Kurimuzon Burēdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "CrimsonBlader-DBLE-JP-NPR.png",
+            "art": "CrimsonBlader-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "CrimsonBlader-RA04-EN-PlScR-1E.png",
-            "art": null
+            "art": "CrimsonBlader-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CBLZ-EN093",
@@ -63,6 +71,38 @@
             "rarities": {
                 "Platinum Secret Rare": [],
                 "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TF06-JP003",
+            "set": "Yu-Gi-Oh! 5D's Tag Force 6 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP033",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "DBLE-JP038",
+            "set": "Dimension Box Limited Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25WP-JP303",
+            "set": "Winner's Pack 2025 Vol.3",
+            "rarities": {
+                "Ultra Parallel Rare": []
             }
         }
     ],
@@ -98,5 +138,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

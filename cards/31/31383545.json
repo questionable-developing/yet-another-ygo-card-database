@@ -1,12 +1,14 @@
 {
     "cid": "9fc9abb9-a2b2-4cfd-a68e-4f5046d699c8",
-    "yid": null,
+    "yid": 31383545,
     "password": "31383545",
     "kid": 9031,
     "name": "XX-Saber Darksoul",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＸ</rb><rp> (</rp><rt>ダブルエックス</rt><rp>)</rp></ruby>－セイバー ダークソウル",
     "name_jp_rom": "Daburu Ekkusu-Seibā Dākusouru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -22,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
+    "desc": "Once per turn, during the End Phase, if this card is in the GY because it was sent there from your field this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
     "pend_eff": null,
-    "mnst_eff": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
-    "eff": "During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
+    "mnst_eff": "Once per turn, during the End Phase, if this card is in the GY because it was sent there from your field this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
+    "eff": "Once per turn, during the End Phase, if this card is in the GY because it was sent there from your field this turn: You can add 1 \"X-Saber\" monster from your Deck to your hand.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XXSaberDarksoul-CT08-EN-SR-LE.png",
+            "full": "XXSaberDarksoul-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -49,6 +51,38 @@
             "set": "Collectible Tins 2011 Wave 2",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX10",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP002",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SPRG-JP021",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP010",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -84,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

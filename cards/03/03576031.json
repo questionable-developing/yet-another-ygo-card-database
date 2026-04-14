@@ -1,12 +1,14 @@
 {
     "cid": "b05b1806-4a3b-46c1-a52d-52623d373254",
-    "yid": null,
+    "yid": 3576031,
     "password": "03576031",
     "kid": 12647,
     "name": "Crystolic Potential",
     "name_jp": "クリスタル<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ポテンシャル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kurisutaru Potensharu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crystal Potential",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP057",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

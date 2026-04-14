@@ -1,12 +1,14 @@
 {
     "cid": "671bbf26-59ca-4344-a029-c44bb205ae8d",
-    "yid": null,
+    "yid": 30802207,
     "password": "30802207",
     "kid": 16746,
     "name": "Exosister Carpedivem",
     "name_jp": "エクソシスター・カルペディベル",
     "name_jp_rom": "Ekusoshisutā Karupediberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP023",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB15",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +113,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

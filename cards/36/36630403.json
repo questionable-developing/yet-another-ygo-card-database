@@ -1,12 +1,14 @@
 {
     "cid": "0f226aa0-b593-4db1-9702-a524a3d3268b",
-    "yid": null,
+    "yid": 36630403,
     "password": "36630403",
     "kid": 12139,
     "name": "Shiranui Spectralsword",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yōtō - Shiranui",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -59,6 +61,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP031",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DBHS-JP041",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

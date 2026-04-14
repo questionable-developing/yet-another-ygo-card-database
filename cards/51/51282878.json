@@ -1,11 +1,14 @@
 {
     "cid": "1120edb3-ee61-4a97-bfbc-bc3bd25bbbcd",
+    "yid": 51282878,
     "password": "51282878",
     "kid": 10252,
     "name": "Fishborg Planter",
     "name_jp": "フィッシュボーグ－プランター",
     "name_jp_rom": "Fisshubōgu - Purantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP030",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Once while in the Graveyard",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

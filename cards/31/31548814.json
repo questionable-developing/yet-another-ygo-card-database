@@ -1,12 +1,14 @@
 {
     "cid": "e3b5f7cc-093c-4e32-a4a1-4f8edf67f4b0",
-    "yid": null,
+    "yid": 31548814,
     "password": "31548814",
     "kid": 12811,
     "name": "Void Feast",
     "name_jp": "<ruby lang=\"jp\"><rb>煉</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>狂</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宴</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rengoku no Kyōen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Purgatory Mad Feast",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP076",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP121",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "908bb4bd-92c5-41be-af29-9dfc6bb54e4f",
-    "yid": null,
+    "yid": 30583090,
     "password": "30583090",
     "kid": 20741,
     "name": "Evil HERO Dead-End Prison",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> デス・プリズン",
     "name_jp_rom": "Ībiru Hīrō Desu Purizun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil HERO Death Prison",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -42,6 +44,15 @@
             "rarities": {
                 "Secret Rare": [],
                 "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP002",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -88,5 +99,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

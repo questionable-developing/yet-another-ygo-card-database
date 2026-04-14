@@ -1,11 +1,14 @@
 {
     "cid": "4cd6dba7-ce5f-4f35-ad6e-d7b6db06a1f5",
+    "yid": 89662736,
     "password": "89662736",
     "kid": 10754,
     "name": "Bujingi Crow",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－ヤタ",
     "name_jp_rom": "Bujingi - Yata",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujingi Yata",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP023",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "1ae2418d-4cea-423a-9789-90d820d55681",
-    "yid": null,
+    "yid": 18960169,
     "password": "18960169",
     "kid": 7842,
     "name": "Goblin Decoy Squad",
     "name_jp": "ゴブリン<ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Yōdōbutai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "CSOC-EN032",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP032",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

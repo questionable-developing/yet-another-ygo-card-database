@@ -1,11 +1,14 @@
 {
     "cid": "4d82645d-e202-4ffe-bff0-903e94d4b1e5",
+    "yid": 87769556,
     "password": "87769556",
     "kid": 12963,
     "name": "Magician's Right Hand",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>右</rb><rp> (</rp><rt>みぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>て</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majutsushi no Migite",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP049",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SSB1-JP037",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

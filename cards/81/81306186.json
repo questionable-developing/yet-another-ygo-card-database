@@ -1,11 +1,14 @@
 {
     "cid": "e46e4525-cf1f-48c8-a721-e7e40bea69d5",
+    "yid": 81306186,
     "password": "81306186",
     "kid": 13790,
     "name": "Renewal of the World",
     "name_jp": "リターン・オブ・ザ・ワールド",
     "name_jp_rom": "Ritān Obu Za Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Return of the World",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP072",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,7 +79,7 @@
         "mst": [],
         "summoning": [
             "Performs a Ritual Summon",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -80,5 +92,6 @@
             "Only 1 effect once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

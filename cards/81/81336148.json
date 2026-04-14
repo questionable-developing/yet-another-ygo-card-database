@@ -1,11 +1,14 @@
 {
     "cid": "4a3fdecb-0016-4cb9-bc16-6f36039e5bb4",
+    "yid": 81336148,
     "password": "81336148",
     "kid": 8622,
     "name": "Sword Master",
     "name_jp": "ソード・マスター",
     "name_jp_rom": "Sōdo Masutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ABPF-EN011",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP011",
             "set": "Absolute Powerforce",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

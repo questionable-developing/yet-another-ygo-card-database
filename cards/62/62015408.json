@@ -1,11 +1,14 @@
 {
     "cid": "2f4a24f3-6a16-4430-93a4-a9d747a3b7dd",
+    "yid": 62015408,
     "password": "62015408",
     "kid": 12312,
     "name": "Ghost Reaper & Winter Cherries",
     "name_jp": "<ruby lang=\"jp\"><rb>浮</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>幽</rb><rp> (</rp><rt>ゆ</rt><rp>)</rp></ruby>さくら",
     "name_jp_rom": "Fuyu Sakura",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -118,6 +121,61 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP040",
+            "set": "Shining Victories",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP021",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "20CP-JPF10",
+            "set": "20th Secret Rare Final Challenge Pack",
+            "rarities": {
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP009",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Premium Gold Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP015",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP049",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -136,7 +194,7 @@
         "action": [
             "Activates from your hand",
             "Discards itself for cost",
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Reveals your opponent's Extra Deck"
         ],
         "stat_change": [],
@@ -150,7 +208,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

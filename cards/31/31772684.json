@@ -1,12 +1,14 @@
 {
     "cid": "fd1ba72f-238d-4712-8de7-3d045af2c423",
-    "yid": null,
+    "yid": 31772684,
     "password": "31772684",
     "kid": 13209,
     "name": "Vendread Revenants",
     "name_jp": "ヴェンデット・レヴナント",
     "name_jp_rom": "Vendetto Revunanto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vendead Revenant",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,22 @@
         {
             "sid": "COTD-EN083",
             "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP17-JP036",
+            "set": "Extra Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EP18-JP006",
+            "set": "Extra Pack 2018",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +104,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

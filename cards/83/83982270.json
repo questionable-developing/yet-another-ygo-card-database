@@ -1,11 +1,14 @@
 {
     "cid": "9d1f36cd-245a-4871-bf6c-a8e2128b864c",
+    "yid": 83982270,
     "password": "83982270",
     "kid": 7268,
     "name": "Cloudian - Poison Cloud",
     "name_jp": "<ruby lang=\"jp\"><rb>雲魔物</rb><rp> (</rp><rt>クラウディアン</rt><rp>)</rp></ruby>－ポイズン・クラウド",
     "name_jp_rom": "Kuraudian - Poizun Kuraudo",
+    "name_jp_rom_base": "Unmamono - Poizun Kuraudo",
     "name_jp_tl": "Cloudian - Poison Cloud",
+    "name_jp_tl_base": "Cloud Monster - Poison Cloud",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP009",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP23-JP004",
+            "set": "Tournament Pack 2012 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

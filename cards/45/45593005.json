@@ -1,11 +1,14 @@
 {
     "cid": "ad1df7f4-4abe-4825-a43e-cba8a855767e",
+    "yid": 45593005,
     "password": "45593005",
     "kid": 8298,
     "name": "Morphtronic Magnen Bar",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・マグネン<ruby lang=\"jp\"><rb>Ｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Difōmā Magunen Ai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Magnen I",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ANPR-EN007",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP007",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
             "Variable effects",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

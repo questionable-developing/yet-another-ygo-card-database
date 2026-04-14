@@ -1,12 +1,14 @@
 {
     "cid": "989e8150-d890-48b4-8b96-a6a3f08fb9c5",
-    "yid": null,
+    "yid": 36006208,
     "password": "36006208",
     "kid": 11509,
     "name": "Fire Lake of the Burning Abyss",
     "name_jp": "<ruby lang=\"jp\"><rb>彼</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岸</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>沈</rb><rp> (</rp><rt>ちん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>溺</rb><rp> (</rp><rt>でき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Higan no Chindeki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Drowning in the Afterlife",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -28,10 +30,15 @@
         "1": {
             "idx": "1",
             "full": "FireLakeoftheBurningAbyss-PGL3-EN-GUR-1E.png",
-            "art": null
+            "art": "FireLakeoftheBurningAbyss-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "FireLakeoftheBurningAbyss-EP15-JP-R.png",
+            "art": "FireLakeoftheBurningAbyss-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "NECH-EN086",
@@ -52,6 +59,15 @@
             "set": "Premium Gold: Infinite Gold",
             "rarities": {
                 "Gold Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP019",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -88,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

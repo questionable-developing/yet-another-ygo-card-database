@@ -1,12 +1,14 @@
 {
     "cid": "e2163c10-af3c-4d09-890d-dfad1907cc9f",
-    "yid": null,
+    "yid": 10449150,
     "password": "10449150",
     "kid": 7055,
     "name": "Shuttleroid",
     "name_jp": "シャトルロイド",
     "name_jp_rom": "Shatoruroido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -36,6 +38,15 @@
     },
     "image": null,
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "PP11-JP002",
+            "set": "Premium Pack 11",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +83,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

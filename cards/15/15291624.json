@@ -1,12 +1,14 @@
 {
     "cid": "a20f019e-f3d8-48c7-9999-ac02fce225b0",
-    "yid": null,
+    "yid": 15291624,
     "password": "15291624",
     "kid": 13923,
     "name": "Thunder Dragon Colossus",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－サンダー・ドラゴン",
     "name_jp_rom": "Chōrairyū - Sandā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Thunder Dragon - Thunder Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -72,6 +74,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP036",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP173",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +143,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

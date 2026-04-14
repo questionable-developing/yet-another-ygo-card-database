@@ -1,11 +1,14 @@
 {
     "cid": "746d8333-b4ef-4dd3-af0a-87ac97cb39b6",
+    "yid": 98999181,
     "password": "98999181",
     "kid": 14010,
     "name": "Disciple of Nephthys",
     "name_jp": "ネフティスの<ruby lang=\"jp\"><rb>祈</rb><rp> (</rp><rt>いの</rt><rp>)</rp></ruby>り<ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>て</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nefutisu no Inorite",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Praying Hand of Nephthys",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "Hidden Summoners",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBHS-JP002",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -84,5 +96,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

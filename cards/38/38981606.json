@@ -1,11 +1,14 @@
 {
     "cid": "c51cc6a1-e512-443f-b084-edcb79528ad2",
+    "yid": 38981606,
     "password": "38981606",
     "kid": 8029,
     "name": "Desert Protector",
     "name_jp": "<ruby lang=\"jp\"><rb>砂漠の守護者</rb><rp> (</rp><rt>デザート・ガードナー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dezāto Gādonā",
+    "name_jp_rom_base": "Sabaku no Shugosha",
     "name_jp_tl": "Desert Gardna",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP034",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "682de28a-ea34-4974-9f16-cec860450496",
+    "yid": 63391643,
     "password": "63391643",
     "kid": 5166,
     "name": "Thousand Knives",
     "name_jp": "<ruby lang=\"jp\"><rb>千本</rb><rp> (</rp><rt>サウザンド</rt><rp>)</rp></ruby>ナイフ",
     "name_jp_rom": "Sauzando Naifu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thousand Knife",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -96,6 +99,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "P4-03",
+            "set": "Premium Pack 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SY2-045",
+            "set": "Structure Deck: Yugi Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP08-JP008",
+            "set": "Tournament Pack 2008 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPB19",
+            "set": "Memories of the Duel King: Battle City Arc",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MB01-JP030",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -127,5 +167,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

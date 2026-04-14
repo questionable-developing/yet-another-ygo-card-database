@@ -1,12 +1,14 @@
 {
     "cid": "032bf3ee-33be-4fa1-b197-0798295919b4",
-    "yid": null,
+    "yid": 35871958,
     "password": "35871958",
     "kid": 16852,
     "name": "Ghostrick Festival",
     "name_jp": "ゴーストリック・フェスティバル",
     "name_jp_rom": "Gōsutorikku Fesutibaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,25 @@
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP047",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JP047",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -91,5 +112,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

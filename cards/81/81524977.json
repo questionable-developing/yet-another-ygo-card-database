@@ -1,11 +1,14 @@
 {
     "cid": "9b82fe21-ef06-490c-952e-8b0422675ecd",
+    "yid": 81524977,
     "password": "81524977",
     "kid": 8052,
     "name": "Seed Cannon",
     "name_jp": "<ruby lang=\"jp\"><rb>種</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>丸</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shushi Dangan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Seed Shot",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CRMS-EN057",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP057",
             "set": "Crimson Crisis",
             "rarities": {
                 "Common": []
@@ -74,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

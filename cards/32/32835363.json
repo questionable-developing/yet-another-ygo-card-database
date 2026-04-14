@@ -1,12 +1,14 @@
 {
     "cid": "81058b8c-6dc3-474c-80d3-82ac26066de8",
-    "yid": null,
+    "yid": 32835363,
     "password": "32835363",
     "kid": 9669,
     "name": "Cracking",
     "name_jp": "クラッキング",
     "name_jp_rom": "Kurakkingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP052",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +80,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

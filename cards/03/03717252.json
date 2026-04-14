@@ -1,12 +1,14 @@
 {
     "cid": "49fabe2e-cbad-43f4-ab7e-f7d0f7430ad6",
-    "yid": null,
+    "yid": 3717252,
     "password": "03717252",
     "kid": 11236,
     "name": "Shaddoll Beast",
     "name_jp": "シャドール・ビースト",
     "name_jp_rom": "Shadōru Bīsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -73,6 +75,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP027",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP008",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP070",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +133,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "90110a64-e7f3-4e05-97f4-8f17a02ceaa9",
+    "yid": 53276089,
     "password": "53276089",
     "kid": 21212,
     "name": "Ryzeal Mass Driver",
     "name_jp": "ライゼオル・マスドライバー",
     "name_jp_rom": "Raizeoru Masu Doraibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raizeol Mass Driver",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ALIN-EN075",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP075",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

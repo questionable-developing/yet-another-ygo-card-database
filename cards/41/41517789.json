@@ -1,11 +1,14 @@
 {
     "cid": "629901a0-1d58-4edf-8064-f36b1107a290",
+    "yid": 41517789,
     "password": "41517789",
     "kid": 10650,
     "name": "Star Eater",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>態</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seitairyū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Starform Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +56,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP047",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "GP16-JP012",
+            "set": "Gold Pack 2016",
+            "rarities": {
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP407",
+            "set": "Tournament Pack 2021 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

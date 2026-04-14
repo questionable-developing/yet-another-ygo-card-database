@@ -1,12 +1,14 @@
 {
     "cid": "95186a65-8949-4301-b999-5a164bd91190",
-    "yid": null,
+    "yid": 21648584,
     "password": "21648584",
     "kid": 11590,
     "name": "Raidraptor - Readiness",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－レディネス",
     "name_jp_rom": "Reido Raputāzu - Redinesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Readiness",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -63,6 +65,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP070",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPWR-JP029",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

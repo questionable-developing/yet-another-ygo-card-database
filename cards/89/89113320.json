@@ -1,11 +1,14 @@
 {
     "cid": "30e88743-fd6b-4500-b8c6-5a7609c59c05",
+    "yid": 89113320,
     "password": "89113320",
     "kid": 12113,
     "name": "Performapal Bit Bite Turtle",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ビッグバイトタートル",
     "name_jp_rom": "Entameito Biggubaitotātoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Big Bite Turtle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP005",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -72,7 +84,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Activates if destroyed by battle"
         ],
         "stat_change": [
@@ -91,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

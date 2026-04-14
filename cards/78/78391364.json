@@ -1,11 +1,14 @@
 {
     "cid": "95338de6-0d3e-465d-a34f-c977f120d69e",
+    "yid": 78391364,
     "password": "78391364",
     "kid": 11341,
     "name": "Superheavy Samurai Scales",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>テン<ruby lang=\"jp\"><rb>Ｂ－Ｎ</rb><rp> (</rp><rt>ビン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōjūmusha Ten Bin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superheavy Samurai TenB-N",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP009",
+            "set": "The New Challengers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DBLE-JP017",
+            "set": "Dimension Box Limited Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP106",
+            "set": "Tournament Pack 2023 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +114,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

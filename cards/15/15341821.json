@@ -1,12 +1,14 @@
 {
     "cid": "c738e5f8-97ef-4f3c-a0a2-1426544cdde2",
-    "yid": null,
+    "yid": 15341821,
     "password": "15341821",
     "kid": 6654,
     "name": "Dandylion",
     "name_jp": "ダンディライオン",
     "name_jp_rom": "Dandiraion",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -102,6 +104,60 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJC-JP013",
+            "set": "V Jump February 2006 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "GS01-JP002",
+            "set": "Gold Series (OCG)",
+            "rarities": {
+                "Normal Rare": [],
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "BE02-JP206",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "GDB1-JP002",
+            "set": "The Gold Box",
+            "rarities": {
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "DC01-JP017",
+            "set": "Deck Custom Pack 01",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR01-JP018",
+            "set": "Structure Deck R: Advent of the True Monarch",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20AP-JP034",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,7 +171,9 @@
         "arc": [],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "HERO"
+        ],
         "counter": [],
         "action": [
             "Activates from your Graveyard"
@@ -132,5 +190,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

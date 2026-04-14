@@ -1,12 +1,14 @@
 {
     "cid": "c4c02713-77bf-4e2f-af84-4bd46d9136ad",
-    "yid": null,
+    "yid": 36687247,
     "password": "36687247",
     "kid": 9492,
     "name": "T.G. Rush Rhino",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> ラッシュ・ライノ",
     "name_jp_rom": "Tekku Jīnasu Rasshu Raino",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Rush Rhino",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TGRushRhino-DT12-JP-DNPR-DT.jpg",
+            "art": "TGRushRhino-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TGRushRhino-OP09-EN-C-UE.png",
-            "art": null
+            "art": "TGRushRhino-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "EXVC-EN021",
@@ -62,6 +69,22 @@
             "set": "OTS Tournament Pack 9",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP021",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT12-JP004",
+            "set": "Duel Terminal - Xyz Startup!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -99,5 +122,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

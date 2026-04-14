@@ -1,11 +1,14 @@
 {
     "cid": "24e156d6-a406-41ae-9443-3413844f3548",
+    "yid": 70655556,
     "password": "70655556",
     "kid": 10368,
     "name": "Spear Shark",
     "name_jp": "スピア・シャーク",
     "name_jp_rom": "Supia Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,22 @@
         {
             "sid": "CBLZ-EN009",
             "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP009",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP15-JP010",
+            "set": "Duelist Pack: Kastle Siblings",
             "rarities": {
                 "Common": []
             }
@@ -79,5 +98,6 @@
             "Requires control of specific Level",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

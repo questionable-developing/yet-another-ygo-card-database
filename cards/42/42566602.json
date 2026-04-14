@@ -1,11 +1,14 @@
 {
     "cid": "946fb88e-b739-44bd-b332-2cfadf1d9100",
+    "yid": 42566602,
     "password": "42566602",
     "kid": 12450,
     "name": "Coral Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>瑚之龍</rb><rp> (</rp><rt>コーラル・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōraru Doragon",
+    "name_jp_rom_base": "Ko no Ryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -72,6 +75,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP051",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP026",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +135,6 @@
             "Only once per turn",
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

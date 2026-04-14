@@ -1,12 +1,14 @@
 {
     "cid": "d2a1b5fc-a75b-44cf-b76a-8bd686346d83",
-    "yid": null,
+    "yid": 10753491,
     "password": "10753491",
     "kid": 11047,
     "name": "Sylvan Cherubsprout",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>芽</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby> スプラウト",
     "name_jp_rom": "Shinra no Shinme Supurauto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sprout, Divine Bud of Shinra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP018",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

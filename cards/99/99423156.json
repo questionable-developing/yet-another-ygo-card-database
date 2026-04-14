@@ -1,11 +1,14 @@
 {
     "cid": "de7f5d0e-a992-4ccb-ad57-2ac68e099ed9",
+    "yid": 99423156,
     "password": "99423156",
     "kid": 12141,
     "name": "Shiranui Spiritmaster",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>宮</rb><rp> (</rp><rt>みや</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>司</rb><rp> (</rp><rt>づかさ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui no Miyazukasa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shiranui Chief Priest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -64,6 +67,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP033",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +119,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

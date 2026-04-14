@@ -1,11 +1,14 @@
 {
     "cid": "eadaa19c-39fc-4ae7-94a0-327180ab858d",
+    "yid": 95134948,
     "password": "95134948",
     "kid": 16471,
     "name": "Number 99: Utopia Dragonar",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>９９ <ruby lang=\"jp\"><rb>希</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>望</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>ホープドラグナー",
     "name_jp_rom": "Nanbāzu Kyūjūkyū Kibōō Hōpu Doragunā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numbers 99: King of Wishes, Hope Dragnar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -22,25 +25,65 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "3+ Level 12 monsters<br />(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name. (This is treated as an Xyz Summon.) The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
+    "desc": "3+ Level 12 monsters<br />(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name (this is treated as an Xyz Summon). The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "3+ Level 12 monsters\n(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name. (This is treated as an Xyz Summon.) The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
-    "eff": "3+ Level 12 monsters\n(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name. (This is treated as an Xyz Summon.) The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
+    "mnst_eff": "3+ Level 12 monsters\n(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name (this is treated as an Xyz Summon). The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
+    "eff": "3+ Level 12 monsters\n(Quick Effect): You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 \"Number\" monster that has a number between \"1\" and \"100\" in its name (this is treated as an Xyz Summon). The turn you activate this effect, other monsters you control cannot attack directly, also you cannot Special Summon from the Extra Deck, except Xyz Monsters. When an opponent's monster declares an attack: You can change the ATK of the opponent's monster to 0. You can only use each effect of \"Number 99: Utopia Dragonar\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
             "full": "Number99UtopiaDragonar-BROL-EN-ScR-1E.png",
+            "art": "Number99UtopiaDragonar-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "Number99UtopiaDragonar-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "BROL-EN057",
             "set": "Brothers of Legend",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN144",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD42-JPP01",
+            "set": "Structure Deck: Overlay Universe Emperor's Door Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCCU-JP069",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP004",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -57,6 +100,7 @@
         "arc": [
             "Number",
             "Number (Spell/Trap archetype)",
+            "Number 99",
             "Utopia (archetype)",
             "Utopic"
         ],
@@ -93,5 +137,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

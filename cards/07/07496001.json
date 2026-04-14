@@ -1,12 +1,14 @@
 {
     "cid": "fa956893-b076-4ec3-ba75-0d36226d55ac",
-    "yid": null,
+    "yid": 7496001,
     "password": "07496001",
     "kid": 16015,
     "name": "Springans Booty",
     "name_jp": "スプリガンズ・ブーティー",
     "name_jp_rom": "Supuriganzu Būtī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sprigguns Booty",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,22 @@
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP054",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP042",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -80,5 +98,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

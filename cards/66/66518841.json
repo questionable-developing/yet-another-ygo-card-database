@@ -1,11 +1,14 @@
 {
     "cid": "81746238-9a76-4b2e-9868-dc4c5d7aebaf",
+    "yid": 66518841,
     "password": "66518841",
     "kid": 7922,
     "name": "Prideful Roar",
     "name_jp": "プライドの<ruby lang=\"jp\"><rb>咆</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>哮</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Puraido no Hōkō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Roar of Pride",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -63,6 +66,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP067",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT04-JP047",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

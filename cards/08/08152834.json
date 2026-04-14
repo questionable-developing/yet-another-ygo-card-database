@@ -1,12 +1,14 @@
 {
     "cid": "569a5e21-7957-43f4-9822-d1ccd47bb93d",
-    "yid": null,
+    "yid": 8152834,
     "password": "08152834",
     "kid": 19166,
     "name": "Tarai",
     "name_jp": "<ruby lang=\"jp\"><rb>陀</rb><rp> (</rp><rt>タ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ラ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>イ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tarai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP024",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

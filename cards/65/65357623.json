@@ -1,11 +1,14 @@
 {
     "cid": "ffb37443-a6a1-4595-9d10-90eee39e3a58",
+    "yid": 65357623,
     "password": "65357623",
     "kid": 14060,
     "name": "Zombie Power Struggle",
     "name_jp": "アンデット・ストラグル",
     "name_jp_rom": "Andetto Sutoraguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Undead Struggle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Structure Deck: Zombie Horde",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR07-JP024",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -80,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

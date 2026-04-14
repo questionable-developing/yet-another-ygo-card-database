@@ -1,12 +1,14 @@
 {
     "cid": "c07f89c9-cc59-4d4b-be5a-4fd7afd0d673",
-    "yid": null,
+    "yid": 31834488,
     "password": "31834488",
     "kid": 16025,
     "name": "Book of Lunar Eclipse",
     "name_jp": "<ruby lang=\"jp\"><rb>皆</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>既</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>げっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蝕</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
-    "name_jp_rom": "Kaiki Gesshoku no Sho",
+    "name_jp_rom": "Kaikigesshoku no Sho",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Book of Total Lunar Eclipse",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP064",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

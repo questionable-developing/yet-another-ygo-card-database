@@ -1,11 +1,14 @@
 {
     "cid": "a8434100-33bd-428a-a611-d12e659f812d",
+    "yid": 44341034,
     "password": "44341034",
     "kid": 8621,
     "name": "Dark Bug",
     "name_jp": "ダーク・バグ",
     "name_jp_rom": "Dāku Bagu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP010",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP087",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

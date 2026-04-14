@@ -1,11 +1,14 @@
 {
     "cid": "007e4d17-ecef-4999-a8d9-acf5952efd2a",
+    "yid": 94317736,
     "password": "94317736",
     "kid": 16027,
     "name": "Hidden Springs of the Far East",
     "name_jp": "<ruby lang=\"jp\"><rb>極</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>東</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>秘</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>泉</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>郷</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyokutō Hisenkyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP066",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

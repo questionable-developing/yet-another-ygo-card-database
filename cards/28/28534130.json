@@ -1,12 +1,14 @@
 {
     "cid": "946f8d81-5e24-4122-9700-bde7daf95bf6",
-    "yid": null,
+    "yid": 28534130,
     "password": "28534130",
     "kid": 14678,
     "name": "Salamangreat Burning Shell",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣の炎虞</rb><rp> (</rp><rt>サラマングレイト・バーニングシェル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saramangureito Bāningu Sheru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP20-EN179",
             "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP051",
+            "set": "Chaos Impact",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

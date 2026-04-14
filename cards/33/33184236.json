@@ -1,12 +1,14 @@
 {
     "cid": "d6fdfa1f-81c4-4514-8269-7e2fa2e8663a",
-    "yid": null,
+    "yid": 33184236,
     "password": "33184236",
     "kid": 9148,
     "name": "Karakuri Trick House",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>屋</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>敷</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Yashiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri House",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "STBL-EN071",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP071",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -74,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f2ec9091-2e60-4723-af99-e67746a7e4a5",
+    "yid": 48636108,
     "password": "48636108",
     "kid": 15555,
     "name": "U.A. Man of the Match",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕ．Ａ．</rb><rp> (</rp><rt>ウルトラアスリート</rt><rp>)</rp></ruby>マン・オブ・ザ・マッチ",
     "name_jp_rom": "Urutora Asurīto Man Obu Za Matchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ultra Athlete Man of the Match",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHRA-EN076",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP076",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

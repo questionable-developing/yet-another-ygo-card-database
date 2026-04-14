@@ -1,11 +1,14 @@
 {
     "cid": "11f1c315-817e-4cda-9618-ca5d680e1bc5",
+    "yid": 86605184,
     "password": "86605184",
     "kid": 14251,
     "name": "Firewall Guardian",
     "name_jp": "ファイアウォール・ガーディアン",
     "name_jp_rom": "Faiawōru Gādian",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DANE-EN001",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP001",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -93,5 +105,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

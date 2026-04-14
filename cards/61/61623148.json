@@ -1,11 +1,14 @@
 {
     "cid": "1db6541d-42f3-4e9c-97a1-d9df06bbfc75",
+    "yid": 61623148,
     "password": "61623148",
     "kid": 7461,
     "name": "Dark World Grimoire",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>もつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ankokukai no Shomotsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark World Book",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP062",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

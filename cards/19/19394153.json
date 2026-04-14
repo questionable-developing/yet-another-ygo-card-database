@@ -1,12 +1,14 @@
 {
     "cid": "59d64283-93da-43bc-9535-d2f1f2175106",
-    "yid": null,
+    "yid": 19394153,
     "password": "19394153",
     "kid": 6491,
     "name": "Feather Shot",
     "name_jp": "フェザー・ショット",
     "name_jp_rom": "Fezā Shotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP042",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP1-JP017",
+            "set": "Duelist Pack: Jaden Yuki",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP102",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

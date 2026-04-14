@@ -1,12 +1,14 @@
 {
     "cid": "cd169e24-3146-4778-97b2-6bcb7e398c21",
-    "yid": null,
+    "yid": 11819616,
     "password": "11819616",
     "kid": 7893,
     "name": "Tytannial, Princess of Camellias",
     "name_jp": "<ruby lang=\"jp\"><rb>椿姫</rb><rp> (</rp><rt>つばき</rt><rp>)</rp></ruby>ティタニアル",
     "name_jp_rom": "Tsubaki Titaniaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -73,6 +75,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP029",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP043",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DBSS-JP041",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +138,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

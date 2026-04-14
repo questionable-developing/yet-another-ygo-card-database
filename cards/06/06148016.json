@@ -1,12 +1,14 @@
 {
     "cid": "f594c460-a28b-4271-ab63-4edfd59024cd",
-    "yid": null,
+    "yid": 6148016,
     "password": "06148016",
     "kid": 10558,
     "name": "Geargiagear",
     "name_jp": "ギアギアギア",
     "name_jp_rom": "Giagiagia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP077",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPM25",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

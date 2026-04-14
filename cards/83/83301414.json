@@ -1,11 +1,14 @@
 {
     "cid": "41237ddf-22e1-41c6-9765-436830842ec0",
+    "yid": 83301414,
     "password": "83301414",
     "kid": 14411,
     "name": "Witchcrafter Holiday",
     "name_jp": "ウィッチクラフト・サボタージュ",
     "name_jp_rom": "Witchikurafuto Sabotāju",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Sabotage",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WitchcrafterHoliday-19YJ-JP-ScR.png",
+            "art": "WitchcrafterHoliday-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WitchcrafterHoliday-MP20-EN-UR-1E.png",
-            "art": null
+            "art": "WitchcrafterHoliday-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "INCH-EN021",
@@ -44,6 +52,23 @@
             "set": "2020 Tin of Lost Memories",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP021",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "19YJ-JPO01",
+            "set": "Witchcrafter Duel Set",
+            "rarities": {
+                "Secret Rare": []
             }
         }
     ],
@@ -82,5 +107,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

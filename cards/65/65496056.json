@@ -1,11 +1,14 @@
 {
     "cid": "63827e11-e252-408a-861f-fb5c5ffd4435",
+    "yid": 65496056,
     "password": "65496056",
     "kid": 8643,
     "name": "Codarus",
     "name_jp": "コダロス",
     "name_jp_rom": "Kodarosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP032",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD23-JP012",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP101",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +109,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

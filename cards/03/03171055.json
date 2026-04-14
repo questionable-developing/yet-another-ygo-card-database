@@ -1,12 +1,14 @@
 {
     "cid": "893b19e3-933b-447a-ad8c-37b283e0b0ba",
-    "yid": null,
+    "yid": 3171055,
     "password": "03171055",
     "kid": 11285,
     "name": "Chain Dispel",
     "name_jp": "<ruby lang=\"jp\"><rb>連鎖解呪</rb><rp> (</rp><rt>チェーン・ディスペル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chēn Disuperu",
+    "name_jp_rom_base": "Rensa Kaiju",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP076",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

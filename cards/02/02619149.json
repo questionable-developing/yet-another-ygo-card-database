@@ -1,12 +1,14 @@
 {
     "cid": "5672b805-1b2e-48de-a69c-9112efbd1499",
-    "yid": null,
+    "yid": 2619149,
     "password": "02619149",
     "kid": 8025,
     "name": "Gladiator Beast Samnite",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>サムニテ",
     "name_jp_rom": "Guradiaru Bīsuto Samunite",
+    "name_jp_rom_base": "Kentōjū Samunite",
     "name_jp_tl": "Gladial Beast Samnite",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP027",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

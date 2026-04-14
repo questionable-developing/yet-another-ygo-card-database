@@ -1,12 +1,14 @@
 {
     "cid": "c9bb6e2c-74e7-48a8-8fa4-66952a033161",
-    "yid": null,
+    "yid": 4841383,
     "password": "04841383",
     "kid": 19899,
     "name": "Ragnaraika Bloom",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>繚</rb><rp> (</rp><rt>リョウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>乱</rb><rp> (</rp><rt>ラン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狂</rb><rp> (</rp><rt>クルイ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>咲</rb><rp> (</rp><rt>ザキ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika Ryōran Kuruizaki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Blooming in Profusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP058",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,7 +93,7 @@
         ],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand",
             "Special Summons from your Graveyard"
         ],
@@ -95,5 +106,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

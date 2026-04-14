@@ -1,11 +1,14 @@
 {
     "cid": "0cc6bb20-e898-4ccc-aa12-146a30977179",
+    "yid": 70899775,
     "password": "70899775",
     "kid": 11839,
     "name": "Pianissimo",
     "name_jp": "ピアニッシモ",
     "name_jp_rom": "Pianisshimo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP055",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

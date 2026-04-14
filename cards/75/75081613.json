@@ -1,11 +1,14 @@
 {
     "cid": "ae77f410-a97d-4d22-bb53-58f75ecbb73a",
+    "yid": 75081613,
     "password": "75081613",
     "kid": 7569,
     "name": "Aztekipede, the Worm Warrior",
     "name_jp": "ジャイアントワーム",
     "name_jp_rom": "Jaianto Wāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Giant Worm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP032",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

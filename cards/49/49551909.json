@@ -1,11 +1,14 @@
 {
     "cid": "08ffaa21-0f28-4b19-84e1-5e39bd92c6ca",
+    "yid": 49551909,
     "password": "49551909",
     "kid": 10198,
     "name": "Heroic Retribution Sword",
     "name_jp": "ヒロイック・リベンジ・ソード",
     "name_jp_rom": "Hiroikku Ribenji Sōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heroic Revenge Sword",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP068",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -55,9 +67,7 @@
             "Heroic"
         ],
         "asuparc": [],
-        "rel": [
-            "Heroic Challenger"
-        ],
+        "rel": [],
         "counter": [],
         "action": [
             "Equips self from field"
@@ -77,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

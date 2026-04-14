@@ -1,11 +1,14 @@
 {
     "cid": "f1fc9636-e33b-4d00-b201-9ed437506ff2",
+    "yid": 93751476,
     "password": "93751476",
     "kid": 10630,
     "name": "Brotherhood of the Fire Fist - Caribou",
     "name_jp": "<ruby lang=\"jp\"><rb>猛</rb><rp> (</rp><rt>もう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－テンレイ",
     "name_jp_rom": "Mōensei - Tenrei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fierce Flame Star - Tenrei",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP027",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

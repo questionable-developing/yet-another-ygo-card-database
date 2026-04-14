@@ -1,12 +1,14 @@
 {
     "cid": "e3b175f9-3d7a-4ff2-85c9-e75f5c0506ca",
-    "yid": null,
+    "yid": 29095552,
     "password": "29095552",
     "kid": 9272,
     "name": "Masked HERO Acid",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｍ・ＨＥＲＯ</rb><rp> (</rp><rt>マスクドヒーロー</rt><rp>)</rp></ruby> アシッド",
     "name_jp_rom": "Masukudo Hīrō Ashiddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP14-JP005",
+            "set": "Premium Pack 14",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP036",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP039",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +119,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

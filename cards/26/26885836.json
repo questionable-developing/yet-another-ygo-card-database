@@ -1,12 +1,14 @@
 {
     "cid": "dbd8ba72-3d72-4878-8a51-e816cdc27486",
-    "yid": null,
+    "yid": 26885836,
     "password": "26885836",
     "kid": 10136,
     "name": "Heroic Challenger - War Hammer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｈ</rb><rp> (</rp><rt>ヒロイック</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チャレンジャー</rt><rp>)</rp></ruby> ウォー・ハンマー",
     "name_jp_rom": "Hiroikku Charenjā Wō Hanmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN006",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP006",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

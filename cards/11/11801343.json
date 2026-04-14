@@ -1,12 +1,14 @@
 {
     "cid": "2d2c4f80-4058-4913-8852-d53c1d8e34e7",
-    "yid": null,
+    "yid": 11801343,
     "password": "11801343",
     "kid": 13519,
     "name": "Garbage Collector",
     "name_jp": "ガベージコレクター",
     "name_jp_rom": "Gabēji Korekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "SDPL-EN002",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD33-JP002",
             "set": "Structure Deck: Powercode Link",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

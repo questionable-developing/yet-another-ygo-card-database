@@ -1,11 +1,14 @@
 {
     "cid": "f9fe67f6-17ae-4eef-9a03-99596b371e23",
+    "yid": 85123771,
     "password": "85123771",
     "kid": 19485,
     "name": "Goblin Freefall Squad",
     "name_jp": "ゴブリン<ruby lang=\"jp\"><rb>降</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>下</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Kōkabutai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "PHNI-EN029",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP029",
             "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

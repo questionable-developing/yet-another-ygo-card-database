@@ -1,12 +1,14 @@
 {
     "cid": "3c394f4f-2c0e-4980-a9c9-9481d41e5b9c",
-    "yid": null,
+    "yid": 13331639,
     "password": "13331639",
     "kid": 12953,
     "name": "Supreme King Z-ARC",
     "name_jp": "<ruby lang=\"jp\"><rb>覇</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ズァーク",
     "name_jp_rom": "Haōryū Zāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Supreme King Dragon Zarc",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -33,10 +35,15 @@
         "1": {
             "idx": "1",
             "full": "SupremeKingZARC-RA04-EN-PlScR-1E.png",
+            "art": "SupremeKingZARC-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "SupremeKingZARC-LOSP-JP-PScR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "MACR-EN039",
@@ -65,6 +72,57 @@
             "rarities": {
                 "Platinum Secret Rare": [],
                 "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "BLGG-EN???",
+            "set": "Battles of Legend: Glorious Gallery",
+            "rarities": {
+                "Ultra Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP039",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "20CP-JPT09",
+            "set": "Surpassing 10000 Cards Commemoration Special Pack",
+            "rarities": {
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP038",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JPS01",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOSP-JP015",
+            "set": "Limit Over Special Pack Vol.2",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -144,5 +202,6 @@
             "Limited activations",
             "Fusion Pendulum Monster"
         ]
-    }
+    },
+    "links": {}
 }

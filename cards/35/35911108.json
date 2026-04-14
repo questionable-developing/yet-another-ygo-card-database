@@ -1,12 +1,14 @@
 {
     "cid": "23a1caf6-ffb2-485e-ab3c-4b38c5c4ef3b",
-    "yid": null,
+    "yid": 35911108,
     "password": "35911108",
     "kid": 13043,
     "name": "Launcher Commander",
     "name_jp": "ランチャー・コマンダー",
     "name_jp_rom": "Ranchā Komandā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -72,6 +74,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP004",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD34-JP009",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +124,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

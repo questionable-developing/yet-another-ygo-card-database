@@ -1,11 +1,14 @@
 {
     "cid": "6710877a-951e-45f1-8031-56c8accf197b",
+    "yid": 39778366,
     "password": "39778366",
     "kid": 12588,
     "name": "Union Scramble",
     "name_jp": "スクランブル・ユニオン",
     "name_jp_rom": "Sukuranburu Yunion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scramble Union",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -66,6 +69,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SDKS-JP032",
+            "set": "Structure Deck: Seto Kaiba",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,7 +107,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -107,5 +119,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f976123d-2cf6-415c-b005-81e9d93518fa",
+    "yid": 56049970,
     "password": "56049970",
     "kid": 12607,
     "name": "Crystron Prasiortle",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－プラシレータ",
     "name_jp_rom": "Kurisutoron - Purashirēta",
-    "name_jp_tl": "Crystron Prasirator",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Crystron - Prasirator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP17-EN137",
             "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP017",
+            "set": "Invasion: Vengeance",
             "rarities": {
                 "Common": []
             }
@@ -98,5 +110,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

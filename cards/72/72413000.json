@@ -1,11 +1,14 @@
 {
     "cid": "dd3fceda-e454-46df-bb56-f67dfdc526ca",
+    "yid": 72413000,
     "password": "72413000",
     "kid": 11953,
     "name": "Fluffal Wings",
     "name_jp": "ファーニマル・ウィング",
     "name_jp_rom": "Fānimaru Wingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Furnimal Wing",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DOCS-EN009",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP009",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

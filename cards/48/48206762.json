@@ -1,11 +1,14 @@
 {
     "cid": "f08c5ced-0483-4f47-9aa7-ca69cebe36ed",
+    "yid": 48206762,
     "password": "48206762",
     "kid": 6272,
     "name": "Fulfillment of the Contract",
     "name_jp": "<ruby lang=\"jp\"><rb>契</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>約</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>履</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Keiyaku no Rikō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,10 +71,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP046",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP166",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Cost, Effect, Continuous-like"
+            "Effect, Continuous-like"
         ],
         "mentions": [],
         "sup": [
@@ -103,5 +122,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

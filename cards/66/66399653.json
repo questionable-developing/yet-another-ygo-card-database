@@ -1,11 +1,14 @@
 {
     "cid": "cb1c24b8-afc3-4a07-aa82-9d1aaf158f5b",
+    "yid": 66399653,
     "password": "66399653",
     "kid": 12586,
     "name": "Union Hangar",
     "name_jp": "ユニオン<ruby lang=\"jp\"><rb>格</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>納</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>庫</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yunion Kakunōko",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -84,6 +87,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SDKS-JP020",
+            "set": "Structure Deck: Seto Kaiba",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP402",
+            "set": "Tournament Pack 2021 Vol.4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP035",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -126,5 +152,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

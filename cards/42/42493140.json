@@ -1,11 +1,14 @@
 {
     "cid": "07151dc1-7dca-41b9-b8da-5e78b34552da",
+    "yid": 42493140,
     "password": "42493140",
     "kid": 19373,
     "name": "Centur-Ion Trudea",
     "name_jp": "<ruby lang=\"jp\"><rb>従騎士</rb><rp> (</rp><rt>センチュリオン</rt><rp>)</rp></ruby>トゥルーデア",
     "name_jp_rom": "Senchurion Turūdea",
+    "name_jp_rom_base": "Jūkishi Turūdea",
     "name_jp_tl": "Centurion Trudea",
+    "name_jp_tl_base": "Junior Knight Trudea",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP017",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e557f24b-09aa-4500-ae80-d0b7803d5598",
+    "yid": 84550200,
     "password": "84550200",
     "kid": 5053,
     "name": "Sonic Jammer",
     "name_jp": "ソニックジャマー",
     "name_jp_rom": "Sonikku Jamā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "308-021",
+            "set": "The Sanctuary in the Sky (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP133",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

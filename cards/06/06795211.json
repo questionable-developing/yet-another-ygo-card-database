@@ -1,12 +1,14 @@
 {
     "cid": "c90920e8-807a-4e34-963e-4c215c52cae5",
-    "yid": null,
+    "yid": 6795211,
     "password": "06795211",
     "kid": 7911,
     "name": "Teleport",
     "name_jp": "アポート",
     "name_jp_rom": "Apōto",
-    "name_jp_tl": "Aport",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Apport",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "CSOC-EN055",
             "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP055",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18TP-JP111",
+            "set": "Tournament Pack 2018 Vol.1",
             "rarities": {
                 "Common": []
             }
@@ -73,5 +91,6 @@
             "Limited activations",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

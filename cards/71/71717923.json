@@ -1,11 +1,14 @@
 {
     "cid": "9f48c17a-7f6c-47f1-94ad-c8ce1afb2304",
+    "yid": 71717923,
     "password": "71717923",
     "kid": 7337,
     "name": "Mormolith",
     "name_jp": "モーム",
     "name_jp_rom": "Mōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Morm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP008",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

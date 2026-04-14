@@ -1,11 +1,14 @@
 {
     "cid": "22fac70a-2753-43d5-b8b9-e3a953842ce7",
+    "yid": 59934749,
     "password": "59934749",
     "kid": 13500,
     "name": "Isolde, Two Tales of the Noble Knights",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>追</rb><rp> (</rp><rt>つい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>想</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby> イゾルデ",
     "name_jp_rom": "Seikishi no Tsuisō Izorude",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Isolde, Reminiscence of the Holy Knights",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -62,6 +65,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP051",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "AC01-JP047",
+            "set": "Animation Chronicle 2021",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP211",
+            "set": "Tournament Pack 2025 Vol.2",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +133,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

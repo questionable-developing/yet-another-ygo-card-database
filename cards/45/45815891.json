@@ -1,11 +1,14 @@
 {
     "cid": "2e8cebd4-47af-4c06-bf25-e7f00228f271",
+    "yid": 45815891,
     "password": "45815891",
     "kid": 9202,
     "name": "Scrap Archfiend",
     "name_jp": "スクラップ・デスデーモン",
     "name_jp_rom": "Sukurappu Desu Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scrap Death Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP011",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -79,5 +91,6 @@
         "misc": [
             "Non-Effect Monster"
         ]
-    }
+    },
+    "links": {}
 }

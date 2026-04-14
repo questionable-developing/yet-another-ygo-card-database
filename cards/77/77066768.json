@@ -1,11 +1,14 @@
 {
     "cid": "7ab75e02-498f-47fc-80de-451bedece91c",
+    "yid": 77066768,
     "password": "77066768",
     "kid": 19208,
     "name": "Card Scanner",
     "name_jp": "カードスキャナー",
     "name_jp_rom": "Kādo Sukyanā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP066",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

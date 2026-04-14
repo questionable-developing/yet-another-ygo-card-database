@@ -1,11 +1,14 @@
 {
     "cid": "5318a5a9-7b60-41fb-ba7c-b4facc24dcf2",
+    "yid": 68663427,
     "password": "68663427",
     "kid": 20525,
     "name": "Reincarnation Unveiling Mail",
     "name_jp": "リンカーネイト・アンヴェイル・メイル",
     "name_jp_rom": "Rinkāneito Anveiru Meiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reincarnate Unveil Mail",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ROTA-EN049",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP049",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
@@ -88,5 +100,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

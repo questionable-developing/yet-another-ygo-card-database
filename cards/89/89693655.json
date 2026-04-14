@@ -1,0 +1,86 @@
+{
+    "cid": "68f79734-b9c7-41a0-910e-db337bd99aaa",
+    "yid": 89693655,
+    "password": "89693655",
+    "kid": 22687,
+    "name": "Subspace Battle",
+    "name_jp": "<ruby lang=\"jp\"><rb>亜</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>間</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>バトル",
+    "name_jp_rom": "Akūkan Batoru",
+    "name_jp_rom_base": null,
+    "name_jp_tl": null,
+    "name_jp_tl_base": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Normal",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Apply this effect 3 times.<br />● Each player reveals 1 monster in their Deck, except a monster with ? ATK. Add the monster with higher ATK to the hand of the player that revealed it, also destroy the monster with lower ATK, and if you do, inflict 500 damage to the player that revealed it. If they have the same ATK, shuffle them into the Deck. Each player cannot activate the effects of monsters with the same name as the monster they revealed for the rest of this turn.<br />You can only activate 1 \"Subspace Battle\" per turn.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Apply this effect 3 times.\n● Each player reveals 1 monster in their Deck, except a monster with ? ATK. Add the monster with higher ATK to the hand of the player that revealed it, also destroy the monster with lower ATK, and if you do, inflict 500 damage to the player that revealed it. If they have the same ATK, shuffle them into the Deck. Each player cannot activate the effects of monsters with the same name as the monster they revealed for the rest of this turn.\nYou can only activate 1 \"Subspace Battle\" per turn.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "SubspaceBattle-VJMP-JP-UR.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP283",
+            "set": "V Jump March 2026 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Effect, Condition"
+        ],
+        "mentions": [],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Reveals cards from your Deck",
+            "Reveals cards from your opponent's Deck",
+            "Adds from Deck to hand",
+            "Adds from your opponent's Deck to your opponent's hand"
+        ],
+        "stat_change": [],
+        "mst": [
+            "Destroys Main Deck",
+            "Prevents activation of your Effect Monsters",
+            "Prevents activation of your opponent's Effect Monsters"
+        ],
+        "summoning": [],
+        "attack": [],
+        "banished": [],
+        "life_points": [
+            "Damages you",
+            "Damages your opponent"
+        ],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Only once per turn"
+        ]
+    },
+    "links": {}
+}

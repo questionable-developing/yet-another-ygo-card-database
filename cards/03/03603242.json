@@ -1,12 +1,14 @@
 {
     "cid": "050b93e2-c336-4f89-a6b9-114f0f9911aa",
-    "yid": null,
+    "yid": 3603242,
     "password": "03603242",
     "kid": 8641,
     "name": "Shreddder",
     "name_jp": "シュレツダー",
     "name_jp_rom": "Shuretsudā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shretsdder",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP030",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

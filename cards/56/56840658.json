@@ -1,11 +1,14 @@
 {
     "cid": "cef19cdc-d16b-4366-b049-b5a6019af765",
+    "yid": 56840658,
     "password": "56840658",
     "kid": 6426,
     "name": "Poison Draw Frog",
     "name_jp": "<ruby lang=\"jp\"><rb>引</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby>きガエル",
     "name_jp_rom": "Hikigaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Draw Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP028",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP028",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

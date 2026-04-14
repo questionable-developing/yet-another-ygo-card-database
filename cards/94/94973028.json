@@ -1,11 +1,14 @@
 {
     "cid": "1b0da855-8e4b-4ecf-ae05-cb4970f1e592",
+    "yid": 94973028,
     "password": "94973028",
     "kid": 10627,
     "name": "Mecha Phantom Beast Coltwing",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>コルトウィング",
     "name_jp_rom": "Genjūki Korutowingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP024",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP3-JP053",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +135,6 @@
             "Requires control of specific Monster type",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

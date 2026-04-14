@@ -1,12 +1,14 @@
 {
     "cid": "f592f4a0-e3c3-4420-9ca1-22904c4d7115",
-    "yid": null,
+    "yid": 7889323,
     "password": "07889323",
     "kid": 17810,
     "name": "Tri-Brigade Showdown",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣の死線</rb><rp> (</rp><rt>トライブリゲード・デッドライン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Toraiburigēdo Deddorain",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tri-Brigade Dead Line",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +47,22 @@
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP055",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP150",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -87,5 +105,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

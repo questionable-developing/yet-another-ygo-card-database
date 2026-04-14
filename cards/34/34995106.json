@@ -1,12 +1,14 @@
 {
     "cid": "7294a121-da19-40b5-bce3-96fc6568d4f9",
-    "yid": null,
+    "yid": 34995106,
     "password": "34995106",
     "kid": 16016,
     "name": "Branded in White",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiro no Rakuin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,46 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP055",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP055",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP022",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP057",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP021",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +151,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

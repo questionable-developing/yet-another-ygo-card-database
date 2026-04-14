@@ -1,11 +1,14 @@
 {
     "cid": "7828f256-e604-4479-975d-c75eb024374e",
+    "yid": 57775790,
     "password": "57775790",
     "kid": 20926,
     "name": "Fabled Realm's Revival",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>復</rb><rp> (</rp><rt>ふっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>活</rb><rp> (</rp><rt>かつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Magōshinkai no Fukkatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon Roar God Realm's Revival",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,17 @@
             "set": "Battles of Legend: Monster Mayhem",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TW02-JP004",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Ultra Parallel Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -73,7 +87,7 @@
         "summoning": [
             "Prevents activations upon Summon",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -85,5 +99,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

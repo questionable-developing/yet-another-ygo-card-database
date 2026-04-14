@@ -1,11 +1,14 @@
 {
     "cid": "167c54d5-2cab-44ee-8454-e180c3b8acd3",
+    "yid": 67724434,
     "password": "67724434",
     "kid": 20802,
     "name": "Double Wild",
     "name_jp": "ダブル・ワイルド",
     "name_jp_rom": "Daburu Wairudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN065",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP065",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -74,5 +86,6 @@
             "Requires control of specific Level",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

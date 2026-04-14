@@ -1,11 +1,14 @@
 {
     "cid": "1e150c56-4910-4a90-91ec-7a3c908beb4a",
+    "yid": 97574404,
     "password": "97574404",
     "kid": 7585,
     "name": "Arcana Force VI - The Lovers",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>Ⅵ</rb><rp> (</rp><rt>シックス</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＬＯＶＥＲＳ</rb><rp> (</rp><rt>ザ・ラバーズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Shikkusu - Za Rabāzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LODT-EN012",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP012",
             "set": "Light of Destruction",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

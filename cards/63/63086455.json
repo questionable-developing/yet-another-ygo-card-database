@@ -1,11 +1,14 @@
 {
     "cid": "09f724d0-7e39-4727-ac7b-a7f02e69f758",
+    "yid": 63086455,
     "password": "63086455",
     "kid": 17480,
     "name": "Terrors of the Overroot",
     "name_jp": "<ruby lang=\"jp\"><rb>現世</rb><rp> (</rp><rt>ウツシヨ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>離</rb><rp> (</rp><rt>バナ</rt><rp>)</rp></ruby>レ",
     "name_jp_rom": "Utsushiyobanare",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Detachment from the Living World",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP078",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP040",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

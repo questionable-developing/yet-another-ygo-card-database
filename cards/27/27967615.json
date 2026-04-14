@@ -1,12 +1,14 @@
 {
     "cid": "943c1087-8833-4631-b7e8-c779aa5ac704",
-    "yid": null,
+    "yid": 27967615,
     "password": "27967615",
     "kid": 6138,
     "name": "Fusion Weapon",
     "name_jp": "フュージョン・ウェポン",
     "name_jp_rom": "Fyūjon Wepon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP047",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP047",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

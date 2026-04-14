@@ -1,11 +1,14 @@
 {
     "cid": "c17100ea-870e-4721-8bc0-daec62bea6a3",
+    "yid": 43722862,
     "password": "43722862",
     "kid": 12742,
     "name": "Windwitch - Ice Bell",
     "name_jp": "<ruby lang=\"jp\"><rb>ＷＷ</rb><rp> (</rp><rt>ウィンド・ウィッチ</rt><rp>)</rp></ruby>－アイス・ベル",
     "name_jp_rom": "Windo Witchi - Aisu Beru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP007",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20TP-JP401",
+            "set": "Tournament Pack 2020 Vol.4",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +125,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

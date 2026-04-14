@@ -1,11 +1,14 @@
 {
     "cid": "b458c142-661a-41fd-8af2-897e32cce353",
+    "yid": 68831625,
     "password": "68831625",
     "kid": 21824,
     "name": "DoomZ Command \"D.O.O.M.D.U.R.G.\"",
     "name_jp": "<ruby lang=\"jp\"><rb>終刻起動</rb><rp> (</rp><rt>ドゥームズ・コマンド</rt><rp>)</rp></ruby>『<ruby lang=\"jp\"><rb>Ｄ．Ｏ．Ｏ．Ｍ．Ｄ．Ｕ．Ｒ．Ｇ．</rb><rp> (</rp><rt>ドゥムドゥーク</rt><rp>)</rp></ruby>』",
     "name_jp_rom": "Dūmuzu Komando \"Dumudūku\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Doomsday Start-Up \"D.O.O.M.D.U.R.G.\"",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,16 @@
             "set": "Doom of Dimensions",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP058",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -89,5 +102,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

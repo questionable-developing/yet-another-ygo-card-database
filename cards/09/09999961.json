@@ -1,12 +1,14 @@
 {
     "cid": "96bd354c-d31f-4576-9892-12aa6a9468d4",
-    "yid": null,
+    "yid": 9999961,
     "password": "09999961",
     "kid": 8987,
     "name": "Beast Rage",
     "name_jp": "ビーストレイジ",
     "name_jp_rom": "Bīsuto Reiji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP056",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +80,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

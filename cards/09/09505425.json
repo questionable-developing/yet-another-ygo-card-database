@@ -1,12 +1,14 @@
 {
     "cid": "85e9531c-31e0-42bc-8d2f-910fa96d471f",
-    "yid": null,
+    "yid": 9505425,
     "password": "09505425",
     "kid": 15612,
     "name": "Crowley, the Magistus of Grimoires",
     "name_jp": "<ruby lang=\"jp\"><rb>法典の大賢者</rb><rp> (</rp><rt>マギストス・グリモワ</rt><rp>)</rp></ruby>クロウリー",
     "name_jp_rom": "Magisutosu Gurimowa Kurourī",
+    "name_jp_rom_base": "Hōten no Daikenja Kurourī",
     "name_jp_tl": "Crowley, the Magistus Grimoire",
+    "name_jp_tl_base": "Crowley, the Great Sage of Lawbooks",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +50,16 @@
             "set": "OTS Tournament Pack 27",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP001",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -102,5 +114,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

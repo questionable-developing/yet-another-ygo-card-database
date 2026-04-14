@@ -1,12 +1,14 @@
 {
     "cid": "90ef3598-18ac-4f32-8ea9-248ade810a10",
-    "yid": null,
+    "yid": 14307929,
     "password": "14307929",
     "kid": 20219,
     "name": "Diabell, Queen of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>ディアベル",
     "name_jp_rom": "Shiroki Mori no Yōma Diaberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Diabell, Apparition of the White Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +55,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP040",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "INFO-JP040",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,7 +112,7 @@
             "1 or more non-Tuner Synchro Materials",
             "Special Summons from your Extra Deck",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -100,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

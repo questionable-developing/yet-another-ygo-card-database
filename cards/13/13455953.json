@@ -1,12 +1,14 @@
 {
     "cid": "7429aaa1-aac5-4db7-9c83-8615570babc4",
-    "yid": null,
+    "yid": 13455953,
     "password": "13455953",
     "kid": 9307,
     "name": "Dverg of the Nordic Alfar",
     "name_jp": "<ruby lang=\"jp\"><rb>極</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>ドヴェルグ",
     "name_jp_rom": "Kyokuseirei Doverugu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Polar Star Spirit Dverg",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DvergoftheNordicAlfar-STOR-JP-R.jpg",
+            "art": "DvergoftheNordicAlfar-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DvergoftheNordicAlfar-OP18-EN-C-UE.png",
-            "art": null
+            "art": "DvergoftheNordicAlfar-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "STOR-EN016",
@@ -62,6 +69,15 @@
             "set": "OTS Tournament Pack 18",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP016",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -101,5 +117,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

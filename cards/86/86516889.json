@@ -1,11 +1,14 @@
 {
     "cid": "311a1cc3-f17a-4afa-b649-74a712f16830",
+    "yid": 86516889,
     "password": "86516889",
     "kid": 10805,
     "name": "Ghostrick Scare",
     "name_jp": "ゴーストリック・パニック",
     "name_jp_rom": "Gōsutorikku Panikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ghostrick Panic",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP074",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

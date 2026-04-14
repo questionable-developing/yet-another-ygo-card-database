@@ -1,12 +1,14 @@
 {
     "cid": "8139037e-b3b4-44df-bd92-1a8836fa10aa",
-    "yid": null,
+    "yid": 30100551,
     "password": "30100551",
     "kid": 11867,
     "name": "Minerva, the Exalted Lightsworn",
     "name_jp": "ライトロード・セイント ミネルバ",
     "name_jp_rom": "Raitorōdo Seinto Mineruba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Saint Minerva",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -60,6 +62,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP083",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "17SP-JP009",
+            "set": "Special Pack",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP135",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +131,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

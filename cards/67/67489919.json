@@ -1,11 +1,14 @@
 {
     "cid": "c6d52668-a087-4a5e-9b2e-9969931dffe0",
+    "yid": 67489919,
     "password": "67489919",
     "kid": 10626,
     "name": "Mecha Phantom Beast Blue Impala",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ブルーインパラス",
     "name_jp_rom": "Genjūki Burūinparasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mecha Phantom Beast Blue Impalase",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -53,6 +56,15 @@
         {
             "sid": "MAGO-EN064",
             "set": "Maximum Gold",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP023",
+            "set": "Judgment of the Light",
             "rarities": {
                 "Rare": []
             }
@@ -107,5 +119,6 @@
             "Requires control of specific Monster type",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

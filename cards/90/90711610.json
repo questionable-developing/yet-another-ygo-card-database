@@ -1,11 +1,14 @@
 {
     "cid": "5f20d870-a6f6-4ed2-8843-d5aa205ea6f1",
+    "yid": 90711610,
     "password": "90711610",
     "kid": 19516,
     "name": "Goblin Biker Grand Entrance",
     "name_jp": "<ruby lang=\"jp\"><rb>百鬼羅刹</rb><rp> (</rp><rt>ゴブリンライダー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>参</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>上</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Raidā Daisanjō",
+    "name_jp_rom_base": "Hyakkirasetsu Daisanjō",
     "name_jp_tl": "Goblin Rider Grand Entrance",
+    "name_jp_tl_base": "Hundred Demons Grand Entrance",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP061",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

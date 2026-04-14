@@ -1,11 +1,14 @@
 {
     "cid": "c18341c4-7fcf-4bed-b334-33fa019c06af",
+    "yid": 70423794,
     "password": "70423794",
     "kid": 7907,
     "name": "Morphtronic Cord",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・コード",
     "name_jp_rom": "Difōmā Kōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Cord",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CSOC-EN051",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP051",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -74,5 +86,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

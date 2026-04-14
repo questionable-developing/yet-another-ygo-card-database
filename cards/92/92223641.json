@@ -1,11 +1,14 @@
 {
     "cid": "d4315959-89ef-4858-971d-67160760e535",
+    "yid": 92223641,
     "password": "92223641",
     "kid": 8827,
     "name": "The Fountain in the Sky",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>泉</rb><rp> (</rp><rt>いずみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenkū no Izumi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP052",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD20-JP032",
+            "set": "Structure Deck: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

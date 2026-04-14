@@ -1,12 +1,14 @@
 {
     "cid": "6b01d4cb-5c50-413b-b3de-d1c4846cf929",
-    "yid": null,
+    "yid": 29455728,
     "password": "29455728",
     "kid": 9913,
     "name": "Twin Photon Lizard",
     "name_jp": "ツイン・フォトン・リザード",
     "name_jp_rom": "Tsuin Foton Rizādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -54,6 +56,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP039",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP13-JP018",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

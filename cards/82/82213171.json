@@ -1,11 +1,14 @@
 {
     "cid": "0c5e0b0b-02b7-4980-beb0-52f77feb175b",
+    "yid": 82213171,
     "password": "82213171",
     "kid": 7148,
     "name": "Prometheus, King of the Shadows",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>プロメティス",
     "name_jp_rom": "Yamiō Purometisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prometheus, King of Darkness",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -78,6 +81,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD12-JP003",
+            "set": "Structure Deck: Curse of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR06-JP006",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +130,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

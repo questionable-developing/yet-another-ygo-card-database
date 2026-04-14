@@ -1,12 +1,14 @@
 {
     "cid": "3f6aea83-9edb-4771-ad5b-3945ec588d4d",
-    "yid": null,
+    "yid": 30576089,
     "password": "30576089",
     "kid": 16809,
     "name": "Blue-Eyes Jet Dragon",
     "name_jp": "ブルーアイズ・ジェット・ドラゴン",
     "name_jp_rom": "Burūaizu Jetto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +74,42 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP004",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JP004",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP028",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP005",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +151,6 @@
             "Only once per turn",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

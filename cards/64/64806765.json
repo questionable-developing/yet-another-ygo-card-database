@@ -1,11 +1,14 @@
 {
     "cid": "b05629b2-2e18-4477-b61e-5b0073a219a8",
+    "yid": 64806765,
     "password": "64806765",
     "kid": 16189,
     "name": "Crow Tengu",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>のカラス<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狗</rb><rp> (</rp><rt>ぐ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hama no Karasu Tengu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Exorcist Crow Tengu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP196",
+            "set": "V Jump Spring 2021 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -51,7 +63,9 @@
         "mentions": [],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -75,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

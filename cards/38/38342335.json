@@ -1,11 +1,14 @@
 {
     "cid": "6cf7b871-07a6-43f5-8a13-887c997930a4",
+    "yid": 38342335,
     "password": "38342335",
     "kid": 13601,
     "name": "Knightmare Unicorn",
     "name_jp": "トロイメア・ユニコーン",
     "name_jp_rom": "Toroimea Yunikōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Troymare Unicorn",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -95,6 +98,51 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP047",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP044",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB31",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCTB-JP046",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP074",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -136,5 +184,6 @@
             "Co-link",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

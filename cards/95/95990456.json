@@ -1,11 +1,14 @@
 {
     "cid": "295b8018-b875-44ee-b222-06e3a220f2f9",
+    "yid": 95990456,
     "password": "95990456",
     "kid": 7654,
     "name": "Onmoraki",
     "name_jp": "<ruby lang=\"jp\"><rb>陰</rb><rp> (</rp><rt>おん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>も</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Onmoraki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP197",
+            "set": "V Jump Spring 2021 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -51,7 +63,9 @@
         "mentions": [],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -74,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

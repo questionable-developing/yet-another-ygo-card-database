@@ -1,11 +1,14 @@
 {
     "cid": "2c9a125d-e0b5-46fe-b0ff-1a70861f966d",
+    "yid": 43202238,
     "password": "43202238",
     "kid": 11383,
     "name": "Yazi, Evil of the Yang Zing",
     "name_jp": "<ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－ガイザー",
     "name_jp_rom": "Jaryūsei - Gaizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wicked Dragon Star - Yaizer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +69,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP051",
+            "set": "The New Challengers",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP097",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +136,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

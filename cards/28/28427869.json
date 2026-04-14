@@ -1,12 +1,14 @@
 {
     "cid": "1bbe87e7-cc86-40b2-bed9-0f5439063ab3",
-    "yid": null,
+    "yid": 28427869,
     "password": "28427869",
     "kid": 14738,
     "name": "Smoke Mosquito",
     "name_jp": "スモーク・モスキート",
     "name_jp_rom": "Sumōku Mosukīto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,8 +32,8 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SmokeMosquito-VJMP-JP-UR.png",
-            "art": null
+            "full": "SmokeMosquito-25DB-JP-NPR.png",
+            "art": "SmokeMosquito-MADU-EN-VG-artwork.png"
         },
         "1.1": {
             "idx": "1.1",
@@ -53,6 +55,22 @@
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP167",
+            "set": "V Jump Fall 2019 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP024",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -92,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "ca574449-4cf0-4c51-98a1-bc339bd40bba",
-    "yid": null,
+    "yid": 3492538,
     "password": "03492538",
     "kid": 4312,
     "name": "Insect Armor with Laser Cannon",
     "name_jp": "<ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>付</rb><rp> (</rp><rt>つき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機甲鎧</rb><rp> (</rp><rt>インセクトアーマー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kakitsuki Insekuto Āmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Firearms-Attached Insect Armor",
+    "name_jp_tl_base": "Firearms-Attached Armor",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "15AX-JPY45",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Common": [],
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +96,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

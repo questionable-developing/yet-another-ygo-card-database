@@ -1,12 +1,14 @@
 {
     "cid": "18a2fb33-852d-4130-9815-ea7859e9789c",
-    "yid": null,
+    "yid": 30303854,
     "password": "30303854",
     "kid": 15845,
     "name": "Laval Archer",
     "name_jp": "ラヴァル・アーチャー",
     "name_jp_rom": "Ravaru Āchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -41,6 +43,15 @@
             "set": "Ghosts From the Past (set)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP003",
+            "set": "Selection 10",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -88,5 +99,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

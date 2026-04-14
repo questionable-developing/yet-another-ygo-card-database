@@ -1,12 +1,14 @@
 {
     "cid": "fbd63b49-66dd-494c-add7-2bea4b3e7255",
-    "yid": null,
+    "yid": 29436665,
     "password": "29436665",
     "kid": 6530,
     "name": "Dark Eradicator Warlock",
     "name_jp": "<ruby lang=\"jp\"><rb>黒魔導の執行官</rb><rp> (</rp><rt>ブラック・エクスキューショナー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burakku Ekusukyūshonā",
+    "name_jp_rom_base": "Kuromadō no Shikkōkan",
     "name_jp_tl": "Black Executioner",
+    "name_jp_tl_base": "Black Magic Enforcer",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD6-JP001",
+            "set": "Structure Deck: Spellcaster's Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TP10-JP001",
+            "set": "Tournament Pack 2009 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +117,6 @@
             "Special Summon Monster",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

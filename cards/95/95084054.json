@@ -1,11 +1,14 @@
 {
     "cid": "f0816215-d959-4d24-9378-631f9308182e",
+    "yid": 95084054,
     "password": "95084054",
     "kid": 9002,
     "name": "Wattcannon",
     "name_jp": "エレキャノン",
     "name_jp_rom": "Erekyanon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecannon",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DREV-EN071",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP071",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

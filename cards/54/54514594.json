@@ -1,11 +1,14 @@
 {
     "cid": "db73bdb9-4158-44ad-9309-8062e170fa0a",
+    "yid": 54514594,
     "password": "54514594",
     "kid": 7104,
     "name": "Volcanic Hammerer",
     "name_jp": "ヴォルカニック・ハンマー",
     "name_jp_rom": "Vorukanikku Hanmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Volcanic Hammer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP013",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP123",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

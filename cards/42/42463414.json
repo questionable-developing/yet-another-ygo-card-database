@@ -1,11 +1,14 @@
 {
     "cid": "f40fb28a-748d-4ecf-9093-e74b0bfbdc81",
+    "yid": 42463414,
     "password": "42463414",
     "kid": 8186,
     "name": "Spined Gillman",
     "name_jp": "ニードル・ギルマン",
     "name_jp_rom": "Nīdoru Giruman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Needle Gillman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP034",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD23-JP009",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP132",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPB11",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +122,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

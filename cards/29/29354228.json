@@ -1,12 +1,14 @@
 {
     "cid": "b862969b-f14a-461e-a0b0-52c73b4f03df",
-    "yid": null,
+    "yid": 29354228,
     "password": "29354228",
     "kid": 15305,
     "name": "Dogmatika Encounter",
     "name_jp": "ドラグマ・エンカウンター",
     "name_jp_rom": "Doraguma Enkauntā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragma Encounter",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP071",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP012",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "25YJ-JPN02",
+            "set": "Story of White Duel Set",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +111,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

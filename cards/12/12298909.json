@@ -1,12 +1,14 @@
 {
     "cid": "92d87edc-a661-4da4-b253-5d567f05da14",
-    "yid": null,
+    "yid": 12298909,
     "password": "12298909",
     "kid": 7567,
     "name": "Prime Material Dragon",
     "name_jp": "マテリアルドラゴン",
     "name_jp_rom": "Materiaru Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Material Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP030",
+            "set": "Extra Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD22-JP011",
+            "set": "Structure Deck: Dragonic Legion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

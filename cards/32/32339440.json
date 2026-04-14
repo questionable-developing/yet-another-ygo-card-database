@@ -1,12 +1,14 @@
 {
     "cid": "3b51800e-c83f-483a-b782-d1959a916593",
-    "yid": null,
+    "yid": 32339440,
     "password": "32339440",
     "kid": 10619,
     "name": "Bujin Yamato",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>－ヤマト",
     "name_jp_rom": "Bujin - Yamato",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -73,6 +75,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP016",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DPEX-JP001",
+            "set": "Duelist Card Protector EX: Bujintei Susanowo",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP058",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP018",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +140,6 @@
             "Limited activations",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

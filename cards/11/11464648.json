@@ -1,12 +1,14 @@
 {
     "cid": "c85b0625-3d86-4c8e-bb32-725947861acf",
-    "yid": null,
+    "yid": 11464648,
     "password": "11464648",
     "kid": 20774,
     "name": "Fiendsmith's Rextremende",
     "name_jp": "<ruby lang=\"jp\"><rb>刻まれし魔</rb><rp> (</rp><rt>デモンスミス</rt><rp>)</rp></ruby>レクストレメンデ",
     "name_jp_rom": "Demonsumisu Rekusu Toremende",
+    "name_jp_rom_base": "Kizamareshi Ma Rekusu Toremende",
     "name_jp_tl": "Demonsmith Rex Tremendae",
+    "name_jp_tl_base": "Engraved Demon Rex Tremendae",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -40,6 +42,26 @@
         {
             "sid": "SUDA-EN037",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP037",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP037",
+            "set": "Supreme Darkness +1 Bonus Pack",
             "rarities": {
                 "Ultra Rare": [],
                 "Quarter Century Secret Rare": []
@@ -95,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

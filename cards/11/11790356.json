@@ -1,12 +1,14 @@
 {
     "cid": "b649af54-3267-42f9-b8ec-951fefa03c7a",
-    "yid": null,
+    "yid": 11790356,
     "password": "11790356",
     "kid": 12160,
     "name": "Buster Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戒</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛮</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－バスター・ドラゴン",
     "name_jp_rom": "Hakai Banryū - Basutā Dragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sinful Savage Dragon - Buster Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP052",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP008",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

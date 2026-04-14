@@ -1,11 +1,14 @@
 {
     "cid": "4e00bc1b-d20f-412e-a4ad-9c75b8f9659f",
+    "yid": 60534585,
     "password": "60534585",
     "kid": 8995,
     "name": "Battle Instinct",
     "name_jp": "<ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>争</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>本</rb><rp> (</rp><rt>ほん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>能</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tōsō Honnō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DREV-EN064",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP064",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

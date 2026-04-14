@@ -1,12 +1,14 @@
 {
     "cid": "f4fc9218-1b1f-4511-a891-47affd96effe",
-    "yid": null,
+    "yid": 1580833,
     "password": "01580833",
     "kid": 12132,
     "name": "Dinomist Stegosaur",
     "name_jp": "ダイナミスト・ステゴサウラー",
     "name_jp_rom": "Dainamisuto Sutegosaurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dynamist Stegosaurer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP024",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like"
@@ -90,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

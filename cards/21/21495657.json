@@ -1,12 +1,14 @@
 {
     "cid": "ce7da418-62ff-488a-8aa9-f9690493ea96",
-    "yid": null,
+    "yid": 21495657,
     "password": "21495657",
     "kid": 11699,
     "name": "Zefraxi, Treasure of the Yang Zing",
     "name_jp": "<ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－セフィラフウシ",
     "name_jp_rom": "Hōryūsei - Sefirafūshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Treasure Dragon Star - Sephirafuxi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -59,6 +61,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP024",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP074",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like, Condition"
@@ -101,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

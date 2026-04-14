@@ -1,11 +1,14 @@
 {
     "cid": "3d1a4f19-913c-44a1-a791-f809b603bb68",
+    "yid": 56099748,
     "password": "56099748",
     "kid": 17120,
     "name": "Visas Starfrost",
     "name_jp": "ヴィサス＝スタフロスト",
     "name_jp_rom": "Visasu=Sutafurosuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP008",
+            "set": "Dimension Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JP008",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,7 +136,9 @@
         ],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

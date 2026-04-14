@@ -1,12 +1,14 @@
 {
     "cid": "b733d091-32e1-4433-b9cf-8774d2b713ff",
-    "yid": null,
+    "yid": 34010534,
     "password": "34010534",
     "kid": 13876,
     "name": "Cynet Optimization",
     "name_jp": "サイバネット・オプティマイズ",
     "name_jp_rom": "Saibanetto Oputimaizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cybenet Optimize",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "FIGA-EN041",
             "set": "Fists of the Gadgets",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD34-JP023",
+            "set": "Structure Deck: Master Link",
             "rarities": {
                 "Super Rare": []
             }
@@ -81,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

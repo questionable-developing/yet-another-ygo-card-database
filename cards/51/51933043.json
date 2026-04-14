@@ -1,11 +1,14 @@
 {
     "cid": "1e30acc8-69b2-4dd3-8448-f334c2dda0b6",
+    "yid": 51933043,
     "password": "51933043",
     "kid": 15483,
     "name": "Raidraptor - Heel Eagle",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ヒール・イーグル",
     "name_jp_rom": "Reido Raputāzu - Hīru Īguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Heel Eagle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "PHRA-EN004",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP004",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b52bb1e8-d29d-4664-9ce9-e8200fcfeda2",
-    "yid": null,
+    "yid": 8284390,
     "password": "08284390",
     "kid": 12922,
     "name": "Speedroid Rubberband Plane",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＲ</rb><rp> (</rp><rt>スピードロイド</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>５</rb><rp> (</rp><rt>ファイブ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>６</rb><rp> (</rp><rt>シックス</rt><rp>)</rp></ruby>プレーン",
     "name_jp_rom": "Supīdoroido Faibu Shikkusu Purēn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Speedroid 5-6-Plane",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "MACR-EN008",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP008",
             "set": "Maximum Crisis",
             "rarities": {
                 "Rare": []
@@ -82,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

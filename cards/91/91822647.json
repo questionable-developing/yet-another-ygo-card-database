@@ -1,11 +1,14 @@
 {
     "cid": "e17037a0-87fa-4bb7-a826-4bb427d6a88d",
+    "yid": 91822647,
     "password": "91822647",
     "kid": 9611,
     "name": "Whirlwind of Gusto",
     "name_jp": "ガスタのつむじ<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gasuta no Tsumujikaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Whirlwind of Gusta",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WhirlwindofGusto-DTC1-JP-DNPR-DT.jpg",
+            "art": "WhirlwindofGusto-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WhirlwindofGusto-HA06-EN-SR-1E.png",
-            "art": null
+            "art": "WhirlwindofGusto-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA06-EN060",
             "set": "Hidden Arsenal 6: Omega Xyz",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT12-JP050",
+            "set": "Duel Terminal - Xyz Startup!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP116",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -73,5 +97,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

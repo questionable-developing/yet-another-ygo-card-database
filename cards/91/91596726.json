@@ -1,11 +1,14 @@
 {
     "cid": "467b86dc-fe06-49fd-9100-14f9c947a3b2",
+    "yid": 91596726,
     "password": "91596726",
     "kid": 7422,
     "name": "Dark Crusader",
     "name_jp": "ダーク・クルセイダー",
     "name_jp_rom": "Dāku Kuruseidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP020",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP078",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

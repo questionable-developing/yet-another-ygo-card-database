@@ -1,11 +1,14 @@
 {
     "cid": "fce21c04-9d59-4d44-a7ed-1fa62255b1b0",
+    "yid": 97584500,
     "password": "97584500",
     "kid": 10911,
     "name": "Ghostrick Mummy",
     "name_jp": "ゴーストリック・マミー",
     "name_jp_rom": "Gōsutorikku Mamī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP025",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +108,6 @@
             "Limited activations",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

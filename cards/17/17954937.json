@@ -1,12 +1,14 @@
 {
     "cid": "07ce6efb-50d7-468b-b023-7db8dadefc16",
-    "yid": null,
+    "yid": 17954937,
     "password": "17954937",
     "kid": 21060,
     "name": "Mitsurugi Great Purification",
-    "name_jp": "<ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大祓</rb><rp> (</rp><rt>オオハラエ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>巳剣大祓</rb><rp> (</rp><rt>ミツルギオオハラエ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mitsurugi Ooharae",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword Great Purification",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsurugiGreatPurification-SUDA-EN-C-1E.png",
+            "full": "MitsurugiGreatPurification-L26D-EN-UR-1E.png",
             "art": null
         }
     },
@@ -36,6 +38,22 @@
         {
             "sid": "SUDA-EN096",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENM20",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP041",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +105,6 @@
             "Requires control of specific Type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e2e40862-3c6c-4787-bbb3-018634924e01",
-    "yid": null,
+    "yid": 20855340,
     "password": "20855340",
     "kid": 9899,
     "name": "Evoltile Pleuro",
     "name_jp": "エヴォルド・プレウロス",
     "name_jp_rom": "Evorudo Pureurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evold Pleuros",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN025",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP025",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

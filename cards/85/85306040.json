@@ -1,11 +1,14 @@
 {
     "cid": "a8f4757e-fd7d-4428-88e5-326a7737ce5e",
+    "yid": 85306040,
     "password": "85306040",
     "kid": 6418,
     "name": "Goblin Elite Attack Force",
     "name_jp": "ゴブリンエリート<ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Erīto Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Goblin Elite Force",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -68,6 +71,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP020",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP020",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "VS15-JPD05",
+            "set": "Duelist Entry Deck VS",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SSD1-JP006",
+            "set": "Speed Start Deck Link Edition",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +132,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

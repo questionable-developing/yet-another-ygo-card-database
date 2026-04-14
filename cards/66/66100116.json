@@ -1,11 +1,14 @@
 {
     "cid": "614cd966-10d8-46fe-91d2-74e0738c2421",
+    "yid": 66100116,
     "password": "66100116",
     "kid": 21770,
     "name": "Vengeful Witch",
     "name_jp": "バイオレンス・ウィッチ",
     "name_jp_rom": "Baiorensu Witchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Violence Witch",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "Doom of Dimensions",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP004",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -89,5 +101,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

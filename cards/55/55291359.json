@@ -1,11 +1,14 @@
 {
     "cid": "0ad1a484-d376-431c-9027-7a9f8459a47a",
+    "yid": 55291359,
     "password": "55291359",
     "kid": 4627,
     "name": "Succubus Knight",
     "name_jp": "サキュバス・ナイト",
     "name_jp_rom": "Sakyubasu Naito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SuccubusKnight-DL2-JP-C.jpg",
+            "art": "SuccubusKnight-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SuccubusKnight-LOB-EN-C-UE-25thAnniversaryEdition.png",
-            "art": null
+            "art": "SuccubusKnight-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LOB-EN117",
@@ -45,6 +53,29 @@
         {
             "sid": "LOB-EN117",
             "set": "Legend of Blue Eyes White Dragon (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PG-56",
+            "set": "Phantom God",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL2-080",
+            "set": "Duelist Legacy Volume.2",
             "rarities": {
                 "Common": []
             }
@@ -73,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

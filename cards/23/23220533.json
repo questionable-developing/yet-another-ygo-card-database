@@ -1,12 +1,14 @@
 {
     "cid": "971b55dc-addb-428c-a834-8ce5e47027e4",
-    "yid": null,
+    "yid": 23220533,
     "password": "23220533",
     "kid": 15871,
     "name": "Starry Knight Rayel",
     "name_jp": "ホーリーナイツ・レイエル",
     "name_jp_rom": "Hōrī Naitsu Reieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Nights Rayel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -49,6 +51,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP042",
+            "set": "Selection 10",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

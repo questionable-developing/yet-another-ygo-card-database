@@ -1,11 +1,14 @@
 {
     "cid": "72eb0df7-fe93-4121-9076-e5bc199cccfe",
+    "yid": 87321742,
     "password": "87321742",
     "kid": 15484,
     "name": "Raidraptor - Strangle Lanius",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ストラングル・レイニアス",
     "name_jp_rom": "Reido Raputāzu - Sutoranguru Reiniasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Strangle Lanius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -40,6 +43,24 @@
             "set": "Phantom Rage",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP005",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP156",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -84,5 +105,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "f463f377-4793-48cc-9294-da2c33612863",
-    "yid": null,
+    "yid": 14469229,
     "password": "14469229",
     "kid": 11602,
     "name": "Crystal Keeper",
     "name_jp": "<ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>玉</rb><rp> (</rp><rt>ぎょく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hōgyoku no Shugosha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gem Keeper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP082",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD44-JP010",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like"
@@ -99,5 +117,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

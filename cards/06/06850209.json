@@ -1,12 +1,14 @@
 {
     "cid": "f291c8d9-125a-4825-914a-d3c52da0a002",
-    "yid": null,
+    "yid": 6850209,
     "password": "06850209",
     "kid": 5722,
     "name": "A Deal with Dark Ruler",
     "name_jp": "デーモンとの<ruby lang=\"jp\"><rb>駆</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>け<ruby lang=\"jp\"><rb>引</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby>き",
     "name_jp_rom": "Dēmon to no Kakehiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "A Deal with a Daemon",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -67,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "304-030",
+            "set": "Power of the Guardian",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP192",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +117,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

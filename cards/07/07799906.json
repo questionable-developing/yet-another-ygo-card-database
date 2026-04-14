@@ -1,12 +1,14 @@
 {
     "cid": "6057c400-e72f-4695-b554-87f35fb86dd8",
-    "yid": null,
+    "yid": 7799906,
     "password": "07799906",
     "kid": 14224,
     "name": "Performapal Smile Sorcerer",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>スマイル・マジシャン",
     "name_jp_rom": "Entameito Sumairu Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Smile Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -31,15 +33,29 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PerformapalSmileSorcerer-20TH-JP-UR.png",
+            "art": "PerformapalSmileSorcerer-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PerformapalSmileSorcerer-DUPO-EN-UR-1E.png",
-            "art": null
+            "art": "PerformapalSmileSorcerer-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DUPO-EN012",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "20TH-JPB26",
+            "set": "20th Anniversary Duelist Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -88,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

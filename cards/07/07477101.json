@@ -1,12 +1,14 @@
 {
     "cid": "3a423da2-08f3-4996-beb3-b19443956f5a",
-    "yid": null,
+    "yid": 7477101,
     "password": "07477101",
     "kid": 20282,
     "name": "Seventh Tachyon",
     "name_jp": "<ruby lang=\"jp\"><rb>時空の七皇</rb><rp> (</rp><rt>セブンス・タキオン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sebunsu Takion",
+    "name_jp_rom_base": "Jikū no Nanakō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Seven Emperors of Spacetime",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -39,6 +41,26 @@
             "rarities": {
                 "Secret Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP006",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP071",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -79,7 +101,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

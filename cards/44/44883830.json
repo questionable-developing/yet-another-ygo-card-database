@@ -1,11 +1,14 @@
 {
     "cid": "ddb162f6-bbd6-48ae-a50e-dda4a5058791",
+    "yid": 44883830,
     "password": "44883830",
     "kid": 6435,
     "name": "Des Croaking",
     "name_jp": "<ruby lang=\"jp\"><rb>死の合唱</rb><rp> (</rp><rt>デスコーラス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Desu Kōrasu",
+    "name_jp_rom_base": "Shi no Gasshō",
     "name_jp_tl": "Death Chorus",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "CRV-EN042",
             "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP042",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP042",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -73,5 +92,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

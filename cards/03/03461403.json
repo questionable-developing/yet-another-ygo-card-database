@@ -1,12 +1,14 @@
 {
     "cid": "712d330d-42cd-413b-8fc8-8fb4ab0f2fd3",
-    "yid": null,
+    "yid": 3461403,
     "password": "03461403",
     "kid": 19209,
     "name": "The Immortal Bushi Mourns the Mortal Body",
     "name_jp": "<ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>悼</rb><rp> (</rp><rt>いた</rt><rp>)</rp></ruby>み",
     "name_jp_rom": "Fushibushi no Itami",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mourning of the Immortal Samurai",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP067",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

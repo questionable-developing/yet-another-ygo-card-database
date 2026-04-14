@@ -1,12 +1,14 @@
 {
     "cid": "14d9fff6-7e7e-40b1-bcc1-9a531437c986",
-    "yid": null,
+    "yid": 25290459,
     "password": "25290459",
     "kid": 6133,
     "name": "Level Up!",
     "name_jp": "レベルアップ！",
     "name_jp_rom": "Reberu Appu!",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP041",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP041",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +113,6 @@
         "misc": [
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

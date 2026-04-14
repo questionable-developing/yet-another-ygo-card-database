@@ -1,11 +1,14 @@
 {
     "cid": "431a45ff-2c9c-41e9-b6b0-26c7fdc09552",
+    "yid": 37803172,
     "password": "37803172",
     "kid": 10390,
     "name": "Hazy Flame Peryton",
     "name_jp": "<ruby lang=\"jp\"><rb>陽炎獣</rb><rp> (</rp><rt>ヘイズビースト</rt><rp>)</rp></ruby> ペリュトン",
     "name_jp_rom": "Heizu Bīsuto Peryuton",
+    "name_jp_rom_base": "Yōenjū Peryuton",
     "name_jp_tl": "Haze Beast Peryton",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CBLZ-EN031",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP031",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Rare": []
@@ -85,5 +97,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

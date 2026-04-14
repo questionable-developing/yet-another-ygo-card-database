@@ -1,11 +1,14 @@
 {
     "cid": "52e3c2d1-5e6a-46aa-b654-a82bfe5fdc19",
+    "yid": 80887714,
     "password": "80887714",
     "kid": 9924,
     "name": "Galaxy Storm",
     "name_jp": "ギャラクシー・ストーム",
     "name_jp_rom": "Gyarakushī Sutōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP050",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP13-JP025",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

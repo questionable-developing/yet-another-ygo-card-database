@@ -1,11 +1,14 @@
 {
     "cid": "0e9bb36b-7a02-4fb7-9111-2630bf82bfa8",
+    "yid": 93469007,
     "password": "93469007",
     "kid": 8046,
     "name": "Assault Overload",
     "name_jp": "バスター・バースト",
     "name_jp_rom": "Basutā Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Burst",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CRMS-EN051",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP051",
             "set": "Crimson Crisis",
             "rarities": {
                 "Common": []
@@ -70,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

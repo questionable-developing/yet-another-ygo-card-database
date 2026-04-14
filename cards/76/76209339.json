@@ -1,11 +1,14 @@
 {
     "cid": "8d2a7a48-af7a-44be-9cea-78d22f3eeee4",
+    "yid": 76209339,
     "password": "76209339",
     "kid": 14881,
     "name": "Megalith Emergence",
     "name_jp": "メガリス・エマージョン",
     "name_jp_rom": "Megarisu Emājon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Megalith Emersion",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "IGAS-EN072",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP072",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

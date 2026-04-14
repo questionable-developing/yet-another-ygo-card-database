@@ -1,11 +1,14 @@
 {
     "cid": "a5b94561-45f3-45ca-af8b-a91d38d3cf34",
+    "yid": 42364257,
     "password": "42364257",
     "kid": 4855,
     "name": "Anti Raigeki",
     "name_jp": "<ruby lang=\"jp\"><rb>避</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>針</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hiraishin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightning Rod",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.5",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "",
+            "set": "Booster 5",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -50,7 +69,9 @@
         ],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Raigeki (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -68,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

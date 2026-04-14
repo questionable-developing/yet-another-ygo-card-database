@@ -1,12 +1,14 @@
 {
     "cid": "eb6496a2-fbca-47c3-9ddf-9abba73eae88",
-    "yid": null,
+    "yid": 2834264,
     "password": "02834264",
     "kid": 16631,
     "name": "Beetrooper Armor Horn",
     "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫</rb><rp> (</rp><rt>ビートルーパー</rt><rp>)</rp></ruby>アームド・ホーン",
     "name_jp_rom": "Bītorūpā Āmudo Hōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beetrooper Armed Horn",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP008",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP307",
+            "set": "Tournament Pack 2024 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

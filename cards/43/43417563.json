@@ -1,11 +1,14 @@
 {
     "cid": "5163b895-2957-40a1-b7bd-4aa6f53655d3",
+    "yid": 43417563,
     "password": "43417563",
     "kid": 4682,
     "name": "Commencement Dance",
     "name_jp": "<ruby lang=\"jp\"><rb>踊</rb><rp> (</rp><rt>おど</rt><rp>)</rp></ruby>りによる<ruby lang=\"jp\"><rb>誘</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>はつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Odori ni yoru Yūhatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-11",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-046",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +104,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

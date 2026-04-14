@@ -1,11 +1,14 @@
 {
     "cid": "38c63a95-265b-4cb0-9616-8cd4a8dc83dd",
+    "yid": 94350039,
     "password": "94350039",
     "kid": 14559,
     "name": "T.G. Gear Zombie",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> ギア・ゾンビ",
     "name_jp_rom": "Tekku Jīnasu Gia Zonbi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Gear Zombie",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP19-JP026",
+            "set": "Collection Pack: Duelist of Revolution Version",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP040",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

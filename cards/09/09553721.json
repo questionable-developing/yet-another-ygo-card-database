@@ -1,12 +1,14 @@
 {
     "cid": "a4462906-f6a6-4f83-b286-34ac4d71777c",
-    "yid": null,
+    "yid": 9553721,
     "password": "09553721",
     "kid": 12796,
     "name": "Shinobird Power Spot",
     "name_jp": "<ruby lang=\"jp\"><rb>霊魂の拠所</rb><rp> (</rp><rt>エスプリット・パワースポット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Esupuritto Pawāsupotto",
+    "name_jp_rom_base": "Reikon no Yoridokoro",
     "name_jp_tl": "Esprit Power Spot",
+    "name_jp_tl_base": "Soul Grounds",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP17-EN214",
             "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP061",
+            "set": "Raging Tempest",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +99,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

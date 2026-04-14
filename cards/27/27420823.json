@@ -1,12 +1,14 @@
 {
     "cid": "4e29bffd-41c3-4e9b-96dd-b62b779d883d",
-    "yid": null,
+    "yid": 27420823,
     "password": "27420823",
     "kid": 21380,
     "name": "K9-17 \"Ripper\"",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｋ９</rb><rp> (</rp><rt>ケーナイン</rt><rp>)</rp></ruby>－１７<ruby lang=\"jp\"><rb>号</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby> “<ruby lang=\"jp\"><rb>Ｒｉｐｐｅｒ</rb><rp> (</rp><rt>リッパー</rt><rp>)</rp></ruby>”",
     "name_jp_rom": "Kē Nain - Jūnana-gō \"Rippā\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": "K9-#17 \"Ripper\"",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -31,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "K917Ripper-DBJH-JP-SR.png",
+            "art": "K917Ripper-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "K917Ripper-JUSH-EN-SR-1E.png",
-            "art": null
+            "art": "K917Ripper-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JUSH-EN035",
@@ -43,6 +50,16 @@
             "rarities": {
                 "Super Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP035",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -84,7 +101,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

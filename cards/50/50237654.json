@@ -1,11 +1,14 @@
 {
     "cid": "1febfd84-bbb7-4ddc-aa26-3e0cbdd401d8",
+    "yid": 50237654,
     "password": "50237654",
     "kid": 14905,
     "name": "The Dark Magicians",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－ブラック・マジシャンズ",
     "name_jp_rom": "Chōmadōshi - Burakku Majishanzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Magicians - Black Magicians",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +74,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP23-JP001",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP033",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP015",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,7 +153,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Limited activations"
+            "Limited activations",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

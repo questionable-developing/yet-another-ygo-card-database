@@ -1,11 +1,14 @@
 {
     "cid": "0a8cd3cb-261c-4baf-b729-529cacf99896",
+    "yid": 86148577,
     "password": "86148577",
     "kid": 14128,
     "name": "Guardragon Elpy",
     "name_jp": "<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>エルピィ",
     "name_jp_rom": "Shugoryū Erupyi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -53,6 +56,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP051",
+            "set": "Savage Strike",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

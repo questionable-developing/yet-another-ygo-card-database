@@ -1,11 +1,14 @@
 {
     "cid": "fe96bca0-e399-4e36-92ed-e97a0e3a48a5",
+    "yid": 79130389,
     "password": "79130389",
     "kid": 14489,
     "name": "Marincess Coral Anemone",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女</rb><rp> (</rp><rt>マリンセス</rt><rp>)</rp></ruby>コーラルアネモネ",
     "name_jp_rom": "Marinsesu Kōraru Anemone",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -61,6 +64,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP041",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVDS-JPB06",
+            "set": "LINK VRAINS Duelist Set",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP26-JP041",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP306",
+            "set": "Tournament Pack 2024 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +135,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

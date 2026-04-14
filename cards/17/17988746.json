@@ -1,12 +1,14 @@
 {
     "cid": "3490267c-9280-4108-9425-5798dc5e6c94",
-    "yid": null,
+    "yid": 17988746,
     "password": "17988746",
     "kid": 13076,
     "name": "Parry Knights",
     "name_jp": "パーリィナイツ",
     "name_jp_rom": "Pāryi Naitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ParryKnights-COTD-JP-NR.png",
+            "art": "ParryKnights-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ParryKnights-MP18-EN-C-1E.png",
-            "art": null
+            "art": "ParryKnights-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "COTD-EN037",
@@ -48,6 +55,15 @@
             "set": "2018 Mega-Tin Mega Pack",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP037",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -80,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

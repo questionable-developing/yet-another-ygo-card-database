@@ -1,11 +1,14 @@
 {
     "cid": "97e522f2-e40b-4c54-9ac5-3dadf7c88bd4",
+    "yid": 81380218,
     "password": "81380218",
     "kid": 4899,
     "name": "Chorus of Sanctuary",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>歌</rb><rp> (</rp><rt>うた</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>声</rb><rp> (</rp><rt>ごえ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seiiki no Utagoe",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -31,11 +34,16 @@
         },
         "1.1": {
             "idx": "1.1",
+            "full": "ChorusofSanctuary-SRL-EN-C-UE.jpg",
+            "art": "ChorusofSanctuary-OW.png"
+        },
+        "1.2": {
+            "idx": "1.2",
             "full": "ChorusofSanctuary-SRL-EN-C-UE-25thAnniversaryEdition.png",
             "art": "ChorusofSanctuary-MADU-EN-VG-artwork.png"
         }
     },
-    "image": "1.1",
+    "image": "1.2",
     "sets": [
         {
             "sid": "DB1-EN022",
@@ -54,6 +62,36 @@
         {
             "sid": "SRL-EN037",
             "set": "Spell Ruler (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MR-37",
+            "set": "Magic Ruler (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-026",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE1-JP022",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE01-JP019",
+            "set": "Beginner's Edition 1 (2011)",
             "rarities": {
                 "Common": []
             }
@@ -84,5 +122,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

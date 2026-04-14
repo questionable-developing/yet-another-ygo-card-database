@@ -1,11 +1,14 @@
 {
     "cid": "64652ca9-6ce3-4b20-b6bf-f39c4d3cda6e",
+    "yid": 84523092,
     "password": "84523092",
     "kid": 14408,
     "name": "Witchcrafter Haine",
     "name_jp": "ウィッチクラフト・ハイネ",
     "name_jp_rom": "Witchikurafuto Haine",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Haine",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WitchcrafterHaine-SSB1-JP-NPR.png",
+            "art": "WitchcrafterHaine-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WitchcrafterHaine-MAMA-EN-UR-1E.png",
-            "art": null
+            "art": "WitchcrafterHaine-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "INCH-EN018",
@@ -54,6 +62,23 @@
             "set": "Magnificent Mavens",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP018",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP018",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -93,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "79e57b42-406a-4148-abfc-1cb8856467c7",
-    "yid": null,
+    "yid": 11609969,
     "password": "11609969",
     "kid": 11442,
     "name": "D/D Savant Kepler",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>ケプラー",
     "name_jp_rom": "Dīdī Madōkenja Kepurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "D/D Magical Savant Kepler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -66,6 +68,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPRG-JP004",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD30-JP011",
+            "set": "Structure Deck: Pendulum Domination",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LGB1-JP039",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP072",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like, Condition, Trigger-like"
@@ -113,5 +148,6 @@
             "During the Standby Phase",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

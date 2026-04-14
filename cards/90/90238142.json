@@ -1,11 +1,14 @@
 {
     "cid": "ee2b2f32-0e10-4208-b474-99bfb278da0f",
+    "yid": 90238142,
     "password": "90238142",
     "kid": 10516,
     "name": "Harpie Channeler",
     "name_jp": "ハーピィ・チャネラー",
     "name_jp_rom": "Hāpyi Chanerā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -78,6 +81,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP035",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP007",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP121",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +148,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

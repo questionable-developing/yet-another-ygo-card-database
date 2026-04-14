@@ -1,12 +1,14 @@
 {
     "cid": "9c9d1550-9928-44d6-aa57-cacd39a9bf21",
-    "yid": null,
+    "yid": 2729285,
     "password": "02729285",
     "kid": 11351,
     "name": "Fluffal Cat",
     "name_jp": "ファーニマル・キャット",
     "name_jp_rom": "Fānimaru Kyatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Furnimal Cat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP019",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

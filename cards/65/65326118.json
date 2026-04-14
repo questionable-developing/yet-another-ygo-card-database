@@ -1,11 +1,14 @@
 {
     "cid": "7c4900b1-dbcd-40ba-952e-492db64ce075",
+    "yid": 65326118,
     "password": "65326118",
     "kid": 19858,
     "name": "Tenpai Dragon Fadra",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>盃</rb><rp> (</rp><rt>ぱい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ファドラ",
     "name_jp_rom": "Tenpairyū Fadora",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP017",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "71ad2a77-755b-47a2-9605-9740f914fe8d",
+    "yid": 69982329,
     "password": "69982329",
     "kid": 11585,
     "name": "Pendulum Shift",
     "name_jp": "ペンデュラム・ターン",
     "name_jp_rom": "Pendyuramu Tān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pendulum Turn",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP065",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD29-JP027",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

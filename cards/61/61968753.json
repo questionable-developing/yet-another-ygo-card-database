@@ -1,11 +1,14 @@
 {
     "cid": "92af3fe6-0aa0-4d6a-8caa-7f9d67cc75e6",
+    "yid": 61968753,
     "password": "61968753",
     "kid": 6408,
     "name": "Bubble Shuffle",
     "name_jp": "バブル・シャッフル",
     "name_jp_rom": "Baburu Shaffuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP046",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP1-JP019",
+            "set": "Duelist Pack: Jaden Yuki",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP046",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +117,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

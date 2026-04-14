@@ -1,11 +1,14 @@
 {
     "cid": "80ee1359-6428-4beb-86a2-b4a6cab6fc62",
+    "yid": 68833958,
     "password": "68833958",
     "kid": 11848,
     "name": "Back-Up Rider",
     "name_jp": "<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>加</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>勢</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ikki Kasei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP064",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST16-JP030",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

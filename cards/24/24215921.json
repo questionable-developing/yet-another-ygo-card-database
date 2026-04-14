@@ -1,12 +1,14 @@
 {
     "cid": "66cb696d-2f11-4d35-ada8-9193c60d1bac",
-    "yid": null,
+    "yid": 24215921,
     "password": "24215921",
     "kid": 19860,
     "name": "Gruesome Grave Squirmer",
     "name_jp": "ヘルグレイブ・スクワーマー",
     "name_jp_rom": "Herugureibu Sukuwāmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Grave Squirmer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP019",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +115,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

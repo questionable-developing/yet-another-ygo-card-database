@@ -1,11 +1,14 @@
 {
     "cid": "4499b5ce-439d-4ad8-aa11-03a01e9decee",
+    "yid": 44944304,
     "password": "44944304",
     "kid": 12739,
     "name": "Performapal Laugh Maker",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ラフメイカー",
     "name_jp_rom": "Entameito Rafumeikā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Laugh Maker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "RATE-EN004",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP004",
             "set": "Raging Tempest",
             "rarities": {
                 "Rare": []
@@ -88,5 +100,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

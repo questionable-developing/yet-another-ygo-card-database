@@ -1,12 +1,14 @@
 {
     "cid": "666d6c16-a980-4e24-a5b3-9f250994bbaa",
-    "yid": null,
+    "yid": 31809476,
     "password": "31809476",
     "kid": 21193,
     "name": "Flash of Heraldry",
     "name_jp": "<ruby lang=\"jp\"><rb>紋章の明滅</rb><rp> (</rp><rt>メダリオン・フラッシュ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Medarion Furasshu",
+    "name_jp_rom_base": "Monshō no Meimetsu",
     "name_jp_tl": "Medallion Flash",
+    "name_jp_tl_base": "Heraldic Flicker",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP056",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -88,5 +99,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

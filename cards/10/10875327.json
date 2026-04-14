@@ -1,12 +1,14 @@
 {
     "cid": "54872d11-214f-4b0c-8b46-9773ecae4fd0",
-    "yid": null,
+    "yid": 10875327,
     "password": "10875327",
     "kid": 8171,
     "name": "Earthbound Immortal Aslla piscu",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ａｓｌｌａ</rb><rp> (</rp><rt>アスラ</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ｐｉｓｃｕ</rb><rp> (</rp><rt>ピスク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jibakushin Asura pisuku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Earthbound God Aslla piscu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +68,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP019",
+            "set": "Raging Battle",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP123",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AC03-JP038",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +135,6 @@
         "misc": [
             "Field-Unique"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "424c26c0-aa9e-4128-a7c0-6d5fcad17d8f",
+    "yid": 59123937,
     "password": "59123937",
     "kid": 13056,
     "name": "D/D Vice Typhon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>ヴァイス・テュポーン",
     "name_jp_rom": "Dīdī Vaisu Tyupōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,14 +32,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DDViceTyphon-COTD-JP-C.png",
+            "art": "DDViceTyphon-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DDViceTyphon-COTD-EN-C-1E.png",
-            "art": null
+            "art": "DDViceTyphon-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "COTD-EN017",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP017",
             "set": "Code of the Duelist",
             "rarities": {
                 "Common": []
@@ -89,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

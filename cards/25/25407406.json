@@ -1,12 +1,14 @@
 {
     "cid": "9112616d-559a-4234-82c1-ebf297a2e857",
-    "yid": null,
+    "yid": 25407406,
     "password": "25407406",
     "kid": 7309,
     "name": "Gladiator Beast's Battle Gladius",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>グラディウス",
     "name_jp_rom": "Guradiaru Bīsuto no Tōki Guradiusu",
+    "name_jp_rom_base": "Kentōjū no Tōki Guradiusu",
     "name_jp_tl": "Gladial Beast's Battle Tool - Gladius",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "GLAS-EN056",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP056",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
             "Equips only to a specific target",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

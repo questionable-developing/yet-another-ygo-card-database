@@ -1,11 +1,14 @@
 {
     "cid": "6efd3aee-f2bb-4438-93a9-5d0b07efc0ee",
+    "yid": 87902575,
     "password": "87902575",
     "kid": 8341,
     "name": "Future Visions",
     "name_jp": "フューチャー・ヴィジョン",
     "name_jp_rom": "Fyūchā Vijon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Future Vision",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP051",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP028",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +97,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

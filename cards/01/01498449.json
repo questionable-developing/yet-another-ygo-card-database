@@ -1,12 +1,14 @@
 {
     "cid": "7287e3e3-0611-471e-b445-ce4eb3a30118",
-    "yid": null,
+    "yid": 1498449,
     "password": "01498449",
     "kid": 21355,
     "name": "Dracotail Faimena",
     "name_jp": "<ruby lang=\"jp\"><rb>星辰砲手</rb><rp> (</rp><rt>ドラゴンテイル</rt><rp>)</rp></ruby>ファイメナ",
     "name_jp_rom": "Doragonteiru Faimena",
+    "name_jp_rom_base": "Seishinhōshu Faimena",
     "name_jp_tl": "Dragontail Phaimena",
+    "name_jp_tl_base": "Stardraco Gunner Phaimena",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -22,19 +24,24 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
+    "desc": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
-    "eff": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
+    "mnst_eff": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
+    "eff": "During the Main Phase (Quick Effect): You can discard this card; Fusion Summon 1 Dragon or Spellcaster monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY as material for a Fusion Summon: You can Set 1 \"Dracotail\" Spell/Trap from your Deck. You can only use each effect of \"Dracotail Faimena\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "DracotailFaimena-JUSH-EN-UR-1E.png",
-            "art": null
+            "full": "DracotailFaimena-DBJH-JP-SR.png",
+            "art": "DracotailFaimena-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "DracotailFaimena-RA05-EN-SR-1E.png",
+            "art": "DracotailFaimena-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JUSH-EN002",
@@ -43,6 +50,28 @@
                 "Ultra Rare": [],
                 "Collector's Rare": [],
                 "Starlight Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN035",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP002",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -92,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

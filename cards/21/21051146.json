@@ -1,12 +1,14 @@
 {
     "cid": "c99f0899-7e66-4d05-8d17-cfa4251a8cac",
-    "yid": null,
+    "yid": 21051146,
     "password": "21051146",
     "kid": 6250,
     "name": "Blast Magician",
     "name_jp": "ブラッド・マジシャン－<ruby lang=\"jp\"><rb>煉</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Buraddo Majishan - Rengoku no Majutsushi -",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Blood Magician - Magician of Purgatory -",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -80,6 +82,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP020",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SD6-JP014",
+            "set": "Structure Deck: Spellcaster's Judgment",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP140",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD16-JP017",
+            "set": "Structure Deck: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +145,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

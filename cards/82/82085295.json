@@ -1,11 +1,14 @@
 {
     "cid": "109e2c10-0aa8-4404-bc82-b481d74dbfcd",
+    "yid": 82085295,
     "password": "82085295",
     "kid": 13910,
     "name": "Impcantation Penciplume",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神儀</rb><rp> (</rp><rt>デビリチャル</rt><rp>)</rp></ruby>－ペンシルベル",
     "name_jp_rom": "Debiricharu - Penshiruberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deviritual - Pensilver",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -64,6 +67,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP023",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +117,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

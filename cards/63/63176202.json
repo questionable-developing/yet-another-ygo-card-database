@@ -1,11 +1,14 @@
 {
     "cid": "3e457d67-5c32-43f5-b432-bdcfd6015491",
+    "yid": 63176202,
     "password": "63176202",
     "kid": 6969,
     "name": "Great Shogun Shien",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>将</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>紫</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>エン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daishōgun Shien",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -72,6 +75,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP013",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP087",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +133,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

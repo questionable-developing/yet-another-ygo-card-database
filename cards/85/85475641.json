@@ -1,11 +1,14 @@
 {
     "cid": "f4145e43-2ff3-4e6b-aed7-e226a116c5a5",
+    "yid": 85475641,
     "password": "85475641",
     "kid": 8791,
     "name": "Infernity Avenger",
     "name_jp": "インフェルニティ・リベンジャー",
     "name_jp_rom": "Inferuniti Ribenjā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infernity Revenger",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP015",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP127",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

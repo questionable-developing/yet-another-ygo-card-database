@@ -1,11 +1,14 @@
 {
     "cid": "c166d2a2-13e8-4565-ab48-33ab28fd2588",
+    "yid": 44178886,
     "password": "44178886",
     "kid": 7797,
     "name": "Ehren, Lightsworn Monk",
     "name_jp": "ライトロード・モンク エイリン",
     "name_jp_rom": "Raitorōdo Monku Eirin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Monk Eileen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "EhrenLightswornMonk-SR02-JP-C.png",
+            "art": "EhrenLightswornMonk-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "EhrenLightswornMonk-SR02-EN-C-1E.png",
-            "art": null
+            "art": "EhrenLightswornMonk-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LODT-EN082",
@@ -59,6 +67,36 @@
         {
             "sid": "SR02-EN021",
             "set": "Rise of the True Dragons Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP003",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DT14-JP009",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DS14-JPL08",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR02-JP021",
+            "set": "Structure Deck R: Revival of the Great Divine Dragon",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +130,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

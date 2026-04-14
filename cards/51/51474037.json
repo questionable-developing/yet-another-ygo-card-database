@@ -1,11 +1,14 @@
 {
     "cid": "7f38f6fa-1bd7-4f66-95fb-e607c24dbd39",
+    "yid": 51474037,
     "password": "51474037",
     "kid": 15990,
     "name": "Yamorimori",
     "name_jp": "ヤモイモリ",
     "name_jp_rom": "Yamoimori",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yamoimori",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP22-EN073",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP029",
+            "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +102,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

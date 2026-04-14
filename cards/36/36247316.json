@@ -1,12 +1,14 @@
 {
     "cid": "c8047f06-bcc4-4e75-b839-1e7191f44273",
-    "yid": null,
+    "yid": 36247316,
     "password": "36247316",
     "kid": 12980,
     "name": "The Phantom Knights of Lost Vambrace",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ロスト・ヴァンブレイズ",
     "name_jp_rom": "Fantomu Naitsu Rosuto Vanbureizu",
+    "name_jp_rom_base": "Gen'ei Kishidan Rosuto Vanbureizu",
     "name_jp_tl": "Phantom Knights Lost Vambrace",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP066",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

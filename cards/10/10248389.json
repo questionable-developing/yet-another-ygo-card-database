@@ -1,12 +1,14 @@
 {
     "cid": "93a2084c-b133-4261-9147-d86268d7f761",
-    "yid": null,
+    "yid": 10248389,
     "password": "10248389",
     "kid": 6485,
     "name": "Cyber Blader",
     "name_jp": "サイバー・ブレイダー",
     "name_jp_rom": "Saibā Bureidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP032",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP092",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBLE-JP043",
+            "set": "Dimension Box Limited Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LPG1-JP046",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +139,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

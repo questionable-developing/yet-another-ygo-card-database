@@ -1,11 +1,14 @@
 {
     "cid": "4b8f68f9-3f94-43a1-961a-c6c6a4f37f1c",
+    "yid": 83682209,
     "password": "83682209",
     "kid": 15315,
     "name": "Piwraithe the Ghost Pirate",
     "name_jp": "<ruby lang=\"jp\"><rb>海霊賊</rb><rp> (</rp><rt>パイレイツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Paireitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Piwraithe",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "ETCO-EN000",
             "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP057",
+            "set": "World Premiere Pack 2020",
             "rarities": {
                 "Common": []
             }
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

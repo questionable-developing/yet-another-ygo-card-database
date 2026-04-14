@@ -1,11 +1,14 @@
 {
     "cid": "1691adbc-0067-4bcd-a454-397c41242c54",
+    "yid": 47325505,
     "password": "47325505",
     "kid": 8352,
     "name": "Fossil Dig",
     "name_jp": "<ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>調</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>査</rb><rp> (</rp><rt>さ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaseki Chōsa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fossil Survey",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -31,80 +34,147 @@
         },
         "2": {
             "idx": "2",
-            "full": "FossilDig-LPST-JP-OP.png",
+            "full": "FossilDig-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "ANPR-EN062",
             "set": "Ancient Prophecy",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "DL13-EN018",
             "set": "Duelist League 13 participation cards",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "LCJW-EN164",
             "set": "Legendary Collection 4: Joey's World Mega Pack",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "SR04-EN022",
             "set": "Dinosmasher's Fury Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "OP07-EN009",
             "set": "OTS Tournament Pack 7",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "MGED-EN057",
             "set": "Maximum Gold: El Dorado",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "BROL-EN089",
             "set": "Brothers of Legend",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "WISU-EN055",
             "set": "Wild Survivors",
             "rarities": {
-                "Rare": [],
-                "Collector's Rare": []
+                "Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "RA01-EN053",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN116",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP062",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DE04-JP034",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SR04-JP022",
+            "set": "Structure Deck R: Tyranno's Rage",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "18SP-JP409",
+            "set": "Special Pack 20th Anniversary Edition Vol.4",
+            "rarities": {
+                "Common": ["1"],
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "21TP-JP411",
+            "set": "Tournament Pack 2021 Vol.4",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP054",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP034",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -137,5 +207,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

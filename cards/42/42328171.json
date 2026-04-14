@@ -1,11 +1,14 @@
 {
     "cid": "5cc31f2d-0518-46fc-ab10-45bce4f08fab",
+    "yid": 42328171,
     "password": "42328171",
     "kid": 9743,
     "name": "Wind-Up Bat",
     "name_jp": "ゼンマイバット",
     "name_jp_rom": "Zenmaibatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "PHSW-EN025",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP025",
             "set": "Photon Shockwave",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

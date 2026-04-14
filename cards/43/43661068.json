@@ -1,11 +1,14 @@
 {
     "cid": "5ab2ab3d-114f-4cf6-8ac8-1349bba09e52",
+    "yid": 43661068,
     "password": "43661068",
     "kid": 9926,
     "name": "Star Light, Star Bright",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>ほし</rt><rp>)</rp></ruby>に<ruby lang=\"jp\"><rb>願</rb><rp> (</rp><rt>ねが</rt><rp>)</rp></ruby>いを",
     "name_jp_rom": "Hoshi ni Negai o",
-    "name_jp_tl": "Wish upon a Star",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Wish Upon a Star",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP052",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

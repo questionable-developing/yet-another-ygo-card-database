@@ -1,12 +1,14 @@
 {
     "cid": "11f20a66-8fde-4f2e-acff-2050a1383282",
-    "yid": null,
+    "yid": 26254876,
     "password": "26254876",
     "kid": 7369,
     "name": "Gemini Lancer",
     "name_jp": "デュアル・ランサー",
     "name_jp_rom": "Dyuaru Ransā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dual Lancer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP025",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

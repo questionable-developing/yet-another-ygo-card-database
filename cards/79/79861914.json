@@ -1,11 +1,14 @@
 {
     "cid": "8c4a3aea-249e-46da-a97a-89f423e484e7",
+    "yid": 79861914,
     "password": "79861914",
     "kid": 11733,
     "name": "Yosen Whirlwind",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>旋</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ぷう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yōsen Daisenpū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yosen Great Whirlwind",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "CROS-EN058",
             "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP058",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19TP-JP214",
+            "set": "Tournament Pack 2019 Vol.2",
             "rarities": {
                 "Common": []
             }
@@ -74,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

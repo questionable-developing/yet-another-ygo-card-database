@@ -1,12 +1,14 @@
 {
     "cid": "8858f43f-1eec-4c5e-9805-b60367eece11",
-    "yid": null,
+    "yid": 23611122,
     "password": "23611122",
     "kid": 21483,
     "name": "Sudden Thunder Swamp",
     "name_jp": "<ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>泥</rb><rp> (</rp><rt>でい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>沼</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyūrai no Deishō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DUAD-EN072",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP072",
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

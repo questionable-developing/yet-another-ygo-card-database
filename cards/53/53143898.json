@@ -1,11 +1,14 @@
 {
     "cid": "6fccc3d4-eb5b-4eff-a3f8-3c8fb4b3b8e7",
+    "yid": 53143898,
     "password": "53143898",
     "kid": 13228,
     "name": "Altergeist Marionetter",
     "name_jp": "オルターガイスト・マリオネッター",
     "name_jp_rom": "Orutāgaisuto Marionettā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP012",
+            "set": "Circuit Break",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "AC03-JP053",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +127,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

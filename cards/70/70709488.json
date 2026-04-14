@@ -1,11 +1,14 @@
 {
     "cid": "ac08b73e-3909-4722-9c55-e56f7df280f2",
+    "yid": 70709488,
     "password": "70709488",
     "kid": 14609,
     "name": "Shinobi Insect Hagakuremino",
     "name_jp": "<ruby lang=\"jp\"><rb>虫</rb><rp> (</rp><rt>チュウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>ニン</rt><rp>)</rp></ruby> ハガクレミノ",
     "name_jp_rom": "Chūnin Hagakuremino",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "19PR-JP009",
+            "set": "Promotion Pack 2019",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP111",
+            "set": "Tournament Pack 2024 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

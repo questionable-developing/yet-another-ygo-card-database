@@ -1,11 +1,14 @@
 {
     "cid": "9c7a14bf-3e94-41f3-9faa-b3a61b9d2b6f",
+    "yid": 98567237,
     "password": "98567237",
     "kid": 20240,
     "name": "Fiendsmith's Tract",
     "name_jp": "<ruby lang=\"jp\"><rb>刻まれし魔の詠聖</rb><rp> (</rp><rt>デモンスミス・トラクトゥス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Demonsumisu Torakutusu",
+    "name_jp_rom_base": "Kizamareshi Ma no Eisei",
     "name_jp_tl": "Demonsmith Tractus",
+    "name_jp_tl_base": "Engraved Demon's Holy Hymn",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +48,25 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP061",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP073",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Collector's Rare": []
             }
         }
     ],
@@ -94,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

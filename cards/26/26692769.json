@@ -1,12 +1,14 @@
 {
     "cid": "6df1a60a-b028-4169-ab0d-f3c5e27f37e6",
-    "yid": null,
+    "yid": 26692769,
     "password": "26692769",
     "kid": 14054,
     "name": "The Phantom Knights of Rusty Bardiche",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ラスティ・バルディッシュ",
     "name_jp_rom": "Fantomu Naitsu Rasuti Barudisshu",
+    "name_jp_rom_base": "Gen'ei Kishidan Rasuti Barudisshu",
     "name_jp_tl": "Phantom Knights Rusty Bardiche",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -53,6 +55,26 @@
             "set": "Maximum Gold",
             "rarities": {
                 "Premium Gold Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVP2-JP076",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP151",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -103,5 +125,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

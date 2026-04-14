@@ -1,11 +1,14 @@
 {
     "cid": "0224c79d-f322-4e37-9003-d548dc908503",
+    "yid": 38430673,
     "password": "38430673",
     "kid": 6670,
     "name": "Grand Convergence",
     "name_jp": "グランドクロス",
     "name_jp_rom": "Gurando Kurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Grand Cross",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -73,6 +76,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP046",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP226",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +123,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

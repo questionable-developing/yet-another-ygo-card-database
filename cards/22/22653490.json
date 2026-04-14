@@ -1,12 +1,14 @@
 {
     "cid": "64e446a2-c92b-4c54-8af0-28eadc2bbd7d",
-    "yid": null,
+    "yid": 22653490,
     "password": "22653490",
     "kid": 10411,
     "name": "Lightning Chidori",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>千</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>どり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Denkō Chidori",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP052",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

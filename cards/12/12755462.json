@@ -1,12 +1,14 @@
 {
     "cid": "5868ca9a-94d1-4809-a1b7-fe46352ae97a",
-    "yid": null,
+    "yid": 12755462,
     "password": "12755462",
     "kid": 9753,
     "name": "Goblin Pothole Squad",
     "name_jp": "ゴブリン<ruby lang=\"jp\"><rb>穴</rb><rp> (</rp><rt>あな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>埋</rb><rp> (</rp><rt>う</rt><rp>)</rp></ruby>め<ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Anaume Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP035",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

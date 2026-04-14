@@ -1,11 +1,14 @@
 {
     "cid": "b267f2b0-732f-4797-9f07-5e2a325ef357",
+    "yid": 99002135,
     "password": "99002135",
     "kid": 8209,
     "name": "Urgent Synthesis",
     "name_jp": "<ruby lang=\"jp\"><rb>緊</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>成</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kinkyū Gōsei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RGBT-EN057",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP057",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

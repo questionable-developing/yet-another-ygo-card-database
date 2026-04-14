@@ -1,12 +1,14 @@
 {
     "cid": "6db60fe2-899a-4ecb-8008-50a2926af146",
-    "yid": null,
+    "yid": 19510093,
     "password": "19510093",
     "kid": 18470,
     "name": "Superheavy Samurai Monk Big Benkei",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>僧</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>ビッグベン－<ruby lang=\"jp\"><rb>Ｋ</rb><rp> (</rp><rt>ケー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōjūsōhei Biggu Ben-Kē",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superheavy Monk Warrior Big Ben-K",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP007",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -80,7 +91,7 @@
             "Sends from your hand to your Graveyard",
             "Sends from your Deck to your Graveyard",
             "Activates if used as Synchro Material",
-            "Activates from your Extra Deck",
+            "Activates if added to the Extra Deck",
             "Goes to Pendulum Zone"
         ],
         "stat_change": [],
@@ -100,5 +111,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7ea75efb-70da-464f-97c5-cba8100850f4",
+    "yid": 55136228,
     "password": "55136228",
     "kid": 8051,
     "name": "Indomitable Gladiator Beast",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>底</rb><rp> (</rp><rt>そこ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>ぢから</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Guradiaru Bīsuto no Sokojikara",
+    "name_jp_rom_base": "Kentōjū no Sokojikara",
     "name_jp_tl": "Gladial Beast's Inner Strength",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,22 @@
             "set": "Crimson Crisis",
             "rarities": {
                 "Short Print": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP056",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP101",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -76,5 +95,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

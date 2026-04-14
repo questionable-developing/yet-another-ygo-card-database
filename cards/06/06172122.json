@@ -1,12 +1,14 @@
 {
     "cid": "5eed84d5-1dac-4910-b5f5-1aee515dfb6c",
-    "yid": null,
+    "yid": 6172122,
     "password": "06172122",
     "kid": 11843,
     "name": "Red-Eyes Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>真紅眼融合</rb><rp> (</rp><rt>レッドアイズ・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reddoaizu Fyūjon",
+    "name_jp_rom_base": "Shinkugan Yūgō",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +71,47 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP059",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP18-JP006",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LGB1-JP003",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP042",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP116",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -117,5 +160,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

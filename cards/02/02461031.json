@@ -1,12 +1,14 @@
 {
     "cid": "248e9cbc-0528-4427-a301-471d08e387fc",
-    "yid": null,
+    "yid": 2461031,
     "password": "02461031",
     "kid": 10052,
     "name": "Inzektor Ladybug",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> グルフ",
     "name_jp_rom": "Inzekutā Gurufu",
+    "name_jp_rom_base": "Kōchūsōki Gurufu",
     "name_jp_tl": "Inzektor Gullf",
+    "name_jp_tl_base": "Beetle Armed Machine Gullf",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP029",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +102,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "1109e1fd-e2b5-431a-aa30-d1d32fca80ac",
+    "yid": 43709490,
     "password": "43709490",
     "kid": 15773,
     "name": "Myutant GB-88",
     "name_jp": "<ruby lang=\"jp\"><rb>被</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>検</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>ミュートリアＧＢ－８８",
     "name_jp_rom": "Hikentai Myūtoria Jī Bī Eitieito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Test Subject Myutria GB-88",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP2-JP016",
+            "set": "World Premiere Pack 2021",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +83,7 @@
         "mst": [],
         "summoning": [
             "Special Summons itself from your hand",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -86,5 +98,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

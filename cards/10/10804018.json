@@ -1,12 +1,14 @@
 {
     "cid": "74c3a54e-c0ae-4d18-b18c-19899965e578",
-    "yid": null,
+    "yid": 10804018,
     "password": "10804018",
     "kid": 19875,
     "name": "Saffira, Divine Dragon of the Voiceless Voice",
     "name_jp": "<ruby lang=\"jp\"><rb>粛</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>声</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>なる<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>サフィラ",
     "name_jp_rom": "Shukuseinaru Ryūshin Safira",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP034",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

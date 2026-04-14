@@ -1,11 +1,14 @@
 {
     "cid": "bfcc3f7d-106b-482a-9332-c6f7cf14560d",
+    "yid": 67100549,
     "password": "67100549",
     "kid": 16029,
     "name": "Screams of the Branded",
     "name_jp": "<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>凶</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳴</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakuin Kyōmei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP068",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD43-JP033",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP060",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,7 +107,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -91,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

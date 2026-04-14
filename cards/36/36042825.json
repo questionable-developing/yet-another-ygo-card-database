@@ -1,12 +1,14 @@
 {
     "cid": "278daeaf-962b-4882-a9bb-4fc811109581",
-    "yid": null,
+    "yid": 36042825,
     "password": "36042825",
     "kid": 10273,
     "name": "One-Shot Wand",
     "name_jp": "ワンショット・ワンド",
     "name_jp_rom": "Wanshotto Wando",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP051",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

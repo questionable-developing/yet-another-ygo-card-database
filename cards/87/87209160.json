@@ -1,11 +1,14 @@
 {
     "cid": "79c6c730-e023-48c8-b9c5-36ef89afa1f3",
+    "yid": 87209160,
     "password": "87209160",
     "kid": 15487,
     "name": "Tri-Brigade Fraktall",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣戦線</rb><rp> (</rp><rt>トライブリゲード</rt><rp>)</rp></ruby> フラクトール",
     "name_jp_rom": "Toraiburigēdo Furakutōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP008",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP018",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP043",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +128,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

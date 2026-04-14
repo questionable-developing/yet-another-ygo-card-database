@@ -1,11 +1,14 @@
 {
     "cid": "12e4c4c4-4b7f-4bf3-bf61-16a362935d52",
+    "yid": 51670553,
     "password": "51670553",
     "kid": 7313,
     "name": "Soul Devouring Bamboo Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>を<ruby lang=\"jp\"><rb>吸</rb><rp> (</rp><rt>す</rt><rp>)</rp></ruby>う<ruby lang=\"jp\"><rb>竹</rb><rp> (</rp><rt>たけ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>みつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tamashī o Suu Takemitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Soul-Absorbing Bamboo Sword",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "GLAS-EN060",
             "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP060",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP054",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +96,6 @@
             "Requires control of specific archetype",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

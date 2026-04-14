@@ -1,12 +1,14 @@
 {
     "cid": "58d2a5fd-1a50-496a-a327-10f39e0a2d0b",
-    "yid": null,
+    "yid": 29595202,
     "password": "29595202",
     "kid": 17382,
     "name": "Runick Allure",
     "name_jp": "<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>誑</rb><rp> (</rp><rt>たぶら</rt><rp>)</rp></ruby>かし",
     "name_jp_rom": "Rūn no Taburakashi",
+    "name_jp_rom_base": "Shinpi no Taburakashi",
     "name_jp_tl": "Rune Allure",
+    "name_jp_tl_base": "Divine Runestone Allure",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP028",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

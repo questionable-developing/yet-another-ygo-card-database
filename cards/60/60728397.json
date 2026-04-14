@@ -1,11 +1,14 @@
 {
     "cid": "3cca6e19-6514-4acd-beb5-b483904b447f",
+    "yid": 60728397,
     "password": "60728397",
     "kid": 7189,
     "name": "Venom Shot",
     "name_jp": "ヴェノム・ショット",
     "name_jp_rom": "Venomu Shotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TAEV-EN053",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP053",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

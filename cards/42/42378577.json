@@ -1,11 +1,14 @@
 {
     "cid": "e4842f58-5497-4bc6-8347-5415960c8120",
+    "yid": 42378577,
     "password": "42378577",
     "kid": 13020,
     "name": "Pendulum Switch",
     "name_jp": "ペンデュラム・スイッチ",
     "name_jp_rom": "Pendyuramu Suitchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP17-JP051",
+            "set": "Extra Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

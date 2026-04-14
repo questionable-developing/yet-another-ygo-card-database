@@ -1,12 +1,14 @@
 {
     "cid": "78665433-ff94-41fb-80e4-25c9032dba61",
-    "yid": null,
+    "yid": 31245780,
     "password": "31245780",
     "kid": 7918,
     "name": "Battle Mania",
     "name_jp": "バトルマニア",
     "name_jp_rom": "Batoru Mania",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP063",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP08-JP025",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +96,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "181b3ae9-480d-40a8-9ad3-a27b1bea946f",
-    "yid": null,
+    "yid": 12923641,
     "password": "12923641",
     "kid": 6268,
     "name": "Swords of Concealing Light",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>封</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yami no Gofūken",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Protective Seal Swords of Darkness",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -19,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+    "desc": "Destroy this card during your 2nd Standby Phase after activation. When this card is activated: If your opponent controls a face-up monster, flip all monsters they control to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
+    "eff": "Destroy this card during your 2nd Standby Phase after activation. When this card is activated: If your opponent controls a face-up monster, flip all monsters they control to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SwordsofConcealingLight-SDSA-EN-C-1E.png",
+            "full": "SwordsofConcealingLight-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -98,6 +100,70 @@
             "rarities": {
                 "Common": []
             }
+        },
+        {
+            "sid": "RA05-EN059",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP042",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD5-JP031",
+            "set": "Structure Deck: Warrior's Triumph",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP162",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AT04-JP003",
+            "set": "Advanced Tournament Pack 2013 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR04-JP026",
+            "set": "Structure Deck R: Tyranno's Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD38-JP032",
+            "set": "Structure Deck: Sacred Beasts of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPA24",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
         }
     ],
     "misc": {
@@ -133,5 +199,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

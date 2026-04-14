@@ -1,11 +1,14 @@
 {
     "cid": "cd6ef875-919f-4bdb-b8e6-7a2c7fdbfced",
+    "yid": 81332143,
     "password": "81332143",
     "kid": 5754,
     "name": "Yu-Jo Friendship",
     "name_jp": "<ruby lang=\"jp\"><rb>友</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>情</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby> ＹＵ－ＪＹＯ",
     "name_jp_rom": "Yūjō Yuujou",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Friendship Yu-Jyo",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -32,6 +35,22 @@
     },
     "image": null,
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "YCB-001",
+            "set": "Yu-Gi-Oh! Character Guidebook: The Gospel of Truth promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "YCB2-JP001",
+            "set": "Yu-Gi-Oh! Character Guidebook: Millennium Book promotional cards",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -48,7 +67,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect"
+            "Reveals cards from your hand"
         ],
         "stat_change": [],
         "mst": [],
@@ -62,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

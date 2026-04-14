@@ -1,12 +1,14 @@
 {
     "cid": "800de094-be9d-4553-b6ab-ce09c86defe5",
-    "yid": 19230408,
+    "yid": 19230407,
     "password": "19230407",
     "kid": 5214,
     "name": "Offerings to the Doomed",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>への<ruby lang=\"jp\"><rb>供</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>もつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shisha e no Kumotsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Offerings to the Dead",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -111,6 +113,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SM-50",
+            "set": "Spell of Mask",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL3-087",
+            "set": "Duelist Legacy Volume.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT03-JP039",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD33-JP024",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -140,5 +172,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

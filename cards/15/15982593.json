@@ -1,12 +1,14 @@
 {
     "cid": "1b984fab-4c63-4d85-89e6-77d404ed8f19",
-    "yid": null,
+    "yid": 15982593,
     "password": "15982593",
     "kid": 19375,
     "name": "Centur-Ion Legatia",
     "name_jp": "<ruby lang=\"jp\"><rb>騎士皇</rb><rp> (</rp><rt>センチュリオン</rt><rp>)</rp></ruby>レガーティア",
     "name_jp_rom": "Senchurion Regātia",
+    "name_jp_rom_base": "Kishiō Regātia",
     "name_jp_tl": "Centurion Legatia",
+    "name_jp_tl_base": "Knight Emperor Legatia",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -54,6 +56,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP019",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "ULSP-JP008",
+            "set": "Ultimate Special Pack",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

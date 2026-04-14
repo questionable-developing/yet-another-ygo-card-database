@@ -1,11 +1,14 @@
 {
     "cid": "aebe7db8-8a86-4e03-8dd1-b7e5cb9c6ed9",
+    "yid": 58308221,
     "password": "58308221",
     "kid": 17163,
     "name": "Extra Pendulum",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＸＰ</rb><rp> (</rp><rt>エクストラ・ペンデュラム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ekusutora Pendyuramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP052",
+            "set": "Dimension Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

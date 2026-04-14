@@ -1,11 +1,14 @@
 {
     "cid": "d74fb2fc-1e75-4957-baa2-c6487e145149",
+    "yid": 74879881,
     "password": "74879881",
     "kid": 14658,
     "name": "Mimikuril",
     "name_jp": "ミミックリル",
     "name_jp_rom": "Mimikkuriru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP031",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

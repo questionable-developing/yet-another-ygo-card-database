@@ -1,11 +1,14 @@
 {
     "cid": "e3d7ed23-17ed-45aa-8707-c5ae2a89c2df",
+    "yid": 56746202,
     "password": "56746202",
     "kid": 8950,
     "name": "Scrap Chimera",
     "name_jp": "スクラップ・キマイラ",
     "name_jp_rom": "Sukurappu Kimaira",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "ScrapChimera-MGED-EN-PGR-1E.png",
+            "full": "ScrapChimera-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -47,6 +50,35 @@
             "set": "Maximum Gold: El Dorado",
             "rarities": {
                 "Premium Gold Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN005",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP019",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP038",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -85,5 +117,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

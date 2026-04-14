@@ -1,12 +1,14 @@
 {
     "cid": "8df9c28f-2512-4173-968e-a04126492057",
-    "yid": null,
+    "yid": 3129133,
     "password": "03129133",
     "kid": 20803,
     "name": "Delta of Invitation",
     "name_jp": "<ruby lang=\"jp\"><rb>誘</rb><rp> (</rp><rt>いざな</rt><rp>)</rp></ruby>いの<ruby lang=\"jp\"><rb>Δ</rb><rp> (</rp><rt>デルタ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Izanai no Deruta",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN066",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP066",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "fa1590a4-bf52-4743-9ca6-8adbec83d5f5",
-    "yid": null,
+    "yid": 23331400,
     "password": "23331400",
     "kid": 13559,
     "name": "Link Streamer",
     "name_jp": "リンク・ストリーマー",
     "name_jp_rom": "Rinku Sutorīmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP004",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

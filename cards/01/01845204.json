@@ -1,12 +1,14 @@
 {
     "cid": "9b4e4bec-3c83-47c2-b095-aa49df49982e",
-    "yid": null,
+    "yid": 1845204,
     "password": "01845204",
     "kid": 6901,
     "name": "Instant Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>簡易融合</rb><rp> (</rp><rt>インスタントフュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Insutanto Fyūjon",
+    "name_jp_rom_base": "Kan'i Yūgō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Simple Fusion",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -119,6 +121,98 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP040",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT08-JP043",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TP17-JP009",
+            "set": "Tournament Pack 2011 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP062",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP041",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SPFE-JP042",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP19-JP048",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20TH-JPC90",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Super Parallel Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD37-JP027",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SSB1-JP034",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP053",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "NSC1-JP001",
+            "set": "Cup Noodle collaboration card",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -157,5 +251,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

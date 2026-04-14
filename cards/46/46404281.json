@@ -1,11 +1,14 @@
 {
     "cid": "34f80597-eb45-4ba2-9263-6b0335bc4df8",
+    "yid": 46404281,
     "password": "46404281",
     "kid": 9643,
     "name": "Laval Magma Cannoneer",
     "name_jp": "ラヴァルのマグマ<ruby lang=\"jp\"><rb>砲</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ravaru no Maguma Hōhei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GENF-EN026",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP026",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

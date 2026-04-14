@@ -1,11 +1,14 @@
 {
     "cid": "6f9a9bfa-66ef-4eff-907c-6683161771b9",
+    "yid": 81788994,
     "password": "81788994",
     "kid": 11269,
     "name": "Curse of the Shadow Prison",
     "name_jp": "<ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>かげ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牢</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kagerō no Jubaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP060",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP023",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a7118c31-0615-43c4-bec9-dd4041bfbb3c",
+    "yid": 61980241,
     "password": "61980241",
     "kid": 20193,
     "name": "Elzette of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のリゼット",
     "name_jp_rom": "Shiroki Mori no Rizetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lezette of the White Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -47,6 +50,35 @@
             "sid": "MP25-EN080",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP014",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "INFO-JP014",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP056",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
                 "Prismatic Secret Rare": []
             }
         }
@@ -100,5 +132,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

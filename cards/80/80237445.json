@@ -1,11 +1,14 @@
 {
     "cid": "4e858964-ea3a-42a6-a73a-37defe7653ba",
+    "yid": 80237445,
     "password": "80237445",
     "kid": 13398,
     "name": "Artifact Mjollnir",
     "name_jp": "アーティファクト－ミョルニル",
     "name_jp_rom": "Ātifakuto - Myoruniru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP028",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

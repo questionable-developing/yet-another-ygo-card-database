@@ -1,11 +1,14 @@
 {
     "cid": "113d63e5-d951-4ee4-8f9f-bb264a7ee8bd",
+    "yid": 45148985,
     "password": "45148985",
     "kid": 13243,
     "name": "Metaphys Executor",
     "name_jp": "メタファイズ・エグゼキューター",
     "name_jp_rom": "Metafaizu Eguzekyūtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP027",
+            "set": "Circuit Break",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +84,7 @@
             "Cannot be Normal Set",
             "Special Summons itself from your hand",
             "Nomi",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -86,5 +100,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "73ef5520-1c97-4fd9-8c3e-c8620029bd97",
+    "yid": 92595545,
     "password": "92595545",
     "kid": 9732,
     "name": "Plasma Ball",
     "name_jp": "プラズマ・ボール",
     "name_jp_rom": "Purazuma Bōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP014",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "5369f9fd-ba59-48be-b5b5-961325f6c52a",
+    "yid": 39303359,
     "password": "39303359",
     "kid": 7294,
     "name": "Ancient Gear Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械騎士</rb><rp> (</rp><rt>アンティーク・ギアナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Naito",
+    "name_jp_rom_base": "Kodai no Kikaikishi",
     "name_jp_tl": "Antique Gear Knight",
+    "name_jp_tl_base": "Ancient Mechanical Knight",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -82,6 +85,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP029",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP041",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP009",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,6 +137,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

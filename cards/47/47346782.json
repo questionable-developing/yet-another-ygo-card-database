@@ -1,11 +1,14 @@
 {
     "cid": "9affd149-68f4-40cb-a30c-4736adb0a704",
+    "yid": 47346782,
     "password": "47346782",
     "kid": 13741,
     "name": "Centerfrog",
     "name_jp": "<ruby lang=\"jp\"><rb>寝</rb><rp> (</rp><rt>ね</rt><rp>)</rp></ruby>ガエル",
     "name_jp_rom": "Negaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sleep Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP025",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

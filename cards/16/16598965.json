@@ -1,12 +1,14 @@
 {
     "cid": "f25ba0b0-e14e-4a7e-81c1-fe9cb585c5e7",
-    "yid": null,
+    "yid": 16598965,
     "password": "16598965",
     "kid": 16564,
     "name": "Stained Glass of Light & Dark",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>のステンドグラス",
     "name_jp_rom": "Seija no Sutendo Gurasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stained Glass of Holiness & Wickedness",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP078",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBVS-JP045",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

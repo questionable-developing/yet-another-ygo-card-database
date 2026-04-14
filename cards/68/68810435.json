@@ -1,11 +1,14 @@
 {
     "cid": "0150cb4a-ebc8-4a1c-a5fb-a50fecddc470",
+    "yid": 68810435,
     "password": "68810435",
     "kid": 21366,
     "name": "Cooky☆Yummy",
     "name_jp": "クッキィ☆ヤミー",
     "name_jp_rom": "Kukkyi☆Yamī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "CookyYummy-JUSH-EN-UR-1E.png",
+            "full": "CookyYummy-DBJH-JP-SR.png",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "CookyYummy-JUSH-EN-UR-1E.png",
+            "art": "CookyYummy-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JUSH-EN017",
@@ -42,6 +50,15 @@
                 "Ultra Rare": [],
                 "Collector's Rare": [],
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP017",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -85,7 +102,9 @@
             "Requires control of specific Link Rating",
             "Requires control of specific Level",
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

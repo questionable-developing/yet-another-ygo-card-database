@@ -1,12 +1,14 @@
 {
     "cid": "b9d11c3b-6a8b-4571-968f-d306905d33e4",
-    "yid": null,
+    "yid": 26435595,
     "password": "26435595",
     "kid": 17391,
     "name": "Patissciel Couverture",
     "name_jp": "<ruby lang=\"jp\"><rb>聖菓使</rb><rp> (</rp><rt>パティシエル</rt><rp>)</rp></ruby>クーベル",
     "name_jp_rom": "Patishieru Kūberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Patissciel Couver",
+    "name_jp_tl_base": "Holy Confectioner Couver",
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -54,6 +56,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP038",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP030",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -96,5 +117,6 @@
             "Fusion Pendulum Monster",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

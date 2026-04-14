@@ -1,11 +1,14 @@
 {
     "cid": "9dec223b-fdff-4858-8f5c-11411e700b79",
+    "yid": 84012625,
     "password": "84012625",
     "kid": 13000,
     "name": "Cosmic Flare",
     "name_jp": "シューティング・ソニック",
     "name_jp_rom": "Shūtingu Sonikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shooting Sonic",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "20AP-JP053",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
             "Requires control of specific archetype",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

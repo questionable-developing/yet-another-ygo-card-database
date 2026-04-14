@@ -1,11 +1,14 @@
 {
     "cid": "9c506e67-e1c6-46f4-93bd-eb700640dba8",
+    "yid": 98898163,
     "password": "98898163",
     "kid": 17435,
     "name": "Grandtusk Dragon",
     "name_jp": "グランドタスク・ドラゴン",
     "name_jp_rom": "Gurandotasuku Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP033",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

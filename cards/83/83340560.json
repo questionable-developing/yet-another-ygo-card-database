@@ -1,11 +1,14 @@
 {
     "cid": "11ed5e08-137d-4d05-bfbd-45a3140be499",
+    "yid": 83340560,
     "password": "83340560",
     "kid": 17230,
     "name": "The Great Double Casted Caster",
     "name_jp": "<ruby lang=\"jp\"><rb>偉</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby>なるダブルキャスター",
     "name_jp_rom": "Idainaru Daburukyasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Great Double Caster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP037",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +88,7 @@
             "2 Fusion Materials",
             "Requires non-Effect Monsters as Fusion Materials",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Direct attacker"
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

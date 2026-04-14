@@ -1,12 +1,14 @@
 {
     "cid": "ca99e30c-b676-492e-929a-4324b392eb22",
-    "yid": null,
+    "yid": 6351147,
     "password": "06351147",
     "kid": 19049,
     "name": "Transaction Rollback",
     "name_jp": "トランザクション・ロールバック",
     "name_jp_rom": "Toranzakushon Rōrubakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -62,6 +64,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC03-JP028",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP099",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,7 +119,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only 1 effect once per turn"
+            "Only 1 effect once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

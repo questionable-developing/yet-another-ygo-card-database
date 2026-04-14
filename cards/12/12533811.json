@@ -1,12 +1,14 @@
 {
     "cid": "39e65698-6edb-4312-8e9d-5ffddb158b6e",
-    "yid": null,
+    "yid": 12533811,
     "password": "12533811",
     "kid": 9756,
     "name": "Baby Tiragon",
     "name_jp": "ベビー・トラゴン",
     "name_jp_rom": "Bebī Toragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Baby Tragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -31,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BabyTiragon-DP12-JP-R.jpg",
+            "art": "BabyTiragon-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BabyTiragon-NUMH-EN-SR-1E.png",
-            "art": null
+            "art": "BabyTiragon-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PHSW-EN038",
@@ -57,6 +64,22 @@
             "set": "Number Hunters",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP038",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP12-JP013",
+            "set": "Duelist Pack: Yuma",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -90,5 +113,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

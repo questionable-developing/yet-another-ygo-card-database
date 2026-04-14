@@ -1,12 +1,14 @@
 {
     "cid": "97fb39dc-f6a5-43b5-a930-a4e652198439",
-    "yid": null,
+    "yid": 36694815,
     "password": "36694815",
     "kid": 13375,
     "name": "Bitrooper",
     "name_jp": "ビットルーパー",
     "name_jp_rom": "Bittorūpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP005",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD34-JP010",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

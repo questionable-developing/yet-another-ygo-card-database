@@ -1,11 +1,14 @@
 {
     "cid": "8e2ece8f-75b0-4455-bb59-fbfa65762ffa",
+    "yid": 75493362,
     "password": "75493362",
     "kid": 21340,
     "name": "Vingolf's Blessing",
     "name_jp": "ヴィンゴルヴの<ruby lang=\"jp\"><rb>祝</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>福</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vingoruvu no Shukufuku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "ALIN-EN083",
             "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP074",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -75,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

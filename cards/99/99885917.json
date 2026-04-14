@@ -1,11 +1,14 @@
 {
     "cid": "c656ab4e-a6b7-474b-bb99-36c8071beee9",
+    "yid": 99885917,
     "password": "99885917",
     "kid": 14788,
     "name": "Marincess Pascalus",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女</rb><rp> (</rp><rt>マリンセス</rt><rp>)</rp></ruby>パスカルス",
     "name_jp_rom": "Marinsesu Pasukarusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -62,6 +65,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVDS-JPA06",
+            "set": "LINK VRAINS Duelist Set",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP26-JP039",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0ec78ffd-5fbb-4ebc-a638-e88434b3e93f",
+    "yid": 60391791,
     "password": "60391791",
     "kid": 5672,
     "name": "Senri Eye",
     "name_jp": "<ruby lang=\"jp\"><rb>千</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>里</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senrigan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Clairvoyance",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "DR1-EN144",
             "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "303-035",
+            "set": "Champion of Black Magic",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP144",
+            "set": "Expert Edition Volume.1",
             "rarities": {
                 "Common": []
             }
@@ -70,5 +89,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

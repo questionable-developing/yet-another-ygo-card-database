@@ -1,11 +1,14 @@
 {
     "cid": "963a7a8c-b7b8-4600-a621-4d407b632d7f",
+    "yid": 95113856,
     "password": "95113856",
     "kid": 11082,
     "name": "Phantom Fortress Enterblathnir",
     "name_jp": "<ruby lang=\"jp\"><rb>幻子力空母</rb><rp> (</rp><rt>ミラージュフォートレス</rt><rp>)</rp></ruby>エンタープラズニル",
     "name_jp_rom": "Mirāju Fōtoresu Entāpurazuniru",
+    "name_jp_rom_base": "Genshiriki Kūbo Entāpurazuniru",
     "name_jp_tl": "Mirage Fortress Enterprisenir",
+    "name_jp_tl_base": "Phantom-Powered Carrier Enterprisenir",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP053",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBMF-JP042",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +107,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

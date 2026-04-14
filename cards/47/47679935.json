@@ -1,11 +1,14 @@
 {
     "cid": "4ea00199-599c-4a3f-bca0-0a5dacf4f109",
+    "yid": 47679935,
     "password": "47679935",
     "kid": 12851,
     "name": "Magical Meltdown",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>走</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陣</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bōsō Mahōjin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Runaway Magical Circle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPFE-JP034",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP113",
+            "set": "Tournament Pack 2020 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SLF1-JP031",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

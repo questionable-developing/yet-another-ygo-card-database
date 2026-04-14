@@ -1,11 +1,14 @@
 {
     "cid": "537eb034-811a-4a6e-8c30-bacd50ec2f47",
+    "yid": 89558743,
     "password": "89558743",
     "kid": 16555,
     "name": "Small World",
     "name_jp": "スモール・ワールド",
     "name_jp_rom": "Sumōru Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SmallWorld-RA01-EN-SR-1E.png",
+            "full": "SmallWorld-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -58,6 +61,41 @@
                 "Ultimate Rare": [],
                 "Collector's Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENX23",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP069",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP068",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA18",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
         }
     ],
     "misc": {
@@ -74,7 +112,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Reveals cards from your Deck",
             "Adds from Deck to hand"
         ],
@@ -93,5 +131,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2597982b-f804-4984-b1fe-3951c825376d",
+    "yid": 94503794,
     "password": "94503794",
     "kid": 21814,
     "name": "Kerzebs, the Gaoled Glutton",
     "name_jp": "<ruby lang=\"jp\"><rb>漆</rb><rp> (</rp><rt>しっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>梏</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>喰獣</rb><rp> (</rp><rt>レマルギア</rt><rp>)</rp></ruby> ケルゼブス",
     "name_jp_rom": "Shikkoku no Remarugia Keruzebusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cerzebuth, the Ebon Irons Lemargia",
+    "name_jp_tl_base": "Cerzebuth, the Ebon Irons Glutton Beast",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DOOD-EN048",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP048",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Once per Chain",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "86abaa33-6b93-46f4-93ea-523b6df4f4ec",
-    "yid": null,
+    "yid": 19211362,
     "password": "19211362",
     "kid": 14996,
     "name": "Nemeses Flag",
     "name_jp": "ネメシス・フラッグ",
     "name_jp_rom": "Nemeshisu Furaggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +59,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP010",
+            "set": "Eternity Code",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP054",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

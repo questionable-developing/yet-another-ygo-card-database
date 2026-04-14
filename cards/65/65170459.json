@@ -1,11 +1,14 @@
 {
     "cid": "782f3a87-53c7-404e-bb94-4c52e58b0899",
+    "yid": 65170459,
     "password": "65170459",
     "kid": 13268,
     "name": "Mistar Boy",
     "name_jp": "マスター・ボーイ",
     "name_jp_rom": "Masutā Bōi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mastar Boy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP052",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

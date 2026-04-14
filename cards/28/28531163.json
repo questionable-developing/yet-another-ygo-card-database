@@ -1,12 +1,14 @@
 {
     "cid": "e9db2773-3b8b-4775-90b9-5e32a5f273d2",
-    "yid": null,
+    "yid": 28531163,
     "password": "28531163",
     "kid": 21838,
     "name": "Apocavities",
     "name_jp": "<ruby lang=\"jp\"><rb>黙歯録</rb><rp> (</rp><rt>アポカリエス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Apokariesu",
+    "name_jp_rom_base": "Mokushiroku",
     "name_jp_tl": "Apocaries",
+    "name_jp_tl_base": "Silent Dental Record",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP072",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -78,5 +89,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

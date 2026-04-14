@@ -1,11 +1,14 @@
 {
     "cid": "a258343e-463c-4cd3-a776-a7f9d612884b",
+    "yid": 77402960,
     "password": "77402960",
     "kid": 15385,
     "name": "Numeron Calling",
     "name_jp": "ヌメロン・ダイレクト",
     "name_jp_rom": "Numeron Dairekuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numeron Direct",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MGED-EN088",
             "set": "Maximum Gold: El Dorado",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CP20-JP027",
+            "set": "Collection Pack 2020",
             "rarities": {
                 "Rare": []
             }
@@ -88,5 +100,6 @@
             "Requires control of specific card",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

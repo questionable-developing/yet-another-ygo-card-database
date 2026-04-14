@@ -1,11 +1,14 @@
 {
     "cid": "91fffe79-03f2-408a-bfa4-b850e43eb2dd",
+    "yid": 57985393,
     "password": "57985393",
     "kid": 20208,
     "name": "Broomy",
     "name_jp": "ブルーミー",
     "name_jp_rom": "Burūmī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP029",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

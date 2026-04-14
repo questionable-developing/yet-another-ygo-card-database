@@ -1,11 +1,14 @@
 {
     "cid": "65222060-effe-498d-a50e-cccb59b94849",
+    "yid": 56655675,
     "password": "56655675",
     "kid": 11720,
     "name": "Ritual Beast Ulti-Gaiapelio",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> ガイアペライオ",
     "name_jp_rom": "Seireijūki Gaiaperaio",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Spirit Beast Steed Gaiapelio",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "RitualBeastUltiGaiapelio-TW01-JP-C.png",
+            "art": "RitualBeastUltiGaiapelio-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "RitualBeastUltiGaiapelio-BLTR-EN-ScR-1E.png",
-            "art": null
+            "art": "RitualBeastUltiGaiapelio-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CROS-EN045",
@@ -49,6 +57,29 @@
             "set": "Battles of Legend: Terminal Revenge",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP045",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP139",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -102,5 +133,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

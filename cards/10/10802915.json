@@ -1,12 +1,14 @@
 {
     "cid": "77191347-112b-44ce-b657-f886abbc23f1",
-    "yid": null,
+    "yid": 10802915,
     "password": "10802915",
     "kid": 9702,
     "name": "Tour Guide From the Underworld",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>はつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>現</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>ゆ</rt><rp>)</rp></ruby>きデスガイド",
     "name_jp_rom": "Makai-hatsu Gense-yuki Desu Gaido",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death Guide Departing the Demon World Bound for the Living World",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -40,88 +42,200 @@
         },
         "3": {
             "idx": "3",
-            "full": "TourGuideFromtheUnderworld-LPST-JP-OP.png",
+            "full": "TourGuideFromtheUnderworld-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "2",
+    "image": "3",
     "sets": [
         {
             "sid": "EXVC-EN084",
             "set": "Extreme Victory",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "BP01-EN023",
             "set": "Battle Pack: Epic Dawn",
             "rarities": {
-                "Rare": [],
-                "Starfoil Rare": []
+                "Rare": ["1"],
+                "Starfoil Rare": ["1"]
             }
         },
         {
             "sid": "CT09-EN013",
             "set": "Collectible Tins 2012 Wave 2",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "AP06-EN001",
             "set": "Astral Pack Six",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "DUSA-EN091",
             "set": "Duelist Saga",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "SR06-EN019",
             "set": "Structure Deck: Lair of Darkness",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "DUOV-EN057",
             "set": "Duel Overload",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["2"]
             }
         },
         {
             "sid": "MAGO-EN007",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["2"]
             }
         },
         {
             "sid": "RA01-EN005",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "RA04-EN157",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["2"],
+                "Quarter Century Secret Rare": ["2"]
+            }
+        },
+        {
+            "sid": "RA05-EN090",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        },
+        {
+            "sid": "BLGG-EN???",
+            "set": "Battles of Legend: Glorious Gallery",
+            "rarities": {
+                "": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP12-JP005",
+            "set": "Extra Pack 2012",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "GS06-JP010",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Common": ["1"],
+                "Gold Rare": ["1"],
+                "Gold Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TRC1-JP018",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD30-JP020",
+            "set": "Structure Deck: Pendulum Domination",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "20AP-JP090",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR06-JP019",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP005",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Premium Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PAC1-JP019",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Prismatic Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "RC04-JP006",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP071",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "LPST-JP008",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],
@@ -160,5 +274,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

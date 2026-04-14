@@ -1,12 +1,14 @@
 {
     "cid": "fb8c2d9b-03dc-4741-b7c8-58f63645cc38",
-    "yid": null,
+    "yid": 8972398,
     "password": "08972398",
     "kid": 14270,
     "name": "Omni Dragon Brotaur",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>醒</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ラルバウール",
     "name_jp_rom": "Yōseiryū Rarubaūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bewitching Awakening Dragon Larbalaur",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP020",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP023",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD43-JP019",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

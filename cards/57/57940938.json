@@ -1,11 +1,14 @@
 {
     "cid": "cb9e69b7-8ac4-441b-8d8e-92c278d53d78",
+    "yid": 57940938,
     "password": "57940938",
     "kid": 18465,
     "name": "Firewall Phantom",
     "name_jp": "ファイアウォール・ファントム",
     "name_jp_rom": "Faiawōru Fantomu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP002",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP099",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

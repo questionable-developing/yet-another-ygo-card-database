@@ -1,11 +1,14 @@
 {
     "cid": "3b079cfd-e1fd-45ea-8b2e-578014b89bff",
+    "yid": 66752837,
     "password": "66752837",
     "kid": 11808,
     "name": "Keeper of the Shrine",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>廟</rb><rp> (</rp><rt>びょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reibyō no Shugosha",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -78,6 +81,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP024",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD36-JP020",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +140,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

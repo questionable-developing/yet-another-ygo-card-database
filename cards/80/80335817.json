@@ -1,11 +1,14 @@
 {
     "cid": "9393bb72-783b-4c74-8e3f-f4e6ebb158ed",
+    "yid": 80335817,
     "password": "80335817",
     "kid": 12110,
     "name": "Timebreaker Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kokken no Majutsushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Timesword Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -58,6 +61,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP002",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD31-JP011",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like"
@@ -101,5 +121,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

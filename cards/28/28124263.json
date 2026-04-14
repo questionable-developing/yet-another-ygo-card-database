@@ -1,12 +1,14 @@
 {
     "cid": "4b292a70-4b0b-4164-a0f6-641df3deeee5",
-    "yid": null,
+    "yid": 28124263,
     "password": "28124263",
     "kid": 7878,
     "name": "Morphtronic Cameran",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・キャメラン",
     "name_jp_rom": "Difōmā Kyameran",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Cameran",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,22 @@
         {
             "sid": "CSOC-EN010",
             "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP010",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP039",
+            "set": "Duelist Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -80,5 +98,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

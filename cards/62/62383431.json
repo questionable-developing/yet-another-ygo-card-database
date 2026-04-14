@@ -1,11 +1,14 @@
 {
     "cid": "1198c4bb-7538-4a24-8716-8ccc1617c7d6",
+    "yid": 62383431,
     "password": "62383431",
     "kid": 16075,
     "name": "Keurse, the Ogdoadic Light",
     "name_jp": "<ruby lang=\"jp\"><rb>溟</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>黄昏</rb><rp> (</rp><rt>たそがれ</rt><rp>)</rp></ruby>－カース",
     "name_jp_rom": "Meikai no Tasogare - Kāsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Abyssal Dawn - Keurse",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "ANGU-EN005",
             "set": "Ancient Guardians",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBAG-JP005",
+            "set": "Deck-Build Pack: Ancient Guardians",
             "rarities": {
                 "Super Rare": []
             }
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2fb12313-06aa-4c64-a458-64baaaa82e0a",
+    "yid": 84281045,
     "password": "84281045",
     "kid": 18861,
     "name": "Vaylantz Wave - Master Phase",
     "name_jp": "<ruby lang=\"jp\"><rb>ＶＶ</rb><rp> (</rp><rt>ヴァリアンツ＝ウェーブ</rt><rp>)</rp></ruby>－マスターフェイズ",
     "name_jp_rom": "Variantsu=Wēbu - Masutā Feizu",
-    "name_jp_tl": "Valiants Wave - Master Phase",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Valiants-Wave - Master Phase",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DUNE-EN074",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP074",
             "set": "Duelist Nexus",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Requires control of specific archetype",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

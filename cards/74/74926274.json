@@ -1,11 +1,14 @@
 {
     "cid": "b2d8a4ef-3602-4591-9d05-02fc6ee62158",
+    "yid": 74926274,
     "password": "74926274",
     "kid": 11739,
     "name": "Pendulum Rising",
     "name_jp": "ペンデュラム・アライズ",
     "name_jp_rom": "Pendyuramu Araizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pendulum Arise",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP064",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD29-JP028",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "13d737e4-60b1-426a-8f1f-89881eb6c30f",
+    "yid": 40267580,
     "password": "40267580",
     "kid": 6263,
     "name": "Brain Jacker",
     "name_jp": "ブレイン・ジャッカー",
     "name_jp_rom": "Burein Jakkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -56,6 +59,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP034",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP154",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
             "Treated as Equip Card",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

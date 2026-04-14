@@ -1,11 +1,14 @@
 {
     "cid": "03cd7994-130f-45a0-bc01-d7bb2133ef65",
+    "yid": 84211599,
     "password": "84211599",
     "kid": 15756,
     "name": "Pot of Prosperity",
     "name_jp": "<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>満</rb><rp> (</rp><rt>まん</rt><rp>)</rp></ruby>で<ruby lang=\"jp\"><rb>謙</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>虚</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kinman de Kenkyo na Tsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pot of Riches and Humility",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "PotofProsperity-TBC1-EN-UPR-LE.png",
+            "full": "PotofProsperity-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -65,6 +68,72 @@
             "set": "The Pot Collection",
             "rarities": {
                 "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX22",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP065",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BLVO-JP065",
+            "set": "Blazing Vortex +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP067",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TBC1-JP011",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPC10",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCTB-JP060",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA19",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -106,5 +175,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

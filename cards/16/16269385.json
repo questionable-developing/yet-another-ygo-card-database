@@ -1,12 +1,14 @@
 {
     "cid": "ee2dab7e-e508-451a-bb27-472028e11e57",
-    "yid": null,
+    "yid": 16269385,
     "password": "16269385",
     "kid": 14029,
     "name": "Prank-Kids Place",
     "name_jp": "プランキッズ・ハウス",
     "name_jp_rom": "Purankizzu Hausu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prank-Kids House",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBHS-JP023",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

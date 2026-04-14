@@ -1,12 +1,14 @@
 {
     "cid": "c88008c9-c486-4561-add4-0a58e618b432",
-    "yid": null,
+    "yid": 3298689,
     "password": "03298689",
     "kid": 12644,
     "name": "The Phantom Knights' Rank-Up-Magic Launch",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ラウンチ",
     "name_jp_rom": "Ranku Appu Majikku - Fantomu Naitsu Raunchi",
+    "name_jp_rom_base": "Ranku Appu Majikku - Gen'ei Kishidan Raunchi",
     "name_jp_tl": "Rank-Up-Magic - Phantom Knights Launch",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP054",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP302",
+            "set": "Tournament Pack 2020 Vol.3",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +123,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

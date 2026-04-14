@@ -1,11 +1,14 @@
 {
     "cid": "aff6b32b-2099-4bbc-9eaf-0e65798e7f11",
+    "yid": 73055622,
     "password": "73055622",
     "kid": 12795,
     "name": "Shinobird's Calling",
     "name_jp": "<ruby lang=\"jp\"><rb>霊魂の降神</rb><rp> (</rp><rt>エスプリット・コーリング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Esupuritto Kōringu",
+    "name_jp_rom_base": "Reikon no Kōshin",
     "name_jp_tl": "Esprit Calling",
+    "name_jp_tl_base": "Soul Spiritualism",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP060",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

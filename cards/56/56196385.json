@@ -1,11 +1,14 @@
 {
     "cid": "6a4fc1dd-1cc1-4eec-b442-c249d0289592",
+    "yid": 56196385,
     "password": "56196385",
     "kid": 15701,
     "name": "Tri-Brigade Kitt",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣戦線</rb><rp> (</rp><rt>トライブリゲード</rt><rp>)</rp></ruby> キット",
     "name_jp_rom": "Toraiburigēdo Kitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -34,24 +37,57 @@
         },
         "2": {
             "idx": "2",
-            "full": "TriBrigadeKitt-LPST-JP-OP.png",
+            "full": "TriBrigadeKitt-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "BLVO-EN010",
             "set": "Blazing Vortex",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "MP22-EN006",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN098",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP010",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": ["1"]
+            }
+        },
+        {
+            "sid": "CF01-JP035",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP016",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -101,5 +137,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

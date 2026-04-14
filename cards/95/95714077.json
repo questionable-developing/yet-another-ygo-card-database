@@ -1,11 +1,14 @@
 {
     "cid": "d95b37b9-361c-43c1-a568-89521db25fd3",
+    "yid": 95714077,
     "password": "95714077",
     "kid": 9671,
     "name": "Wind-Up Factory",
     "name_jp": "ゼンマイマニュファクチャ",
     "name_jp_rom": "Zenmai Manyufakucha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wind-Up Manufacture",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP054",
+            "set": "Generation Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

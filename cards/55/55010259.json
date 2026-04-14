@@ -1,11 +1,14 @@
 {
     "cid": "8771adce-158b-41d9-8e7e-3e2286f8da8b",
+    "yid": 55010259,
     "password": "55010259",
     "kid": 12501,
     "name": "Gold Gadget",
     "name_jp": "ゴールド・ガジェット",
     "name_jp_rom": "Gōrudo Gajetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -71,6 +74,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MVP1-JP018",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "rarities": {
+                "Kaiba Corporation Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPC34",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Super Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +132,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "dcd40c83-a874-4275-88d9-9d1fc8c9c72c",
-    "yid": null,
+    "yid": 30786387,
     "password": "30786387",
     "kid": 12645,
     "name": "Flower Stacking",
     "name_jp": "<ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>はな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>積</rb><rp> (</rp><rt>づ</rt><rp>)</rp></ruby>み",
     "name_jp_rom": "Hanazumi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "INOV-EN055",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP055",
             "set": "Invasion: Vengeance",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

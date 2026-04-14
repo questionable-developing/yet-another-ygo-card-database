@@ -1,11 +1,14 @@
 {
     "cid": "b2605591-92eb-4025-9f5b-f4bd8380b7ca",
+    "yid": 42776855,
     "password": "42776855",
     "kid": 12178,
     "name": "Follow Wing",
     "name_jp": "<ruby lang=\"jp\"><rb>追</rb><rp> (</rp><rt>つい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>走</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>つばさ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tsuisō no Tsubasa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP070",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

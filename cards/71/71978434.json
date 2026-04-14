@@ -1,11 +1,14 @@
 {
     "cid": "1cbc4b66-a150-4e1a-93dd-ce1b8f097bf9",
+    "yid": 71978434,
     "password": "71978434",
     "kid": 15001,
     "name": "Deep Sea Minstrel",
     "name_jp": "<ruby lang=\"jp\"><rb>深</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>のミンストレル",
     "name_jp_rom": "Shinkai no Minsutoreru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DeepSeaMinstrel-ETCO-JP-C.png",
+            "art": "DeepSeaMinstrel-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DeepSeaMinstrel-MP21-EN-C-1E.png",
-            "art": null
+            "art": "DeepSeaMinstrel-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ETCO-EN015",
@@ -46,6 +54,15 @@
         {
             "sid": "MP21-EN051",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP015",
+            "set": "Eternity Code",
             "rarities": {
                 "Common": []
             }
@@ -94,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

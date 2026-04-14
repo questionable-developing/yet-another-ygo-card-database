@@ -1,11 +1,14 @@
 {
     "cid": "e76cf496-b197-4c44-94b5-8cf2c43b3968",
+    "yid": 66698383,
     "password": "66698383",
     "kid": 12818,
     "name": "Vermillion Dragon Mech",
     "name_jp": "<ruby lang=\"jp\"><rb>灼銀の機竜</rb><rp> (</rp><rt>ドラッグ・オン・ヴァーミリオン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraggu On Vāmirion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Drag-On Vermillion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP17-JP046",
+            "set": "Extra Pack 2017",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,14 +73,16 @@
             "Tuner monster"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Dragon Mech"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
         "counter": [],
         "action": [
             "Activates if destroyed by card effect",
-            "Activates from your Graveyard",
+            "Activates if sent to the Graveyard",
             "Adds banished cards to the hand"
         ],
         "stat_change": [],
@@ -93,5 +107,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

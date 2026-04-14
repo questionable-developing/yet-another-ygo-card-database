@@ -1,12 +1,14 @@
 {
     "cid": "64b9d93a-5906-42c5-85a6-e204b691bfc4",
-    "yid": null,
+    "yid": 18511384,
     "password": "18511384",
     "kid": 6431,
     "name": "Fusion Recovery",
     "name_jp": "<ruby lang=\"jp\"><rb>融合回収</rb><rp> (</rp><rt>フュージョン・リカバリー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fyūjon Rikabarī",
+    "name_jp_rom_base": "Yūgō Kaishū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +78,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP038",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP038",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPFE-JP044",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "19TP-JP313",
+            "set": "Tournament Pack 2019 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +142,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

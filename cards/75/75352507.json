@@ -1,11 +1,14 @@
 {
     "cid": "a0a3bdf7-1bec-4fc3-957b-172939694de4",
+    "yid": 75352507,
     "password": "75352507",
     "kid": 20227,
     "name": "Ragnaraika Selene Snapper",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>玄神憑月</rb><rp> (</rp><rt>クロカミツキ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika no Kurokamitsuki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Mysterious Divine Possessed Moon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
         {
             "sid": "MP25-EN389",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP048",
+            "set": "The Infinite Forbidden",
             "rarities": {
                 "Common": []
             }
@@ -100,5 +112,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

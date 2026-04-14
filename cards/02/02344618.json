@@ -1,12 +1,14 @@
 {
     "cid": "2207d0ac-fbf0-4cf2-b99c-15d2773e7c18",
-    "yid": null,
+    "yid": 2344618,
     "password": "02344618",
     "kid": 21464,
     "name": "Lunalight Masquerade",
     "name_jp": "<ruby lang=\"jp\"><rb>月光舞踏会</rb><rp> (</rp><rt>ムーンライト・マスカレード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Masukarēdo",
+    "name_jp_rom_base": "Gekkō Butōkai",
     "name_jp_tl": "Moonlight Masquerade",
+    "name_jp_tl_base": "Moonlight Ball",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP053",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -89,5 +100,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

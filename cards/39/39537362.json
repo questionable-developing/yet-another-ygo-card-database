@@ -1,11 +1,14 @@
 {
     "cid": "61e7ca3e-ef1e-4b91-9bf9-ebe7220a7101",
+    "yid": 39537362,
     "password": "39537362",
     "kid": 5439,
     "name": "Ordeal of a Traveler",
     "name_jp": "<ruby lang=\"jp\"><rb>旅</rb><rp> (</rp><rt>たび</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>びと</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>試</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>練</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tabibito no Shiren",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,50 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PH-41",
+            "set": "Pharaonic Guardian (Japanese)",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL5-126",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE2-JP239",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD7-JP030",
+            "set": "Structure Deck: Invincible Fortress",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP194",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPA31",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +117,7 @@
         "action": [
             "Activates upon attack declaration",
             "Declares a card type",
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Returns from your opponent's field to your opponent's hand"
         ],
         "stat_change": [],
@@ -82,5 +129,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

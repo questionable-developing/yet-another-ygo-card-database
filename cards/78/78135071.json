@@ -1,11 +1,14 @@
 {
     "cid": "1d070fdb-87b1-450f-8553-09f98e94ce1f",
+    "yid": 78135071,
     "password": "78135071",
     "kid": 16741,
     "name": "Exosister Kaspitell",
     "name_jp": "エクソシスター・カスピテル",
     "name_jp_rom": "Ekusoshisutā Kasupiteru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -56,6 +59,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP018",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB25",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

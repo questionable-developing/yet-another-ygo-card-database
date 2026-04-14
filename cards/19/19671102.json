@@ -1,12 +1,14 @@
 {
     "cid": "714c88b9-0718-4118-a50c-cd39e475258e",
-    "yid": null,
+    "yid": 19671102,
     "password": "19671102",
     "kid": 15045,
     "name": "Stairs of Mail",
     "name_jp": "メールの<ruby lang=\"jp\"><rb>階</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>段</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mēru no Kaidan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stairs of Mer",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ETCO-EN059",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP059",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

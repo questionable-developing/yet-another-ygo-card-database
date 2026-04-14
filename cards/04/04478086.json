@@ -1,12 +1,14 @@
 {
     "cid": "d6ca2fa4-6e81-4a3a-a797-3f6dfe59092d",
-    "yid": null,
+    "yid": 4478086,
     "password": "04478086",
     "kid": 13926,
     "name": "Clock Spartoi",
     "name_jp": "クロック・スパルトイ",
     "name_jp_rom": "Kurokku Suparutoi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP039",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

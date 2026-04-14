@@ -1,11 +1,14 @@
 {
     "cid": "69df957f-8815-4f00-a646-3ce299ff8040",
+    "yid": 81325903,
     "password": "81325903",
     "kid": 5296,
     "name": "Amazoness Spellcaster",
     "name_jp": "アマゾネスの<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>詛</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amazonesu no Jusoshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amazoness Curse Master",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "303-030",
+            "set": "Champion of Black Magic",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP139",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

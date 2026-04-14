@@ -1,12 +1,14 @@
 {
     "cid": "e9d32a21-8133-4c0f-8be4-469ef77390d2",
-    "yid": null,
+    "yid": 2311090,
     "password": "02311090",
     "kid": 17409,
     "name": "Spright Carrot",
     "name_jp": "スプライト・キャロット",
     "name_jp_rom": "Supuraito Kyarotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -46,6 +48,36 @@
         {
             "sid": "BLMR-EN067",
             "set": "Battles of Legend: Monstrous Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP007",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "22YJ-JPO01",
+            "set": "Spright Duel Set",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB09",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP125",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -91,5 +123,6 @@
             "Requires control of specific Rank",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

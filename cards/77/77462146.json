@@ -1,11 +1,14 @@
 {
     "cid": "18526d04-ff4e-4329-b6d4-0a1089b5cafa",
+    "yid": 77462146,
     "password": "77462146",
     "kid": 11404,
     "name": "The Phantom Knights of Shadow Veil",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>シャドーベイル",
     "name_jp_rom": "Fantomu Naitsu Shadōbeiru",
+    "name_jp_rom_base": "Gen'ei Kishidan Shadōbeiru",
     "name_jp_tl": "Phantom Knights Shadow Veil",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -69,6 +72,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP072",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPWR-JP012",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +129,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

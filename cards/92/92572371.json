@@ -1,11 +1,14 @@
 {
     "cid": "a9ab5469-ca3f-492f-bceb-9244d86db31e",
+    "yid": 92572371,
     "password": "92572371",
     "kid": 10510,
     "name": "Brotherhood of the Fire Fist - Buffalo",
     "name_jp": "<ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－ブルキ",
     "name_jp_rom": "Satsuensei - Buruki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Killing Flame Star - Bullkui",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -62,6 +65,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP029",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +113,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

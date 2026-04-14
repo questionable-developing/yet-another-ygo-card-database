@@ -1,11 +1,14 @@
 {
     "cid": "defb2eab-c645-4f07-9c68-ab15b6109d57",
+    "yid": 66378485,
     "password": "66378485",
     "kid": 8703,
     "name": "Neo Flamvell Origin",
     "name_jp": "ネオフレムベル・オリジン",
     "name_jp_rom": "Neo Furemuberu Orijin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT08-JP011",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP031",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

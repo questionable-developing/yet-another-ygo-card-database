@@ -1,11 +1,14 @@
 {
     "cid": "b2074a87-c1b4-4204-92aa-41517bea109c",
+    "yid": 76782778,
     "password": "76782778",
     "kid": 14758,
     "name": "Dragonmaid Ernus",
     "name_jp": "ドラゴンメイド・エルデ",
     "name_jp_rom": "Doragonmeido Erude",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Erde",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP015",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP057",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP004",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +121,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

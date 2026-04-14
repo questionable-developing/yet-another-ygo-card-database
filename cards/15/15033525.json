@@ -1,12 +1,14 @@
 {
     "cid": "1b60a1a9-13c6-464b-b927-34c119057135",
-    "yid": null,
+    "yid": 15033525,
     "password": "15033525",
     "kid": 9470,
     "name": "The Blazing Mars",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｔｈｅ ｂｌａｚｉｎｇ ＭＡＲＳ</rb><rp> (</rp><rt>ザ・ブレイジング・マーズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Za Bureijingu Māzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPF1-JP007",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR14-JP015",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

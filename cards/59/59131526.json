@@ -1,11 +1,14 @@
 {
     "cid": "82fffe08-64d2-4575-bdae-079a15d64867",
+    "yid": 59131526,
     "password": "59131526",
     "kid": 18854,
     "name": "Aqua Chorus Round",
     "name_jp": "アクアの<ruby lang=\"jp\"><rb>輪</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>唱</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Akua no Rinshō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP067",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

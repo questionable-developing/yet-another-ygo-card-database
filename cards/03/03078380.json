@@ -1,12 +1,14 @@
 {
     "cid": "eb7d8cac-13be-4660-9bb9-4a292efc5e8e",
-    "yid": null,
+    "yid": 3078380,
     "password": "03078380",
     "kid": 16808,
     "name": "Timaeus the United Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>がっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ティマイオス",
     "name_jp_rom": "Gattairyū Timaiosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP003",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP006",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP006",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -64,7 +91,9 @@
             "Fusion Monster"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Timaeus (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [
@@ -98,5 +127,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

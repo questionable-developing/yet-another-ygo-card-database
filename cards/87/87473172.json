@@ -1,11 +1,14 @@
 {
     "cid": "41fa2110-d1c9-4da3-85ae-151d054aa3ec",
+    "yid": 87473172,
     "password": "87473172",
     "kid": 6261,
     "name": "Firebird",
     "name_jp": "<ruby lang=\"jp\"><rb>火炎鳥</rb><rp> (</rp><rt>バーニングバード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bāningu Bādo",
+    "name_jp_rom_base": "Kaenchō",
     "name_jp_tl": "Burning Bird",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP032",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP152",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

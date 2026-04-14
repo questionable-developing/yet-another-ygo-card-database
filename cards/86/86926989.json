@@ -1,11 +1,14 @@
 {
     "cid": "1298e65c-8b46-485c-963d-6d93a600e841",
+    "yid": 86926989,
     "password": "86926989",
     "kid": 14131,
     "name": "Shiranui Skillsaga Supremacy",
     "name_jp": "<ruby lang=\"jp\"><rb>麗</rb><rp> (</rp><rt>うるわし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Uruwashigami - Shiranui",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Graceful God - Shiranui",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -48,6 +51,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP054",
+            "set": "Savage Strike",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,7 +90,7 @@
         "summoning": [
             "2+ Link Materials",
             "Requires Type specific Link Materials",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Cannot be destroyed by battle"
@@ -87,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

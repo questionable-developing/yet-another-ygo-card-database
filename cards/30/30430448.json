@@ -1,12 +1,14 @@
 {
     "cid": "c85ebcc8-ea75-46d5-b8ef-f896283e4dfd",
-    "yid": null,
+    "yid": 30430448,
     "password": "30430448",
     "kid": 17376,
     "name": "Runick Freezing Curses",
     "name_jp": "<ruby lang=\"jp\"><rb>凍</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>てつく<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>のろ</rt><rp>)</rp></ruby>いの<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Itetsuku Noroi no Rūn",
+    "name_jp_rom_base": "Itetsuku Noroi no Shinpi",
     "name_jp_tl": "Rune of Freezing Curses",
+    "name_jp_tl_base": "Divine Runestone of Freezing Curses",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP033",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

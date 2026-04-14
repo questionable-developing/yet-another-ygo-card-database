@@ -1,11 +1,14 @@
 {
     "cid": "2aaaa850-a09e-4d35-ac51-370ff2055ae9",
+    "yid": 84428023,
     "password": "84428023",
     "kid": 9128,
     "name": "Wattjustment",
     "name_jp": "エレキャッシュ",
     "name_jp_rom": "Erekyasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecache",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP051",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

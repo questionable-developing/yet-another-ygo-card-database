@@ -1,12 +1,14 @@
 {
     "cid": "b0fd5d47-7565-4492-ad02-cdd1ea11218c",
-    "yid": null,
+    "yid": 12678870,
     "password": "12678870",
     "kid": 11499,
     "name": "Ritual Beast Ulti-Pettlephin",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> ペトルフィン",
     "name_jp_rom": "Seireijūki Petorufin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Spirit Beast Steed Petolphin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -42,6 +44,27 @@
             "set": "The Secret Forces",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP029",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP137",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -81,7 +104,7 @@
             "Contact Fusion",
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -92,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

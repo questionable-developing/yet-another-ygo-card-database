@@ -1,12 +1,14 @@
 {
     "cid": "1e158f5d-edd4-49f8-9f4a-b8a07cee77ed",
-    "yid": null,
+    "yid": 7608148,
     "password": "07608148",
     "kid": 17191,
     "name": "Vivid Tail",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｖｉｖｉｄ</rb><rp> (</rp><rt>ビビッド</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｔａｉｌ</rb><rp> (</rp><rt>テール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bibiddo Tēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP080",
+            "set": "Dimension Force",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -52,7 +63,9 @@
         "arc": [],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "P (series)"
+        ],
         "counter": [],
         "action": [
             "Returns from your field to your hand",
@@ -76,5 +89,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

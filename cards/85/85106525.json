@@ -1,11 +1,14 @@
 {
     "cid": "ce7eabb6-47c1-4b66-b955-5848da8b67bc",
+    "yid": 85106525,
     "password": "85106525",
     "kid": 19027,
     "name": "Bonfire",
     "name_jp": "<ruby lang=\"jp\"><rb>篝</rb><rp> (</rp><rt>かがり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kagaribi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC03-JP006",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP198",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,7 +111,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

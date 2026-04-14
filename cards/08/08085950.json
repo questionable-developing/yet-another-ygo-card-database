@@ -1,12 +1,14 @@
 {
     "cid": "c6971c4a-f9f8-4842-a81f-6fa8c930d831",
-    "yid": null,
+    "yid": 8085950,
     "password": "08085950",
     "kid": 8930,
     "name": "Burning Dragon",
     "name_jp": "バーニング・ドラゴン",
     "name_jp_rom": "Bāningu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP231",
+            "set": "V Jump Spring 2023 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

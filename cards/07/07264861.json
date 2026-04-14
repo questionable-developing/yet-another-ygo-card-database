@@ -1,12 +1,14 @@
 {
     "cid": "0491f650-8133-49f4-ad73-420e6f421f8e",
-    "yid": null,
+    "yid": 7264861,
     "password": "07264861",
     "kid": 8303,
     "name": "Infernity Beast",
     "name_jp": "インフェルニティ・ビースト",
     "name_jp_rom": "Inferuniti Bīsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP012",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP006",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +99,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

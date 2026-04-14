@@ -1,11 +1,14 @@
 {
     "cid": "a9526427-93da-48a8-b75b-13425a8fd6a3",
+    "yid": 39138610,
     "password": "39138610",
     "kid": 21188,
     "name": "Allied Code Talker @Ignister",
     "name_jp": "アコード・トーカー<ruby lang=\"jp\"><rb>＠</rb><rp> (</rp><rt>アット</rt><rp>)</rp></ruby>イグニスター",
     "name_jp_rom": "Akōdo Tōkā Atto Igunisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Accode Talker @Ignister",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -47,6 +50,27 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP051",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "ALIN-JP051",
+            "set": "Alliance Insight +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -97,7 +121,9 @@
         "smat": [],
         "misc": [
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b0b2e95d-cf11-4572-a9c6-91e9117c978f",
+    "yid": 50277355,
     "password": "50277355",
     "kid": 14856,
     "name": "Cross-Sheep",
     "name_jp": "クロシープ",
     "name_jp_rom": "Kuroshīpu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crosheep",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,39 +41,73 @@
         },
         "2": {
             "idx": "2",
-            "full": "CrossSheep-LPST-JP-OP.png",
+            "full": "CrossSheep-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "IGAS-EN047",
             "set": "Ignition Assault",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "BLAR-EN092",
             "set": "Battles of Legend: Armageddon",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MP21-EN018",
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "JUSH-EN048",
             "set": "Justice Hunters",
             "rarities": {
-                "Rare": [],
-                "Super Rare": []
+                "Rare": ["1"],
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN106",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP047",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP047",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP024",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -116,5 +153,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

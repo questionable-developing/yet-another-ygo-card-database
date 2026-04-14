@@ -1,12 +1,14 @@
 {
     "cid": "cc151be0-ce25-4274-b6a9-45c40749404e",
-    "yid": null,
+    "yid": 22900598,
     "password": "22900598",
     "kid": 10806,
     "name": "Vampire Takeover",
     "name_jp": "ヴァンパイア・シフト",
     "name_jp_rom": "Vanpaia Shifuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vampire Shift",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP075",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
             "Only once per turn",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b61b980c-6231-449d-a558-6c0a87cdb4c3",
-    "yid": null,
+    "yid": 14505685,
     "password": "14505685",
     "kid": 13345,
     "name": "Cyberse Converter",
     "name_jp": "サイバース・コンバーター",
     "name_jp_rom": "Saibāsu Konbātā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,22 @@
         {
             "sid": "SAST-EN092",
             "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP136",
+            "set": "V Jump September 2017 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP012",
+            "set": "Structure Deck: Master Link",
             "rarities": {
                 "Common": []
             }
@@ -80,5 +98,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

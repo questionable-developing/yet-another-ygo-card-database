@@ -1,11 +1,14 @@
 {
     "cid": "4b348f3d-292d-4853-88d8-98498806f908",
+    "yid": 58695102,
     "password": "58695102",
     "kid": 11253,
     "name": "Re-Cover",
     "name_jp": "リ・バイブル",
     "name_jp_rom": "Ri Baiburu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Re Vible",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -65,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP044",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD29-JP024",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +119,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

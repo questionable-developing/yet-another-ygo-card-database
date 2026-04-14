@@ -1,11 +1,14 @@
 {
     "cid": "81144a59-5cf4-46c9-b34c-a89752efea8e",
+    "yid": 66506689,
     "password": "66506689",
     "kid": 10002,
     "name": "Tin Archduke",
     "name_jp": "ブリキの<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>公</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Buriki no Taikō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT14-JP037",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "CPZ1-JP043",
+            "set": "Collectors Pack: ZEXAL Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

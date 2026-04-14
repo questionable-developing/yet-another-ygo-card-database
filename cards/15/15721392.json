@@ -1,12 +1,14 @@
 {
     "cid": "9b25395f-931a-49b3-ac7e-6a6940721927",
-    "yid": null,
+    "yid": 15721392,
     "password": "15721392",
     "kid": 14306,
     "name": "Super Quantal Alphancall Appeal",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>量</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>要</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>請</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>アルファンコール",
     "name_jp_rom": "Chōryōyōsei Arufankōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Quantal Appeal Alphancall",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN056",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP056",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

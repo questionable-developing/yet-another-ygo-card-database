@@ -1,12 +1,14 @@
 {
     "cid": "c5a8c0ab-c87c-4a2a-a810-f48daea84e63",
-    "yid": null,
+    "yid": 20934683,
     "password": "20934683",
     "kid": 20530,
     "name": "Azamina Debtors",
     "name_jp": "アザミナ・オフェイレーテス",
     "name_jp_rom": "Azamina Ofeirētesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Azamina Ofeiletis",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP054",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +80,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Sends from your hand to your Graveyard",
             "Sends from your field to your Graveyard",
             "Reveals face-down cards",
@@ -92,5 +103,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

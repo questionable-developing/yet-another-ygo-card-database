@@ -1,11 +1,14 @@
 {
     "cid": "c013fa40-6c65-443f-9faf-0ace1c063673",
+    "yid": 51043053,
     "password": "51043053",
     "kid": 11033,
     "name": "Heliosphere Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>防</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>覇</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ヘリオスフィア",
     "name_jp_rom": "Bōharyū Heriosufia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heliosphere, the Supreme Shield Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP004",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

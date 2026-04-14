@@ -1,11 +1,14 @@
 {
     "cid": "22ff2988-a046-4f2c-80e4-a3387b1451d0",
+    "yid": 70335319,
     "password": "70335319",
     "kid": 14363,
     "name": "All-Eyes Phantom Dragon",
     "name_jp": "ゴッドアイズ・ファントム・ドラゴン",
     "name_jp_rom": "Goddoaizu Fantomu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "God-Eyes Phantom Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -41,6 +44,15 @@
             "set": "Battles of Legend: Hero's Revenge",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP157",
+            "set": "V Jump February 2019 promotional card",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -89,7 +101,7 @@
             "Nomi",
             "Pendulum Monsters that cannot be Pendulum Summoned",
             "Special Summons itself from your hand",
-            "Special Summons itself from your Extra Deck",
+            "Special Summons itself from your face-up Extra Deck",
             "Special Summon by its own condition once per turn"
         ],
         "attack": [
@@ -104,5 +116,6 @@
             "Special Summon Monster",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

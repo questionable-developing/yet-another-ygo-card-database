@@ -1,12 +1,14 @@
 {
     "cid": "80c572df-1b69-4fc0-840a-bb9fe44f76a8",
-    "yid": null,
+    "yid": 26914168,
     "password": "26914168",
     "kid": 15983,
     "name": "Dark Honest",
     "name_jp": "ダーク・オネスト",
     "name_jp_rom": "Dāku Onesuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP022",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP022",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JPS05",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +125,6 @@
             "Limited activations",
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

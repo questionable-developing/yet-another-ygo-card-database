@@ -1,12 +1,14 @@
 {
     "cid": "b9013adb-5c51-407b-b8d0-9b78f2e440e7",
-    "yid": null,
+    "yid": 17008760,
     "password": "17008760",
     "kid": 17177,
     "name": "Materiactor Annulus",
     "name_jp": "<ruby lang=\"jp\"><rb>原質の円環炉</rb><rp> (</rp><rt>マテリアクトル・アニュラス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Materiakutoru Anyurasu",
+    "name_jp_rom_base": "Genshitsu no Enkanro",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Elemental Annular Reactor",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DIFO-EN066",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP066",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -71,5 +82,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e1822eb2-9232-4ca6-bdbe-da5d56c1271d",
+    "yid": 60619435,
     "password": "60619435",
     "kid": 18207,
     "name": "Giant Ballgame",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｇ</rb><rp> (</rp><rt>ジャイアント</rt><rp>)</rp></ruby>・ボール・シュート",
     "name_jp_rom": "Jaianto Bōru Shūto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Giant Ball Shoot",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP062",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
             "Requires control of specific Type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

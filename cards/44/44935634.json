@@ -1,11 +1,14 @@
 {
     "cid": "ebfdcb06-5a91-4287-b304-c80239ebac92",
+    "yid": 44935634,
     "password": "44935634",
     "kid": 9251,
     "name": "Lefty Driver",
     "name_jp": "レフティ・ドライバー",
     "name_jp_rom": "Refuti Doraibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP20-JP013",
+            "set": "Premium Pack 20",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP020",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

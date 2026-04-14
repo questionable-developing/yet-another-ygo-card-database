@@ -1,12 +1,14 @@
 {
     "cid": "17e4b9eb-221c-4e5d-92d3-21eceb532cde",
-    "yid": null,
+    "yid": 20318029,
     "password": "20318029",
     "kid": 13905,
     "name": "Thunder Dragonmatrix",
     "name_jp": "<ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>源</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－サンダー・ドラゴン",
     "name_jp_rom": "Raigenryū - Sandā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder Origin Dragon - Thunder Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP018",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP169",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +119,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

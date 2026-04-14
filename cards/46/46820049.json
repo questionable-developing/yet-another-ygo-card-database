@@ -1,11 +1,14 @@
 {
     "cid": "5d362437-8b53-4147-9e6e-03375d317615",
+    "yid": 46820049,
     "password": "46820049",
     "kid": 5771,
     "name": "Mefist the Infernal General",
     "name_jp": "<ruby lang=\"jp\"><rb>地獄将軍</rb><rp> (</rp><rt>ヘルジェネラル</rt><rp>)</rp></ruby>・メフィスト",
     "name_jp_rom": "Heru Jeneraru Mefisuto",
+    "name_jp_rom_base": "Jigoku Shōgun Mefisuto",
     "name_jp_tl": "Hell General Mephisto",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-013",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP228",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +113,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

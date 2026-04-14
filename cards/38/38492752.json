@@ -1,11 +1,14 @@
 {
     "cid": "a24a8df9-74b1-443a-af80-8a03647d8308",
+    "yid": 38492752,
     "password": "38492752",
     "kid": 9374,
     "name": "Laval Cannon",
     "name_jp": "ラヴァル・キャノン",
     "name_jp_rom": "Ravaru Kyanon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT11-JP018",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC4-JP033",
+            "set": "Duel Terminal Chronicle 4 - Chapter of Opposites",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +89,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -78,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

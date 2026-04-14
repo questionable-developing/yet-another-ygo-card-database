@@ -1,11 +1,14 @@
 {
     "cid": "6c3467e2-3b52-4377-ad4b-e5a65d60832d",
+    "yid": 52502677,
     "password": "52502677",
     "kid": 14639,
     "name": "Gladiator Beast Attorix",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>アトリクス",
     "name_jp_rom": "Guradiaru Bīsuto Atorikusu",
+    "name_jp_rom_base": "Kentōjū Atorikusu",
     "name_jp_tl": "Gladial Beast Atrix",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP20-EN156",
             "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP012",
+            "set": "Chaos Impact",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +105,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

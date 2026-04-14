@@ -1,11 +1,14 @@
 {
     "cid": "682b13d1-cb43-483c-a34e-4f1a56bfe519",
+    "yid": 37818794,
     "password": "37818794",
     "kid": 14952,
     "name": "Red-Eyes Dark Dragoon",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－ドラグーン・オブ・レッドアイズ",
     "name_jp_rom": "Chōmadōryūkishi - Doragūn Obu Reddoaizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Magical Dragon Knight - Dragoon of Red-Eyes",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,43 +34,97 @@
         "1": {
             "idx": "1",
             "full": "RedEyesDarkDragoon-RA02-EN-SR-1E.png",
+            "art": "RedEyesDarkDragoon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "RedEyesDarkDragoon-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "MP20-EN249",
             "set": "2020 Tin of Lost Memories",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "BROL-EN094",
             "set": "Brothers of Legend",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "MP22-EN264",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "RA02-EN021",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN141",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LGB1-JP001",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "AW01-JP003",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP084",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP017",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP001",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -117,7 +174,7 @@
             "2 Fusion Materials",
             "Requires specific Normal Monsters as Fusion Materials",
             "Requires Type specific Fusion Materials",
-            "Requires Effect Monsters as Fusion Materials"
+            "Requires nonspecific Effect Monsters as Fusion Materials"
         ],
         "attack": [],
         "banished": [],
@@ -129,5 +186,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "04a3d4d6-4f57-41fe-b5f3-d7c187792bf5",
-    "yid": null,
+    "yid": 8953369,
     "password": "08953369",
     "kid": 18202,
     "name": "Kashtira Overlap",
     "name_jp": "クシャトリラ・オーバーラップ",
     "name_jp_rom": "Kushatorira Ōbārappu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kshatrira Overlap",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP24-EN323",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP057",
+            "set": "Photon Hypernova",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

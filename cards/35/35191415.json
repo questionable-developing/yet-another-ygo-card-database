@@ -1,12 +1,14 @@
 {
     "cid": "17d916fd-be15-4ab5-9ce8-bbfe16a0dfb2",
-    "yid": null,
+    "yid": 35191415,
     "password": "35191415",
     "kid": 12416,
     "name": "Magician of Dark Illusion",
     "name_jp": "マジシャン・オブ・ブラック・イリュージョン",
     "name_jp_rom": "Majishan Obu Burakku Iryūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magician of Black Illusion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP017",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP23-JP006",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
             "Only once per turn",
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

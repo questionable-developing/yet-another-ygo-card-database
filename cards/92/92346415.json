@@ -1,11 +1,14 @@
 {
     "cid": "6b0dfeae-d434-4eaf-8ee2-177a43c0582c",
+    "yid": 92346415,
     "password": "92346415",
     "kid": 8049,
     "name": "Psychic Sword",
     "name_jp": "サイコ・ソード",
     "name_jp_rom": "Saiko Sōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Sword",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP054",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

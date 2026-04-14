@@ -1,11 +1,14 @@
 {
     "cid": "5389e8ab-9e48-4c66-8299-4bf5b431f81e",
+    "yid": 56894757,
     "password": "56894757",
     "kid": 14413,
     "name": "Witchcrafter Draping",
     "name_jp": "ウィッチクラフト・ドレーピング",
     "name_jp_rom": "Witchikurafuto Dorēpingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Draping",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WitchcrafterDraping-DBIC-JP-C.png",
+            "art": "WitchcrafterDraping-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WitchcrafterDraping-MP20-EN-C-1E.png",
-            "art": null
+            "art": "WitchcrafterDraping-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "INCH-EN023",
@@ -44,6 +52,16 @@
             "set": "2020 Tin of Lost Memories",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP023",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -81,5 +99,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

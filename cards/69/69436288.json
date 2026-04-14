@@ -1,11 +1,14 @@
 {
     "cid": "f593693b-1344-4192-af72-8c87b73ae07e",
+    "yid": 69436288,
     "password": "69436288",
     "kid": 17048,
     "name": "Doom Kraken",
     "name_jp": "デス・クラーケン",
     "name_jp_rom": "Desu Kurāken",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death Kraken",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "Legendary Duelists: Duels From the Deep",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP26-JP018",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -88,5 +100,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

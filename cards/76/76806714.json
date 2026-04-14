@@ -1,11 +1,14 @@
 {
     "cid": "b3d95fd0-6e8c-4820-979e-27963b816bd0",
+    "yid": 76806714,
     "password": "76806714",
     "kid": 4698,
     "name": "Turtle Oath",
     "name_jp": "<ruby lang=\"jp\"><rb>亀</rb><rp> (</rp><rt>かめ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>誓</rb><rp> (</rp><rt>ちか</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Kame no Chikai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-15",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-050",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +97,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

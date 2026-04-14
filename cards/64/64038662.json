@@ -1,11 +1,14 @@
 {
     "cid": "ee86e4f6-b312-443c-8f0a-8a5982b6875d",
+    "yid": 64038662,
     "password": "64038662",
     "kid": 9945,
     "name": "Variable Form",
     "name_jp": "ヴァリュアブル・フォーム",
     "name_jp_rom": "Varyuaburu Fōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ORCS-EN071",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP071",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
             "Variable effects",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

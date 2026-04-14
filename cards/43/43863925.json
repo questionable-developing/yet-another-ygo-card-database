@@ -1,11 +1,14 @@
 {
     "cid": "c2f8ac68-5987-4131-8e07-0a3ee238d68e",
+    "yid": 43863925,
     "password": "43863925",
     "kid": 16737,
     "name": "Exosister Stella",
     "name_jp": "エクソシスター・ステラ",
     "name_jp_rom": "Ekusoshisutā Sutera",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -55,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP014",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB03",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

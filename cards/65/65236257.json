@@ -1,11 +1,14 @@
 {
     "cid": "fc5eb71d-2cad-463c-9c92-433af9e6cec0",
+    "yid": 65236257,
     "password": "65236257",
     "kid": 12652,
     "name": "Tellarknight Genesis",
     "name_jp": "<ruby lang=\"jp\"><rb>創星の因子</rb><rp> (</rp><rt>ジェネシス・テラナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jeneshisu Teranaito",
+    "name_jp_rom_base": "Sōsei no Inshi",
     "name_jp_tl": "Genesis Tellarknight",
+    "name_jp_tl_base": "Stellar Creation Factor",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP062",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c226ccb7-90c6-425a-afa2-2b0bffdfb6c4",
+    "yid": 58363151,
     "password": "58363151",
     "kid": 15706,
     "name": "S-Force Pla-Tina",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ－Ｆｏｒｃｅ</rb><rp> (</rp><rt>セキュリティ・フォース</rt><rp>)</rp></ruby> プラ＝ティナ",
     "name_jp_rom": "Sekyuriti Fōsu Pura=Tina",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Security Force Pla-Tina",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP015",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +88,7 @@
         ],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -88,5 +100,6 @@
             "Requires control of specific archetype",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

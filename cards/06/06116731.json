@@ -1,12 +1,14 @@
 {
     "cid": "cbdee330-6be1-4947-a018-9f974e1d7b80",
-    "yid": null,
+    "yid": 6116731,
     "password": "06116731",
     "kid": 19830,
     "name": "Swarm of Centipedes",
     "name_jp": "ムカデの<ruby lang=\"jp\"><rb>進</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mukade no Shingun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "March of Centipedes",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP050",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

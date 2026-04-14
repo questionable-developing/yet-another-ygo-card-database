@@ -1,12 +1,14 @@
 {
     "cid": "a377493e-31a4-4f19-8e6a-77e23421ba98",
-    "yid": null,
+    "yid": 16632144,
     "password": "16632144",
     "kid": 13399,
     "name": "Grappler Angler",
     "name_jp": "<ruby lang=\"jp\"><rb>屈強の釣り師</rb><rp> (</rp><rt>アングラップラー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Angurappurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Angrappler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP029",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

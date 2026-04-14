@@ -1,11 +1,14 @@
 {
     "cid": "cf09dffd-f117-4e33-9fc7-3af4e9848c60",
+    "yid": 41373230,
     "password": "41373230",
     "kid": 15272,
     "name": "Titaniklad the Ash Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>灰</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>燼</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>バスタード",
     "name_jp_rom": "Kaijinryū Basutādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bastard the Ash Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +68,47 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP038",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "ROTD-JP038",
+            "set": "Rise of the Duelist +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP043",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP010",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP046",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +152,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

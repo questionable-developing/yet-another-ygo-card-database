@@ -1,11 +1,14 @@
 {
     "cid": "5fac4bd6-8d2d-4631-8e78-cf30345541db",
+    "yid": 73625877,
     "password": "73625877",
     "kid": 9641,
     "name": "Time Escaper",
     "name_jp": "タイム・エスケーパー",
     "name_jp_rom": "Taimu Esukēpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP024",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

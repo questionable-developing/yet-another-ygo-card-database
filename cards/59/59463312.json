@@ -1,11 +1,14 @@
 {
     "cid": "cb65a44c-2c4e-49ce-bc66-254fb0a9e5cd",
+    "yid": 59463312,
     "password": "59463312",
     "kid": 12092,
     "name": "Eidos the Underworld Squire",
     "name_jp": "<ruby lang=\"jp\"><rb>冥</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>従</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>エイドス",
     "name_jp_rom": "Meiteijūki Eidosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eidos the Underworld Monarch's Squire",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +48,22 @@
         {
             "sid": "BROL-EN077",
             "set": "Brothers of Legend",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR01-JP002",
+            "set": "Structure Deck R: Advent of the True Monarch",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS16",
+            "set": "Duelist Advance +1 Assist Pack",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -91,5 +110,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "eb1dd9d2-bc43-4a23-8c46-2596559295ef",
-    "yid": null,
+    "yid": 18756904,
     "password": "18756904",
     "kid": 9138,
     "name": "White Elephant's Gift",
     "name_jp": "<ruby lang=\"jp\"><rb>馬</rb><rp> (</rp><rt>うま</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>骨</rb><rp> (</rp><rt>ほね</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>対</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>価</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Umanohone no Taika",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Horse Bone's Compensation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -83,6 +85,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP062",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SD25-JP028",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "21TP-JP211",
+            "set": "Tournament Pack 2021 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +138,6 @@
         "misc": [
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "dd84bf06-565b-4d5b-b0b6-19f54efdf97a",
+    "yid": 61538782,
     "password": "61538782",
     "kid": 6743,
     "name": "Truckroid",
     "name_jp": "トラックロイド",
     "name_jp_rom": "Torakkuroido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP014",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

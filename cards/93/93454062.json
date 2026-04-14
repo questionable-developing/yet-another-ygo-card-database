@@ -1,11 +1,14 @@
 {
     "cid": "83a1aaf8-ec79-4dc2-b538-9993f25879f7",
+    "yid": 93454062,
     "password": "93454062",
     "kid": 17776,
     "name": "Naturia Mole Cricket",
     "name_jp": "ナチュル・モルクリケット",
     "name_jp_rom": "Nachuru Morukuriketto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Naturu Mole Cricket",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP020",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "db3cd3c8-3995-4d97-99f3-dc713807c89e",
+    "yid": 95440946,
     "password": "95440946",
     "kid": 15123,
     "name": "Eldlich the Golden Lord",
     "name_jp": "<ruby lang=\"jp\"><rb>黄金</rb><rp> (</rp><rt>おうごん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>卿</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>エルドリッチ",
     "name_jp_rom": "Ōgonkyō Erudoritchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,7 +42,7 @@
         },
         "3": {
             "idx": "3",
-            "full": "EldlichtheGoldenLord-LPST-JP-OP.png",
+            "full": "EldlichtheGoldenLord-RA05-EN-UR-1E.png",
             "art": null
         },
         "2.1": {
@@ -48,54 +51,117 @@
             "art": "EldlichtheGoldenLord-MADU-JP-VG-artwork-2.png"
         }
     },
-    "image": "2.1",
+    "image": "3",
     "sets": [
         {
             "sid": "SESL-EN027",
             "set": "Secret Slayers",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "MAGO-EN024",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "MGED-EN024",
             "set": "Maximum Gold: El Dorado",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["12"]
             }
         },
         {
             "sid": "RA01-EN019",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1", "2"],
+                "Ultra Rare": ["1", "2"],
+                "Secret Rare": ["1", "2"],
+                "Platinum Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["1", "2"],
+                "Ultimate Rare": ["1", "2"],
+                "Collector's Rare": ["1", "2"]
             }
         },
         {
             "sid": "STAX-EN016",
             "set": "2-Player Starter Set",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "LART-EN066",
             "set": "The Lost Art Promotion 2024 A",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["2.1"]
+            }
+        },
+        {
+            "sid": "RA05-EN097",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBSS-JP027",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP020",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "AW01-JP004",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPC01",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": ["1"],
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP064",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2.1"],
+                "Quarter Century Secret Rare": ["2.1"]
+            }
+        },
+        {
+            "sid": "LPST-JP015",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],
@@ -146,7 +212,9 @@
         ],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ab9884f6-2542-412a-91bf-6dc31a5893c0",
+    "yid": 58288565,
     "password": "58288565",
     "kid": 20712,
     "name": "Butterfly Fish",
     "name_jp": "バタフライ・フィッシュ",
     "name_jp_rom": "Batafurai Fisshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP055",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

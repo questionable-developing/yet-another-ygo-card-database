@@ -1,11 +1,14 @@
 {
     "cid": "d484e22b-7374-4cd1-a28f-ee01b733a68e",
+    "yid": 77967790,
     "password": "77967790",
     "kid": 13928,
     "name": "Dinowrestler King T Wrextle",
     "name_jp": "ダイナレスラー・キング・<ruby lang=\"jp\"><rb>Ｔ</rb><rp> (</rp><rt>ティー</rt><rp>)</rp></ruby>レッスル",
     "name_jp_rom": "Dainaresurā Kingu Tī Ressuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP041",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
             "At the start of the Battle Phase",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

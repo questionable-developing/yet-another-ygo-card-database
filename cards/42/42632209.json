@@ -1,11 +1,14 @@
 {
     "cid": "64b64b98-7c79-42fe-bbb6-d96bdadd8ff9",
+    "yid": 42632209,
     "password": "42632209",
     "kid": 14751,
     "name": "Geomathmech Final Sigma",
     "name_jp": "<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>エン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>斬</rb><rp> (</rp><rt>ザン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>キ</rt><rp>)</rp></ruby>ファイナルシグマ",
     "name_jp_rom": "Enzanki Fainaru Shiguma",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Enzanki Final Sigma",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP008",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP053",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +112,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

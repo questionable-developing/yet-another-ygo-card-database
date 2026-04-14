@@ -1,11 +1,14 @@
 {
     "cid": "da7d08ee-7241-46e4-aee4-0d82c45b91e8",
+    "yid": 54749427,
     "password": "54749427",
     "kid": 6755,
     "name": "Destiny HERO - Defender",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ディフェンドガイ",
     "name_jp_rom": "Desutenī Hīrō Difendogai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Defendguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP013",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP05-JP006",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP009",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +113,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

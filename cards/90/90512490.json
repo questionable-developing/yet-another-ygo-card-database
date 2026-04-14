@@ -1,11 +1,14 @@
 {
     "cid": "1aba3bdf-5ee9-4ac5-8a3c-623e715708ea",
+    "yid": 90512490,
     "password": "90512490",
     "kid": 13606,
     "name": "Greatfly",
     "name_jp": "グレートフライ",
     "name_jp_rom": "Gurētofurai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP052",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

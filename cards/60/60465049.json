@@ -1,11 +1,14 @@
 {
     "cid": "cd36d25b-61af-4087-bc66-3bb31d93e951",
+    "yid": 60465049,
     "password": "60465049",
     "kid": 17154,
     "name": "Psychic End Punisher",
     "name_jp": "サイコ・エンド・パニッシャー",
     "name_jp_rom": "Saiko Endo Panisshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho End Punisher",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -64,6 +67,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP043",
+            "set": "Dimension Force",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JP043",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JPS09",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        },
+        {
+            "sid": "QCTB-JP058",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +142,6 @@
             "Limited activations",
             "At the start of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

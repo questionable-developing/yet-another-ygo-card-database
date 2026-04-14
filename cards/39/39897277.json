@@ -1,11 +1,14 @@
 {
     "cid": "81109ac3-17d6-4b5b-8c2c-31179cccea49",
+    "yid": 39897277,
     "password": "39897277",
     "kid": 4313,
     "name": "Elf's Light",
     "name_jp": "エルフの<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Erufu no Hikari",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,12 +29,54 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ElfsLight-TP16-JP-C.jpg",
+            "art": "ElfsLight-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ElfsLight-TP1-EU-R-UE.jpg",
-            "art": null
+            "art": "ElfsLight-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Booster 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "B1-27",
+            "set": "Booster R1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BC-03",
+            "set": "Booster Chronicle",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL4-074",
+            "set": "Duelist Legacy Volume.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP16-JP009",
+            "set": "Tournament Pack 2010 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -64,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

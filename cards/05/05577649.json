@@ -1,12 +1,14 @@
 {
     "cid": "f4997a85-5901-46a2-b31f-59812e531e29",
-    "yid": null,
+    "yid": 5577649,
     "password": "05577649",
     "kid": 9150,
     "name": "Scrap Crash",
     "name_jp": "スクラップ・クラッシュ",
     "name_jp_rom": "Sukurappu Kurasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "STBL-EN073",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP073",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

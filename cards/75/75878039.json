@@ -1,11 +1,14 @@
 {
     "cid": "f8793c4c-292b-435e-b2eb-0a912071422a",
+    "yid": 75878039,
     "password": "75878039",
     "kid": 11227,
     "name": "Satellarknight Deneb",
     "name_jp": "<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby> デネブ",
     "name_jp_rom": "Sateranaito Denebu",
+    "name_jp_rom_base": "Seiinshi Denebu",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP018",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP045",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d7a87e38-49d6-4d38-ad7a-5f42e5b7a245",
-    "yid": null,
+    "yid": 13382806,
     "password": "13382806",
     "kid": 16836,
     "name": "Silvervine Senri",
     "name_jp": "マタタビ<ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狸</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Matatabi Senri",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "BACH-EN031",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP031",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

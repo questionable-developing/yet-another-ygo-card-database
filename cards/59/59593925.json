@@ -1,11 +1,14 @@
 {
     "cid": "1763469f-5463-45b4-9233-e0d7f3cbb2ab",
+    "yid": 59593925,
     "password": "59593925",
     "kid": 9519,
     "name": "Resonant Destruction",
     "name_jp": "<ruby lang=\"jp\"><rb>共</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳴</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyōmeiha",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP048",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

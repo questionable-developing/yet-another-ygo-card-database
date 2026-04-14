@@ -1,11 +1,14 @@
 {
     "cid": "c681a025-9669-4236-b7cd-cd01fac065a0",
+    "yid": 52496105,
     "password": "52496105",
     "kid": 7310,
     "name": "Gladiator Beast's Battle Manica",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>マニカ",
     "name_jp_rom": "Guradiaru Bīsuto no Tōki Manika",
+    "name_jp_rom_base": "Kentōjū no Tōki Manika",
     "name_jp_tl": "Gladial Beast's Battle Tool - Manica",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,22 @@
             "set": "Gladiator's Assault",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP057",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP053",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -77,5 +96,6 @@
             "Equips only to a specific target",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

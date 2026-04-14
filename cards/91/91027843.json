@@ -1,11 +1,14 @@
 {
     "cid": "3e41c363-c45a-4d3d-8e17-dda074ad1a0c",
+    "yid": 91027843,
     "password": "91027843",
     "kid": 14680,
     "name": "Marincess Battle Ocean",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女の闘海</rb><rp> (</rp><rt>マリンセス・バトルオーシャン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Marinsesu Batoru Ōshan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP053",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP26-JP044",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

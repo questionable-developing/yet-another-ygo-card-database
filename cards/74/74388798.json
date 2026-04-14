@@ -1,11 +1,14 @@
 {
     "cid": "51b2d890-848b-4a10-ae79-5c7ce6b5a489",
+    "yid": 74388798,
     "password": "74388798",
     "kid": 6164,
     "name": "Silent Swordsman LV5",
     "name_jp": "サイレント・ソードマン <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>５",
     "name_jp_rom": "Sairento Sōdoman Reberu Faibu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -86,6 +89,58 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP008",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP128",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DT10-JP006",
+            "set": "Duel Terminal - Raid of the Inverz!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "15AY-JPC07",
+            "set": "Memories of the Duel King: Ceremonial Battle Arc",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "MB01-JP016",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "MVPM-JP001",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Cinemileage promotional card",
+            "rarities": {
+                "Kaiba Corporation Common": []
+            }
+        },
+        {
+            "sid": "DP17-JP017",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,7 +179,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "During the Standby Phase"
+            "During the Standby Phase",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

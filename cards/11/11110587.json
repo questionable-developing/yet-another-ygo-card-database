@@ -1,12 +1,14 @@
 {
     "cid": "bf6cea3c-244f-4a56-b4f0-8175d02f29b1",
-    "yid": null,
+    "yid": 11110587,
     "password": "11110587",
     "kid": 12801,
     "name": "That Grass Looks Greener",
     "name_jp": "<ruby lang=\"jp\"><rb>隣</rb><rp> (</rp><rt>となり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>芝</rb><rp> (</rp><rt>しば</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刈</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Tonari no Shibakari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lawnmowing the Other Side",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ThatGrassLooksGreener-RC02-JP-SR.png",
+            "art": "ThatGrassLooksGreener-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ThatGrassLooksGreener-RA03-EN-SR-1E.png",
-            "art": null
+            "art": "ThatGrassLooksGreener-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RATE-EN066",
@@ -50,6 +57,25 @@
                 "Platinum Secret Rare": [],
                 "Quarter Century Secret Rare": [],
                 "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP066",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP041",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
                 "Collector's Rare": []
             }
         }
@@ -79,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

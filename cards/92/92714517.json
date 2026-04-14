@@ -1,11 +1,14 @@
 {
     "cid": "47812f45-e0a6-4bce-b8b5-d4038ad7d3e6",
+    "yid": 92714517,
     "password": "92714517",
     "kid": 18222,
     "name": "Big Welcome Labrynth",
     "name_jp": "ビッグウェルカム・ラビュリンス",
     "name_jp_rom": "Bigguwerukamu Rabyurinsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -67,6 +70,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP077",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "ULSP-JP012",
+            "set": "Ultimate Special Pack",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +130,6 @@
             "Requires control of specific Level",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

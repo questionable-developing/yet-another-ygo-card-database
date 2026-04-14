@@ -1,11 +1,14 @@
 {
     "cid": "d65fd46c-467b-4890-b9a9-25401ff8d261",
+    "yid": 80101899,
     "password": "80101899",
     "kid": 13965,
     "name": "Trap Trick",
     "name_jp": "トラップトリック",
     "name_jp_rom": "Torapputorikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -101,6 +104,53 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP078",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP037",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBTM-JP045",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD45-JP034",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS2-JP034",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "25WP-JP105",
+            "set": "Winner's Pack 2025 Vol.1",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -139,5 +189,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

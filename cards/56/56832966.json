@@ -1,11 +1,14 @@
 {
     "cid": "77497ec9-6ae6-4a98-94e3-401ddd226342",
+    "yid": 56832966,
     "password": "56832966",
     "kid": 11766,
     "name": "Number S39: Utopia the Lightning",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ</rb><rp> (</rp><rt>シャイニング</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>３９ <ruby lang=\"jp\"><rb>希</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>望</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>ホープ・ザ・ライトニング",
     "name_jp_rom": "Shainingu Nanbāzu Sanjūkyū Kibōō Hōpu Za Raitoningu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shining Numbers 39: King of Wishes, Hope the Lightning",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -80,6 +83,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "YZ08-JP001",
+            "set": "Yu-Gi-Oh! ZEXAL Volume 8 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP137",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,7 +131,7 @@
             "Prevents activation of your opponent's Effect Monsters",
             "Prevents activation of your opponent's Spell Cards",
             "Prevents activation of your opponent's Trap Cards",
-            "Gains effects if specific Xyz Material is attached"
+            "Applies effects if specific Xyz Material is attached"
         ],
         "summoning": [
             "3 Xyz Materials",
@@ -129,5 +148,6 @@
         "misc": [
             "Once per Chain"
         ]
-    }
+    },
+    "links": {}
 }

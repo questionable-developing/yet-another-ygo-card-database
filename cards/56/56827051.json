@@ -1,11 +1,14 @@
 {
     "cid": "60eadaea-d137-4e1f-a6b5-a52339476d9c",
+    "yid": 56827051,
     "password": "56827051",
     "kid": 12945,
     "name": "Ariel, Priestess of the Nekroz",
     "name_jp": "<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>巫</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby> エリアル",
     "name_jp_rom": "Nekurosu no Miko Eriaru",
+    "name_jp_rom_base": "Eireii no Miko Eriaru",
     "name_jp_tl": "Erial, Priestess of the Necroth",
+    "name_jp_tl_base": "Erial, Priestess of the Shadow Spirit Cloth",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP031",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP080",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

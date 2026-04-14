@@ -1,11 +1,14 @@
 {
     "cid": "e19f15de-13ff-4222-bd3a-05169a07722b",
+    "yid": 95833645,
     "password": "95833645",
     "kid": 11709,
     "name": "Magma Dragon",
     "name_jp": "マグマ・ドラゴン",
     "name_jp_rom": "Maguma Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP034",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

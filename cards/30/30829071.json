@@ -1,12 +1,14 @@
 {
     "cid": "36521980-3836-4dac-a41e-969a3be4a2e5",
-    "yid": null,
+    "yid": 30829071,
     "password": "30829071",
     "kid": 15968,
     "name": "Amazement Ambassador Bufo",
     "name_jp": "<ruby lang=\"jp\"><rb>驚楽園の大使</rb><rp> (</rp><rt>アメイズメント・アンバサダー</rt><rp>)</rp></ruby> ＜<ruby lang=\"jp\"><rb>Ｂｕｆｏ</rb><rp> (</rp><rt>ブーフォ</rt><rp>)</rp></ruby>＞",
     "name_jp_rom": "Ameizumento Anbasadā &lt;Būfo&gt;",
+    "name_jp_rom_base": "Kyōrakuen no Taishi &lt;Būfo&gt;",
     "name_jp_tl": "Amazement Ambassador &lt;Bufo&gt;",
+    "name_jp_tl_base": "Amazing Paradise Ambassador &lt;Būfo&gt;",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "LIOV-EN007",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP007",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "05abf011-5b50-4971-9cc4-732882b847f7",
-    "yid": null,
+    "yid": 11678191,
     "password": "11678191",
     "kid": 6422,
     "name": "Protective Soul Ailin",
     "name_jp": "<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>アイリン",
     "name_jp_rom": "Shugorei Airin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP024",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP024",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +104,6 @@
             "Limited activations",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

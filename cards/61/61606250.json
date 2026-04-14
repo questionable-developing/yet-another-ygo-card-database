@@ -1,11 +1,14 @@
 {
     "cid": "add81a6f-4920-40de-bad1-f4a89d3e480e",
+    "yid": 61606250,
     "password": "61606250",
     "kid": 15743,
     "name": "Armed Dragon Blitz",
     "name_jp": "<ruby lang=\"jp\"><rb>武装竜の襲雷</rb><rp> (</rp><rt>アームド・ドラゴン・ブリッツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Āmudo Doragon Burittsu",
+    "name_jp_rom_base": "Busō Ryū no Shūrai",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Armed Dragon Thunder Attack",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP22-EN030",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP052",
+            "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +100,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

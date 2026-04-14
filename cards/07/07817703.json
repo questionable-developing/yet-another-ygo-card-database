@@ -1,12 +1,14 @@
 {
     "cid": "19aa7c28-9600-4d7c-b40a-bcae3ddf2e7a",
-    "yid": null,
+    "yid": 7817703,
     "password": "07817703",
     "kid": 7908,
     "name": "Morphtronic Engine",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・パワーユニット",
     "name_jp_rom": "Difōmā Pawā Yunitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Power Unit",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CSOC-EN052",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP052",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
             "Equips only to a specific target",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

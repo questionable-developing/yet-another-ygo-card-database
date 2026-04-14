@@ -1,12 +1,14 @@
 {
     "cid": "9f914734-ba0f-4fa7-a9dc-ab0ce66b834b",
-    "yid": null,
+    "yid": 31531170,
     "password": "31531170",
     "kid": 11738,
     "name": "Harmonic Oscillation",
     "name_jp": "<ruby lang=\"jp\"><rb>共</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳴</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>振</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyōmeisuru Shindō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP063",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "5f82792a-4709-43ac-9032-213b2134a105",
-    "yid": null,
+    "yid": 21420702,
     "password": "21420702",
     "kid": 7088,
     "name": "Tri-Blaze Accelerator",
     "name_jp": "ブレイズ・キャノン－トライデント",
     "name_jp_rom": "Bureizu Kyanon - Toraidento",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Blaze Cannon - Trident",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP041",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP147",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
             "Archetype condition",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

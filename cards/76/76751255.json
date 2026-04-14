@@ -1,11 +1,14 @@
 {
     "cid": "396b5239-eb1a-449e-9a4d-8604e14c9280",
+    "yid": 76751255,
     "password": "76751255",
     "kid": 12005,
     "name": "Igknight Reload",
     "name_jp": "イグナイト・リロード",
     "name_jp_rom": "Igunaito Rirōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -66,6 +69,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP061",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,7 +98,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Returns from your hand to your Deck",
             "You draw cards",
             "Prevents drawing cards"
@@ -102,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

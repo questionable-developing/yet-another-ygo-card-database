@@ -1,12 +1,14 @@
 {
     "cid": "23769d7d-cfb6-4868-891e-2a08cae76fa7",
-    "yid": null,
+    "yid": 12612470,
     "password": "12612470",
     "kid": 19486,
     "name": "Procession of the Tea Jar",
     "name_jp": "<ruby lang=\"jp\"><rb>童</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>茶</rb><rp> (</rp><rt>ちゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dōyō Chatsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Child Spirit Tea Jar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "PHNI-EN031",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP031",
             "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

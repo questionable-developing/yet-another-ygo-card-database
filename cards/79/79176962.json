@@ -1,11 +1,14 @@
 {
     "cid": "aafedaf2-06da-40d1-97a0-38077748ef29",
+    "yid": 79176962,
     "password": "79176962",
     "kid": 13253,
     "name": "Fantastic Striborg",
     "name_jp": "<ruby lang=\"jp\"><rb>旋</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ぷう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ストリボーグ",
     "name_jp_rom": "Senpūki Sutoribōgu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Whirlwind Machine Striborg",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP037",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
             "Limited activations",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

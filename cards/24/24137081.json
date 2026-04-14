@@ -1,12 +1,14 @@
 {
     "cid": "7d6a4cb3-d5ea-4bea-9ee9-76c5702cbf6f",
-    "yid": null,
+    "yid": 24137081,
     "password": "24137081",
     "kid": 9624,
     "name": "Drill Barnacle",
     "name_jp": "ドリル・バーニカル",
     "name_jp_rom": "Doriru Bānikaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP007",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

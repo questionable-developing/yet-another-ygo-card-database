@@ -1,11 +1,14 @@
 {
     "cid": "b91925d2-2307-454a-847a-41d80c59248a",
+    "yid": 46052429,
     "password": "46052429",
     "kid": 6996,
     "name": "Advanced Ritual Art",
     "name_jp": "<ruby lang=\"jp\"><rb>高</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>等</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōtō Gishikijutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -96,6 +99,60 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP045",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT11-JP042",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP102",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP039",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DR01-JPB24",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DR02-JPC24",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP056",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,7 +164,9 @@
             "Normal Monster"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Ritual Art"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -128,5 +187,6 @@
         "misc": [
             "Nonspecific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

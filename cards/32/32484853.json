@@ -1,12 +1,14 @@
 {
     "cid": "aaa5d25f-d027-497b-ba32-38e3b385b48e",
-    "yid": null,
+    "yid": 32484853,
     "password": "32484853",
     "kid": 20398,
     "name": "Singularity Fiend",
     "name_jp": "<ruby lang=\"jp\"><rb>特</rb><rp> (</rp><rt>とく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>点</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tokuiten no Akuma",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Singularity Demon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP011",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

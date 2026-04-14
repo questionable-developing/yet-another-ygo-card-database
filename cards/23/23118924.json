@@ -1,12 +1,14 @@
 {
     "cid": "50ceaa2b-416d-4573-be04-0c5c79108bc2",
-    "yid": null,
+    "yid": 23118924,
     "password": "23118924",
     "kid": 6241,
     "name": "Element Doom",
     "name_jp": "エレメント・デビル",
     "name_jp_rom": "Eremento Debiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Element Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +48,29 @@
         {
             "sid": "DR3-EN131",
             "set": "Dark Revelation Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP011",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "FET-JP011",
+            "set": "Flaming Eternity: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP131",
+            "set": "Expert Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +116,6 @@
             "Requires control of specific Attribute",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

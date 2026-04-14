@@ -1,12 +1,14 @@
 {
     "cid": "56e08263-5688-4cbe-85b1-df1c226a1ab0",
-    "yid": null,
+    "yid": 10509340,
     "password": "10509340",
     "kid": 6316,
     "name": "Ancient Gear Beast",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械獣</rb><rp> (</rp><rt>アンティーク・ギアビースト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Bīsuto",
+    "name_jp_rom_base": "Kodai no Kikaijū",
     "name_jp_tl": "Antique Gear Beast",
+    "name_jp_tl_base": "Ancient Machine Beast",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -80,6 +82,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP007",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP187",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD10-JP013",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP007",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +143,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

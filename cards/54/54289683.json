@@ -1,11 +1,14 @@
 {
     "cid": "a32fd9e9-9851-45a3-aca7-989e7ca8bbd3",
+    "yid": 54289683,
     "password": "54289683",
     "kid": 6706,
     "name": "Power Capsule",
     "name_jp": "パワーカプセル",
     "name_jp_rom": "Pawā Kapuseru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "EOJ-EN043",
             "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP043",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP223",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -71,5 +90,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

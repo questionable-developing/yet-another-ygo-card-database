@@ -1,12 +1,14 @@
 {
     "cid": "d7177d6c-f340-4dbd-b57f-28bb35260b9c",
-    "yid": null,
+    "yid": 12644061,
     "password": "12644061",
     "kid": 10214,
     "name": "Advanced Dark",
     "name_jp": "アドバンスド・ダーク",
     "name_jp_rom": "Adobansudo Dāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +78,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DE02-JP160",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP016",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD44-JP028",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +144,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

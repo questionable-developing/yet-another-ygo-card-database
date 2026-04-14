@@ -1,12 +1,14 @@
 {
     "cid": "1ad82c21-b645-4d83-91cf-d3bf7cd952ae",
-    "yid": null,
+    "yid": 34721681,
     "password": "34721681",
     "kid": 15052,
     "name": "Heavy Forward",
     "name_jp": "<ruby lang=\"jp\"><rb>超重機回送</rb><rp> (</rp><rt>ヘビー・フォワード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hebī Fowādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP066",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

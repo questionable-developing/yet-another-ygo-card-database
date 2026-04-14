@@ -1,11 +1,14 @@
 {
     "cid": "4f862a8d-dbdf-4d35-8935-f7919a17bb39",
+    "yid": 56003780,
     "password": "56003780",
     "kid": 13892,
     "name": "Salamangreat Jack Jaguar",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｊ</rb><rp> (</rp><rt>ジャック</rt><rp>)</rp></ruby>ジャガー",
     "name_jp_rom": "Saramangureito Jakku Jagā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -71,6 +74,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP005",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP010",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +130,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "4c914990-df3f-4188-8281-a3f3345d0732",
-    "yid": null,
+    "yid": 12697630,
     "password": "12697630",
     "kid": 11041,
     "name": "Artifact Beagalltach",
     "name_jp": "アーティファクト－ベガルタ",
     "name_jp_rom": "Ātifakuto - Begaruta",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP012",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PRIO-JPB01",
+            "set": "Primal Origin Booster Pack Guide promotional card",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

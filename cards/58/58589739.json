@@ -1,11 +1,14 @@
 {
     "cid": "ac702572-a774-4cd9-b7c3-7ac0c8cbc59c",
+    "yid": 58589739,
     "password": "58589739",
     "kid": 15703,
     "name": "S-Force Professor DiGamma",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ－Ｆｏｒｃｅ</rb><rp> (</rp><rt>セキュリティ・フォース</rt><rp>)</rp></ruby> プロフェッサー・<ruby lang=\"jp\"><rb>Ϝ</rb><rp> (</rp><rt>ディガンマ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sekyuriti Fōsu Purofessā Diganma",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Security Force Professor Digamma",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BLVO-EN012",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP012",
             "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "Requires control of specific archetype",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

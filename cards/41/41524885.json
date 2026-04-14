@@ -1,11 +1,14 @@
 {
     "cid": "c28cf785-7d7e-42e5-abcb-61bf14b0feed",
+    "yid": 41524885,
     "password": "41524885",
     "kid": 16743,
     "name": "Exosister Asophiel",
     "name_jp": "エクソシスター・アソフィール",
     "name_jp_rom": "Ekusoshisutā Asofīru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -56,6 +59,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP020",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB27",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

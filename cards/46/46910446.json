@@ -1,11 +1,14 @@
 {
     "cid": "517a8b23-aab4-4158-a82e-3eb34ddd4ffa",
+    "yid": 46910446,
     "password": "46910446",
     "kid": 6489,
     "name": "Chthonian Alliance",
     "name_jp": "ヘル・アライアンス",
     "name_jp_rom": "Heru Araiansu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Alliance",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP044",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP2-JP022",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP104",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

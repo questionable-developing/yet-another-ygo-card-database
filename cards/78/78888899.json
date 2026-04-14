@@ -1,11 +1,14 @@
 {
     "cid": "d3d43cb5-69c6-46cd-8593-6ede0abe5a6c",
+    "yid": 78888899,
     "password": "78888899",
     "kid": 19374,
     "name": "Centur-Ion Emeth VI",
     "name_jp": "<ruby lang=\"jp\"><rb>重騎兵</rb><rp> (</rp><rt>センチュリオン</rt><rp>)</rp></ruby>エメト<ruby lang=\"jp\"><rb>Ⅵ</rb><rp> (</rp><rt>ゼクス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senchurion Emeto Zekusu",
+    "name_jp_rom_base": "Jūkihei Emeto Zekusu",
     "name_jp_tl": "Centurion Emét Sechs",
+    "name_jp_tl_base": "Heavy Cavalry Emét VI",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -41,6 +44,17 @@
             "rarities": {
                 "Ultra Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP018",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -85,7 +99,9 @@
         "smat": [],
         "misc": [
             "Requires control of specific archetype",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

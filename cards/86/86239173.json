@@ -1,11 +1,14 @@
 {
     "cid": "9fe4b891-ce78-4c37-bc8f-9cb193199bd3",
+    "yid": 86239173,
     "password": "86239173",
     "kid": 19024,
     "name": "Horned Saurus",
     "name_jp": "ヘルホーンドザウルス",
     "name_jp_rom": "Heruhōndozaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Horned Saurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC03-JP003",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

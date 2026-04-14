@@ -1,11 +1,14 @@
 {
     "cid": "83eb5782-ca7e-4314-aedd-ec1045ac4ef9",
+    "yid": 47292920,
     "password": "47292920",
     "kid": 17624,
     "name": "Dimension Dice",
     "name_jp": "ディメンジョン・ダイス",
     "name_jp_rom": "Dimenjon Daisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC02-JP006",
+            "set": "Animation Chronicle 2022",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a9feebf8-b06e-4a66-89ac-f4016b72dff4",
+    "yid": 42542842,
     "password": "42542842",
     "kid": 14033,
     "name": "Dakki, the Graceful Mayakashi",
     "name_jp": "<ruby lang=\"jp\"><rb>麗</rb><rp> (</rp><rt>うるわし</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔妖</rb><rp> (</rp><rt>まやかし</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>妲</rb><rp> (</rp><rt>だっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Uruwashi no Mayakashi - Dakki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBHS-JP027",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP012",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +111,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

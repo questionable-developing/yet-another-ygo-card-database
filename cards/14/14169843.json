@@ -1,12 +1,14 @@
 {
     "cid": "af022a13-76ac-4a9d-b032-60f6467954c8",
-    "yid": null,
+    "yid": 14169843,
     "password": "14169843",
     "kid": 14644,
     "name": "Aromage Laurel",
     "name_jp": "アロマージ－ローリエ",
     "name_jp_rom": "Aromāji - Rōrie",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -46,6 +48,24 @@
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP017",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP163",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -90,5 +110,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

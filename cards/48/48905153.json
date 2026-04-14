@@ -1,11 +1,14 @@
 {
     "cid": "25b1bbea-05c3-47ac-9e6f-725e95e173f2",
+    "yid": 48905153,
     "password": "48905153",
     "kid": 12788,
     "name": "Zoodiac Drident",
     "name_jp": "<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>しし</rt><rp>)</rp></ruby>ドランシア",
     "name_jp_rom": "Jūnishishi Doranshia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Drancia of the Twelve Zodiac Beasts",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP053",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP089",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +127,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

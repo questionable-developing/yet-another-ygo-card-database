@@ -1,11 +1,14 @@
 {
     "cid": "3f7203fd-7a97-4cac-9ec6-68dcccb6e176",
+    "yid": 86271510,
     "password": "86271510",
     "kid": 16838,
     "name": "Darton the Mechanical Monstrosity",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>怪</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>ダレトン",
     "name_jp_rom": "Kikaijū Dareton",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP033",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +83,6 @@
             "Limited activations",
             "Turn limited effects"
         ]
-    }
+    },
+    "links": {}
 }

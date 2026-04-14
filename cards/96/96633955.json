@@ -1,11 +1,14 @@
 {
     "cid": "057f6f6b-17d1-474a-81a1-547268550070",
+    "yid": 96633955,
     "password": "96633955",
     "kid": 16528,
     "name": "Swordsoul Supreme Sovereign - Chengying",
     "name_jp": "<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>公</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>承</rb><rp> (</rp><rt>ショウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>エイ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōkentaikō - Shouei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xiangjian Archduke - Chengying",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1+ non-Tuner monsters<br />For each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuners<br />For each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1+ non-Tuner monsters\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
-    "eff": "1 Tuner + 1+ non-Tuner monsters\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuners\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
+    "eff": "1 Tuner + 1+ non-Tuners\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SwordsoulSupremeSovereignChengying-MZTM-EN-R-1E.png",
+            "full": "SwordsoulSupremeSovereignChengying-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -55,6 +58,41 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX41",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP042",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BODE-JP042",
+            "set": "Burst of Destiny +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP074",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -100,5 +138,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

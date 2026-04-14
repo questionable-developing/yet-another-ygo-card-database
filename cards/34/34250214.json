@@ -1,12 +1,14 @@
 {
     "cid": "a9878438-1e7a-47ee-9f36-c5d544b51457",
-    "yid": null,
+    "yid": 34250214,
     "password": "34250214",
     "kid": 13644,
     "name": "Vampire Familiar",
     "name_jp": "ヴァンパイアの<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vanpaia no Tsukaima",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP001",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

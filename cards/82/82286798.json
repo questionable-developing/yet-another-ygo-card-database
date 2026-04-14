@@ -1,11 +1,14 @@
 {
     "cid": "414d6ab7-b9b6-45e3-be7e-d6fb3ae8c2a6",
+    "yid": 82286798,
     "password": "82286798",
     "kid": 18518,
     "name": "Kashtira Akstra",
     "name_jp": "クシャトリラ・アクストラ",
     "name_jp_rom": "Kushatorira Akusutora",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kshatrira Akstra",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP24-EN347",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP055",
+            "set": "Cyberstorm Access",
             "rarities": {
                 "Common": []
             }
@@ -96,5 +108,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

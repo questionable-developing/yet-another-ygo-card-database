@@ -1,12 +1,14 @@
 {
     "cid": "ebe27a93-97f4-4f67-8909-a3437a30c768",
-    "yid": null,
+    "yid": 13567610,
     "password": "13567610",
     "kid": 19480,
     "name": "Carnot the Eternal Machine",
     "name_jp": "<ruby lang=\"jp\"><rb>無窮機竜</rb><rp> (</rp><rt>エテルマキナ</rt><rp>)</rp></ruby>カルノール",
     "name_jp_rom": "Eterumakina Karunōru",
+    "name_jp_rom_base": "Mukyūkiryū Karunōru",
     "name_jp_tl": "Carnot the Etermachina",
+    "name_jp_tl_base": "Carnot the Eternal Machine Dragon",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -45,14 +47,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP024",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHNI-JP024",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Summoning condition, Summoning condition, Condition, Trigger, Trigger"
         ],
-        "mentions": [
-            "Carnot the Eternal Machine"
-        ],
+        "mentions": [],
         "sup": [],
         "asup": [],
         "arc": [],
@@ -86,5 +106,6 @@
             "Special Summon Monster",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

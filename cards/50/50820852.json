@@ -1,11 +1,14 @@
 {
     "cid": "064b08db-ac58-45dc-a9dc-96a1d9f25d25",
+    "yid": 50820852,
     "password": "50820852",
     "kid": 14461,
     "name": "Simorgh, Bird of Beginning",
     "name_jp": "<ruby lang=\"jp\"><rb>雛</rb><rp> (</rp><rt>すう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>シムルグ",
     "name_jp_rom": "Sūshinchō Shimurugu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Simorgh, Baby Divine Bird",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RIRA-EN017",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP017",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
             "Only once per turn",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

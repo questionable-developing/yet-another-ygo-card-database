@@ -1,12 +1,14 @@
 {
     "cid": "93c47c61-9f5e-4b85-9fb8-e8cfd92c8fff",
-    "yid": null,
+    "yid": 28168628,
     "password": "28168628",
     "kid": 18733,
     "name": "Rock of the Vanquisher",
     "name_jp": "<ruby lang=\"jp\"><rb>闘神の虚像</rb><rp> (</rp><rt>ロック・オブ・ヴァンキッシャー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rokku Obu Vankisshā",
+    "name_jp_rom_base": "Toushin no Kyozou",
     "name_jp_tl": "Rock of Vanquisher",
+    "name_jp_tl_base": "Empty Statue of the Fighting God",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -61,6 +63,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP022",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

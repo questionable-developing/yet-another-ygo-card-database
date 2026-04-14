@@ -1,11 +1,14 @@
 {
     "cid": "5a4ffba7-1273-45aa-b103-c9dc0c8eddf2",
+    "yid": 64213017,
     "password": "64213017",
     "kid": 16633,
     "name": "Beetrooper Formation",
     "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫隊戦術機動</rb><rp> (</rp><rt>ビートルーパー・フォーメーション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bītorūpā Fōmēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP22-EN178",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP010",
+            "set": "World Premiere Pack 2022",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +103,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d09a5111-8d2a-4df0-bb18-f2c360cb849e",
+    "yid": 99115354,
     "password": "99115354",
     "kid": 14119,
     "name": "Hyper Psychic Riser",
     "name_jp": "ハイパーサイコライザー",
     "name_jp_rom": "Haipā Saiko Raizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hyper Psycho Riser",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP042",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

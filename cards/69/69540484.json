@@ -1,11 +1,14 @@
 {
     "cid": "9c0ffd29-60e1-48e0-b095-c886b4985ef5",
+    "yid": 69540484,
     "password": "69540484",
     "kid": 17815,
     "name": "Kashtira Birth",
     "name_jp": "クシャトリラ・バース",
     "name_jp_rom": "Kushatorira Bāsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kshatrira Berth",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP060",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +81,7 @@
         "mst": [],
         "summoning": [
             "Normal Summon without Tribute",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -84,5 +96,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

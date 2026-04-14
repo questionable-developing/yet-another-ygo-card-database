@@ -1,12 +1,14 @@
 {
     "cid": "f6a446cf-6d2c-4a11-abf9-0246acf6bdc4",
-    "yid": null,
+    "yid": 25542642,
     "password": "25542642",
     "kid": 12205,
     "name": "Phantom Knights' Fog Blade",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影霧剣</rb><rp> (</rp><rt>ファントム・フォッグ・ブレード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fantomu Foggu Burēdo",
+    "name_jp_rom_base": "Gen'ei Muken",
     "name_jp_tl": "Phantom Fog Blade",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -28,10 +30,15 @@
         "1": {
             "idx": "1",
             "full": "PhantomKnightsFogBlade-RA04-EN-PlScR-1E.png",
+            "art": "PhantomKnightsFogBlade-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "PhantomKnightsFogBlade-CORI-JP-OP.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "WIRA-EN009",
@@ -74,6 +81,39 @@
             "rarities": {
                 "Platinum Secret Rare": [],
                 "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP009",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP080",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP148",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CORI-JPS14",
+            "set": "Chaos Origins +1 Expansion Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -121,5 +161,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

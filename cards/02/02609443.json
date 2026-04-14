@@ -1,12 +1,14 @@
 {
     "cid": "b27e8e30-38ca-4e5b-9eaf-7dc8beecf788",
-    "yid": null,
+    "yid": 2609443,
     "password": "02609443",
     "kid": 16233,
     "name": "Chronomaly Vimana",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>ヴィマナ",
     "name_jp_rom": "Ōpātsu Vimana",
+    "name_jp_rom_base": "Senshi Isan Vimana",
     "name_jp_tl": "OOPArts Vimana",
+    "name_jp_tl_base": "Prehistoric Heritage Vimana",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP044",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DAMA-JP044",
+            "set": "Dawn of Majesty +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DBJH-JP044",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +129,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

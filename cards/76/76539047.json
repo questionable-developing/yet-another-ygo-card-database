@@ -1,11 +1,14 @@
 {
     "cid": "61b1edff-a0b4-4ab8-ab34-4f6c2e35bf23",
+    "yid": 76539047,
     "password": "76539047",
     "kid": 6267,
     "name": "Poison Fangs",
     "name_jp": "ポイズン・ファング",
     "name_jp_rom": "Poizun Fangu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Poison Fang",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP038",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP158",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

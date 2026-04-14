@@ -1,11 +1,14 @@
 {
     "cid": "47f12926-0a15-4968-a216-861ea2b50353",
+    "yid": 67441879,
     "password": "67441879",
     "kid": 20528,
     "name": "Battlewasp Wind",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｂ・Ｆ・Ｗ</rb><rp> (</rp><rt>ビー・フォース・ウィンド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bī Fōsu Windo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bee Force Wind",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ROTA-EN052",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP052",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

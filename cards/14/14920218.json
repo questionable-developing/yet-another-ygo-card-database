@@ -1,12 +1,14 @@
 {
     "cid": "5b767b8c-47fa-4c01-9aa1-33afa3b316ab",
-    "yid": null,
+    "yid": 14920218,
     "password": "14920218",
     "kid": 11937,
     "name": "Oafdragon Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>賤</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senryū no Majutsushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD29-JP004",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP080",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -94,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "83ca104a-0c7f-4c1f-862e-bbffb11dfbc1",
+    "yid": 49847524,
     "password": "49847524",
     "kid": 13412,
     "name": "Flame Administrator",
     "name_jp": "フレイム・アドミニスター",
     "name_jp_rom": "Fureimu Adominisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flame Administer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP041",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JPP04",
+            "set": "Structure Deck: Soulburner Extra Deck Enhancement Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

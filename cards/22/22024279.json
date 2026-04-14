@@ -1,12 +1,14 @@
 {
     "cid": "9e03e35e-b8e4-4570-beb8-590bb2f70a00",
-    "yid": null,
+    "yid": 22024279,
     "password": "22024279",
     "kid": 18856,
     "name": "Altergeist Revitalization",
     "name_jp": "オルターガイスト・リバイタリゼーション",
     "name_jp_rom": "Orutāgaisuto Ribaitarizēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DUNE-EN069",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP069",
             "set": "Duelist Nexus",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

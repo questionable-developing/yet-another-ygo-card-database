@@ -1,12 +1,14 @@
 {
     "cid": "e58791db-1982-4d0a-b7f2-de1480f9bd47",
-    "yid": null,
+    "yid": 32841045,
     "password": "32841045",
     "kid": 13315,
     "name": "Magical Musketeer Caspar",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>射</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby> カスパール",
     "name_jp_rom": "Madan no Shashu Kasupāru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magibullet Musketeer Caspar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP016",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP097",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP159",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +114,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

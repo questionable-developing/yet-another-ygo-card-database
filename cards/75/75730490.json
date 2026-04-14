@@ -1,11 +1,14 @@
 {
     "cid": "4f8cb656-4388-4036-ac52-cdde18eb02b0",
+    "yid": 75730490,
     "password": "75730490",
     "kid": 17362,
     "name": "Ariane the Labrynth Servant",
     "name_jp": "<ruby lang=\"jp\"><rb>白銀の城の召使い</rb><rp> (</rp><rt>ラビュリンス・サーバンツ</rt><rp>)</rp></ruby> アリアーヌ",
     "name_jp_rom": "Rabyurinsu Sābantsu Ariānu",
+    "name_jp_rom_base": "Shirogane no Shiro no Meshitsukai Ariānu",
     "name_jp_tl": "Ariane the Labrynth Servants",
+    "name_jp_tl_base": "Ariane the Silver Castle Servant",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP016",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

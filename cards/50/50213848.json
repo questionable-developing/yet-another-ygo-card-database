@@ -1,11 +1,14 @@
 {
     "cid": "a633dbb9-59db-49db-8987-2e10fbfbbeb9",
+    "yid": 50213848,
     "password": "50213848",
     "kid": 13620,
     "name": "Monster Reborn Reborn",
     "name_jp": "<ruby lang=\"jp\"><rb>取</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>捨</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蘇</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shusha Sosei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Resurrection of the Selected",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP066",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

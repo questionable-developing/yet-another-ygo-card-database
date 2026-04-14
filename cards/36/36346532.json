@@ -1,12 +1,14 @@
 {
     "cid": "afb4f7a7-6e90-46a9-b055-a4169c9254ce",
-    "yid": null,
+    "yid": 36346532,
     "password": "36346532",
     "kid": 16008,
     "name": "Paleozoic Cambroraster",
     "name_jp": "バージェストマ・カンブロラスター",
     "name_jp_rom": "Bājesutoma Kanburorasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burgesstoma Cambroraster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP047",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

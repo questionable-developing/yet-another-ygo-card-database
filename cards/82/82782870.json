@@ -1,11 +1,14 @@
 {
     "cid": "eccf4fb9-1f4a-455c-9378-8bc9055b8399",
+    "yid": 82782870,
     "password": "82782870",
     "kid": 21056,
     "name": "Mitsurugi no Mikoto, Kusanagi",
-    "name_jp": "<ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>ノ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>尊</rb><rp> (</rp><rt>ミコト</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>草那藝</rb><rp> (</rp><rt>クサナギ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>巳剣之尊</rb><rp> (</rp><rt>ミツルギノミコト</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>草那藝</rb><rp> (</rp><rt>クサナギ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mitsurugi no Mikoto Kusanagi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword Lord, Kusanagi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsuruginoMikotoKusanagi-SUDA-EN-C-1E.png",
+            "full": "MitsuruginoMikotoKusanagi-L26D-EN-ScR-1E.png",
             "art": null
         }
     },
@@ -40,6 +43,23 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENM04",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP029",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -89,5 +109,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

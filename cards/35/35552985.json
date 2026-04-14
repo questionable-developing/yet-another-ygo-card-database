@@ -1,12 +1,14 @@
 {
     "cid": "9818bb95-9a4c-418f-8c7f-03bc189c1f13",
-    "yid": null,
+    "yid": 35552985,
     "password": "35552985",
     "kid": 20241,
     "name": "Fiendsmith's Sanct",
     "name_jp": "<ruby lang=\"jp\"><rb>刻まれし魔の讃聖</rb><rp> (</rp><rt>デモンスミス・サンクトゥス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Demonsumisu Sankutusu",
+    "name_jp_rom_base": "Kizamareshi Ma no Sansei",
     "name_jp_tl": "Demonsmith Sanctus",
+    "name_jp_tl_base": "Engraved Demon's Holy Praise",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +47,15 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP062",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -93,5 +104,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

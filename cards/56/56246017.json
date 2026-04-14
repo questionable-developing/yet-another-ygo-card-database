@@ -1,11 +1,14 @@
 {
     "cid": "d18c6c14-ed9a-4410-90f9-1e58e323c6c7",
+    "yid": 56246017,
     "password": "56246017",
     "kid": 5796,
     "name": "Archfiend's Roar",
     "name_jp": "デーモンの<ruby lang=\"jp\"><rb>雄</rb><rp> (</rp><rt>お</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>叫</rb><rp> (</rp><rt>たけ</rt><rp>)</rp></ruby>び",
     "name_jp_rom": "Dēmon no Otakebi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Daemon's Roar",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -68,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-046",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP261",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +122,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

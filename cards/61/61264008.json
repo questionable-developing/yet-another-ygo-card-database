@@ -1,11 +1,14 @@
 {
     "cid": "3b1c793e-0d76-4cbf-95cd-c7b72c0d4924",
+    "yid": 61264008,
     "password": "61264008",
     "kid": 18215,
     "name": "Land Flipping",
     "name_jp": "<ruby lang=\"jp\"><rb>土</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>ころがし",
     "name_jp_rom": "Tochikorogashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP070",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

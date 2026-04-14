@@ -1,11 +1,14 @@
 {
     "cid": "fcdff22b-89b6-4785-970d-46263980f31b",
+    "yid": 85638822,
     "password": "85638822",
     "kid": 13515,
     "name": "Gouki Cage Match",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>死闘</rb><rp> (</rp><rt>デスマッチ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōki Desumatchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni Deathmatch",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "DUPO-EN024",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVB1-JP012",
+            "set": "LINK VRAINS Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -80,5 +92,6 @@
             "Limited activations",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

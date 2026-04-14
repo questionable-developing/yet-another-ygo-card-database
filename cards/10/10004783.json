@@ -1,12 +1,14 @@
 {
     "cid": "d1e0d474-6e63-45e7-af2a-59acb7435af1",
-    "yid": null,
+    "yid": 10004783,
     "password": "10004783",
     "kid": 7390,
     "name": "Crystal Release",
     "name_jp": "<ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>玉</rb><rp> (</rp><rt>ぎょく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>解</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>放</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hōgyoku no Kaihō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gem Release",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -83,6 +85,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP07-JP023",
+            "set": "Duelist Pack: Jesse Anderson",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP19-JP044",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD44-JP025",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +144,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

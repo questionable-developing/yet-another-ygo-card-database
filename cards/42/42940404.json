@@ -1,11 +1,14 @@
 {
     "cid": "ecb129a6-19aa-4f94-b765-ffd5664ae90e",
+    "yid": 42940404,
     "password": "42940404",
     "kid": 8693,
     "name": "Machina Gearframe",
     "name_jp": "マシンナーズ・ギアフレーム",
     "name_jp_rom": "Mashinnāzu Giafurēmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machiners Gearframe",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD18-JP002",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP005",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +127,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

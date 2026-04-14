@@ -1,11 +1,14 @@
 {
     "cid": "1118fe49-be12-42e9-bf1c-d055c2e5aa72",
+    "yid": 39392286,
     "password": "39392286",
     "kid": 14165,
     "name": "Harpie Perfumer",
     "name_jp": "ハーピィ・パフューマー",
     "name_jp_rom": "Hāpyi Pafyūmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -62,6 +65,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP21-JP001",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP123",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +128,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

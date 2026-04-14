@@ -1,11 +1,14 @@
 {
     "cid": "151424cb-b435-451c-bbf7-69c0cfc3beff",
+    "yid": 50699850,
     "password": "50699850",
     "kid": 17552,
     "name": "Loris, Lady of Lament",
     "name_jp": "<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>嬢</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>ロリス",
     "name_jp_rom": "Akumajō Rorisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Loris, Demon Lady",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP216",
+            "set": "V Jump May 2022 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "23PP-JP032",
+            "set": "Premium Pack 2023",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

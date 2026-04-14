@@ -1,11 +1,14 @@
 {
     "cid": "978a1db1-890a-4c4b-b7dc-94f0efd68d7f",
+    "yid": 94259633,
     "password": "94259633",
     "kid": 13841,
     "name": "Relinquished Anima",
     "name_jp": "サクリファイス・アニマ",
     "name_jp_rom": "Sakurifaisu Anima",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacrifice Anima",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -60,6 +63,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WJMP-JP028",
+            "set": "Weekly Shōnen Jump 2018, Issue 21–22 promotional card",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP029",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP029",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA27",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,7 +131,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

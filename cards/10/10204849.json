@@ -1,12 +1,14 @@
 {
     "cid": "b87a706a-d54a-4562-891b-5451fb2611bc",
-    "yid": null,
+    "yid": 10204849,
     "password": "10204849",
     "kid": 16387,
     "name": "Fleuret de Fleur",
     "name_jp": "フルール・ド・フルーレ",
     "name_jp_rom": "Furūru Do Furūre",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fleur de Fleuret",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,16 @@
             "set": "Legendary Duelists: Synchro Storm",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP25-JP024",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -82,5 +94,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

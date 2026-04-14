@@ -1,11 +1,14 @@
 {
     "cid": "34720893-8c43-4c3d-a0a7-7e2eb9b5ed2e",
+    "yid": 85325774,
     "password": "85325774",
     "kid": 15542,
     "name": "Charge Into a Dark World",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>援</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ankokukai no Engun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark World Reinforcements",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP063",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR13-JP028",
+            "set": "Structure Deck R: Devil's Gate",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

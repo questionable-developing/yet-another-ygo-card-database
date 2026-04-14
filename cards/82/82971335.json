@@ -1,11 +1,14 @@
 {
     "cid": "9e6a0296-d951-491a-86a4-35def54985bf",
+    "yid": 82971335,
     "password": "82971335",
     "kid": 8447,
     "name": "Fortune Lady Earth",
     "name_jp": "フォーチュンレディ・アーシー",
     "name_jp_rom": "Fōchun Redi Āshī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Lady Earthy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,17 +32,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyEarth-DE04-JP-C.jpg",
+            "art": "FortuneLadyEarth-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyEarth-SOVR-EN-R-1E.jpg",
-            "art": null
+            "art": "FortuneLadyEarth-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN012",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP012",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP050",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -76,5 +100,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

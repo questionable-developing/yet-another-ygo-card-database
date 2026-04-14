@@ -1,11 +1,14 @@
 {
     "cid": "300ede4b-e7ef-42bb-a3dd-5998bd2536a7",
+    "yid": 99531088,
     "password": "99531088",
     "kid": 18840,
     "name": "Jurassic Power",
     "name_jp": "ジュラシック・パワー",
     "name_jp_rom": "Jurashikku Pawā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP24-EN373",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP053",
+            "set": "Duelist Nexus",
             "rarities": {
                 "Common": []
             }
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

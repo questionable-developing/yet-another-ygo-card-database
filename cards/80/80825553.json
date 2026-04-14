@@ -1,11 +1,14 @@
 {
     "cid": "057cb465-2d94-421a-b9db-ffbd1cf0c5e7",
+    "yid": 80825553,
     "password": "80825553",
     "kid": 7277,
     "name": "Cloudian - Smoke Ball",
     "name_jp": "<ruby lang=\"jp\"><rb>雲魔物</rb><rp> (</rp><rt>クラウディアン</rt><rp>)</rp></ruby>－スモークボール",
     "name_jp_rom": "Kuraudian - Sumōku Bōru",
+    "name_jp_rom_base": "Unmamono - Sumōkubōru",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Cloud Monster - Smoke Ball",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP002",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP22-JP005",
+            "set": "Tournament Pack 2012 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -73,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

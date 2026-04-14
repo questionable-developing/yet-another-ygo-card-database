@@ -1,12 +1,14 @@
 {
     "cid": "c27ae569-f040-47c0-a158-aca52348555c",
-    "yid": null,
+    "yid": 35224440,
     "password": "35224440",
     "kid": 7460,
     "name": "Gladiator Proving Ground",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘訓練所</rb><rp> (</rp><rt>グラディアルトレーナー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Guradiaru Torēnā",
+    "name_jp_rom_base": "Kentō Kunrensho",
     "name_jp_tl": "Gladial Trainer",
+    "name_jp_tl_base": "Gladiatorial Training Ground",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP061",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP098",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

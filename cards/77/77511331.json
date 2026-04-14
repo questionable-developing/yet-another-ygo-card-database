@@ -1,11 +1,14 @@
 {
     "cid": "1f30d5d8-9af3-4b7a-8eb2-c262862fb22b",
+    "yid": 77511331,
     "password": "77511331",
     "kid": 13533,
     "name": "Kuro-Obi Karate Spirit",
     "name_jp": "カラテ<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>スピリット</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ＫＵＲＯ－ＯＢＩ</rb><rp> (</rp><rt>クロオビ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karate Supiritto Kuro'obi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karate Spirit Kuro-Obi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP18-JP042",
+            "set": "Extra Pack 2018",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -88,5 +100,6 @@
             "Limited activations",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

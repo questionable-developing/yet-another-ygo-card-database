@@ -1,12 +1,14 @@
 {
     "cid": "af3c0131-ffb5-42f9-a1e6-8f5f6dff6068",
-    "yid": null,
+    "yid": 6908161,
     "password": "06908161",
     "kid": 19890,
     "name": "Ragnaraika Chain Coils",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>鎖蛇巳</rb><rp> (</rp><rt>クサリガミ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika no Kusarigami",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Chain Viper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +59,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP049",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP049",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +120,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

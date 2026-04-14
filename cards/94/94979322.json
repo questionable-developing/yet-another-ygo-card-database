@@ -1,11 +1,14 @@
 {
     "cid": "16ec0110-8798-463c-b7e8-a1331cc63d88",
+    "yid": 94979322,
     "password": "94979322",
     "kid": 21430,
     "name": "Dark Flare Swordsman",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－ブラック・フレア・ソードマン－",
     "name_jp_rom": "Kokuen no Kenshi -Burakku Furea Sōdoman-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Flame Swordsman -Black Flare Swordsman-",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP019",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -60,7 +73,9 @@
         ],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Dark Magician (archetype)"
+        ],
         "counter": [],
         "action": [
             "Sends from Extra Deck to Graveyard for cost",
@@ -86,5 +101,6 @@
             "Only once per turn",
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

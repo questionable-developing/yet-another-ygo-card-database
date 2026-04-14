@@ -1,11 +1,14 @@
 {
     "cid": "84126ff8-ff59-42a2-8d25-eae77cde3ca6",
+    "yid": 38777931,
     "password": "38777931",
     "kid": 10957,
     "name": "Release, Reverse, Burst",
     "name_jp": "リリース・リバース・バースト",
     "name_jp_rom": "Rirīsu Ribāsu Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ReleaseReverseBurst-LVAL-JP-R.png",
+            "art": "ReleaseReverseBurst-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ReleaseReverseBurst-LVAL-EN-C-1E.png",
-            "art": null
+            "art": "ReleaseReverseBurst-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LVAL-EN071",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP071",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -72,5 +89,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

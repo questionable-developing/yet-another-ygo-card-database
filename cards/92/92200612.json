@@ -1,11 +1,14 @@
 {
     "cid": "cf8a5e85-8f67-40d0-b37d-301c1dd05ead",
+    "yid": 92200612,
     "password": "92200612",
     "kid": 12759,
     "name": "Shinobird Pigeon",
     "name_jp": "<ruby lang=\"jp\"><rb>霊魂鳥</rb><rp> (</rp><rt>エスプリット・バード</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>つたえ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳩</rb><rp> (</rp><rt>ばと</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Esupuritto Bādo - Tsutae Bato",
+    "name_jp_rom_base": "Reikonchō - Tsutae Bato",
     "name_jp_tl": "Esprit Bird - Legendary Pigeon",
+    "name_jp_tl_base": "Soul Bird - Legendary Pigeon",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP024",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

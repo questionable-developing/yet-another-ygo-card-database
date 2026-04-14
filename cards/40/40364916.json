@@ -1,11 +1,14 @@
 {
     "cid": "be1e4900-4348-42cd-838d-84c8577eaed9",
+    "yid": 40364916,
     "password": "40364916",
     "kid": 14141,
     "name": "Shiranui Style Solemnity",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>流</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>承</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>陣</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui-ryū Denshō no Jin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shiranui Style Succession Formation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SAST-EN064",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP064",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

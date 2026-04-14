@@ -1,11 +1,14 @@
 {
     "cid": "d0d25002-b12c-4a8f-b7fd-63994d898caa",
+    "yid": 95784714,
     "password": "95784714",
     "kid": 20523,
     "name": "Flying Mary, the Wandering Ghost Ship",
     "name_jp": "<ruby lang=\"jp\"><rb>彷徨える幽霊船</rb><rp> (</rp><rt>フライング・メアリー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Furaingu Mearī",
+    "name_jp_rom_base": "Samayoeru Yūreisen",
     "name_jp_tl": "Flying Mary",
+    "name_jp_tl_base": "Wandering Ghost Ship",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP047",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,7 +94,7 @@
             "2 Link Materials",
             "Requires Type specific Link Materials",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -94,5 +106,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

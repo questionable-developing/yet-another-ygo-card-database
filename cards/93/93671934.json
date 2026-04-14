@@ -1,11 +1,14 @@
 {
     "cid": "325822a3-b73c-4749-8e96-d2f28340bcbf",
+    "yid": 93671934,
     "password": "93671934",
     "kid": 5734,
     "name": "Morale Boost",
     "name_jp": "<ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>高</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>揚</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiki Kōyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "304-042",
+            "set": "Power of the Guardian",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP204",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

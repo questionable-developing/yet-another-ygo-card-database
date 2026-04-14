@@ -1,12 +1,14 @@
 {
     "cid": "6ec85b62-c59d-4797-93ff-f608fbe78d77",
-    "yid": null,
+    "yid": 23434538,
     "password": "23434538",
     "kid": 9455,
     "name": "Maxx \"C\"",
     "name_jp": "<ruby lang=\"jp\"><rb>増</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殖</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>Ｇ</rb><rp> (</rp><rt>ジー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zōshokusuru Jī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Multiplying G",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -35,60 +37,231 @@
         },
         "2": {
             "idx": "2",
-            "full": "MaxxC-LPST-JP-OP.png",
+            "full": "MaxxC-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "STOR-EN086",
             "set": "Storm of Ragnarok",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "CT09-EN012",
             "set": "Collectible Tins 2012 Wave 2",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "AP04-EN002",
             "set": "Astral Pack Four",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "LC5D-EN227",
             "set": "Legendary Collection 5D's Mega Pack",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "PGL3-EN042",
             "set": "Premium Gold: Infinite Gold",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["1"]
             }
         },
         {
             "sid": "SR03-EN020",
             "set": "Machine Reactor Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA04-EN150",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN089",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP037",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Normal Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD25-JP018",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TRC1-JP026",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR03-JP020",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DBSW-JP042",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20TH-JPC82",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR09-JP018",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP004",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD42-JP019",
+            "set": "Structure Deck: Overlay Universe",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD45-JP014",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP005",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP015",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TDS2-JP014",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPA10",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPB12",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD47-JP016",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPA10",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPB12",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP079",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD48-JP018",
+            "set": "Structure Deck: Power of Fellows",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP007",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -123,5 +296,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

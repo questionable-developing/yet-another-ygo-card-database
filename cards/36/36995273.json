@@ -1,12 +1,14 @@
 {
     "cid": "defe9cdc-0de1-44de-a913-66d8a7fa1b2c",
-    "yid": null,
+    "yid": 36995273,
     "password": "36995273",
     "kid": 6908,
     "name": "Degenerate Circuit",
     "name_jp": "<ruby lang=\"jp\"><rb>縮</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>退</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>回</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>路</rb><rp> (</rp><rt>ろ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shukutai Kairo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +44,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP047",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP066",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +91,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

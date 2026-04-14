@@ -1,12 +1,14 @@
 {
     "cid": "8138f783-c4fc-4051-b218-8b467cbfa519",
-    "yid": null,
+    "yid": 12021072,
     "password": "12021072",
     "kid": 14146,
     "name": "Child's Play",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>胆</rb><rp> (</rp><rt>たん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>敵</rb><rp> (</rp><rt>てき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daitan Muteki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Audaciously Unrivaled",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP069",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +80,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

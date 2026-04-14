@@ -1,11 +1,14 @@
 {
     "cid": "87399731-8e2a-4b50-a2c6-e3396a36b1c8",
+    "yid": 98642179,
     "password": "98642179",
     "kid": 14333,
     "name": "Ferocious Flame Swordsman",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōen no Kenshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mighty Flame Swordsman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -47,6 +50,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "19PP-JP001",
+            "set": "Premium Pack 2019",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP050",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,7 +106,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

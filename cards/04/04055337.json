@@ -1,12 +1,14 @@
 {
     "cid": "468865ef-d308-4fa9-a390-05db0a96e1c9",
-    "yid": null,
+    "yid": 4055337,
     "password": "04055337",
     "kid": 14098,
     "name": "Orcust Knightmare",
     "name_jp": "オルフェゴール・トロイメア",
     "name_jp_rom": "Orufegōru Toroimea",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Troymare",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP021",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP041",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +127,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

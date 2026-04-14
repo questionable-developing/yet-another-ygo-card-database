@@ -1,11 +1,14 @@
 {
     "cid": "e83963e3-c72d-4927-bff9-3968bfb44eaf",
+    "yid": 39978267,
     "password": "39978267",
     "kid": 4760,
     "name": "Cyber Raider",
     "name_jp": "サイバー・レイダー",
     "name_jp_rom": "Saibā Reidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +74,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "304-011",
+            "set": "Power of the Guardian",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP173",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +126,6 @@
             "Archetype condition",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

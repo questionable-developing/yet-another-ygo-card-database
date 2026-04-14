@@ -1,12 +1,14 @@
 {
     "cid": "4400dcc1-965b-48d3-aecd-b415d056d661",
-    "yid": null,
+    "yid": 3149401,
     "password": "03149401",
     "kid": 20557,
     "name": "Ultimate Dragon of Pride and Soul",
     "name_jp": "<ruby lang=\"jp\"><rb>誇り</rb><rp> (</rp><rt>プライド</rt><rp>)</rp></ruby>と<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>究極竜</rb><rp> (</rp><rt>アルティメットドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Puraido to Tamashī no Arutimetto Doragon",
+    "name_jp_rom_base": "Hokori to Tamashī no Kyūkyokuryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "ROTA-EN000",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP000",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Quarter Century Secret Rare": []
@@ -87,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

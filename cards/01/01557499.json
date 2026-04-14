@@ -1,12 +1,14 @@
 {
     "cid": "efc94430-36d2-43c8-9a68-162ce691c039",
-    "yid": null,
+    "yid": 1557499,
     "password": "01557499",
     "kid": 4318,
     "name": "Silver Bow and Arrow",
     "name_jp": "<ruby lang=\"jp\"><rb>銀</rb><rp> (</rp><rt>ぎん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>弓</rb><rp> (</rp><rt>ゆみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>矢</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gin no Yumiya",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PG-30",
+            "set": "Phantom God",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL2-060",
+            "set": "Duelist Legacy Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP15-JP011",
+            "set": "Tournament Pack 2010 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

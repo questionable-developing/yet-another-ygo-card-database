@@ -1,11 +1,14 @@
 {
     "cid": "0658ce43-8850-4466-a5cf-ceccb170a19c",
+    "yid": 85787173,
     "password": "85787173",
     "kid": 14912,
     "name": "Generation Next",
     "name_jp": "ジェネレーション・ネクスト",
     "name_jp_rom": "Jenerēshon Nekusuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GenerationNext-DP23-JP-SR.png",
+            "art": "GenerationNext-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GenerationNext-SGX4-NA-C-1E.png",
-            "art": null
+            "art": "GenerationNext-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LED6-EN014",
@@ -44,6 +52,15 @@
             "set": "Legendary Duelists: Season 3",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP23-JP014",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -86,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "735880fd-bd5d-4909-a0df-65bda001a5ee",
+    "yid": 80893872,
     "password": "80893872",
     "kid": 16549,
     "name": "Royal Penguins Garden",
     "name_jp": "ロイヤル・ペンギンズ・ガーデン",
     "name_jp_rom": "Roiyaru Penginzu Gāden",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "BODE-EN063",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP063",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

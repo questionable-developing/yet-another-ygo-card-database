@@ -1,12 +1,14 @@
 {
     "cid": "011d45ac-aa76-4567-99f7-f5dc95b1939a",
-    "yid": null,
+    "yid": 23619206,
     "password": "23619206",
     "kid": 14463,
     "name": "Simorgh, Bird of Calamity",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>シムルグ",
     "name_jp_rom": "Shishinchō Shimurugu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Simorgh, Divine Bird of Death",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "RIRA-EN019",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP019",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

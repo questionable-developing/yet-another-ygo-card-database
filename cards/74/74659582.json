@@ -1,11 +1,14 @@
 {
     "cid": "07af0b18-f96b-4bf3-9987-7827ffcd18a3",
+    "yid": 74659582,
     "password": "74659582",
     "kid": 18822,
     "name": "Sleipnir the Runick Mane",
     "name_jp": "<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>鬣</rb><rp> (</rp><rt>たてがみ</rt><rp>)</rp></ruby>スレイプニル",
     "name_jp_rom": "Rūn no Tategami Sureipuniru",
+    "name_jp_rom_base": "Shinpi no Tategami Sureipuniru",
     "name_jp_tl": "Sleipnir the Rune Mane",
+    "name_jp_tl_base": "Sleipnir the Divine Runestone Mane",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP035",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "DUNE-JP035",
+            "set": "Duelist Nexus +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

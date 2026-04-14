@@ -1,12 +1,14 @@
 {
     "cid": "c217b376-3df0-4028-83ad-48967066a1e2",
-    "yid": null,
+    "yid": 36898537,
     "password": "36898537",
     "kid": 11569,
     "name": "Metaphys Horus",
     "name_jp": "メタファイズ・ホルス・ドラゴン",
     "name_jp_rom": "Metafaizu Horusu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Metaphys Horus Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -60,6 +62,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP049",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP106",
+            "set": "Special Pack 20th Anniversary Edition Vol.1",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +129,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "ff05e4d7-d195-454d-a81d-c7e99506b17c",
-    "yid": null,
+    "yid": 7573135,
     "password": "07573135",
     "kid": 11059,
     "name": "Gladiator Beast Augustus",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>アウグストル",
     "name_jp_rom": "Guradiaru Bīsuto Augusutoru",
+    "name_jp_rom_base": "Kentōjū Augusutoru",
     "name_jp_tl": "Gladial Beast Augustol",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP030",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "17TP-JP205",
+            "set": "Tournament Pack 2017 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +110,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

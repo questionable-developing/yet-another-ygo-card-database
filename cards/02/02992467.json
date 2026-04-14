@@ -1,12 +1,14 @@
 {
     "cid": "e064fcc0-08a4-44ca-b425-73354feb20f8",
-    "yid": null,
+    "yid": 2992467,
     "password": "02992467",
     "kid": 18817,
     "name": "Click & Echo",
     "name_jp": "クリック<ruby lang=\"jp\"><rb>＆</rb><rp> (</rp><rt>アンド</rt><rp>)</rp></ruby>エコー",
     "name_jp_rom": "Kurikku Ando Ekō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP030",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Only twice per turn"
         ]
-    }
+    },
+    "links": {}
 }

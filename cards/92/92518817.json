@@ -1,11 +1,14 @@
 {
     "cid": "2c17e394-afa5-4f67-82b2-3db6871cedda",
+    "yid": 92518817,
     "password": "92518817",
     "kid": 6701,
     "name": "Blazing Hiita",
     "name_jp": "<ruby lang=\"jp\"><rb>燃</rb><rp> (</rp><rt>も</rt><rp>)</rp></ruby>え<ruby lang=\"jp\"><rb>盛</rb><rp> (</rp><rt>さか</rt><rp>)</rp></ruby>るヒータ",
     "name_jp_rom": "Moesakaru Hīta",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -55,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP028",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP208",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
             "Limited activations",
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

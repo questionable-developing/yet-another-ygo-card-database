@@ -1,11 +1,14 @@
 {
     "cid": "41fa3916-62a0-4b4c-931f-d2d70be0bdb9",
+    "yid": 83104731,
     "password": "83104731",
     "kid": 6315,
     "name": "Ancient Gear Golem",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械巨人</rb><rp> (</rp><rt>アンティーク・ギアゴーレム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Gōremu",
+    "name_jp_rom_base": "Kodai no Kikaikyojin",
     "name_jp_tl": "Antique Gear Golem",
+    "name_jp_tl_base": "Ancient Machine Giant",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -118,6 +121,69 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP006",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "MC1-JP004",
+            "set": "Master Collection Volume 1",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP186",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD10-JP012",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP005",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP19-JP034",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP111",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LPG1-JP020",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -158,5 +224,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

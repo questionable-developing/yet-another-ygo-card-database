@@ -1,11 +1,14 @@
 {
     "cid": "2537d50c-80f0-4066-8b43-a734ace5b240",
+    "yid": 99795159,
     "password": "99795159",
     "kid": 10793,
     "name": "Ghostrick Mansion",
     "name_jp": "ゴーストリック・ハウス",
     "name_jp_rom": "Gōsutorikku Hausu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ghostrick House",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GhostrickMansion-SHSP-JP-R.png",
+            "art": "GhostrickMansion-DG-EN-VG-Field.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GhostrickMansion-MP14-EN-C-1E.png",
-            "art": null
+            "art": "GhostrickMansion-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHSP-EN062",
@@ -44,6 +52,22 @@
             "set": "2014 Mega-Tin Mega Pack",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP062",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP034",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -80,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

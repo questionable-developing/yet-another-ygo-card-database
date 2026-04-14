@@ -1,12 +1,14 @@
 {
     "cid": "8805fb1f-54f6-4011-a86d-747eb4a17d02",
-    "yid": null,
+    "yid": 23770284,
     "password": "23770284",
     "kid": 8156,
     "name": "Strong Wind Dragon",
     "name_jp": "ストロング・ウィンド・ドラゴン",
     "name_jp_rom": "Sutorongu Windo Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP003",
+            "set": "Raging Battle",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP113",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DC01-JP011",
+            "set": "Deck Custom Pack 01",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0bf861e0-ebd8-4905-b964-18a50b0537c3",
+    "yid": 76774528,
     "password": "76774528",
     "kid": 8974,
     "name": "Scrap Dragon",
     "name_jp": "スクラップ・ドラゴン",
     "name_jp_rom": "Sukurappu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -74,6 +77,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP043",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP037",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +135,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

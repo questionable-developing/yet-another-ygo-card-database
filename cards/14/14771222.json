@@ -1,12 +1,14 @@
 {
     "cid": "552de501-1cb4-499d-b06c-6d823583531b",
-    "yid": null,
+    "yid": 14771222,
     "password": "14771222",
     "kid": 10254,
     "name": "Shore Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>絶</rb><rp> (</rp><rt>ぜっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zekkai no Kishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Distant-Seas Knight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP032",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

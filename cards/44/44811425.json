@@ -1,11 +1,14 @@
 {
     "cid": "65af0aed-7fba-4378-abd1-50a4e61fcb5d",
+    "yid": 44811425,
     "password": "44811425",
     "kid": 7966,
     "name": "Worm Linx",
     "name_jp": "ワーム・リンクス",
     "name_jp_rom": "Wāmu Rinkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT03-JP029",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP079",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +91,6 @@
         "misc": [
             "Flip monster without a Flip effect"
         ]
-    }
+    },
+    "links": {}
 }

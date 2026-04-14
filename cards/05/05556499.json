@@ -1,12 +1,14 @@
 {
     "cid": "380424ca-d4d3-456c-9445-eccac742b1e0",
-    "yid": null,
+    "yid": 5556499,
     "password": "05556499",
     "kid": 8692,
     "name": "Machina Fortress",
     "name_jp": "マシンナーズ・フォートレス",
     "name_jp_rom": "Mashinnāzu Fōtoresu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machiners Fortress",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -81,6 +83,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD18-JP001",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP004",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -125,5 +143,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

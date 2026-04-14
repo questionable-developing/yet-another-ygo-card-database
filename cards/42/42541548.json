@@ -1,11 +1,14 @@
 {
     "cid": "303a7ccb-c2ca-4750-9ab6-aff11d3453d2",
+    "yid": 42541548,
     "password": "42541548",
     "kid": 5825,
     "name": "Coach Goblin",
     "name_jp": "<ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>おに</rt><rp>)</rp></ruby>ゴブリン",
     "name_jp_rom": "Oni Goburin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon Goblin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "306-015",
+            "set": "Controller of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP015",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

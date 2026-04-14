@@ -1,12 +1,14 @@
 {
     "cid": "a3e6efd9-f3a0-4138-926a-ff74b5412980",
-    "yid": null,
+    "yid": 25669282,
     "password": "25669282",
     "kid": 12663,
     "name": "Burnout",
     "name_jp": "<ruby lang=\"jp\"><rb>完全燃焼</rb><rp> (</rp><rt>バーンアウト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bān'auto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Complete Combustion",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP073",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +81,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Deck",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -84,5 +95,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

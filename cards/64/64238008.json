@@ -1,11 +1,14 @@
 {
     "cid": "f4ca203e-e897-41e5-9394-7a714bfe7c8e",
+    "yid": 64238008,
     "password": "64238008",
     "kid": 6903,
     "name": "Linear Accelerator Cannon",
     "name_jp": "リニアキャノン",
     "name_jp_rom": "Rinia Kyanon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Linear Cannon",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CDIP-EN042",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP042",
             "set": "Cyberdark Impact",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

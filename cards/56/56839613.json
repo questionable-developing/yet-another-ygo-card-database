@@ -1,11 +1,14 @@
 {
     "cid": "e8e483b7-8da9-4366-9fe7-fdb4a77e9b4f",
+    "yid": 56839613,
     "password": "56839613",
     "kid": 7605,
     "name": "Batteryman Micro-Cell",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>池</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>メン－ボタン<ruby lang=\"jp\"><rb>型</rb><rp> (</rp><rt>がた</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Denchimen - Botangata",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,22 @@
         {
             "sid": "LODT-EN032",
             "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP032",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP132",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -79,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

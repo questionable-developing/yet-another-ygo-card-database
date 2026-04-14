@@ -1,11 +1,14 @@
 {
     "cid": "1aebab01-59df-436a-b741-b4ff18134fbc",
+    "yid": 85696777,
     "password": "85696777",
     "kid": 14194,
     "name": "Harpie Conductor",
     "name_jp": "ハーピィ・コンダクター",
     "name_jp_rom": "Hāpyi Kondakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -73,6 +76,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP2-JP006",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP125",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -123,5 +145,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

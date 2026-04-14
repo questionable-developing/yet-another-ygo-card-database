@@ -1,12 +1,14 @@
 {
     "cid": "0678992f-8083-4328-aebe-0e1f18b0db31",
-    "yid": null,
+    "yid": 15555120,
     "password": "15555120",
     "kid": 12166,
     "name": "Hi-Speed Re-Level",
     "name_jp": "ハイ・スピード・リレベル",
     "name_jp_rom": "Hai Supīdo Rireberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "High Speed Re-Level",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BOSH-EN058",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP058",
             "set": "Breakers of Shadow",
             "rarities": {
                 "Common": []
@@ -74,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

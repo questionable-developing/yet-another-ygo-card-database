@@ -1,11 +1,14 @@
 {
     "cid": "4f77bcfc-6ea5-47c7-948c-123a8b603065",
+    "yid": 65193366,
     "password": "65193366",
     "kid": 12761,
     "name": "Spiritual Beast Tamer Winda",
     "name_jp": "<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い ウィンダ",
     "name_jp_rom": "Seireijūtsukai Winda",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP026",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP135",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +125,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

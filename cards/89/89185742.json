@@ -1,11 +1,14 @@
 {
     "cid": "f8571850-2cef-4378-8191-69b130d783d8",
+    "yid": 89185742,
     "password": "89185742",
     "kid": 10582,
     "name": "Lightning, Dragon Ruler of Drafts",
     "name_jp": "<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－ライトニング",
     "name_jp_rom": "Fūseiryū - Raitoningu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightning, Dragon Ruler of Wind",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PR03-JP012",
+            "set": "Promotion Pack 3: Part B",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP506",
+            "set": "Tournament Pack 2024 Vol.5",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +125,6 @@
             "Archetype condition",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

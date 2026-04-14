@@ -1,12 +1,14 @@
 {
     "cid": "1cdf4b3c-5d96-4a4f-8a16-d1846a5e720a",
-    "yid": null,
+    "yid": 28126717,
     "password": "28126717",
     "kid": 16544,
     "name": "Floowandereeze and the Magnificent Map",
     "name_jp": "ふわんだりぃずと<ruby lang=\"jp\"><rb>謎</rb><rp> (</rp><rt>なぞ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>図</rb><rp> (</rp><rt>ず</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fuwandayizu to Nazo no Chizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Floowandereeze and the Mysterious Map",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP058",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +77,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Activates upon Normal Summon"
         ],
         "stat_change": [],
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

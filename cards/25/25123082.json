@@ -1,12 +1,14 @@
 {
     "cid": "9c6112b1-e08e-427a-b16d-1059eb55facd",
-    "yid": null,
+    "yid": 25123082,
     "password": "25123082",
     "kid": 10188,
     "name": "Spellbook of Power",
     "name_jp": "ヒュグロの<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hyuguro no Madōsho",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spellbook of Hygro",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP058",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR08-JP028",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

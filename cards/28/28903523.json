@@ -1,12 +1,14 @@
 {
     "cid": "3700963e-5adb-4094-a377-b393e5823a9e",
-    "yid": null,
+    "yid": 28903523,
     "password": "28903523",
     "kid": 21208,
     "name": "Eternal Sunshine",
     "name_jp": "エターナル・サンシャイン",
     "name_jp_rom": "Etānaru Sanshain",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ALIN-EN071",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP071",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
             "Mentions",
             "Once per Chain"
         ]
-    }
+    },
+    "links": {}
 }

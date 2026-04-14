@@ -1,11 +1,14 @@
 {
     "cid": "77b7a6ea-5df1-4d7d-9e52-177b498523e5",
+    "yid": 54088068,
     "password": "54088068",
     "kid": 13222,
     "name": "Gouki Headbatt",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ヘッドバット",
     "name_jp_rom": "Gōki Heddobatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Headbatt",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP006",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVDS-JPB07",
+            "set": "LINK VRAINS Duelist Set",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

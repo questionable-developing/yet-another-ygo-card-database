@@ -1,12 +1,14 @@
 {
     "cid": "2dbbed1b-f1f2-4022-b50d-ca9c1fa3b2ab",
-    "yid": null,
+    "yid": 7811875,
     "password": "07811875",
     "kid": 9144,
     "name": "Gravity Collapse",
     "name_jp": "<ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>りょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>崩</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jūryoku Hōkai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP067",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP039",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBVS-JP030",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +123,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

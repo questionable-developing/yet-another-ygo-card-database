@@ -1,11 +1,14 @@
 {
     "cid": "c8968e7b-3520-4ebf-80ce-e6b7f08d8118",
+    "yid": 66815913,
     "password": "66815913",
     "kid": 12758,
     "name": "Shinobird Crane",
     "name_jp": "<ruby lang=\"jp\"><rb>霊魂鳥</rb><rp> (</rp><rt>エスプリット・バード</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>巫</rb><rp> (</rp><rt>かんなぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鶴</rb><rp> (</rp><rt>づる</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Esupuritto Bādo - Kannagi Zuru",
+    "name_jp_rom_base": "Reikonchō - Kannagi Zuru",
     "name_jp_tl": "Esprit Bird - Diviner Crane",
+    "name_jp_tl_base": "Soul Bird - Diviner Crane",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP023",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

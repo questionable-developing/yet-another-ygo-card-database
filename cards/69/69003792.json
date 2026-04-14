@@ -1,11 +1,14 @@
 {
     "cid": "9ea07528-6ac2-4800-a428-582e493b3263",
+    "yid": 69003792,
     "password": "69003792",
     "kid": 15056,
     "name": "Megalith Unformed",
     "name_jp": "メガリス・アンフォームド",
     "name_jp_rom": "Megarisu Anfōmudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ETCO-EN070",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP070",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3ea89770-f11d-4c7f-a2bb-9ec878c73d9d",
+    "yid": 48308134,
     "password": "48308134",
     "kid": 12971,
     "name": "Phantasm Spiral Crash",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>煌</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>螺旋突</rb><rp> (</rp><rt>スパイラル・クラッシュ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gen'ōryū no Supairaru Kurasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Phantasm Dragon Spiral Crash",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN057",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP057",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
             "Equips only to a specific target",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

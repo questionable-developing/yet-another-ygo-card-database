@@ -1,11 +1,14 @@
 {
     "cid": "8da61196-eb6a-49d3-b5bc-d9aa5c281439",
+    "yid": 37469904,
     "password": "37469904",
     "kid": 12977,
     "name": "Duelist Alliance",
     "name_jp": "デュエリスト・アドベント",
     "name_jp_rom": "Dyuerisuto Adobento",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Duelist Advent",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP063",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPB30",
+            "set": "20th Anniversary Duelist Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP044",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP092",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +128,8 @@
         "misc": [
             "Only once per turn"
         ]
+    },
+    "links": {
+        "wiki": "Duelist Alliance (card)"
     }
 }

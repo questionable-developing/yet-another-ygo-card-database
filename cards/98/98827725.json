@@ -1,11 +1,14 @@
 {
     "cid": "b114c918-fd64-4e46-817f-c7493397bbd9",
+    "yid": 98827725,
     "password": "98827725",
     "kid": 12267,
     "name": "The Phantom Knights of Shade Brigandine",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>シェード・ブリガンダイン",
     "name_jp_rom": "Fantomu Naitsu Shēdo Burigandain",
+    "name_jp_rom_base": "Gen'ei Kishidan Shēdo Burigandain",
     "name_jp_tl": "Phantom Knights Shade Brigandine",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -68,6 +71,48 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP18-JP015",
+            "set": "Premium Pack 18",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP047",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SD45-JP035",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS2-JP035",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP149",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +150,6 @@
             "Only once per turn",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

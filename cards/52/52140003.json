@@ -1,11 +1,14 @@
 {
     "cid": "8453dc91-a579-4f27-a975-c23ea6216575",
+    "yid": 52140003,
     "password": "52140003",
     "kid": 9682,
     "name": "Explosive Urchin",
     "name_jp": "<ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>ウニ－ボム・アーチン－",
     "name_jp_rom": "Bakudan Uni -Bomu Āchin-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Explosive Urchin -Bomb Urchin-",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GENF-EN065",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP065",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

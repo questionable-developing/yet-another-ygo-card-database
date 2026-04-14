@@ -1,12 +1,14 @@
 {
     "cid": "279f365b-4cf6-4b95-81fc-c5aa7a62b6fc",
-    "yid": null,
+    "yid": 15169262,
     "password": "15169262",
     "kid": 8903,
     "name": "Laval Forest Sprite",
     "name_jp": "ラヴァル<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>樹</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ravaru Enjukai no Yōjo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Laval Flaming Forest Vamp",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT09-JP026",
+            "set": "Duel Terminal - Vylon Descends!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP071",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

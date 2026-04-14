@@ -1,11 +1,14 @@
 {
     "cid": "ea598608-bda1-42ba-9ab5-7dd4a377aaee",
+    "yid": 51697825,
     "password": "51697825",
     "kid": 15546,
     "name": "Jack-In-The-Hand",
     "name_jp": "ジャック・イン・ザ・ハンド",
     "name_jp_rom": "Jakku In Za Hando",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP067",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP071",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

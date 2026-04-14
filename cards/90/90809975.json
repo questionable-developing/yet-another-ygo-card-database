@@ -1,11 +1,14 @@
 {
     "cid": "ac5dd2b3-7643-4376-8d64-87e3d9cd4ce8",
+    "yid": 90809975,
     "password": "90809975",
     "kid": 12642,
     "name": "Toadally Awesome",
     "name_jp": "<ruby lang=\"jp\"><rb>餅</rb><rp> (</rp><rt>もち</rt><rp>)</rp></ruby>カエル",
     "name_jp_rom": "Mochikaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mochi Toad",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -78,6 +81,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP052",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP407",
+            "set": "Special Pack 20th Anniversary Edition Vol.4",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP061",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -135,5 +165,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

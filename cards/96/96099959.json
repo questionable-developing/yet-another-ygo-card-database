@@ -1,17 +1,21 @@
 {
     "cid": "1d2bb693-431a-4161-91f8-eb06832d9111",
+    "yid": 96099959,
     "password": "96099959",
     "kid": 7823,
     "name": "X-Saber Palomuro",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>－セイバー パロムロ",
     "name_jp_rom": "Ekkusu - Seibā Paromuro",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
     "subtypes": [
         "Reptile",
-        "Tuner"
+        "Tuner",
+        "Effect"
     ],
     "atk": 200,
     "def": 300,
@@ -21,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "When another \"Saber\" monster you control is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points to Special Summon this card from the Graveyard.",
+    "desc": "When another \"Saber\" monster you control is destroyed by battle and sent to the GY, while this card is in your GY: You can pay 500 LP; Special Summon this card.",
     "pend_eff": null,
-    "mnst_eff": null,
-    "eff": null,
-    "flavor": "When another \"Saber\" monster you control is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points to Special Summon this card from the Graveyard.",
+    "mnst_eff": "When another \"Saber\" monster you control is destroyed by battle and sent to the GY, while this card is in your GY: You can pay 500 LP; Special Summon this card.",
+    "eff": "When another \"Saber\" monster you control is destroyed by battle and sent to the GY, while this card is in your GY: You can pay 500 LP; Special Summon this card.",
+    "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XSaberPalomuro-TSHD-EN-C-1E.png",
+            "full": "XSaberPalomuro-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -40,6 +44,36 @@
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENX02",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT02-JP025",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TP15-JP001",
+            "set": "Tournament Pack 2010 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP043",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -78,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

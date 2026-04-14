@@ -1,12 +1,14 @@
 {
     "cid": "8b391239-732a-404e-893e-56d288fd1bc1",
-    "yid": null,
+    "yid": 3598351,
     "password": "03598351",
     "kid": 20740,
     "name": "Evil HERO Toxic Bubble",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> トキシック・バブル",
     "name_jp_rom": "Ībiru Hīrō Tokishikku Baburu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -41,6 +43,25 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP001",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP001",
+            "set": "Supreme Darkness +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -89,5 +110,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

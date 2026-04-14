@@ -1,12 +1,14 @@
 {
     "cid": "af9467e7-3c4b-4ae6-a659-ed341fe6f60e",
-    "yid": null,
+    "yid": 6075801,
     "password": "06075801",
     "kid": 12361,
     "name": "Paladin of Felgrand",
     "name_jp": "<ruby lang=\"jp\"><rb>巨竜の聖騎士</rb><rp> (</rp><rt>パラディン・オブ・フェルグラント</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Paradin obu Feruguranto",
+    "name_jp_rom_base": "Kyoryū no Seikishi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Holy Knight of Great Dragon",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR02-JP002",
+            "set": "Structure Deck R: Revival of the Great Divine Dragon",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

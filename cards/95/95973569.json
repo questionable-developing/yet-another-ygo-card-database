@@ -1,11 +1,14 @@
 {
     "cid": "936a6c1e-dae1-4a6b-b613-340231efa5f7",
+    "yid": 95973569,
     "password": "95973569",
     "kid": 19178,
     "name": "T.G. Glaive Blaster",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> グレイヴ・ブラスター",
     "name_jp_rom": "Tekku Jīnasu Gureivu Burasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Glaive Blaster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -45,6 +48,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP036",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JP036",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +94,7 @@
             "Requires both Tuner and non-Tuner Synchro Monsters as Synchro Materials",
             "2 or more non-Tuner Synchro Materials",
             "Nomi",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters",
             "Ignoring the Summoning conditions"
         ],
@@ -87,5 +110,6 @@
             "Delta Accel Synchro Monster",
             "Accel Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

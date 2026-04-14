@@ -1,11 +1,14 @@
 {
     "cid": "391a5cf6-8c6b-42a5-825e-66f38b004cac",
+    "yid": 75620895,
     "password": "75620895",
     "kid": 10262,
     "name": "One-Eyed Skill Gainer",
     "name_jp": "<ruby lang=\"jp\"><rb>隻</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>のスキル・ゲイナー",
     "name_jp_rom": "Sekigan no Sukiru Geinā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +47,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP040",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +91,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

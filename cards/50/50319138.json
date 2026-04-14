@@ -1,11 +1,14 @@
 {
     "cid": "741704f5-bc15-4482-b4e4-c9706b7ea75d",
+    "yid": 50319138,
     "password": "50319138",
     "kid": 9628,
     "name": "Crashbug Z",
     "name_jp": "バグマン<ruby lang=\"jp\"><rb>Ｚ</rb><rp> (</rp><rt>ゼット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Baguman Zetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bugman Z",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP011",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

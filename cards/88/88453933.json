@@ -1,11 +1,14 @@
 {
     "cid": "967bf51f-fb7c-4ebf-8a36-4ff802adece3",
+    "yid": 88453933,
     "password": "88453933",
     "kid": 14763,
     "name": "Parlor Dragonmaid",
     "name_jp": "ドラゴンメイド・パルラ",
     "name_jp_rom": "Doragonmeido Parura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Parla",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP020",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP062",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP009",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +129,6 @@
             "At the start of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

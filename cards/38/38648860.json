@@ -1,11 +1,14 @@
 {
     "cid": "36e2676f-4bd4-4303-b96c-0632598f954e",
+    "yid": 38648860,
     "password": "38648860",
     "kid": 20747,
     "name": "Elzette, Azamina of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖徒</rb><rp> (</rp><rt>アザミナ</rt><rp>)</rp></ruby>リゼット",
     "name_jp_rom": "Shiroki Mori no Azamina Rizetto",
-    "name_jp_tl": "Azamina Lezette of the White Forest",
+    "name_jp_rom_base": "Shiroki Mori no Seito Rizetto",
+    "name_jp_tl": "Lezette, Azamina of the White Forest",
+    "name_jp_tl_base": "Lezette, Saint of the White Forest",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -40,6 +43,25 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP008",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP008",
+            "set": "Supreme Darkness +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -94,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

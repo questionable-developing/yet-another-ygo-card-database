@@ -1,12 +1,14 @@
 {
     "cid": "acf94d11-6913-41ef-b8b2-cd66bbb40f9b",
-    "yid": null,
+    "yid": 23756165,
     "password": "23756165",
     "kid": 6871,
     "name": "Allure Queen LV5",
     "name_jp": "<ruby lang=\"jp\"><rb>魅惑の女王</rb><rp> (</rp><rt>アリュール・クィーン</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>５",
     "name_jp_rom": "Aryūru Kwīn Reberu Faibu",
+    "name_jp_rom_base": "Miwaku no Joō Reberu Faibu",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP007",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AC04-JP058",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

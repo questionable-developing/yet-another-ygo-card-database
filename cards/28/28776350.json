@@ -1,12 +1,14 @@
 {
     "cid": "dac07ce2-5032-4ddd-85d6-496a8e037cfb",
-    "yid": null,
+    "yid": 28776350,
     "password": "28776350",
     "kid": 13267,
     "name": "Akashic Magician",
     "name_jp": "アカシック・マジシャン",
     "name_jp_rom": "Akashikku Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP051",
+            "set": "Circuit Break",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
             "Co-link",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

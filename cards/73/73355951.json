@@ -1,11 +1,14 @@
 {
     "cid": "182fad1e-9e90-4f1c-ad6d-0a03f15b3227",
+    "yid": 73355951,
     "password": "73355951",
     "kid": 18318,
     "name": "Alpha Summon",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>名</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>－「<ruby lang=\"jp\"><rb>解体し統合せよ</rb><rp> (</rp><rt>バフォメット</rt><rp>)</rp></ruby>」",
     "name_jp_rom": "Mahōmei - \"Bafometto\"",
+    "name_jp_rom_base": "Mahōmei - \"Kaitaishi Tōgōseyo\"",
     "name_jp_tl": "Magical Name - \"Baphomet\"",
+    "name_jp_tl_base": "Magical Name - \"Dissolve and Unite\"",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SLF1-JP097",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,7 +81,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters to the opponent's field",
+            "Special Summons from your banishment to the opponent's field",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -78,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

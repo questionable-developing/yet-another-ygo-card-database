@@ -1,11 +1,14 @@
 {
     "cid": "f1fc7900-2a15-4415-bbca-46573fab42dd",
+    "yid": 99747800,
     "password": "99747800",
     "kid": 5453,
     "name": "Legendary Fiend",
     "name_jp": "レジェンド・デビル",
     "name_jp_rom": "Rejendo Debiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Legend Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "LegendaryFiend-SS05-EN-C-1E.png",
+            "full": "LegendaryFiend-VB-JP-UR.jpg",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "LegendaryFiend-SS05-EN-C-1E.png",
+            "art": "LegendaryFiend-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PTDN-EN093",
@@ -59,6 +67,22 @@
         {
             "sid": "SS05-ENB11",
             "set": "Speed Duel Starter Decks: Twisted Nightmares",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VB-06",
+            "set": "The Valuable Book 4 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DR02-JPA03",
+            "set": "Duel Royale Deck Set EX Round 2",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +115,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

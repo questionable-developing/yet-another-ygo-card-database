@@ -1,12 +1,14 @@
 {
     "cid": "7f49678e-217d-4227-b697-5bf25d561b4e",
-    "yid": null,
+    "yid": 9897998,
     "password": "09897998",
     "kid": 9645,
     "name": "Gusto Codor",
     "name_jp": "ガスタ・コドル",
     "name_jp_rom": "Gasuta Kodoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gusta Codor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "GENF-EN028",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP028",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4eefd79b-4678-4f32-961f-821cf655093c",
+    "yid": 55610199,
     "password": "55610199",
     "kid": 17446,
     "name": "Gem-Knight Lady Rose Diamond",
     "name_jp": "ジェムナイトレディ・ローズ・ダイヤ",
     "name_jp_rom": "Jemunaito Redi Rōzu Daiya",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gem-Knight Lady Rose Dia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP044",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "POTE-JP044",
+            "set": "Power of the Elements +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP066",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +132,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

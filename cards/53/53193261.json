@@ -1,11 +1,14 @@
 {
     "cid": "f83725ad-42ba-4ad3-8ecc-458d87caa899",
+    "yid": 53193261,
     "password": "53193261",
     "kid": 9345,
     "name": "Wattkey",
     "name_jp": "エレキー",
     "name_jp_rom": "Erekī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eleckey",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "STOR-EN054",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP054",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

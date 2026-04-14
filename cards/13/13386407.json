@@ -1,12 +1,14 @@
 {
     "cid": "c6b57352-3ecc-4896-aba5-96d04996592a",
-    "yid": null,
+    "yid": 13386407,
     "password": "13386407",
     "kid": 17466,
     "name": "Ravenous Vendread",
     "name_jp": "ラヴェナス・ヴェンデット",
     "name_jp_rom": "Ravenasu Vendetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ravenous Vendead",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "POTE-EN064",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP064",
             "set": "Power of the Elements",
             "rarities": {
                 "Common": []
@@ -83,5 +94,6 @@
             "Nonspecific Ritual Spell Card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b649bbf3-0d37-4995-8ba2-209f71e47732",
-    "yid": null,
+    "yid": 27869883,
     "password": "27869883",
     "kid": 7426,
     "name": "Shadowpriestess of Ohm",
     "name_jp": "プリーステス・オーム",
     "name_jp_rom": "Purīsutesu Ōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Priestess Ohm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP024",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PTDN-JP024",
+            "set": "Phantom Darkness 2-Pack Set",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

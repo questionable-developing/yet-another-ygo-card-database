@@ -1,11 +1,14 @@
 {
     "cid": "7a004834-d43c-4bf8-a329-f224e5a7ee59",
+    "yid": 55271628,
     "password": "55271628",
     "kid": 9794,
     "name": "Tyrant's Throes",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>君</rb><rp> (</rp><rt>くん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>自</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>自</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>棄</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bōkun no Jibōjiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tyrant's Desperation",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TyrantsThroes-PHSW-JP-R.jpg",
+            "art": "TyrantsThroes-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TyrantsThroes-PHSW-EN-R-1E.png",
-            "art": null
+            "art": "TyrantsThroes-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PHSW-EN076",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP076",
             "set": "Photon Shockwave",
             "rarities": {
                 "Rare": []
@@ -74,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

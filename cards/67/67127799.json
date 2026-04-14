@@ -1,11 +1,14 @@
 {
     "cid": "8ed170b2-51b9-46c0-a675-fed17f40f04b",
+    "yid": 67127799,
     "password": "67127799",
     "kid": 16487,
     "name": "Rokket Caliber",
     "name_jp": "ヴァレット・キャリバー",
     "name_jp_rom": "Varetto Kyaribā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vullet Caliber",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP001",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP096",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +114,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

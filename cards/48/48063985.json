@@ -1,11 +1,14 @@
 {
     "cid": "b50409d9-7c91-4158-ae00-9d8f2ddc7b3b",
+    "yid": 48063985,
     "password": "48063985",
     "kid": 11500,
     "name": "Ritual Beast Ulti-Cannahawk",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> カンナホーク",
     "name_jp_rom": "Seireijūki Kannahōku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Spirit Beast Steed Kannahawk",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -63,6 +66,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP030",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP068",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP138",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,7 +129,7 @@
             "Contact Fusion",
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -110,5 +142,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

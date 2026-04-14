@@ -1,12 +1,14 @@
 {
     "cid": "04050537-b173-40b0-9f82-e2547e967151",
-    "yid": null,
+    "yid": 17063599,
     "password": "17063599",
     "kid": 15720,
     "name": "Heavenly Zephyr - Miradora",
     "name_jp": "<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>ミラドーラ",
     "name_jp_rom": "Kaze no Ten'yoku Miradōra",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heavenly Wings of Wind - Miradora",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP029",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BLVO-JP029",
+            "set": "Blazing Vortex +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

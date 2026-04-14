@@ -1,12 +1,14 @@
 {
     "cid": "ec1bae32-1229-44d2-b04b-313297520239",
-    "yid": null,
+    "yid": 35311929,
     "password": "35311929",
     "kid": 16517,
     "name": "Fengli the Soldrapom",
     "name_jp": "<ruby lang=\"jp\"><rb>陽竜果</rb><rp> (</rp><rt>ソルドラポム</rt><rp>)</rp></ruby>フォンリー",
     "name_jp_rom": "Sorudorapomu Fonrī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "BODE-EN031",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP031",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -89,5 +100,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

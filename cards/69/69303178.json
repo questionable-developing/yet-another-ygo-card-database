@@ -1,11 +1,14 @@
 {
     "cid": "b228c2c3-fd0e-453f-a452-11c1cfcb34e6",
+    "yid": 69303178,
     "password": "69303178",
     "kid": 6688,
     "name": "Majestic Mech - Ohka",
     "name_jp": "<ruby lang=\"jp\"><rb>光神機</rb><rp> (</rp><rt>ライトニングギア</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>桜</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raitoningu Gia - Ōka",
+    "name_jp_rom_base": "Kōshinki - Ōka",
     "name_jp_tl": "Lightning Gear - Ohka",
+    "name_jp_tl_base": "Light God Machine - Ohka",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP015",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP195",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

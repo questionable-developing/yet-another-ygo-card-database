@@ -1,11 +1,14 @@
 {
     "cid": "5dd709c3-da23-4e82-892d-0d5a900c898d",
+    "yid": 68304193,
     "password": "68304193",
     "kid": 17769,
     "name": "Kashtira Unicorn",
     "name_jp": "クシャトリラ・ユニコーン",
     "name_jp_rom": "Kushatorira Yunikōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kshatrira Unicorn",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "KashtiraUnicorn-MP23-EN-PScR-1E.png",
+            "full": "KashtiraUnicorn-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -46,6 +49,38 @@
             "sid": "MP23-EN164",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN025",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP013",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DABL-JP013",
+            "set": "Darkwing Blast +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
                 "Prismatic Secret Rare": []
             }
         }
@@ -88,5 +123,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

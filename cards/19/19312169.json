@@ -1,12 +1,14 @@
 {
     "cid": "0ae8f6b3-0e25-478a-8771-7da262953d97",
-    "yid": null,
+    "yid": 19312169,
     "password": "19312169",
     "kid": 5984,
     "name": "Talisman of Trap Sealing",
     "name_jp": "<ruby lang=\"jp\"><rb>罠</rb><rp> (</rp><rt>わな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>封</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>符</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Wana Fūin no Jufu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "308-044",
+            "set": "The Sanctuary in the Sky (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP156",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +99,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

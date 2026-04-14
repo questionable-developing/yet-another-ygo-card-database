@@ -1,12 +1,14 @@
 {
     "cid": "d5e480aa-3607-4fa1-9210-37624ebf0412",
-    "yid": null,
+    "yid": 24634594,
     "password": "24634594",
     "kid": 18452,
     "name": "Diabolantis the Menacing Mantis",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>螂</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>ディアボランティス",
     "name_jp_rom": "Marō Diaborantisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Diabolantis the Demonic Mantis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP051",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

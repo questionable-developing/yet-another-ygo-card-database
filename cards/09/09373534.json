@@ -1,12 +1,14 @@
 {
     "cid": "22c9801d-c5ab-4bb3-946a-d07770e709c9",
-    "yid": null,
+    "yid": 9373534,
     "password": "09373534",
     "kid": 5836,
     "name": "Fuhma Shuriken",
     "name_jp": "<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>裏</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fūma Shuriken",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "306-031",
+            "set": "Controller of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP031",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +113,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8ec9f2cb-2d98-4af3-9fd2-a7680c2a796f",
+    "yid": 48832775,
     "password": "48832775",
     "kid": 16843,
     "name": "Dinomorphia Kentregina",
     "name_jp": "ダイノルフィア・ケントレギナ",
     "name_jp_rom": "Dainorufia Kentoregina",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dinorphia Kentregina",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -56,6 +59,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP038",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JP038",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +125,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

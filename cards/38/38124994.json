@@ -1,11 +1,14 @@
 {
     "cid": "60c0e766-2d3b-4a95-947d-0d0068d7d280",
+    "yid": 38124994,
     "password": "38124994",
     "kid": 11352,
     "name": "Fluffal Rabbit",
     "name_jp": "ファーニマル・ラビット",
     "name_jp_rom": "Fānimaru Rabitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Furnimal Rabbit",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP020",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

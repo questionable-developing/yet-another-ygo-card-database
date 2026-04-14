@@ -1,11 +1,14 @@
 {
     "cid": "531e7329-d098-48a4-b1cf-6bd895029dcd",
+    "yid": 41620959,
     "password": "41620959",
     "kid": 10590,
     "name": "Dragon Shrine",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>廟</rb><rp> (</rp><rt>びょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryū no Reibyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -82,6 +85,52 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD25-JP020",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP031",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP010",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD36-JP029",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR11-JP030",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP194",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +165,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

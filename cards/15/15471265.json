@@ -1,12 +1,14 @@
 {
     "cid": "b2203e16-3f2a-40e3-9ecc-c7b1e6aaee32",
-    "yid": null,
+    "yid": 15471265,
     "password": "15471265",
     "kid": 7555,
     "name": "Berserker Crush",
     "name_jp": "バーサーカークラッシュ",
     "name_jp_rom": "Bāsākā Kurasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP044",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

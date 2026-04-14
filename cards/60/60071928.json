@@ -1,11 +1,14 @@
 {
     "cid": "e145e7b8-e69e-41c2-a073-6fe6601fd459",
+    "yid": 60071928,
     "password": "60071928",
     "kid": 8872,
     "name": "Righty Driver",
     "name_jp": "ライティ・ドライバー",
     "name_jp_rom": "Raiti Doraibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP20-JP012",
+            "set": "Premium Pack 20",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP019",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

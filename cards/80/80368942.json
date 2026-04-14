@@ -1,11 +1,14 @@
 {
     "cid": "74f96744-0cf6-4bf5-afb9-d2dee3ec53ea",
+    "yid": 80368942,
     "password": "80368942",
     "kid": 7154,
     "name": "Cocoon Party",
     "name_jp": "コクーン・パーティ",
     "name_jp_rom": "Kokūn Pāti",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP048",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +80,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

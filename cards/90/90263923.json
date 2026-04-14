@@ -1,11 +1,14 @@
 {
     "cid": "ae6fbbca-2241-4a66-b65f-1352f9b14a99",
+    "yid": 90263923,
     "password": "90263923",
     "kid": 8836,
     "name": "Leeching the Light",
     "name_jp": "シャイニング・アブソーブ",
     "name_jp_rom": "Shainingu Abusōbu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shining Absorb",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP061",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,5 +79,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "cb14e93b-8c4d-444d-98fe-1f7623e05c31",
-    "yid": null,
+    "yid": 27769400,
     "password": "27769400",
     "kid": 6525,
     "name": "Tualatin",
     "name_jp": "テュアラティン",
     "name_jp_rom": "Tyuaratin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JHS-JP001",
+            "set": "Jump Heroes promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DT09-JP015",
+            "set": "Duel Terminal - Vylon Descends!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +103,6 @@
         "misc": [
             "At the start of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "5c985ef4-8e10-47b2-8100-670fe292775d",
-    "yid": null,
+    "yid": 24429467,
     "password": "24429467",
     "kid": 13444,
     "name": "Mythical Bestiamorph",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導変換</rb><rp> (</rp><rt>マジック・バースト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majikku Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Burst",
+    "name_jp_tl_base": "Magical Transformation",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP073",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR08-JP035",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

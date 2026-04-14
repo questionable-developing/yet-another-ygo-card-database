@@ -1,12 +1,14 @@
 {
     "cid": "ba91f899-121a-4ed6-8777-ad1b7f667d6a",
-    "yid": null,
+    "yid": 19019586,
     "password": "19019586",
     "kid": 9642,
     "name": "Gem-Elephant",
     "name_jp": "ジェムエレファント",
     "name_jp_rom": "Jemuerefanto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP025",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "fc813b4d-2e1b-4845-9292-a77cb3ce9698",
-    "yid": null,
+    "yid": 14513016,
     "password": "14513016",
     "kid": 11493,
     "name": "Ritual Beast Tamer Elder",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>いの<ruby lang=\"jp\"><rb>長</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>老</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reijūtsukai no Chōrō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirit Beast Tamer Elder",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +59,28 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP023",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP127",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +118,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

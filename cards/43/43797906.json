@@ -1,11 +1,14 @@
 {
     "cid": "3eca35d1-87a0-48c8-9751-9293ed057438",
+    "yid": 43797906,
     "password": "43797906",
     "kid": 7107,
     "name": "Warrior of Atlantis",
     "name_jp": "アトランティスの<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Atorantisu no Senshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP016",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP126",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD23-JP013",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPB05",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +126,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

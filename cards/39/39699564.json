@@ -1,11 +1,14 @@
 {
     "cid": "7c3cdb44-d741-48cf-ae22-a8680343cf2a",
+    "yid": 39699564,
     "password": "39699564",
     "kid": 10508,
     "name": "Brotherhood of the Fire Fist - Leopard",
     "name_jp": "<ruby lang=\"jp\"><rb>速</rb><rp> (</rp><rt>そく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－タイヒョウ",
     "name_jp_rom": "Sokuensei - Taihyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Swift Flame Star - Dai Bao",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP027",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "68de9dbb-d281-403e-9dad-d2ef612fddcc",
-    "yid": null,
+    "yid": 6552971,
     "password": "06552971",
     "kid": 16021,
     "name": "A.I. Meet You",
     "name_jp": "めぐり－<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Meguri-Ai-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ch-Ai-nce Meeting",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP060",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,8 +79,8 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
-            "Reveals your Extra Deck",
+            "Reveals cards from your hand",
+            "Reveals cards from your Extra Deck",
             "Adds from Deck to hand"
         ],
         "stat_change": [],
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

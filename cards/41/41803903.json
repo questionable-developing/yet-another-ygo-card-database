@@ -1,11 +1,14 @@
 {
     "cid": "e0110575-87dc-4296-8140-7c0f99716c04",
+    "yid": 41803903,
     "password": "41803903",
     "kid": 13864,
     "name": "Abyss Script - Romantic Terror",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>台</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>本</rb><rp> (</rp><rt>ほん</rt><rp>)</rp></ruby>「ロマンティック・テラー」",
     "name_jp_rom": "Makai Daihon \"Romantikku Terā\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP047",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "51094d49-1d73-4965-a654-778c360c3b1f",
+    "yid": 70155677,
     "password": "70155677",
     "kid": 18478,
     "name": "Dreaming Nemleria",
     "name_jp": "<ruby lang=\"jp\"><rb>夢</rb><rp> (</rp><rt>ゆめ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>見</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby>るネムレリア",
     "name_jp_rom": "Yumemiru Nemureria",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -41,6 +44,26 @@
             "set": "Cyberstorm Access",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP015",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP015",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -81,7 +104,7 @@
             "Cannot be Normal Summoned",
             "Cannot be Normal Set",
             "Nomi",
-            "Special Summons itself from your Extra Deck",
+            "Special Summons itself from your face-up Extra Deck",
             "Special Summon once per turn"
         ],
         "attack": [],
@@ -95,7 +118,9 @@
         "smat": [],
         "misc": [
             "Limited activations",
-            "Requires having no cards in Extra Deck"
+            "Requires having no cards in Extra Deck",
+            "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

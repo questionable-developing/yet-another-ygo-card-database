@@ -1,12 +1,14 @@
 {
     "cid": "5f60beb0-5b7b-4034-a79d-244418ca03e8",
-    "yid": null,
+    "yid": 24838456,
     "password": "24838456",
     "kid": 6917,
     "name": "Vanity's Call",
     "name_jp": "<ruby lang=\"jp\"><rb>虚無を呼ぶ呪文</rb><rp> (</rp><rt>ヴァニティー・コール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vanitī Kōru",
+    "name_jp_rom_base": "Kyomu o Yobu Jumon",
     "name_jp_tl": "Vanity Call",
+    "name_jp_tl_base": "Void-Calling Spell",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "CDIP-EN059",
             "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP059",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP074",
+            "set": "Duelist Edition Volume 1",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +99,6 @@
         "misc": [
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

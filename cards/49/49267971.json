@@ -1,11 +1,14 @@
 {
     "cid": "1e2b8514-ebe5-44c6-b501-7910cbc53b38",
+    "yid": 49267971,
     "password": "49267971",
     "kid": 8976,
     "name": "Blind Spot Strike",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>角</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby>からの<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shikaku kara no Ichigeki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP045",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP10-JP021",
+            "set": "Duelist Pack: Yusei 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

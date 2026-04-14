@@ -1,11 +1,14 @@
 {
     "cid": "5e0d631d-ff49-43da-ab6a-4969da259b72",
+    "yid": 47660516,
     "password": "47660516",
     "kid": 10541,
     "name": "Rank-Up-Magic Barian's Force",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－バリアンズ・フォース",
     "name_jp_rom": "Rankuappu Majikku - Barianzu Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +72,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP060",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP015",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +134,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7b5160fb-94a9-47f5-859a-a9c5a2e49bb7",
+    "yid": 66865880,
     "password": "66865880",
     "kid": 6007,
     "name": "Marshmallon Glasses",
     "name_jp": "マシュマロンのメガネ",
     "name_jp_rom": "Mashumaron no Megane",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP6-002",
+            "set": "Premium Pack 6",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TP04-JP010",
+            "set": "Tournament Pack 2007 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPC35",
+            "set": "Memories of the Duel King: Ceremonial Battle Arc",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +103,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

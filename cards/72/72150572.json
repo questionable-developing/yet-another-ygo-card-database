@@ -1,11 +1,14 @@
 {
     "cid": "c7f2a826-61bf-42f3-873d-edd1d6344776",
+    "yid": 72150572,
     "password": "72150572",
     "kid": 7011,
     "name": "Anti-Fusion Device",
     "name_jp": "<ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>駆</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>除</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yūgō Taikujo Sōchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP055",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "STON-JP055",
+            "set": "Strike of Neos: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

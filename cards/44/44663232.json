@@ -1,11 +1,14 @@
 {
     "cid": "a923978f-3099-42df-9249-64d26b29cb0f",
+    "yid": 44663232,
     "password": "44663232",
     "kid": 10599,
     "name": "Ghost Fairy Elfobia",
     "name_jp": "<ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>怪</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby> エルフォビア",
     "name_jp_rom": "Ikai no Yōsei Erufobia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bizarre Fairy Elfobia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -30,16 +33,40 @@
         "1": {
             "idx": "1",
             "full": "GhostFairyElfobia-LTGY-EN-SR-1E.png",
-            "art": null
+            "art": "GhostFairyElfobia-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "GhostFairyElfobia-LOCR-JP-SR.png",
+            "art": "GhostFairyElfobia-MADU-JP-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "LTGY-EN085",
             "set": "Lord of the Tachyon Galaxy",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP046",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP051",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -74,5 +101,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

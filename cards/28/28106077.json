@@ -1,12 +1,14 @@
 {
     "cid": "557a5f9d-7234-4b3a-9274-860a0408bd4f",
-    "yid": null,
+    "yid": 28106077,
     "password": "28106077",
     "kid": 5357,
     "name": "Cestus of Dagla",
     "name_jp": "ダグラの<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>つるぎ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dagura no Tsurugi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sword of Dagla",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -70,6 +72,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-037",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP252",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD11-JP025",
+            "set": "Structure Deck: Surge of Radiance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +128,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

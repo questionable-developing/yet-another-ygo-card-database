@@ -1,11 +1,14 @@
 {
     "cid": "93cd3148-515d-4ad9-b46c-aefe74a4fd8b",
+    "yid": 92133240,
     "password": "92133240",
     "kid": 16814,
     "name": "Dinomorphia Therizia",
     "name_jp": "ダイノルフィア・テリジア",
     "name_jp_rom": "Dainorufia Terijia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dinorphia Therizia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -56,6 +59,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP009",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JP009",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +122,6 @@
             "Requires specific LP",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

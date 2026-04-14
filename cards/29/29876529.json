@@ -1,12 +1,14 @@
 {
     "cid": "471cadb3-3527-400a-88f1-3a883239f719",
-    "yid": null,
+    "yid": 29876529,
     "password": "29876529",
     "kid": 9793,
     "name": "Darklight",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yami no Senkō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flash of Darkness",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Darklight-SR06-JP-C.png",
+            "art": "Darklight-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Darklight-SBCB-EN-C-1E.png",
-            "art": null
+            "art": "Darklight-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PHSW-EN075",
@@ -50,6 +57,29 @@
         {
             "sid": "SBCB-EN019",
             "set": "Speed Duel: Battle City Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP075",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPD35",
+            "set": "Duelist Set: Version Dark Returner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR06-JP035",
+            "set": "Structure Deck R: Curse of the Dark",
             "rarities": {
                 "Common": []
             }
@@ -84,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

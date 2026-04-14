@@ -1,12 +1,14 @@
 {
     "cid": "6b5b6a02-abe3-43d1-a5da-30ab35b2c485",
-    "yid": null,
+    "yid": 12694768,
     "password": "12694768",
     "kid": 6937,
     "name": "Abaki",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>あば</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Abaki",
-    "name_jp_tl": "Raging Demon",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Raging Oni",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP013",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

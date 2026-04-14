@@ -1,11 +1,14 @@
 {
     "cid": "d1483d5e-7c9b-4d60-ae8f-042e93f95a23",
+    "yid": 79965360,
     "password": "79965360",
     "kid": 9209,
     "name": "Amazoness Heirloom",
     "name_jp": "アマゾネスの<ruby lang=\"jp\"><rb>秘</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amazonesu no Hihō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP018",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Equips only to a specific target",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

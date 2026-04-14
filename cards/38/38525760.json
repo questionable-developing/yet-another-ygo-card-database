@@ -1,11 +1,14 @@
 {
     "cid": "83221f28-267a-42c7-8d2b-531a2c07d198",
+    "yid": 38525760,
     "password": "38525760",
     "kid": 10387,
     "name": "Hazy Flame Cerbereus",
     "name_jp": "<ruby lang=\"jp\"><rb>陽炎獣</rb><rp> (</rp><rt>ヘイズビースト</rt><rp>)</rp></ruby> サーベラス",
     "name_jp_rom": "Heizu Bīsuto Sāberasu",
+    "name_jp_rom_base": "Yōenjū Sāberasu",
     "name_jp_tl": "Haze Beast Cerberus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CBLZ-EN028",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP028",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

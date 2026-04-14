@@ -1,11 +1,14 @@
 {
     "cid": "fa0e11af-3d99-462b-9198-16d3e900443c",
+    "yid": 59707204,
     "password": "59707204",
     "kid": 14464,
     "name": "Simorgh, Bird of Protection",
     "name_jp": "<ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>シムルグ",
     "name_jp_rom": "Goshinchō Shimurugu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Simorgh, Divine Bird of Protection",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RIRA-EN020",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP020",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

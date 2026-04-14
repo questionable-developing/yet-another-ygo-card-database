@@ -1,11 +1,14 @@
 {
     "cid": "6876eef6-bd5c-4e0c-a5a9-56751de6d566",
+    "yid": 43464884,
     "password": "43464884",
     "kid": 13584,
     "name": "Three Trolling Trolls",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>のアウトロール",
     "name_jp_rom": "Yōkai no Autorōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spectral Sea Outroll",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP030",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

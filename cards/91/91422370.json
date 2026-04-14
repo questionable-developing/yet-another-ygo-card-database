@@ -1,11 +1,14 @@
 {
     "cid": "2ad6e3d4-d933-4be4-a48f-d690feb95dbb",
+    "yid": 91422370,
     "password": "91422370",
     "kid": 9946,
     "name": "Zenmailstrom",
     "name_jp": "<ruby lang=\"jp\"><rb>螺</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>旋</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>条</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rasen Shiki Zenmai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spiral-Style Spring",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ORCS-EN072",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP072",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
             "Requires control of specific archetype",
             "Requires control of specific ATK"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e4fc3d01-018b-4892-bede-835049105135",
+    "yid": 62472614,
     "password": "62472614",
     "kid": 8989,
     "name": "Pestilence",
     "name_jp": "<ruby lang=\"jp\"><rb>疫</rb><rp> (</rp><rt>えき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>病</rb><rp> (</rp><rt>びょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ekibyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DREV-EN058",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP058",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
             "Equips only to a specific target",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

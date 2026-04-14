@@ -1,11 +1,14 @@
 {
     "cid": "5b64c686-fc84-4b9b-bb0b-843150f0593c",
+    "yid": 77910045,
     "password": "77910045",
     "kid": 5311,
     "name": "Fatal Abacus",
     "name_jp": "<ruby lang=\"jp\"><rb>死の演算盤</rb><rp> (</rp><rt>デス・カリキュレーター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Desu Karikyurētā",
+    "name_jp_rom_base": "Shi no Enzanban",
     "name_jp_tl": "Death Calculator",
+    "name_jp_tl_base": "Death Abacus",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SC-11",
+            "set": "Struggle of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL5-010",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP133",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP105",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c23b3848-990f-426d-a31b-d2e52b80ce2e",
+    "yid": 81560239,
     "password": "81560239",
     "kid": 21059,
     "name": "Mitsurugi Ritual",
-    "name_jp": "<ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>降臨</rb><rp> (</rp><rt>コウリン</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>巳剣降臨</rb><rp> (</rp><rt>ミツルギコウリン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mitsurugi Kōrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword Advent",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsurugiRitual-SUDA-EN-UR-1E.png",
+            "full": "MitsurugiRitual-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -38,6 +41,25 @@
             "rarities": {
                 "Ultra Rare": [],
                 "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENM15",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP036",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -80,5 +102,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

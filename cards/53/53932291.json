@@ -1,11 +1,14 @@
 {
     "cid": "8e9fe85c-3f69-4752-b1a9-d71ea273bc3d",
+    "yid": 53932291,
     "password": "53932291",
     "kid": 12052,
     "name": "Speedroid Taketomborg",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＲ</rb><rp> (</rp><rt>スピードロイド</rt><rp>)</rp></ruby>タケトンボーグ",
     "name_jp_rom": "Supīdoroido Taketonbōgu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Speedroid Taketonborg",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPHR-JP006",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20CP-JPC03",
+            "set": "20th Secret Rare Challenge Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP25-JP010",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +124,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

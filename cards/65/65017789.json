@@ -1,11 +1,14 @@
 {
     "cid": "a06a66b1-6459-44c6-aaa9-d914a43beef3",
+    "yid": 65017789,
     "password": "65017789",
     "kid": 13328,
     "name": "The Weather Painter Snow",
     "name_jp": "<ruby lang=\"jp\"><rb>雪</rb><rp> (</rp><rt>ゆき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>シエル",
     "name_jp_rom": "Yukitenki Shieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Snow Weather Ciel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP029",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP108",
+            "set": "Tournament Pack 2022 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

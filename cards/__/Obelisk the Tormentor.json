@@ -6,7 +6,9 @@
     "name": "Obelisk the Tormentor",
     "name_jp": "オベリスクの<ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Oberisuku no Kyoshinhei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Giant Divine Soldier of Obelisk",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DIVINE",
     "pend": false,
@@ -45,125 +47,242 @@
         },
         "4": {
             "idx": "4",
-            "full": "ObelisktheTormentor-LPST-JP-OP.png",
+            "full": "ObelisktheTormentor-RA05-EN-UR-1E.png",
             "art": null
+        },
+        "5": {
+            "idx": "5",
+            "full": "ObelisktheTormentor-AW02-JP-UR.png",
+            "art": "ObelisktheTormentor-OW-3.png"
         }
     },
-    "image": "1",
+    "image": "4",
     "sets": [
         {
             "sid": "GLD4-EN030",
             "set": "Gold Series 4: Pyramids Edition",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["2"]
             }
         },
         {
             "sid": "BP01-EN021",
             "set": "Battle Pack: Epic Dawn",
             "rarities": {
-                "Rare": [],
-                "Starfoil Rare": []
+                "Rare": ["2"],
+                "Starfoil Rare": ["2"]
             }
         },
         {
             "sid": "BP02-EN125",
             "set": "Battle Pack 2: War of the Giants",
             "rarities": {
-                "Mosaic Rare": []
+                "Mosaic Rare": ["1"]
             }
         },
         {
             "sid": "PGLD-EN030",
             "set": "Premium Gold",
             "rarities": {
-                "Gold Secret Rare": []
+                "Gold Secret Rare": ["1"]
             }
         },
         {
             "sid": "CT13-EN002",
             "set": "2016 Mega-Tins",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "LDK2-ENS02",
             "set": "Legendary Decks II",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MVPC-EN001",
             "set": "Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards",
             "rarities": {
-                "Gold Secret Rare": []
+                "Gold Secret Rare": ["3"]
             }
         },
         {
             "sid": "MVPC-EN001",
             "set": "Yu-Gi-Oh! The Dark Side of Dimensions Blu-ray & DVD promotional card",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["3"]
             }
         },
         {
             "sid": "TN19-EN007",
             "set": "2019 Gold Sarcophagus Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["2"]
             }
         },
         {
             "sid": "MVP1-ENSV5",
             "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["3"]
             }
         },
         {
             "sid": "SBCB-EN202",
             "set": "Speed Duel: Battle City Box",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "EGO1-EN001",
             "set": "Egyptian God Deck: Obelisk the Tormentor",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "KICO-EN064",
             "set": "King's Court",
             "rarities": {
-                "Ultra Rare (Pharaoh's Rare)": []
+                "Ultra Rare (Pharaoh's Rare)": ["1"]
             }
         },
         {
             "sid": "KC01-EN022",
             "set": "25th Anniversary Ultimate Kaiba Set",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "RA03-EN230",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["3"],
+                "Quarter Century Secret Rare": ["3"]
             }
         },
         {
             "sid": "RA04-EN116",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN129",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Starlight Rare": ["4"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP037",
+            "set": "V Jump February 2009 promotional card",
+            "rarities": {
+                "Ultra Rare": ["2"]
+            }
+        },
+        {
+            "sid": "GS06-JP001",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Gold Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "15AX-JPY58",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "Millennium Rare": ["1"]
+            }
+        },
+        {
+            "sid": "MB01-JPS02",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "MVPY-JP001",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Yokohama Event distribution card",
+            "rarities": {
+                "Kaiba Corporation Common": ["3"]
+            }
+        },
+        {
+            "sid": "20DS-JP001",
+            "set": "20th Anniversary Duel Set (Obelisk the Tormentor)",
+            "rarities": {
+                "20th Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "PGB1-JPS02",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PAC1-JP002",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Prismatic Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "KC01-JP022",
+            "set": "25th Anniversary Ultimate Kaiba Set",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCCP-JP199",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "VP24-JP001",
+            "set": "Quarter Century Legendary Selection",
+            "rarities": {
+                "Quarter Century Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "LPST-JP047",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Secret Rare": ["4"],
+                "Prismatic Secret Rare": ["4"]
+            }
+        },
+        {
+            "sid": "AW02-JP002",
+            "set": "Artwork Series Hanging Scrolls",
+            "rarities": {
+                "Prismatic Secret Rare": ["5"]
+            }
+        },
+        {
+            "sid": "AW02-JPM02",
+            "set": "Artwork Series Mini Hanging Scrolls: Egyptian Gods",
+            "rarities": {
+                "Ultra Rare": ["5"]
             }
         }
     ],
@@ -211,6 +330,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

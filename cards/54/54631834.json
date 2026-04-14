@@ -1,11 +1,14 @@
 {
     "cid": "3dbb7b39-f327-450f-a1ad-0de6386be4b1",
+    "yid": 54631834,
     "password": "54631834",
     "kid": 9353,
     "name": "Terminal World",
     "name_jp": "<ruby lang=\"jp\"><rb>端末世界</rb><rp> (</rp><rt>ターミナルワールド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tāminaru Wārudo",
+    "name_jp_rom_base": "Tanmatsu Sekai",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP062",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP031",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

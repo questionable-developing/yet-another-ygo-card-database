@@ -1,11 +1,14 @@
 {
     "cid": "86ff4eee-0987-4dfc-9e0c-b3eec0540839",
+    "yid": 48568432,
     "password": "48568432",
     "kid": 8807,
     "name": "Trigon",
     "name_jp": "トライゴン",
     "name_jp_rom": "Toraigon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TSHD-EN031",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP031",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -85,5 +97,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "00914131-e1f8-474c-883b-0d5febd984de",
+    "yid": 92362073,
     "password": "92362073",
     "kid": 14674,
     "name": "Galaxy Satellite Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河衛竜</rb><rp> (</rp><rt>ギャラクシー・サテライト・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Sateraito Doragon",
+    "name_jp_rom_base": "Ginga Eiryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,24 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP047",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP014",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -103,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

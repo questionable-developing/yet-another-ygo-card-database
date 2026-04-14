@@ -1,12 +1,14 @@
 {
     "cid": "b5f98f04-e5e4-47b3-8ebe-20e210e19f25",
-    "yid": null,
+    "yid": 2084239,
     "password": "02084239",
     "kid": 7627,
     "name": "Wetlands",
     "name_jp": "<ruby lang=\"jp\"><rb>湿</rb><rp> (</rp><rt>しっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>草</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>原</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shitchisōgen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wet Grasslands",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "LODT-EN054",
             "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP054",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP144",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -73,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

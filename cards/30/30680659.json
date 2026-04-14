@@ -1,12 +1,14 @@
 {
     "cid": "96357f49-d384-460b-9e85-281da4c0bef9",
-    "yid": null,
+    "yid": 30680659,
     "password": "30680659",
     "kid": 16749,
     "name": "Water Enchantress of the Temple",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殿</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>みず</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遣</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Seiden no Mizutsukai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -67,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP026",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "ULSP-JP003",
+            "set": "Ultimate Special Pack",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +130,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

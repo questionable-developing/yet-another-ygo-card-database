@@ -1,11 +1,14 @@
 {
     "cid": "465ac5bb-cd93-46bd-a586-404f7d02312b",
+    "yid": 37582948,
     "password": "37582948",
     "kid": 16251,
     "name": "Live☆Twin Sunny's Snitch",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｌｉｖｅ☆Ｔｗｉｎ</rb><rp> (</rp><rt>ライブツイン</rt><rp>)</rp></ruby> トラブルサン",
     "name_jp_rom": "Raibu Tsuin Toraburusan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Live☆Twin Trouble-Sun",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP062",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DAMA-JP062",
+            "set": "Dawn of Majesty +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP085",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB15",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +121,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

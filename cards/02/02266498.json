@@ -1,12 +1,14 @@
 {
     "cid": "78dfedff-c020-48f6-9d30-4ebc8f17db6c",
-    "yid": null,
+    "yid": 2266498,
     "password": "02266498",
     "kid": 13365,
     "name": "Vendread Reunion",
     "name_jp": "ヴェンデット・リユニオン",
     "name_jp_rom": "Vendetto Riyunion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vendead Reunion",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP18-JP017",
+            "set": "Extra Pack 2018",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,13 +72,13 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Tributes as an effect"
         ],
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons face-down",
             "Performs a Ritual Summon",
             "Special Summons from your hand"
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

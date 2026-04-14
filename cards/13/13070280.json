@@ -1,12 +1,14 @@
 {
     "cid": "79a3fe4d-91f9-4c2c-bbd7-fbef5ac3f1a4",
-    "yid": null,
+    "yid": 13070280,
     "password": "13070280",
     "kid": 19420,
     "name": "Play of the Tistina",
     "name_jp": "ティスティナの<ruby lang=\"jp\"><rb>戯</rb><rp> (</rp><rt>たわむ</rt><rp>)</rp></ruby>れ",
     "name_jp_rom": "Tisutina no Tawamure",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "AGOV-EN090",
             "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP023",
+            "set": "World Premiere Pack 2024",
             "rarities": {
                 "Common": []
             }
@@ -75,5 +86,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "300d8aa5-456b-4b43-91d9-cb72458766db",
-    "yid": null,
+    "yid": 29189613,
     "password": "29189613",
     "kid": 14686,
     "name": "Aroma Gardening",
     "name_jp": "アロマガーデニング",
     "name_jp_rom": "Aroma Gādeningu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CHIM-EN059",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP059",
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

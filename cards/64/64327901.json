@@ -1,11 +1,14 @@
 {
     "cid": "9e44305c-2b1d-4c81-8cd9-461fe05dcf8a",
+    "yid": 64327901,
     "password": "64327901",
     "kid": 19515,
     "name": "Goblin Biker Grand Bash",
     "name_jp": "<ruby lang=\"jp\"><rb>百鬼羅刹</rb><rp> (</rp><rt>ゴブリンライダー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>集</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>会</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Raidā Daishūkai",
+    "name_jp_rom_base": "Hyakkirasetsu Daishūkai",
     "name_jp_tl": "Goblin Rider Grand Meeting",
+    "name_jp_tl_base": "Hundred Demons Grand Meeting",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +46,15 @@
         {
             "sid": "MP25-EN319",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP060",
+            "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +99,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

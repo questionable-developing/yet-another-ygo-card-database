@@ -1,11 +1,14 @@
 {
     "cid": "b90ae3da-140e-40d5-bf62-d4d049b880db",
+    "yid": 52068432,
     "password": "52068432",
     "kid": 11485,
     "name": "Nekroz of Trishula",
     "name_jp": "トリシューラの<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Torishūra no Nekurosu",
+    "name_jp_rom_base": "Torishūra no Eireii",
     "name_jp_tl": "Necroth of Trishula",
+    "name_jp_tl_base": "Shadow Spirit Cloth of Trishula",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -72,6 +75,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP015",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLT1-JP016",
+            "set": "Selection 10",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW02-JP083",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +148,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

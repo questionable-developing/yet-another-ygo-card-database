@@ -1,11 +1,14 @@
 {
     "cid": "33880b8f-d877-4041-8c44-f5cbb9b09cb1",
+    "yid": 40398073,
     "password": "40398073",
     "kid": 14757,
     "name": "Nurse Dragonmaid",
     "name_jp": "ドラゴンメイド・ナサリー",
     "name_jp_rom": "Doragonmeido Nasarī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Nusery",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -69,6 +72,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP014",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP056",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP003",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +138,6 @@
             "At the start of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b331b26c-0fd5-4eb2-876f-9ca7f85d598c",
-    "yid": null,
+    "yid": 29975188,
     "password": "29975188",
     "kid": 13722,
     "name": "Cyber Dragon Vier",
     "name_jp": "サイバー・ドラゴン・フィーア",
     "name_jp_rom": "Saibā Doragon Fīa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP014",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD41-JP006",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

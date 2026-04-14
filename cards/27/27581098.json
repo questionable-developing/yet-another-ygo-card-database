@@ -1,12 +1,14 @@
 {
     "cid": "ade1c666-edfe-4308-afb0-5b5982975fc7",
-    "yid": null,
+    "yid": 27581098,
     "password": "27581098",
     "kid": 6522,
     "name": "Non-Fusion Area",
     "name_jp": "<ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禁</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>止</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>エリア",
     "name_jp_rom": "Yūgō Kinshi Eria",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP059",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP119",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0ea1eb9d-1de4-41b9-bcf2-5102c1d06d26",
+    "yid": 70427670,
     "password": "70427670",
     "kid": 17130,
     "name": "Predaplant Bufolicula",
     "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>ブフォリキュラ",
     "name_jp_rom": "Puredetā Purantsu Buforikyura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Plants Bufollicula",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP018",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS13",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -81,8 +100,8 @@
             "Uses cards on the player's field as Fusion Materials",
             "Uses cards in the hand as Fusion Materials",
             "Activates if used as Fusion Material",
-            "Activates from your Graveyard",
-            "Activates from your Extra Deck",
+            "Activates if sent to the Graveyard",
+            "Activates if added to the Extra Deck",
             "Adds from Extra Deck to hand"
         ],
         "stat_change": [],
@@ -99,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

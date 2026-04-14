@@ -1,11 +1,14 @@
 {
     "cid": "90d36b28-2472-4dc5-83be-24eba2454a2b",
+    "yid": 48017189,
     "password": "48017189",
     "kid": 19487,
     "name": "EM:P Meowmine",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ</rb><rp> (</rp><rt>イー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｍ</rb><rp> (</rp><rt>エム</rt><rp>)</rp></ruby>：<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ピー</rt><rp>)</rp></ruby>グレニャード",
     "name_jp_rom": "Ī Emu:Pī Gurenyādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "EM:P Gremeowde",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "EMPMeowmine-TT01-JP-C.png",
+            "full": "EMPMeowmine-LOCH-JP-SR.png",
             "art": "EMPMeowmine-MADU-JP-VG-artwork.png"
         },
         "1.1": {
@@ -53,6 +56,32 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP032",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB10",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCH-JP049",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
             }
         }
     ],
@@ -100,5 +129,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

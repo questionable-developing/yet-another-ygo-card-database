@@ -1,11 +1,14 @@
 {
     "cid": "299263f0-419d-4338-a3e4-7a2273ec0385",
+    "yid": 99745551,
     "password": "99745551",
     "kid": 14070,
     "name": "Danger!? Tsuchinoko?",
     "name_jp": "<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>のツチノコ",
     "name_jp_rom": "Mikaiiki no Tsuchinoko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tsuchinoko of the Lands Unknown",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -70,6 +73,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP028",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR13-JP019",
+            "set": "Structure Deck R: Devil's Gate",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

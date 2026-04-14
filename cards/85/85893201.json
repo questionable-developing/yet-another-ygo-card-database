@@ -1,11 +1,14 @@
 {
     "cid": "b8c49bf1-acbb-4106-b501-3d1f4ac69b8c",
+    "yid": 85893201,
     "password": "85893201",
     "kid": 10808,
     "name": "Chain Ignition",
     "name_jp": "<ruby lang=\"jp\"><rb>連鎖誘爆</rb><rp> (</rp><rt>チェーン・イグニッション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chēn Igunisshon",
+    "name_jp_rom_base": "Rensa Yūbaku",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Chain Induced Explosion",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SHSP-EN077",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP077",
             "set": "Shadow Specters",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

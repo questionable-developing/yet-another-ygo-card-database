@@ -1,11 +1,14 @@
 {
     "cid": "1c087a56-39a1-421b-b2f4-d71f491fc365",
+    "yid": 92266279,
     "password": "92266279",
     "kid": 11858,
     "name": "Humid Winds",
     "name_jp": "<ruby lang=\"jp\"><rb>潤</rb><rp> (</rp><rt>うるお</rt><rp>)</rp></ruby>いの<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Uruoi no Kaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -59,6 +62,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP074",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP1-JP080",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP167",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

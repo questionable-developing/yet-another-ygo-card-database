@@ -1,11 +1,14 @@
 {
     "cid": "dcd377e2-0c70-4e7f-b1ae-4bf8039e3657",
+    "yid": 78868776,
     "password": "78868776",
     "kid": 7286,
     "name": "Gladiator Beast Laquari",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ラクエル",
     "name_jp_rom": "Guradiaru Bīsuto Rakueru",
+    "name_jp_rom_base": "Kentōjū Rakueru",
     "name_jp_tl": "Gladial Beast Laquer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -78,6 +81,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP021",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP038",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +138,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

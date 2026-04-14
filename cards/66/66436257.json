@@ -1,11 +1,14 @@
 {
     "cid": "1ad91e7c-aff9-4c8a-b37d-507fe949651b",
+    "yid": 66436257,
     "password": "66436257",
     "kid": 7415,
     "name": "Volcanic Counter",
     "name_jp": "ヴォルカニック・カウンター",
     "name_jp_rom": "Vorukanikku Kauntā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP012",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DT10-JP010",
+            "set": "Duel Terminal - Raid of the Inverz!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP072",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD24-JP014",
+            "set": "Structure Deck: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +120,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

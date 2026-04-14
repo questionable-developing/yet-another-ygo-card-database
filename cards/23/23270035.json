@@ -1,12 +1,14 @@
 {
     "cid": "7bd1789b-7cf5-4d60-b652-41764d40d9b3",
-    "yid": null,
+    "yid": 23270035,
     "password": "23270035",
     "kid": 16266,
     "name": "Monster Assortment",
     "name_jp": "モンスターアソート",
     "name_jp_rom": "Monsutā Asōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Monster Assort",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP077",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

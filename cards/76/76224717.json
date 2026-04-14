@@ -1,11 +1,14 @@
 {
     "cid": "28534200-6585-442d-8f23-e8d0dee35953",
+    "yid": 76224717,
     "password": "76224717",
     "kid": 10319,
     "name": "Advance Zone",
     "name_jp": "アドバンス・ゾーン",
     "name_jp_rom": "Adobansu Zōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP019",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

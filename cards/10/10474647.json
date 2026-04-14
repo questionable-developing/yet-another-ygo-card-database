@@ -1,12 +1,14 @@
 {
     "cid": "b813e949-45ea-43f6-a174-777e47ed0f49",
-    "yid": null,
+    "yid": 10474647,
     "password": "10474647",
     "kid": 20210,
     "name": "Depresspard",
     "name_jp": "<ruby lang=\"jp\"><rb>五月豹</rb><rp> (</rp><rt>ゴガツビョウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gogatsubyou",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP031",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Requires specific LP"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e3987a46-7e35-449d-8341-223a5afac443",
+    "yid": 69042950,
     "password": "69042950",
     "kid": 9667,
     "name": "Crashbug Road",
     "name_jp": "バグ・ロード",
     "name_jp_rom": "Bagu Rōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bug Road",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GENF-EN050",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP050",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

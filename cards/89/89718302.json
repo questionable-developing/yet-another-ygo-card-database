@@ -1,11 +1,14 @@
 {
     "cid": "689f8fc1-cf45-45ea-a57d-948bed6fbc01",
+    "yid": 89718302,
     "password": "89718302",
     "kid": 6255,
     "name": "Abare Ushioni",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>あば</rt><rp>)</rp></ruby>れ<ruby lang=\"jp\"><rb>牛</rb><rp> (</rp><rt>うし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>おに</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Abare Ushioni",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raging Cattle Demon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP026",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP146",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
             "Coin toss",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

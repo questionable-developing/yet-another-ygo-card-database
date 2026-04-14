@@ -1,12 +1,14 @@
 {
     "cid": "0453acbd-2b32-4be7-959a-f282a558f2d8",
-    "yid": null,
+    "yid": 35112613,
     "password": "35112613",
     "kid": 10336,
     "name": "Kuriphoton",
     "name_jp": "クリフォトン",
     "name_jp_rom": "Kurifoton",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP13-JP014",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP043",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

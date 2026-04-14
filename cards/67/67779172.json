@@ -1,11 +1,14 @@
 {
     "cid": "ce7ea194-e0f3-479c-aa4d-cb09f05fda24",
+    "yid": 67779172,
     "password": "67779172",
     "kid": 8820,
     "name": "Black-Winged Strafe",
     "name_jp": "ブラックフェザー・シュート",
     "name_jp_rom": "Burakkufezā Shūto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black-Feather Shoot",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP045",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP11-JP019",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

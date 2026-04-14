@@ -1,11 +1,14 @@
 {
     "cid": "0ac50ae0-5360-4164-bbcd-6160ee2e41de",
+    "yid": 58990631,
     "password": "58990631",
     "kid": 8226,
     "name": "Automatic Laser",
     "name_jp": "オートマチック・レーザー",
     "name_jp_rom": "Ōtomachikku Rēzā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RGBT-EN074",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP074",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

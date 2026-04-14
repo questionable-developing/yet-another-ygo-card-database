@@ -1,11 +1,14 @@
 {
     "cid": "357ad67b-4a26-4ffd-99b0-7540c8d0b2c6",
+    "yid": 99523325,
     "password": "99523325",
     "kid": 8667,
     "name": "Gravekeeper's Stele",
     "name_jp": "<ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>はか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>版</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakamori no Sekiban",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gravekeeper's Lithograph",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP056",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP116",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +113,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

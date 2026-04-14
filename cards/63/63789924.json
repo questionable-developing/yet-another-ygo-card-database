@@ -1,11 +1,14 @@
 {
     "cid": "04b55add-2323-4340-b8db-b5ae9dc8eec9",
+    "yid": 63789924,
     "password": "63789924",
     "kid": 5389,
     "name": "Smoke Grenade of the Thief",
     "name_jp": "<ruby lang=\"jp\"><rb>盗人</rb><rp> (</rp><rt>ぬすっと</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>煙</rb><rp> (</rp><rt>けむり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>玉</rb><rp> (</rp><rt>だま</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nusutto no Kemuridama",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MA-32",
+            "set": "Mythological Age",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL5-071",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP189",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP155",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "7adc2bed-fb75-4133-a51a-e088d3617a06",
-    "yid": null,
+    "yid": 10530913,
     "password": "10530913",
     "kid": 11050,
     "name": "Sylvan Sagequoia",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>樹</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby> シャーマン",
     "name_jp_rom": "Shinra no Kenju Shāman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sherman, Wise Tree of Shinra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP021",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +113,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

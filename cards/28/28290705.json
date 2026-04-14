@@ -1,12 +1,14 @@
 {
     "cid": "43c56422-bde7-4fb1-9a2e-efdf58f94d72",
-    "yid": null,
+    "yid": 28290705,
     "password": "28290705",
     "kid": 10179,
     "name": "Fairy King Albverdich",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby> アルヴェルド",
     "name_jp_rom": "Yōseiō Aruverudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fairy King Alverd",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "REDU-EN049",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP049",
             "set": "Return of the Duelist",
             "rarities": {
                 "Rare": []
@@ -84,5 +95,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

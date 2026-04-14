@@ -1,11 +1,14 @@
 {
     "cid": "8d923d75-a5e2-4ced-9ffe-7a74dff7714f",
+    "yid": 79072916,
     "password": "79072916",
     "kid": 15777,
     "name": "Myutant Blast",
     "name_jp": "ミュートリア<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>射</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>作</rb><rp> (</rp><rt>さ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>用</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Myūtoria Hanshasayō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Myutria Reflex Action",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "PHRA-EN094",
             "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP2-JP024",
+            "set": "World Premiere Pack 2021",
             "rarities": {
                 "Common": []
             }
@@ -80,5 +92,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

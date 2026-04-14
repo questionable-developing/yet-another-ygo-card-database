@@ -1,11 +1,14 @@
 {
     "cid": "15f82e50-d1df-49fe-88df-fa0555c98895",
+    "yid": 86767655,
     "password": "86767655",
     "kid": 11375,
     "name": "Ms. Judge",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｍｓ．ＪＵＤＧＥ</rb><rp> (</rp><rt>ミズ・ジャッジ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mizu Jadji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP043",
+            "set": "The New Challengers",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
             "Coin toss",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

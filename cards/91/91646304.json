@@ -1,11 +1,14 @@
 {
     "cid": "ad0546ae-dff1-46dc-8cdc-a4a358786293",
+    "yid": 91646304,
     "password": "91646304",
     "kid": 13727,
     "name": "Crusadia Arboria",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>樹</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby>のパラディオン",
     "name_jp_rom": "Shinju no Paradion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Divine Tree Palladion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -56,6 +59,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP007",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

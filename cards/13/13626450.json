@@ -1,12 +1,14 @@
 {
     "cid": "873d13dc-6304-4627-99fb-2d24cac53e83",
-    "yid": null,
+    "yid": 13626450,
     "password": "13626450",
     "kid": 6216,
     "name": "Malice Dispersion",
     "name_jp": "<ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>退</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>散</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jaki Taisan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP048",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP108",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

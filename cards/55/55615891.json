@@ -1,11 +1,14 @@
 {
     "cid": "d7d72099-d6e6-440b-b31d-b9a1fb9f68e8",
+    "yid": 55615891,
     "password": "55615891",
     "kid": 6643,
     "name": "Elemental HERO Wild Wingman",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ワイルド・ウィングマン",
     "name_jp_rom": "Erementaru Hīrō Wairudo Winguman",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ElementalHEROWildWingman-EE04-JP-R.jpg",
+            "art": "ElementalHEROWildWingman-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ElementalHEROWildWingman-SGX2-EN-C-1E.png",
-            "art": null
+            "art": "ElementalHEROWildWingman-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "EOJ-EN035",
@@ -63,6 +71,30 @@
             "set": "Speed Duel GX: Midterm Paradox",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP035",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP03-JP011",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP215",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -109,5 +141,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

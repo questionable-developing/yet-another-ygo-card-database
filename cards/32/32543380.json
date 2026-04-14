@@ -1,12 +1,14 @@
 {
     "cid": "2995f3b3-f4d9-4a86-968a-a9960c94258c",
-    "yid": null,
+    "yid": 32543380,
     "password": "32543380",
     "kid": 7085,
     "name": "Volcanic Doomfire",
     "name_jp": "ヴォルカニック・デビル",
     "name_jp_rom": "Vorukanikku Debiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Volcanic Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -67,6 +69,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP008",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "MC03-JP004",
+            "set": "Master Collection Volume 3",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP118",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP029",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +146,6 @@
             "Cover card",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

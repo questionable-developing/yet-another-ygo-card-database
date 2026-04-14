@@ -1,12 +1,14 @@
 {
     "cid": "e1ddc518-9197-4215-9e28-1003e1494b31",
-    "yid": null,
+    "yid": 3560069,
     "password": "03560069",
     "kid": 13869,
     "name": "Latency",
     "name_jp": "レイテンシ",
     "name_jp_rom": "Reitenshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD34-JP001",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

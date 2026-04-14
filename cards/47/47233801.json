@@ -1,11 +1,14 @@
 {
     "cid": "697418fb-dbcc-4784-87fe-db546e9548e4",
+    "yid": 47233801,
     "password": "47233801",
     "kid": 5536,
     "name": "Dark Snake Syndrome",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛇</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>病</rb><rp> (</rp><rt>びょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kokujabyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Snake Syndrome",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "301-035",
+            "set": "The New Ruler",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP035",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

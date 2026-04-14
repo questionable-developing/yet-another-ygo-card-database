@@ -1,11 +1,14 @@
 {
     "cid": "28ab068e-0529-4800-bf9c-4af1ccd5d90e",
+    "yid": 62038047,
     "password": "62038047",
     "kid": 12140,
     "name": "Shiranui Smith",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>鍛師</rb><rp> (</rp><rt>かなち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui no Kanachi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP16-EN200",
             "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP032",
+            "set": "Breakers of Shadow",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

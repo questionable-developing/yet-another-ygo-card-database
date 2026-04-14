@@ -1,11 +1,14 @@
 {
     "cid": "98bb60b0-b975-4823-a262-95ff389a7001",
+    "yid": 99429730,
     "password": "99429730",
     "kid": 10905,
     "name": "Sylvan Guardioak",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>番</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby> オーク",
     "name_jp_rom": "Shinra no Bannin Ōku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Oark, Watchman of Shinra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP019",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

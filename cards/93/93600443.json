@@ -1,11 +1,14 @@
 {
     "cid": "0501f11b-a739-401f-8f0c-87909ada80af",
+    "yid": 93600443,
     "password": "93600443",
     "kid": 9271,
     "name": "Mask Change II",
     "name_jp": "マスク・チェンジ・セカンド",
     "name_jp_rom": "Masuku Chenji Sekando",
-    "name_jp_tl": null,
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Mask Change Second",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD27-JP018",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCH-JP068",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

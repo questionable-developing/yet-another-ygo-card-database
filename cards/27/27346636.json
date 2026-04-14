@@ -1,12 +1,14 @@
 {
     "cid": "203dcd77-77c3-4a14-8c98-255d484d8bc0",
-    "yid": null,
+    "yid": 27346636,
     "password": "27346636",
     "kid": 7303,
     "name": "Gladiator Beast Heraklinos",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ヘラクレイノス",
     "name_jp_rom": "Guradiaru Bīsuto Herakureinosu",
+    "name_jp_rom_base": "Kentōjū Herakureinosu",
     "name_jp_tl": "Gladial Beast Herakleinos",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -73,6 +75,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP044",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP050",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +140,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

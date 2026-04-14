@@ -1,11 +1,14 @@
 {
     "cid": "553c2405-9862-4400-a68e-71bd14440581",
+    "yid": 54529134,
     "password": "54529134",
     "kid": 14679,
     "name": "Salamangreat Transcendence",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣の超転生</rb><rp> (</rp><rt>サラマングレイト・トランセンド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saramangureito Toransendo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Salamangreat Transcend",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP052",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP015",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

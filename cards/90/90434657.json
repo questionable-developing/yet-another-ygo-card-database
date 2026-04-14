@@ -1,11 +1,14 @@
 {
     "cid": "964da2d9-d7d8-443e-9666-9b8d8544de2b",
+    "yid": 90434657,
     "password": "90434657",
     "kid": 10962,
     "name": "Imperial Tombs of Necrovalley",
     "name_jp": "ネクロバレーの<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>ぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nekurobarē no Ōbo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Royal Tomb of Necrovalley",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP076",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

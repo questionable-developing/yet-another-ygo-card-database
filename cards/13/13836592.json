@@ -1,12 +1,14 @@
 {
     "cid": "df06e9ec-f3fd-4120-97af-f4928e9cc8e3",
-    "yid": null,
+    "yid": 13836592,
     "password": "13836592",
     "kid": 18811,
     "name": "Behemoth the King of a Hundred Battles",
     "name_jp": "<ruby lang=\"jp\"><rb>百戦王</rb><rp> (</rp><rt>ウォー・キング</rt><rp>)</rp></ruby> ベヒーモス",
     "name_jp_rom": "Wō Kingu Behīmosu",
+    "name_jp_rom_base": "Hyakusen'ō Behīmosu",
     "name_jp_tl": "War King Behemoth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP024",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +111,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

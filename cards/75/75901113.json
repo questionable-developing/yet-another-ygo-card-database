@@ -1,11 +1,14 @@
 {
     "cid": "ed765afc-ade1-48b9-85d0-69da96359f82",
+    "yid": 75901113,
     "password": "75901113",
     "kid": 15728,
     "name": "Knight of Armor Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>鎧竜の聖騎士</rb><rp> (</rp><rt>ナイト・オブ・アーマードラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naito Obu Āmā Doragon",
+    "name_jp_rom_base": "Gairyū no Seikishi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Holy Knight of Armor Dragon",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "BLVO-EN037",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP037",
             "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

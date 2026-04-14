@@ -1,11 +1,14 @@
 {
     "cid": "9806fde8-1530-47c1-ac3a-6eefa3d2e738",
+    "yid": 54031490,
     "password": "54031490",
     "kid": 9339,
     "name": "Shien's Smoke Signal",
     "name_jp": "<ruby lang=\"jp\"><rb>紫</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>エン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>狼煙</rb><rp> (</rp><rt>のろし</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shien no Noroshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "ShiensSmokeSignal-SPWA-EN-SR-1E.png",
+            "full": "ShiensSmokeSignal-OP26-EN-C-UE.png",
             "art": null
         }
     },
@@ -61,6 +64,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP048",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBSW-JP015",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

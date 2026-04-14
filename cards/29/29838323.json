@@ -1,12 +1,14 @@
 {
     "cid": "b0b3023b-1116-4988-b951-8ed5461080fe",
-    "yid": null,
+    "yid": 29838323,
     "password": "29838323",
     "kid": 12609,
     "name": "Crystron Thystvern",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－シストバーン",
     "name_jp_rom": "Kurisutoron - Shisutobān",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -46,6 +48,22 @@
         {
             "sid": "MP17-EN139",
             "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP019",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP1-JP094",
+            "set": "LINK VRAINS Pack",
             "rarities": {
                 "Common": []
             }
@@ -99,5 +117,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "684df6c6-ba6e-4be0-b2a6-337fb8eb4510",
-    "yid": null,
+    "yid": 10547580,
     "password": "10547580",
     "kid": 14933,
     "name": "Ancient Gear Ballista",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械弩士</rb><rp> (</rp><rt>アンティーク・ギア・バリスティックシューター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Barisutikku Shūtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Ballistic Shooter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -61,6 +63,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP3-JP016",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP120",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

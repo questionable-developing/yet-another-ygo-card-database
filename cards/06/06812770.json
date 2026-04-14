@@ -1,12 +1,14 @@
 {
     "cid": "f8d11166-e2c9-4c9a-b0f6-712db43aca6d",
-    "yid": null,
+    "yid": 6812770,
     "password": "06812770",
     "kid": 20408,
     "name": "Performage Cup Tricker",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>カップ・トリッカー",
     "name_jp_rom": "Entameiji Kappu Torikkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermage Cup Tricker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -45,6 +47,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP021",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Trigger-like, Condition"
@@ -71,6 +83,7 @@
         "counter": [],
         "action": [
             "Attaches itself from your Pendulum Zone as Xyz Material",
+            "Activates if added to the Extra Deck",
             "Adds from Extra Deck to hand",
             "Activates from your hand",
             "Detaches Xyz Materials for effect",
@@ -95,5 +108,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

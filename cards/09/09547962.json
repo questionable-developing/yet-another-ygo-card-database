@@ -1,12 +1,14 @@
 {
     "cid": "9bfd3ea4-f8b5-4eb8-a318-1732b6316e08",
-    "yid": null,
+    "yid": 9547962,
     "password": "09547962",
     "kid": 13426,
     "name": "Euler's Circuit",
     "name_jp": "オイラーサーキット",
     "name_jp_rom": "Oirā Sākitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Euler Circuit",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "EXFO-EN055",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP055",
             "set": "Extreme Force",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "78923eec-3896-410e-a9cc-ae11f0553b13",
+    "yid": 56198785,
     "password": "56198785",
     "kid": 15071,
     "name": "Guard Ghost",
     "name_jp": "<ruby lang=\"jp\"><rb>背</rb><rp> (</rp><rt>はい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衛</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Haigoei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "IGAS-EN081",
             "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP059",
+            "set": "World Premiere Pack 2020",
             "rarities": {
                 "Common": []
             }
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "af550535-3d99-4025-b33b-b1ee8bebf902",
+    "yid": 53829412,
     "password": "53829412",
     "kid": 4052,
     "name": "Griffore",
     "name_jp": "グリフォール",
     "name_jp_rom": "Gurifōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.6",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPA13",
+            "set": "Memories of the Duel King: Duelist Kingdom Arc",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -52,7 +71,9 @@
         "arc": [],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Ritual of Light and Darkness (series)"
+        ],
         "counter": [],
         "action": [],
         "stat_change": [],
@@ -64,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

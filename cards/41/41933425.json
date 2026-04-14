@@ -1,11 +1,14 @@
 {
     "cid": "476e9f37-31e9-47fe-9d1d-5cdf721f645b",
+    "yid": 41933425,
     "password": "41933425",
     "kid": 13976,
     "name": "Contact Gate",
     "name_jp": "コンタクト・ゲート",
     "name_jp_rom": "Kontakuto Gēto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP058",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,7 +93,7 @@
             "Special Summons from your Deck",
             "Special Summons from your Graveyard",
             "Restricts the player's Special Summons from the Extra Deck",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -94,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

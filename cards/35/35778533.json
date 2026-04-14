@@ -1,12 +1,14 @@
 {
     "cid": "5bf3e52f-b9bd-45a1-98a1-47cf88db4442",
-    "yid": null,
+    "yid": 35778533,
     "password": "35778533",
     "kid": 20238,
     "name": "Beware the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>にはいるべからず",
     "name_jp_rom": "Shiroki Mori ni Hairu Bekarazu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Do Not Enter the White Forest",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +47,15 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP059",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -87,5 +98,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "684d3296-1786-4707-8c3c-2e98e032d7be",
-    "yid": null,
+    "yid": 2547033,
     "password": "02547033",
     "kid": 14318,
     "name": "Altergeist Haunted Rock",
     "name_jp": "オルターガイスト・ホーンデッドロック",
     "name_jp_rom": "Orutāgaisuto Hōndeddorokku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Altergeist Haundeadlock",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN068",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP068",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

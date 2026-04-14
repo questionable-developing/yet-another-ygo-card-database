@@ -1,11 +1,14 @@
 {
     "cid": "7def85c2-33ec-49eb-8aa8-cabce81c6e5c",
+    "yid": 58924378,
     "password": "58924378",
     "kid": 9127,
     "name": "Wattcastle",
     "name_jp": "エレキャッスル",
     "name_jp_rom": "Erekyassuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecastle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP050",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

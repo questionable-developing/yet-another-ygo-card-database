@@ -1,11 +1,14 @@
 {
     "cid": "021311aa-cd14-4652-a3cc-f7b52f78850b",
+    "yid": 46033517,
     "password": "46033517",
     "kid": 16514,
     "name": "Machina Ruinforce",
     "name_jp": "マシンナーズ・ルインフォース",
     "name_jp_rom": "Mashinnāzu Ruinfōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machiners Ruinforce",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP028",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BODE-JP028",
+            "set": "Burst of Destiny +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +107,7 @@
             "Cannot be Normal Set",
             "Nomi",
             "Special Summons itself from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -100,5 +123,6 @@
             "Only once per turn",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2489190b-7219-4bfb-88b5-d3cf3ded5744",
+    "yid": 86466163,
     "password": "86466163",
     "kid": 11544,
     "name": "Satellarknight Capella",
     "name_jp": "<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby> カペラ",
     "name_jp_rom": "Sateranaito Kapera",
+    "name_jp_rom_base": "Sei'inshi Kapera",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP024",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

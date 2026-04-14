@@ -1,11 +1,14 @@
 {
     "cid": "1de421df-4879-4ecf-8994-48039f59b9fa",
+    "yid": 94599451,
     "password": "94599451",
     "kid": 13778,
     "name": "Mythical Institution",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導研究所</rb><rp> (</rp><rt>マジック・ラボ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majikku Rabo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Lab",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MythicalInstitution-MP19-EN-C-1E.png",
+            "full": "MythicalInstitution-CYHO-JP-C.png",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "MythicalInstitution-MP19-EN-C-1E.png",
+            "art": "MythicalInstitution-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CYHO-EN062",
@@ -42,6 +50,15 @@
         {
             "sid": "MP19-EN120",
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP062",
+            "set": "Cybernetic Horizon",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +105,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

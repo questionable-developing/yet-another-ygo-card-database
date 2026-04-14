@@ -1,12 +1,14 @@
 {
     "cid": "2142852a-3410-41de-b205-fa9e4c6b6140",
-    "yid": null,
+    "yid": 21984400,
     "password": "21984400",
     "kid": 13779,
     "name": "Beast Magic Attack",
     "name_jp": "<ruby lang=\"jp\"><rb>獣・魔・導</rb><rp> (</rp><rt>ビースト・マジック</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bīsuto Majikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beast Magic",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP19-EN121",
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP063",
+            "set": "Cybernetic Horizon",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +97,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

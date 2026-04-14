@@ -1,11 +1,14 @@
 {
     "cid": "3b506fab-1ece-45e4-8741-f374c0fd9cab",
+    "yid": 74730899,
     "password": "74730899",
     "kid": 8811,
     "name": "Batteryman Fuel Cell",
     "name_jp": "<ruby lang=\"jp\"><rb>燃</rb><rp> (</rp><rt>ねん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>料</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>池</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>メン",
     "name_jp_rom": "Nenryō Denchimen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fuel Batteryman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,17 +32,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BatterymanFuelCell-DE04-JP-C.png",
+            "art": "BatterymanFuelCell-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BatterymanFuelCell-TSHD-EN-R-1E.png",
-            "art": null
+            "art": "BatterymanFuelCell-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TSHD-EN035",
             "set": "The Shining Darkness",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP035",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP139",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -77,5 +101,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

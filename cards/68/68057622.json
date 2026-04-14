@@ -1,11 +1,14 @@
 {
     "cid": "b7a46de2-2b07-465a-a602-6235bdca3fcd",
+    "yid": 68057622,
     "password": "68057622",
     "kid": 5678,
     "name": "Continuous Destruction Punch",
     "name_jp": "カウンターマシンガンパンチ",
     "name_jp_rom": "Kauntā Mashingan Panchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Counter Machine Gun Punch",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "303-031",
+            "set": "Champion of Black Magic",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP140",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

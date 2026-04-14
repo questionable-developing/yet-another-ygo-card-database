@@ -1,11 +1,14 @@
 {
     "cid": "a13a1a5d-d7a1-4e65-a3fd-b7f3c5f05cc7",
+    "yid": 71696014,
     "password": "71696014",
     "kid": 12417,
     "name": "Magician's Robe",
     "name_jp": "マジシャンズ・ローブ",
     "name_jp_rom": "Majishanzu Rōbu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -78,6 +81,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP018",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +128,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

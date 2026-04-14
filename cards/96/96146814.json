@@ -1,11 +1,14 @@
 {
     "cid": "a10ba40e-157e-44c5-9654-a015e11d7ae0",
+    "yid": 96146814,
     "password": "96146814",
     "kid": 8936,
     "name": "A/D Changer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>エー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>チェンジャー",
     "name_jp_rom": "Ē Dī Chenjā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "AD Changer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP005",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP10-JP010",
+            "set": "Duelist Pack: Yusei 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL36",
+            "set": "Duelist Set: Version Lightsworn Judgment Enhancement Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

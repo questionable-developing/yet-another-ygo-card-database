@@ -1,12 +1,14 @@
 {
     "cid": "4724d5b7-9034-42f4-9907-8593b480dd5c",
-    "yid": null,
+    "yid": 8396952,
     "password": "08396952",
     "kid": 7582,
     "name": "Arcana Force I - The Magician",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>Ⅰ</rb><rp> (</rp><rt>ワン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＭＡＧＩＣＩＡＮ</rb><rp> (</rp><rt>ザ・マジシャン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Wan - Za Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "LODT-EN009",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP009",
             "set": "Light of Destruction",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

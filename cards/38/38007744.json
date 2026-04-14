@@ -1,11 +1,14 @@
 {
     "cid": "8e6b453f-f3f4-4f29-8615-e7bc23706233",
+    "yid": 38007744,
     "password": "38007744",
     "kid": 10894,
     "name": "Chronomaly Moai Carrier",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>モアイキャリア",
     "name_jp_rom": "Ōpātsu Moai Kyaria",
+    "name_jp_rom_base": "Senshi Isan Moai Kyaria",
     "name_jp_tl": "OOPArts Moai Carrier",
+    "name_jp_tl_base": "Prehistoric Heritage Moai Carrier",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP008",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "misc": [
             "Requires control of no cards"
         ]
-    }
+    },
+    "links": {}
 }

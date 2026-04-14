@@ -1,11 +1,14 @@
 {
     "cid": "dbfb03ac-756e-4508-95fd-fcb94bf8de17",
+    "yid": 49513164,
     "password": "49513164",
     "kid": 12845,
     "name": "Invoked Raidjin",
     "name_jp": "<ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>ライディーン",
     "name_jp_rom": "Shōkanjū Raidīn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Invoked Beast Raideen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPFE-JP028",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP098",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SLF1-JP023",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +117,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

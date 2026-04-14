@@ -1,12 +1,14 @@
 {
     "cid": "9b275fef-16ac-4c50-84c7-2c304cdf2f5f",
-    "yid": null,
+    "yid": 5177985,
     "password": "05177985",
     "kid": 14095,
     "name": "Shiranui Swordmaster",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>いくさ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>範</rb><rp> (</rp><rt>のり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui no Ikusanori",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shiranui Teacher",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "SAST-EN018",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP018",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

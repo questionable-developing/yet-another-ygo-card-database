@@ -1,11 +1,14 @@
 {
     "cid": "b2841b2f-7c1a-4cfb-97ed-24220b6ee54c",
+    "yid": 90444325,
     "password": "90444325",
     "kid": 14845,
     "name": "Megalith Hagith",
     "name_jp": "メガリス・ハギト",
     "name_jp_rom": "Megarisu Hagito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "IGAS-EN036",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP036",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "60495e41-d110-4c07-9f4c-93c58a8631c7",
+    "yid": 54261514,
     "password": "54261514",
     "kid": 20540,
     "name": "Final Bringer of the End Times",
     "name_jp": "<ruby lang=\"jp\"><rb>超獸の咆哮</rb><rp> (</rp><rt>デカネローグ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dekanerōgu",
+    "name_jp_rom_base": "Chōjū no Hōkō",
     "name_jp_tl": "Decanelogue",
+    "name_jp_tl_base": "Bellow of the Super Beast",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP064",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

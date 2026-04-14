@@ -1,11 +1,14 @@
 {
     "cid": "ee72caa2-9034-4a81-925a-88af1f6052b5",
+    "yid": 42516299,
     "password": "42516299",
     "kid": 19201,
     "name": "Fire Recovery",
     "name_jp": "ファイヤー・バック",
     "name_jp_rom": "Faiyā Bakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fire Back",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP059",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

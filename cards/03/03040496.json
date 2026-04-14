@@ -1,12 +1,14 @@
 {
     "cid": "9e5cd878-b9ab-4294-9e34-7247616fc7ca",
-    "yid": null,
+    "yid": 3040496,
     "password": "03040496",
     "kid": 15277,
     "name": "Chaos Ruler, the Chaotic Magical Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>混</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>沌</rb><rp> (</rp><rt>とん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> カオス・ルーラー",
     "name_jp_rom": "Kontonmaryū Kaosu Rūrā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP043",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "ROTD-JP043",
+            "set": "Rise of the Duelist +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JPS02",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +134,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

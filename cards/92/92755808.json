@@ -1,11 +1,14 @@
 {
     "cid": "c894e057-3835-4c23-aa54-2eb3a0397fc9",
+    "yid": 92755808,
     "password": "92755808",
     "kid": 6183,
     "name": "Element Saurus",
     "name_jp": "エレメント・ザウルス",
     "name_jp_rom": "Eremento Zaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP014",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RDS-JP014",
+            "set": "Rise of Destiny: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP074",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +120,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

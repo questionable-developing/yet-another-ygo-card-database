@@ -1,11 +1,14 @@
 {
     "cid": "ddd2f921-d0a7-431d-bdd1-bf986dd290d8",
+    "yid": 95515058,
     "password": "95515058",
     "kid": 14293,
     "name": "Gouki The Blade Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ザ・ブレード・オーガ",
     "name_jp_rom": "Gōki Za Burēdo Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - The Blade Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -42,6 +45,15 @@
     "sets": [
         {
             "sid": "DANE-EN043",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP043",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

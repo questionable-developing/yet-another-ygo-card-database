@@ -1,11 +1,14 @@
 {
     "cid": "0fea467e-5d35-469a-9eab-985368a97962",
+    "yid": 39531794,
     "password": "39531794",
     "kid": 9543,
     "name": "Brain Hazard",
     "name_jp": "ブレインハザード",
     "name_jp_rom": "Burein Hazādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP072",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AT16-JP009",
+            "set": "Advanced Tournament Pack 2016 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,7 +81,7 @@
             "Destroys itself"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -70,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "34a5caa3-bf62-4885-b5bf-0bf5e8fb6d8e",
+    "yid": 85066822,
     "password": "85066822",
     "kid": 6481,
     "name": "Water Dragon",
     "name_jp": "ウォーター・ドラゴン",
     "name_jp_rom": "Wōtā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -59,6 +62,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP015",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP075",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP18-JP042",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LPG1-JP039",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +140,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

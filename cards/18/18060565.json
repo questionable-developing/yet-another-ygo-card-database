@@ -1,12 +1,14 @@
 {
     "cid": "57da3cf4-dedf-47c3-b1d7-b96681ab6d26",
-    "yid": null,
+    "yid": 18060565,
     "password": "18060565",
     "kid": 8560,
     "name": "Dragunity Primus Pilus",
     "name_jp": "ドラグニティ－プリムス・ピルス",
     "name_jp_rom": "Doraguniti - Purimusu Pirusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -59,6 +61,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT07-JP022",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD19-JP009",
+            "set": "Structure Deck: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DTC3-JP012",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP006",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +129,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

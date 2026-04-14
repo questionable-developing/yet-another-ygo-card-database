@@ -1,11 +1,14 @@
 {
     "cid": "3dd02449-3fb8-423e-bc1f-5c1f858dd257",
+    "yid": 83819309,
     "password": "83819309",
     "kid": 19874,
     "name": "Cooling Embers",
     "name_jp": "<ruby lang=\"jp\"><rb>冷</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby>える<ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hieru Hi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cooling Fire",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP033",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

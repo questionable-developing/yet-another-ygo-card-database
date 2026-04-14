@@ -1,12 +1,14 @@
 {
     "cid": "8705dff4-3256-4ca8-b2ef-f4dff9a508bb",
-    "yid": null,
+    "yid": 21323861,
     "password": "21323861",
     "kid": 4666,
     "name": "Acid Rain",
     "name_jp": "<ruby lang=\"jp\"><rb>酸</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>嵐</rb><rp> (</rp><rt>あらし</rt><rp>)</rp></ruby>",
     "name_jp_rom": "San no Arashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Acid Storm",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,13 +50,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "",
+            "set": "Booster 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TP01-JP009",
+            "set": "Tournament Pack 2007 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT03-JP037",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Effect"
         ],
         "mentions": [],
-        "sup": [],
+        "sup": [
+            "Machine"
+        ],
         "asup": [
             "Machine"
         ],
@@ -75,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

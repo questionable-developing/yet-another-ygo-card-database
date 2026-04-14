@@ -1,12 +1,14 @@
 {
     "cid": "e566cc25-e97d-4e83-8691-88c05090e7fb",
-    "yid": null,
+    "yid": 15582767,
     "password": "15582767",
     "kid": 11599,
     "name": "Echo Oscillation",
     "name_jp": "<ruby lang=\"jp\"><rb>連</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>成</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>振</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Renseisuru Shindō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP079",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD31-JP036",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

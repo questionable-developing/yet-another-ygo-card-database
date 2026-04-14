@@ -1,11 +1,14 @@
 {
     "cid": "66a206f9-e571-4c72-aff1-6fa3500dcaef",
+    "yid": 94585852,
     "password": "94585852",
     "kid": 5791,
     "name": "Pandemonium",
     "name_jp": "<ruby lang=\"jp\"><rb>万魔殿</rb><rp> (</rp><rt>パンディモニウム</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>巣</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>窟</rb><rp> (</rp><rt>くつ</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Pandimoniumu -Akuma no Sōkutsu-",
+    "name_jp_rom_base": "Fukumaden -Akuma no Sōkutsu-",
     "name_jp_tl": "Pandemonium -Demon's Den-",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-041",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP256",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

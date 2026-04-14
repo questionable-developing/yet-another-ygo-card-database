@@ -1,11 +1,14 @@
 {
     "cid": "0e7cc8f4-9e8c-4953-bb3e-0b6a2e2f1714",
+    "yid": 56461575,
     "password": "56461575",
     "kid": 15303,
     "name": "Spiral Reborn",
     "name_jp": "<ruby lang=\"jp\"><rb>螺旋蘇生</rb><rp> (</rp><rt>スパイラル・リボーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Supairaru Ribōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ROTD-EN069",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP069",
             "set": "Rise of the Duelist",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

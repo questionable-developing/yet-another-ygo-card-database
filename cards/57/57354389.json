@@ -1,11 +1,14 @@
 {
     "cid": "9eb686cd-b12e-4231-9767-2bddb5fa4498",
+    "yid": 57354389,
     "password": "57354389",
     "kid": 12495,
     "name": "Sentry Soldier of Stone",
     "name_jp": "<ruby lang=\"jp\"><rb>岩</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>番</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>ぺい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ganseki no Banpei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MVP1-JP012",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "rarities": {
+                "Kaiba Corporation Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPC28",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Super Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +109,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

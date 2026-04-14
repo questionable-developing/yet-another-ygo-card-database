@@ -1,11 +1,14 @@
 {
     "cid": "45a4a3a0-30f1-4a10-837b-dd81fededf41",
+    "yid": 52382379,
     "password": "52382379",
     "kid": 18803,
     "name": "Nemleria Dream Devourer - Reveil",
     "name_jp": "ネムレリアの<ruby lang=\"jp\"><rb>夢</rb><rp> (</rp><rt>ゆめ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喰</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby>い－レヴェイユ",
     "name_jp_rom": "Nemureria no Yumekui - Reveiyu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DUNE-EN016",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP016",
             "set": "Duelist Nexus",
             "rarities": {
                 "Common": []
@@ -92,5 +104,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

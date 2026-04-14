@@ -1,12 +1,14 @@
 {
     "cid": "f9747d03-e6c3-48c6-ab82-24efe59910f4",
-    "yid": null,
+    "yid": 34001672,
     "password": "34001672",
     "kid": 19502,
     "name": "Goblin Biker Big Gabonga",
     "name_jp": "<ruby lang=\"jp\"><rb>百鬼羅刹</rb><rp> (</rp><rt>ゴブリンライダー</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>巨魁</rb><rp> (</rp><rt>ビッグヘッド</rt><rp>)</rp></ruby>ガボンガ",
     "name_jp_rom": "Goburin Raidā Bigguheddo Gabonga",
+    "name_jp_rom_base": "Hyakkirasetsu Kyokai Gabonga",
     "name_jp_tl": "Goblin Rider Big-Head Gabonga",
+    "name_jp_tl_base": "Hundred Demons Leader Gabonga",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +55,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP047",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHNI-JP047",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

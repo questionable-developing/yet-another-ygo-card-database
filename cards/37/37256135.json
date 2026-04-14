@@ -1,11 +1,14 @@
 {
     "cid": "e1ad4cd5-422a-47e6-ae04-ea59b90b3a27",
+    "yid": 37256135,
     "password": "37256135",
     "kid": 15290,
     "name": "Melffy Tag",
     "name_jp": "メルフィーのおいかけっこ",
     "name_jp_rom": "Merufī no Oikakekko",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP056",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

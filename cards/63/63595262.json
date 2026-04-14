@@ -1,11 +1,14 @@
 {
     "cid": "979afd12-d43c-46cd-a438-98ad7d4f3047",
+    "yid": 63595262,
     "password": "63595262",
     "kid": 8986,
     "name": "Unicorn Beacon",
     "name_jp": "ユニコーンの<ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>みちび</rt><rp>)</rp></ruby>き",
     "name_jp_rom": "Yunikōn no Michibiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP055",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,7 +74,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9cd78b47-c998-4e38-840e-70b81514512a",
+    "yid": 74139959,
     "password": "74139959",
     "kid": 20230,
     "name": "Cosmic Tree Irmistil",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>樹</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby>イルミスティル",
     "name_jp_rom": "Seikaiju Irumisutiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Star World Tree Irmistil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP051",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
             "Control only one",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "436f2eac-4fcc-4d7e-a55e-6a28438754fe",
+    "yid": 62895219,
     "password": "62895219",
     "kid": 11685,
     "name": "Soprano the Melodious Songstress",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>奏</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>歌</rb><rp> (</rp><rt>うた</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>ひめ</rt><rp>)</rp></ruby>ソプラノ",
     "name_jp_rom": "Gensō no Utahime Sopurano",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SopranotheMelodiousSongstress-24TP-JP-C.png",
+            "art": "SopranotheMelodiousSongstress-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SopranotheMelodiousSongstress-SP17-EN-C-1E.png",
-            "art": null
+            "art": "SopranotheMelodiousSongstress-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CROS-EN010",
@@ -55,6 +63,22 @@
             "rarities": {
                 "Common": [],
                 "Starfoil Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP010",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP106",
+            "set": "Tournament Pack 2024 Vol.1",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -98,5 +122,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

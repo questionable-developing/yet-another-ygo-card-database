@@ -1,12 +1,14 @@
 {
     "cid": "9d223311-bc26-463a-b442-1d45da124db8",
-    "yid": null,
+    "yid": 33781156,
     "password": "33781156",
     "kid": 21817,
     "name": "Tri-Brigade Arms Mouser",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣式撃滅兵装</rb><rp> (</rp><rt>トライブリゲード・アームズ</rt><rp>)</rp></ruby>“<ruby lang=\"jp\"><rb>Ｍｏｕｓｅｒ</rb><rp> (</rp><rt>マウザー</rt><rp>)</rp></ruby>”",
     "name_jp_rom": "Toraiburigēdo Āmuzu \"Mauzā\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -46,6 +48,17 @@
             "rarities": {
                 "Ultra Rare": [],
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP051",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -96,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

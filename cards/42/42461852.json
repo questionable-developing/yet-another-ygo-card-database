@@ -1,11 +1,14 @@
 {
     "cid": "83d48d27-7765-44cd-9b94-e3676509017f",
+    "yid": 42461852,
     "password": "42461852",
     "kid": 13526,
     "name": "Cynet Storm",
     "name_jp": "サイバネット・ストーム",
     "name_jp_rom": "Saibanetto Sutōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cybenet Storm",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SDPL-EN021",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD33-JP022",
             "set": "Structure Deck: Powercode Link",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Once per Chain"
         ]
-    }
+    },
+    "links": {}
 }

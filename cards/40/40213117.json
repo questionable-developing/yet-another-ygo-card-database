@@ -1,11 +1,14 @@
 {
     "cid": "d9874a41-075e-438c-b438-4b99611619f6",
+    "yid": 40213117,
     "password": "40213117",
     "kid": 10146,
     "name": "Amores of Prophecy",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弓</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> ラムール",
     "name_jp_rom": "Madōkyūshi Ramūru",
-    "name_jp_tl": "L'amour the Magical Archer",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "L'Amour the Magical Archer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN016",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP016",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

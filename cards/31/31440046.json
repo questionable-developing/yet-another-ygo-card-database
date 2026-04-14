@@ -1,12 +1,14 @@
 {
     "cid": "ad46dbe3-bead-4a9f-ae16-6b8b11b524b9",
-    "yid": null,
+    "yid": 31440046,
     "password": "31440046",
     "kid": 14099,
     "name": "Prank-Kids Rocksies",
     "name_jp": "プランキッズ・ロック",
     "name_jp_rom": "Purankizzu Rokku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prank-Kids Rock",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP022",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

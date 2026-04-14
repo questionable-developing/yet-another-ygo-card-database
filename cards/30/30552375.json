@@ -1,12 +1,14 @@
 {
     "cid": "ebfbaade-3e45-4072-8a06-28e749c78d3b",
-    "yid": null,
+    "yid": 30552375,
     "password": "30552375",
     "kid": 14500,
     "name": "Grid Rod",
     "name_jp": "グリッド・ロッド",
     "name_jp_rom": "Guriddo Roddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "RIRA-EN052",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP052",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
             "Requires control of specific Type",
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

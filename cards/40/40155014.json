@@ -1,11 +1,14 @@
 {
     "cid": "7dc61acb-64a1-4441-8b0f-80261cd2a980",
+    "yid": 40155014,
     "password": "40155014",
     "kid": 19379,
     "name": "Centur-Ion Phalanx",
     "name_jp": "<ruby lang=\"jp\"><rb>騎士魔防陣</rb><rp> (</rp><rt>センチュリオン・ファランクス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senchurion Farankusu",
+    "name_jp_rom_base": "Kishi Mabōjin",
     "name_jp_tl": "Centurion Phalanx",
+    "name_jp_tl_base": "Knight's Magical Defense Formation",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP023",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +87,7 @@
         ],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the opponent's field",
             "Special Summons from your Graveyard"
         ],
@@ -90,5 +103,6 @@
             "Only 1 effect once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

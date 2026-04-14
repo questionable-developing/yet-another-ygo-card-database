@@ -1,11 +1,14 @@
 {
     "cid": "26bf0642-c361-4574-b6a5-bf6ecb8cce27",
+    "yid": 70659412,
     "password": "70659412",
     "kid": 21632,
     "name": "Psychic Omnibuster",
-    "name_jp": null,
-    "name_jp_rom": null,
-    "name_jp_tl": null,
+    "name_jp": "サイコ・オムニバスター",
+    "name_jp_rom": "Saiko Omunibasutā",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Psycho Omnibuster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +47,7 @@
             }
         }
     ],
+    "jp_sets": [],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,7 +65,7 @@
         "counter": [],
         "action": [
             "Declares a card type",
-            "Reveals your opponent's hand",
+            "Reveals cards from your opponent's hand",
             "Returns the opponent's banished cards to the hand"
         ],
         "stat_change": [],
@@ -83,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

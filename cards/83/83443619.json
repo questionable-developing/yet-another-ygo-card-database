@@ -1,11 +1,14 @@
 {
     "cid": "dd1d99dd-9697-448c-aeb3-c3ab42f0ef13",
+    "yid": 83443619,
     "password": "83443619",
     "kid": 12608,
     "name": "Crystron Smiger",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－スモーガー",
     "name_jp_rom": "Kurisutoron - Sumōgā",
-    "name_jp_tl": "Crystron Smoger",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Crystron - Smoger",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP17-EN138",
             "set": "2017 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP018",
+            "set": "Invasion: Vengeance",
             "rarities": {
                 "Common": []
             }
@@ -98,5 +110,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

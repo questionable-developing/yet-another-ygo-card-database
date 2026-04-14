@@ -1,11 +1,14 @@
 {
     "cid": "98a0503b-3dd3-46ec-901c-af0b02d9495d",
+    "yid": 87567063,
     "password": "87567063",
     "kid": 6152,
     "name": "Rebellion",
     "name_jp": "<ruby lang=\"jp\"><rb>造</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>劇</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zōhangeki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MP01-JP016",
+            "set": "Millennium Pack (OCG)",
+            "rarities": {
+                "Millennium Ultra Rare": []
+            }
+        },
+        {
+            "sid": "PGB1-JP035",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "DR01-JPA29",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

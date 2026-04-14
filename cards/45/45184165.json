@@ -1,11 +1,14 @@
 {
     "cid": "7b438c2f-5566-431b-a065-49e43aa798a5",
+    "yid": 45184165,
     "password": "45184165",
     "kid": 11958,
     "name": "Raidraptor - Skull Eagle",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－スカル・イーグル",
     "name_jp_rom": "Reido Raputāzu - Sukaru Īguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Skull Eagle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP16-EN117",
             "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP014",
+            "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

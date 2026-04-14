@@ -1,12 +1,14 @@
 {
     "cid": "077ee24c-abf5-4e0b-b3b9-8c7c6af84ab4",
-    "yid": null,
+    "yid": 16313112,
     "password": "16313112",
     "kid": 13920,
     "name": "Salamangreat Emerald Eagle",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>エメラルド・イーグル",
     "name_jp_rom": "Saramangureito Emerarudo Īguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP033",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "86d08075-66d6-4ae8-a773-be570def2e82",
-    "yid": null,
+    "yid": 23587624,
     "password": "23587624",
     "kid": 11584,
     "name": "A Wild Monster Appears!",
     "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>霹</rb><rp> (</rp><rt>へき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>靂</rb><rp> (</rp><rt>れき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seiten no Hekireki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bolt from the Blue",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP064",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

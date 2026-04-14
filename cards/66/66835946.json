@@ -1,11 +1,14 @@
 {
     "cid": "8781d189-cf2a-488d-8871-8a1eed42f866",
+    "yid": 66835946,
     "password": "66835946",
     "kid": 8826,
     "name": "Pyramid of Wonders",
     "name_jp": "<ruby lang=\"jp\"><rb>奇</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>跡</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>のピラミッド",
     "name_jp_rom": "Kiseki no Piramiddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +79,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP051",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +124,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

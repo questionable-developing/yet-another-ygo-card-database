@@ -1,12 +1,14 @@
 {
     "cid": "78f0bc2e-be15-40d6-aa19-021a3d4f7668",
-    "yid": null,
+    "yid": 33178416,
     "password": "33178416",
     "kid": 4548,
     "name": "Misairuzame",
     "name_jp": "ナイル",
     "name_jp_rom": "Nairu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Nile",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Misairuzame-LOB-NA-C-1E.jpg",
+            "art": "Misairuzame-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Misairuzame-LOB-EN-C-UE-25thAnniversaryEdition.png",
-            "art": null
+            "art": "Misairuzame-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LOB-EN111",
@@ -46,6 +53,22 @@
         {
             "sid": "LOB-EN111",
             "set": "Legend of Blue Eyes White Dragon (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PG-50",
+            "set": "Phantom God",
             "rarities": {
                 "Common": []
             }
@@ -72,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

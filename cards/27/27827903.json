@@ -1,12 +1,14 @@
 {
     "cid": "864127d0-cbc9-4382-9aab-a9a5e9be4b4e",
-    "yid": null,
+    "yid": 27827903,
     "password": "27827903",
     "kid": 8711,
     "name": "Genex Ally Crusher",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>アーリー</rt><rp>)</rp></ruby>・ジェネクス・クラッシャー",
     "name_jp_rom": "Ārī Jenekusu Kurasshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ally Genex Crusher",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT08-JP019",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP039",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP085",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

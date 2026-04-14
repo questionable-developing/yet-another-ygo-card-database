@@ -1,11 +1,14 @@
 {
     "cid": "70643255-2b61-4b02-bb93-e08c08adb493",
+    "yid": 40012727,
     "password": "40012727",
     "kid": 8069,
     "name": "Assault Slash",
     "name_jp": "バスター・スラッシュ",
     "name_jp_rom": "Basutā Surasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Slash",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP074",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,5 +79,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "3564a138-cbe2-4b99-942c-efeddcff0377",
-    "yid": null,
+    "yid": 8696773,
     "password": "08696773",
     "kid": 11056,
     "name": "Hazy Flame Hydra",
     "name_jp": "<ruby lang=\"jp\"><rb>陽炎獣</rb><rp> (</rp><rt>ヘイズビースト</rt><rp>)</rp></ruby> ヒュドラー",
     "name_jp_rom": "Heizu Bīsuto Hyudorā",
+    "name_jp_rom_base": "Yōenjū Hyudorā",
     "name_jp_tl": "Haze Beast Hydra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PRIO-EN027",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP027",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

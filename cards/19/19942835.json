@@ -1,12 +1,14 @@
 {
     "cid": "25d4c341-94e6-4c12-afc2-3edf30edaa41",
-    "yid": null,
+    "yid": 19942835,
     "password": "19942835",
     "kid": 17171,
     "name": "Zombie Reborn",
     "name_jp": "アンデット・リボーン",
     "name_jp_rom": "Andetto Ribōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Undead Reborn",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP23-EN098",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP060",
+            "set": "Dimension Force",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +99,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

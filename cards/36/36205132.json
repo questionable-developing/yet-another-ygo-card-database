@@ -1,12 +1,14 @@
 {
     "cid": "635e6eab-855e-4212-b66f-80bf8b562cdf",
-    "yid": null,
+    "yid": 36205132,
     "password": "36205132",
     "kid": 14265,
     "name": "Filo, Messenger Fur Hire",
     "name_jp": "<ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>令</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby> フィロ",
     "name_jp_rom": "Kūgadan no Denrei Firo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Filo, Messenger of the Skyfang Brigade",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DANE-EN015",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP015",
             "set": "Dark Neostorm",
             "rarities": {
                 "Rare": []
@@ -81,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

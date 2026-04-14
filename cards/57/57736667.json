@@ -1,11 +1,14 @@
 {
     "cid": "49d8b789-24eb-40f3-aac6-3c0764f54315",
+    "yid": 57736667,
     "password": "57736667",
     "kid": 18525,
     "name": "Mikanko Dance - Mayowashidori",
     "name_jp": "<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>舞</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>踊</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>迷</rb><rp> (</rp><rt>まよ</rt><rp>)</rp></ruby>わし<ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>どり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mikanko Buyō - Mayowashidori",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mikanko Dance - Fascinating Bird",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP062",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TTP1-JP071",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +113,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "93a654fe-4629-42ac-9249-7a4ac734f5a6",
-    "yid": null,
+    "yid": 27182739,
     "password": "27182739",
     "kid": 14744,
     "name": "Mathmech Sigma",
     "name_jp": "<ruby lang=\"jp\"><rb>斬</rb><rp> (</rp><rt>ザン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>キ</rt><rp>)</rp></ruby>シグマ",
     "name_jp_rom": "Zanki Shiguma",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Zanki Sigma",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -49,6 +51,25 @@
             "set": "Battles of Legend: Monstrous Revenge",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP001",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP169",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -96,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c549ef7c-7275-414f-b5c2-8acb7fba5de6",
+    "yid": 82003859,
     "password": "82003859",
     "kid": 4896,
     "name": "Toll",
     "name_jp": "<ruby lang=\"jp\"><rb>通</rb><rp> (</rp><rt>つう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>税</rb><rp> (</rp><rt>ぜい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tsūkōzei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MR-34",
+            "set": "Magic Ruler (Japanese)",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL1-023",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE1-JP019",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE01-JP016",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

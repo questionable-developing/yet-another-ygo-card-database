@@ -1,11 +1,14 @@
 {
     "cid": "c68c129c-698f-4ce5-b125-11e360490614",
+    "yid": 51447164,
     "password": "51447164",
     "kid": 9513,
     "name": "T.G. Blade Blaster",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> ブレード・ガンナー",
     "name_jp_rom": "Tekku Jīnasu Burēdo Gannā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Blade Gunner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TGBladeBlaster-QCCP-JP-SR.png",
+            "art": "TGBladeBlaster-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TGBladeBlaster-LC5D-EN-SR-1E.png",
-            "art": null
+            "art": "TGBladeBlaster-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "EXVC-EN042",
@@ -49,6 +57,25 @@
             "set": "Legendary Collection 5D's Mega Pack",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP042",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP043",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -98,5 +125,6 @@
             "Accel Synchro Monster",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

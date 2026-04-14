@@ -1,12 +1,14 @@
 {
     "cid": "6363fefa-8b7d-4ed1-8968-b2b1e8193226",
-    "yid": null,
+    "yid": 13140300,
     "password": "13140300",
     "kid": 10025,
     "name": "Hieratic Seal of the Sun Dragon Overlord",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shinryū no Seikokuin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hieroglyphic Seal of the God Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +45,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP002",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -55,7 +66,7 @@
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "The Winged Dragon of Ra (archetype)"
+            "Ra (series)"
         ],
         "counter": [],
         "action": [],
@@ -68,5 +79,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

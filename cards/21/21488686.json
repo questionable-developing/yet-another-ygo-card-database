@@ -1,12 +1,14 @@
 {
     "cid": "58e912f7-d486-4a3f-873b-baa1483432bd",
-    "yid": null,
+    "yid": 21488686,
     "password": "21488686",
     "kid": 7767,
     "name": "Psychic Rejuvenation",
     "name_jp": "サイコ・ヒーリング",
     "name_jp_rom": "Saiko Hīringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Healing",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "TDGS-EN071",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP071",
             "set": "The Duelist Genesis",
             "rarities": {
                 "Common": []
@@ -70,5 +81,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

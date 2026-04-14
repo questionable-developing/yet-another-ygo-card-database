@@ -1,11 +1,14 @@
 {
     "cid": "cbd6454d-a236-499a-a5cb-7514333f82b9",
+    "yid": 44352516,
     "password": "44352516",
     "kid": 13183,
     "name": "Cyberdark Inferno",
     "name_jp": "サイバーダーク・インフェルノ",
     "name_jp_rom": "Saibādāku Inferuno",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP025",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP028",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

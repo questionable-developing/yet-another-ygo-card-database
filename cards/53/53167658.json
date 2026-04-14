@@ -1,11 +1,14 @@
 {
     "cid": "929fcc7f-c1d4-463e-abd9-de565e528e42",
+    "yid": 53167658,
     "password": "53167658",
     "kid": 14513,
     "name": "Blockout Curtain",
     "name_jp": "<ruby lang=\"jp\"><rb>遮</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>カーテン",
     "name_jp_rom": "Shakō Kāten",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RIRA-EN065",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP065",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

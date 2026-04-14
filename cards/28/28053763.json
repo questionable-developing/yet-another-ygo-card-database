@@ -1,12 +1,14 @@
 {
     "cid": "a10829b4-0253-4f0f-a77d-0479d2184d9c",
-    "yid": null,
+    "yid": 28053763,
     "password": "28053763",
     "kid": 13270,
     "name": "Dragonoid Generator",
     "name_jp": "ドラゴノイド・ジェネレーター",
     "name_jp_rom": "Doragonoido Jenerētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP054",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Only twice per turn"
         ]
-    }
+    },
+    "links": {}
 }

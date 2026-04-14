@@ -1,12 +1,14 @@
 {
     "cid": "3e6f04fc-2983-4c7a-9a20-62e8094bc645",
-    "yid": null,
+    "yid": 32663969,
     "password": "32663969",
     "kid": 7740,
     "name": "Domino Effect",
     "name_jp": "ドミノ",
     "name_jp_rom": "Domino",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Domino",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP046",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP08-JP018",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

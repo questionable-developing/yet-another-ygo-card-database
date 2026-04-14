@@ -1,11 +1,14 @@
 {
     "cid": "bbe880fc-c079-4488-9d51-833ca4c3e431",
+    "yid": 54092240,
     "password": "54092240",
     "kid": 17784,
     "name": "Celestial Apparatus Tesea",
     "name_jp": "テセア<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tesea Seireiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Spirit Apparatus Tesea",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP028",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

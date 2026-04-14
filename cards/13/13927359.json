@@ -1,12 +1,14 @@
 {
     "cid": "5617e159-d5ef-40af-b60a-5be24d3b6d7e",
-    "yid": null,
+    "yid": 13927359,
     "password": "13927359",
     "kid": 19529,
     "name": "Raidraptor - Glorious Bright",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－グロリアス・ブライト",
     "name_jp_rom": "Reido Raputāzu - Guroriasu Buraito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Glorious Bright",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP25-EN323",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP074",
+            "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +101,6 @@
             "Requires control of specific Monster card type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

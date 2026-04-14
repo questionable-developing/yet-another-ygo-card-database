@@ -1,12 +1,14 @@
 {
     "cid": "9943120a-e232-493e-ac8e-e702f591bcf3",
-    "yid": null,
+    "yid": 7925734,
     "password": "07925734",
     "kid": 14607,
     "name": "Link Apple",
     "name_jp": "リンクアップル",
     "name_jp_rom": "Rinkuappuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "19PR-JP007",
+            "set": "Promotion Pack 2019",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "AC02-JP048",
+            "set": "Animation Chronicle 2022",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

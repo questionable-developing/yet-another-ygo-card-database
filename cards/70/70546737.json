@@ -1,11 +1,14 @@
 {
     "cid": "8da3af96-c2f6-4681-b3b2-386c930e934b",
+    "yid": 70546737,
     "password": "70546737",
     "kid": 10617,
     "name": "Umbral Horror Will o' the Wisp",
     "name_jp": "アンブラル・ウィル・オ・ザ・ウィスプ",
     "name_jp_rom": "Anburaru Wiru O Za Wisupu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Umbral Will o' the Wisp",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP014",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

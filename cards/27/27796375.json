@@ -1,12 +1,14 @@
 {
     "cid": "f2c16839-ec95-497e-9762-f30d557fa289",
-    "yid": null,
+    "yid": 27796375,
     "password": "27796375",
     "kid": 11481,
     "name": "Great Sorcerer of the Nekroz",
     "name_jp": "<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>道</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nekurosu no Daimadōshi",
+    "name_jp_rom_base": "Eireii no Daimadōshi",
     "name_jp_tl": "Great Sorcerer of the Necroth",
+    "name_jp_tl_base": "Great Sorcerer of the Shadow Spirit Cloth",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -41,6 +43,23 @@
             "set": "The Secret Forces",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP011",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP077",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -86,5 +105,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

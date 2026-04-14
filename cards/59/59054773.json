@@ -1,11 +1,14 @@
 {
     "cid": "e32e74fd-f50c-41e8-be1e-98beead0dfe6",
+    "yid": 59054773,
     "password": "59054773",
     "kid": 14859,
     "name": "Ignister A.I.Land",
     "name_jp": "イグニスター<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>ランド",
     "name_jp_rom": "Igunisutā Airando",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ignister AiLand",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "IgnisterAILand-MP21-EN-UR-1E.png",
+            "full": "IgnisterAILand-OP28-EN-C-UE.png",
             "art": null
         }
     },
@@ -51,6 +54,24 @@
             "set": "OTS Tournament Pack 28",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP050",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP049",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
             }
         }
     ],
@@ -99,5 +120,6 @@
             "Requires control of no monsters in the Main Monster Zone",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

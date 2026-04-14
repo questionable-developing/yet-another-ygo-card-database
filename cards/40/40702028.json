@@ -1,11 +1,14 @@
 {
     "cid": "fe1ffdb5-a41a-4d2d-ac71-101522e93634",
+    "yid": 40702028,
     "password": "40702028",
     "kid": 20220,
     "name": "DPH Gendamoore",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ピー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>エー</rt><rp>)</rp></ruby>ジャンダムーア",
     "name_jp_rom": "Dī Pī Ē Jandamūa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "DPA Gendamoore",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -47,6 +50,15 @@
         {
             "sid": "MP25-EN388",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP041",
+            "set": "The Infinite Forbidden",
             "rarities": {
                 "Common": []
             }
@@ -95,5 +107,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

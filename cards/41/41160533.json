@@ -1,11 +1,14 @@
 {
     "cid": "4c96d15f-4934-4913-a2f1-649bfded2528",
+    "yid": 41160533,
     "password": "41160533",
     "kid": 8003,
     "name": "Rose Tentacles",
     "name_jp": "ローズ・テンタクルス",
     "name_jp_rom": "Rōzu Tentakurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP007",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
         "misc": [
             "At the start of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

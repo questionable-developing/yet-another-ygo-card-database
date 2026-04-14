@@ -1,12 +1,14 @@
 {
     "cid": "aaf3f68b-06a4-47cb-bed4-8b576a5bbaa2",
-    "yid": null,
+    "yid": 35563539,
     "password": "35563539",
     "kid": 4826,
     "name": "Mystical Refpanel",
     "name_jp": "<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>かがみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seirei no Kagami",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirit's Mirror",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "MysticalRefpanel-L3-JP-UR.png",
+            "art": "MysticalRefpanel-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "MysticalRefpanel-DREV-EN-ScR-1E.png",
-            "art": null
+            "art": "MysticalRefpanel-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DREV-EN090",
             "set": "Duelist Revolution",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "L3-02",
+            "set": "Limited Edition 3: Yugi Pack",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -66,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

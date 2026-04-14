@@ -1,11 +1,14 @@
 {
     "cid": "86067d87-2c71-4332-8356-70fd83021718",
+    "yid": 74889525,
     "password": "74889525",
     "kid": 15731,
     "name": "Eldlich the Mad Golden Lord",
     "name_jp": "<ruby lang=\"jp\"><rb>黄金狂</rb><rp> (</rp><rt>エル・レイ・コンキスタ</rt><rp>)</rp></ruby>エルドリッチ",
     "name_jp_rom": "Eru Rei Konkisuta Erudoritchi",
+    "name_jp_rom_base": "Ōgonkyō Erudoritchi",
     "name_jp_tl": "El Rey Conquista Eldlich",
+    "name_jp_tl_base": "Eldlich the Golden Madness",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -48,6 +51,26 @@
             "set": "Maximum Gold: El Dorado",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP040",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BLVO-JP040",
+            "set": "Blazing Vortex +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -103,5 +126,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

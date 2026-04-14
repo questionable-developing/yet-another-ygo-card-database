@@ -1,11 +1,14 @@
 {
     "cid": "22d3394d-e213-439e-bba5-5eb9e6a1ac07",
+    "yid": 86682165,
     "password": "86682165",
     "kid": 18183,
     "name": "Icejade Gymir Aegirine",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ヒ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>スイ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>啼</rb><rp> (</rp><rt>テイ</rt><rp>)</rp></ruby>エジル・ギュミル",
     "name_jp_rom": "Hisuitei Ejiru Gyumiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Icejade Cry Aegir Gymir",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP038",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHHY-JP038",
+            "set": "Photon Hypernova +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP153",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +131,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

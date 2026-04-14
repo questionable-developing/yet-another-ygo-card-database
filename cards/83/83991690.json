@@ -1,11 +1,14 @@
 {
     "cid": "39a866d7-72fc-4e8e-8a37-fa00b4b83ec6",
+    "yid": 83991690,
     "password": "83991690",
     "kid": 9578,
     "name": "Buten",
     "name_jp": "ブーテン",
     "name_jp_rom": "Būten",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,15 +32,43 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Buten-JF12-JP-C.jpg",
+            "art": "Buten-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Buten-GAOV-EN-C-UE.png",
-            "art": null
+            "art": "Buten-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "GAOV-EN095",
             "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JF11-JP007",
+            "set": "Jump Festa 2011 - Promotion Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "PR02-JP007",
+            "set": "Promotion Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "JF12-JPA02",
+            "set": "Jump Festa 2012 - Promotion Pack A",
             "rarities": {
                 "Common": []
             }
@@ -76,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

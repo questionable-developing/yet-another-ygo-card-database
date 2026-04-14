@@ -1,11 +1,14 @@
 {
     "cid": "e81162c7-1a99-4a46-8fdd-4d49ed2f2429",
+    "yid": 90576781,
     "password": "90576781",
     "kid": 8601,
     "name": "Reptilianne Poison",
     "name_jp": "レプティレス・ポイズン",
     "name_jp_rom": "Reputiresu Poizun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reptiless Poison",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP3-JP029",
+            "set": "Extra Pack Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

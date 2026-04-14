@@ -1,11 +1,14 @@
 {
     "cid": "d405dfd5-a332-4ea5-8c48-3954cf9219d2",
+    "yid": 45488703,
     "password": "45488703",
     "kid": 21167,
     "name": "NT8000 - SIRIUS",
     "name_jp": "ＮＴ８０００－<ruby lang=\"jp\"><rb>ＳＩＲＩＵＳ</rb><rp> (</rp><rt>シリウス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Enu Tī Hassen - Shiriusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ALIN-EN030",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP030",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Requires control of specific Attribute",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

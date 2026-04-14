@@ -1,12 +1,14 @@
 {
     "cid": "4e689dc7-611d-416e-ab63-c61721edfd04",
-    "yid": null,
+    "yid": 18511599,
     "password": "18511599",
     "kid": 9919,
     "name": "Evolzar Solda",
     "name_jp": "エヴォルカイザー・ソルデ",
     "name_jp_rom": "Evorukaizā Sorude",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evolkaiser Solde",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -53,6 +55,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP045",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DBWS-JP015",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

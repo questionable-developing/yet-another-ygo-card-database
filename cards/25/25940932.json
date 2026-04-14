@@ -6,7 +6,9 @@
     "name": "Radiant Typhoon Ascendance",
     "name_jp": "<ruby lang=\"jp\"><rb>絢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>嵐</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby>たる<ruby lang=\"jp\"><rb>軒</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>昂</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kenrantaru Kenkō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Radiant Typhoon High Spirits",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BPRO-EN065",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BPRO-JP065",
             "set": "Burst Protocol",
             "rarities": {
                 "Common": []

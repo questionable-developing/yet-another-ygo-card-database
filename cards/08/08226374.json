@@ -1,12 +1,14 @@
 {
     "cid": "4c213281-c08c-448d-a539-ece3de6cc4cb",
-    "yid": null,
+    "yid": 8226374,
     "password": "08226374",
     "kid": 11007,
     "name": "Gimmick Puppet Humpty Dumpty",
     "name_jp": "ギミック・パペット－ハンプティ・ダンプティ",
     "name_jp_rom": "Gimikku Papetto - Hanputi Danputi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP16-JP002",
+            "set": "Premium Pack 16",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP042",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

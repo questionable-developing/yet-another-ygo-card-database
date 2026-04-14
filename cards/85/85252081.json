@@ -1,11 +1,14 @@
 {
     "cid": "44ec94b3-5c12-4baa-8fac-6370eccf9568",
+    "yid": 85252081,
     "password": "85252081",
     "kid": 12219,
     "name": "Super Quantal Mech Beast Grampulse",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>量</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>グランパルス",
     "name_jp_rom": "Chōryōkijū Guranparusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "2 Level 3 monsters<br />Cannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it. This effect can be activated during either player's turn, if this card has \"Super Quantum Blue Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.",
+    "desc": "2 Level 3 monsters<br />Cannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it. This is a Quick Effect if this card has \"Super Quantum Blue Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card.",
     "pend_eff": null,
-    "mnst_eff": "2 Level 3 monsters\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it. This effect can be activated during either player's turn, if this card has \"Super Quantum Blue Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.",
-    "eff": "2 Level 3 monsters\nCannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 Spell/Trap Card on the field; destroy it. This effect can be activated during either player's turn, if this card has \"Super Quantum Blue Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.",
+    "mnst_eff": "2 Level 3 monsters\nCannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it. This is a Quick Effect if this card has \"Super Quantum Blue Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card.",
+    "eff": "2 Level 3 monsters\nCannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it. This is a Quick Effect if this card has \"Super Quantum Blue Layer\" as material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SuperQuantalMechBeastGrampulse-OP03-EN-UtR-UE.png",
+            "full": "SuperQuantalMechBeastGrampulse-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -48,6 +51,29 @@
             "set": "OTS Tournament Pack 3",
             "rarities": {
                 "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN048",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP034",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -96,5 +122,6 @@
             "Limited activations",
             "Can be activated during either player's turn"
         ]
-    }
+    },
+    "links": {}
 }

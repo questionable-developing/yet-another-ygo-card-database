@@ -1,12 +1,14 @@
 {
     "cid": "c021ff98-e589-4153-ae9a-84693d6243b0",
-    "yid": null,
+    "yid": 32134638,
     "password": "32134638",
     "kid": 12425,
     "name": "Dinomist Ankylos",
     "name_jp": "ダイナミスト・アンキロス",
     "name_jp_rom": "Dainamisuto Ankirosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dynamist Ankylos",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP026",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like"
@@ -90,5 +101,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

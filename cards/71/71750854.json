@@ -1,11 +1,14 @@
 {
     "cid": "32945de5-6189-4a59-9d7d-0c235ff8b17e",
+    "yid": 71750854,
     "password": "71750854",
     "kid": 21171,
     "name": "Bomber Place",
     "name_jp": "ボンバー・プレイス",
     "name_jp_rom": "Bonbā Pureisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP034",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
             "Requires control of specific Level",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "4bc4d182-cc44-4517-90c9-438c7d44998a",
-    "yid": null,
+    "yid": 25578802,
     "password": "25578802",
     "kid": 6136,
     "name": "Two-Man Cell Battle",
     "name_jp": "ツーマンセルバトル",
     "name_jp_rom": "Tsū Man Seru Batoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP045",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP045",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

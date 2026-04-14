@@ -1,11 +1,14 @@
 {
     "cid": "9c0a77d2-83da-4927-8a12-77626498d45c",
+    "yid": 52222372,
     "password": "52222372",
     "kid": 7951,
     "name": "Genex Turbine",
     "name_jp": "タービン・ジェネクス",
     "name_jp_rom": "Tābin Jenekusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Turbine Genex",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT03-JP014",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP064",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP063",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "33c552a5-5621-45e3-8964-dc431126ee8f",
+    "yid": 75041269,
     "password": "75041269",
     "kid": 6668,
     "name": "Clock Tower Prison",
     "name_jp": "<ruby lang=\"jp\"><rb>幽</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>計</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>塔</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yūgoku no Tokeitō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Clock Tower of Confinement",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP048",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP016",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP228",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +130,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

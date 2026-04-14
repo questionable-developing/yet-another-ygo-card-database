@@ -1,11 +1,14 @@
 {
     "cid": "b86fe402-132c-4526-ac2e-69bc4ef0a37d",
+    "yid": 72443568,
     "password": "72443568",
     "kid": 6170,
     "name": "Silent Magician LV8",
     "name_jp": "サイレント・マジシャン <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>８",
     "name_jp_rom": "Sairento Majishan Reberu Eito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -83,6 +86,50 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NTR-JP002",
+            "set": "Yu-Gi-Oh! Nightmare Troubadour promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD16-JP006",
+            "set": "Structure Deck: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPC04",
+            "set": "Memories of the Duel King: Ceremonial Battle Arc",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "MB01-JP013",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP020",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AC04-JP000",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,7 +167,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Special Summon Monster"
+            "Special Summon Monster",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

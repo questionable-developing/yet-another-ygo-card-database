@@ -1,11 +1,14 @@
 {
     "cid": "d0eb089d-818e-4914-96fc-9360875200a1",
+    "yid": 67696066,
     "password": "67696066",
     "kid": 11802,
     "name": "Performage Trick Clown",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>トリック・クラウン",
     "name_jp_rom": "Entameiji Torikku Kuraun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermage Trick Clown",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -71,6 +74,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP018",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP016",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBVS-JP042",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "AC04-JP053",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +144,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d00f1cd2-87e5-4ae0-a2b7-cab61ae11f7e",
-    "yid": null,
+    "yid": 21977828,
     "password": "21977828",
     "kid": 9896,
     "name": "Inzektor Giga-Weevil",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ギガウィービル",
     "name_jp_rom": "Inzekutā Gigawībiru",
+    "name_jp_rom_base": "Kōchūsōki Gigawībiru",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Giga-Weevil",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN022",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP022",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

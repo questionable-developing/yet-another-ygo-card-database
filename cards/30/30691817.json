@@ -1,12 +1,14 @@
 {
     "cid": "c1527f29-ee6e-47c6-b9bb-a83307e3a452",
-    "yid": null,
+    "yid": 30691817,
     "password": "30691817",
     "kid": 14669,
     "name": "Marincess Sea Angel",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女</rb><rp> (</rp><rt>マリンセス</rt><rp>)</rp></ruby>シーエンジェル",
     "name_jp_rom": "Marinsesu Shī Enjeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -68,6 +70,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP042",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP26-JP040",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +125,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

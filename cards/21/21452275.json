@@ -1,12 +1,14 @@
 {
     "cid": "c03f4e83-9cbd-431c-86f6-810a418f55bd",
-    "yid": null,
+    "yid": 21452275,
     "password": "21452275",
     "kid": 11822,
     "name": "Aroma Jar",
     "name_jp": "アロマポット",
     "name_jp_rom": "Aroma Potto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Aroma Pot",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP038",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
         "misc": [
             "Flip monster without a Flip effect"
         ]
-    }
+    },
+    "links": {}
 }

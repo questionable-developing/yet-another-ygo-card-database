@@ -1,12 +1,14 @@
 {
     "cid": "58db44a9-f8e6-45da-8b26-b4d49f554f9c",
-    "yid": null,
+    "yid": 3648368,
     "password": "03648368",
     "kid": 7962,
     "name": "Ally of Justice Searcher",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ・Ｏ・Ｊ</rb><rp> (</rp><rt>アーリー・オブ・ジャスティス</rt><rp>)</rp></ruby> リサーチャー",
     "name_jp_rom": "Ārī obu Jasutisu Risāchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ally of Justice Researcher",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT03-JP025",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP075",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +105,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

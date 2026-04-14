@@ -1,11 +1,14 @@
 {
     "cid": "c9eed947-1903-48ba-9fd1-071170ec860b",
+    "yid": 72345736,
     "password": "72345736",
     "kid": 7458,
     "name": "Six Samurai United",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ろく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衆</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>束</rb><rp> (</rp><rt>そく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rokubushū no Kessoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Six Warmen Unity",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -81,6 +84,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP059",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP096",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBSW-JP013",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +143,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

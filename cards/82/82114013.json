@@ -1,11 +1,14 @@
 {
     "cid": "9bb7d6d8-3ff1-4cae-8c22-dbc682dd0613",
+    "yid": 82114013,
     "password": "82114013",
     "kid": 11770,
     "name": "Sea Dragoons of Draconia",
     "name_jp": "ドラコニアの<ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dorakonia no Kairyūkihei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP049",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like, Condition"
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

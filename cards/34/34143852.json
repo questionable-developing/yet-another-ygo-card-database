@@ -1,12 +1,14 @@
 {
     "cid": "576b66a8-395a-40e3-864b-5c86683d7143",
-    "yid": null,
+    "yid": 34143852,
     "password": "34143852",
     "kid": 10230,
     "name": "Heroic Challenger - Extra Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｈ</rb><rp> (</rp><rt>ヒロイック</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チャレンジャー</rt><rp>)</rp></ruby> エクストラ・ソード",
     "name_jp_rom": "Hiroikku Charenjā Ekusutora Sōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ABYR-EN008",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP008",
             "set": "Abyss Rising",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "5315cac5-510e-4d1a-9d5e-4af0b0c6cae6",
+    "yid": 94664694,
     "password": "94664694",
     "kid": 7871,
     "name": "Mad Archfiend",
     "name_jp": "マッド・デーモン",
     "name_jp_rom": "Maddo Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mad Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP003",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT03-JP002",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "VS15-JPD08",
+            "set": "Duelist Entry Deck VS",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "5b445cc2-3349-414b-bed6-27461408837d",
-    "yid": null,
+    "yid": 16960120,
     "password": "16960120",
     "kid": 14761,
     "name": "Kitchen Dragonmaid",
     "name_jp": "ドラゴンメイド・ティルル",
     "name_jp_rom": "Doragonmeido Tiruru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Tillroo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP018",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP060",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP007",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +129,6 @@
             "At the start of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

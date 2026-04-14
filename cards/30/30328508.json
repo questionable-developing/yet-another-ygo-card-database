@@ -1,12 +1,14 @@
 {
     "cid": "0bb14d90-8146-44a8-9eb2-246999fa335d",
-    "yid": null,
+    "yid": 30328508,
     "password": "30328508",
     "kid": 11234,
     "name": "Shaddoll Squamata",
     "name_jp": "シャドール・リザード",
     "name_jp_rom": "Shadōru Rizādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shaddoll Lizard",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP025",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP006",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP068",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +131,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "97b299ec-8802-41d2-a8c7-b2418be0ffe4",
+    "yid": 87292536,
     "password": "87292536",
     "kid": 8327,
     "name": "XX-Saber Ragigura",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＸ</rb><rp> (</rp><rt>ダブルエックス</rt><rp>)</rp></ruby>－セイバー レイジグラ",
     "name_jp_rom": "Daburu Ekkusu-Seibā Reijigura",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -21,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "When this card is Normal or Special Summoned, you can add 1 \"X-Saber\" monster from your Graveyard to your hand.",
+    "desc": "When this card is Normal or Special Summoned: You can target 1 \"X-Saber\" monster in your GY; add it to your hand.",
     "pend_eff": null,
-    "mnst_eff": "When this card is Normal or Special Summoned, you can add 1 \"X-Saber\" monster from your Graveyard to your hand.",
-    "eff": "When this card is Normal or Special Summoned, you can add 1 \"X-Saber\" monster from your Graveyard to your hand.",
+    "mnst_eff": "When this card is Normal or Special Summoned: You can target 1 \"X-Saber\" monster in your GY; add it to your hand.",
+    "eff": "When this card is Normal or Special Summoned: You can target 1 \"X-Saber\" monster in your GY; add it to your hand.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XXSaberRagigura-TU03-EN-R-UE.png",
+            "full": "XXSaberRagigura-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -47,6 +50,37 @@
             "set": "Turbo Pack: Booster Three",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX05",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP036",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPRG-JP017",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP008",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -81,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

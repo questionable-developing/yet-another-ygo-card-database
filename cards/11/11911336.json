@@ -6,7 +6,9 @@
     "name": "Spellbook of the Grand Circle",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>輪</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tairin no Madōsho",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CH02-JP028",
+            "set": "THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -54,6 +66,7 @@
         ],
         "asup": [],
         "arc": [
+            "Prophecy",
             "Spellbook"
         ],
         "suparc": [

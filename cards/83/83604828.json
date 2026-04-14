@@ -1,11 +1,14 @@
 {
     "cid": "5d778d98-94cb-4151-a9e1-c7a45f06abb3",
+    "yid": 83604828,
     "password": "83604828",
     "kid": 7265,
     "name": "Cloudian - Ghost Fog",
     "name_jp": "<ruby lang=\"jp\"><rb>雲魔物</rb><rp> (</rp><rt>クラウディアン</rt><rp>)</rp></ruby>－ゴースト・フォッグ",
     "name_jp_rom": "Kuraudian - Gōsuto Foggu",
+    "name_jp_rom_base": "Unmamono - Gōsuto Foggu",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Cloud Monster - Ghost Fog",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP006",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

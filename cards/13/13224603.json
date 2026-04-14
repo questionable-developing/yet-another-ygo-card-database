@@ -1,12 +1,14 @@
 {
     "cid": "58a55a76-0fec-4430-afb2-f937fc052561",
-    "yid": null,
+    "yid": 13224603,
     "password": "13224603",
     "kid": 14650,
     "name": "Gizmek Yata, the Gleaming Vanguard",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巧</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>嘴</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>八咫御先</rb><rp> (</rp><rt>ヤタノミサキ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikōshi - Yata no Misaki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mechanical Beak - Yata-no-Misaki",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP023",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

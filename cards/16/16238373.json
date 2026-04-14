@@ -1,12 +1,14 @@
 {
     "cid": "bc1e2617-7cb8-4eee-b267-b33b2ed705d5",
-    "yid": null,
+    "yid": 16238373,
     "password": "16238373",
     "kid": 19827,
     "name": "Psychic Arsenal",
     "name_jp": "<ruby lang=\"jp\"><rb>大電脳兵廠</rb><rp> (</rp><rt>サイコ・アーセナル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saiko Āsenaru",
+    "name_jp_rom_base": "Daidennōheishō",
     "name_jp_tl": "Psycho Arsenal",
+    "name_jp_tl_base": "Great Cyber Soldier Workshop",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP25-EN327",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP061",
+            "set": "World Premiere Pack 2024",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +97,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

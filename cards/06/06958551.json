@@ -1,12 +1,14 @@
 {
     "cid": "ea5853d1-f976-4a09-aa47-0c1989deed74",
-    "yid": null,
+    "yid": 6958551,
     "password": "06958551",
     "kid": 11903,
     "name": "Shadow Toon",
     "name_jp": "シャドー・トゥーン",
     "name_jp_rom": "Shadō Tūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ShadowToon-CPD1-JP-C.png",
+            "art": "ShadowToon-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ShadowToon-DLCS-EN-UR-1E.png",
-            "art": null
+            "art": "ShadowToon-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DRL2-EN025",
@@ -45,6 +52,15 @@
             "set": "Dragons of Legend: The Complete Series",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP025",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -81,5 +97,6 @@
             "Only once per turn",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

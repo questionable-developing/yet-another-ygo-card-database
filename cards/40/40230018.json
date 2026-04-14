@@ -1,11 +1,14 @@
 {
     "cid": "bda48407-4095-4519-aec0-738c6b7846c0",
+    "yid": 40230018,
     "password": "40230018",
     "kid": 10318,
     "name": "Spellbook Library of the Crescent",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>庫</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby>クレッセン",
     "name_jp_rom": "Madōshoko Kuressen",
-    "name_jp_tl": "Spellbook Library Crescent",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Spellbook Library Crescen",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP018",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

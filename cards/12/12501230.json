@@ -1,12 +1,14 @@
 {
     "cid": "0e866e07-abbc-45b9-af46-d9ad022007da",
-    "yid": null,
+    "yid": 12501230,
     "password": "12501230",
     "kid": 19028,
     "name": "Combat Wheel",
     "name_jp": "コンバット・ホイール",
     "name_jp_rom": "Konbatto Hoīru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC03-JP007",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,6 +101,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

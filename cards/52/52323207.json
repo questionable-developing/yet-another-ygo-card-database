@@ -1,11 +1,14 @@
 {
     "cid": "b00ab66e-ede0-46bb-bab8-4998a201985e",
+    "yid": 52323207,
     "password": "52323207",
     "kid": 6254,
     "name": "Golem Sentry",
     "name_jp": "<ruby lang=\"jp\"><rb>番</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>ぺい</rt><rp>)</rp></ruby>ゴーレム",
     "name_jp_rom": "Banpei Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sentry Golem",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP025",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP145",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD7-JP008",
+            "set": "Structure Deck: Invincible Fortress",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +113,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

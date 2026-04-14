@@ -1,11 +1,14 @@
 {
     "cid": "b19efb3a-e60a-4498-892a-89f5ee0139f1",
+    "yid": 92530005,
     "password": "92530005",
     "kid": 20486,
     "name": "Performage Ball Balancer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>ボール・ライダー",
     "name_jp_rom": "Entameiji Bōru Raidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermage Ball Rider",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "ROTA-EN010",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP010",
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
@@ -96,5 +108,6 @@
             "Requires control of specific archetype",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "5161bc4d-7336-4ee6-9555-0a5ae677fad6",
+    "yid": 69633792,
     "password": "69633792",
     "kid": 9902,
     "name": "Evolsaur Terias",
     "name_jp": "エヴォルダー・テリアス",
     "name_jp_rom": "Evorudā Teriasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evolder Terias",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN028",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP028",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

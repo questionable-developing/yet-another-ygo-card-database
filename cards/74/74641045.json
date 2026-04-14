@@ -1,11 +1,14 @@
 {
     "cid": "c9e4d0a6-25a6-4ed9-b3b9-4456112722c0",
+    "yid": 74641045,
     "password": "74641045",
     "kid": 10156,
     "name": "Madolche Puddingcess",
     "name_jp": "マドルチェ・プディンセス",
     "name_jp_rom": "Madoruche Pudinsesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Madolche Puddincess",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +69,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP026",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP043",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP146",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +134,6 @@
         "misc": [
             "Requires having no monsters in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "4d5a8991-64f2-49f4-b27a-e02092fd7966",
-    "yid": null,
+    "yid": 20001443,
     "password": "20001443",
     "kid": 16489,
     "name": "Swordsoul of Mo Ye",
     "name_jp": "<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>莫</rb><rp> (</rp><rt>バク</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>ヤ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōkenshi - Bakuya",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xiangjian Master - Mo Ye",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +60,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP003",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BODE-JP003",
+            "set": "Burst of Destiny +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP071",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +134,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

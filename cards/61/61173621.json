@@ -1,11 +1,14 @@
 {
     "cid": "667324ca-78cd-4627-a574-1ced6b688ed0",
+    "yid": 61173621,
     "password": "61173621",
     "kid": 11688,
     "name": "Edge Imp Chain",
     "name_jp": "エッジインプ・チェーン",
     "name_jp_rom": "Ejji Inpu Chēn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -84,6 +87,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP013",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPFE-JP019",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBJH-JP012",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -122,5 +150,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

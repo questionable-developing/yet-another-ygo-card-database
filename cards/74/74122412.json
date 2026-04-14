@@ -1,11 +1,14 @@
 {
     "cid": "de8bbdd7-7e18-4ef4-baf6-1e8a10848842",
+    "yid": 74122412,
     "password": "74122412",
     "kid": 11564,
     "name": "Nekroz of Gungnir",
     "name_jp": "グングニールの<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gungunīru no Nekurosu",
+    "name_jp_rom_base": "Gungunīru no Eireii",
     "name_jp_tl": "Necroth of Gungnir",
+    "name_jp_tl_base": "Shadow Spirit Cloth of Gungnir",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -59,6 +62,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP044",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP088",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +125,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

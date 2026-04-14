@@ -1,12 +1,14 @@
 {
     "cid": "ee8e4472-5ee2-43ea-bba3-f669ce73a407",
-    "yid": null,
+    "yid": 16616620,
     "password": "16616620",
     "kid": 6774,
     "name": "Contact",
     "name_jp": "コンタクト",
     "name_jp_rom": "Kontakuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP037",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP03-JP021",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "misc": [
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

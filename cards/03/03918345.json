@@ -1,12 +1,14 @@
 {
     "cid": "d476225c-3ceb-4beb-bbf6-5f80ba78d306",
-    "yid": null,
+    "yid": 3918345,
     "password": "03918345",
     "kid": 7293,
     "name": "Magical Reflect Slime",
     "name_jp": "マジック・スライム",
     "name_jp_rom": "Majikku Suraimu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Slime",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP028",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

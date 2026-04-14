@@ -1,11 +1,14 @@
 {
     "cid": "d89e4cd9-051b-48cc-9ffe-78ebd8ec1a23",
+    "yid": 50823978,
     "password": "50823978",
     "kid": 5968,
     "name": "Piranha Army",
     "name_jp": "<ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>ピラニア",
     "name_jp_rom": "Guntai Pirania",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Army Piranha",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "308-026",
+            "set": "The Sanctuary in the Sky (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP138",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

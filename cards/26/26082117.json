@@ -1,12 +1,14 @@
 {
     "cid": "60234e3c-fd50-4278-b3db-32857cb05754",
-    "yid": null,
+    "yid": 26082117,
     "password": "26082117",
     "kid": 9618,
     "name": "Gagaga Magician",
     "name_jp": "ガガガマジシャン",
     "name_jp_rom": "Gagaga Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -115,6 +117,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP001",
+            "set": "Generation Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP12-JP003",
+            "set": "Duelist Pack: Yuma",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "ST13-JP009",
+            "set": "Starter Deck 2013",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20TH-JPB22",
+            "set": "20th Anniversary Duelist Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD42-JP004",
+            "set": "Structure Deck: Overlay Universe",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -130,7 +169,9 @@
         ],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Signature move"
+        ],
         "counter": [],
         "action": [
             "Declares a Level"
@@ -152,5 +193,6 @@
             "Control only one",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

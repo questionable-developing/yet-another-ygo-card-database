@@ -6,7 +6,9 @@
     "name": "Dark Magician",
     "name_jp": "ブラック・マジシャン",
     "name_jp_rom": "Burakku Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -23,6 +25,9 @@
     "link": null,
     "arrows": null,
     "desc": "''The ultimate wizard in terms of attack and defense.''",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": null,
     "flavor": "The ultimate wizard in terms of attack and defense.",
     "images": {
         "1": {
@@ -59,6 +64,37 @@
             "set": "Quarter Century Stampede",
             "rarities": {
                 "Platinum Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "P4-02",
+            "set": "Premium Pack 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "15AY-JPB02",
+            "set": "Memories of the Duel King: Battle City Arc",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP16-JP008",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP018",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Secret Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }

@@ -1,11 +1,14 @@
 {
     "cid": "27700f66-dbfe-4dca-9875-6291df8dd713",
+    "yid": 62892347,
     "password": "62892347",
     "kid": 7581,
     "name": "Arcana Force 0 - The Fool",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>０</rb><rp> (</rp><rt>ゼロ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＦＯＯＬ</rb><rp> (</rp><rt>ザ・フール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Zero - Za Fūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,29 @@
         {
             "sid": "LODT-EN008",
             "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP008",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT11-JP014",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP116",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -85,5 +111,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

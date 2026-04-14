@@ -1,12 +1,14 @@
 {
     "cid": "2a1141aa-550c-42c5-983a-131ee9298363",
-    "yid": null,
+    "yid": 19743887,
     "password": "19743887",
     "kid": 21793,
     "name": "VARefar, the Judge of Ball",
     "name_jp": "<ruby lang=\"jp\"><rb>蹴</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＶＡＲｅｆａｒ</rb><rp> (</rp><rt>ヴァレファウル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shūshin - Varefauru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kick God - VARefar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP027",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,7 +72,7 @@
             "Activates from your hand",
             "Activates if targeted by card effect",
             "Activates if targeted for an attack",
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Changes battle positions"
         ],
         "stat_change": [
@@ -83,5 +94,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

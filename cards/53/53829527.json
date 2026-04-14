@@ -1,11 +1,14 @@
 {
     "cid": "a02988fc-d23f-4c82-9dc0-e0c3b0b5ee46",
+    "yid": 53829527,
     "password": "53829527",
     "kid": 20817,
     "name": "Crystron Cluster",
     "name_jp": "クリストロン・クラスター",
     "name_jp_rom": "Kurisutoron Kurasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN080",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP080",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Requires control of specific archetype",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d5bb47f2-608f-4761-a9a7-f2545daa3740",
+    "yid": 43014054,
     "password": "43014054",
     "kid": 9085,
     "name": "Vice Berserker",
     "name_jp": "バイス・バーサーカー",
     "name_jp_rom": "Baisu Bāsākā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STBL-EN008",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP008",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

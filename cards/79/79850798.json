@@ -1,11 +1,14 @@
 {
     "cid": "83f61106-9540-4d26-8b5c-c13af351e062",
+    "yid": 79850798,
     "password": "79850798",
     "kid": 10039,
     "name": "Rocket Arrow Express",
     "name_jp": "<ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>走</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>特</rb><rp> (</rp><rt>とっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>ロケット・アロー",
     "name_jp_rom": "Bakusōtokkyū Roketto Arō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Roaring Limited Express Rocket Arrow",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP016",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP001",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +122,6 @@
             "Requires control of no cards",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

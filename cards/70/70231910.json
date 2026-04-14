@@ -1,11 +1,14 @@
 {
     "cid": "6b80ed09-348d-4c16-ae6c-0b82dcfa89ad",
+    "yid": 70231910,
     "password": "70231910",
     "kid": 5609,
     "name": "Dark Core",
     "name_jp": "ブラック・コア",
     "name_jp_rom": "Burakku Koa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Core",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "302-035",
+            "set": "Advent of Union",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP090",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

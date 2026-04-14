@@ -1,11 +1,14 @@
 {
     "cid": "6d5bae75-1bf9-42f1-ad75-0804a7d6ccdc",
+    "yid": 73872164,
     "password": "73872164",
     "kid": 7008,
     "name": "Eliminating the League",
     "name_jp": "お<ruby lang=\"jp\"><rb>家</rb><rp> (</rp><rt>いえ</rt><rp>)</rp></ruby>おとりつぶし",
     "name_jp_rom": "Oie Otoritsubushi",
-    "name_jp_tl": "Family Decoy Crush",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Confiscating the Property",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,10 +51,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP052",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP106",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "17TP-JP313",
+            "set": "Tournament Pack 2017 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Cost, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [
@@ -81,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

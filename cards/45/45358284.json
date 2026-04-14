@@ -1,11 +1,14 @@
 {
     "cid": "f41925ac-9758-4135-b50b-7b1d12ba13d9",
+    "yid": 45358284,
     "password": "45358284",
     "kid": 9079,
     "name": "Mirror Ladybug",
     "name_jp": "ミラー・レディバグ",
     "name_jp_rom": "Mirā Redibagu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP002",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +86,6 @@
         "misc": [
             "Requires having no monsters in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

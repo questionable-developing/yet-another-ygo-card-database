@@ -1,11 +1,14 @@
 {
     "cid": "2bdad6ac-e30a-4c6f-85cc-49d525f9432c",
+    "yid": 94068856,
     "password": "94068856",
     "kid": 8487,
     "name": "Time Passage",
     "name_jp": "タイムパッセージ",
     "name_jp_rom": "Taimu Passēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,15 +29,36 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TimePassage-DE04-JP-C.jpg",
+            "art": "TimePassage-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TimePassage-SOVR-EN-C-UE.jpg",
-            "art": null
+            "art": "TimePassage-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN052",
             "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP052",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP072",
+            "set": "Duelist Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -67,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

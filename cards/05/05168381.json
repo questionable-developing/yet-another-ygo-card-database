@@ -1,12 +1,14 @@
 {
     "cid": "4471f231-93f4-4777-9e9f-a589f08de856",
-    "yid": null,
+    "yid": 5168381,
     "password": "05168381",
     "kid": 17372,
     "name": "Archfiend's Ghastly Glitch",
     "name_jp": "<ruby lang=\"jp\"><rb>悪魔の技</rb><rp> (</rp><rt>デーモン・グリッチ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dēmon Guritchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Daemon Glitch",
+    "name_jp_tl_base": "Demon's Move",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP026",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "23YJ-JPN02",
+            "set": "Labrynth Duel Set",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +104,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "66113351-f868-4521-805b-42556aedc5d5",
+    "yid": 63899465,
     "password": "63899465",
     "kid": 17998,
     "name": "Rescue-ACE HQ",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｒ－ＡＣＥ</rb><rp> (</rp><rt>レスキュー・エース</rt><rp>)</rp></ruby>ヘッドクオーター",
     "name_jp_rom": "Resukyū Ēsu Heddokuōtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rescue-ACE Headquarter",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP008",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA12",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +113,6 @@
             "Gain this effect once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

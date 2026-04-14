@@ -1,11 +1,14 @@
 {
     "cid": "0062c138-282f-43c7-be9f-9691057e9982",
+    "yid": 97631303,
     "password": "97631303",
     "kid": 14906,
     "name": "Magicians' Souls",
     "name_jp": "マジシャンズ・ソウルズ",
     "name_jp_rom": "Majishanzu Souruzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -70,6 +73,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP23-JP002",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP009",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP004",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP010",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +152,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

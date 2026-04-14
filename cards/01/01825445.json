@@ -1,12 +1,14 @@
 {
     "cid": "5dd1c298-6b7e-43b7-9d36-ddd76afce684",
-    "yid": null,
+    "yid": 1825445,
     "password": "01825445",
     "kid": 14321,
     "name": "Super Quantal Union - Magnaformation",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>量</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>がっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>－マグナフォーメーション",
     "name_jp_rom": "Chōryōgasshin - Magunafōmēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Quantal God Union - Magnaformation",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN071",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP071",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

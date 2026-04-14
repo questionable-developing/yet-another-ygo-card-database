@@ -6,7 +6,9 @@
     "name": "Ash Blossom & Joyous Spring",
     "name_jp": "<ruby lang=\"jp\"><rb>灰</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>流</rb><rp> (</rp><rt>る</rt><rp>)</rp></ruby>うらら",
     "name_jp_rom": "Haru Urara",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -31,7 +33,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "AshBlossomJoyousSpring-L5DD-EN-C-1E.png",
+            "full": "AshBlossomJoyousSpring-L26D-EN-C-1E.png",
             "art": "AshBlossomJoyousSpring-MADU-EN-VG-artwork.png"
         },
         "2": {
@@ -41,127 +43,298 @@
         },
         "3": {
             "idx": "3",
-            "full": "AshBlossomJoyousSpring-LPST-JP-UR.png",
+            "full": "AshBlossomJoyousSpring-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "3",
     "sets": [
         {
             "sid": "MACR-EN036",
             "set": "Maximum Crisis",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "LCKC-EN080",
             "set": "Legendary Collection Kaiba Mega Pack",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "SHVA-EN047",
             "set": "Shadows in Valhalla",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "SDSB-EN019",
             "set": "Structure Deck: Soulburner",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "DUPO-EN077",
             "set": "Duel Power",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "DUDE-EN003",
             "set": "Duel Devastator",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["2"]
             }
         },
         {
             "sid": "MAGO-EN011",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1", "2"]
             }
         },
         {
             "sid": "MP22-EN257",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "SDCB-EN014",
             "set": "Structure Deck: Legend of the Crystal Beasts",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "SDBT-EN014",
             "set": "Structure Deck: Beware of Traptrix",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA01-EN008",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "SDWD-EN017",
             "set": "Structure Deck: Blue-Eyes White Destiny",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA04-EN025",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["2"],
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Platinum Secret Rare": ["2"],
+                "Quarter Century Secret Rare": ["2"],
+                "Ultimate Rare": ["2"],
+                "Collector's Rare": ["2"]
             }
         },
         {
             "sid": "L5DD-ENY17",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "L5DD-ENC09",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "L26D-ENM02",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN091",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP036",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC02-JP009",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD35-JP019",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "20TH-JPC85",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP010",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["2"],
+                "Collector's Rare": ["2"],
+                "Premium Gold Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "PAC1-JP016",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Prismatic Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "SD44-JP014",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP009",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Holographic Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP021",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPA09",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPB11",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPC04",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD47-JP015",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP050",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "TT02-JPA09",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPB11",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP078",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD48-JP017",
+            "set": "Structure Deck: Power of Fellows",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP009",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],

@@ -1,11 +1,14 @@
 {
     "cid": "e741a3b0-0c5f-49d9-8b09-f27acfee1c36",
+    "yid": 42149850,
     "password": "42149850",
     "kid": 14874,
     "name": "Disposable Learner Device",
     "name_jp": "<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>捨</rb><rp> (</rp><rt>す</rt><rp>)</rp></ruby>て<ruby lang=\"jp\"><rb>学習装置</rb><rp> (</rp><rt>ラーニングマシン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tsukaisute Rāningu Mashin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Disposable Learning Machine",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP065",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

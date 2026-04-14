@@ -1,11 +1,14 @@
 {
     "cid": "fb8c6663-6b78-48bc-a0bd-a85a40eee14e",
+    "yid": 94103142,
     "password": "94103142",
     "kid": 21828,
     "name": "Radiant Typhoon Manifestation",
     "name_jp": "<ruby lang=\"jp\"><rb>絢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>嵐</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby>たる<ruby lang=\"jp\"><rb>顕</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>現</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kenrantaru Kengen",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DOOD-EN062",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP062",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

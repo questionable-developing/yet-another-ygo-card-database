@@ -1,11 +1,14 @@
 {
     "cid": "dd6b9976-b611-4994-b0ee-d75c1470ba3e",
+    "yid": 95937545,
     "password": "95937545",
     "kid": 20414,
     "name": "Golden Allure Queen",
     "name_jp": "<ruby lang=\"jp\"><rb>金色の魅惑の女王</rb><rp> (</rp><rt>ゴールデン・アリュール・クィーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōruden Aryūru Kwīn",
+    "name_jp_rom_base": "Kin'iro no Miwaku no Joō",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +48,17 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP027",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
             }
         }
     ],
@@ -93,7 +107,9 @@
         "smat": [],
         "misc": [
             "Can be activated during either player's turn",
-            "Limited activations"
+            "Limited activations",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

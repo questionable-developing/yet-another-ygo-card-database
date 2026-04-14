@@ -1,11 +1,14 @@
 {
     "cid": "fb3a7f2f-d746-4ebe-9ef4-5d9cef87e987",
+    "yid": 37745919,
     "password": "37745919",
     "kid": 8204,
     "name": "Junk Box",
     "name_jp": "ジャンク<ruby lang=\"jp\"><rb>ＢＯＸ</rb><rp> (</rp><rt>ボックス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Janku Bokkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +48,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP052",
+            "set": "Raging Battle",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP144",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP27-JP016",
+            "set": "Duelist Pack: Duelists of Pyroxene",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "366f0513-80ec-4de8-ad24-2ef2da66aa14",
-    "yid": null,
+    "yid": 32764863,
     "password": "32764863",
     "kid": 15061,
     "name": "Xyz Revive Splash",
     "name_jp": "エクシーズ・リバイブ・スプラッシュ",
     "name_jp_rom": "Ekushīzu Ribaibu Supurasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "ETCO-EN075",
             "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP075",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AC04-JP043",
+            "set": "Animation Chronicle 2024",
             "rarities": {
                 "Common": []
             }
@@ -85,5 +103,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

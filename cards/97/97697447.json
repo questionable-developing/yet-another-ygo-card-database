@@ -1,11 +1,14 @@
 {
     "cid": "0789bbe7-eea1-4270-b7dd-fa9a4554d6c8",
+    "yid": 97697447,
     "password": "97697447",
     "kid": 10295,
     "name": "Abyss-strom",
     "name_jp": "アビストローム",
     "name_jp_rom": "Abisutorōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Abysstrom",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ABYR-EN073",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP073",
             "set": "Abyss Rising",
             "rarities": {
                 "Rare": []
@@ -78,5 +90,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

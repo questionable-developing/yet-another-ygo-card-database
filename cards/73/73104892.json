@@ -1,11 +1,14 @@
 {
     "cid": "a4eb15e4-826a-4d06-a292-1fe626139056",
+    "yid": 73104892,
     "password": "73104892",
     "kid": 16847,
     "name": "Maple Maiden",
     "name_jp": "いろはもみじ",
     "name_jp_rom": "Irohamomiji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP042",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

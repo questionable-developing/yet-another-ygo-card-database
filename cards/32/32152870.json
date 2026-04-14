@@ -1,12 +1,14 @@
 {
     "cid": "95cbc077-dbd5-4f37-853f-df9f289f1922",
-    "yid": null,
+    "yid": 32152870,
     "password": "32152870",
     "kid": 17814,
     "name": "Scareclaw Decline",
     "name_jp": "<ruby lang=\"jp\"><rb>械貶する肆世壊</rb><rp> (</rp><rt>ディクライン・スケアクロー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dikurain Sukeakurō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Decline Scareclaw",
+    "name_jp_tl_base": "Fourth Broken World Degraded by Machine",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP23-EN199",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP059",
+            "set": "Darkwing Blast",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

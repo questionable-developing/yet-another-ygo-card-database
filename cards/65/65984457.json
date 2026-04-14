@@ -1,11 +1,14 @@
 {
     "cid": "fcbf6436-16b0-493e-bc43-8a7419bf7bd4",
+    "yid": 65984457,
     "password": "65984457",
     "kid": 7481,
     "name": "Gladiator Beast Torax",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>トラケス",
     "name_jp_rom": "Guradiaru Bīsuto Torakesu",
+    "name_jp_rom_base": "Kentōjū Torakesu",
     "name_jp_tl": "Gladial Beast Torax",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP014",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

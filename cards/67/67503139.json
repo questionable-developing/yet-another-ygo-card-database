@@ -1,11 +1,14 @@
 {
     "cid": "4b0ea705-e9e7-4b0a-a17b-80215c6f5aa0",
+    "yid": 67503139,
     "password": "67503139",
     "kid": 11911,
     "name": "Prediction Princess Crystaldine",
     "name_jp": "<ruby lang=\"jp\"><rb>占</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>クリスタルウンディーネ",
     "name_jp_rom": "Senjutsuki Kurisutaru Undīne",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prediction Princess Crystalundine",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PredictionPrincessCrystaldine-CPD1-JP-C.png",
+            "art": "PredictionPrincessCrystaldine-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PredictionPrincessCrystaldine-DLCS-EN-C-1E.png",
-            "art": null
+            "art": "PredictionPrincessCrystaldine-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DRL2-EN034",
@@ -46,6 +54,15 @@
         {
             "sid": "DLCS-EN085",
             "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP034",
+            "set": "Collectors Pack: Duelist of Destiny Version",
             "rarities": {
                 "Common": []
             }
@@ -82,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

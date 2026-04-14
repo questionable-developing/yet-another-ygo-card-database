@@ -1,12 +1,14 @@
 {
     "cid": "37e4788d-0359-4f65-9d5f-bfa041c7ff86",
-    "yid": null,
+    "yid": 13846680,
     "password": "13846680",
     "kid": 6983,
     "name": "Firestorm Prominence",
     "name_jp": "ヘルプロミネンス",
     "name_jp_rom": "Heru Purominensu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Prominence",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "STON-EN026",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP026",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

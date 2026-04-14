@@ -1,11 +1,14 @@
 {
     "cid": "30e812f9-bd23-41f5-bb01-5c5e90e2bbcd",
+    "yid": 76978105,
     "password": "76978105",
     "kid": 20742,
     "name": "Evil HERO Infernal Rider",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> ヘル・ライダー",
     "name_jp_rom": "Ībiru Hīrō Heru Raidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil HERO Hell Rider",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SUDA-EN003",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP003",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -93,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

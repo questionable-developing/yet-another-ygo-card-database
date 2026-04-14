@@ -1,12 +1,14 @@
 {
     "cid": "20865bd4-64ba-4b71-ba9e-c7d3115733e1",
-    "yid": null,
+    "yid": 27036706,
     "password": "27036706",
     "kid": 15980,
     "name": "Starry Knight Ciel",
     "name_jp": "ホーリーナイツ・シエル",
     "name_jp_rom": "Hōrī Naitsu Shieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Nights Ciel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "LIOV-EN019",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP019",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -92,5 +103,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

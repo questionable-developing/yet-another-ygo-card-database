@@ -1,11 +1,14 @@
 {
     "cid": "194253fe-ce2d-4595-bbe4-957dceaaef0c",
+    "yid": 44052074,
     "password": "44052074",
     "kid": 12679,
     "name": "Ancient Gear Catapult",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械射出機</rb><rp> (</rp><rt>アンティーク・ギアカタパルト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Kataparuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Catapult",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -44,6 +47,25 @@
             "set": "Legendary Duelists: Season 1",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR03-JP021",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP122",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -91,5 +113,6 @@
             "Requires control of no monsters",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

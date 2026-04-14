@@ -1,11 +1,14 @@
 {
     "cid": "39404eb6-33c4-42a5-a400-355cd1eb8ba3",
+    "yid": 83008724,
     "password": "83008724",
     "kid": 18529,
     "name": "Gunkan Suship Catch-of-the-Day",
     "name_jp": "おすすめ<ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>貫</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>握</rb><rp> (</rp><rt>にぎ</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Osusume Gunkan Nigiri",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Suship Nigiri Recommendation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP066",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +78,7 @@
         ],
         "action": [
             "Reveals your hand for cost",
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Declares a card name",
             "Adds from Deck to hand",
             "Returns itself from field to Deck",
@@ -86,5 +98,6 @@
             "Limited activations",
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0debd192-de1c-421b-aa57-8b689947b877",
+    "yid": 54622031,
     "password": "54622031",
     "kid": 4570,
     "name": "Great Mammoth of Goldfine",
     "name_jp": "<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>色</rb><rp> (</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>象</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kin'iro no Mazō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Golden Demon Elephant",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Booster 5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "B3-37",
+            "set": "Booster R3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -72,7 +91,8 @@
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "Zombie counterpart"
+            "Zombie counterpart",
+            "Call of the Haunted (series)"
         ],
         "counter": [],
         "action": [],
@@ -90,5 +110,6 @@
         "misc": [
             "Non-Effect Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d7134922-dc1b-4c91-8a3d-0417ad0b8cfc",
+    "yid": 51717541,
     "password": "51717541",
     "kid": 8844,
     "name": "Infernity Break",
     "name_jp": "インフェルニティ・ブレイク",
     "name_jp_rom": "Inferuniti Bureiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "InfernityBreak-DE04-JP-C.png",
+            "art": "InfernityBreak-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "InfernityBreak-AP06-EN-SR-UE.png",
-            "art": null
+            "art": "InfernityBreak-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TSHD-EN069",
@@ -44,6 +52,22 @@
             "set": "Astral Pack Six",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP069",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP154",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -82,5 +106,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

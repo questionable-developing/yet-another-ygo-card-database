@@ -1,12 +1,14 @@
 {
     "cid": "854130f3-297e-4f33-a1ed-170e68618c9c",
-    "yid": null,
+    "yid": 27198001,
     "password": "27198001",
     "kid": 7363,
     "name": "Nine-Tailed Fox",
     "name_jp": "<ruby lang=\"jp\"><rb>九</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>尾</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>狐</rb><rp> (</rp><rt>きつね</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyūbi no Kitsune",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP20-JP014",
+            "set": "Premium Pack 20",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +80,9 @@
         ],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -97,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

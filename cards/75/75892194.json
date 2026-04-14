@@ -1,11 +1,14 @@
 {
     "cid": "8f1d9817-34c7-4f5c-8f92-3aca812ace7a",
+    "yid": 75892194,
     "password": "75892194",
     "kid": 20178,
     "name": "Ancient Gear Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械竜</rb><rp> (</rp><rt>アンティーク・ギアドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Dragon",
+    "name_jp_tl_base": "Ancient Machine Dragon",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,22 @@
         {
             "sid": "BLTR-EN048",
             "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP252",
+            "set": "V Jump May 2024 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "25PP-JP032",
+            "set": "Premium Pack 2025",
             "rarities": {
                 "Secret Rare": []
             }
@@ -92,5 +111,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

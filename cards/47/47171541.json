@@ -1,11 +1,14 @@
 {
     "cid": "66399a1a-74c0-4758-9db5-7619c9c7b5ee",
+    "yid": 47171541,
     "password": "47171541",
     "kid": 14153,
     "name": "Orcustrated Release",
     "name_jp": "オルフェゴール・リリース",
     "name_jp_rom": "Orufegōru Rirīsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Release",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SAST-EN076",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP076",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

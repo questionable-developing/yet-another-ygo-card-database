@@ -1,12 +1,14 @@
 {
     "cid": "a5cf9c4f-1e53-4d9e-9855-1577e26bca09",
-    "yid": null,
+    "yid": 19596712,
     "password": "19596712",
     "kid": 10420,
     "name": "Abyss-scale of Cetus",
     "name_jp": "アビスケイル－ケートス",
     "name_jp_rom": "Abisukeiru - Kētosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Abysscale - Cetus",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CBLZ-EN061",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP061",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

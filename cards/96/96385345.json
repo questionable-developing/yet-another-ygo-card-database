@@ -1,11 +1,14 @@
 {
     "cid": "4cfd7968-d736-48b4-944f-5126a7125e26",
+    "yid": 96385345,
     "password": "96385345",
     "kid": 11643,
     "name": "Rose Paladin",
     "name_jp": "<ruby lang=\"jp\"><rb>薔薇の聖騎士</rb><rp> (</rp><rt>ローズ・パラディン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rōzu Paradin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "RosePaladin-PP17-JP-C.png",
+            "art": "RosePaladin-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "RosePaladin-LDS2-EN-C-1E.png",
-            "art": null
+            "art": "RosePaladin-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PGL2-EN004",
@@ -47,6 +55,16 @@
             "set": "Legendary Duelists: Season 2",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PP17-JP004",
+            "set": "Premium Pack 17",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -89,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

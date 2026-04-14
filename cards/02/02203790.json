@@ -1,12 +1,14 @@
 {
     "cid": "7a34a34d-28e9-49c1-9af4-55dd9a700ddf",
-    "yid": null,
+    "yid": 2203790,
     "password": "02203790",
     "kid": 8655,
     "name": "XX-Saber Hyunlei",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＸ</rb><rp> (</rp><rt>ダブルエックス</rt><rp>)</rp></ruby>－セイバー ヒュンレイ",
     "name_jp_rom": "Daburu Ekkusu-Seibā Hyunrei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -23,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters<br />When this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
+    "desc": "1 Tuner + 1+ non-Tuner \"X-Saber\" monsters<br />When this card is Synchro Summoned: You can target up to 3 Spells/Traps on the field; destroy them.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
-    "eff": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned: You can target up to 3 Spells/Traps on the field; destroy them.",
+    "eff": "1 Tuner + 1+ non-Tuner \"X-Saber\" monsters\nWhen this card is Synchro Summoned: You can target up to 3 Spells/Traps on the field; destroy them.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XXSaberHyunlei-RA04-EN-PlScR-1E.png",
+            "full": "XXSaberHyunlei-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -51,6 +53,39 @@
             "rarities": {
                 "Platinum Secret Rare": [],
                 "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX35",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP044",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP112",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP012",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -92,5 +127,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

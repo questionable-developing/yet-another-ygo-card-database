@@ -1,11 +1,14 @@
 {
     "cid": "586c448d-7ded-4063-ab1e-ad687d8ec666",
+    "yid": 87880531,
     "password": "87880531",
     "kid": 5631,
     "name": "Diffusion Wave-Motion",
     "name_jp": "<ruby lang=\"jp\"><rb>拡</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>散</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>波</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kakusansuru Hadō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Diffusing Wave",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -82,6 +85,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "303-053",
+            "set": "Champion of Black Magic",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP162",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD6-JP024",
+            "set": "Structure Deck: Spellcaster's Judgment",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPB22",
+            "set": "Memories of the Duel King: Battle City Arc",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20TH-JPB04",
+            "set": "20th Anniversary Duelist Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +159,6 @@
             "Archetype-exclusion condition",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

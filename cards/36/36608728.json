@@ -1,12 +1,14 @@
 {
     "cid": "067ef23d-34e5-4270-9e71-477700cc97f3",
-    "yid": null,
+    "yid": 36608728,
     "password": "36608728",
     "kid": 21411,
-    "name": "Saiba the Fighting Swordsmith",
+    "name": "Saiba the Soldier Swordsmith",
     "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>いくさ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>匠</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>サイバ",
     "name_jp_rom": "Ikusatōshō Saiba",
-    "name_jp_tl": null,
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Saiba the Battle Swordsmith",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -23,20 +25,29 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1+ non-Tuner monsters<br />You can target 1 Level 6 or lower Warrior monster in your GY; Special Summon it (but its effects are negated), also this card cannot be used as Synchro Material for the rest of this turn. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Warrior monster. You can only use each effect of \"Saiba the Fighting Swordsmith\" once per turn.",
+    "desc": "1 Tuner + 1+ non-Tuners<br />You can target 1 Level 6 or lower Warrior monster in your GY; Special Summon it (but negate its effects), also this card cannot be used as Synchro Material this turn. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Warrior monster. You can only use each effect of \"Saiba the Soldier Swordsmith\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1+ non-Tuner monsters\nYou can target 1 Level 6 or lower Warrior monster in your GY; Special Summon it (but its effects are negated), also this card cannot be used as Synchro Material for the rest of this turn. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Warrior monster. You can only use each effect of \"Saiba the Fighting Swordsmith\" once per turn.",
-    "eff": "1 Tuner + 1+ non-Tuner monsters\nYou can target 1 Level 6 or lower Warrior monster in your GY; Special Summon it (but its effects are negated), also this card cannot be used as Synchro Material for the rest of this turn. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Warrior monster. You can only use each effect of \"Saiba the Fighting Swordsmith\" once per turn.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuners\nYou can target 1 Level 6 or lower Warrior monster in your GY; Special Summon it (but negate its effects), also this card cannot be used as Synchro Material this turn. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Warrior monster. You can only use each effect of \"Saiba the Soldier Swordsmith\" once per turn.",
+    "eff": "1 Tuner + 1+ non-Tuners\nYou can target 1 Level 6 or lower Warrior monster in your GY; Special Summon it (but negate its effects), also this card cannot be used as Synchro Material this turn. During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Warrior monster. You can only use each effect of \"Saiba the Soldier Swordsmith\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SaibatheFightingSwordsmith-YO10-JP-UR.png",
+            "full": "SaibatheSoldierSwordsmith-YO10-JP-UR.png",
             "art": null
         }
     },
     "image": null,
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "YO10-JP001",
+            "set": "Yu-Gi-Oh! OCG Structures Volume 10 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +85,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

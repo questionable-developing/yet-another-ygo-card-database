@@ -1,11 +1,14 @@
 {
     "cid": "31d74a37-f49c-4224-8e9d-909e5c4bd149",
+    "yid": 66975205,
     "password": "66975205",
     "kid": 21372,
     "name": "Yummyusment☆Mignon",
     "name_jp": "ヤミーズメント☆ミニヨン",
     "name_jp_rom": "Yamīzumento☆Miniyon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "YummyusmentMignon-JUSH-EN-R-1E.png",
+            "full": "YummyusmentMignon-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -38,6 +41,29 @@
             "rarities": {
                 "Rare": [],
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN073",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP023",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -86,5 +112,6 @@
             "Only once per turn",
             "Requires control of specific Link Rating"
         ]
-    }
+    },
+    "links": {}
 }

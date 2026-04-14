@@ -1,12 +1,14 @@
 {
     "cid": "be10ac0b-26ef-4e3e-b657-f04ac7d68366",
-    "yid": null,
+    "yid": 35151572,
     "password": "35151572",
     "kid": 20066,
     "name": "Shaman of the Ashened City",
     "name_jp": "<ruby lang=\"jp\"><rb>灰</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>せし<ruby lang=\"jp\"><rb>都</rb><rp> (</rp><rt>みやこ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaimetsuseshi Miyako no Jujutsushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP25-EN371",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP032",
+            "set": "World Premiere Pack 2024",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

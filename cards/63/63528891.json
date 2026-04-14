@@ -1,11 +1,14 @@
 {
     "cid": "62223633-42ff-4181-aa30-81c397df0bb8",
+    "yid": 63528891,
     "password": "63528891",
     "kid": 13041,
     "name": "Backup Secretary",
     "name_jp": "バックアップ・セクレタリー",
     "name_jp_rom": "Bakkuappu Sekuretarī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -86,6 +89,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP002",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVB1-JP004",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP011",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP094",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +155,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

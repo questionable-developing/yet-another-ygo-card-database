@@ -1,12 +1,14 @@
 {
     "cid": "168c8be2-b34d-4ee8-98c1-26c01538725e",
-    "yid": null,
+    "yid": 6039967,
     "password": "06039967",
     "kid": 13646,
     "name": "Vampire Fraulein",
     "name_jp": "ヴァンパイア・フロイライン",
     "name_jp_rom": "Vanpaia Furoirain",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP003",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLT1-JP002",
+            "set": "Selection 10",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "97c85a49-3891-4984-a268-3b3781c6a591",
+    "yid": 59019082,
     "password": "59019082",
     "kid": 7593,
     "name": "Garoth, Lightsworn Warrior",
     "name_jp": "ライトロード・ウォリアー ガロス",
     "name_jp_rom": "Raitorōdo Woriā Garosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Warrior Garoth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -85,6 +88,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP020",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP121",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL06",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -118,5 +144,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

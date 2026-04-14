@@ -1,12 +1,14 @@
 {
     "cid": "0f37ecff-a4ba-4472-a1cc-b523386d6136",
-    "yid": null,
+    "yid": 11047543,
     "password": "11047543",
     "kid": 9527,
     "name": "Psychic Feel Zone",
     "name_jp": "サイコ・フィール・ゾーン",
     "name_jp_rom": "Saiko Fīru Zōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Feel Zone",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "EXVC-EN056",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP056",
             "set": "Extreme Victory",
             "rarities": {
                 "Rare": []
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

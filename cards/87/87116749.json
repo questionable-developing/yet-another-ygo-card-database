@@ -1,11 +1,14 @@
 {
     "cid": "ae72ffbc-bd09-4766-a0fb-6166735c12ef",
+    "yid": 87116749,
     "password": "87116749",
     "kid": 16832,
     "name": "Submareed Tour Ride",
     "name_jp": "<ruby lang=\"jp\"><rb>游</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>覧</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>艇</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>サブマリード",
     "name_jp_rom": "Yūrantei Sabumarīdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Submareed the Swimming Sightseeing Ship",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BACH-EN027",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP027",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
             "Requires control of specific Monster type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

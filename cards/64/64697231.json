@@ -1,11 +1,14 @@
 {
     "cid": "c7bc05e4-575f-4f92-8967-e33f6b13de9d",
+    "yid": 64697231,
     "password": "64697231",
     "kid": 5446,
     "name": "Trap Dustshoot",
     "name_jp": "ダスト・シュート",
     "name_jp_rom": "Dasuto Shūto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dust Chute",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -18,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Activate only if your opponent has 4 or more cards in their hand. Look at your opponent's hand, select 1 Monster Card in it, and return that card to its owner's Deck.",
+    "desc": "If your opponent has 4 or more cards in their hand: Look at your opponent's hand and choose 1 monster from it to shuffle into the Deck.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Activate only if your opponent has 4 or more cards in their hand. Look at your opponent's hand, select 1 Monster Card in it, and return that card to its owner's Deck.",
+    "eff": "If your opponent has 4 or more cards in their hand: Look at your opponent's hand and choose 1 monster from it to shuffle into the Deck.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "TrapDustshoot-RA04-EN-PlScR-1E.png",
+            "full": "TrapDustshoot-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -53,12 +56,62 @@
                 "Platinum Secret Rare": [],
                 "Quarter Century Secret Rare": []
             }
+        },
+        {
+            "sid": "RA05-EN077",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PH-48",
+            "set": "Pharaonic Guardian (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL5-133",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP246",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT08-JP048",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "BE02-JP201",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Rare": []
+            }
         }
     ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [],
@@ -81,5 +134,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

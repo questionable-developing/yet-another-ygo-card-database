@@ -1,12 +1,14 @@
 {
     "cid": "df0285c1-7e89-421f-98c3-ad40768ba797",
-    "yid": null,
+    "yid": 10612222,
     "password": "10612222",
     "kid": 14521,
     "name": "Yosenjus' Sword Sting",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>居</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>太</rb><rp> (</rp><rt>た</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yōsenjū no Itachikaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yosenjus' Weaselblade Wind",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "RIRA-EN071",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP071",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -74,5 +85,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

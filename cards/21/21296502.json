@@ -1,12 +1,14 @@
 {
     "cid": "c23594c2-291d-4228-ad3c-cbb21a7c8cff",
-    "yid": null,
+    "yid": 21296502,
     "password": "21296502",
     "kid": 12431,
     "name": "Toon Dark Magician",
     "name_jp": "トゥーン・ブラック・マジシャン",
     "name_jp_rom": "Tūn Burakku Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Toon Black Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -73,6 +75,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP032",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +130,6 @@
             "Variable effects",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "c88e00d9-970e-4d29-b175-9a9f98db0fb0",
-    "yid": null,
+    "yid": 29628180,
     "password": "29628180",
     "kid": 13327,
     "name": "Magical Musket - Last Stand",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>－デッドマンズ・バースト",
     "name_jp_rom": "Madan - Deddomanzu Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magibullet - Deadman's Burst",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -46,6 +48,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP028",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP166",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

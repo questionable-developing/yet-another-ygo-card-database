@@ -1,12 +1,14 @@
 {
     "cid": "0ce7df9f-deb0-4993-9df5-104b85b1f099",
-    "yid": null,
+    "yid": 22091345,
     "password": "22091345",
     "kid": 11524,
     "name": "Performapal Spikeagle",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>スパイク・イーグル",
     "name_jp_rom": "Entameito Supaiku Īguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Spike Eagle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP004",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

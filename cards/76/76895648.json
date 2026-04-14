@@ -1,11 +1,14 @@
 {
     "cid": "405d618c-b1a2-4dfd-bddd-a2c1fe0de8ff",
+    "yid": 76895648,
     "password": "76895648",
     "kid": 5944,
     "name": "Dangerous Machine Type-6",
     "name_jp": "デンジャラスマシン <ruby lang=\"jp\"><rb>ＴＹＰＥ</rb><rp> (</rp><rt>タイプ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>６</rb><rp> (</rp><rt>シックス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Denjarasu Mashin Taipu Shikkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VB6-002",
+            "set": "The Valuable Book 6 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
             "Variable effects",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

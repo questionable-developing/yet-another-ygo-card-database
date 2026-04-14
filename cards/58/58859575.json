@@ -1,11 +1,14 @@
 {
     "cid": "b771d392-99a9-4d15-83c5-2765f5ca6d0a",
+    "yid": 58859575,
     "password": "58859575",
     "kid": 6483,
     "name": "VW-Tiger Catapult",
     "name_jp": "<ruby lang=\"jp\"><rb>ＶＷ</rb><rp> (</rp><rt>ヴィダブル</rt><rp>)</rp></ruby>－タイガー・カタパルト",
     "name_jp_rom": "Vi Daburu - Taigā Kataparuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +68,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP030",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EEN-JP030",
+            "set": "Elemental Energy: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP2-JP016",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP090",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT15-JP001",
+            "set": "Advanced Tournament Pack 2016 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +155,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

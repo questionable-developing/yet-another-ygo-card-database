@@ -1,12 +1,14 @@
 {
     "cid": "b1f55da0-086b-4058-adfe-b9bea93a9175",
-    "yid": null,
+    "yid": 31709826,
     "password": "31709826",
     "kid": 5063,
     "name": "Revival Jam",
     "name_jp": "リバイバルスライム",
     "name_jp_rom": "Ribaibaru Suraimu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Revival Slime",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -80,6 +82,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SM-05",
+            "set": "Spell of Mask",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DL3-045",
+            "set": "Duelist Legacy Volume.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDM-003",
+            "set": "Structure Deck: Marik (OCG)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE1-JP210",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPA05",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +153,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

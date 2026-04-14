@@ -1,12 +1,14 @@
 {
     "cid": "da980492-f247-44b1-8bc0-d74d35bac301",
-    "yid": null,
+    "yid": 35487920,
     "password": "35487920",
     "kid": 15630,
     "name": "Live☆Twin Channel",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｌｉｖｅ☆Ｔｗｉｎ</rb><rp> (</rp><rt>ライブツイン</rt><rp>)</rp></ruby> チャンネル",
     "name_jp_rom": "Raibu Tsuin Channeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,25 @@
             "set": "Genesis Impact",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP019",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP083",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -82,5 +103,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

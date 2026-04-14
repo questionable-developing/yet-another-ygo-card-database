@@ -1,12 +1,14 @@
 {
     "cid": "e1fbc213-0fd7-4e02-a2fd-a38d79137351",
-    "yid": null,
+    "yid": 36218106,
     "password": "36218106",
     "kid": 21425,
     "name": "Hushed Psychic Minister",
     "name_jp": "<ruby lang=\"jp\"><rb>寡</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黙</rb><rp> (</rp><rt>もく</rt><rp>)</rp></ruby>なるサイコミニスター",
     "name_jp_rom": "Kamokunaru Saiko Minisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hushed Psycho Minister",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DUAD-EN014",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP014",
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

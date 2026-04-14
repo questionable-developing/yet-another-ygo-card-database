@@ -1,11 +1,14 @@
 {
     "cid": "ff6a1fb7-104a-440c-8fae-6fff77e90c8c",
+    "yid": 85314178,
     "password": "85314178",
     "kid": 20203,
     "name": "Cosmo Queen the Queen of Prayers",
     "name_jp": "<ruby lang=\"jp\"><rb>祈</rb><rp> (</rp><rt>いの</rt><rp>)</rp></ruby>りの<ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>－コスモクイーン",
     "name_jp_rom": "Inori no Jōō - Kosumo Kuīn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP024",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

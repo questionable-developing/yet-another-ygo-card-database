@@ -1,11 +1,14 @@
 {
     "cid": "762d58b2-e364-4bd3-9b59-e1f73599e308",
+    "yid": 73810864,
     "password": "73810864",
     "kid": 15625,
     "name": "Live☆Twin Lil-la",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｌｉｖｅ☆Ｔｗｉｎ</rb><rp> (</rp><rt>ライブツイン</rt><rp>)</rp></ruby> リィラ",
     "name_jp_rom": "Raibu Tsuin Ryira",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP014",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP075",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB03",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +129,6 @@
             "Requires control of no other monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

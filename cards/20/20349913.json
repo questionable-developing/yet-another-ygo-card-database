@@ -1,12 +1,14 @@
 {
     "cid": "4af0af8a-d640-4938-8d67-c00535f71251",
-    "yid": null,
+    "yid": 20349913,
     "password": "20349913",
     "kid": 11086,
     "name": "Galactic Charity",
     "name_jp": "<ruby lang=\"jp\"><rb>銀</rb><rp> (</rp><rt>ぎん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>河</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>施</rb><rp> (</rp><rt>ほどこ</rt><rp>)</rp></ruby>し",
     "name_jp_rom": "Ginga no Hodokoshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP15-EN032",
             "set": "2015 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP057",
+            "set": "Primal Origin",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +98,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

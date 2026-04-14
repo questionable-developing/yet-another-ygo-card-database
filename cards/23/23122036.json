@@ -1,12 +1,14 @@
 {
     "cid": "159e189a-713e-46bc-9259-3af238fd3826",
-    "yid": null,
+    "yid": 23122036,
     "password": "23122036",
     "kid": 10803,
     "name": "Intrigue Shield",
     "name_jp": "<ruby lang=\"jp\"><rb>陰</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>謀</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>盾</rb><rp> (</rp><rt>たて</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Inbō no Tate",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP072",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

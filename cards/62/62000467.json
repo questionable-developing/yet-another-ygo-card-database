@@ -1,11 +1,14 @@
 {
     "cid": "1e2a62ae-5e92-4ba4-a512-eb8d414e9f61",
+    "yid": 62000467,
     "password": "62000467",
     "kid": 13491,
     "name": "Gladiator Beast Dragases",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ドラガシス",
     "name_jp_rom": "Guradiaru Bīsuto Doragashisu",
+    "name_jp_rom_base": "Kentōjū Doragashisu",
     "name_jp_tl": "Gladial Beast Dragases",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP006",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
             "Only once per turn",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

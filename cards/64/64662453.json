@@ -1,11 +1,14 @@
 {
     "cid": "d2e17fb9-02fa-49c3-9f45-d6ecb464486a",
+    "yid": 64662453,
     "password": "64662453",
     "kid": 10008,
     "name": "Iron Call",
     "name_jp": "アイアンコール",
     "name_jp_rom": "Aiankōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT14-JP043",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "CPZ1-JP047",
+            "set": "Collectors Pack: ZEXAL Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT11-JP006",
+            "set": "Advanced Tournament Pack 2015 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR10-JP026",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +112,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

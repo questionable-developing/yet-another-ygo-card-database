@@ -1,11 +1,14 @@
 {
     "cid": "b0ce82d7-96e9-4bd3-bec6-035738256254",
+    "yid": 74431740,
     "password": "74431740",
     "kid": 14320,
     "name": "Assault Reboot",
     "name_jp": "バスター・リブート",
     "name_jp_rom": "Basutā Ribūto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Reboot",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN070",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP070",
             "set": "Dark Neostorm",
             "rarities": {
                 "Rare": []
@@ -81,5 +93,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

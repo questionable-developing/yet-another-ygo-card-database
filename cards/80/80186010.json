@@ -1,11 +1,14 @@
 {
     "cid": "5d7e2e96-0fb4-495a-9745-bc757d8c2394",
+    "yid": 80186010,
     "password": "80186010",
     "kid": 7108,
     "name": "Destroyersaurus",
     "name_jp": "キラーザウルス",
     "name_jp_rom": "Kirāzaurasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Killersaurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP017",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP127",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

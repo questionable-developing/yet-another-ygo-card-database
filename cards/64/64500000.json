@@ -1,11 +1,14 @@
 {
     "cid": "93c487b5-f996-452b-8955-84d56f5501d3",
+    "yid": 64500000,
     "password": "64500000",
     "kid": 5555,
     "name": "Z-Metal Tank",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｚ</rb><rp> (</rp><rt>ゼット</rt><rp>)</rp></ruby>－メタル・キャタピラー",
     "name_jp_rom": "Zetto - Metaru Kyatapirā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Z-Metal Caterpillar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -86,6 +89,57 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "302-006",
+            "set": "Advent of Union",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SK2-011",
+            "set": "Structure Deck: Kaiba Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP061",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP2-JP007",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDKS-JP007",
+            "set": "Structure Deck: Seto Kaiba",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "KC01-JP029",
+            "set": "25th Anniversary Ultimate Kaiba Set",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP028",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -132,5 +186,6 @@
             "Limited activations",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e755c07a-3813-4d88-8371-cefe8f1a50ce",
+    "yid": 98127546,
     "password": "98127546",
     "kid": 15741,
     "name": "Underworld Goddess of the Closed World",
     "name_jp": "<ruby lang=\"jp\"><rb>閉ザサレシ世界ノ冥神</rb><rp> (</rp><rt>サロス＝エレス・クルヌギアス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sarosu=Eresu Kurunugiasu",
+    "name_jp_rom_base": "Tozasareshi Sekai no Meishin",
     "name_jp_tl": "Saros-Eres Kurnugias",
+    "name_jp_tl_base": "Underworld Goddess of the Closed World",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,10 +40,15 @@
         "1": {
             "idx": "1",
             "full": "UnderworldGoddessoftheClosedWorld-RA02-EN-SR-1E.png",
+            "art": "UnderworldGoddessoftheClosedWorld-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "UnderworldGoddessoftheClosedWorld-LOSP-JP-PScR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "BLVO-EN050",
@@ -67,6 +75,51 @@
                 "Quarter Century Secret Rare": [],
                 "Ultimate Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP050",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "BLVO-JP050",
+            "set": "Blazing Vortex +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JPS04",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        },
+        {
+            "sid": "QCCU-JP192",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOSP-JP018",
+            "set": "Limit Over Special Pack Vol.2",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -110,5 +163,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

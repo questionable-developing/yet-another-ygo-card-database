@@ -1,12 +1,14 @@
 {
     "cid": "46881fbb-296f-414a-9a12-998928b3a4c0",
-    "yid": null,
+    "yid": 16960351,
     "password": "16960351",
     "kid": 11273,
     "name": "Dracocension",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>突</rb><rp> (</rp><rt>とっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>ぱ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Genkai Toppa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Phantom World Breakthrough",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DUEA-EN064",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP064",
             "set": "Duelist Alliance",
             "rarities": {
                 "Common": []
@@ -75,5 +86,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

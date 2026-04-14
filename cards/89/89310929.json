@@ -1,11 +1,14 @@
 {
     "cid": "6e6c85c5-ee85-4648-969b-3885be3929ae",
+    "yid": 89310929,
     "password": "89310929",
     "kid": 8121,
     "name": "Mist Valley Thunder Lord",
     "name_jp": "<ruby lang=\"jp\"><rb>霞の谷</rb><rp> (</rp><rt>ミスト・バレー</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Misuto Barē no Raijinki",
+    "name_jp_rom_base": "Kasumi no Tani no Raijinki",
     "name_jp_tl": "Mist Valley Thunder God Oni",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +55,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT04-JP040",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": [],
+                "Duel Terminal Secret Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP030",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": [],
+                "Duel Terminal Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

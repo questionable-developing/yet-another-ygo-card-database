@@ -1,12 +1,14 @@
 {
     "cid": "daa2c9a7-fbf9-4620-99ba-e9fb8389a488",
-    "yid": null,
+    "yid": 34471458,
     "password": "34471458",
     "kid": 8301,
     "name": "Fortune Lady Light",
     "name_jp": "フォーチュンレディ・ライティー",
     "name_jp_rom": "Fōchun Redi Raitī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Lady Lighty",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyLight-19SP-JP-SR.png",
+            "art": "FortuneLadyLight-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyLight-OP11-EN-SR-UE.png",
-            "art": null
+            "art": "FortuneLadyLight-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ANPR-EN010",
@@ -47,6 +54,30 @@
             "sid": "OP11-EN004",
             "set": "OTS Tournament Pack 11",
             "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP010",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP004",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19SP-JP503",
+            "set": "Special Pack 20th Anniversary Edition Vol.5",
+            "rarities": {
+                "Common": [],
                 "Super Rare": []
             }
         }
@@ -88,5 +119,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

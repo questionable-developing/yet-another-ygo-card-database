@@ -1,11 +1,14 @@
 {
     "cid": "d95a6f5d-c63a-4f32-ad14-c7c1ff748117",
+    "yid": 59494222,
     "password": "59494222",
     "kid": 17727,
     "name": "Gravekeeper's Inscription",
     "name_jp": "<ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>はか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakamori no Kokuin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VP22-JP002",
+            "set": "Pharaonic Legend Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP069",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +106,6 @@
             "Turn limited effects",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

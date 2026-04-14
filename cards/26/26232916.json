@@ -1,12 +1,14 @@
 {
     "cid": "7a79caee-8628-4900-a96a-64afce669695",
-    "yid": null,
+    "yid": 26232916,
     "password": "26232916",
     "kid": 14005,
     "name": "Hidden Village of Ninjitsu Arts",
     "name_jp": "<ruby lang=\"jp\"><rb>隠</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby>れ<ruby lang=\"jp\"><rb>里</rb><rp> (</rp><rt>ざと</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ぽう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>修</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>練</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kakurezato - Ninpō Shūren no Chi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hidden Village - Ninjitsu Training Grounds",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "OP20-EN021",
             "set": "OTS Tournament Pack 20",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP056",
+            "set": "Extra Pack 2019",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

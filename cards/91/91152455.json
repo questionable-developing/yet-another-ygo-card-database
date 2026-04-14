@@ -1,11 +1,14 @@
 {
     "cid": "6189ba92-a7c8-4e4b-ad86-ac481f341234",
+    "yid": 91152455,
     "password": "91152455",
     "kid": 20812,
     "name": "Flame Coating Metalmorph",
     "name_jp": "メタル<ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>鋼炎装甲</rb><rp> (</rp><rt>フレイム・コーティング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Metaru-ka Fureimu Kōtingu",
+    "name_jp_rom_base": "Metaru-ka Gōensōkō",
     "name_jp_tl": "Metallization - Flame Coating",
+    "name_jp_tl_base": "Metallization - Steel Flame Armor",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN075",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP075",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

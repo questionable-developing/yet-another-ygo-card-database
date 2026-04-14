@@ -1,11 +1,14 @@
 {
     "cid": "e8fa0f50-3e7f-41c8-bb5d-06c016b3207f",
+    "yid": 97729135,
     "password": "97729135",
     "kid": 13618,
     "name": "Staring Contest",
     "name_jp": "にらみ<ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Niramiai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "StaringContest-FLOD-JP-C.png",
+            "art": "StaringContest-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "StaringContest-MP19-EN-R-1E.png",
-            "art": null
+            "art": "StaringContest-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "FLOD-EN064",
@@ -44,6 +52,15 @@
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP064",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -76,5 +93,6 @@
         "misc": [
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

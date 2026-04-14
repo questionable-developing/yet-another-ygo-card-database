@@ -1,11 +1,14 @@
 {
     "cid": "5d2f3ac1-8aad-4198-8c35-6d891b585eb3",
+    "yid": 62587693,
     "password": "62587693",
     "kid": 14269,
     "name": "Deus X-Krawler",
     "name_jp": "<ruby lang=\"jp\"><rb>機怪神</rb><rp> (</rp><rt>デウス</rt><rp>)</rp></ruby>エクスクローラー",
     "name_jp_rom": "Deusu Ekusukurōrā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DANE-EN019",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP019",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Only once per turn",
             "Flip monster without a Flip effect"
         ]
-    }
+    },
+    "links": {}
 }

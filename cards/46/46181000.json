@@ -1,11 +1,14 @@
 {
     "cid": "d3e5e580-65a1-48bb-9ac9-7090dc0189ba",
+    "yid": 46181000,
     "password": "46181000",
     "kid": 5602,
     "name": "Frontline Base",
     "name_jp": "<ruby lang=\"jp\"><rb>前</rb><rp> (</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>線</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>基</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zensen Kichi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "302-028",
+            "set": "Advent of Union",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP083",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD18-JP024",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +116,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

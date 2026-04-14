@@ -1,12 +1,14 @@
 {
     "cid": "5b6c42ff-f4a9-4bd5-bb9d-3f65a6bc648f",
-    "yid": null,
+    "yid": 32999573,
     "password": "32999573",
     "kid": 10954,
     "name": "Xyz Override",
     "name_jp": "エクシーズ・オーバーライド",
     "name_jp_rom": "Ekushīzu Ōbāraido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "LVAL-EN068",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP068",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

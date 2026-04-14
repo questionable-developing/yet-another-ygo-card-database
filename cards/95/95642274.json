@@ -1,11 +1,14 @@
 {
     "cid": "e748af3b-a0da-4930-83af-ae57ff8a9b5d",
+    "yid": 95642274,
     "password": "95642274",
     "kid": 10287,
     "name": "The Humble Sentry",
     "name_jp": "<ruby lang=\"jp\"><rb>謙</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>虚</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>番</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>ぺい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kenkyo na Banpei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP065",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,5 +78,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

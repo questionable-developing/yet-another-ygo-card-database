@@ -1,11 +1,14 @@
 {
     "cid": "e832b48a-91ec-4e44-9f61-6fc0139a1cce",
+    "yid": 64178424,
     "password": "64178424",
     "kid": 13940,
     "name": "Will of the Salamangreat",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣の意志</rb><rp> (</rp><rt>サラマングレイト・ハート</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saramangureito Hāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Salamangreat Heart",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP053",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP026",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +124,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

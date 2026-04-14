@@ -1,12 +1,14 @@
 {
     "cid": "9cfcab4e-13be-4108-815c-9ec4910c09bd",
-    "yid": null,
+    "yid": 29400787,
     "password": "29400787",
     "kid": 11092,
     "name": "Ghostrick Parade",
     "name_jp": "ゴーストリック・パレード",
     "name_jp_rom": "Gōsutorikku Parēdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "PRIO-EN063",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP063",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "6d174fe1-78d5-4a40-b1a9-f96c03d1ad1b",
-    "yid": null,
+    "yid": 10691144,
     "password": "10691144",
     "kid": 9132,
     "name": "Mirror of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>かがみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hyōkekkai no Kagami",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP055",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD40-JP030",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP043",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +108,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "3fc7f150-2ca4-468f-98e9-d61feb15558a",
-    "yid": null,
+    "yid": 13210191,
     "password": "13210191",
     "kid": 10088,
     "name": "Storm",
     "name_jp": "<ruby lang=\"jp\"><rb>嵐</rb><rp> (</rp><rt>あらし</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP065",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

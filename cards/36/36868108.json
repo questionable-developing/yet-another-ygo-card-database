@@ -1,12 +1,14 @@
 {
     "cid": "2ff73af8-c5cc-4581-a00d-5fd6f7733636",
-    "yid": null,
+    "yid": 36868108,
     "password": "36868108",
     "kid": 4942,
     "name": "Armored Glass",
     "name_jp": "ガラスの<ruby lang=\"jp\"><rb>鎧</rb><rp> (</rp><rt>よろい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Garasu no Yoroi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Glass Armor",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CA-19",
+            "set": "Curse of Anubis (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-107",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +94,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

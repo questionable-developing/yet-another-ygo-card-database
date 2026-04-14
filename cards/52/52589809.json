@@ -1,11 +1,14 @@
 {
     "cid": "a177e080-c0a9-4895-bcb8-10a642e03613",
+    "yid": 52589809,
     "password": "52589809",
     "kid": 12893,
     "name": "Wandering King Wildwind",
     "name_jp": "<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>来</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby> ワイルド・ワインド",
     "name_jp_rom": "Fūraiō Wairudo Waindo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP19-JP013",
+            "set": "Premium Pack 19",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP013",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

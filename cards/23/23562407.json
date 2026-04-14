@@ -1,12 +1,14 @@
 {
     "cid": "e5aa8d8e-16f2-42eb-8ee0-85b5846873f1",
-    "yid": null,
+    "yid": 23562407,
     "password": "23562407",
     "kid": 10468,
     "name": "Noble Arms - Caliburn",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>カリバーン",
     "name_jp_rom": "Seiken Karibān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Sword Caliburn",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -63,6 +65,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP031",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +117,6 @@
             "Equips only to a specific target",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

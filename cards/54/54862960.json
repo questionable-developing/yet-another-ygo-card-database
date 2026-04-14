@@ -1,11 +1,14 @@
 {
     "cid": "168989b6-488d-4ead-b93c-a8be71204cb9",
+    "yid": 54862960,
     "password": "54862960",
     "kid": 18016,
     "name": "Ni-Ni the Mirror Mikanko",
     "name_jp": "<ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>かがみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby>ニニ",
     "name_jp_rom": "Kagami no Mikanko Nini",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP026",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP061",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

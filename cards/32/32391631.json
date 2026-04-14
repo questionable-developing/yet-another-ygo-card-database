@@ -1,12 +1,14 @@
 {
     "cid": "caec4f57-d564-4bd2-b9de-65538f791b76",
-    "yid": null,
+    "yid": 32391631,
     "password": "32391631",
     "kid": 8482,
     "name": "Savage Colosseum",
     "name_jp": "サベージ・コロシアム",
     "name_jp_rom": "Sabēji Koroshiamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP047",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

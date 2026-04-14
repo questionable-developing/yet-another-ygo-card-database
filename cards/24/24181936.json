@@ -1,12 +1,14 @@
 {
     "cid": "59c52146-5d21-4938-8ead-ab85a73d5438",
-    "yid": null,
+    "yid": 24181936,
     "password": "24181936",
     "kid": 15087,
     "name": "Yaminabe Party",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>味</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鍋</rb><rp> (</rp><rt>なべ</rt><rp>)</rp></ruby>パーティー",
     "name_jp_rom": "Yaminabe Pātī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Hot Pot Party",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "ROTD-EN098",
             "set": "Rise of the Duelist",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JF20-JP004",
+            "set": "Jump Festa Limited Pack 2020",
             "rarities": {
                 "Super Rare": []
             }
@@ -73,5 +84,6 @@
             "At the start of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

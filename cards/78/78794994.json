@@ -1,11 +1,14 @@
 {
     "cid": "87ae2302-e473-45a0-97ee-5d44cfcfc058",
+    "yid": 78794994,
     "password": "78794994",
     "kid": 7223,
     "name": "Symbols of Duty",
     "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>線</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>復</rb><rp> (</rp><rt>ふっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>活</rb><rp> (</rp><rt>かつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>償</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sensenfukkatsu no Daishō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Price of Returning to War",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP060",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YSD3-JP031",
+            "set": "Starter Deck 2008",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD17-JP030",
+            "set": "Structure Deck: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP024",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD25-JP029",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +138,6 @@
         "misc": [
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

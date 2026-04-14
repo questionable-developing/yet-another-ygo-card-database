@@ -1,11 +1,14 @@
 {
     "cid": "1996ac1e-1570-4012-a177-f084c92cee24",
+    "yid": 56787189,
     "password": "56787189",
     "kid": 18517,
     "name": "New Frontier",
     "name_jp": "<ruby lang=\"jp\"><rb>開</rb><rp> (</rp><rt>ひら</rt><rp>)</rp></ruby>かれし<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hirakareshi Daichi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Opened Land",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -31,24 +34,58 @@
         },
         "2": {
             "idx": "2",
-            "full": "NewFrontier-LPST-JP-OP.png",
+            "full": "NewFrontier-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "CYAC-EN054",
             "set": "Cyberstorm Access",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "MP24-EN346",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN121",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP054",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": ["1"]
+            }
+        },
+        {
+            "sid": "CF01-JP177",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP039",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -95,5 +132,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

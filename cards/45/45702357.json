@@ -1,11 +1,14 @@
 {
     "cid": "08e01910-3b39-4c97-a7c8-c6dada68af04",
+    "yid": 45702357,
     "password": "45702357",
     "kid": 14479,
     "name": "Reversible Beetle",
     "name_jp": "リバーシブル・ビートル",
     "name_jp_rom": "Ribāshiburu Bītoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP035",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "f870cf27-2dbc-4953-af40-96fdc164a426",
-    "yid": null,
+    "yid": 20264508,
     "password": "20264508",
     "kid": 9664,
     "name": "Thunder Short",
     "name_jp": "サンダー・ショート",
     "name_jp_rom": "Sandā Shōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP047",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP12-JP020",
+            "set": "Duelist Pack: Yuma",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

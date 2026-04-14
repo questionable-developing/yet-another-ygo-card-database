@@ -1,11 +1,14 @@
 {
     "cid": "658489f6-f3c6-4886-bf54-84740c7b9be4",
+    "yid": 93503294,
     "password": "93503294",
     "kid": 13263,
     "name": "Altergeist Primebanshee",
     "name_jp": "オルターガイスト・プライムバンシー",
     "name_jp_rom": "Orutāgaisuto Puraimubanshī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -70,6 +73,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP047",
+            "set": "Circuit Break",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "AC03-JP058",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +128,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

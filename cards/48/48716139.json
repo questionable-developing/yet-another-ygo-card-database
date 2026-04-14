@@ -1,11 +1,14 @@
 {
     "cid": "469eacfd-5e6e-4747-8478-201782b873ec",
+    "yid": 48716139,
     "password": "48716139",
     "kid": 7680,
     "name": "Sword of Kusanagi",
     "name_jp": "<ruby lang=\"jp\"><rb>草薙剣</rb><rp> (</rp><rt>クサナギノツルギ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kusanagi no Tsurugi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TDGS-EN054",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP054",
             "set": "The Duelist Genesis",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

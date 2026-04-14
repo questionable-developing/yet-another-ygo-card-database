@@ -1,11 +1,14 @@
 {
     "cid": "610bcc3a-a38c-43c7-ba1c-bdbb2c580fb2",
+    "yid": 95507060,
     "password": "95507060",
     "kid": 8495,
     "name": "Raging Mad Plants",
     "name_jp": "<ruby lang=\"jp\"><rb>狂</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>植</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>ぶつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>氾</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>濫</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyōshokubutsu no Hanran",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Overflowing Mad Plants",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP060",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP078",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a780663b-0ac1-4230-9a46-1ab4d9856cf0",
+    "yid": 97803170,
     "password": "97803170",
     "kid": 13446,
     "name": "Call of the Archfiend",
     "name_jp": "デーモンの<ruby lang=\"jp\"><rb>呼</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby>び<ruby lang=\"jp\"><rb>声</rb><rp> (</rp><rt>ごえ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dēmon no Yobigoe",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Call of the Daemon",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP075",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

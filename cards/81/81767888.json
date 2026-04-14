@@ -1,11 +1,14 @@
 {
     "cid": "47c6e82c-edd1-403b-b373-7c64064c69dd",
+    "yid": 81767888,
     "password": "81767888",
     "kid": 17067,
     "name": "Branded Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>つるぎ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakuin no Tsurugi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD43-JP031",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP099",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP036",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +121,6 @@
             "Mentions",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

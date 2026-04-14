@@ -1,11 +1,14 @@
 {
     "cid": "a086f4d2-2e16-406b-ba48-6e264e0a5217",
+    "yid": 53251824,
     "password": "53251824",
     "kid": 11531,
     "name": "Raidraptor - Vanishing Lanius",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－バニシング・レイニアス",
     "name_jp_rom": "Reido Raputāzu - Banishingu Reiniasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Vanishing Lanius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +68,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP011",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPWR-JP016",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP152",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +126,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

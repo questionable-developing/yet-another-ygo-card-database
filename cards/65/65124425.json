@@ -1,11 +1,14 @@
 {
     "cid": "f0059a73-a3bf-4329-ad1d-774737679e46",
+    "yid": 65124425,
     "password": "65124425",
     "kid": 14504,
     "name": "Vessel for the Dragon Cycle",
     "name_jp": "<ruby lang=\"jp\"><rb>虚</rb><rp> (</rp><rt>うつ</rt><rp>)</rp></ruby>ろなる<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>輪</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Utsuronaru Ryūrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hollow Dragon Cycle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP059",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP314",
+            "set": "Tournament Pack 2021 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

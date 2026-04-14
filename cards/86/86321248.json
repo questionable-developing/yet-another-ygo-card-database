@@ -1,11 +1,14 @@
 {
     "cid": "7a3e4884-8ecb-427f-ab8d-186e4a0e0916",
+    "yid": 86321248,
     "password": "86321248",
     "kid": 6933,
     "name": "Ancient Gear Gadjiltron Chimera",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械合成獣</rb><rp> (</rp><rt>アンティーク・ギアガジェルキメラ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Gajerukimera",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Gadgelchimera",
+    "name_jp_tl_base": "Ancient Machine Composite Beast",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD10-JP002",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPM09",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR03-JP006",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +123,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

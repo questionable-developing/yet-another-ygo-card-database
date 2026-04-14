@@ -1,11 +1,14 @@
 {
     "cid": "14e7f4a4-14d2-4fdf-b75e-c4debaaff716",
+    "yid": 39817919,
     "password": "39817919",
     "kid": 12757,
     "name": "Shinobird Crow",
     "name_jp": "<ruby lang=\"jp\"><rb>霊魂鳥</rb><rp> (</rp><rt>エスプリット・バード</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>しのび</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鴉</rb><rp> (</rp><rt>がらす</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Esupuritto Bādo - Shinobi Garasu",
+    "name_jp_rom_base": "Reikonchō - Shinobi Garasu",
     "name_jp_tl": "Esprit Bird - Shinobi Crow",
+    "name_jp_tl_base": "Soul Bird - Shinobi Crow",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP022",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

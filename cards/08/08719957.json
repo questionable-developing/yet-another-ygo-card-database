@@ -1,12 +1,14 @@
 {
     "cid": "3c3b1b7d-4b6c-44cb-8594-e28e9fb18135",
-    "yid": null,
+    "yid": 8719957,
     "password": "08719957",
     "kid": 10278,
     "name": "Abyss-scale of the Kraken",
     "name_jp": "アビスケイル－クラーケン",
     "name_jp_rom": "Abisukeiru - Kurāken",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Abysscale - Kraken",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ABYR-EN056",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP056",
             "set": "Abyss Rising",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

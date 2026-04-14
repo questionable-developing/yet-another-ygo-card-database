@@ -1,11 +1,14 @@
 {
     "cid": "5114e8f0-2b89-4625-89ed-c4a439e032be",
+    "yid": 37984162,
     "password": "37984162",
     "kid": 10897,
     "name": "Gorgonic Golem",
     "name_jp": "ゴルゴニック・ゴーレム",
     "name_jp_rom": "Gorugonikku Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP011",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

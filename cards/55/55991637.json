@@ -1,11 +1,14 @@
 {
     "cid": "3e0b2f57-b822-46e1-8f65-6a84446053e8",
+    "yid": 55991637,
     "password": "55991637",
     "kid": 5344,
     "name": "Dragon's Gunfire",
     "name_jp": "<ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karyū no Kaendan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fire Dragon's Blaze Blast",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +79,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SC-45",
+            "set": "Struggle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL5-041",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP160",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD19-JP023",
+            "set": "Structure Deck: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP127",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +148,6 @@
             "Requires control of specific Type",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

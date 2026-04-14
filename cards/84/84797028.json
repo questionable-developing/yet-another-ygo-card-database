@@ -1,11 +1,14 @@
 {
     "cid": "3b9f56c6-b102-4e9d-af22-7a95767195cd",
+    "yid": 84797028,
     "password": "84797028",
     "kid": 17625,
     "name": "Clockwork Night",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仕</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>掛</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>けの<ruby lang=\"jp\"><rb>夜</rb><rp> (</rp><rt>よる</rt><rp>)</rp></ruby>－クロック・ワーク・ナイト－",
     "name_jp_rom": "Kikaijikake no Yoru -Kurokku Wāku Naito-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mechanical Night -Clock Work Night-",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +56,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC02-JP007",
+            "set": "Animation Chronicle 2022",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA16",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP095",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

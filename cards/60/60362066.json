@@ -1,11 +1,14 @@
 {
     "cid": "00edcb34-e148-4f7d-a61c-911c6a1f65dd",
+    "yid": 60362066,
     "password": "60362066",
     "kid": 17812,
     "name": "Tearlaments Heartbeat",
     "name_jp": "<ruby lang=\"jp\"><rb>壱世壊を揺るがす鼓動</rb><rp> (</rp><rt>ティアラメンツ・ハートビーツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tiaramentsu Hātobītsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tearlaments Heartbeats",
+    "name_jp_tl_base": "Heartbeats Shaking the First Broken World",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DABL-EN057",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP057",
             "set": "Darkwing Blast",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Requires control of specific card",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

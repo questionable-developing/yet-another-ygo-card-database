@@ -1,11 +1,14 @@
 {
     "cid": "cc268f9d-92f6-45f8-aae1-46a1bd615c92",
+    "yid": 75713017,
     "password": "75713017",
     "kid": 14652,
     "name": "Prometeor, the Burning Star",
     "name_jp": "<ruby lang=\"jp\"><rb>燎</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>のプロメテオロン",
     "name_jp_rom": "Ryōsei no Purometeoron",
-    "name_jp_tl": null,
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Prometeoron, the Burning Star",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP025",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

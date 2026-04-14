@@ -1,11 +1,14 @@
 {
     "cid": "70d4a1fb-1b6f-40c5-9937-a4476ab9c90e",
+    "yid": 42741437,
     "password": "42741437",
     "kid": 16740,
     "name": "Exosister Mikailis",
     "name_jp": "エクソシスター・ミカエリス",
     "name_jp_rom": "Ekusoshisutā Mikaerisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Exosister Michaelis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -22,10 +25,10 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "2 Level 4 monsters<br />Cannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Mikailis\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 card your opponent controls or in their GY; banish it. You can detach 1 material from this card; add 1 \"Exosister\" Spell/Trap from your Deck to your hand.",
+    "desc": "2 Level 4 monsters<br />Cannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Mikailis\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 card in your opponent's field or GY; banish it. You can detach 1 material from this card; add 1 \"Exosister\" Spell/Trap from your Deck to your hand.",
     "pend_eff": null,
-    "mnst_eff": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Mikailis\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 card your opponent controls or in their GY; banish it. You can detach 1 material from this card; add 1 \"Exosister\" Spell/Trap from your Deck to your hand.",
-    "eff": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Mikailis\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 card your opponent controls or in their GY; banish it. You can detach 1 material from this card; add 1 \"Exosister\" Spell/Trap from your Deck to your hand.",
+    "mnst_eff": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Mikailis\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 card in your opponent's field or GY; banish it. You can detach 1 material from this card; add 1 \"Exosister\" Spell/Trap from your Deck to your hand.",
+    "eff": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Mikailis\" once per turn. If you control this card that was Xyz Summoned this turn by using an \"Exosister\" monster as material (Quick Effect): You can target 1 card in your opponent's field or GY; banish it. You can detach 1 material from this card; add 1 \"Exosister\" Spell/Trap from your Deck to your hand.",
     "flavor": null,
     "images": {
         "1": {
@@ -35,12 +38,12 @@
         },
         "2": {
             "idx": "2",
-            "full": "ExosisterMikailis-DDS1-JP-OP.png",
+            "full": "ExosisterMikailis-DDS1-JP-PScR.png",
             "art": null
         },
         "1.1": {
             "idx": "1.1",
-            "full": "ExosisterMikailis-MP23-EN-PScR-1E.png",
+            "full": "ExosisterMikailis-RA05-EN-SR-1E.png",
             "art": "ExosisterMikailis-MADU-EN-VG-artwork.png"
         }
     },
@@ -57,6 +60,30 @@
         {
             "sid": "MP23-EN256",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP017",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB24",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DDS1-JP001",
+            "set": "Deluxe Duel Set: Exosister",
             "rarities": {
                 "Prismatic Secret Rare": []
             }
@@ -103,5 +130,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

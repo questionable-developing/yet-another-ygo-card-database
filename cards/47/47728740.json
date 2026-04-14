@@ -1,11 +1,14 @@
 {
     "cid": "efc987b6-2c49-43e0-b856-f8e0270ff045",
+    "yid": 47728740,
     "password": "47728740",
     "kid": 11506,
     "name": "Alich, Malebranche of the Burning Abyss",
     "name_jp": "<ruby lang=\"jp\"><rb>彼</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岸</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> アリキーノ",
     "name_jp_rom": "Higan no Akki Arikīno",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Alichino, Malebranche of the Afterlife",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "AlichMalebrancheoftheBurningAbyss-EP15-JP-C.png",
+            "art": "AlichMalebrancheoftheBurningAbyss-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "AlichMalebrancheoftheBurningAbyss-PGL3-EN-GUR-1E.png",
-            "art": null
+            "art": "AlichMalebrancheoftheBurningAbyss-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "NECH-EN083",
@@ -47,6 +55,15 @@
             "set": "Premium Gold: Infinite Gold",
             "rarities": {
                 "Gold Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP005",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -88,5 +105,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

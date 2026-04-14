@@ -1,12 +1,14 @@
 {
     "cid": "f8a6b6c9-0287-4813-a34f-626ae5e7605a",
-    "yid": null,
+    "yid": 14457896,
     "password": "14457896",
     "kid": 13468,
     "name": "Parasite Paranoid",
     "name_jp": "<ruby lang=\"jp\"><rb>寄</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>虫</rb><rp> (</rp><rt>ちゅう</rt><rp>)</rp></ruby>パラノイド",
     "name_jp_rom": "Kiseichū Paranoido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -72,6 +74,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP19-JP007",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

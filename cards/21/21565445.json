@@ -1,12 +1,14 @@
 {
     "cid": "b236e689-4663-4af9-a26f-fb3147b62d55",
-    "yid": null,
+    "yid": 21565445,
     "password": "21565445",
     "kid": 11762,
     "name": "Neptabyss, the Atlantean Prince",
     "name_jp": "<ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby> ネプトアビス",
     "name_jp_rom": "Kaiōji Neputoabisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Neptabyss, the Sea Emperor Prince",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -64,6 +66,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP087",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP081",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

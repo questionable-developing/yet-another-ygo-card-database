@@ -1,12 +1,14 @@
 {
     "cid": "ab671f6e-0f13-40a0-878f-b44b3e69a64d",
-    "yid": null,
+    "yid": 30562585,
     "password": "30562585",
     "kid": 8822,
     "name": "ZERO-MAX",
     "name_jp": "<ruby lang=\"jp\"><rb>ＺＥＲＯ</rb><rp> (</rp><rt>ゼロ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＭＡＸ</rb><rp> (</rp><rt>マックス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zero - Makkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "The Shining Darkness",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP047",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -74,5 +85,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

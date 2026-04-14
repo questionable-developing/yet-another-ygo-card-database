@@ -1,11 +1,14 @@
 {
     "cid": "0e5a1c83-44a7-41b8-bd8d-33c30ebe86f1",
+    "yid": 68395509,
     "password": "68395509",
     "kid": 11971,
     "name": "Majespecter Crow - Yata",
     "name_jp": "マジェスペクター・クロウ",
     "name_jp_rom": "Majesupekutā Kurou",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Majespecter Crow",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP027",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
             "Only once per turn",
             "No Pendulum Effects"
         ]
-    }
+    },
+    "links": {}
 }

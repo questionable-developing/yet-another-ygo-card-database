@@ -1,12 +1,14 @@
 {
     "cid": "89531888-789e-421c-943f-3b61784c72f9",
-    "yid": null,
+    "yid": 32887445,
     "password": "32887445",
     "kid": 15058,
     "name": "Flourishing Frolic",
     "name_jp": "<ruby lang=\"jp\"><rb>繁</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>はな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>笑</rb><rp> (</rp><rt>え</rt><rp>)</rp></ruby>み",
     "name_jp_rom": "Hanka no Hanaemi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flourishing Smile",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP072",
+            "set": "Eternity Code",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "efb35b1f-13d1-4d6d-895a-8ce638c1c7d0",
+    "yid": 50690129,
     "password": "50690129",
     "kid": 14078,
     "name": "Catche Eve L2",
     "name_jp": "キャシー・イヴ<ruby lang=\"jp\"><rb>Ｌ</rb><rp> (</rp><rt>エル</rt><rp>)</rp></ruby>２",
     "name_jp_rom": "Kyashī Ivu Eru Tsū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SAST-EN001",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP001",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
             "Requires control of specific Level",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

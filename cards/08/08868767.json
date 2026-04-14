@@ -1,12 +1,14 @@
 {
     "cid": "03e92966-0c2a-4e64-81fe-0232bae5e5b1",
-    "yid": null,
+    "yid": 8868767,
     "password": "08868767",
     "kid": 14330,
     "name": "Dice It",
     "name_jp": "ダイスエット",
     "name_jp_rom": "Daisuetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dicette",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP080",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +82,6 @@
             "Variable effects",
             "Die roll"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "577f084a-086f-40c2-8d8c-d7da4090fcca",
+    "yid": 61818176,
     "password": "61818176",
     "kid": 13445,
     "name": "Ghostrick Renovation",
     "name_jp": "ゴーストリック・リフォーム",
     "name_jp_rom": "Gōsutorikku Rifōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ghostrick Reform",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "EXFO-EN074",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP074",
             "set": "Extreme Force",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

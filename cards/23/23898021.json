@@ -1,12 +1,14 @@
 {
     "cid": "3a6a15b6-8308-4476-a0b3-3cf07414ceab",
-    "yid": null,
+    "yid": 23898021,
     "password": "23898021",
     "kid": 13682,
     "name": "Lilith, Lady of Lament",
     "name_jp": "<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>嬢</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>リリス",
     "name_jp_rom": "Akumajō Ririsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lilith, Demon Lady",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR06-JP000",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR13-JP021",
+            "set": "Structure Deck R: Devil's Gate",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "52f4d291-3f10-474c-b5c7-4dfdebe6cbd9",
+    "yid": 53208660,
     "password": "53208660",
     "kid": 11940,
     "name": "Pendulum Call",
     "name_jp": "ペンデュラム・コール",
     "name_jp_rom": "Pendyuramu Kōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD29-JP026",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "6f66e693-c6bd-4c05-adc4-4e50b132876a",
-    "yid": null,
+    "yid": 22219822,
     "password": "22219822",
     "kid": 13562,
     "name": "Trickstar Mandrake",
     "name_jp": "トリックスター・マンドレイク",
     "name_jp_rom": "Torikkusutā Mandoreiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP19-EN005",
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP007",
+            "set": "Flames of Destruction",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

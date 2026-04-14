@@ -1,11 +1,14 @@
 {
     "cid": "e7407f9d-7b27-4326-8fa6-0422a2d488be",
+    "yid": 61434639,
     "password": "61434639",
     "kid": 20070,
     "name": "Rekindling the Ashened",
     "name_jp": "<ruby lang=\"jp\"><rb>灰</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>復</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>燃</rb><rp> (</rp><rt>ねん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaimetsu no Fukunen",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP038",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

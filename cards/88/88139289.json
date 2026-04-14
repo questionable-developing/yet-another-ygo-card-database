@@ -1,11 +1,14 @@
 {
     "cid": "f076dea5-9848-41ea-9f76-02666a3c9665",
+    "yid": 88139289,
     "password": "88139289",
     "kid": 21451,
     "name": "Psychic Blaster Mk-II",
     "name_jp": "サイコガンナーＭｋ－Ⅱ",
     "name_jp_rom": "Saiko Gannā Māku-Tsū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Gunner Mk-II",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +47,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP040",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +81,7 @@
             "Requires Type specific Tuner Synchro Materials",
             "Requires Type specific non-Tuner Synchro Materials",
             "1 or more non-Tuner Synchro Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -84,5 +97,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

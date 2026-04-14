@@ -1,12 +1,14 @@
 {
     "cid": "35bb8681-708a-45cb-b520-0c9ac18907ea",
-    "yid": null,
+    "yid": 10406322,
     "password": "10406322",
     "kid": 10938,
     "name": "Alsei, the Sylvan High Protector",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby> アルセイ",
     "name_jp_rom": "Shinra no Morigami Arusei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Alsei, Guardian God of Shinra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP052",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP113",
+            "set": "Tournament Pack 2022 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SUB1-JP042",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +126,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

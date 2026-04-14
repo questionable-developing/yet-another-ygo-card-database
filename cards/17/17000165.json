@@ -1,12 +1,14 @@
 {
     "cid": "e3790bd3-0485-4f0c-b3a2-2dc934225f8e",
-    "yid": null,
+    "yid": 17000165,
     "password": "17000165",
     "kid": 16547,
     "name": "Reptilianne Recoil",
     "name_jp": "レプティレス・リコイル",
     "name_jp_rom": "Reputiresu Rikoiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reptiless Recoil",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BODE-EN061",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP061",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

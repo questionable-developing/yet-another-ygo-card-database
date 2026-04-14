@@ -1,11 +1,14 @@
 {
     "cid": "24de2797-b7a1-49cb-a329-183da0952e15",
+    "yid": 54120521,
     "password": "54120521",
     "kid": 20033,
     "name": "The Legend of Tickets",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｔｈｅ Ｌｅｇｅｎｄ ｏｆ Ｔｉｃｋｅｔｓ</rb><rp> (</rp><rt>ザ・レジェンド・オブ・チケット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Za Rejendo Obu Chiketto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Legend of Ticket",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -32,6 +35,16 @@
     },
     "image": null,
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "TDPR-JP004",
+            "set": "The Legend of Duelist Promotion Pack",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -60,5 +73,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

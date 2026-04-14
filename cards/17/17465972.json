@@ -1,12 +1,14 @@
 {
     "cid": "2c4d17bc-ea9e-4859-adc1-6695cc95d988",
-    "yid": null,
+    "yid": 17465972,
     "password": "17465972",
     "kid": 13854,
     "name": "Blackwing - Auster the South Wind",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＦ</rb><rp> (</rp><rt>ブラックフェザー</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>南</rb><rp> (</rp><rt>みなみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>のアウステル",
     "name_jp_rom": "Burakku Fezā - Minamikaze no Ausuteru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Blackfeather - Auster the South Wind",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP025",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +95,7 @@
         "mst": [],
         "summoning": [
             "Cannot be Special Summoned",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -96,5 +107,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

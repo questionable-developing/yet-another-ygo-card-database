@@ -1,11 +1,14 @@
 {
     "cid": "64e822bc-4216-4643-a948-0c9cc5092792",
+    "yid": 46148485,
     "password": "46148485",
     "kid": 21794,
     "name": "Sphinx of the Cycle",
     "name_jp": "<ruby lang=\"jp\"><rb>転</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>輪</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>のスフィンクス",
     "name_jp_rom": "Tenrin no Sufinkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,14 +46,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP028",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Trigger, Condition, Trigger, Ignition"
         ],
         "mentions": [
-            "Book of Moon",
-            "Book of Taiyou"
+            "Book of Taiyou",
+            "Book of Moon"
         ],
         "sup": [],
         "asup": [],
@@ -88,5 +100,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

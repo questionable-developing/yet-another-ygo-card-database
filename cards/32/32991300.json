@@ -1,12 +1,14 @@
 {
     "cid": "5c9dea20-4b6f-4218-9701-bb3d76c430a9",
-    "yid": null,
+    "yid": 32991300,
     "password": "32991300",
     "kid": 20521,
     "name": "Fiendsmith's Agnumday",
     "name_jp": "<ruby lang=\"jp\"><rb>刻まれし魔の神聖棺</rb><rp> (</rp><rt>デモンスミス・アグヌスデイ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Demonsumisu Agunusudei",
+    "name_jp_rom_base": "Kizamareshi Ma no Shinseikan",
     "name_jp_tl": "Demonsmith Agnus Dei",
+    "name_jp_tl_base": "Engraved Demon's Holy Coffin",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP045",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +111,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

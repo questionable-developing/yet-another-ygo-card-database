@@ -1,11 +1,14 @@
 {
     "cid": "6dc3dd6e-2983-4896-9020-ad52cfd11109",
+    "yid": 89194103,
     "password": "89194103",
     "kid": 8730,
     "name": "The Fabled Kudabbi",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>クダベ",
     "name_jp_rom": "Magōshinjū Kudabe",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon Roar God Beast Kudabbe",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TheFabledKudabbi-DTC3-JP-DSPR-DT.png",
+            "art": "TheFabledKudabbi-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TheFabledKudabbi-HAC1-EN-C-1E.png",
-            "art": null
+            "art": "TheFabledKudabbi-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA04-EN058",
@@ -49,6 +57,22 @@
             "rarities": {
                 "Common": [],
                 "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT08-JP040",
+            "set": "Duel Terminal - Pulse of the Trishula!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP058",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
             }
         }
     ],
@@ -90,5 +114,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f4ce30f4-d1b1-425c-bc0f-fa64d4b629bf",
+    "yid": 93437091,
     "password": "93437091",
     "kid": 13844,
     "name": "Bingo Machine, Go!!!",
     "name_jp": "ビンゴマシーン<ruby lang=\"jp\"><rb>ＧＯ</rb><rp> (</rp><rt>ゴー</rt><rp>)</rp></ruby>！<ruby lang=\"jp\"><rb>ＧＯ</rb><rp> (</rp><rt>ゴー</rt><rp>)</rp></ruby>！",
     "name_jp_rom": "Bingo Mashīn Gō! Gō!",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bingo Machine GO! GO!",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -60,6 +63,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP003",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP046",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP012",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +125,6 @@
             "Only once per turn",
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

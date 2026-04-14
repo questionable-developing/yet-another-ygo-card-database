@@ -1,11 +1,14 @@
 {
     "cid": "4f518f25-3453-47bf-ab9e-a3e8007cd209",
+    "yid": 52495649,
     "password": "52495649",
     "kid": 18743,
     "name": "Balameuniere de Nouvelles",
     "name_jp": "バラムニエル・ド・ヌーベルズ",
     "name_jp_rom": "Baramunieru Do Nūberuzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Balameuniere de Nouvellez",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +42,15 @@
         {
             "sid": "WISU-EN033",
             "set": "Wild Survivors",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP033",
+            "set": "Deck-Build Pack: Wild Survivors",
             "rarities": {
                 "Super Rare": []
             }
@@ -85,5 +97,6 @@
             "Only once per turn",
             "Can be activated during either player's turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "bff6c4df-7b52-46f9-9062-d0ccf784c679",
-    "yid": null,
+    "yid": 15754711,
     "password": "15754711",
     "kid": 14873,
     "name": "Dragonmaid Send-Off",
     "name_jp": "ドラゴンメイドのお<ruby lang=\"jp\"><rb>見</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>送</rb><rp> (</rp><rt>おく</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Doragonmeido no Omiokuri",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP064",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SLF1-JP070",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

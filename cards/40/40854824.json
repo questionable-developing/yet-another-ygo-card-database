@@ -1,11 +1,14 @@
 {
     "cid": "c483b84d-c3b2-4f05-b249-7b5cd62e33b3",
+    "yid": 40854824,
     "password": "40854824",
     "kid": 11603,
     "name": "Rainbow Refraction",
     "name_jp": "オーバー・ザ・レインボー",
     "name_jp_rom": "Ōbā Za Reinbō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Over the Rainbow",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP083",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD44-JP027",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +117,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

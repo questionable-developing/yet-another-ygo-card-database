@@ -1,11 +1,14 @@
 {
     "cid": "14e027d5-3897-4e49-a0ed-2a7ea7be6536",
+    "yid": 44762290,
     "password": "44762290",
     "kid": 5977,
     "name": "Opti-Camouflage Armor",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>学</rb><rp> (</rp><rt>がく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>迷</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>彩</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby>アーマー",
     "name_jp_rom": "Kōgaku Meisai Āmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Optical Camouflage Armor",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "308-035",
+            "set": "The Sanctuary in the Sky (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP147",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,5 +86,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

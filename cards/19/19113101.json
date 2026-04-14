@@ -1,12 +1,14 @@
 {
     "cid": "0edd7d71-9b0d-4d98-96b8-cdc6f3da016a",
-    "yid": null,
+    "yid": 19113101,
     "password": "19113101",
     "kid": 10606,
     "name": "Interceptomato",
     "name_jp": "プリベントマト",
     "name_jp_rom": "Puribentomato",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Preventomato",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP003",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

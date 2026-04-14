@@ -1,11 +1,14 @@
 {
     "cid": "67792196-b5df-450d-84b5-306b08df2803",
+    "yid": 60234913,
     "password": "60234913",
     "kid": 8491,
     "name": "Ritual of Grace",
     "name_jp": "<ruby lang=\"jp\"><rb>救</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyūsei no Gishiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ritual of Salvation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "SOVR-EN056",
             "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP056",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP074",
+            "set": "Duelist Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -80,5 +99,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

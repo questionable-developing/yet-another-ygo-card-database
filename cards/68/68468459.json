@@ -1,11 +1,14 @@
 {
     "cid": "38451aa8-cd55-45e5-81e7-62085a8d4e34",
+    "yid": 68468459,
     "password": "68468459",
     "kid": 15245,
     "name": "Fallen of Albaz",
     "name_jp": "アルバスの<ruby lang=\"jp\"><rb>落</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>胤</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arubasu no Rakuin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fallen Child of Albus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -36,6 +39,11 @@
             "idx": "2",
             "full": "FallenofAlbaz-RA04-EN-QCScR-1E.png",
             "art": "FallenofAlbaz-MADU-EN-VG-artwork-2.png"
+        },
+        "3": {
+            "idx": "3",
+            "full": "FallenofAlbaz-LOCR-JP-UR.png",
+            "art": "FallenofAlbaz-OW-3.png"
         }
     },
     "image": "1",
@@ -93,6 +101,74 @@
             "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP011",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTD-JP011",
+            "set": "Rise of the Duelist +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP004",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC04-JP022",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP011",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JPS01",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP001",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP033",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -154,5 +230,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

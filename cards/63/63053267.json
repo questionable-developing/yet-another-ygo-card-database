@@ -1,11 +1,14 @@
 {
     "cid": "01767b20-e521-4722-983d-7823e7a42109",
+    "yid": 63053267,
     "password": "63053267",
     "kid": 13425,
     "name": "Nagel's Protection",
     "name_jp": "ナーゲルの<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nāgeru no Shugoten",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Nagel's Protection Sky",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "EXFO-EN054",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP054",
             "set": "Extreme Force",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

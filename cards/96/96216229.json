@@ -1,11 +1,14 @@
 {
     "cid": "aeb2555e-6f0b-4fb0-9f46-9b9f06a484e8",
+    "yid": 96216229,
     "password": "96216229",
     "kid": 7763,
     "name": "Gladiator Beast War Chariot",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣の戦車</rb><rp> (</rp><rt>グラディアルビースト・チャリオット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Guradiaru Bīsuto Chariotto",
+    "name_jp_rom_base": "Kentōjū no Sensha",
     "name_jp_tl": "Gladial Beast Chariot",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -68,6 +71,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP074",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP030",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP010",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +127,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

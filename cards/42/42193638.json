@@ -1,11 +1,14 @@
 {
     "cid": "c6f60e00-7904-48a5-9053-5a133f1fba43",
+    "yid": 42193638,
     "password": "42193638",
     "kid": 19387,
     "name": "Vaalmonica Versare",
     "name_jp": "ヴァルモニカ・ヴェルサーレ",
     "name_jp_rom": "Varumonika Verusāre",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Varmonica Versare",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "VASM-EN037",
             "set": "Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP037",
+            "set": "Deck-Build Pack: Valiant Smashers",
             "rarities": {
                 "Super Rare": []
             }
@@ -80,5 +92,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

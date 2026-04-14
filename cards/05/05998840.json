@@ -1,12 +1,14 @@
 {
     "cid": "46efb20d-581c-425b-8c5b-623bacde40f3",
-    "yid": null,
+    "yid": 5998840,
     "password": "05998840",
     "kid": 9030,
     "name": "XX-Saber Boggart Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＸ</rb><rp> (</rp><rt>ダブルエックス</rt><rp>)</rp></ruby>－セイバー ボガーナイト",
     "name_jp_rom": "Daburu Ekkusu-Seibā Bogānaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "XX-Saber Boggar Knight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -22,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of an \"X-Saber\" Synchro Monster.",
+    "desc": "Cannot be used as Synchro Material, except for the Synchro Summon of an \"X-Saber\" monster. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand.",
     "pend_eff": null,
-    "mnst_eff": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of an \"X-Saber\" Synchro Monster.",
-    "eff": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of an \"X-Saber\" Synchro Monster.",
+    "mnst_eff": "Cannot be used as Synchro Material, except for the Synchro Summon of an \"X-Saber\" monster. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand.",
+    "eff": "Cannot be used as Synchro Material, except for the Synchro Summon of an \"X-Saber\" monster. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"X-Saber\" monster from your hand.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XXSaberBoggartKnight-SP15-EN-C-1E.png",
+            "full": "XXSaberBoggartKnight-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -57,12 +59,43 @@
                 "Common": [],
                 "Shatterfoil Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENX09",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP001",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SPRG-JP020",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP009",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
         }
     ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Trigger, Condition"
+            "Condition, Trigger"
         ],
         "mentions": [],
         "sup": [],
@@ -95,5 +128,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

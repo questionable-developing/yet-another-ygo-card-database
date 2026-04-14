@@ -1,11 +1,14 @@
 {
     "cid": "b80881cf-0a76-4659-b5b2-13aeeb3bc61d",
+    "yid": 90464188,
     "password": "90464188",
     "kid": 7425,
     "name": "Obsidian Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>曜</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岩</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kokuyōganryū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP023",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP080",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

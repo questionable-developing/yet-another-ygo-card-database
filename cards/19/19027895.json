@@ -1,12 +1,14 @@
 {
     "cid": "143ab4ac-71cd-4ac5-818f-319899aab8a2",
-    "yid": null,
+    "yid": 19027895,
     "password": "19027895",
     "kid": 18914,
     "name": "Salamangreat Revive",
     "name_jp": "サラマングレイト・リヴァイブ",
     "name_jp_rom": "Saramangureito Rivaibu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "LD10-EN007",
             "set": "Legendary Duelists: Soulburning Volcano",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP28-JP007",
+            "set": "Duelist Pack: Duelists of Explosion",
             "rarities": {
                 "Rare": []
             }
@@ -82,5 +93,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

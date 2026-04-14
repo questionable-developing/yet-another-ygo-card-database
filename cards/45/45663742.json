@@ -1,11 +1,14 @@
 {
     "cid": "22f910e7-5fce-4bc3-9b05-894fc5f6248b",
+    "yid": 45663742,
     "password": "45663742",
     "kid": 19150,
     "name": "Snake-Eye Oak",
     "name_jp": "スネークアイ・オーク",
     "name_jp_rom": "Sunēkuai Ōku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP008",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,7 +94,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard",
             "Special Summons from your hand",
             "Special Summons from your Deck"
@@ -95,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

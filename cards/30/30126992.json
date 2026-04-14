@@ -1,12 +1,14 @@
 {
     "cid": "b83ea53a-fcbf-4089-bd90-eccff650aea6",
-    "yid": null,
+    "yid": 30126992,
     "password": "30126992",
     "kid": 10058,
     "name": "Lightray Diabolos",
     "name_jp": "ライトレイ ディアボロス",
     "name_jp_rom": "Raitorei Diaborosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP035",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DS14-JPL12",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +110,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

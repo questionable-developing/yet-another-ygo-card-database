@@ -1,12 +1,14 @@
 {
     "cid": "8fc8a01d-7a69-40b0-9973-6bfc3c5ad4f2",
-    "yid": null,
+    "yid": 28877602,
     "password": "28877602",
     "kid": 9736,
     "name": "Evoltile Odonto",
     "name_jp": "エヴォルド・オドケリス",
     "name_jp_rom": "Evorudo Odokerisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evold Odochelys",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PHSW-EN018",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP018",
             "set": "Photon Shockwave",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

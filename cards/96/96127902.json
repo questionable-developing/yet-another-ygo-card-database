@@ -1,11 +1,14 @@
 {
     "cid": "d5989ac5-a90d-4e20-a73b-95864d704416",
+    "yid": 96127902,
     "password": "96127902",
     "kid": 18454,
     "name": "Made to Order Mermaid Outfit Outfitter",
     "name_jp": "かなり<ruby lang=\"jp\"><rb>魅</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>湧</rb><rp> (</rp><rt>わく</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>受注水産</rb><rp> (</rp><rt>オーダーメイド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kanari Miwaku na Ōdā Meido",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pretty Bubbly Maide-to-Order",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP057",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +81,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "a07b99a8-9b1a-49ea-9ea2-929d4b30a337",
-    "yid": null,
+    "yid": 2250266,
     "password": "02250266",
     "kid": 9482,
     "name": "Morphtronic Staplen",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・ステープラン",
     "name_jp_rom": "Difōmā Sutēpuran",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Staplen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN011",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP011",
             "set": "Extreme Victory",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "0c3652cd-5ffa-4636-ac8e-60b23e999973",
-    "yid": null,
+    "yid": 9989792,
     "password": "09989792",
     "kid": 12461,
     "name": "Triamid Fortress",
     "name_jp": "トラミッド・フォートレス",
     "name_jp_rom": "Toramiddo Fōtoresu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tramid Fortress",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "TDIL-EN062",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP062",
             "set": "The Dark Illusion",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

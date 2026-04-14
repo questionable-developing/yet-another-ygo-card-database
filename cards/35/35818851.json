@@ -1,12 +1,14 @@
 {
     "cid": "8e920dc7-60b7-49b4-aa8d-ad5e88b67119",
-    "yid": null,
+    "yid": 35818851,
     "password": "35818851",
     "kid": 12142,
     "name": "Shiranui Samurai",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>武士</rb><rp> (</rp><rt>もののふ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui no Mononofu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP034",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +112,6 @@
             "Only once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

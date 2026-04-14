@@ -1,11 +1,14 @@
 {
     "cid": "cb02bea2-7580-4abe-bdf4-e0e14f2c8418",
+    "yid": 94573223,
     "password": "94573223",
     "kid": 9895,
     "name": "Inzektor Giga-Mantis",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ギガマンティス",
     "name_jp_rom": "Inzekutā Gigamantisu",
+    "name_jp_rom_base": "Kōchūsōki Gigamantisu",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Giga-Mantis",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP021",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP027",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

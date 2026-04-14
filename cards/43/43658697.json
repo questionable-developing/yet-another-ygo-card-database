@@ -1,11 +1,14 @@
 {
     "cid": "8d5c7d37-ce2f-4feb-879d-47b4e7bfdcfd",
+    "yid": 43658697,
     "password": "43658697",
     "kid": 11778,
     "name": "U.A. Signing Deal",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕ．Ａ．</rb><rp> (</rp><rt>ウルトラアスリート</rt><rp>)</rp></ruby>フラッグシップ・ディール",
     "name_jp_rom": "Urutora Asurīto Furaggushippu Dīru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ultra Athlete Flagship Deal",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP031",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP314",
+            "set": "Tournament Pack 2020 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "68d014e9-1fc5-4449-9376-87a04795f610",
+    "yid": 91575236,
     "password": "91575236",
     "kid": 17152,
     "name": "Immortal Dragon",
     "name_jp": "イモータル・ドラゴン",
     "name_jp_rom": "Imōtaru Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP041",
+            "set": "Dimension Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
             "Only once per turn",
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0dc3c6e2-360a-4e87-ac51-a82f7a813f41",
+    "yid": 80532587,
     "password": "80532587",
     "kid": 11878,
     "name": "Elder Entity N'tss",
     "name_jp": "<ruby lang=\"jp\"><rb>旧</rb><rp> (</rp><rt>キュウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>シン</rt><rp>)</rp></ruby>ヌトス",
     "name_jp_rom": "Kyūshin Nutosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elder God N'tss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -71,6 +74,51 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP033",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP022",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP307",
+            "set": "Tournament Pack 2020 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC04-JP027",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPC27",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -122,5 +170,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

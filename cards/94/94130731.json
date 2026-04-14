@@ -1,11 +1,14 @@
 {
     "cid": "79ebbd4e-1ec4-42fd-8027-cf3692026291",
+    "yid": 94130731,
     "password": "94130731",
     "kid": 18723,
     "name": "Transcendosaurus Glaciasaurus",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>越</rb><rp> (</rp><rt>えつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>グレイスザウルス",
     "name_jp_rom": "Chōetsuryū Gureisuzaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Transcendosaurus Glacesaurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP004",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

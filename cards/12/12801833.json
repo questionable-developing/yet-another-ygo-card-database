@@ -1,12 +1,14 @@
 {
     "cid": "0485ff3b-bd46-4d0f-a665-52df7e211791",
-    "yid": null,
+    "yid": 12801833,
     "password": "12801833",
     "kid": 18310,
     "name": "Traptrip Garden",
     "name_jp": "<ruby lang=\"jp\"><rb>蟲</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>惑</rb><rp> (</rp><rt>わく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>園</rb><rp> (</rp><rt>その</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kowaku no Sono",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entrapping Garden",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "SDBT-EN023",
             "set": "Structure Deck: Beware of Traptrix",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD45-JP023",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TDS2-JP023",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -82,5 +100,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

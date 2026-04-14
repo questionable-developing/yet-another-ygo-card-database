@@ -1,11 +1,14 @@
 {
     "cid": "51740c8c-611b-470b-bfbd-d824492bcd89",
+    "yid": 60473572,
     "password": "60473572",
     "kid": 12420,
     "name": "Metalfoes Steelen",
     "name_jp": "メタルフォーゼ・スティエレン",
     "name_jp_rom": "Metarufōze Sutieren",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Metalphosis Stee-elen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP021",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -93,5 +105,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

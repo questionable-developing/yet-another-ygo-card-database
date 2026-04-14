@@ -1,11 +1,14 @@
 {
     "cid": "50c5bc2d-70f1-426c-9e45-4cc9e9c54275",
+    "yid": 66322203,
     "password": "66322203",
     "kid": 13216,
     "name": "F.A. Downforce",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｆ．Ａ．</rb><rp> (</rp><rt>フォーミュラアスリート</rt><rp>)</rp></ruby>ダウンフォース",
     "name_jp_rom": "Fōmyura Asurīto Daunfōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Formula Athlete Downforce",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP17-JP043",
+            "set": "Extra Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EP18-JP032",
+            "set": "Extra Pack 2018",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "dd73fb3d-ea17-4520-beb3-c4e760a4f668",
+    "yid": 94689206,
     "password": "94689206",
     "kid": 12433,
     "name": "Block Dragon",
     "name_jp": "ブロックドラゴン",
     "name_jp_rom": "Burokku Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -65,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP034",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBSS-JP038",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25WP-JP301",
+            "set": "Winner's Pack 2025 Vol.3",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +135,6 @@
             "Special Summon Monster",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

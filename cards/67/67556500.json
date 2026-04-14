@@ -1,11 +1,14 @@
 {
     "cid": "6f123e19-7b90-4f5b-87c9-4a246f0501f9",
+    "yid": 67556500,
     "password": "67556500",
     "kid": 11084,
     "name": "Phonon Pulse Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>波</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>フォノン・ドラゴン",
     "name_jp_rom": "Hadōryū Fonon Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pulse Dragon - Phonon Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP055",
+            "set": "Primal Origin",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
         "misc": [
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

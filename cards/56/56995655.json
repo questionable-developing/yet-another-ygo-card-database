@@ -1,11 +1,14 @@
 {
     "cid": "31672a75-65b2-4459-b8a6-6f22237d76d1",
+    "yid": 56995655,
     "password": "56995655",
     "kid": 5401,
     "name": "Ominous Fortunetelling",
     "name_jp": "<ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>吉</rb><rp> (</rp><rt>きつ</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>占</rb><rp> (</rp><rt>うらな</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Fukitsu na Uranai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MA-46",
+            "set": "Mythological Age",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PE-52",
+            "set": "Structure Deck: Pegasus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL5-085",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE2-JP203",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPA30",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,7 +102,7 @@
         "counter": [],
         "action": [
             "Declares a card type",
-            "Reveals your opponent's hand"
+            "Reveals cards from your opponent's hand"
         ],
         "stat_change": [],
         "mst": [],
@@ -78,5 +118,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

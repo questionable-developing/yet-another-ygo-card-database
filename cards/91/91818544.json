@@ -1,11 +1,14 @@
 {
     "cid": "cceac042-e54a-48f8-b432-b33c431c4b48",
+    "yid": 91818544,
     "password": "91818544",
     "kid": 21439,
     "name": "WAKE CUP! Mocha",
     "name_jp": "<ruby lang=\"jp\"><rb>ＷＡＫＥ ＣＵＰ</rb><rp> (</rp><rt>ウェイカップ</rt><rp>)</rp></ruby>！ モカ",
     "name_jp_rom": "Weikappu! Moka",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -41,6 +44,16 @@
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP028",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Normal Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -80,8 +93,8 @@
         "smat": [],
         "misc": [
             "Only once per turn",
-            "Limited activations",
-            "Flip monster without a Flip effect"
+            "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

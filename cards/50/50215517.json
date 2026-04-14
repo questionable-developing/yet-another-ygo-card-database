@@ -1,11 +1,14 @@
 {
     "cid": "588dcb41-ab1c-4d26-b800-1752d676780b",
+    "yid": 50215517,
     "password": "50215517",
     "kid": 9516,
     "name": "Scarlet Security",
     "name_jp": "クリムゾン・ヘル・セキュア",
     "name_jp_rom": "Kurimuzon Heru Sekyua",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crimson Hell Secure",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP045",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

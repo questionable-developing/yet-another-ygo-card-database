@@ -1,11 +1,14 @@
 {
     "cid": "f7fb44b1-46f6-458f-a6df-e38140987bd4",
+    "yid": 91300233,
     "password": "91300233",
     "kid": 18500,
     "name": "Beetrooper Cruel Saturnas",
     "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫</rb><rp> (</rp><rt>ビートルーパー</rt><rp>)</rp></ruby>クルーエル・サターン",
     "name_jp_rom": "Bītorūpā Kurūeru Satān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beetrooper Cruel Saturn",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP037",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +89,7 @@
             "Requires archetype specific Fusion Materials",
             "Requires Type specific Fusion Materials",
             "Restricts the player's Special Summons to Type specific monsters",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

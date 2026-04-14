@@ -1,12 +1,14 @@
 {
     "cid": "1b571da2-941f-4bf4-a5ef-a4bb7662ee08",
-    "yid": null,
+    "yid": 23784496,
     "password": "23784496",
     "kid": 12718,
     "name": "Abyss Script - Opening Ceremony",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>台</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>本</rb><rp> (</rp><rt>ほん</rt><rp>)</rp></ruby>「オープニング・セレモニー」",
     "name_jp_rom": "Makai Daihon \"Ōpuningu Seremonī\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,23 @@
         {
             "sid": "LED3-EN053",
             "set": "Legendary Duelists: White Dragon Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPDS-JP024",
+            "set": "Booster SP: Destiny Soldiers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP053",
+            "set": "Duelist Pack: Legend Duelist 3",
             "rarities": {
                 "Common": []
             }
@@ -85,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

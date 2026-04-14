@@ -1,12 +1,14 @@
 {
     "cid": "e3a2e344-647f-4cd7-9a74-d9004901a035",
-    "yid": null,
+    "yid": 3289027,
     "password": "03289027",
     "kid": 17984,
     "name": "Parl, Hermit of Dark World",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>隠</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby> パアル",
     "name_jp_rom": "Ankokukai no Inja Paaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR13-JP003",
+            "set": "Structure Deck R: Devil's Gate",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,8 +89,8 @@
         "summoning": [
             "Special Summons from your Graveyard",
             "Special Summons from your Graveyard to your opponent's field",
-            "Special Summons the player's banished monsters",
-            "Special Summons the player's banished monsters to the opponent's field",
+            "Special Summons from your banishment",
+            "Special Summons from your banishment to the opponent's field",
             "Special Summons from your hand",
             "Special Summons from your hand to your opponent's field"
         ],
@@ -91,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

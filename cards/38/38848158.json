@@ -1,11 +1,14 @@
 {
     "cid": "854a3adf-7da4-4d96-bb23-ed09f7a3d914",
+    "yid": 38848158,
     "password": "38848158",
     "kid": 12651,
     "name": "Igknights Unite",
     "name_jp": "イグナイト・ユナイト",
     "name_jp_rom": "Igunaito Yunaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Igknight Unite",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP061",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9835c0f7-a8fb-4a69-9113-8524c31bd44b",
+    "yid": 93451636,
     "password": "93451636",
     "kid": 9898,
     "name": "Wind-Up Honeybee",
     "name_jp": "ゼンマイハニー",
     "name_jp_rom": "Zenmai Hanī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wind-Up Honey",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN024",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP024",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

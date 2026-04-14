@@ -1,11 +1,14 @@
 {
     "cid": "3be18459-de94-49d5-840c-c49b56e9708f",
+    "yid": 84243274,
     "password": "84243274",
     "kid": 6484,
     "name": "VWXYZ-Dragon Catapult Cannon",
     "name_jp": "<ruby lang=\"jp\"><rb>ＶＷＸＹＺ</rb><rp> (</rp><rt>ヴィトゥズィ</rt><rp>)</rp></ruby>－ドラゴン・カタパルトキャノン",
     "name_jp_rom": "Vi Tu Zi - Doragon Kataparuto Kyanon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -78,6 +81,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP031",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP2-JP017",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP091",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP19-JP028",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -133,5 +167,6 @@
             "Archetype-exclusion condition",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

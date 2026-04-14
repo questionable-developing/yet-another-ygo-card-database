@@ -1,11 +1,14 @@
 {
     "cid": "eefc212d-6607-4131-8732-b31988b3e4be",
+    "yid": 87609391,
     "password": "87609391",
     "kid": 11999,
     "name": "Raptor's Ultimate Mace",
     "name_jp": "ラプターズ・アルティメット・メイス",
     "name_jp_rom": "Raputāzu Arutimetto Meisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP055",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

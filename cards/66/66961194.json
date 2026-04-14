@@ -1,11 +1,14 @@
 {
     "cid": "d4f57541-2660-4437-b03c-a194e84df7bf",
+    "yid": 66961194,
     "password": "66961194",
     "kid": 16810,
     "name": "Dictator of D.",
     "name_jp": "ロード・オブ・ドラゴン－ドラゴンの<ruby lang=\"jp\"><rb>独</rb><rp> (</rp><rt>どく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>裁</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Rōdo Obu Doragon -Doragon no Dokusaisha-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lord of Dragon -Dragon's Dictator-",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP005",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP005",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP013",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +126,6 @@
             "Only once per turn",
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

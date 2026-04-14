@@ -1,12 +1,14 @@
 {
     "cid": "41fd4aae-07a5-4b11-acd9-7e4b9d9ade68",
-    "yid": null,
+    "yid": 17509503,
     "password": "17509503",
     "kid": 13966,
     "name": "The Revenge of the Normal",
     "name_jp": "<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>色</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>即</rb><rp> (</rp><rt>そく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>はつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Isshoku Sokuhatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP079",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +86,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

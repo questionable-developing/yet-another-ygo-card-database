@@ -1,11 +1,14 @@
 {
     "cid": "e4806dce-111f-47cc-8f0f-4509834b4dc4",
+    "yid": 50485594,
     "password": "50485594",
     "kid": 11371,
     "name": "Rescue Hamster",
     "name_jp": "レスキューラット",
     "name_jp_rom": "Resukyūratto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rescue Rat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP039",
+            "set": "The New Challengers",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -100,5 +112,6 @@
         "misc": [
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

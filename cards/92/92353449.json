@@ -1,11 +1,14 @@
 {
     "cid": "f1f74fce-3ae2-48ae-a5f4-053e81b722b1",
+    "yid": 92353449,
     "password": "92353449",
     "kid": 12650,
     "name": "Red-Eyes Insight",
     "name_jp": "レッドアイズ・インサイト",
     "name_jp_rom": "Reddoaizu Insaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -60,6 +63,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP060",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP010",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP117",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +125,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

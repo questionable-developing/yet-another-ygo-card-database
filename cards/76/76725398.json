@@ -1,11 +1,14 @@
 {
     "cid": "1dc2a01d-2d7c-4f40-ab42-784b2dfe7467",
+    "yid": 76725398,
     "password": "76725398",
     "kid": 21351,
     "name": "Mitsurugi Magatama",
-    "name_jp": "<ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>ノ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>勾玉</rb><rp> (</rp><rt>マガタマ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>巳剣之勾玉</rb><rp> (</rp><rt>ミツルギノマガタマ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mitsurugi no Magatama",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword Magatama",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsurugiMagatama-ALIN-EN-SR-1E.png",
+            "full": "MitsurugiMagatama-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -37,6 +40,22 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENM17",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP039",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -83,5 +102,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

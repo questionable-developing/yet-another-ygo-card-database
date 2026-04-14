@@ -6,7 +6,9 @@
     "name": "Infinite Impermanence",
     "name_jp": "<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>限</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>泡</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mugenhōyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -19,120 +21,262 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then, if this card was Set before activation and is on the field at resolution, for the rest of this turn all other Spell/Trap effects in this column are negated. If you control no cards, you can activate this card from your hand.",
+    "desc": "Target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then if this card was Set before activation and is on the field at resolution, for the rest of this turn all other Spell/Trap effects in this column are negated. If you control no cards, you can activate this card from your hand.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then, if this card was Set before activation and is on the field at resolution, for the rest of this turn all other Spell/Trap effects in this column are negated. If you control no cards, you can activate this card from your hand.",
+    "eff": "Target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then if this card was Set before activation and is on the field at resolution, for the rest of this turn all other Spell/Trap effects in this column are negated. If you control no cards, you can activate this card from your hand.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "InfiniteImpermanence-L5DD-EN-C-1E.png",
+            "full": "InfiniteImpermanence-L26D-EN-C-1E.png",
             "art": "InfiniteImpermanence-MADU-EN-VG-artwork.png"
         },
         "2": {
             "idx": "2",
-            "full": "InfiniteImpermanence-STSP-JP-UR.png",
+            "full": "InfiniteImpermanence-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "FLOD-EN077",
             "set": "Flames of Destruction",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "DUPO-EN100",
             "set": "Duel Power",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "DUOV-EN099",
             "set": "Duel Overload",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MAGO-EN052",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "OP17-EN002",
             "set": "OTS Tournament Pack 17",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "SDCS-EN036",
             "set": "Structure Deck: Cyber Strike",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "MAMA-EN100",
             "set": "Magnificent Mavens",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "RA01-EN075",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "SR14-EN039",
             "set": "Structure Deck: Fire Kings",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "SDWD-EN031",
             "set": "Structure Deck: Blue-Eyes White Destiny",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "MP25-EN032",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "L5DD-ENY31",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "L5DD-ENA24",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "L26D-ENM19",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN140",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP077",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20TH-JPC99",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP049",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Premium Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD41-JP037",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP076",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR14-JP039",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP059",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPA26",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPB26",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPC26",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD47-JP031",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPA26",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPB22",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP090",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD48-JP031",
+            "set": "Structure Deck: Power of Fellows",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP010",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],

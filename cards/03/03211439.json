@@ -1,12 +1,14 @@
 {
     "cid": "1c13e12a-6847-462c-89fb-967e8630762d",
-    "yid": null,
+    "yid": 3211439,
     "password": "03211439",
     "kid": 12186,
     "name": "Forbidden Apocrypha",
     "name_jp": "<ruby lang=\"jp\"><rb>禁</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>本</rb><rp> (</rp><rt>ほん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kindan no Ihon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP078",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "ddab5340-08d4-4ea0-abd8-2e3eb420a5cd",
-    "yid": null,
+    "yid": 15552258,
     "password": "15552258",
     "kid": 8062,
     "name": "Half or Nothing",
     "name_jp": "ハーフ<ruby lang=\"jp\"><rb>ｏｒ</rb><rp> (</rp><rt>オア</rt><rp>)</rp></ruby>ストップ",
     "name_jp_rom": "Hāfu Oa Sutoppu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Half or Stop",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -57,6 +59,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP067",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

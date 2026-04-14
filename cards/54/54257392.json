@@ -1,11 +1,14 @@
 {
     "cid": "443ee962-4a45-4dac-99de-b8f92f7354ec",
+    "yid": 54257392,
     "password": "54257392",
     "kid": 15978,
     "name": "Live☆Twin Ki-sikil Frost",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｌｉｖｅ☆Ｔｗｉｎ</rb><rp> (</rp><rt>ライブツイン</rt><rp>)</rp></ruby> キスキル・フロスト",
     "name_jp_rom": "Raibu Tsuin Kisukiru Furosuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP017",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP017",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP076",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB04",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +131,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

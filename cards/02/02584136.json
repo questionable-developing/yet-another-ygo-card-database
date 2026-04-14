@@ -1,12 +1,14 @@
 {
     "cid": "07f62063-8411-4b48-adf3-6e81ff59be22",
-    "yid": null,
+    "yid": 2584136,
     "password": "02584136",
     "kid": 9880,
     "name": "Shocktopus",
     "name_jp": "シャクトパス",
     "name_jp_rom": "Shakutopasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shactopus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -68,6 +70,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP006",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

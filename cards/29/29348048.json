@@ -1,12 +1,14 @@
 {
     "cid": "21725b5b-eb8f-49ba-98f8-6eb4eb7d2936",
-    "yid": null,
+    "yid": 29348048,
     "password": "29348048",
     "kid": 17442,
     "name": "Vendread Scavenger",
     "name_jp": "ヴェンデット・スカヴェンジャー",
     "name_jp_rom": "Vendetto Sukavenjā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vendead Scavenger",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -42,6 +44,25 @@
             "set": "Power of the Elements",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP040",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "POTE-JP040",
+            "set": "Power of the Elements +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -89,5 +110,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

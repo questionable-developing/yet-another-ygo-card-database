@@ -1,12 +1,14 @@
 {
     "cid": "e27688ff-8d41-48d2-9806-38580a6d0f72",
-    "yid": null,
+    "yid": 2339825,
     "password": "02339825",
     "kid": 19212,
     "name": "T.G. Close",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby>－クローズ",
     "name_jp_rom": "Tekku Jīnasu - Kurōzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus - Close",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "AGOV-EN070",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP070",
             "set": "Age of Overlord",
             "rarities": {
                 "Common": []
@@ -91,5 +102,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

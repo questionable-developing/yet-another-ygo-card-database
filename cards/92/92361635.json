@@ -1,11 +1,14 @@
 {
     "cid": "d8d0916b-751e-4658-88de-85666e8a268e",
+    "yid": 92361635,
     "password": "92361635",
     "kid": 9334,
     "name": "Atomic Scrap Dragon",
     "name_jp": "アトミック・スクラップ・ドラゴン",
     "name_jp_rom": "Atomikku Sukurappu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,16 @@
     "sets": [
         {
             "sid": "STOR-EN043",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP043",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Ultra Rare": [],
@@ -88,5 +101,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

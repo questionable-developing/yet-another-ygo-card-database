@@ -1,11 +1,14 @@
 {
     "cid": "921eb028-4044-4662-8ca0-5e79cdc54923",
+    "yid": 65351555,
     "password": "65351555",
     "kid": 18164,
     "name": "Basiltrice, Familiar of the Evil Eye",
     "name_jp": "<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>眷</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>属</rb><rp> (</rp><rt>ぞく</rt><rp>)</rp></ruby> バジリコック",
     "name_jp_rom": "Jugan no Kenzoku Bajirikokku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Basilicock, Familiar of the Cursed Eye",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "PHHY-EN019",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP019",
             "set": "Photon Hypernova",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

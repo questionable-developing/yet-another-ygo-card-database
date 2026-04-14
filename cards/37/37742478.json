@@ -1,11 +1,14 @@
 {
     "cid": "b50beed1-8cd2-4f53-a98d-c46ab169db5f",
+    "yid": 37742478,
     "password": "37742478",
     "kid": 7574,
     "name": "Honest",
     "name_jp": "オネスト",
     "name_jp_rom": "Onesuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -36,6 +39,11 @@
             "idx": "2",
             "full": "Honest-BLMM-EN-ScR-1E.png",
             "art": "Honest-DAR.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "Honest-LODT-EN-GR-UE.png",
+            "art": null
         }
     },
     "image": "2",
@@ -142,6 +150,110 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP001",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "GS01-JP009",
+            "set": "Gold Series (OCG)",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "SD20-JP020",
+            "set": "Structure Deck: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT13-JP005",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP111",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "GDB1-JP009",
+            "set": "The Gold Box",
+            "rarities": {
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPL22",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD25-JP016",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL11",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD27-JP014",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20AP-JP048",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR05-JP018",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LIOV-JPS01",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "24EP-JP105",
+            "set": "Event Pack 2024 Vol.1",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -181,5 +293,6 @@
             "Requires control of specific Attribute",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

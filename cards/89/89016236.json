@@ -1,11 +1,14 @@
 {
     "cid": "757c995c-47c2-4d5e-b794-626139fe163b",
+    "yid": 89016236,
     "password": "89016236",
     "kid": 18741,
     "name": "Poeltis de Nouvelles",
     "name_jp": "ポワレティス・ド・ヌーベルズ",
     "name_jp_rom": "Powaretisu Do Nūberuzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Poeltis de Nouvellez",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +42,15 @@
         {
             "sid": "WISU-EN031",
             "set": "Wild Survivors",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP031",
+            "set": "Deck-Build Pack: Wild Survivors",
             "rarities": {
                 "Super Rare": []
             }
@@ -88,5 +100,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

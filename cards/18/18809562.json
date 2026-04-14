@@ -1,12 +1,14 @@
 {
     "cid": "e5a0211b-3756-4452-8eed-cde697426201",
-    "yid": null,
+    "yid": 18809562,
     "password": "18809562",
     "kid": 12503,
     "name": "Magical Contract Door",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>契</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>約</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>扉</rb><rp> (</rp><rt>とびら</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Madō Keiyaku no Tobira",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MVP1-JP020",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack",
+            "rarities": {
+                "Kaiba Corporation Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPC36",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Super Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a106610c-f418-4fdb-8c3f-4547c51e621a",
+    "yid": 97870394,
     "password": "97870394",
     "kid": 17613,
     "name": "Amazoness Spiritualist",
     "name_jp": "アマゾネス<ruby lang=\"jp\"><rb>霊術師</rb><rp> (</rp><rt>シャーマン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amazonesu Shāman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amazoness Shaman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +58,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP27-JP033",
+            "set": "Duelist Pack: Duelists of Pyroxene",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +113,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

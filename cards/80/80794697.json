@@ -1,11 +1,14 @@
 {
     "cid": "753c7be0-fbfe-48bd-9022-aa2600198b2c",
+    "yid": 80794697,
     "password": "80794697",
     "kid": 13521,
     "name": "Flame Bufferlo",
     "name_jp": "フレイム・バッファロー",
     "name_jp_rom": "Fureimu Baffarō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD33-JP004",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP043",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

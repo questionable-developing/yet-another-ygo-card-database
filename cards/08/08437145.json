@@ -1,12 +1,14 @@
 {
     "cid": "6bb7f134-fb25-4a2d-8cdb-d55b66963acb",
-    "yid": null,
+    "yid": 8437145,
     "password": "08437145",
     "kid": 11577,
     "name": "Void Seer",
     "name_jp": "<ruby lang=\"jp\"><rb>煉</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>徒</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rengoku no Shito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Purgatory Deathsciple",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP057",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP113",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

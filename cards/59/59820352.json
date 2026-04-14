@@ -1,11 +1,14 @@
 {
     "cid": "e4f7c601-e2e9-4de4-bd7f-c44c64c8a828",
+    "yid": 59820352,
     "password": "59820352",
     "kid": 5910,
     "name": "Earth Chant",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>讃</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>頌</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daichi Sanshō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,17 +41,17 @@
     "image": "1.1",
     "sets": [
         {
-            "sid": "IOC-EN099",
-            "set": "Invasion of Chaos",
-            "rarities": {
-                "Short Print": []
-            }
-        },
-        {
             "sid": "DR2-EN100",
             "set": "Dark Revelation Volume 2",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "IOC-EN099",
+            "set": "Invasion of Chaos",
+            "rarities": {
+                "Short Print": []
             }
         },
         {
@@ -68,6 +71,22 @@
         {
             "sid": "IOC-EN099",
             "set": "Invasion of Chaos (25th Anniversary Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "307-044",
+            "set": "Invader of Darkness (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP100",
+            "set": "Expert Edition Volume.2",
             "rarities": {
                 "Common": []
             }
@@ -105,5 +124,6 @@
         "misc": [
             "Nonspecific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "de764d80-95a6-4a57-8d4d-6b8f9653dc54",
+    "yid": 79867938,
     "password": "79867938",
     "kid": 10497,
     "name": "Battlin' Boxer Headgeared",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> ヘッドギア",
     "name_jp_rom": "Bāningu Nakkurā Heddogia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Headgear",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP016",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP28-JP039",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d8c05fa1-eee4-4f0e-ba25-76a0387666e5",
-    "yid": null,
+    "yid": 14729426,
     "password": "14729426",
     "kid": 7607,
     "name": "Interplanetary Invader \"A\"",
     "name_jp": "<ruby lang=\"jp\"><rb>惑</rb><rp> (</rp><rt>わく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>からの<ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>ぶっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>エー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Wakusei kara no Buttai Ē",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Interplanetary Body A",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP034",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

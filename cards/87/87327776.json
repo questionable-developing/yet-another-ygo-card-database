@@ -1,11 +1,14 @@
 {
     "cid": "c18f5aa8-f0e7-46c2-aaaf-433197295b94",
+    "yid": 87327776,
     "password": "87327776",
     "kid": 14248,
     "name": "Salamangreat Miragestallio",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>ミラージュスタリオ",
     "name_jp_rom": "Saramangureito Mirāju Sutario",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -46,6 +49,23 @@
         {
             "sid": "LD10-EN010",
             "set": "Legendary Duelists: Soulburning Volcano",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD35-JPP01",
+            "set": "Structure Deck: Soulburner Extra Deck Enhancement Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP010",
+            "set": "Duelist Pack: Duelists of Explosion",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "987a4a87-d4be-47f3-95be-f6698e912512",
-    "yid": null,
+    "yid": 21516908,
     "password": "21516908",
     "kid": 12157,
     "name": "Hi-Speedroid Hagoita",
     "name_jp": "<ruby lang=\"jp\"><rb>ＨＳＲ</rb><rp> (</rp><rt>ハイスピードロイド</rt><rp>)</rp></ruby>マッハゴー・イータ",
     "name_jp_rom": "Haisupīdoroido Mahhagō Īta",
+    "name_jp_rom_base": null,
     "name_jp_tl": "High-Speedroid Machago Ita",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -40,6 +42,23 @@
         {
             "sid": "BOSH-EN049",
             "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP049",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP082",
+            "set": "LINK VRAINS Pack 2",
             "rarities": {
                 "Rare": []
             }
@@ -88,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

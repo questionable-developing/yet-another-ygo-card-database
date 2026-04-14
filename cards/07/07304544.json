@@ -1,12 +1,14 @@
 {
     "cid": "b695f4b7-15b6-43ca-9ec8-c17e4cee0905",
-    "yid": null,
+    "yid": 7304544,
     "password": "07304544",
     "kid": 9204,
     "name": "Naturia Pineapple",
     "name_jp": "ナチュル・パイナポー",
     "name_jp_rom": "Nachuru Painapō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Naturu Pineapo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP013",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
             "Requires having only specific Type in Graveyard",
             "Requires control of no Spell and Traps"
         ]
-    }
+    },
+    "links": {}
 }

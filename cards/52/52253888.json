@@ -1,11 +1,14 @@
 {
     "cid": "6e8853f5-d6d0-499c-ad7e-87981e3c62be",
+    "yid": 52253888,
     "password": "52253888",
     "kid": 5083,
     "name": "Light Law Medium",
     "name_jp": "ライトローミディアム",
     "name_jp_rom": "Raito Rō Midiamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP026",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
             "Limited activations",
             "At the start of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

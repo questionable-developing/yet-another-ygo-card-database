@@ -1,11 +1,14 @@
 {
     "cid": "9d834ea6-d51d-46bf-83a4-c50759e65cb5",
+    "yid": 41039846,
     "password": "41039846",
     "kid": 10773,
     "name": "Swarm of Crows",
     "name_jp": "カラスの<ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>群</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karasu no Kyogun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Huge Swarm of Crows",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SHSP-EN042",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP042",
             "set": "Shadow Specters",
             "rarities": {
                 "Rare": []
@@ -77,5 +89,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

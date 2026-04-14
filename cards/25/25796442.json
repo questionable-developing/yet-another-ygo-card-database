@@ -1,12 +1,14 @@
 {
     "cid": "b706c9aa-9645-442a-823a-e929e5e2b71c",
-    "yid": null,
+    "yid": 25796442,
     "password": "25796442",
     "kid": 8671,
     "name": "Ritual Cage",
     "name_jp": "<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>檻</rb><rp> (</rp><rt>おり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gishiki no Ori",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP060",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT08-JP006",
+            "set": "Advanced Tournament Pack 2014 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

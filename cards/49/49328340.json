@@ -1,11 +1,14 @@
 {
     "cid": "0f724eef-98cc-4112-a8bb-4d40fc37b7e4",
+    "yid": 49328340,
     "password": "49328340",
     "kid": 6269,
     "name": "Spiral Spear Strike",
     "name_jp": "<ruby lang=\"jp\"><rb>螺旋槍殺</rb><rp> (</rp><rt>スパイラル・シェイバー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Supairaru Sheibā",
+    "name_jp_rom_base": "Rasen Sōsatsu",
     "name_jp_tl": "Spiral Shaver",
+    "name_jp_tl_base": "Spiral Spear Kill",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,15 +65,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP043",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP163",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AT13-JP003",
+            "set": "Advanced Tournament Pack 2016 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Continuous-like, Trigger-like"
         ],
         "mentions": [
-            "Gaia the Fierce Knight",
-            "Gaia the Dragon Champion",
-            "Swift Gaia the Fierce Knight"
+            "Gaia The Fierce Knight",
+            "Swift Gaia the Fierce Knight",
+            "Gaia the Dragon Champion"
         ],
         "sup": [],
         "asup": [],
@@ -103,5 +129,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

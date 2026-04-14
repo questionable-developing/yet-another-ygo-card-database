@@ -1,11 +1,14 @@
 {
     "cid": "1461ea30-666f-41e3-be80-af45f039c8df",
+    "yid": 48017809,
     "password": "48017809",
     "kid": 7448,
     "name": "Mirage Tube",
     "name_jp": "<ruby lang=\"jp\"><rb>蜃気楼の筒</rb><rp> (</rp><rt>ミラージュシリンダー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mirāju Shirindā",
+    "name_jp_rom_base": "Shinkirō no Tsutsu",
     "name_jp_tl": "Mirage Cylinder",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP049",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +80,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

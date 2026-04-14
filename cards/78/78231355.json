@@ -1,11 +1,14 @@
 {
     "cid": "f5ad65e0-ee5f-4ecb-b7a2-c947fcd45302",
+    "yid": 78231355,
     "password": "78231355",
     "kid": 14766,
     "name": "Dragonmaid Hospitality",
     "name_jp": "ドラゴンメイドのお<ruby lang=\"jp\"><rb>心</rb><rp> (</rp><rt>こころ</rt><rp>)</rp></ruby>づくし",
     "name_jp_rom": "Doragonmeido no Okokorozukushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -72,6 +75,42 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP023",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP067",
+            "set": "Selection 5",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP014",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP066",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +145,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

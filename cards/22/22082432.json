@@ -1,12 +1,14 @@
 {
     "cid": "e63a1bea-5a47-4f97-8adc-cf3c59986fcd",
-    "yid": null,
+    "yid": 22082432,
     "password": "22082432",
     "kid": 21042,
     "name": "Dangers of the Divine",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>かみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>怒</rb><rp> (</rp><rt>いか</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Kami no Ikari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "God's Anger",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP008",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +81,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your hand",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Ignoring the Summoning conditions",
             "Returns from your field to your hand",
             "Activates if sent to the Graveyard",
@@ -91,5 +102,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

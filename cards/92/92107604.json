@@ -1,11 +1,14 @@
 {
     "cid": "7536b2c9-bcfb-4dca-a19a-57a2cd716b86",
+    "yid": 92107604,
     "password": "92107604",
     "kid": 17381,
     "name": "Runick Fountain",
     "name_jp": "<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>泉</rb><rp> (</rp><rt>いずみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rūn no Izumi",
+    "name_jp_rom_base": "Shinpi no Izumi",
     "name_jp_tl": "Rune Fountain",
+    "name_jp_tl_base": "Divine Runestone Fountain",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +59,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP027",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +106,6 @@
             "Limited activations",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

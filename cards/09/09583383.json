@@ -1,12 +1,14 @@
 {
     "cid": "43ef343b-8fcf-4738-8c23-b4b478669d95",
-    "yid": null,
+    "yid": 9583383,
     "password": "09583383",
     "kid": 10223,
     "name": "Gagaga Caesar",
     "name_jp": "ガガガカイザー",
     "name_jp_rom": "Gagaga Kaizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gagaga Kaiser",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ABYR-EN001",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP001",
             "set": "Abyss Rising",
             "rarities": {
                 "Rare": []
@@ -83,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "cb29349f-4850-462e-a1a9-6aa74943aacc",
+    "yid": 65155517,
     "password": "65155517",
     "kid": 20745,
     "name": "Speedroid Colonel Clackers",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＲ</rb><rp> (</rp><rt>スピードロイド</rt><rp>)</rp></ruby>クラッカーネル",
     "name_jp_rom": "Supīdoroido Kurakkāneru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Speedroid Clackernel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "SUDA-EN006",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP006",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -100,5 +112,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

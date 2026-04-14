@@ -1,12 +1,14 @@
 {
     "cid": "814ba2fc-867a-43d5-b54f-2a5f58685ba8",
-    "yid": null,
+    "yid": 10805153,
     "password": "10805153",
     "kid": 14412,
     "name": "Witchcrafter Collaboration",
     "name_jp": "ウィッチクラフト・コラボレーション",
     "name_jp_rom": "Witchikurafuto Koraborēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Collaboration",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WitchcrafterCollaboration-DBIC-JP-C.png",
+            "art": "WitchcrafterCollaboration-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WitchcrafterCollaboration-MP20-EN-R-1E.png",
-            "art": null
+            "art": "WitchcrafterCollaboration-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "INCH-EN022",
@@ -45,6 +52,16 @@
             "set": "2020 Tin of Lost Memories",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP022",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -86,5 +103,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8a001b95-199c-4cbc-8531-697af1ac2c78",
+    "yid": 56585883,
     "password": "56585883",
     "kid": 11657,
     "name": "Harpie Harpist",
     "name_jp": "ハーピィ・ハーピスト",
     "name_jp_rom": "Hāpyi Hāpisuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "HarpieHarpist-QCCP-JP-SR.png",
+            "art": "HarpieHarpist-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "HarpieHarpist-LDS2-EN-C-1E.png",
-            "art": null
+            "art": "HarpieHarpist-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CROS-EN099",
@@ -54,6 +62,31 @@
             "set": "Legendary Duelists: Season 2",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TFSP-JPB01",
+            "set": "Yu-Gi-Oh! ARC-V Tag Force Special Legend Tag Guide promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP009",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP122",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -96,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

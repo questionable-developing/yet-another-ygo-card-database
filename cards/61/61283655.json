@@ -1,11 +1,14 @@
 {
     "cid": "35ab4481-19db-4553-9f0d-44b2d1ee8b7b",
+    "yid": 61283655,
     "password": "61283655",
     "kid": 13047,
     "name": "Trickstar Candina",
     "name_jp": "トリックスター・キャンディナ",
     "name_jp_rom": "Torikkusutā Kyandina",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP008",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVB1-JP010",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP045",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,6 +115,9 @@
         ],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

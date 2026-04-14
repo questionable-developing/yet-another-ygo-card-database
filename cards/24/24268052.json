@@ -1,12 +1,14 @@
 {
     "cid": "9772a372-bc74-4de0-bf5e-1106bef12b1d",
-    "yid": null,
+    "yid": 24268052,
     "password": "24268052",
     "kid": 7755,
     "name": "Defense Draw",
     "name_jp": "ガード・ブロック",
     "name_jp_rom": "Gādo Burokku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Guard Block",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DefenseDraw-YSD5-JP-C.png",
+            "art": "DefenseDraw-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DefenseDraw-DEM3-EU-C-UE.png",
-            "art": null
+            "art": "DefenseDraw-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TDGS-EN065",
@@ -50,6 +57,29 @@
         {
             "sid": "5DS3-EN038",
             "set": "Starter Deck: Duelist Toolbox",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP065",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP08-JP023",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "YSD5-JP039",
+            "set": "Starter Deck 2010",
             "rarities": {
                 "Common": []
             }
@@ -82,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

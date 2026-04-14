@@ -1,11 +1,14 @@
 {
     "cid": "2fb3ea6c-f63d-4a3a-b6e2-ef11270706ff",
+    "yid": 77121851,
     "password": "77121851",
     "kid": 5881,
     "name": "Manticore of Darkness",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby>のマンティコア",
     "name_jp_rom": "Ankoku no Mantikoa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -78,6 +81,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "307-012",
+            "set": "Invader of Darkness (set)",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE2-JP068",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD24-JP005",
+            "set": "Structure Deck: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +137,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

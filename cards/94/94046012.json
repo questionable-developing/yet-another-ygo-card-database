@@ -1,11 +1,14 @@
 {
     "cid": "47816dac-904a-4c36-bc88-4988c4d910fd",
+    "yid": 94046012,
     "password": "94046012",
     "kid": 13901,
     "name": "Orcust Brass Bombard",
     "name_jp": "オルフェゴール・カノーネ",
     "name_jp_rom": "Orufegōru Kanōne",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Canone",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP014",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCTB-JP037",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

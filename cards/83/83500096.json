@@ -1,11 +1,14 @@
 {
     "cid": "45caf96a-6e99-4317-8ba4-6d28b0f875b0",
+    "yid": 83500096,
     "password": "83500096",
     "kid": 8553,
     "name": "Genex Ally Solid",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>アーリー</rt><rp>)</rp></ruby>・ジェネクス・ソリッド",
     "name_jp_rom": "Ārī Jenekusu Soriddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ally Genex Solid",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT07-JP015",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP005",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP081",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +104,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a8972d64-f014-49eb-a88d-172c09ab6cd1",
+    "yid": 55241609,
     "password": "55241609",
     "kid": 13726,
     "name": "Crusadia Reclusia",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>境</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>のパラディオン",
     "name_jp_rom": "Makyō no Paradion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Makyo Palladion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP006",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

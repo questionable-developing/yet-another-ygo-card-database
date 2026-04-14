@@ -1,11 +1,14 @@
 {
     "cid": "cea4d30e-ed23-40f0-b844-27a7d1f21696",
+    "yid": 99910751,
     "password": "99910751",
     "kid": 17432,
     "name": "Mokey Mokey Adrift",
     "name_jp": "はぐれ・もけもけ",
     "name_jp_rom": "Hagure Mokemoke",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "POTE-EN030",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP030",
             "set": "Power of the Elements",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

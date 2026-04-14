@@ -1,11 +1,14 @@
 {
     "cid": "e639e2c7-5463-4984-928a-a6b1bbac5f46",
+    "yid": 79718768,
     "password": "79718768",
     "kid": 9532,
     "name": "Out of the Blue",
     "name_jp": "<ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>転</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>直</rb><rp> (</rp><rt>ちょっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>下</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyūtenchokka",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "EXVC-EN061",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP061",
             "set": "Extreme Victory",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

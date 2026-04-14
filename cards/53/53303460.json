@@ -1,11 +1,14 @@
 {
     "cid": "c8590b71-36df-41f7-a189-24d1dbe24f61",
+    "yid": 53303460,
     "password": "53303460",
     "kid": 13732,
     "name": "Impcantation Candoll",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神儀</rb><rp> (</rp><rt>デビリチャル</rt><rp>)</rp></ruby>－キャンドール",
     "name_jp_rom": "Debiricharu - Kyandōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deviritual - Candoll",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP012",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBWS-JP043",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP016",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +127,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

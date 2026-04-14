@@ -1,11 +1,14 @@
 {
     "cid": "4ea83dcb-7b50-4d26-bbd9-6f6ac5eb2951",
+    "yid": 69207766,
     "password": "69207766",
     "kid": 9891,
     "name": "Inzektor Hornet",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ホーネット",
     "name_jp_rom": "Inzekutā Hōnetto",
+    "name_jp_rom_base": "Kōchūsōki Hōnetto",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Hornet",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP017",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP030",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +127,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

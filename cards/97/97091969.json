@@ -1,11 +1,14 @@
 {
     "cid": "1ca08d89-182d-4858-b42a-ca9e91ad42bc",
+    "yid": 97091969,
     "password": "97091969",
     "kid": 15744,
     "name": "Armed Dragon Lightning",
     "name_jp": "<ruby lang=\"jp\"><rb>武装竜の震霆</rb><rp> (</rp><rt>アームド・ドラゴン・ライトニング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Āmudo Doragon Raitoningu",
+    "name_jp_rom_base": "Busō Ryū no Shinjō",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP22-EN031",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP053",
+            "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +98,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

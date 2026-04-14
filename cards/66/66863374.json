@@ -1,11 +1,14 @@
 {
     "cid": "0b030676-2cc4-4721-9720-8462e4ddd78e",
+    "yid": 66863374,
     "password": "66863374",
     "kid": 14673,
     "name": "Test Panther",
     "name_jp": "スレイブパンサー",
     "name_jp_rom": "Sureibu Pansā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Slave Panther",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -54,6 +57,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP046",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +108,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

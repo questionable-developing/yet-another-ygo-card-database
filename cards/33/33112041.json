@@ -1,12 +1,14 @@
 {
     "cid": "aa000bea-d49a-442c-966a-940636457d9a",
-    "yid": null,
+    "yid": 33112041,
     "password": "33112041",
     "kid": 7191,
     "name": "Volcanic Rat",
     "name_jp": "ヴォルカニック・ラット",
     "name_jp_rom": "Vorukanikku Ratto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP002",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -67,5 +78,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

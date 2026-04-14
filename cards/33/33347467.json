@@ -1,12 +1,14 @@
 {
     "cid": "6e93bb46-ab94-4b75-b86b-9a17f0028537",
-    "yid": null,
+    "yid": 33347467,
     "password": "33347467",
     "kid": 9652,
     "name": "Ghost Ship",
     "name_jp": "<ruby lang=\"jp\"><rb>霊魂の護送船</rb><rp> (</rp><rt>ソウル・コンヴォイ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōru Konvoi",
+    "name_jp_rom_base": "Reikon no Gosōsen",
     "name_jp_tl": "Soul Convoy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP035",
+            "set": "Generation Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPL18",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +96,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

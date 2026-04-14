@@ -1,12 +1,14 @@
 {
     "cid": "74276e7a-9f26-4a0b-9306-4e31bcce741a",
-    "yid": null,
+    "yid": 34688023,
     "password": "34688023",
     "kid": 11687,
     "name": "Edge Imp Saw",
     "name_jp": "エッジインプ・ソウ",
     "name_jp_rom": "Ejji Inpu Sou",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +66,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP012",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "63076177-31c1-43f3-925f-022cfc8917f0",
-    "yid": null,
+    "yid": 7987191,
     "password": "07987191",
     "kid": 16522,
     "name": "Borreload Riot Dragon",
     "name_jp": "ヴァレルロード・<ruby lang=\"jp\"><rb>Ｒ</rb><rp> (</rp><rt>ライオット</rt><rp>)</rp></ruby>・ドラゴン",
     "name_jp_rom": "Varerurōdo Raiotto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Varrelload Riot Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -42,6 +44,25 @@
             "set": "Burst of Destiny",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP036",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BODE-JP036",
+            "set": "Burst of Destiny +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -91,5 +112,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

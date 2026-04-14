@@ -1,12 +1,14 @@
 {
     "cid": "a49eafd9-59b3-4208-ad5a-6bbd1121b218",
-    "yid": null,
+    "yid": 12196873,
     "password": "12196873",
     "kid": 13734,
     "name": "Metaphys Decoy Dragon",
     "name_jp": "メタファイズ・デコイドラゴン",
     "name_jp_rom": "Metafaizu Dekoidoragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -45,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP018",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like, Condition"
@@ -72,7 +83,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons itself while banished"
         ],
         "attack": [],
@@ -87,5 +98,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

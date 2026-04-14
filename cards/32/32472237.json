@@ -1,12 +1,14 @@
 {
     "cid": "7163cd74-92f1-4b5c-9278-ac084db1cca2",
-    "yid": null,
+    "yid": 32472237,
     "password": "32472237",
     "kid": 13378,
     "name": "Metalrokket Dragon",
     "name_jp": "メタルヴァレット・ドラゴン",
     "name_jp_rom": "Metaruvaretto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Metalvullet Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP008",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD36-JP011",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +122,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b274cdc8-7574-415e-9b69-b664aba7a893",
+    "yid": 55423549,
     "password": "55423549",
     "kid": 21438,
     "name": "Leo Wizard the Dark Fiend",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>族</rb><rp> (</rp><rt>ぞく</rt><rp>)</rp></ruby>－レオ・ウィザード",
     "name_jp_rom": "Kuroki Mazoku - Reo Wizādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Magic Tribe - Leo Wizard",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DUAD-EN027",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP027",
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

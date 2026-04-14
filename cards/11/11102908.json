@@ -1,12 +1,14 @@
 {
     "cid": "b12ad16a-0baa-405f-b397-f1021bbb4c4b",
-    "yid": null,
+    "yid": 11102908,
     "password": "11102908",
     "kid": 7003,
     "name": "Shien's Castle of Mist",
     "name_jp": "<ruby lang=\"jp\"><rb>紫</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>エン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>霞</rb><rp> (</rp><rt>かすみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>城</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shien no Kasumi Jō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP047",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

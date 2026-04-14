@@ -1,12 +1,14 @@
 {
     "cid": "4b5212b3-d5b0-422a-921c-aedcb8511f2b",
-    "yid": null,
+    "yid": 16003979,
     "password": "16003979",
     "kid": 14638,
     "name": "Gladiator Beast Sagittarii",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>サジタリィ",
     "name_jp_rom": "Guradiaru Bīsuto Sajitaryi",
+    "name_jp_rom_base": "Kentōjū Sajitaryi",
     "name_jp_tl": "Gladial Beast Sagittari",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP011",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f5b4829b-e9df-434a-b08c-99c0d7de9608",
+    "yid": 94716515,
     "password": "94716515",
     "kid": 4668,
     "name": "Eradicating Aerosol",
     "name_jp": "トゲトゲ<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>さっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>虫</rb><rp> (</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剤</rb><rp> (</rp><rt>ざい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Togetogeshin no Satchūzai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Insecticide of the Spiked God",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -59,13 +62,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "",
+            "set": "Booster 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Effect"
         ],
         "mentions": [],
-        "sup": [],
+        "sup": [
+            "Insect"
+        ],
         "asup": [
             "Insect"
         ],
@@ -86,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2d5edce0-a595-4e40-a838-d95d7122a1cf",
-    "yid": null,
+    "yid": 20438745,
     "password": "20438745",
     "kid": 7203,
     "name": "King Pyron",
     "name_jp": "<ruby lang=\"jp\"><rb>灼</rb><rp> (</rp><rt>しゃく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>熱</rb><rp> (</rp><rt>ねつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>パイロン",
     "name_jp_rom": "Shakunetsuō Pairon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Incandescent King Pyron",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP026",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP011",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

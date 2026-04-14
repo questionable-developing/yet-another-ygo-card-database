@@ -1,12 +1,14 @@
 {
     "cid": "f6dea710-302a-4b09-8206-902cbcced80b",
-    "yid": null,
+    "yid": 24019092,
     "password": "24019092",
     "kid": 11813,
     "name": "Igknight Paladin",
     "name_jp": "イグナイト・マスケット",
     "name_jp_rom": "Igunaito Masuketto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Igknight Musket",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP029",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -87,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "5b0ec17f-9e39-4241-8204-5d2532a826e3",
+    "yid": 93130021,
     "password": "93130021",
     "kid": 6684,
     "name": "Victory Viper XX03",
     "name_jp": "ビクトリー・バイパー <ruby lang=\"jp\"><rb>ＸＸ０３</rb><rp> (</rp><rt>ダブルエックスゼロスリー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bikutorī Baipā Daburu Ekkusu Zero Surī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +62,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP011",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP191",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "19TP-JP204",
+            "set": "Tournament Pack 2019 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25TP-JP305",
+            "set": "Tournament Pack 2025 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +133,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

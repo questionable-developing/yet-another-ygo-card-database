@@ -1,12 +1,14 @@
 {
     "cid": "feece038-7ef5-4fa1-9225-e3625d5d79f5",
-    "yid": null,
+    "yid": 1833916,
     "password": "01833916",
     "kid": 11291,
     "name": "Heroic Challenger - Thousand Blades",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｈ</rb><rp> (</rp><rt>ヒロイック</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チャレンジャー</rt><rp>)</rp></ruby> サウザンド・ブレード",
     "name_jp_rom": "Hiroikku Charenja Sauzando Burēdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heroic Challenger - Thousand Blade",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP082",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP102",
+            "set": "Tournament Pack 2022 Vol.1",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +110,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

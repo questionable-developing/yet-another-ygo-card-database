@@ -1,12 +1,14 @@
 {
     "cid": "de30cae4-55cc-47a6-84e3-1107e50dbbad",
-    "yid": null,
+    "yid": 32665564,
     "password": "32665564",
     "kid": 21820,
     "name": "Dark Contract with the Zero King",
     "name_jp": "<ruby lang=\"jp\"><rb>零</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>契</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>約</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reiō no Keiyakusho",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Contract with the Zero King",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DOOD-EN054",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP054",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

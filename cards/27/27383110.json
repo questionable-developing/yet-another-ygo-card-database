@@ -1,12 +1,14 @@
 {
     "cid": "086f00d6-fc3d-44f1-ba7e-7409eae55a69",
-    "yid": null,
+    "yid": 27383110,
     "password": "27383110",
     "kid": 8834,
     "name": "Dawn of the Herald",
     "name_jp": "<ruby lang=\"jp\"><rb>宣告者の預言</rb><rp> (</rp><rt>デクレアラー・プロフェシー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dekurearā Purofeshī",
+    "name_jp_rom_base": "Senkokusha no Yogen",
     "name_jp_tl": "Declarer Prophecy",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP059",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP152",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
             "Archetype-exclusion condition",
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

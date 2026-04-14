@@ -1,11 +1,14 @@
 {
     "cid": "dd416498-f7e6-4e7f-ba5a-2be2e7908756",
+    "yid": 76218313,
     "password": "76218313",
     "kid": 12128,
     "name": "Dragon Buster Destruction Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>－ドラゴンバスターブレード",
     "name_jp_rom": "Hakaiken - Doragon Basutā Burēdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destruction Sword - Dragon Buster Blade",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP020",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "a21bbf2e-c251-403b-a5fc-7d7049391197",
-    "yid": null,
+    "yid": 21142671,
     "password": "21142671",
     "kid": 12540,
     "name": "Red Nova",
     "name_jp": "レッド・ノヴァ",
     "name_jp_rom": "Reddo Nova",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPF1-JP017",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP022",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +91,8 @@
         "rel": [
             "Red Dragon Archfiend (archetype)",
             "Archfiend",
-            "Signer Dragon"
+            "Signer Dragon",
+            "Earthbound Immortal"
         ],
         "counter": [],
         "action": [
@@ -92,5 +113,8 @@
         "misc": [
             "Only once per turn"
         ]
+    },
+    "links": {
+        "wiki": "Red Nova (card)"
     }
 }

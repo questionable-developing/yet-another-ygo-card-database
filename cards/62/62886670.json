@@ -1,11 +1,14 @@
 {
     "cid": "2a41685a-35f5-4083-aa4f-d041df03119b",
+    "yid": 62886670,
     "password": "62886670",
     "kid": 14452,
     "name": "Marincess Sea Star",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女</rb><rp> (</rp><rt>マリンセス</rt><rp>)</rp></ruby>シースター",
     "name_jp_rom": "Marinsesu Shī Sutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP004",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only twice per turn"
         ]
-    }
+    },
+    "links": {}
 }

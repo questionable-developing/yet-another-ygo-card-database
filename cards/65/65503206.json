@@ -1,11 +1,14 @@
 {
     "cid": "6e822124-a1e6-46eb-9933-970acb18b977",
+    "yid": 65503206,
     "password": "65503206",
     "kid": 9101,
     "name": "Scrap Soldier",
     "name_jp": "スクラップ・ソルジャー",
     "name_jp_rom": "Sukurappu Sorujā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STBL-EN024",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP024",
             "set": "Starstrike Blast",
             "rarities": {
                 "Rare": []
@@ -84,5 +96,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

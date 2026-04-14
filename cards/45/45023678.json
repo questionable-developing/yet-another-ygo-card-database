@@ -1,11 +1,14 @@
 {
     "cid": "cdd2104d-983f-411b-8092-6db4c12a0bc2",
+    "yid": 45023678,
     "password": "45023678",
     "kid": 6890,
     "name": "Lightning Punisher",
     "name_jp": "ライトニングパニッシャー",
     "name_jp_rom": "Raitoningupanisshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +47,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP026",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP056",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +92,6 @@
         "misc": [
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

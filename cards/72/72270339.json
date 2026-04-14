@@ -1,11 +1,14 @@
 {
     "cid": "1e80eb7a-6861-4c0d-a4c3-31a5c5a35364",
+    "yid": 72270339,
     "password": "72270339",
     "kid": 19148,
     "name": "Diabellstar the Black Witch",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby>ディアベルスター",
     "name_jp_rom": "Kuromajo Diaberusutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -35,7 +38,12 @@
         "2": {
             "idx": "2",
             "full": "DiabellstartheBlackWitch-QCAC-JP-ScR-AA.png",
-            "art": "DiabellstartheBlackWitch-OW-2.png"
+            "art": "DiabellstartheBlackWitch-MADU-JP-VG-artwork-2.png"
+        },
+        "3": {
+            "idx": "3",
+            "full": "DiabellstartheBlackWitch-LOCH-JP-UR.png",
+            "art": "DiabellstartheBlackWitch-OW-3.png"
         },
         "1.1": {
             "idx": "1.1",
@@ -45,7 +53,7 @@
         "2.1": {
             "idx": "2.1",
             "full": "DiabellstartheBlackWitch-RA04-EN-QCScR-1E.png",
-            "art": null
+            "art": "DiabellstartheBlackWitch-MADU-JP-VG-artwork-2.png"
         }
     },
     "image": "1.1",
@@ -100,6 +108,52 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP006",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JP006",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP012",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP001",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP030",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -148,5 +202,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

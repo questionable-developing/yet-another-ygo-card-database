@@ -1,12 +1,14 @@
 {
     "cid": "567b3431-680c-4e93-ac84-6181623f55aa",
-    "yid": null,
+    "yid": 33252803,
     "password": "33252803",
     "kid": 11186,
     "name": "Rank-Up-Magic Quick Chaos",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－クイック・カオス",
     "name_jp_rom": "Rankuappu Majikku - Kuikku Kaosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP041",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "DP26-JP015",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

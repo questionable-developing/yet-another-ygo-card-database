@@ -1,11 +1,14 @@
 {
     "cid": "f9709f12-b6a1-452b-8555-6255a128448a",
+    "yid": 54629413,
     "password": "54629413",
     "kid": 11205,
     "name": "Guerilla Kite",
     "name_jp": "ゲリラカイト",
     "name_jp_rom": "Gerirakaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP046",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

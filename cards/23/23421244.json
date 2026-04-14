@@ -1,12 +1,14 @@
 {
     "cid": "2bee627c-ca8a-4e15-897e-96985986cf68",
-    "yid": null,
+    "yid": 23421244,
     "password": "23421244",
     "kid": 6473,
     "name": "Reborn Zombie",
     "name_jp": "リボーン・ゾンビ",
     "name_jp_rom": "Ribōn Zonbi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP009",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP069",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD15-JP013",
+            "set": "Structure Deck: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +103,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

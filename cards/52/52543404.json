@@ -1,11 +1,14 @@
 {
     "cid": "99c46805-b3b8-42ec-8447-dd40657bad8e",
+    "yid": 52543404,
     "password": "52543404",
     "kid": 19856,
     "name": "Ragnaraika Armored Lizard",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>鎧石竜</rb><rp> (</rp><rt>ヨロイトカゲ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika no Yoroi Tokage",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Armored Lizard",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP015",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

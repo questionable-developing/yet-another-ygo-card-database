@@ -1,11 +1,14 @@
 {
     "cid": "7b674410-04ce-493b-a201-f1153b57afef",
+    "yid": 53804307,
     "password": "53804307",
     "kid": 10521,
     "name": "Blaster, Dragon Ruler of Infernos",
     "name_jp": "<ruby lang=\"jp\"><rb>焔</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－ブラスター",
     "name_jp_rom": "Enseiryū - Burasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragon Ruler of Flames - Blaster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -77,6 +80,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP040",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "GS06-JP006",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR14-JP008",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP079",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -126,7 +163,9 @@
         "smat": [],
         "misc": [
             "Archetype condition",
-            "Only 1 effect once per turn"
+            "Only 1 effect once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

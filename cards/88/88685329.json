@@ -1,11 +1,14 @@
 {
     "cid": "62693376-402a-4d10-bffe-7f27451c3f36",
+    "yid": 88685329,
     "password": "88685329",
     "kid": 15988,
     "name": "Dark Eye Nightmare",
     "name_jp": "ダークアイ・ナイトメア",
     "name_jp_rom": "Dākuai Naitomea",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP027",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

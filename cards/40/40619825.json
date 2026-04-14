@@ -1,11 +1,14 @@
 {
     "cid": "7c7c4ee6-d3b6-44e3-b4f9-5c4f73372900",
+    "yid": 40619825,
     "password": "40619825",
     "kid": 4310,
     "name": "Axe of Despair",
     "name_jp": "デーモンの<ruby lang=\"jp\"><rb>斧</rb><rp> (</rp><rt>おの</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dēmon no Ono",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Axe of the Daemon",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -110,6 +113,64 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MR-02",
+            "set": "Magic Ruler (Japanese)",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "JY-23",
+            "set": "Structure Deck: Joey",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-002",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "BE1-JP002",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT04-JP042",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "BE01-JP002",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "ST14-JP026",
+            "set": "Starter Deck 2014",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "VS15-JPD19",
+            "set": "Duelist Entry Deck VS",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -143,5 +204,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

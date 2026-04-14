@@ -1,12 +1,14 @@
 {
     "cid": "5a98ab0f-2d42-468e-a3d1-11cf980d9f04",
-    "yid": null,
+    "yid": 4271596,
     "password": "04271596",
     "kid": 19836,
     "name": "King of the Ashened City",
     "name_jp": "<ruby lang=\"jp\"><rb>灰</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>せし<ruby lang=\"jp\"><rb>都</rb><rp> (</rp><rt>みやこ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaimetsuseshi Miyako no Ō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP029",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

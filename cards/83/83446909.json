@@ -1,11 +1,14 @@
 {
     "cid": "aaf29a64-e5c6-427f-b48d-ada857993f43",
+    "yid": 83446909,
     "password": "83446909",
     "kid": 7603,
     "name": "Batteryman Charger",
     "name_jp": "<ruby lang=\"jp\"><rb>充</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>池</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>メン",
     "name_jp_rom": "Jūdenchimen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rechargable Batteryman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,22 @@
         {
             "sid": "LODT-EN030",
             "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP030",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP130",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -82,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

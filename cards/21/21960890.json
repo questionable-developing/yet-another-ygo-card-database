@@ -1,12 +1,14 @@
 {
     "cid": "79fa9e03-46a9-4e55-afe2-07b24eafee93",
-    "yid": null,
+    "yid": 21960890,
     "password": "21960890",
     "kid": 21045,
     "name": "Dark Necromancer",
     "name_jp": "<ruby lang=\"jp\"><rb>大屍教</rb><rp> (</rp><rt>ダーク・ビショップ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dāku Bishoppu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Bishop",
+    "name_jp_tl_base": "Corpse Archbishop",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP052",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,7 +85,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

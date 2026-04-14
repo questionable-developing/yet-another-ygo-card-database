@@ -1,11 +1,14 @@
 {
     "cid": "af7a278f-8559-45d1-9442-e9a8682f2b33",
+    "yid": 97000273,
     "password": "97000273",
     "kid": 9503,
     "name": "Scrap Kong",
     "name_jp": "スクラップ・コング",
     "name_jp_rom": "Sukurappu Kongu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN032",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP032",
             "set": "Extreme Victory",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

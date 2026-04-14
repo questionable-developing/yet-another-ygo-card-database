@@ -1,11 +1,14 @@
 {
     "cid": "10e4db50-19d7-4898-9289-b568c5d1923f",
+    "yid": 69809989,
     "password": "69809989",
     "kid": 16862,
     "name": "Ghostrick Shot",
     "name_jp": "ゴーストリック・ショット",
     "name_jp_rom": "Gōsutorikku Shotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "BACH-EN057",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP057",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "1f8eb999-f38e-46a9-8489-4b0e8346c226",
-    "yid": null,
+    "yid": 14536035,
     "password": "14536035",
     "kid": 7561,
     "name": "Dark Grepher",
     "name_jp": "ダーク・グレファー",
     "name_jp_rom": "Dāku Gurefā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -79,6 +81,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP023",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT12-JP008",
+            "set": "Duel Terminal - Xyz Startup!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD30-JP017",
+            "set": "Structure Deck: Pendulum Domination",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19SP-JP603",
+            "set": "Special Pack 20th Anniversary Edition Vol.6",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +148,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

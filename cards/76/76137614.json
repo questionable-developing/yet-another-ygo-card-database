@@ -1,11 +1,14 @@
 {
     "cid": "3cb38c3e-a10e-4506-908a-19469182bb1e",
+    "yid": 76137614,
     "password": "76137614",
     "kid": 8133,
     "name": "Disenchanter",
     "name_jp": "<ruby lang=\"jp\"><rb>聖なる解呪師</rb><rp> (</rp><rt>セイント・ディスエンチャンター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seinto Disuenchantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Saint Disenchanter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD16-JP002",
+            "set": "Structure Deck: Lord of Magician",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR08-JP013",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
             "Archetype-exclusion condition",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

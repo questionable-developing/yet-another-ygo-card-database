@@ -1,12 +1,14 @@
 {
     "cid": "05cb095f-9b78-4b8e-ae47-2fbc54876aef",
-    "yid": null,
+    "yid": 19667590,
     "password": "19667590",
     "kid": 10483,
     "name": "Gogogo Gigas",
     "name_jp": "ゴゴゴギガース",
     "name_jp_rom": "Gogogo Gigāsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP002",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP14-JP004",
+            "set": "Duelist Pack: Yuma 2: Gogogo & Dododo",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

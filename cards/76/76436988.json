@@ -1,11 +1,14 @@
 {
     "cid": "188fbe85-c651-49a3-8281-e905640aa4e1",
+    "yid": 76436988,
     "password": "76436988",
     "kid": 10889,
     "name": "Gillagillancer",
     "name_jp": "ギラギランサー",
     "name_jp_rom": "Giragiransā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP003",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

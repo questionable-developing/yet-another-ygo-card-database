@@ -1,11 +1,14 @@
 {
     "cid": "bfff6626-d95e-41c0-88f5-975cd56c9aac",
+    "yid": 70473293,
     "password": "70473293",
     "kid": 15894,
     "name": "Sunvine Cross Breed",
     "name_jp": "<ruby lang=\"jp\"><rb>聖蔓の交配</rb><rp> (</rp><rt>サンヴァイン・クロスブリード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sanvain Kurosuburīdo",
+    "name_jp_rom_base": "Seizuru no Kōhai",
     "name_jp_tl": "San Vine Cross Breed",
+    "name_jp_tl_base": "Sacred Vine Cross Breed",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "21PP-JP020",
+            "set": "Premium Pack 2021",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +98,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

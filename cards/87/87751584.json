@@ -1,11 +1,14 @@
 {
     "cid": "d4965272-3db2-4ef4-be1d-ff4d72cfa929",
+    "yid": 87751584,
     "password": "87751584",
     "kid": 6264,
     "name": "Gatling Dragon",
     "name_jp": "ガトリング・ドラゴン",
     "name_jp_rom": "Gatoringu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +74,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP035",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP155",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +127,6 @@
             "Limited activations",
             "Coin toss"
         ]
-    }
+    },
+    "links": {}
 }

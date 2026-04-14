@@ -1,12 +1,14 @@
 {
     "cid": "530c72b9-ed20-4bc7-9292-5df83fda6798",
-    "yid": null,
+    "yid": 30548775,
     "password": "30548775",
     "kid": 6513,
     "name": "Branch!",
     "name_jp": "ブランチ",
     "name_jp_rom": "Buranchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP046",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP106",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

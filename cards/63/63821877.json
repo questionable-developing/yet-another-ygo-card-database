@@ -1,11 +1,14 @@
 {
     "cid": "f233b793-b217-4da8-b910-cc26faa39077",
+    "yid": 63821877,
     "password": "63821877",
     "kid": 12200,
     "name": "The Phantom Knights of Ragged Gloves",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ラギッドグローブ",
     "name_jp_rom": "Fantomu Naitsu Ragiddo Gurōbu",
+    "name_jp_rom_base": "Gen'ei Kishidan Ragiddo Gurōbu",
     "name_jp_tl": "Phantom Knights Ragged Glove",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP003",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP010",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

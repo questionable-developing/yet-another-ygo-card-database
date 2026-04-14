@@ -1,12 +1,14 @@
 {
     "cid": "6fc9dac8-df44-4e4a-8cf4-c1b3864b5ac7",
-    "yid": null,
+    "yid": 15146890,
     "password": "15146890",
     "kid": 11934,
     "name": "Dragonpulse Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脈</rb><rp> (</rp><rt>みゃく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryūmyaku no Majutsushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -51,12 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD29-JP001",
+            "set": "Structure Deck: Master of Pendulum",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
         ],
         "eff_types": [],
-        "mentions": [],
+        "mentions": [
+            "Dragonpit Magician"
+        ],
         "sup": [
             "Pendulum Monster"
         ],
@@ -87,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d061d775-55d8-4b29-aac7-9ea668f74341",
+    "yid": 72305034,
     "password": "72305034",
     "kid": 16518,
     "name": "Geminize Lord Golknight",
     "name_jp": "<ruby lang=\"jp\"><rb>重起士道</rb><rp> (</rp><rt>デュアライズ・ロード</rt><rp>)</rp></ruby>－ゴルドナイト",
     "name_jp_rom": "Dyuaraizu Rōdo - Gorudonaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dualize Lord - Goldknight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "BODE-EN032",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP032",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

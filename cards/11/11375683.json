@@ -1,12 +1,14 @@
 {
     "cid": "f7b99561-6d14-4d54-a49f-8e1d13ee42b8",
-    "yid": null,
+    "yid": 11375683,
     "password": "11375683",
     "kid": 13568,
     "name": "Tindangle Trinity",
     "name_jp": "ティンダングル・トリニティ",
     "name_jp_rom": "Tindanguru Toriniti",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "FLOD-EN013",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP013",
             "set": "Flames of Destruction",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

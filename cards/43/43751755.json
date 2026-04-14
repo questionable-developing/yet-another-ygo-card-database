@@ -1,11 +1,14 @@
 {
     "cid": "f44be994-62b7-4633-8fd3-ac264a5ac7a6",
+    "yid": 43751755,
     "password": "43751755",
     "kid": 7156,
     "name": "Chrysalis Pantail",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>コクーン</rt><rp>)</rp></ruby>・パンテール",
     "name_jp_rom": "Kokūn Pantēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cocoon Pantail",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TAEV-EN007",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP007",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

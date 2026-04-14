@@ -1,11 +1,14 @@
 {
     "cid": "9d51bfda-8679-4eda-8616-51a7b12190be",
+    "yid": 97240270,
     "password": "97240270",
     "kid": 6412,
     "name": "Mad Lobster",
     "name_jp": "マッド・ロブスター",
     "name_jp_rom": "Maddo Robusutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -29,15 +32,36 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MadLobster-DR04-NA-C-UE.png",
+            "full": "MadLobster-CRV-EN-C-1E.jpg",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "MadLobster-DR04-NA-C-UE.png",
+            "art": "MadLobster-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CRV-EN003",
             "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP003",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP003",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -64,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

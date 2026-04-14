@@ -1,12 +1,14 @@
 {
     "cid": "d4eea2fd-1664-4951-91fa-39fe865d6776",
-    "yid": null,
+    "yid": 11471117,
     "password": "11471117",
     "kid": 6940,
     "name": "Light Laser",
     "name_jp": "ライトイレイザー",
     "name_jp_rom": "Raito Ireizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Light Eraser",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DP03-EN025",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP03-JP025",
             "set": "Duelist Pack: Jaden Yuki 2",
             "rarities": {
                 "Super Rare": []
@@ -74,5 +85,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

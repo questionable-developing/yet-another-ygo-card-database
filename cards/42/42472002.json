@@ -1,11 +1,14 @@
 {
     "cid": "f9d224db-743e-41a7-bdc9-9f1e1dbd01a9",
+    "yid": 42472002,
     "password": "42472002",
     "kid": 13984,
     "name": "Noble Knight Custennin",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>コルネウス",
     "name_jp_rom": "Seikishi Koruneusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Corneus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP047",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +112,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

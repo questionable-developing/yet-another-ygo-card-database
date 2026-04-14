@@ -1,11 +1,14 @@
 {
     "cid": "edbbe3fa-50ea-44af-81d7-78f6c8115592",
+    "yid": 83135907,
     "password": "83135907",
     "kid": 8951,
     "name": "Scrap Goblin",
     "name_jp": "スクラップ・ゴブリン",
     "name_jp_rom": "Sukurappu Goburin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP020",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

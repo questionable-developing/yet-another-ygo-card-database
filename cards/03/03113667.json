@@ -1,12 +1,14 @@
 {
     "cid": "0f491992-175f-47ad-80d7-5b1a943a4d2b",
-    "yid": null,
+    "yid": 3113667,
     "password": "03113667",
     "kid": 13474,
     "name": "Heavy Metal Raiders",
     "name_jp": "<ruby lang=\"jp\"><rb>鋼鉄の襲撃者</rb><rp> (</rp><rt>ヘビーメタル・レイダース</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hebīmetaru Reidāsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP19-JP016",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
             "Requires control of specific Type",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

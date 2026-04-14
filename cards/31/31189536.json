@@ -1,12 +1,14 @@
 {
     "cid": "ef5f446b-5b53-4a80-9ee7-73f8ebc51e6a",
-    "yid": null,
+    "yid": 31189536,
     "password": "31189536",
     "kid": 13653,
     "name": "Vampire Awakening",
     "name_jp": "ヴァンパイア・アウェイク",
     "name_jp_rom": "Vanpaia Aweiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vampire Awake",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP010",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

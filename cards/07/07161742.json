@@ -1,12 +1,14 @@
 {
     "cid": "4f18ea1c-b3ce-44ae-b01e-9e409d2dc762",
-    "yid": null,
+    "yid": 7161742,
     "password": "07161742",
     "kid": 12925,
     "name": "Predaplant Cordyceps",
     "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>コーディセップス",
     "name_jp_rom": "Puredetā Purantsu Kōdiseppusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Plants Cordyceps",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "MACR-EN011",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP011",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -83,5 +94,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

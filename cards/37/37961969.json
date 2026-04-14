@@ -1,11 +1,14 @@
 {
     "cid": "2df4b03e-92b6-4a7d-a04e-8bf65f8c1cab",
+    "yid": 37961969,
     "password": "37961969",
     "kid": 17416,
     "name": "Tearlaments Havnis",
     "name_jp": "ティアラメンツ・ハゥフニス",
     "name_jp_rom": "Tiaramentsu Haufunisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tearlaments Havfnis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TearlamentsHavnis-POTE-JP-C.png",
+            "art": "TearlamentsHavnis-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TearlamentsHavnis-OP21-EN-SR-UE.png",
-            "art": null
+            "art": "TearlamentsHavnis-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "POTE-EN013",
@@ -47,6 +55,15 @@
             "set": "OTS Tournament Pack 21",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP013",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -96,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

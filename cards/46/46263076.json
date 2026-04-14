@@ -1,11 +1,14 @@
 {
     "cid": "1c1278c3-e3cc-49da-939c-57257b265044",
+    "yid": 46263076,
     "password": "46263076",
     "kid": 8172,
     "name": "Earthbound Immortal Ccapac Apu",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｃｃａｐａｃ</rb><rp> (</rp><rt>コカパク</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ａｐｕ</rb><rp> (</rp><rt>アプ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jibakushin Kokapaku Apu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Earthbound God Ccapac Apu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +68,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP020",
+            "set": "Raging Battle",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP124",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +126,6 @@
         "misc": [
             "Field-Unique"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e033b963-b7b1-4b16-9f31-95e79191dae9",
-    "yid": null,
+    "yid": 11813722,
     "password": "11813722",
     "kid": 9129,
     "name": "Barkion's Bark",
     "name_jp": "パルキオンのうろこ",
     "name_jp_rom": "Parukion no Uroko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Parkion's Scale",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP052",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +79,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f20bfae6-f39b-45e0-becd-726c8d5dff89",
+    "yid": 91020571,
     "password": "91020571",
     "kid": 10576,
     "name": "Reactan, Dragon Ruler of Pebbles",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－リアクタン",
     "name_jp_rom": "Chiseiryū - Riakutan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reactan, Dragon Ruler of Earth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PR03-JP001",
+            "set": "Promotion Pack 3: Part A",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP503",
+            "set": "Tournament Pack 2024 Vol.5",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

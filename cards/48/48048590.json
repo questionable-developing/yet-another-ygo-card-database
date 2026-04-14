@@ -1,11 +1,14 @@
 {
     "cid": "c4e92304-aff8-4192-bc1c-8188c39de841",
+    "yid": 48048590,
     "password": "48048590",
     "kid": 13689,
     "name": "Keeper of Dragon Magic",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryūmadō no Shugosha",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP143",
+            "set": "V Jump April 2018 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD36-JP018",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD43-JP015",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CH01-JP018",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,7 +105,9 @@
         "mentions": [],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Prophecy"
+        ],
         "suparc": [
             "Fusion (archetype)",
             "Polymerization (archetype)"
@@ -102,5 +137,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

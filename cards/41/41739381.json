@@ -1,11 +1,14 @@
 {
     "cid": "d2330880-dc08-43e6-97f4-6ba233340945",
+    "yid": 41739381,
     "password": "41739381",
     "kid": 20787,
     "name": "Clockwork Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>機械仕掛けの騎士</rb><rp> (</rp><rt>クロック・ワーク・ナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kurokku Wāku Naito",
+    "name_jp_rom_base": "Kikaijikake no Kishi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Mechanical Knight",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -32,7 +35,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "ClockworkKnight-SUDA-EN-UR-1E.png",
+            "full": "ClockworkKnight-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -43,6 +46,38 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN058",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP050",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP050",
+            "set": "Supreme Darkness +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -89,5 +124,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

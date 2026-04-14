@@ -1,11 +1,14 @@
 {
     "cid": "b33db357-39f2-4959-bd00-05275e61f8a9",
+    "yid": 69385019,
     "password": "69385019",
     "kid": 20522,
     "name": "Mermail King - Neptabyss",
     "name_jp": "<ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>たる<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－ネプトアビス",
     "name_jp_rom": "Ōtaru Māmeiru - Neputoabisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -64,6 +67,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP046",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP013",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +135,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "f5bcf145-a4c9-4b20-bcb5-9f47db082b33",
-    "yid": null,
+    "yid": 31281980,
     "password": "31281980",
     "kid": 7869,
     "name": "Healing Wave Generator",
     "name_jp": "ヒール・ウェーバー",
     "name_jp_rom": "Hīru Wēbā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heal Waver",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP001",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP08-JP008",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

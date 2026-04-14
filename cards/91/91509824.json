@@ -1,11 +1,14 @@
 {
     "cid": "baa59aad-5e75-4292-9b5f-2f74be1491bc",
+    "yid": 91509824,
     "password": "91509824",
     "kid": 21207,
     "name": "SA.I.dekick",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>－ボウ",
     "name_jp_rom": "Ai-Bou",
+    "name_jp_rom_base": null,
     "name_jp_tl": "P-Ai-rtner",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP070",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,7 +79,7 @@
             "Negates the effects of your opponent's Trap Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -80,5 +92,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

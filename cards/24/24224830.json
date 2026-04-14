@@ -6,7 +6,9 @@
     "name": "Called by the Grave",
     "name_jp": "<ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>はか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>穴</rb><rp> (</rp><rt>あな</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>指</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>名</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakaana no Shimeisha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Designator of the Grave",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "CalledbytheGrave-L5DD-EN-C-1E.png",
+            "full": "CalledbytheGrave-L26D-EN-C-1E.png",
             "art": "CalledbytheGrave-MADU-EN-VG-artwork.png"
         },
         "2": {
@@ -37,93 +39,250 @@
         },
         "3": {
             "idx": "3",
-            "full": "CalledbytheGrave-LPST-JP-UR.png",
+            "full": "CalledbytheGrave-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "3",
     "sets": [
         {
             "sid": "EXFO-ENSE2",
             "set": "Extreme Force Special Edition",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "FLOD-EN065",
             "set": "Flames of Destruction",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "MP19-EN043",
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "DUDE-EN044",
             "set": "Duel Devastator",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "MAGO-EN156",
             "set": "Maximum Gold",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "SDAZ-EN029",
             "set": "Structure Deck: Albaz Strike",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA01-EN057",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "SDWD-EN026",
             "set": "Structure Deck: Blue-Eyes White Destiny",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA04-EN092",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Quarter Century Secret Rare": []
+                "Quarter Century Secret Rare": ["2"]
             }
         },
         {
             "sid": "L5DD-ENY27",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "L5DD-ENC21",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "L26D-ENS09",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "L26D-ENX20",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN117",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP065",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "20TH-JPC94",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Ultra Parallel Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20CP-JPS10",
+            "set": "20th Secret Rare Special Pack",
+            "rarities": {
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP040",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SR11-JP033",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD43-JP029",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP058",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP052",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPA23",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPB21",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD47-JP026",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP015",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["2"]
+            }
+        },
+        {
+            "sid": "TT02-JPA21",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPB17",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP086",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD48-JP027",
+            "set": "Structure Deck: Power of Fellows",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP035",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],

@@ -1,12 +1,14 @@
 {
     "cid": "ba13862a-6db3-4f28-a26c-7d87c360e184",
-    "yid": null,
+    "yid": 3580032,
     "password": "03580032",
     "kid": 11468,
     "name": "Merlin",
     "name_jp": "<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>説</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>預</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>言</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>マーリン",
     "name_jp_rom": "Densetsu no Yogensha Mārin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Legendary Prophet Merlin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +50,22 @@
             "set": "Battles of Legend: Relentless Revenge",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EONK-JP001",
+            "set": "Duel Field EX Epic of Noble Knights: Holy Sword of Guidance",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "EP15-JP042",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -93,7 +111,9 @@
         "smat": [],
         "misc": [
             "Only once per turn",
-            "Variable effects"
+            "Variable effects",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

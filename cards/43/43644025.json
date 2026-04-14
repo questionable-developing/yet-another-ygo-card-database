@@ -1,11 +1,14 @@
 {
     "cid": "100f34aa-56e5-427a-b046-8fcd81ff14ca",
+    "yid": 43644025,
     "password": "43644025",
     "kid": 7216,
     "name": "Cocoon Rebirth",
     "name_jp": "コクーン・リボーン",
     "name_jp_rom": "Kokūn Ribōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cocoon Reborn",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TAEV-EN050",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP050",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
             "Requires control of specific archetype",
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

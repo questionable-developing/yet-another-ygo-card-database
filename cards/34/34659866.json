@@ -1,12 +1,14 @@
 {
     "cid": "f16cf503-23a3-4d1b-9387-1a245c906ed7",
-    "yid": null,
+    "yid": 34659866,
     "password": "34659866",
     "kid": 8304,
     "name": "Darksea Rescue",
     "name_jp": "ダークシー・レスキュー",
     "name_jp_rom": "Dākushī Resukyū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP013",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

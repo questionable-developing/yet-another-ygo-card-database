@@ -1,12 +1,14 @@
 {
     "cid": "9aec5140-2870-4797-9d17-821c0aea27b7",
-    "yid": null,
+    "yid": 4227096,
     "password": "04227096",
     "kid": 11849,
     "name": "Mistaken Arrest",
     "name_jp": "<ruby lang=\"jp\"><rb>捕</rb><rp> (</rp><rt>とり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>違</rb><rp> (</rp><rt>ちが</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Torichigai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MistakenArrest-MAGO-EN-R-1E.png",
-            "art": null
+            "full": "MistakenArrest-CORE-JP-R.png",
+            "art": "MistakenArrest-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "MistakenArrest-OP29-EN-SR-UE.png",
+            "art": "MistakenArrest-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CORE-EN065",
@@ -62,6 +69,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP065",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +103,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

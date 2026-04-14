@@ -1,11 +1,14 @@
 {
     "cid": "513b1ff3-462f-4217-a346-872b3034a534",
+    "yid": 66069967,
     "password": "66069967",
     "kid": 17775,
     "name": "Prediction Princess Bibliomuse",
     "name_jp": "<ruby lang=\"jp\"><rb>占</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ビブリオムーサ",
     "name_jp_rom": "Senjutsuki Biburiomūsa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DABL-EN019",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP019",
             "set": "Darkwing Blast",
             "rarities": {
                 "Common": []
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

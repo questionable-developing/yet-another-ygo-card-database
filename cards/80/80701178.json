@@ -1,11 +1,14 @@
 {
     "cid": "f308b821-2524-4d6c-b486-b5f62d40bf45",
+    "yid": 80701178,
     "password": "80701178",
     "kid": 13733,
     "name": "Impcantation Talismandra",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神儀</rb><rp> (</rp><rt>デビリチャル</rt><rp>)</rp></ruby>－タリスマンドラ",
     "name_jp_rom": "Debiricharu - Tarisumandora",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deviritual - Talismandra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP013",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBWS-JP044",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP009",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +134,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

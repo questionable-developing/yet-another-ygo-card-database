@@ -1,11 +1,14 @@
 {
     "cid": "5104ad2c-be22-41b5-82f3-5a1d764a143a",
+    "yid": 43175858,
     "password": "43175858",
     "kid": 11901,
     "name": "Toon Kingdom",
     "name_jp": "トゥーン・キングダム",
     "name_jp_rom": "Tūn Kingudamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -75,6 +78,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP023",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP402",
+            "set": "Tournament Pack 2020 Vol.4",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,6 +133,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "84b7e612-3bc9-41cc-bad2-1fe9153f0110",
-    "yid": null,
+    "yid": 5253985,
     "password": "05253985",
     "kid": 15838,
     "name": "Soul Crossing",
     "name_jp": "<ruby lang=\"jp\"><rb>交</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>差</rb><rp> (</rp><rt>さ</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōsasuru Tamashī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Crossing Souls",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PGB1-JP003",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP076",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

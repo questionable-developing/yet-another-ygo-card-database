@@ -1,11 +1,14 @@
 {
     "cid": "dc9a7199-7247-446f-a17b-e6b65c5f6912",
+    "yid": 76072561,
     "password": "76072561",
     "kid": 21460,
     "name": "Sky Striker Ace = Zero",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>＝ゼロ",
     "name_jp_rom": "Sentōki = Zero",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flash Sword Princess = Zero",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -33,7 +36,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SkyStrikerAceZero-DUAD-EN-ScR-1E.png",
+            "full": "SkyStrikerAceZero-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -45,6 +48,23 @@
             "rarities": {
                 "Secret Rare": [],
                 "Starlight Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENS34",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP049",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -99,5 +119,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

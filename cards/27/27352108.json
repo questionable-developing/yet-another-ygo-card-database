@@ -1,12 +1,14 @@
 {
     "cid": "e477c5f9-8f4a-4618-a5f6-730fb51b783f",
-    "yid": null,
+    "yid": 27352108,
     "password": "27352108",
     "kid": 14632,
     "name": "Chobham Armor Dragon",
     "name_jp": "チョバムアーマー・ドラゴン",
     "name_jp_rom": "Chobamu Āmā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "CHIM-EN005",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP005",
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "54060ef1-107c-4c07-b061-f3e0b2d7ed51",
+    "yid": 94183877,
     "password": "94183877",
     "kid": 15014,
     "name": "Loptr, Shadow of the Generaider Bosses",
     "name_jp": "<ruby lang=\"jp\"><rb>王の影</rb><rp> (</rp><rt>ジェネレイド・シャドウ</rt><rp>)</rp></ruby> ロプトル",
     "name_jp_rom": "Jenereido Shadou Roputoru",
+    "name_jp_rom_base": "Ō no Kage Roputoru",
     "name_jp_tl": "Loptr, Generaid Shadow",
+    "name_jp_tl_base": "Loptr, Shadow of the Kings",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -21,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". All \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
+    "desc": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". All \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
-    "eff": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". All \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
+    "mnst_eff": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
+    "eff": "You can only control 1 \"Loptr, Shadow of the Generaider Bosses\". \"Generaider\" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 \"Generaider\" monster; Special Summon 1 Level 9 \"Generaider\" monster with a different name from your Deck. You can only use this effect of \"Loptr, Shadow of the Generaider Bosses\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "LoptrShadowoftheGeneraiderBosses-ETCO-EN-UR-1E.png",
+            "full": "LoptrShadowoftheGeneraiderBosses-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -40,6 +43,35 @@
             "set": "Eternity Code",
             "rarities": {
                 "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN016",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP028",
+            "set": "Eternity Code",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP078",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -84,5 +116,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

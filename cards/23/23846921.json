@@ -1,12 +1,14 @@
 {
     "cid": "be90d3ce-1787-4c89-b5b8-5b1ee5ccef4c",
-    "yid": null,
+    "yid": 23846921,
     "password": "23846921",
     "kid": 7589,
     "name": "Arcana Force XXI - The World",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>ⅩⅩⅠ</rb><rp> (</rp><rt>トゥエンティーワン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＷＯＲＬＤ</rb><rp> (</rp><rt>ザ・ワールド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Tuentīwan - Za Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -45,6 +47,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP016",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP118",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9012a84a-ed0d-451b-b5c9-706217082e2e",
+    "yid": 42233477,
     "password": "42233477",
     "kid": 11277,
     "name": "Battleguard Rage",
     "name_jp": "バーバリアン・レイジ",
     "name_jp_rom": "Bābarian Reiji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Barbarian Rage",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP068",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

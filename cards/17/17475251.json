@@ -1,12 +1,14 @@
 {
     "cid": "fcb4df6c-f659-482f-883c-76a859a1f3c5",
-    "yid": null,
+    "yid": 17475251,
     "password": "17475251",
     "kid": 10380,
     "name": "Brotherhood of the Fire Fist - Hawk",
     "name_jp": "<ruby lang=\"jp\"><rb>英</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－ホークエイ",
     "name_jp_rom": "Eiensei - Hōkuei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heroic Flame Star - Hawk Rong",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP021",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

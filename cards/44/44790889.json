@@ -1,11 +1,14 @@
 {
     "cid": "630889fb-5948-4058-84ee-5f0ff9f091e8",
+    "yid": 44790889,
     "password": "44790889",
     "kid": 10032,
     "name": "Hammer Bounzer",
     "name_jp": "ハンマーラッシュ・バウンサー",
     "name_jp_rom": "Hanmārasshu Baunsā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hammer-Rush Bouncer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN009",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP009",
             "set": "Galactic Overlord",
             "rarities": {
                 "Super Rare": []
@@ -75,5 +87,6 @@
         "misc": [
             "Requires control of no cards"
         ]
-    }
+    },
+    "links": {}
 }

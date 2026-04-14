@@ -1,11 +1,14 @@
 {
     "cid": "4728912f-032e-4252-8f2d-d27bd3771921",
+    "yid": 61190918,
     "password": "61190918",
     "kid": 12146,
     "name": "Toon Buster Blader",
     "name_jp": "トゥーン・バスター・ブレイダー",
     "name_jp_rom": "Tūn Basutā Bureidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -65,6 +68,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP038",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +116,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

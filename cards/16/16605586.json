@@ -1,12 +1,14 @@
 {
     "cid": "3333d09a-3c2a-4c38-892e-62d09b9b2698",
-    "yid": null,
+    "yid": 16605586,
     "password": "16605586",
     "kid": 16504,
     "name": "Destiny HERO - Denier",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ディナイアルガイ",
     "name_jp_rom": "Desutenī Hīrō Dinaiarugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Denialguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP018",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP031",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP033",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +128,6 @@
             "Requires control of specific archetype",
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

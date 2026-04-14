@@ -1,11 +1,14 @@
 {
     "cid": "8bd26659-5a33-460f-9ed2-663663ac2905",
+    "yid": 53765052,
     "password": "53765052",
     "kid": 19853,
     "name": "Diabellze the Original Sinkeeper",
     "name_jp": "<ruby lang=\"jp\"><rb>原</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>罪</rb><rp> (</rp><rt>ざい</rt><rp>)</rp></ruby>のディアベルゼ",
     "name_jp_rom": "Genzai no Diaberuze",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Diabellze the Original Sinner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,10 +33,15 @@
         "1": {
             "idx": "1",
             "full": "DiabellzetheOriginalSinkeeper-MP25-EN-PScR-1E.png",
-            "art": null
+            "art": "DiabellzetheOriginalSinkeeper-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "DiabellzetheOriginalSinkeeper-LOCR-JP-UR.png",
+            "art": "DiabellzetheOriginalSinkeeper-OW.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "LEDE-EN012",
@@ -47,6 +55,35 @@
             "sid": "MP25-EN063",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP012",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP012",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP032",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
                 "Prismatic Secret Rare": []
             }
         }
@@ -99,5 +136,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

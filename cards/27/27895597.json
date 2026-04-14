@@ -1,12 +1,14 @@
 {
     "cid": "24a03680-436b-44ec-a79e-71a3651f3fbe",
-    "yid": null,
+    "yid": 27895597,
     "password": "27895597",
     "kid": 14509,
     "name": "Fortune Lady Calling",
     "name_jp": "フォーチュンレディ・コーリング",
     "name_jp_rom": "Fōchun Redi Kōringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,17 +29,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyCalling-RIRA-JP-C.png",
+            "art": "FortuneLadyCalling-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyCalling-RIRA-EN-UR-1E.png",
-            "art": null
+            "art": "FortuneLadyCalling-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RIRA-EN056",
             "set": "Rising Rampage",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP056",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -75,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

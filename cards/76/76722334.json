@@ -1,11 +1,14 @@
 {
     "cid": "10974f96-f79e-4213-ac27-56c43f2dd914",
+    "yid": 76722334,
     "password": "76722334",
     "kid": 14709,
     "name": "Capshell",
     "name_jp": "カプシェル",
     "name_jp_rom": "Kapusheru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP054",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP021",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +109,6 @@
             "Only 1 effect once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

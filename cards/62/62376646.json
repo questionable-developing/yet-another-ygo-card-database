@@ -1,11 +1,14 @@
 {
     "cid": "cce5c9df-566c-4668-8503-a0c7804b4290",
+    "yid": 62376646,
     "password": "62376646",
     "kid": 13093,
     "name": "Gouki Re-Match",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>再</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōki Saisen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni Re-Match",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP054",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVB1-JP015",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

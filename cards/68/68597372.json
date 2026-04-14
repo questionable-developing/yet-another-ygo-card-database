@@ -1,11 +1,14 @@
 {
     "cid": "59aeaa42-4ba4-4c12-9a61-3fbaf1da852e",
+    "yid": 68597372,
     "password": "68597372",
     "kid": 9659,
     "name": "Wind-Up Zenmaister",
     "name_jp": "<ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>条</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>甲</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>ゼンマイスター",
     "name_jp_rom": "Zenmai Kikō Zenmaisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wind-Up Armor Zenmaister",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -60,6 +63,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP042",
+            "set": "Generation Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,7 +106,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Limited activations"
+            "Limited activations",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

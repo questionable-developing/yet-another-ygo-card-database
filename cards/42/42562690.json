@@ -1,11 +1,14 @@
 {
     "cid": "b821c7de-a6be-438e-a84b-f9ad3b1bf2fc",
+    "yid": 42562690,
     "password": "42562690",
     "kid": 11214,
     "name": "Performapal Skeeter Skimmer",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>アメンボート",
     "name_jp_rom": "Entameito Amenbōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Amenboat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP005",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EN01-JP010",
+            "set": "Entry Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

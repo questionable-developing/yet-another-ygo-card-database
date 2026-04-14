@@ -1,12 +1,14 @@
 {
     "cid": "9f3eaf0b-9842-40c0-84dc-a4cc7789bd13",
-    "yid": null,
+    "yid": 19221310,
     "password": "19221310",
     "kid": 11768,
     "name": "Odd-Eyes Saber Dragon",
     "name_jp": "オッドアイズ・セイバー・ドラゴン",
     "name_jp_rom": "Oddoaizu Seibā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -36,6 +38,22 @@
     },
     "image": null,
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "VS15-JPS00",
+            "set": "Duelist Entry Deck VS",
+            "rarities": {
+                "Extra Secret Rare": []
+            }
+        },
+        {
+            "sid": "20TH-JPB28",
+            "set": "20th Anniversary Duelist Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,6 +96,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

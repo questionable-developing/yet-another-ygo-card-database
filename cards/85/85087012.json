@@ -1,11 +1,14 @@
 {
     "cid": "09b9c977-34ff-4e6a-8a8e-ab016b9edc67",
+    "yid": 85087012,
     "password": "85087012",
     "kid": 6939,
     "name": "Card Trooper",
     "name_jp": "カードガンナー",
     "name_jp_rom": "Kādo Gannā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Card Gunner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -181,6 +184,65 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP03-JP009",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DT04-JP007",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD17-JP013",
+            "set": "Structure Deck: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPM31",
+            "set": "Duelist Set: Version Machine-Gear Troopers Enhancement Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD27-JP015",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP015",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD32-JP013",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24EP-JP303",
+            "set": "Event Pack 2024 Vol.3",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -192,7 +254,9 @@
         "arc": [],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "HERO"
+        ],
         "counter": [],
         "action": [
             "Sends from the top of your Deck to your Graveyard for cost",
@@ -214,5 +278,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

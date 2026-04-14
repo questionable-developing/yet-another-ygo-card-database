@@ -1,11 +1,14 @@
 {
     "cid": "6db746c4-a788-465a-a57d-7f5b02690f63",
+    "yid": 93217231,
     "password": "93217231",
     "kid": 7476,
     "name": "Offering to the Snake Deity",
     "name_jp": "<ruby lang=\"jp\"><rb>毒</rb><rp> (</rp><rt>どく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛇</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>供</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>もつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dokuja no Kumotsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Offering of Poisonous Snakes",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP077",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DT06-JP046",
+            "set": "Duel Terminal - Dragunity of the Hurricane!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP108",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP3-JP050",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBAG-JP045",
+            "set": "Deck-Build Pack: Ancient Guardians",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +136,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

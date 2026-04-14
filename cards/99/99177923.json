@@ -1,11 +1,14 @@
 {
     "cid": "b04aa87f-7530-4fb6-a075-55586bec90cd",
+    "yid": 99177923,
     "password": "99177923",
     "kid": 8272,
     "name": "Infernity Archfiend",
     "name_jp": "インフェルニティ・デーモン",
     "name_jp_rom": "Inferuniti Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infernity Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WC09-JP001",
+            "set": "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DT14-JP010",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP017",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP043",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +133,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

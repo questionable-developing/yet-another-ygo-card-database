@@ -1,12 +1,14 @@
 {
     "cid": "f158f41e-9ac8-45ad-bb8f-7fdc8704362c",
-    "yid": null,
+    "yid": 11067666,
     "password": "11067666",
     "kid": 12910,
     "name": "White Wing Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>はく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakuyoku no Majutsushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -32,17 +34,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WhiteWingMagician-SD31-JP-SR.png",
+            "art": "WhiteWingMagician-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WhiteWingMagician-PEVO-EN-UR-1E.png",
-            "art": null
+            "art": "WhiteWingMagician-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PEVO-EN005",
             "set": "Pendulum Evolution",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD31-JP005",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -91,5 +107,6 @@
             "Limited activations",
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

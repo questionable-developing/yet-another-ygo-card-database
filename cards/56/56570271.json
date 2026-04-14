@@ -1,11 +1,14 @@
 {
     "cid": "322def82-9eb4-4c5b-bfff-8cbb89279358",
+    "yid": 56570271,
     "password": "56570271",
     "kid": 7095,
     "name": "Destiny HERO - Disk Commander",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ディスクガイ",
     "name_jp_rom": "Desutenī Hīrō Disukugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Diskguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -72,6 +75,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WC07-JP003",
+            "set": "Yu-Gi-Oh! World Championship 2007 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RB05-JP001",
+            "set": "Perfect Rulebook 2018 promotional card",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +122,6 @@
         "misc": [
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

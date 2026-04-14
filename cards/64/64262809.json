@@ -1,11 +1,14 @@
 {
     "cid": "890284b3-e471-4a65-ba27-6ede0ecd4836",
+    "yid": 64262809,
     "password": "64262809",
     "kid": 7484,
     "name": "Dragon Ice",
     "name_jp": "ドラゴン・アイス",
     "name_jp_rom": "Doragon Aisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP017",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
         "misc": [
             "Field-Unique"
         ]
-    }
+    },
+    "links": {}
 }

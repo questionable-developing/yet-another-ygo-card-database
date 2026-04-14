@@ -1,11 +1,14 @@
 {
     "cid": "b010f7ec-d166-4d52-b07c-9b4fd20980a0",
+    "yid": 69228245,
     "password": "69228245",
     "kid": 12595,
     "name": "Performapal Changeraffe",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>チェーンジラフ",
     "name_jp_rom": "Entameito Chēnjirafu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Chain Giraffe",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP005",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -76,7 +88,7 @@
         ],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Extra Deck"
         ],
         "attack": [
@@ -88,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

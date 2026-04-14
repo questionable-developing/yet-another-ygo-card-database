@@ -1,11 +1,14 @@
 {
     "cid": "3e72c614-3ab7-4741-b3a1-49d0fb5318a5",
+    "yid": 63644830,
     "password": "63644830",
     "kid": 15291,
     "name": "Melffy Hide-and-Seek",
     "name_jp": "メルフィーのかくれんぼ",
     "name_jp_rom": "Merufī no Kakurenbo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP057",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP179",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

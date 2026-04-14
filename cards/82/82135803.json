@@ -1,11 +1,14 @@
 {
     "cid": "7b8d11f2-68d6-4b0a-bbc2-e35db4ca6408",
+    "yid": 82135803,
     "password": "82135803",
     "kid": 20215,
     "name": "Fiendsmith's Desirae",
     "name_jp": "<ruby lang=\"jp\"><rb>刻まれし魔</rb><rp> (</rp><rt>デモンスミス</rt><rp>)</rp></ruby>ディエスイレ",
     "name_jp_rom": "Demonsumisu Diesu Ire",
+    "name_jp_rom_base": "Kizamareshi Ma Diesu Ire",
     "name_jp_tl": "Demonsmith Dies Irae",
+    "name_jp_tl_base": "Engraved Demon Dies Irae",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP036",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "INFO-JP036",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

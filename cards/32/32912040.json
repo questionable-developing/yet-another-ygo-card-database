@@ -1,12 +1,14 @@
 {
     "cid": "71a43ec8-f1e7-4897-b552-d4799aabf13b",
-    "yid": null,
+    "yid": 32912040,
     "password": "32912040",
     "kid": 12428,
     "name": "Triamid Master",
     "name_jp": "トラミッド・マスター",
     "name_jp_rom": "Toramiddo Masutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tramid Master",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "TDIL-EN029",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP029",
             "set": "The Dark Illusion",
             "rarities": {
                 "Rare": []
@@ -82,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

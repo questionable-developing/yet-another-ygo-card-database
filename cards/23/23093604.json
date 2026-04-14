@@ -1,18 +1,21 @@
 {
     "cid": "2c8dd0a6-8299-4e2c-aa3b-e3e4a12bd975",
-    "yid": null,
+    "yid": 23093604,
     "password": "23093604",
     "kid": 7824,
     "name": "X-Saber Pashuul",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>－セイバー パシウル",
     "name_jp_rom": "Ekkusu-Seibā Pashiuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
     "subtypes": [
         "Warrior",
-        "Tuner"
+        "Tuner",
+        "Effect"
     ],
     "atk": 100,
     "def": 0,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.",
+    "desc": "Cannot be destroyed by battle. Once per turn, during your opponent's Standby Phase: You take 1000 damage. This card must be in face-up Defense Position to activate and to resolve this effect.",
     "pend_eff": null,
-    "mnst_eff": null,
-    "eff": null,
-    "flavor": "This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.",
+    "mnst_eff": "Cannot be destroyed by battle. Once per turn, during your opponent's Standby Phase: You take 1000 damage. This card must be in face-up Defense Position to activate and to resolve this effect.",
+    "eff": "Cannot be destroyed by battle. Once per turn, during your opponent's Standby Phase: You take 1000 damage. This card must be in face-up Defense Position to activate and to resolve this effect.",
+    "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XSaberPashuul-TU07-EN-SR-UE.png",
+            "full": "XSaberPashuul-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -48,6 +51,44 @@
             "set": "Turbo Pack: Booster Seven",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX03",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT02-JP026",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TP15-JP002",
+            "set": "Tournament Pack 2010 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP044",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SPRG-JP015",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -83,5 +124,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

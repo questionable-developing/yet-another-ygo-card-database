@@ -1,11 +1,14 @@
 {
     "cid": "37b54fb6-59c3-4317-a8e6-43e66b313f64",
+    "yid": 84206435,
     "password": "84206435",
     "kid": 9131,
     "name": "Medallion of the Ice Barrier",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>紋</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>章</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hyōkekkai no Monshō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -74,6 +77,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP054",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD40-JP029",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP042",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +135,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

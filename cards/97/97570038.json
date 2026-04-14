@@ -1,11 +1,14 @@
 {
     "cid": "8b7bd0f0-72ad-48b8-b222-3e4102e1b4cd",
+    "yid": 97570038,
     "password": "97570038",
     "kid": 6349,
     "name": "Kaminote Blow",
     "name_jp": "ゴッドハンド・スマッシュ",
     "name_jp_rom": "Goddo Hando Sumasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "God Hand Smash",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP042",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP222",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

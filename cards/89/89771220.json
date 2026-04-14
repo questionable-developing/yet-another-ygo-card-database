@@ -1,11 +1,14 @@
 {
     "cid": "c06373e4-7730-4e0d-95b2-ced47b953840",
+    "yid": 89771220,
     "password": "89771220",
     "kid": 16552,
     "name": "Ursarctic Drytron",
     "name_jp": "<ruby lang=\"jp\"><rb>天斗輝巧極</rb><rp> (</rp><rt>ベアルクティ・ドライトロン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bearukuti Doraitoron",
+    "name_jp_rom_base": "Tento Ryūkōkyoku",
     "name_jp_tl": "Bearcti Drytron",
+    "name_jp_tl_base": "Celestial Dipper Bright Machine Pole",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "BODE-EN066",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP066",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -89,5 +101,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

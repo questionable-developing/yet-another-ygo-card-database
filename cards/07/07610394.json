@@ -1,12 +1,14 @@
 {
     "cid": "ee1d151b-2046-4a3b-883c-785660fdcf17",
-    "yid": null,
+    "yid": 7610394,
     "password": "07610394",
     "kid": 15054,
     "name": "Evil Eye Reemergence",
     "name_jp": "<ruby lang=\"jp\"><rb>眷</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>現</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kengen no Jugan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cursed Eye Manifestation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "EvilEyeReemergence-ETCO-JP-C.png",
+            "art": "EvilEyeReemergence-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "EvilEyeReemergence-ETCO-EN-C-1E.png",
-            "art": null
+            "art": "EvilEyeReemergence-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ETCO-EN068",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP068",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -84,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

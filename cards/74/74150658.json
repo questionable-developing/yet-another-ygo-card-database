@@ -1,11 +1,14 @@
 {
     "cid": "f67a6292-d631-4e5a-b827-4e26f45b34f3",
+    "yid": 74150658,
     "password": "74150658",
     "kid": 4791,
     "name": "Talons of Shurilane",
     "name_jp": "タロンズ・オブ・シュリーレン",
     "name_jp_rom": "Taronzu Obu Shurīren",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Talons of Schlieren",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP028",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
             "Only once per turn",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

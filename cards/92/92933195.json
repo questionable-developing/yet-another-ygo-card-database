@@ -1,11 +1,14 @@
 {
     "cid": "257a8e95-53d9-42d7-a8e5-7d7bf72271e5",
+    "yid": 92933195,
     "password": "92933195",
     "kid": 7817,
     "name": "Mist Valley Windmaster",
     "name_jp": "<ruby lang=\"jp\"><rb>霞の谷</rb><rp> (</rp><rt>ミスト・バレー</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Misuto Barē no Kazetsukai",
+    "name_jp_rom_base": "Kasumi no Tani no Kazetsukai",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT02-JP019",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP037",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

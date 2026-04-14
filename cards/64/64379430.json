@@ -1,11 +1,14 @@
 {
     "cid": "4a15ea78-2b2c-46c5-a806-0d4a1366c9ef",
+    "yid": 64379430,
     "password": "64379430",
     "kid": 7424,
     "name": "Doomsday Horror",
     "name_jp": "<ruby lang=\"jp\"><rb>終焉の精霊</rb><rp> (</rp><rt>ジ・エンド・スピリッツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ji Endo Supirittsu",
+    "name_jp_rom_base": "Shūen no Seirei",
     "name_jp_tl": "The End Spirits",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP022",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

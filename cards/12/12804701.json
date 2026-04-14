@@ -1,12 +1,14 @@
 {
     "cid": "f01a901d-a153-4816-a266-42f38b38b463",
-    "yid": null,
+    "yid": 12804701,
     "password": "12804701",
     "kid": 19532,
     "name": "Aroma Healing",
     "name_jp": "アロマヒーリング",
     "name_jp_rom": "Aroma Hīringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "PHNI-EN077",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP077",
             "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

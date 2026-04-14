@@ -1,11 +1,14 @@
 {
     "cid": "0778992d-3042-4d0d-aa8b-b8781aa8fae8",
+    "yid": 68167124,
     "password": "68167124",
     "kid": 9722,
     "name": "Stinging Swordsman",
     "name_jp": "<ruby lang=\"jp\"><rb>針</rb><rp> (</rp><rt>はり</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Harikenshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Needle Swordsman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP004",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP12-JP007",
+            "set": "Duelist Pack: Yuma",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

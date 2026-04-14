@@ -1,11 +1,14 @@
 {
     "cid": "9fc19453-631d-47a2-840e-d4f41fb6b723",
+    "yid": 80190753,
     "password": "80190753",
     "kid": 10639,
     "name": "Talaya, Princess of Cherry Blossoms",
     "name_jp": "<ruby lang=\"jp\"><rb>桜姫</rb><rp> (</rp><rt>おうひ</rt><rp>)</rp></ruby>タレイア",
     "name_jp_rom": "Ōhi Tareia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP036",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP205",
+            "set": "Tournament Pack 2020 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9a7b579e-d577-4156-aeb3-f8e488ba9044",
+    "yid": 92053608,
     "password": "92053608",
     "kid": 11918,
     "name": "Aquaactress Arowana",
     "name_jp": "アクアアクトレス・アロワナ",
     "name_jp_rom": "Akua-akutoresu Arowana",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "AquaactressArowana-CPD1-JP-C.png",
+            "art": "AquaactressArowana-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "AquaactressArowana-DLCS-EN-C-1E.png",
-            "art": null
+            "art": "AquaactressArowana-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DRL2-EN041",
@@ -45,6 +53,15 @@
         {
             "sid": "DLCS-EN092",
             "set": "Dragons of Legend: The Complete Series",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP041",
+            "set": "Collectors Pack: Duelist of Destiny Version",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

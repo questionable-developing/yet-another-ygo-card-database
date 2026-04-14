@@ -1,12 +1,14 @@
 {
     "cid": "8a019196-39ad-4e5d-8756-16c78efa4c36",
-    "yid": null,
+    "yid": 19959563,
     "password": "19959563",
     "kid": 13067,
     "name": "Punishment Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>戒めの龍</rb><rp> (</rp><rt>パニッシュメント・ドラグーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Panisshumento Doragūn",
+    "name_jp_rom_base": "Imashime no Ryū",
     "name_jp_tl": "Punishment Dragoon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +59,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP028",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP134",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +124,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

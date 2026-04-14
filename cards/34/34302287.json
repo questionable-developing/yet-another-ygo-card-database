@@ -1,12 +1,14 @@
 {
     "cid": "b298ea20-2b6a-4fa1-b6e5-c3e087e2dd00",
-    "yid": null,
+    "yid": 34302287,
     "password": "34302287",
     "kid": 12986,
     "name": "Phantasm Spiral Battle",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>煌</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>渦</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gen'ōryū no Senka",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Phantasm Dragon Spiral Battle",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN072",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP072",
             "set": "Maximum Crisis",
             "rarities": {
                 "Rare": []
@@ -85,5 +96,6 @@
         "misc": [
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

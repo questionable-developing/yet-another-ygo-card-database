@@ -1,11 +1,14 @@
 {
     "cid": "f2585870-609e-4041-8a06-8c93980cb2c7",
+    "yid": 47432275,
     "password": "47432275",
     "kid": 8292,
     "name": "Kuribon",
     "name_jp": "クリボン",
     "name_jp_rom": "Kuribon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "Kuribon-AC19-EN-SR-1E.png",
+            "full": "Kuribon-OP28-EN-C-UE.png",
             "art": null
         }
     },
@@ -52,6 +55,29 @@
         {
             "sid": "OP28-EN013",
             "set": "OTS Tournament Pack 28",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP001",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT06-JP002",
+            "set": "Duel Terminal - Dragunity of the Hurricane!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP001",
+            "set": "Duelist Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

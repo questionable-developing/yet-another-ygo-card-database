@@ -1,11 +1,14 @@
 {
     "cid": "b8cece1c-b030-4b68-96c2-46a05ea9bf21",
+    "yid": 80885324,
     "password": "80885324",
     "kid": 7883,
     "name": "Search Striker",
     "name_jp": "サーチ・ストライカー",
     "name_jp_rom": "Sāchi Sutoraikā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP015",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +86,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

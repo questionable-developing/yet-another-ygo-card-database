@@ -1,11 +1,14 @@
 {
     "cid": "47455fee-874b-4519-b90d-8cce6234b0f6",
+    "yid": 53860621,
     "password": "53860621",
     "kid": 13855,
     "name": "Glowing Crossbow",
     "name_jp": "グローウィング・ボウガン",
     "name_jp_rom": "Gurōwingu Bougan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Glowing Bowgun",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP026",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
             "Equips only to a specific target",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

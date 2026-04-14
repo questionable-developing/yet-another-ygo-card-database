@@ -1,11 +1,14 @@
 {
     "cid": "612daed4-3a77-4415-8ef4-f0f47d617826",
+    "yid": 93084621,
     "password": "93084621",
     "kid": 14671,
     "name": "Unchained Soul of Anguish",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>アルバ",
     "name_jp_rom": "Hakaishin Aruba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Unchained God - Arba",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -62,6 +65,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP044",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +119,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

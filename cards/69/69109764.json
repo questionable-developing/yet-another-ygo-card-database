@@ -1,11 +1,14 @@
 {
     "cid": "188052d5-6008-4ec0-99fe-3e3198b08b31",
+    "yid": 69109764,
     "password": "69109764",
     "kid": 13834,
     "name": "Hibernation Dragon",
     "name_jp": "ハイバネーション・ドラゴン",
     "name_jp_rom": "Haibanēshon Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP18-JP041",
+            "set": "Collectors Pack 2018",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

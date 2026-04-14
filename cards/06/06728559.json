@@ -1,12 +1,14 @@
 {
     "cid": "ce51310f-8943-4742-9268-921154c7704e",
-    "yid": null,
+    "yid": 6728559,
     "password": "06728559",
     "kid": 14994,
     "name": "Archnemeses Protos",
     "name_jp": "アークネメシス・プロートス",
     "name_jp_rom": "Ākunemeshisu Purōtosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +59,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP008",
+            "set": "Eternity Code",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "DBCB-JP043",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +120,6 @@
             "Special Summon Monster",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

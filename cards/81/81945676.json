@@ -1,11 +1,14 @@
 {
     "cid": "556f3b04-b9bb-4705-bc0e-dc4667b22155",
+    "yid": 81945676,
     "password": "81945676",
     "kid": 19365,
     "name": "Mementotlan Mace",
     "name_jp": "メメント・メイス",
     "name_jp_rom": "Memento Meisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Memento Mace",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -40,6 +43,17 @@
             "set": "Valiant Smashers",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP006",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -84,5 +98,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

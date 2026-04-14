@@ -1,11 +1,14 @@
 {
     "cid": "b8c40f86-1e26-456d-b8c6-5a38d432a168",
+    "yid": 44405066,
     "password": "44405066",
     "kid": 11838,
     "name": "Red-Eyes Flare Metal Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>真紅眼の鋼炎竜</rb><rp> (</rp><rt>レッドアイズ・フレアメタルドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reddoaizu Furea Metaru Doragon",
+    "name_jp_rom_base": "Shinkume no Gōenryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -80,6 +83,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP054",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP039",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,5 +150,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

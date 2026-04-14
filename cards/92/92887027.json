@@ -1,11 +1,14 @@
 {
     "cid": "c920e922-439a-4891-ac66-b72d84b0c1a9",
+    "yid": 92887027,
     "password": "92887027",
     "kid": 10063,
     "name": "Nomadic Force",
     "name_jp": "ながれ<ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>もの</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>傭</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nagaremono Yōhei Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Nomadic Mercenary Force",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP040",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

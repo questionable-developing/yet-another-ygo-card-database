@@ -1,12 +1,14 @@
 {
     "cid": "fa14b0ad-f69b-43b6-8025-1819b6acac79",
-    "yid": null,
+    "yid": 4408198,
     "password": "04408198",
     "kid": 16745,
     "name": "Exosister Arment",
     "name_jp": "エクソシスター・アーメント",
     "name_jp_rom": "Ekusoshisutā Āmento",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP022",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB14",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

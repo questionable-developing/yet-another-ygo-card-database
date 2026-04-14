@@ -1,11 +1,14 @@
 {
     "cid": "238a6095-2344-4119-8c96-7deb426ae9db",
+    "yid": 75775867,
     "password": "75775867",
     "kid": 8016,
     "name": "Morphtronic Slingen",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・パッチン",
     "name_jp_rom": "Difōmā Patchin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Slingshot",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CRMS-EN018",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP018",
             "set": "Crimson Crisis",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

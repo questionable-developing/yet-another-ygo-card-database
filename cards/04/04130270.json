@@ -1,12 +1,14 @@
 {
     "cid": "af45b988-6265-40bf-8fc0-e707e84248c5",
-    "yid": null,
+    "yid": 4130270,
     "password": "04130270",
     "kid": 8191,
     "name": "G.B. Hunter",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｇ・Ｂ</rb><rp> (</rp><rt>ジービー</rt><rp>)</rp></ruby>・ハンター",
     "name_jp_rom": "Jī Bī Hantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP039",
+            "set": "Raging Battle",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP135",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

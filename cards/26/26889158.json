@@ -1,12 +1,14 @@
 {
     "cid": "9222ace3-c152-49dc-be04-d0b1d540167f",
-    "yid": null,
+    "yid": 26889158,
     "password": "26889158",
     "kid": 14240,
     "name": "Salamangreat Gazelle",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>ガゼル",
     "name_jp_rom": "Saramangureito Gazeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD35-JP003",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP008",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "26396074-c553-47ab-8e2e-e84cf1c41b56",
+    "yid": 86993168,
     "password": "86993168",
     "kid": 16835,
     "name": "Mad Hacker",
     "name_jp": "マッド・ハッカー",
     "name_jp_rom": "Maddo Hakkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BACH-EN030",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP030",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3ef4ac23-e211-4011-b5de-aa956d21890c",
+    "yid": 61405855,
     "password": "61405855",
     "kid": 5010,
     "name": "Sword of Dragon's Soul",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>ごろ</rt><rp>)</rp></ruby>しの<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryūgoroshi no Ken",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragon-Slaying Sword",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "G4-09",
+            "set": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Jonouchi Deck promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "15AX-JPY48",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Common": [],
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +108,6 @@
             "Equips only to a specific target",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

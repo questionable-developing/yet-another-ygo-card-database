@@ -1,12 +1,14 @@
 {
     "cid": "f2f2fe29-a88c-483a-b9e3-5a92cd4fad57",
-    "yid": null,
+    "yid": 19594506,
     "password": "19594506",
     "kid": 7209,
     "name": "Neo Space Pathfinder",
     "name_jp": "ネオスペース・コンダクター",
     "name_jp_rom": "Neosupēsu Kondakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Neospace Conductor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP032",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP013",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d758c16c-1d0e-4d55-b822-774369dc9653",
-    "yid": null,
+    "yid": 9486959,
     "password": "09486959",
     "kid": 16851,
     "name": "Onibimaru Soul Sweeper",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>かみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隠</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby>し<ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>おに</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>丸</rb><rp> (</rp><rt>まる</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kamikakushi Onibimaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spiriter Onibimaru",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP046",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24EP-JP407",
+            "set": "Event Pack 2024 Vol.4",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

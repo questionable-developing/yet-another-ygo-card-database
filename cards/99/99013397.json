@@ -1,11 +1,14 @@
 {
     "cid": "e12bed86-7698-42d3-ada8-75d8594cb438",
+    "yid": 99013397,
     "password": "99013397",
     "kid": 7308,
     "name": "Gladiator Beast's Battle Halberd",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ハルバード",
     "name_jp_rom": "Guradiaru Bīsuto no Tōki Harubādo",
+    "name_jp_rom_base": "Kentōjū no Tōki Harubādo",
     "name_jp_tl": "Gladial Beast's Battle Tool - Halberd",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GLAS-EN055",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP055",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
             "Equips only to a specific target",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

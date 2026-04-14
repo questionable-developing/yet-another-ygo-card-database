@@ -1,12 +1,14 @@
 {
     "cid": "005f2f8a-f35c-49d4-a993-4b8908aa5ee5",
-    "yid": null,
+    "yid": 31480215,
     "password": "31480215",
     "kid": 10625,
     "name": "Mecha Phantom Beast Warbluran",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ウォーブラン",
     "name_jp_rom": "Genjūki Wōburan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mecha Phantom Beast Warbren",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -47,6 +49,15 @@
         {
             "sid": "MP14-EN075",
             "set": "2014 Mega-Tin Mega Pack",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP022",
+            "set": "Judgment of the Light",
             "rarities": {
                 "Rare": []
             }
@@ -102,5 +113,6 @@
             "Requires control of specific Monster type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

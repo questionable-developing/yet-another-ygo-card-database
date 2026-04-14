@@ -1,12 +1,14 @@
 {
     "cid": "dee545c0-edb3-434e-8227-e4d4dd5ac90f",
-    "yid": null,
+    "yid": 9674034,
     "password": "09674034",
     "kid": 19149,
     "name": "Snake-Eye Ash",
     "name_jp": "スネークアイ・エクセル",
     "name_jp_rom": "Sunēkuai Ekuseru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Snake-Eye Excel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP007",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JP007",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

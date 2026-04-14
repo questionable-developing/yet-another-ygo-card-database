@@ -6,7 +6,9 @@
     "name": "The Winged Dragon of Ra",
     "name_jp": "ラーの<ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rā no Yokushinryū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Winged Divine Dragon of Ra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DIVINE",
     "pend": false,
@@ -45,83 +47,193 @@
         },
         "4": {
             "idx": "4",
-            "full": "TheWingedDragonofRa-LPST-JP-OP.png",
+            "full": "TheWingedDragonofRa-RA05-EN-UR-1E.png",
             "art": null
+        },
+        "5": {
+            "idx": "5",
+            "full": "TheWingedDragonofRa-AW02-JP-UR.png",
+            "art": "TheWingedDragonofRa-OW-3.png"
         }
     },
-    "image": "1",
+    "image": "4",
     "sets": [
         {
             "sid": "ORCS-ENSE2",
             "set": "Order of Chaos: Special Edition",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["2"]
             }
         },
         {
             "sid": "BP02-EN126",
             "set": "Battle Pack 2: War of the Giants",
             "rarities": {
-                "Mosaic Rare": []
+                "Mosaic Rare": ["1"]
             }
         },
         {
             "sid": "PGLD-EN031",
             "set": "Premium Gold",
             "rarities": {
-                "Gold Secret Rare": []
+                "Gold Secret Rare": ["1"]
             }
         },
         {
             "sid": "LDK2-ENS03",
             "set": "Legendary Decks II",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "TN19-EN009",
             "set": "2019 Gold Sarcophagus Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["2"]
             }
         },
         {
             "sid": "LED7-EN000",
             "set": "Legendary Duelists: Rage of Ra",
             "rarities": {
-                "Ultra Rare": [],
-                "Ghost Rare": []
+                "Ultra Rare": ["3"],
+                "Ghost Rare": ["1"]
             }
         },
         {
             "sid": "SBCB-EN203",
             "set": "Speed Duel: Battle City Box",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "KICO-EN065",
             "set": "King's Court",
             "rarities": {
-                "Ultra Rare (Pharaoh's Rare)": []
+                "Ultra Rare (Pharaoh's Rare)": ["1"]
             }
         },
         {
             "sid": "RA03-EN137",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["3"],
+                "Quarter Century Secret Rare": ["3"]
             }
         },
         {
             "sid": "RA04-EN118",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN130",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Starlight Rare": ["4"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP046",
+            "set": "V Jump February 2010 promotional card",
+            "rarities": {
+                "Ultra Rare": ["2"]
+            }
+        },
+        {
+            "sid": "GS06-JP002",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Gold Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "15AX-JPY59",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "Millennium Rare": ["1"]
+            }
+        },
+        {
+            "sid": "MB01-JPS03",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "WP01-JP001",
+            "set": "20th Anniversary Legend Selection",
+            "rarities": {
+                "20th Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "DP24-JP000",
+            "set": "Duelist Pack: Duelists of Gloom",
+            "rarities": {
+                "Holographic Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PGB1-JPS03",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PAC1-JP003",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Prismatic Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "25DS-JP001",
+            "set": "Quarter Century Duel Set \"The Winged Dragon of Ra\"",
+            "rarities": {
+                "Quarter Century Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "QCCP-JP200",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP048",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Secret Rare": ["4"],
+                "Prismatic Secret Rare": ["4"]
+            }
+        },
+        {
+            "sid": "AW02-JP003",
+            "set": "Artwork Series Hanging Scrolls",
+            "rarities": {
+                "Prismatic Secret Rare": ["5"]
+            }
+        },
+        {
+            "sid": "AW02-JPM03",
+            "set": "Artwork Series Mini Hanging Scrolls: Egyptian Gods",
+            "rarities": {
+                "Ultra Rare": ["5"]
             }
         }
     ],
@@ -174,6 +286,9 @@
         ],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

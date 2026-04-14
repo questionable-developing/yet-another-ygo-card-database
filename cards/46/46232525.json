@@ -1,11 +1,14 @@
 {
     "cid": "a76641a9-99b2-4ae2-affb-c0ba636811b3",
+    "yid": 46232525,
     "password": "46232525",
     "kid": 11892,
     "name": "The Claw of Hermos",
     "name_jp": "ヘルモスの<ruby lang=\"jp\"><rb>爪</rb><rp> (</rp><rt>つめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Herumosu no Tsume",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +72,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP013",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +128,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

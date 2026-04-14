@@ -1,12 +1,14 @@
 {
     "cid": "dd736205-0000-4cba-948f-dd24b6b7a7ca",
-    "yid": null,
+    "yid": 4575541,
     "password": "04575541",
     "kid": 21198,
     "name": "Here There Be Dragons",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>災</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禍</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōryūsaika",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Dragon Calamity",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP061",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25YJ-JPT01",
+            "set": "Dragon Ruler Duel Set",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +84,7 @@
         "summoning": [
             "Special Summons from your hand",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Performs an Xyz Summon",
             "Special Summons from your Extra Deck"
         ],
@@ -80,5 +98,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

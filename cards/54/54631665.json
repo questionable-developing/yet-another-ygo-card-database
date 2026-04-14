@@ -1,11 +1,14 @@
 {
     "cid": "e9809fbf-a5ac-48d7-b69a-7d021ec55b59",
+    "yid": 54631665,
     "password": "54631665",
     "kid": 12827,
     "name": "SPYRAL Resort",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＰＹＲＡＬ</rb><rp> (</rp><rt>スパイラル</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ＲＥＳＯＲＴ</rb><rp> (</rp><rt>リゾート</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Supairaru Rizōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP17-JP031",
+            "set": "Extra Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

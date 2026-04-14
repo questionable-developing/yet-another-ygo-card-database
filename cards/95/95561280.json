@@ -1,11 +1,14 @@
 {
     "cid": "efcc2288-9418-4cd4-beef-70a89043466b",
+    "yid": 95561280,
     "password": "95561280",
     "kid": 9780,
     "name": "Poisonous Winds",
     "name_jp": "<ruby lang=\"jp\"><rb>猛</rb><rp> (</rp><rt>もう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>毒</rb><rp> (</rp><rt>どく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mōdoku no Kaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deadly Poisonous Wind",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHSW-EN062",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP062",
             "set": "Photon Shockwave",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "15306168-2030-4c07-8cda-1e17e587c984",
+    "yid": 92327802,
     "password": "92327802",
     "kid": 13217,
     "name": "Defect Compiler",
     "name_jp": "ディフェクト・コンパイラー",
     "name_jp_rom": "Difekuto Konpairā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP001",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

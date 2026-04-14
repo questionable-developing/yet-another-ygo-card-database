@@ -1,12 +1,14 @@
 {
     "cid": "7f99503b-6e66-45f8-9e79-8653c621968f",
-    "yid": null,
+    "yid": 11593137,
     "password": "11593137",
     "kid": 8855,
     "name": "Chaos Trap Hole",
     "name_jp": "<ruby lang=\"jp\"><rb>混沌の落とし穴</rb><rp> (</rp><rt>カオス・ホール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaosu Hōru",
+    "name_jp_rom_base": "Konton no Otoshiana",
     "name_jp_tl": "Chaos Hole",
+    "name_jp_tl_base": "Chaos Pitfall",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP080",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP157",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +117,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

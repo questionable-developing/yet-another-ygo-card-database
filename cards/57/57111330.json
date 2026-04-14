@@ -1,11 +1,14 @@
 {
     "cid": "770ece19-e0d5-4684-a8e2-9aa97405f5a4",
+    "yid": 57111330,
     "password": "57111330",
     "kid": 17117,
     "name": "Therion \"Duke\" Yul",
     "name_jp": "セリオンズ“デューク”ユール",
     "name_jp_rom": "Serionzu \"Dyūku\" Yūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Therions' \"Duke\" Yul",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP005",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP110",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +119,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

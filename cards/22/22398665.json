@@ -1,12 +1,14 @@
 {
     "cid": "4c2813a6-c945-4792-8306-e196641b7beb",
-    "yid": null,
+    "yid": 22398665,
     "password": "22398665",
     "kid": 15642,
     "name": "Meteonis Drytron",
     "name_jp": "<ruby lang=\"jp\"><rb>流星輝巧群</rb><rp> (</rp><rt>メテオニス・ドライトロン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Meteonisu Doraitoron",
+    "name_jp_rom_base": "Ryūsei Kikōgun",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Meteoric Bright Machine Gathering",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP032",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP182",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AW01-JP006",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +127,6 @@
             "Nonspecific Ritual Spell Card",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

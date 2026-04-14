@@ -1,12 +1,14 @@
 {
     "cid": "e0a9d992-5b6a-4a39-90df-e0bc21a97291",
-    "yid": null,
+    "yid": 32044231,
     "password": "32044231",
     "kid": 20412,
     "name": "Rank-Up-Magic Magical Force",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－マジカル・フォース",
     "name_jp_rom": "Rankuappu Majikku - Majikaru Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,16 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP025",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -81,7 +93,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

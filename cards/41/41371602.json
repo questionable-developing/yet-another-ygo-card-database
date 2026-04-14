@@ -1,11 +1,14 @@
 {
     "cid": "393947e4-0674-4c77-adc8-898b2a42f48d",
+    "yid": 41371602,
     "password": "41371602",
     "kid": 19376,
     "name": "Stand Up Centur-Ion!",
     "name_jp": "スタンドアップ・センチュリオン！",
     "name_jp_rom": "Sutandoappu Senchurion!",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stand Up Centurion!",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -31,25 +34,51 @@
         },
         "2": {
             "idx": "2",
-            "full": "StandUpCenturIon-LPST-JP-OP.png",
+            "full": "StandUpCenturIon-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "VASM-EN020",
             "set": "Valiant Smashers",
             "rarities": {
-                "Super Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "MP24-EN299",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN122",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP020",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP040",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -96,5 +125,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

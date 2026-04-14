@@ -1,12 +1,14 @@
 {
     "cid": "8a190935-f739-42e9-83cb-d92b786a6d9f",
-    "yid": null,
+    "yid": 2772337,
     "password": "02772337",
     "kid": 19507,
     "name": "Promethean Princess, Bestower of Flames",
     "name_jp": "<ruby lang=\"jp\"><rb>賜</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>咎</rb><rp> (</rp><rt>とが</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>ひめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shien no Togahime",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Criminal Princess, Bestower of Flames",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -27,10 +29,10 @@
         "Bottom-Center",
         "Middle-Right"
     ],
-    "desc": "2+ Effect Monsters<br />You cannot Special Summon monsters, except FIRE monsters. You can only use each of the following effects of \"Promethean Princess, Bestower of Flames\" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.",
+    "desc": "2+ Effect Monsters<br />You cannot Special Summon, except FIRE monsters. You can only use each of the following effects of \"Promethean Princess, Bestower of Flames\" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.",
     "pend_eff": null,
-    "mnst_eff": "2+ Effect Monsters\nYou cannot Special Summon monsters, except FIRE monsters. You can only use each of the following effects of \"Promethean Princess, Bestower of Flames\" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.",
-    "eff": "2+ Effect Monsters\nYou cannot Special Summon monsters, except FIRE monsters. You can only use each of the following effects of \"Promethean Princess, Bestower of Flames\" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.",
+    "mnst_eff": "2+ Effect Monsters\nYou cannot Special Summon, except FIRE monsters. You can only use each of the following effects of \"Promethean Princess, Bestower of Flames\" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.",
+    "eff": "2+ Effect Monsters\nYou cannot Special Summon, except FIRE monsters. You can only use each of the following effects of \"Promethean Princess, Bestower of Flames\" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.",
     "flavor": null,
     "images": {
         "1": {
@@ -40,30 +42,74 @@
         },
         "2": {
             "idx": "2",
-            "full": "PrometheanPrincessBestowerofFlames-LPST-JP-OP.png",
+            "full": "PrometheanPrincessBestowerofFlames-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "PHNI-EN052",
             "set": "Phantom Nightmare",
             "rarities": {
-                "Ultra Rare": [],
-                "Quarter Century Secret Rare": []
+                "Ultra Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "RA03-EN050",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN107",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP052",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PHNI-JP052",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPA33",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP025",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -107,5 +153,6 @@
             "Only once per turn",
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

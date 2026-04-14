@@ -1,12 +1,14 @@
 {
     "cid": "7a2a916e-b54a-4bb7-82be-cce4dd6c9170",
-    "yid": null,
+    "yid": 25538345,
     "password": "25538345",
     "kid": 15482,
     "name": "The Phantom Knights of Torn Scales",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ティアースケイル",
     "name_jp_rom": "Fantomu Naitsu Tiā Sukeiru",
+    "name_jp_rom_base": "Gen'ei Kishidan Tiā Sukeiru",
     "name_jp_tl": "Phantom Knights Tear Scale",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP003",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP147",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

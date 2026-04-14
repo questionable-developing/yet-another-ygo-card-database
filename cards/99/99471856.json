@@ -1,11 +1,14 @@
 {
     "cid": "4c47e774-b27f-45fd-bbbb-1af1cefea0e7",
+    "yid": 99471856,
     "password": "99471856",
     "kid": 20758,
     "name": "Crystron Tristaros",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－トリスタロス",
     "name_jp_rom": "Kurisutoron - Torisutarosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -41,6 +44,25 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP019",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP019",
+            "set": "Supreme Darkness +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -89,5 +111,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "a02176da-b16f-4996-b0c8-211590f707f5",
-    "yid": null,
+    "yid": 24382602,
     "password": "24382602",
     "kid": 12331,
     "name": "Mausoleum of White",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堂</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hikari no Reidō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mausoleum of Light",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +78,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP059",
+            "set": "Shining Victories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP023",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -123,5 +141,6 @@
             "Gain this effect once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

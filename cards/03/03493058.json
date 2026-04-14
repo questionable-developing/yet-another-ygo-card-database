@@ -1,12 +1,14 @@
 {
     "cid": "4435f7b2-53b1-4182-a92f-e632364d3657",
-    "yid": null,
+    "yid": 3493058,
     "password": "03493058",
     "kid": 9937,
     "name": "Dicephoon",
     "name_jp": "サイコロン",
     "name_jp_rom": "Saikoron",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dicyclone",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP063",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SR01-JP032",
+            "set": "Structure Deck R: Advent of the True Monarch",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
         "misc": [
             "Die roll"
         ]
-    }
+    },
+    "links": {}
 }

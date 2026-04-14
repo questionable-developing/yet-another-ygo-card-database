@@ -1,11 +1,14 @@
 {
     "cid": "cf770c38-5e91-4466-9e0e-3fd1d453cfb7",
+    "yid": 57319935,
     "password": "57319935",
     "kid": 10292,
     "name": "Xyz Xtreme !!",
     "name_jp": "エクシーズ<ruby lang=\"jp\"><rb>熱</rb><rp> (</rp><rt>ねっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>！！",
     "name_jp_rom": "Ekushīzu Nessen !!",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xyz Extreme Battle !!",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP070",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -59,8 +71,8 @@
         "counter": [],
         "action": [
             "Activates if destroyed by battle",
-            "Reveals your Extra Deck",
-            "Reveals your opponent's Extra Deck"
+            "Reveals cards from your Extra Deck",
+            "Reveals cards from your opponent's Extra Deck"
         ],
         "stat_change": [],
         "mst": [],
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

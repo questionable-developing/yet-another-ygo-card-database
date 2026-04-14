@@ -1,12 +1,14 @@
 {
     "cid": "2f281b29-f10c-4333-8a4d-ec778c217f4c",
-    "yid": null,
+    "yid": 4168871,
     "password": "04168871",
     "kid": 8821,
     "name": "Cards for Black Feathers",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羽</rb><rp> (</rp><rt>はね</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>札</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kurohane no Hōsatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Treasure Cards of Black Feathers",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP046",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP11-JP020",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP148",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3451afac-178d-4d28-9d23-8bbb3ec4f053",
+    "yid": 41255165,
     "password": "41255165",
     "kid": 16511,
     "name": "Penguin Ninja",
     "name_jp": "ペンギン<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Pengin Ninja",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "BODE-EN025",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP025",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

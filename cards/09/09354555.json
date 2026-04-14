@@ -1,12 +1,14 @@
 {
     "cid": "56bab849-8998-4088-9dc8-496fc2f7e7ca",
-    "yid": null,
+    "yid": 9354555,
     "password": "09354555",
     "kid": 9768,
     "name": "Photon Veil",
     "name_jp": "フォトン・ベール",
     "name_jp_rom": "Foton Bēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -56,6 +58,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP050",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP13-JP023",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

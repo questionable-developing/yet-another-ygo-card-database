@@ -1,12 +1,14 @@
 {
     "cid": "63537d4b-2348-47fa-a479-2cc6ea2138da",
-    "yid": null,
+    "yid": 31226177,
     "password": "31226177",
     "kid": 13086,
     "name": "Imduk the World Chalice Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>杯</rb><rp> (</rp><rt>はい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>イムドゥーク",
     "name_jp_rom": "Seihairyū Imudūku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Imduk the Star Chalice Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -61,6 +63,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP047",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24EP-JP308",
+            "set": "Event Pack 2024 Vol.3",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +124,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "1abc68fc-e3a7-445c-af5e-cd9bc1daae09",
+    "yid": 67234805,
     "password": "67234805",
     "kid": 9155,
     "name": "Powersink Stone",
     "name_jp": "<ruby lang=\"jp\"><rb>能</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>りょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>吸</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>収</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nōryoku Kyūshūseki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP078",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR14-JP040",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8b1c6a80-914b-4de7-92fb-453464d25537",
+    "yid": 96746083,
     "password": "96746083",
     "kid": 12424,
     "name": "True King Agnimazud, the Vanisher",
     "name_jp": "<ruby lang=\"jp\"><rb>真</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>アグニマズド<ruby lang=\"jp\"><rb>Ｖ</rb><rp> (</rp><rt>バニッシャー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shinryūō Agunimazudo Banisshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Agnimazud Vanisher, the True Dragon King",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -64,6 +67,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP025",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP011",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR14-JP012",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +140,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

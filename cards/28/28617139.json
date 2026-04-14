@@ -1,12 +1,14 @@
 {
     "cid": "12d6862d-842c-4de6-af7f-4424cc414d9b",
-    "yid": null,
+    "yid": 28617139,
     "password": "28617139",
     "kid": 14506,
     "name": "Simorgh Onslaught",
     "name_jp": "<ruby lang=\"jp\"><rb>神鳥</rb><rp> (</rp><rt>シムルグ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>来</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>寇</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shimurugu no Raikō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP061",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -64,7 +75,7 @@
             "You discard for cost",
             "Adds from Deck to hand",
             "Activates from your Graveyard",
-            "Reveals your hand for effect"
+            "Reveals cards from your hand"
         ],
         "stat_change": [
             "Modifies the Levels of monsters in the hand"
@@ -81,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

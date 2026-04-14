@@ -1,11 +1,14 @@
 {
     "cid": "72374317-2d7c-4ff2-8b79-225b196bdf08",
+    "yid": 58475908,
     "password": "58475908",
     "kid": 9634,
     "name": "Wind-Up Snail",
     "name_jp": "ゼンマイマイ",
     "name_jp_rom": "Zenmaimai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP017",
+            "set": "Generation Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DB12-JP011",
+            "set": "Duelist Box 2012",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +91,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

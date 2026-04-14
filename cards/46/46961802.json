@@ -1,11 +1,14 @@
 {
     "cid": "de3d2d7d-41c0-4db7-ab82-fae423e88fe1",
+    "yid": 46961802,
     "password": "46961802",
     "kid": 9766,
     "name": "Cross Attack",
     "name_jp": "クロス・アタック",
     "name_jp_rom": "Kurosu Atakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP048",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

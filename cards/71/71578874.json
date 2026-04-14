@@ -1,11 +1,14 @@
 {
     "cid": "2b7570eb-2325-426d-b39c-b5f194bb2691",
+    "yid": 71578874,
     "password": "71578874",
     "kid": 11959,
     "name": "Performage Mirror Conductor",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>ミラー・コンダクター",
     "name_jp_rom": "Entameiji Mirā Kondakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermage Mirror Conductor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP015",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -88,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

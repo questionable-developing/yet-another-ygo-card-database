@@ -1,12 +1,14 @@
 {
     "cid": "3c9e781b-6dca-4bd5-a04e-98fd1cf73a36",
-    "yid": null,
+    "yid": 22201234,
     "password": "22201234",
     "kid": 7764,
     "name": "Lightsworn Barrier",
     "name_jp": "ライトロード・バリア",
     "name_jp_rom": "Raitorōdo Baria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Barrier",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP075",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL28",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

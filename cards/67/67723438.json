@@ -1,11 +1,14 @@
 {
     "cid": "e0aaca98-54dc-454c-acbb-a9e2489fc146",
+    "yid": 67723438,
     "password": "67723438",
     "kid": 7747,
     "name": "Emergency Teleport",
     "name_jp": "<ruby lang=\"jp\"><rb>緊</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>テレポート",
     "name_jp_rom": "Kinkyū Terepōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "EmergencyTeleport-RA02-EN-SR-1E.png",
+            "full": "EmergencyTeleport-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -95,6 +98,76 @@
             "rarities": {
                 "Common": []
             }
+        },
+        {
+            "sid": "L26D-ENX16",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP053",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP022",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SPTR-JP054",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP065",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP307",
+            "set": "Special Pack 20th Anniversary Edition Vol.3",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP039",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DBGC-JP043",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP059",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
         }
     ],
     "misc": {
@@ -131,5 +204,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

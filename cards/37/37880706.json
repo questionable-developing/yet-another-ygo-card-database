@@ -1,11 +1,14 @@
 {
     "cid": "9230416a-0529-4df1-9721-2a7bcd58b314",
+    "yid": 37880706,
     "password": "37880706",
     "kid": 13421,
     "name": "Duelittle Chimera",
     "name_jp": "ドリトル・キメラ",
     "name_jp_rom": "Doritoru Kimera",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP050",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JPP05",
+            "set": "Structure Deck: Soulburner Extra Deck Enhancement Pack",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

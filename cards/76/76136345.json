@@ -1,11 +1,14 @@
 {
     "cid": "9e95a4ef-6131-4b3b-8634-e464b5066aec",
+    "yid": 76136345,
     "password": "76136345",
     "kid": 11607,
     "name": "Revolving Switchyard",
     "name_jp": "<ruby lang=\"jp\"><rb>転</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>回</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>操</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>車</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenkaisōsha",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP087",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP055",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SLF1-JP018",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +98,9 @@
         ],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Field Searcher"
+        ],
         "counter": [],
         "action": [
             "Activates upon Normal Summon",
@@ -95,5 +125,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "28a03bf5-4cf0-4e46-b1a9-f23152274175",
-    "yid": null,
+    "yid": 20101223,
     "password": "20101223",
     "kid": 4669,
     "name": "Breath of Light",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>かみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>息</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>吹</rb><rp> (</rp><rt>ぶき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kami no Ibuki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Breath of God",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,13 +50,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "",
+            "set": "Booster 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TP03-JP010",
+            "set": "Tournament Pack 2007 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Effect"
         ],
         "mentions": [],
-        "sup": [],
+        "sup": [
+            "Rock"
+        ],
         "asup": [
             "Rock"
         ],
@@ -75,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

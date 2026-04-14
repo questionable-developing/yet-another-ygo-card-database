@@ -1,11 +1,14 @@
 {
     "cid": "65859aa1-091a-432e-917d-df63f78143fd",
+    "yid": 49275969,
     "password": "49275969",
     "kid": 14774,
     "name": "Nidhogg, Generaider Boss of Ice",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>こおり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>ジェネレイド</rt><rp>)</rp></ruby> ニードヘッグ",
     "name_jp_rom": "Koori no Jenereido Nīdoheggu",
+    "name_jp_rom_base": "Koori no Ō Nīdoheggu",
     "name_jp_tl": "Nidhogg, Generaid of Ice",
+    "name_jp_tl_base": "Nidhogg, King of Ice",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -40,6 +43,16 @@
             "set": "Mystic Fighters",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP031",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -84,5 +97,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

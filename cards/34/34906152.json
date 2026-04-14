@@ -1,12 +1,14 @@
 {
     "cid": "ee129450-41c4-4207-b1b4-692f181df876",
-    "yid": null,
+    "yid": 34906152,
     "password": "34906152",
     "kid": 5671,
     "name": "Mass Driver",
     "name_jp": "マスドライバー",
     "name_jp_rom": "Masu Doraibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "303-034",
+            "set": "Champion of Black Magic",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP143",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

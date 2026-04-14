@@ -1,12 +1,14 @@
 {
     "cid": "e80f14d9-5d3b-4ec7-add3-d2a2b16c5345",
-    "yid": null,
+    "yid": 28355718,
     "password": "28355718",
     "kid": 6754,
     "name": "Destiny HERO - Double Dude",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ダブルガイ",
     "name_jp_rom": "Desutenī Hīrō Daburugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Doubleguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP012",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP005",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP008",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +124,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

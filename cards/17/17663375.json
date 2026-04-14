@@ -1,12 +1,14 @@
 {
     "cid": "7728b119-df95-430c-89f1-a61b29858902",
-    "yid": null,
+    "yid": 17663375,
     "password": "17663375",
     "kid": 12678,
     "name": "Ancient Gear Wyvern",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械飛竜</rb><rp> (</rp><rt>アンティーク・ギアワイバーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Waibān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Wyvern",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR03-JP003",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP113",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

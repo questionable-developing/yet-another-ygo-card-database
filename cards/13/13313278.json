@@ -1,12 +1,14 @@
 {
     "cid": "f7978a14-ea98-4951-8cb4-1de3afe7ca22",
-    "yid": null,
+    "yid": 13313278,
     "password": "13313278",
     "kid": 11038,
     "name": "Battlin' Boxer Veil",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> ベイル",
     "name_jp_rom": "Bāningu Nakkurā Beiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Veil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PRIO-EN009",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP009",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

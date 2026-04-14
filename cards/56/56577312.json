@@ -1,11 +1,14 @@
 {
     "cid": "8e4a0c35-9ace-4fed-b109-d7c293f0a307",
+    "yid": 56577312,
     "password": "56577312",
     "kid": 14687,
     "name": "Wattrain",
     "name_jp": "エレキカンシャ",
     "name_jp_rom": "Erekikansha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecomotive",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CHIM-EN060",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP060",
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

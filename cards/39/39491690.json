@@ -1,11 +1,14 @@
 {
     "cid": "123e842d-4456-401b-b5d0-0f9fdda83453",
+    "yid": 39491690,
     "password": "39491690",
     "kid": 20807,
     "name": "Azamina Aphes",
     "name_jp": "アザミナ・アーフェス",
     "name_jp_rom": "Azamina Āfesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN070",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP070",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

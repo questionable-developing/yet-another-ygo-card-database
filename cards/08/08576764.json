@@ -1,12 +1,14 @@
 {
     "cid": "5c80fdf0-5b91-48fe-bdaa-a4bc1b3848ab",
-    "yid": null,
+    "yid": 8576764,
     "password": "08576764",
     "kid": 15506,
     "name": "Gluttonous Reptolphin Greethys",
     "name_jp": "<ruby lang=\"jp\"><rb>貪</rb><rp> (</rp><rt>どん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>食</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魚</rb><rp> (</rp><rt>ぎょ</rt><rp>)</rp></ruby>グリーディス",
     "name_jp_rom": "Donshokugyo Gurīdisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gluttonous Fish Greedys",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP027",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

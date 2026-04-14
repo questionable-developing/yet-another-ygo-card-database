@@ -1,11 +1,14 @@
 {
     "cid": "276c0143-1360-4d9f-b7a6-cc42769fd3a2",
+    "yid": 58901502,
     "password": "58901502",
     "kid": 12158,
     "name": "Goyo Defender",
     "name_jp": "ゴヨウ・ディフェンダー",
     "name_jp_rom": "Goyou Difendā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP050",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +113,6 @@
             "Requires control of specific Type",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

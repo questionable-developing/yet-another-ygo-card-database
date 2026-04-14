@@ -1,11 +1,14 @@
 {
     "cid": "ef33a6d6-1418-4ade-aa6f-f9468091e769",
+    "yid": 47705572,
     "password": "47705572",
     "kid": 12284,
     "name": "Lunalight Wolf",
     "name_jp": "<ruby lang=\"jp\"><rb>月光狼</rb><rp> (</rp><rt>ムーンライト・ウルフ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Urufu",
+    "name_jp_rom_base": "Gekkōrō",
     "name_jp_tl": "Moonlight Wolf",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -30,17 +33,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "LunalightWolf-DUAD-JP-UR.png",
+            "art": "LunalightWolf-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "LunalightWolf-SHVI-EN-C-1E.png",
-            "art": null
+            "art": "LunalightWolf-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHVI-EN012",
             "set": "Shining Victories",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP012",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS05",
+            "set": "Duelist Advance +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -91,5 +115,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

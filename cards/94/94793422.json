@@ -1,11 +1,14 @@
 {
     "cid": "a670eb0c-11ec-4449-be01-e22d3f8002be",
+    "yid": 94793422,
     "password": "94793422",
     "kid": 5731,
     "name": "Rod of the Mind's Eye",
     "name_jp": "<ruby lang=\"jp\"><rb>心</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>鉾</rb><rp> (</rp><rt>ほこ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shingan no Hoko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pike of the Mind's Eye",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "304-039",
+            "set": "Power of the Guardian",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP201",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

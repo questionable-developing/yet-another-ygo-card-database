@@ -1,11 +1,14 @@
 {
     "cid": "e50cdfcd-ae20-4880-9e51-d27ad9d3a5ef",
+    "yid": 76384284,
     "password": "76384284",
     "kid": 8073,
     "name": "Trojan Gladiator Beast",
     "name_jp": "トロイの<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Toroi no Guradiaru Bīsuto",
+    "name_jp_rom_base": "Toroi no Kentōjū",
     "name_jp_tl": "Trojan Gladial Beast",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CRMS-EN078",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP078",
             "set": "Crimson Crisis",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

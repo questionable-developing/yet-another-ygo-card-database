@@ -1,12 +1,14 @@
 {
     "cid": "1f983e9a-9715-4cc8-988d-1cb2111cff77",
-    "yid": null,
+    "yid": 2295831,
     "password": "02295831",
     "kid": 11671,
     "name": "Symbol of Friendship",
     "name_jp": "ピースの<ruby lang=\"jp\"><rb>輪</rb><rp> (</rp><rt>わ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Pīsu no Wa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ring of Peace",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "15AX-JPM03",
+            "set": "Duelist Road -Piece of Memory- Side: Yugi Muto",
+            "rarities": {
+                "Secret Rare": [],
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "MP01-JP020",
+            "set": "Millennium Pack (OCG)",
+            "rarities": {
+                "Millennium Super Rare": []
+            }
+        },
+        {
+            "sid": "PGB1-JP036",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +103,6 @@
         "misc": [
             "Requires control of no cards"
         ]
-    }
+    },
+    "links": {}
 }

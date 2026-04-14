@@ -1,11 +1,14 @@
 {
     "cid": "5bab7fb2-950a-4060-a41e-9a28b1def9d0",
+    "yid": 72709014,
     "password": "72709014",
     "kid": 6616,
     "name": "Trial of the Princesses",
     "name_jp": "<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>試</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>練</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōjo no Shiren",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "SOI-EN044",
             "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP044",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP164",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -83,5 +102,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

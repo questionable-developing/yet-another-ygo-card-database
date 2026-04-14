@@ -1,11 +1,14 @@
 {
     "cid": "b14109a0-94ef-498b-90dd-39c4debf4db6",
+    "yid": 46898368,
     "password": "46898368",
     "kid": 15043,
     "name": "Burning Draw",
     "name_jp": "<ruby lang=\"jp\"><rb>逆巻く炎の宝札</rb><rp> (</rp><rt>バーニング・ドロー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bāningu Dorō",
+    "name_jp_rom_base": "Sakamaku Honō no Hōsatsu",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Treasure Cards of Surging Flames",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP057",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP28-JP016",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
             "Archetype condition",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d9015931-8885-47b8-9740-cde588de5000",
+    "yid": 58570206,
     "password": "58570206",
     "kid": 20437,
     "name": "Heavy Polymerization",
     "name_jp": "<ruby lang=\"jp\"><rb>多</rb><rp> (</rp><rt>た</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>層</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tasō Yūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Multilayer Fusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -18,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as material. You can also banish monsters from your Extra Deck as material, up to the number of monsters your opponent controls, but you lose LP equal to the total ATK of monsters banished this way, when the monster is Fusion Summoned.",
+    "desc": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field. You can also banish monsters from your Extra Deck as material, up to the number of monsters your opponent controls, but you lose LP equal to the total ATK of monsters banished this way, when the monster is Fusion Summoned.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as material. You can also banish monsters from your Extra Deck as material, up to the number of monsters your opponent controls, but you lose LP equal to the total ATK of monsters banished this way, when the monster is Fusion Summoned.",
+    "eff": "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field. You can also banish monsters from your Extra Deck as material, up to the number of monsters your opponent controls, but you lose LP equal to the total ATK of monsters banished this way, when the monster is Fusion Summoned.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "HeavyPolymerization-MP24-EN-PScR-1E.png",
+            "full": "HeavyPolymerization-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -37,6 +40,38 @@
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN071",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP072",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP074",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Collector's Rare": []
             }
         }
     ],
@@ -85,5 +120,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

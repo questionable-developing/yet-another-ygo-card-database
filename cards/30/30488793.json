@@ -1,12 +1,14 @@
 {
     "cid": "be99099b-ee3c-47a5-9ac6-8b12be4f1c21",
-    "yid": null,
+    "yid": 30488793,
     "password": "30488793",
     "kid": 9938,
     "name": "Counterforce",
     "name_jp": "<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>ぱつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>力</rb><rp> (</rp><rt>りょく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hanpatsuryoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -46,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP064",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

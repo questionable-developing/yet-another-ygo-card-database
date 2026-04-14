@@ -1,12 +1,14 @@
 {
     "cid": "d5dc0158-0cb8-4f66-b328-5f77509064f7",
-    "yid": null,
+    "yid": 29432356,
     "password": "29432356",
     "kid": 12944,
     "name": "Zefraath",
     "name_jp": "<ruby lang=\"jp\"><rb>智天の神星龍</rb><rp> (</rp><rt>セフィラ・トーラ・グラマトン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sefira Tōra Guramaton",
+    "name_jp_rom_base": "Chiten no Shinseiryū",
     "name_jp_tl": "Sephira Torah Grammaton",
+    "name_jp_tl_base": "Cherubic Divine Star Dragon",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -42,6 +44,17 @@
             "set": "Maximum Crisis",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP030",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
             }
         }
     ],
@@ -85,7 +98,7 @@
             "Cannot be Normal Set",
             "Nomi",
             "Pendulum Monsters that cannot be Pendulum Summoned",
-            "Special Summons itself from your Extra Deck",
+            "Special Summons itself from your face-up Extra Deck",
             "Allows multiple Pendulum Summons",
             "Special Summons from your Deck"
         ],
@@ -100,5 +113,6 @@
             "Gain this effect once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

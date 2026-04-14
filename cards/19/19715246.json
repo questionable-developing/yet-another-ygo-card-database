@@ -1,12 +1,14 @@
 {
     "cid": "7a934521-0505-4cc2-ac18-5c2e891870c0",
-    "yid": null,
+    "yid": 19715246,
     "password": "19715246",
     "kid": 21163,
     "name": "Cyber Jormungardr",
     "name_jp": "サイバー・ヨルムンガンド",
     "name_jp_rom": "Saibā Yorumungando",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cyber Jörmungandr",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ALIN-EN026",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP026",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -98,5 +109,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

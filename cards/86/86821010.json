@@ -1,11 +1,14 @@
 {
     "cid": "b27f8343-d5dd-4b7f-a2a3-2237287cb989",
+    "yid": 86821010,
     "password": "86821010",
     "kid": 8851,
     "name": "Power Break",
     "name_jp": "パワー・ブレイク",
     "name_jp_rom": "Pawā Bureiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,22 @@
         {
             "sid": "TSHD-EN076",
             "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP076",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP27-JP020",
+            "set": "Duelist Pack: Duelists of Pyroxene",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +100,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

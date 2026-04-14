@@ -1,12 +1,14 @@
 {
     "cid": "0e522d7e-8412-4eee-989c-b449e99fa0cf",
-    "yid": null,
+    "yid": 21390858,
     "password": "21390858",
     "kid": 9907,
     "name": "Familiar-Possessed - Dharc",
     "name_jp": "<ruby lang=\"jp\"><rb>憑</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>依</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>着</rb><rp> (</rp><rt>ちゃく</rt><rp>)</rp></ruby>－ダルク",
     "name_jp_rom": "Hyōisōchaku Daruku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Possession-Equipped Dharc",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN033",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP033",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -89,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

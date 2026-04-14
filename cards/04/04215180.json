@@ -1,12 +1,14 @@
 {
     "cid": "d021f0c7-764d-4ba7-9823-9bb620869496",
-    "yid": null,
+    "yid": 4215180,
     "password": "04215180",
     "kid": 21367,
     "name": "Lollipo☆Yummy",
     "name_jp": "ロリポー☆ヤミー",
     "name_jp_rom": "Roripō☆Yamī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "LollipoYummy-JUSH-EN-UR-1E.png",
+            "full": "LollipoYummy-DBJH-JP-SR.png",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "LollipoYummy-JUSH-EN-UR-1E.png",
+            "art": "LollipoYummy-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JUSH-EN018",
@@ -43,6 +50,15 @@
                 "Ultra Rare": [],
                 "Collector's Rare": [],
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP018",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -85,7 +101,9 @@
             "Requires control of specific Link Rating",
             "Requires control of specific Level",
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

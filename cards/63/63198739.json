@@ -1,11 +1,14 @@
 {
     "cid": "8c8b7f8c-f8d6-4333-ad69-8c86663ec03e",
+    "yid": 63198739,
     "password": "63198739",
     "kid": 20754,
     "name": "Primite Dragon Ether Beryl",
     "name_jp": "<ruby lang=\"jp\"><rb>原</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>アナザー・ベリル",
     "name_jp_rom": "Gensekiryū Anazā Beriru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ore Dragon Another Beryl",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "PrimiteDragonEtherBeryl-BLMM-EN-ScR-1E.png",
+            "full": "PrimiteDragonEtherBeryl-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -48,6 +51,38 @@
             "set": "Battles of Legend: Monster Mayhem",
             "rarities": {
                 "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN033",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP015",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP046",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -91,5 +126,6 @@
             "Requires control of specific Monster type",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

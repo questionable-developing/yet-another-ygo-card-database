@@ -1,11 +1,14 @@
 {
     "cid": "a7dc5e86-41c4-4223-b644-d125557a0ee6",
+    "yid": 72767833,
     "password": "72767833",
     "kid": 7901,
     "name": "Card Rotator",
     "name_jp": "カード・フリッパー",
     "name_jp_rom": "Kādo Furippā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Card Flipper",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP045",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP08-JP020",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

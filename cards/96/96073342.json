@@ -1,11 +1,14 @@
 {
     "cid": "356c0a9b-2c3a-4067-896b-75a02b77ef73",
+    "yid": 96073342,
     "password": "96073342",
     "kid": 12991,
     "name": "Zefra War",
     "name_jp": "セフィラの<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sefira no Seisen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sephira Star War",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN077",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP077",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

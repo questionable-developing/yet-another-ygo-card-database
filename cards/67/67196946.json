@@ -1,11 +1,14 @@
 {
     "cid": "782f718e-ea91-458d-b656-fda66171b71e",
+    "yid": 67196946,
     "password": "67196946",
     "kid": 8042,
     "name": "Star Blast",
     "name_jp": "スター・ブラスト",
     "name_jp_rom": "Sutā Burasuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP047",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT10-JP045",
+            "set": "Duel Terminal - Raid of the Inverz!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP097",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS13-JPL26",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

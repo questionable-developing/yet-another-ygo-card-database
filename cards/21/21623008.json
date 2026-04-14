@@ -1,12 +1,14 @@
 {
     "cid": "c4c8a111-2cc7-42e0-9b72-32116baef02d",
-    "yid": null,
+    "yid": 21623008,
     "password": "21623008",
     "kid": 13948,
     "name": "Sky Striker Maneuver - Vector Blast",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>－ベクタードブラスト",
     "name_jp_rom": "Sentōjutsushiki - Bekutādo Burasuto",
-    "name_jp_tl": "Flash Sword Skill - Vectored Blast",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Flash Sword Technique - Vectored Blast",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,26 @@
             "set": "Soul Fusion",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP061",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP053",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -74,5 +96,6 @@
         "misc": [
             "Requires control of no monsters in the Main Monster Zone"
         ]
-    }
+    },
+    "links": {}
 }

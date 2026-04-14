@@ -1,11 +1,14 @@
 {
     "cid": "3b3947a8-863c-423b-9bc2-43c0b550b2e0",
+    "yid": 60279710,
     "password": "60279710",
     "kid": 14226,
     "name": "Cyberse Enchanter",
     "name_jp": "サイバース・エンチャンター",
     "name_jp_rom": "Saibāsu Enchantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
         {
             "sid": "DUPO-EN014",
             "set": "Duel Power",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "20TH-JPB31",
+            "set": "20th Anniversary Duelist Box",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

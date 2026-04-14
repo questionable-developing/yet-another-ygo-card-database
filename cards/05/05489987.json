@@ -1,12 +1,14 @@
 {
     "cid": "530c36f0-3ce4-4bf9-91f3-1c5ba0d4b267",
-    "yid": null,
+    "yid": 5489987,
     "password": "05489987",
     "kid": 12747,
     "name": "Flower Cardian Cherry Blossom with Curtain",
     "name_jp": "<ruby lang=\"jp\"><rb>花札衛</rb><rp> (</rp><rt>カーディアン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>桜</rb><rp> (</rp><rt>さくら</rt><rp>)</rp></ruby>に<ruby lang=\"jp\"><rb>幕</rb><rp> (</rp><rt>まく</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Kādian - Sakura ni Maku -",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cardian - Cherry Blossom with Curtain",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "RATE-EN012",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP012",
             "set": "Raging Tempest",
             "rarities": {
                 "Common": []
@@ -88,5 +99,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

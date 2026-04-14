@@ -1,12 +1,14 @@
 {
     "cid": "f0e18a64-0b01-44fc-b2fb-16d5827f4fa5",
-    "yid": null,
+    "yid": 18789533,
     "password": "18789533",
     "kid": 13193,
     "name": "Dotscaper",
     "name_jp": "ドットスケーパー",
     "name_jp_rom": "Dottosukēpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD32-JP002",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVDS-JPB02",
+            "set": "LINK VRAINS Duelist Set",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DBCB-JP025",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +123,6 @@
         "misc": [
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

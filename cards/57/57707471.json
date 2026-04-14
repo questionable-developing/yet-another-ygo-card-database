@@ -1,11 +1,14 @@
 {
     "cid": "f9592457-daf2-42a5-bdba-a212c11034e2",
+    "yid": 57707471,
     "password": "57707471",
     "kid": 11654,
     "name": "Number 21: Frozen Lady Justice",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>２１ <ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けつ</rt><rp>)</rp></ruby>のレディ・ジャスティス",
     "name_jp_rom": "Nanbāzu Nijūichi Hyōketsu no Redi Jasutisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numbers 21: Frozen Lady Justice",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,17 +33,39 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Number21FrozenLadyJustice-NCF1-JP-UR.png",
+            "art": "Number21FrozenLadyJustice-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Number21FrozenLadyJustice-PGL2-EN-GScR-1E.png",
-            "art": null
+            "art": "Number21FrozenLadyJustice-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PGL2-EN018",
             "set": "Premium Gold: Return of the Bling",
             "rarities": {
                 "Gold Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PP17-JP018",
+            "set": "Premium Pack 17",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP021",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -85,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

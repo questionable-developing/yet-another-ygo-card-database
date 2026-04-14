@@ -1,11 +1,14 @@
 {
     "cid": "eb4fab00-a6e3-476d-a04f-c5b8b2dde764",
+    "yid": 59644958,
     "password": "59644958",
     "kid": 10026,
     "name": "Overlay Owl",
     "name_jp": "オーバーレイ・オウル",
     "name_jp_rom": "Ōbārei Ōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN003",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP003",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

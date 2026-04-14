@@ -1,12 +1,14 @@
 {
     "cid": "a21e0723-03ec-4ea9-be81-46b0700d3abe",
-    "yid": null,
+    "yid": 25531465,
     "password": "25531465",
     "kid": 8322,
     "name": "Magicat",
     "name_jp": "マジキャット",
     "name_jp_rom": "Majikyatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ANPR-EN031",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP031",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Rare": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

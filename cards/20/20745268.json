@@ -1,12 +1,14 @@
 {
     "cid": "ac32c04f-2fc3-4937-b45d-d1e41637cc8b",
-    "yid": null,
+    "yid": 20745268,
     "password": "20745268",
     "kid": 13324,
     "name": "Magical Musket - Desperado",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>－デスペラード",
     "name_jp_rom": "Madan - Desuperādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magibullet - Desperado",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -46,6 +48,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP025",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP099",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP164",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

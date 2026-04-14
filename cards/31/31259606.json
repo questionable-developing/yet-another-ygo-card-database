@@ -1,12 +1,14 @@
 {
     "cid": "fe094526-da32-4f83-975a-3c8bfc2bede6",
-    "yid": null,
+    "yid": 31259606,
     "password": "31259606",
     "kid": 17141,
     "name": "Supreme Sea Mare",
     "name_jp": "<ruby lang=\"jp\"><rb>絶</rb><rp> (</rp><rt>ぜっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>のマーレ",
     "name_jp_rom": "Zekkai no Māre",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP030",
+            "set": "Dimension Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b7f0415d-8f02-4b57-9140-d0ab120340e8",
+    "yid": 47929865,
     "password": "47929865",
     "kid": 8799,
     "name": "Magidog",
     "name_jp": "マジドッグ",
     "name_jp_rom": "Majidoggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TSHD-EN023",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP023",
             "set": "The Shining Darkness",
             "rarities": {
                 "Rare": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

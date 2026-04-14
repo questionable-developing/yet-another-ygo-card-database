@@ -1,12 +1,14 @@
 {
     "cid": "f3a72283-2fdc-494e-9bfd-40c51ff2e5e9",
-    "yid": null,
+    "yid": 32393580,
     "password": "32393580",
     "kid": 7852,
     "name": "Cyber Shark",
     "name_jp": "サイバー・シャーク",
     "name_jp_rom": "Saibā Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP017",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

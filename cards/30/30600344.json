@@ -1,12 +1,14 @@
 {
     "cid": "aea42296-f882-4bba-9adb-b8b1fb5f6c45",
-    "yid": null,
+    "yid": 30600344,
     "password": "30600344",
     "kid": 9935,
     "name": "Xyz Burst",
     "name_jp": "エクシーズ・バースト",
     "name_jp_rom": "Ekushīzu Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP061",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

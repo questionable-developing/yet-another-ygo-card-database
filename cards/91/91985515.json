@@ -1,11 +1,14 @@
 {
     "cid": "3c2c8549-d92a-4b64-a1ef-3f8fa482595f",
+    "yid": 91985515,
     "password": "91985515",
     "kid": 8833,
     "name": "Koa'ki Meiru Initialize!",
     "name_jp": "<ruby lang=\"jp\"><rb>鋼核初期化</rb><rp> (</rp><rt>コアキメイル・イニシャライズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Koakimeiru Inisharaizu",
+    "name_jp_rom_base": "Kōkaku Shokika",
     "name_jp_tl": "Core Chimail Initialize",
+    "name_jp_tl_base": "Steel Core Initialize",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TSHD-EN058",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP058",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

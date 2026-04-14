@@ -1,12 +1,14 @@
 {
     "cid": "f47b17b0-dc67-4427-8e67-ac7b2766ea10",
-    "yid": null,
+    "yid": 15943341,
     "password": "15943341",
     "kid": 16556,
     "name": "Magical Cylinders",
     "name_jp": "リローデッド・シリンダー",
     "name_jp_rom": "Rirōdeddo Shirindā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reloaded Cylinder",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP070",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

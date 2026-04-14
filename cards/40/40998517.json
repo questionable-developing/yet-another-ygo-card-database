@@ -1,11 +1,14 @@
 {
     "cid": "9388b142-063f-45ad-a123-0076401631ec",
+    "yid": 40998517,
     "password": "40998517",
     "kid": 14771,
     "name": "Frodi, Generaider Boss of Swords",
     "name_jp": "<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>つるぎ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>ジェネレイド</rt><rp>)</rp></ruby> フローディ",
     "name_jp_rom": "Tsurugi no Jenereido Furōdi",
+    "name_jp_rom_base": "Tsurugi no Ō Furōdi",
     "name_jp_tl": "Frodi, Generaid of Swords",
+    "name_jp_tl_base": "Frodi, King of Swords",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "MYFI-EN028",
             "set": "Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP028",
+            "set": "Deck-Build Pack: Mystic Fighters",
             "rarities": {
                 "Super Rare": []
             }
@@ -82,5 +94,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

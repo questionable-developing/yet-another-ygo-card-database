@@ -1,12 +1,14 @@
 {
     "cid": "47e5e372-0269-4262-81b8-624260f21821",
-    "yid": null,
+    "yid": 22318971,
     "password": "22318971",
     "kid": 8940,
     "name": "Uni-Horned Familiar",
     "name_jp": "<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>角</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ikkakujū no Tsukaima",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Unicorn's Familiar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DREV-EN009",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP009",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

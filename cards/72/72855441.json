@@ -1,11 +1,14 @@
 {
     "cid": "f8a84be6-59b6-4897-b7fa-bed73eba72a9",
+    "yid": 72855441,
     "password": "72855441",
     "kid": 12291,
     "name": "Protector with Eyes of Blue",
     "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>あお</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>護人</rb><rp> (</rp><rt>もりと</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Aoki Me no Morito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP019",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

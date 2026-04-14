@@ -1,12 +1,14 @@
 {
     "cid": "53ea2420-cf8c-4677-8e8f-ae3b37c40260",
-    "yid": null,
+    "yid": 32762201,
     "password": "32762201",
     "kid": 20401,
     "name": "Ancient Gear Statue",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械像</rb><rp> (</rp><rt>アンティーク・ギアスタチュー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Sutachū",
+    "name_jp_rom_base": "Kodai no Kikaizō",
     "name_jp_tl": "Antique Gear Statue",
+    "name_jp_tl_base": "Ancient Machine Statue",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -41,6 +43,17 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP014",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -82,7 +95,9 @@
         "smat": [],
         "misc": [
             "Mentions",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

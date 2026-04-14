@@ -1,12 +1,14 @@
 {
     "cid": "eb51ddb8-bad4-4436-a9de-c4934af0bf7d",
-    "yid": null,
+    "yid": 19093698,
     "password": "19093698",
     "kid": 21166,
     "name": "Moissa Wight",
     "name_jp": "ワンモア・ザ・ワイト",
     "name_jp_rom": "Wanmoa Za Waito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Onemore the Wight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ALIN-EN029",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP029",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -87,5 +98,6 @@
             "Only once per turn",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

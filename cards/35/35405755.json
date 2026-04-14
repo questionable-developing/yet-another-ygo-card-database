@@ -1,12 +1,14 @@
 {
     "cid": "398d9c4d-e898-43e3-8841-1ecfbf4bc9f7",
-    "yid": null,
+    "yid": 35405755,
     "password": "35405755",
     "kid": 17433,
     "name": "Kurikara Divincarnate",
     "name_jp": "<ruby lang=\"jp\"><rb>俱</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>利</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>伽</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>童</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kurikara Tendō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -31,31 +33,86 @@
         "1": {
             "idx": "1",
             "full": "KurikaraDivincarnate-BLTR-EN-ScR-1E.png",
+            "art": "KurikaraDivincarnate-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "KurikaraDivincarnate-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "POTE-EN031",
             "set": "Power of the Elements",
             "rarities": {
-                "Secret Rare": [],
-                "Starlight Rare": []
+                "Secret Rare": ["1"],
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "OP23-EN001",
             "set": "OTS Tournament Pack 23",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "BLTR-EN079",
             "set": "Battles of Legend: Terminal Revenge",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN147",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP031",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Prismatic Secret Rare": ["1"],
+                "Holographic Rare": ["1"]
+            }
+        },
+        {
+            "sid": "POTE-JP031",
+            "set": "Power of the Elements +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SUB1-JPS10",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPA11",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP007",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -96,5 +153,6 @@
             "Only once per turn",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -6,7 +6,9 @@
     "name": "Return of the Duelist",
     "name_jp": "リターン・オブ・ザ・デュエリスト",
     "name_jp_rom": "Ritān Obu Za Dyuerisuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DUAD-EN071",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP071",
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []

@@ -1,12 +1,14 @@
 {
     "cid": "be2097e7-61fb-4d37-b04d-e5a07677a200",
-    "yid": null,
+    "yid": 12735388,
     "password": "12735388",
     "kid": 7444,
     "name": "Rainbow Veil",
     "name_jp": "レインボー・ヴェール",
     "name_jp_rom": "Reinbō Vēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,15 +29,36 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "RainbowVeil-DE02-JP-C.png",
+            "art": "RainbowVeil-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "RainbowVeil-PTDN-EN-C-1E.png",
-            "art": null
+            "art": "RainbowVeil-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PTDN-EN045",
             "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP045",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP090",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -66,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

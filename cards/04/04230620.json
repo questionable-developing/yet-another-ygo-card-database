@@ -1,12 +1,14 @@
 {
     "cid": "f8b3bc71-97f1-427b-9af7-fab5de4d4858",
-    "yid": null,
+    "yid": 4230620,
     "password": "04230620",
     "kid": 7745,
     "name": "Psi-Station",
     "name_jp": "サイキックブレイク",
     "name_jp_rom": "Saikikkubureiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psychic Break",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP051",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

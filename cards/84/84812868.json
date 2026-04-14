@@ -1,11 +1,14 @@
 {
     "cid": "58a7f0a8-e79e-4da5-8fe7-f01a528db34d",
+    "yid": 84812868,
     "password": "84812868",
     "kid": 12282,
     "name": "Lunalight White Rabbit",
     "name_jp": "<ruby lang=\"jp\"><rb>月光白兎</rb><rp> (</rp><rt>ムーンライト・ホワイト・ラビット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Howaito Rabitto",
+    "name_jp_rom_base": "Gekkō Shirousagi",
     "name_jp_tl": "Moonlight White Rabbit",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SHVI-EN010",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP010",
             "set": "Shining Victories",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "dc196aaa-50e2-4764-9d7a-53d626bfbc43",
+    "yid": 45883110,
     "password": "45883110",
     "kid": 18474,
     "name": "Guiding Quem, the Virtuous",
     "name_jp": "<ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>みちび</rt><rp>)</rp></ruby>きの<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby>クエム",
     "name_jp_rom": "Michibiki no Seijo Kuemu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Quem, the Guiding Saint",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP011",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP011",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP173",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP006",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +149,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

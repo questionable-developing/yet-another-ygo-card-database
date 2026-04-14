@@ -1,11 +1,14 @@
 {
     "cid": "3e6b54cc-da07-4465-b292-de8ee8518938",
+    "yid": 94620082,
     "password": "94620082",
     "kid": 13890,
     "name": "Salamangreat Foxy",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>フォクシー",
     "name_jp_rom": "Saramangureito Fokushī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP003",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD35-JP008",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +125,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

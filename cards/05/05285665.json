@@ -1,12 +1,14 @@
 {
     "cid": "7761d713-46f5-4c0b-b117-c08550568f0e",
-    "yid": null,
+    "yid": 5285665,
     "password": "05285665",
     "kid": 6566,
     "name": "Elemental HERO Neo Bubbleman",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> バブルマン・ネオ",
     "name_jp_rom": "Erementaru Hīrō Baburuman Neo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Bubbleman Neo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,29 @@
         {
             "sid": "SOI-EN004",
             "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP004",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SOI-JP004",
+            "set": "Shadow of Infinity: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP124",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -89,5 +114,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c491c5f8-7dd1-41f6-b911-fde931121335",
+    "yid": 53466722,
     "password": "53466722",
     "kid": 21447,
     "name": "First of the Dragonlords",
     "name_jp": "<ruby lang=\"jp\"><rb>始</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>祖</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiso no Ryūō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ancestral Dragon King",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP036",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +82,7 @@
         ],
         "summoning": [
             "3 Fusion Materials",
-            "Requires Normal Monsters as Fusion Materials",
+            "Requires nonspecific Normal Monsters as Fusion Materials",
             "Nomi"
         ],
         "attack": [
@@ -84,5 +96,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

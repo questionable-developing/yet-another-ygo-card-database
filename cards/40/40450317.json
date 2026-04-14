@@ -1,11 +1,14 @@
 {
     "cid": "85da4429-d9e6-4488-8b55-24b627983375",
+    "yid": 40450317,
     "password": "40450317",
     "kid": 6154,
     "name": "Ties of the Brethren",
     "name_jp": "<ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>胞</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>絆</rb><rp> (</rp><rt>きずな</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dōhō no Kizuna",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,46 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MB01-JP002",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Gold Rare": []
+            }
+        },
+        {
+            "sid": "SR05-JP030",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP030",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBGC-JP041",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP197",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +145,6 @@
         "misc": [
             "Requires control of specific Level"
         ]
-    }
+    },
+    "links": {}
 }

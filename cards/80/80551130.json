@@ -1,11 +1,14 @@
 {
     "cid": "4611e1c6-8961-4f36-a867-3cdf4c623030",
+    "yid": 80551130,
     "password": "80551130",
     "kid": 6710,
     "name": "Miraculous Descent",
     "name_jp": "<ruby lang=\"jp\"><rb>奇</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>跡</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>臨</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kiseki no Kōrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Miraculous Light Descent",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -62,6 +65,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP058",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP238",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD20-JP037",
+            "set": "Structure Deck: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR05-JP034",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR12-JP035",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +124,7 @@
             "Destroys itself"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -92,5 +132,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

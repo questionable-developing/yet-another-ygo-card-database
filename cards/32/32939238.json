@@ -1,12 +1,14 @@
 {
     "cid": "2241de75-7249-4ebe-94c3-155c0d92d04d",
-    "yid": null,
+    "yid": 32939238,
     "password": "32939238",
     "kid": 17817,
     "name": "Ninjitsu Art Tool - Iron Digger",
     "name_jp": "<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ぽう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>具</rb><rp> (</rp><rt>ぐ</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>鉄土竜</rb><rp> (</rp><rt>かなむぐら</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ninpōsōgu Kanamugura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ninjitsu Tool - Iron Mole",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP062",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +95,7 @@
             "Destroys Trap Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons face-down"
         ],
         "attack": [],
@@ -97,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

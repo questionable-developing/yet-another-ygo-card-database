@@ -1,11 +1,14 @@
 {
     "cid": "8ec79ffa-7371-486a-bd9d-9c1f9beef9dd",
+    "yid": 75840616,
     "password": "75840616",
     "kid": 10660,
     "name": "Bujintei Susanowo",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>－スサノヲ",
     "name_jp_rom": "Bujintei - Susanowo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +62,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP057",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP057",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +119,6 @@
             "Limited activations",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e98c4c6f-4bf4-4659-87dd-ba2f8e0180cb",
-    "yid": 86120752,
+    "yid": 86120751,
     "password": "86120751",
     "kid": 12843,
     "name": "Aleister the Invoker",
     "name_jp": "<ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>アレイスター",
     "name_jp_rom": "Shōkanshi Areisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -84,6 +86,56 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPFE-JP026",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP099",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20CP-JPC01",
+            "set": "20th Secret Rare Challenge Pack",
+            "rarities": {
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP030",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP021",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP056",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -135,5 +187,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

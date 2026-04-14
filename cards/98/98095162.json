@@ -1,11 +1,14 @@
 {
     "cid": "0779828a-450f-4053-a6e0-dbf63a2c0eff",
+    "yid": 98095162,
     "password": "98095162",
     "kid": 13492,
     "name": "Curious, the Lightsworn Dominion",
     "name_jp": "ライトロード・ドミニオン キュリオス",
     "name_jp_rom": "Raitorōdo Dominion Kyuriosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Dominion Kurios",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -48,6 +51,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP011",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP136",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

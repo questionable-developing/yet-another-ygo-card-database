@@ -1,11 +1,14 @@
 {
     "cid": "1b6b263d-9537-4154-a8e5-d2fecbf51b27",
+    "yid": 88654892,
     "password": "88654892",
     "kid": 19525,
     "name": "Mutamorphosis",
     "name_jp": "<ruby lang=\"jp\"><rb>突然回帰</rb><rp> (</rp><rt>バックミューテーション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bakku Myūtēshon",
+    "name_jp_rom_base": "Totsuzen Kaiki",
     "name_jp_tl": "Back Mutation",
+    "name_jp_tl_base": "Sudden Regression",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP070",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHNI-JP070",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +104,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

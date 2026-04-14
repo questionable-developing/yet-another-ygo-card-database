@@ -1,12 +1,14 @@
 {
     "cid": "98018887-a876-452d-8c04-172231150db8",
-    "yid": null,
+    "yid": 13650422,
     "password": "13650422",
     "kid": 14587,
     "name": "Evil HERO Adusted Gold",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> アダスター・ゴールド",
     "name_jp_rom": "Ībiru Hīrō Adasutā Gōrudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil HERO Aduster Gold",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -71,6 +73,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP22-JP013",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP025",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +135,6 @@
             "Only once per turn",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

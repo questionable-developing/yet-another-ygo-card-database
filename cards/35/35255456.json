@@ -1,12 +1,14 @@
 {
     "cid": "220d3238-b20a-480a-900f-e63410e8d5f8",
-    "yid": null,
+    "yid": 35255456,
     "password": "35255456",
     "kid": 10213,
     "name": "Miracle Contact",
     "name_jp": "ミラクル・コンタクト",
     "name_jp_rom": "Mirakuru Kontakuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -70,6 +72,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DE01-JP160",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP038",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +131,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "999a459a-ed6f-4572-a66e-9587ae5b7caf",
+    "yid": 49814180,
     "password": "49814180",
     "kid": 6329,
     "name": "Master Monk",
     "name_jp": "マスターモンク",
     "name_jp_rom": "Masutā Monku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP020",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP200",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +110,6 @@
             "Special Summon Monster",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

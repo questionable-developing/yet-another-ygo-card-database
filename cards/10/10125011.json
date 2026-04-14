@@ -1,12 +1,14 @@
 {
     "cid": "03695edf-2606-411e-b7b2-65dd562a2ede",
-    "yid": null,
+    "yid": 10125011,
     "password": "10125011",
     "kid": 18527,
     "name": "Constellar Tellarknights",
     "name_jp": "<ruby lang=\"jp\"><rb>星守の騎士団</rb><rp> (</rp><rt>テラナイト・セイクリッド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Teranaito Seikuriddo",
+    "name_jp_rom_base": "Seishu no Kishidan",
     "name_jp_tl": "Tellarknight Sacred",
+    "name_jp_tl_base": "Stellar Guardian Knights",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,23 @@
             "set": "Cyberstorm Access",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP064",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP061",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -84,5 +103,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "345db9ac-9412-4dbb-b347-33cf5218b776",
-    "yid": null,
+    "yid": 1571945,
     "password": "01571945",
     "kid": 6334,
     "name": "White Ninja",
     "name_jp": "<ruby lang=\"jp\"><rb>白い</rb><rp> (</rp><rt>ホワイト</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Howaito Ninja",
+    "name_jp_rom_base": "Shiroi Ninja",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -66,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP025",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP205",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

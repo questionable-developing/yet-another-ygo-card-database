@@ -1,11 +1,14 @@
 {
     "cid": "58d266de-191e-49bc-8522-f133c0211884",
+    "yid": 60600126,
     "password": "60600126",
     "kid": 8428,
     "name": "Cyber Emergency",
     "name_jp": "エマージェンシー・サイバー",
     "name_jp_rom": "Emājenshī Saibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Emergency Cyber",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,47 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP18-JP016",
+            "set": "Collectors Pack 2018",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "DBGI-JP042",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP025",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP031",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA12",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +150,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "6a58c270-1170-4c16-9f23-2611fa365df4",
+    "yid": 81109178,
     "password": "81109178",
     "kid": 12949,
     "name": "Fire Cracker",
     "name_jp": "ファイヤークラッカー",
     "name_jp_rom": "Faiyākurakkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP035",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "0df84908-24e6-46eb-a7ae-24c83b12be55",
+    "yid": 57416183,
     "password": "57416183",
     "kid": 15311,
     "name": "Dragonmaid Tidying",
     "name_jp": "ドラゴンメイドのお<ruby lang=\"jp\"><rb>片</rb><rp> (</rp><rt>かた</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>付</rb><rp> (</rp><rt>づ</rt><rp>)</rp></ruby>け",
     "name_jp_rom": "Doragonmeido no Okatazuke",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -72,6 +75,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP077",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP071",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP018",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +143,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

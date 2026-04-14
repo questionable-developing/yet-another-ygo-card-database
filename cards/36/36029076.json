@@ -1,12 +1,14 @@
 {
     "cid": "3a31f16c-a8ff-47c8-b544-f4218d0478c7",
-    "yid": null,
+    "yid": 36029076,
     "password": "36029076",
     "kid": 10731,
     "name": "Hundred-Footed Horror",
     "name_jp": "<ruby lang=\"jp\"><rb>地獄大百足</rb><rp> (</rp><rt>ヘル・センチピード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Heru Senchipīdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Centipede",
+    "name_jp_tl_base": "Hell Giant Centipede",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP082",
+            "set": "V Jump Fall 2013 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

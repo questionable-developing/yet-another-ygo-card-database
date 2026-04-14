@@ -1,12 +1,14 @@
 {
     "cid": "d60c1ed9-e2c6-4119-aef4-b320240cb1ed",
-    "yid": null,
+    "yid": 7236721,
     "password": "07236721",
     "kid": 18205,
     "name": "Scareclaw Defanging",
     "name_jp": "<ruby lang=\"jp\"><rb>界放せし肆世壊</rb><rp> (</rp><rt>スケアクロー・ディファング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sukeakurō Difangu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scareclaw Defang",
+    "name_jp_tl_base": "Unleashed Fourth Broken World",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP24-EN324",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP060",
+            "set": "Photon Hypernova",
             "rarities": {
                 "Common": []
             }
@@ -96,5 +107,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

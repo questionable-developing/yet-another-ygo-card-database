@@ -1,12 +1,14 @@
 {
     "cid": "7be49a4a-fa5c-4afb-a9ea-f16a6d7b3c1a",
-    "yid": null,
+    "yid": 3534077,
     "password": "03534077",
     "kid": 10444,
     "name": "Coach Soldier Wolfbark",
     "name_jp": "<ruby lang=\"jp\"><rb>熱</rb><rp> (</rp><rt>ねっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>血</rb><rp> (</rp><rt>けつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ウルフバーク",
     "name_jp_rom": "Nekketsujūshi Urufubāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Enthusiastic Beast Master Wolfbark",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -65,6 +67,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VE08-JP003",
+            "set": "V Jump Edition 8",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP021",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SR14-JP011",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

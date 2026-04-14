@@ -1,12 +1,14 @@
 {
     "cid": "a21ea042-4392-49f1-be28-e01001d01982",
-    "yid": null,
+    "yid": 11024707,
     "password": "11024707",
     "kid": 20502,
     "name": "Flipping Feline",
     "name_jp": "<ruby lang=\"jp\"><rb>回</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>猫</rb><rp> (</rp><rt>ねこ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaineko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flipping Cat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP026",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
             "Only once per turn",
             "Flip monster without a Flip effect"
         ]
-    }
+    },
+    "links": {}
 }

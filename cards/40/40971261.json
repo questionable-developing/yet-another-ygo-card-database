@@ -1,11 +1,14 @@
 {
     "cid": "3a79cc75-c285-4547-981a-8866b555c3c2",
+    "yid": 40971261,
     "password": "40971261",
     "kid": 14313,
     "name": "Dirge of the Lost Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>亡</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>旋律</rb><rp> (</rp><rt>ストレイン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bōryū no Sutorein",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strain of the Dead Dragon",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP063",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

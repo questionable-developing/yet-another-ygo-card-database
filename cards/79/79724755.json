@@ -1,11 +1,14 @@
 {
     "cid": "1b1e1b83-7177-437e-a7cb-8cab887c1d0f",
+    "yid": 79724755,
     "password": "79724755",
     "kid": 15725,
     "name": "Guitar Gurnards Duonigis",
     "name_jp": "<ruby lang=\"jp\"><rb>黄</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>紡</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鮄</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby>デュオニギス",
     "name_jp_rom": "Kihōbō Dyuonigisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yellow Gurnards Duonigis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP034",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

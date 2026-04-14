@@ -1,11 +1,14 @@
 {
     "cid": "b0e5f6f1-bcc7-4d50-b9ef-dd4ab92ce94f",
+    "yid": 70514456,
     "password": "70514456",
     "kid": 19889,
     "name": "Ragnaraika Mantis Monk",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>御拝神主</rb><rp> (</rp><rt>オオガミヌシ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika no Ōgaminushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Great Praying Mantis Priest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
         {
             "sid": "MP25-EN355",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP048",
+            "set": "Legacy of Destruction",
             "rarities": {
                 "Common": []
             }
@@ -100,5 +112,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

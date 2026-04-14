@@ -1,12 +1,14 @@
 {
     "cid": "52ab077d-514d-4311-8961-d20e15d7ab18",
-    "yid": null,
+    "yid": 34568403,
     "password": "34568403",
     "kid": 7586,
     "name": "Arcana Force VII - The Chariot",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>Ⅶ</rb><rp> (</rp><rt>セブン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＣＨＡＲＩＯＴ</rb><rp> (</rp><rt>ザ・チャリオット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Sebun - Za Chariotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP013",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +81,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Extra Deck",
             "Special Summons from your opponent's Graveyard to your field",
             "Special Summons the opponent's banished monsters to the player's field",
@@ -85,5 +96,6 @@
             "Coin toss",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "164de638-9a60-4ce8-8375-a7c9a8933a52",
+    "yid": 64389297,
     "password": "64389297",
     "kid": 4658,
     "name": "Magical Labyrinth",
     "name_jp": "<ruby lang=\"jp\"><rb>迷</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宮</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>変</rb><rp> (</rp><rt>へん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>げ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Meikyū Henge",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Labyrinth Change",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-08",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-043",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

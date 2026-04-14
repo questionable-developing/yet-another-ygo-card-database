@@ -1,12 +1,14 @@
 {
     "cid": "63625e3c-cb09-406e-b942-49188bce1afb",
-    "yid": null,
+    "yid": 32056070,
     "password": "32056070",
     "kid": 16022,
     "name": "You and A.I.",
     "name_jp": "ユウ－<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>－",
     "name_jp_rom": "Yū-Ai-",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fr-Ai-ternity",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP22-EN096",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP061",
+            "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
             }
@@ -98,5 +109,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

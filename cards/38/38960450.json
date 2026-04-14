@@ -1,11 +1,14 @@
 {
     "cid": "5e0892c3-7ee0-4e17-a7fb-2fe620a9c8e7",
+    "yid": 38960450,
     "password": "38960450",
     "kid": 14886,
     "name": "Armory Call",
     "name_jp": "アームズ・コール",
     "name_jp_rom": "Āmuzu Kōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Arms Call",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP077",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBGC-JP045",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

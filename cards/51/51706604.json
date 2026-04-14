@@ -1,11 +1,14 @@
 {
     "cid": "d97ba3c8-10a3-4119-95ad-8d68f33eeb1b",
+    "yid": 51706604,
     "password": "51706604",
     "kid": 15297,
     "name": "Blizzard",
     "name_jp": "ブリザード",
     "name_jp_rom": "Burizādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP063",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

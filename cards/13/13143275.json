@@ -1,12 +1,14 @@
 {
     "cid": "9463dda4-c8b3-4a2e-8975-ef45251012c2",
-    "yid": null,
+    "yid": 13143275,
     "password": "13143275",
     "kid": 14129,
     "name": "Guardragon Pisty",
     "name_jp": "<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ピスティ",
     "name_jp_rom": "Shugoryū Pisuti",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -54,6 +56,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP052",
+            "set": "Savage Strike",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP188",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,7 +104,7 @@
             "Requires Type specific Link Materials",
             "Special Summon once per turn",
             "Restricts the player's Special Summons to Type specific monsters",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -93,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "96c00e3a-4ce1-468f-ae00-991c9b10c717",
+    "yid": 60410769,
     "password": "60410769",
     "kid": 7710,
     "name": "Jutte Fighter",
     "name_jp": "ジュッテ・ナイト",
     "name_jp_rom": "Jutte Naito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Jutte Knight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP012",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP004",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

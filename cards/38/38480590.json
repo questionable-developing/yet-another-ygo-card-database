@@ -1,11 +1,14 @@
 {
     "cid": "634be18c-a3c2-4565-afe4-62a2e3c1e3ed",
+    "yid": 38480590,
     "password": "38480590",
     "kid": 5193,
     "name": "Lady Panther",
     "name_jp": "<ruby lang=\"jp\"><rb>女豹の傭兵</rb><rp> (</rp><rt>レディパンサー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Redi Pansā",
+    "name_jp_rom_base": "Mehyō no Yōhei",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Lady Leopard Mercenary",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SM-29",
+            "set": "Spell of Mask",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL3-068",
+            "set": "Duelist Legacy Volume.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

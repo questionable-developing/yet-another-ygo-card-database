@@ -1,12 +1,14 @@
 {
     "cid": "b1f63b4b-9b9a-4ee4-b8d4-2eac848a8a65",
-    "yid": null,
+    "yid": 14799437,
     "password": "14799437",
     "kid": 11539,
     "name": "Infernoid Onuncu",
     "name_jp": "インフェルノイド・ネヘモス",
     "name_jp_rom": "Inferunoido Nehemosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infernoid Nehemoth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -59,6 +61,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP019",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP107",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +134,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

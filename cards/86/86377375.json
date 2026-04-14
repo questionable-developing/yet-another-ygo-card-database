@@ -1,11 +1,14 @@
 {
     "cid": "2771cb45-f2a3-4d39-a340-92926e2a2075",
+    "yid": 86377375,
     "password": "86377375",
     "kid": 13684,
     "name": "Ahrima, the Wicked Warden",
     "name_jp": "<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>アフリマ",
     "name_jp_rom": "Akuō Afurima",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ahrima, the Wicked King",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR06-JP002",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

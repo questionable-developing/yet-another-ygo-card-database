@@ -1,11 +1,14 @@
 {
     "cid": "7e8803a1-3f83-4443-b4c0-33446d2b59de",
+    "yid": 46083111,
     "password": "46083111",
     "kid": 13237,
     "name": "Krawler Dendrite",
     "name_jp": "クローラー・デンドライト",
     "name_jp_rom": "Kurōrā Dendoraito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "CIBR-EN021",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP021",
             "set": "Circuit Break",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

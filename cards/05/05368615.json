@@ -1,12 +1,14 @@
 {
     "cid": "f55cfdde-06ff-4ade-aed1-8c1759036d27",
-    "yid": null,
+    "yid": 5368615,
     "password": "05368615",
     "kid": 6394,
     "name": "Steam Gyroid",
     "name_jp": "スチームジャイロイド",
     "name_jp_rom": "Suchīmu Jairoido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP033",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CRV-JP033",
+            "set": "Cybernetic Revolution: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP033",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -82,5 +107,6 @@
         "misc": [
             "Non-Effect Monster"
         ]
-    }
+    },
+    "links": {}
 }

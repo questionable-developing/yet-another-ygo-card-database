@@ -1,11 +1,14 @@
 {
     "cid": "016fc972-b4b9-4ce5-b5c8-a8b4582397ab",
+    "yid": 40634253,
     "password": "40634253",
     "kid": 13472,
     "name": "BM-4 Blast Spider",
     "name_jp": "ＢＭ－４ボムスパイダー",
     "name_jp_rom": "Bīemu-Fō Bomu Supaidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "BM-4 Bomb Spider",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "LED2-EN014",
             "set": "Legendary Duelists: Ancient Millennium",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP19-JP014",
+            "set": "Duelist Pack: Legend Duelist 2",
             "rarities": {
                 "Rare": []
             }
@@ -83,5 +95,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

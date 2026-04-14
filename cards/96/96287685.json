@@ -1,11 +1,14 @@
 {
     "cid": "86daff2e-c6e8-42fa-8ada-6e1f54f6fda2",
+    "yid": 96287685,
     "password": "96287685",
     "kid": 9506,
     "name": "Jar Turtle",
     "name_jp": "<ruby lang=\"jp\"><rb>瓶</rb><rp> (</rp><rt>かめ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>亀</rb><rp> (</rp><rt>がめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kame Game",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP035",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

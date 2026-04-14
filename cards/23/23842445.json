@@ -1,12 +1,14 @@
 {
     "cid": "9bb9fc63-0ea0-40e4-88e7-ca3896e51186",
-    "yid": null,
+    "yid": 23842445,
     "password": "23842445",
     "kid": 6353,
     "name": "Nitro Unit",
     "name_jp": "ニトロユニット",
     "name_jp_rom": "Nitoro Yunitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP046",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP226",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

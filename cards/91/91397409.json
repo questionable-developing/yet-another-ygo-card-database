@@ -1,11 +1,14 @@
 {
     "cid": "92a9c964-2e1c-435e-b95d-a7f90ce1f8b2",
+    "yid": 91397409,
     "password": "91397409",
     "kid": 15518,
     "name": "Penguin Brave",
     "name_jp": "ペンギン<ruby lang=\"jp\"><rb>勇</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Pengin Yūsha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Penguin Hero",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP039",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

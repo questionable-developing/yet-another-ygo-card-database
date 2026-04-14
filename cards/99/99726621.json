@@ -1,11 +1,14 @@
 {
     "cid": "4aece790-57c5-472d-a22f-ae2791fa701e",
+    "yid": 99726621,
     "password": "99726621",
     "kid": 15527,
     "name": "Tri-Brigade Shuraig the Ominous Omen",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣戦線</rb><rp> (</rp><rt>トライブリゲード</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>凶</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>のシュライグ",
     "name_jp_rom": "Toraiburigēdo Kyōchō no Shuraigu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tri-Brigade Shuraig the Ominous Bird",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -63,6 +66,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP048",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP048",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP014",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +137,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

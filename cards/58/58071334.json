@@ -1,11 +1,14 @@
 {
     "cid": "60dcc4ce-f311-4de3-83e7-891055f55c2d",
+    "yid": 58071334,
     "password": "58071334",
     "kid": 20772,
     "name": "Snake-Eyes Doomed Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>蛇眼の原罪龍</rb><rp> (</rp><rt>スネークアイズ・ダムド・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sunēkuaizu Damudo Doragon",
+    "name_jp_rom_base": "Jagan no Genzairyū",
     "name_jp_tl": "Snake-Eyes Damned Dragon",
+    "name_jp_tl_base": "Snake-Eyes Original Sin Dragon",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -30,7 +33,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SnakeEyesDoomedDragon-SUDA-EN-ScR-1E.png",
+            "full": "SnakeEyesDoomedDragon-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -41,6 +44,39 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN039",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP035",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP035",
+            "set": "Supreme Darkness +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -95,5 +131,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

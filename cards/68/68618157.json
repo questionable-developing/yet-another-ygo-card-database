@@ -1,11 +1,14 @@
 {
     "cid": "0cfa8274-8228-450d-89eb-bb6236b05666",
+    "yid": 68618157,
     "password": "68618157",
     "kid": 11081,
     "name": "Bujinki Amaterasu",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姫</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>－アマテラス",
     "name_jp_rom": "Bujinki - Amaterasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -60,6 +63,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP052",
+            "set": "Primal Origin",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP111",
+            "set": "Tournament Pack 2021 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,7 +106,7 @@
         "summoning": [
             "3 Xyz Materials",
             "Does not require specific Xyz Materials",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -97,5 +118,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

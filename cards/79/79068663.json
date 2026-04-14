@@ -1,11 +1,14 @@
 {
     "cid": "4022affe-580b-49f7-a647-b50e0f4fd11e",
+    "yid": 79068663,
     "password": "79068663",
     "kid": 7741,
     "name": "Junk Barrage",
     "name_jp": "ジャンク・アタック",
     "name_jp_rom": "Janku Atakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Junk Attack",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP047",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP08-JP019",
+            "set": "Duelist Pack: Yusei",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

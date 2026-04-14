@@ -1,11 +1,14 @@
 {
     "cid": "e8803bf3-7d25-4372-aad8-d69646cb2bd9",
+    "yid": 61044390,
     "password": "61044390",
     "kid": 5841,
     "name": "Chaos End",
     "name_jp": "カオス・エンド",
     "name_jp_rom": "Kaosu Endo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "306-036",
+            "set": "Controller of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP036",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

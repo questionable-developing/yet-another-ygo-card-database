@@ -1,11 +1,14 @@
 {
     "cid": "a65dcc55-187f-46bc-92b6-84a2878d8d31",
+    "yid": 83584898,
     "password": "83584898",
     "kid": 9134,
     "name": "Darkworld Shackles",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>足</rb><rp> (</rp><rt>あし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>枷</rb><rp> (</rp><rt>かせ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Makai no Ashikase",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon World Shackles",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP057",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR02-JPA20",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

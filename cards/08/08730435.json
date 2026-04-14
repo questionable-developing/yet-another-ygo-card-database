@@ -1,12 +1,14 @@
 {
     "cid": "99176c50-b49b-4ca3-9bf1-113b55050810",
-    "yid": null,
+    "yid": 8730435,
     "password": "08730435",
     "kid": 7459,
     "name": "Gladiator Beast's Battle Archfiend Shield",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>デーモンズシールド",
     "name_jp_rom": "Guradiaru Bīsuto no Tōki Dēmonzu Shīrudo",
+    "name_jp_rom_base": "Kentōjū no Tōki Dēmonzu Shīrudo",
     "name_jp_tl": "Gladial Beast's Battle Tool - Daemon's Shield",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,22 @@
         {
             "sid": "AP03-EN022",
             "set": "Astral Pack Three",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP060",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP097",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +105,6 @@
             "Equips only to a specific target",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

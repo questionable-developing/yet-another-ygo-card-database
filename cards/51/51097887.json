@@ -1,11 +1,14 @@
 {
     "cid": "fd727945-56a5-47b6-a3d1-9ba03483c321",
+    "yid": 51097887,
     "password": "51097887",
     "kid": 15532,
     "name": "Tri-Brigade Airborne Assault",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣の凶襲</rb><rp> (</rp><rt>トライブリゲード・エアボーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Toraiburigēdo Eabōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tri-Brigade Airborne",
+    "name_jp_tl_base": "Iron Beast Savage Assault",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP053",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP053",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP019",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +121,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

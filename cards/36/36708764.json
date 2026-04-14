@@ -1,12 +1,14 @@
 {
     "cid": "57d27cfc-ac36-419b-8c7a-52cbce92821b",
-    "yid": null,
+    "yid": 36708764,
     "password": "36708764",
     "kid": 4820,
     "name": "Roulette Spider",
     "name_jp": "ルーレット・スパイダー",
     "name_jp_rom": "Rūretto Supaidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP014",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +113,6 @@
             "Die roll",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

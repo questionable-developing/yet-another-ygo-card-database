@@ -1,12 +1,14 @@
 {
     "cid": "be6c4caa-0152-48dc-af6e-c19755393406",
-    "yid": null,
+    "yid": 31904181,
     "password": "31904181",
     "kid": 6965,
     "name": "The Six Samurai - Nisashi",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ろく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衆</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>－ニサシ",
     "name_jp_rom": "Rokubushū - Nisashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Six Warmen - Nisashi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -72,6 +74,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP010",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "STON-JP010",
+            "set": "Strike of Neos: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP084",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +130,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

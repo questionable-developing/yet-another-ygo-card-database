@@ -1,11 +1,14 @@
 {
     "cid": "7e313e31-f532-4964-b067-489da5a86ca6",
+    "yid": 70538272,
     "password": "70538272",
     "kid": 21174,
     "name": "Filia Regis",
     "name_jp": "<ruby lang=\"jp\"><rb>妖竜の禁姫</rb><rp> (</rp><rt>フィーリア・レギス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fīria Regisu",
+    "name_jp_rom_base": "Yōryū no Kinki",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Forbidden Princess of the Bewitching Dragon",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,17 +33,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FiliaRegis-ALIN-JP-R.png",
+            "art": "FiliaRegis-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FiliaRegis-ALIN-EN-SR-1E.png",
-            "art": null
+            "art": "FiliaRegis-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ALIN-EN037",
             "set": "Alliance Insight",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP037",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -87,5 +104,6 @@
             "At the start of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

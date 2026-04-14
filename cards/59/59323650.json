@@ -1,11 +1,14 @@
 {
     "cid": "0790b5ab-7bcb-412a-bf38-fef8be77d2ff",
+    "yid": 59323650,
     "password": "59323650",
     "kid": 21152,
     "name": "Regenesis Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>再世の龍神</rb><rp> (</rp><rt>リジェネシス・ドラゴン</rt><rp>)</rp></ruby> ワイクラー",
     "name_jp_rom": "Rijeneshisu Doragon Waikurā",
+    "name_jp_rom_base": "Saisei no Ryūshin Waikurā",
     "name_jp_tl": "Regenesis Dragon Vayikra",
+    "name_jp_tl_base": "Regenerated World Dragon God Vayikra",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ALIN-EN015",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP015",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Requires control of specific DEF",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

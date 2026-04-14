@@ -1,11 +1,14 @@
 {
     "cid": "38a6acea-20ec-4c2d-b98b-8200e7fc40a8",
+    "yid": 82386016,
     "password": "82386016",
     "kid": 10422,
     "name": "The Big Cattle Drive",
     "name_jp": "<ruby lang=\"jp\"><rb>烏</rb><rp> (</rp><rt>う</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>行</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>進</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ugō no Kōshin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Disorderly March",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP063",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

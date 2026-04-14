@@ -1,11 +1,14 @@
 {
     "cid": "fb373a2c-9172-4c28-b579-73fbdb3594b4",
+    "yid": 94626050,
     "password": "94626050",
     "kid": 9786,
     "name": "Fish Rain",
     "name_jp": "フィッシュ・レイン",
     "name_jp_rom": "Fisshu Rein",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PHSW-EN068",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP068",
             "set": "Photon Shockwave",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

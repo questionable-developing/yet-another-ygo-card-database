@@ -1,11 +1,14 @@
 {
     "cid": "2b99a2d2-e08e-40bf-8fe6-643e2f6ad066",
+    "yid": 69112325,
     "password": "69112325",
     "kid": 8494,
     "name": "Spiritual Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>神聖なる森</rb><rp> (</rp><rt>スピリチュアル・フォレスト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Supirichuaru Foresuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP059",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP077",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +113,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

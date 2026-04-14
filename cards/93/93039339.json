@@ -6,7 +6,9 @@
     "name": "Super Starslayer TY-PHON - Sky Crisis",
     "name_jp": "<ruby lang=\"jp\"><rb>厄災の星</rb><rp> (</rp><rt>ロギアステラ</rt><rp>)</rp></ruby>ティ・フォン",
     "name_jp_rom": "Rogiasutera Ti Fon",
+    "name_jp_rom_base": "Yakusai no Hoshi Ti Fon",
     "name_jp_tl": "Logiastella T-PHON",
+    "name_jp_tl_base": "Crisis Star T-PHON",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SuperStarslayerTYPHONSkyCrisis-RA04-EN-SR-1E.png",
+            "full": "SuperStarslayerTYPHONSkyCrisis-L26D-EN-C-1E.png",
+            "art": "SuperStarslayerTYPHONSkyCrisis-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "SuperStarslayerTYPHONSkyCrisis-LOCR-JP-UR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "AGOV-EN042",
@@ -72,10 +79,39 @@
             }
         },
         {
-            "sid": "L26D-EN???",
+            "sid": "L26D-ENM28",
             "set": "Legendary Modern Decks 2026",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP042",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JP042",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP035",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],

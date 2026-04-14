@@ -1,0 +1,92 @@
+{
+    "cid": "90c1e08f-031d-4dad-a47f-a559fe41a40c",
+    "yid": 58995660,
+    "password": "58995660",
+    "kid": 22503,
+    "name": "Early Palm Gets the Win",
+    "name_jp": "<ruby lang=\"jp\"><rb>先</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>て</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>必</rb><rp> (</rp><rt>ひっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>掌</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>",
+    "name_jp_rom": "Sentehisshō",
+    "name_jp_rom_base": null,
+    "name_jp_tl": null,
+    "name_jp_tl_base": null,
+    "type": "Spell",
+    "attribute": "Spell",
+    "pend": false,
+    "subtypes": "Continuous",
+    "atk": null,
+    "def": null,
+    "lrl": null,
+    "level": null,
+    "rank": null,
+    "scale": null,
+    "link": null,
+    "arrows": null,
+    "desc": "Once per turn, when an attack is declared involving your monster: You can roll a six-sided die and apply this effect to that monster you control based on the result until the end of this turn. If you activated this effect when an attack was declared involving 2 monsters in the same column, you choose the effect instead.<br />● 1 or 4: The first time it would be destroyed by battle or card effect, it is not destroyed.<br />● 2 or 5: It loses 500 ATK, also it is unaffected by activated Spell/Trap effects, except \"Early Palm Gets the Win\".<br />● 3 or 6: It gains 1000 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.",
+    "pend_eff": null,
+    "mnst_eff": null,
+    "eff": "Once per turn, when an attack is declared involving your monster: You can roll a six-sided die and apply this effect to that monster you control based on the result until the end of this turn. If you activated this effect when an attack was declared involving 2 monsters in the same column, you choose the effect instead.\n● 1 or 4: The first time it would be destroyed by battle or card effect, it is not destroyed.\n● 2 or 5: It loses 500 ATK, also it is unaffected by activated Spell/Trap effects, except \"Early Palm Gets the Win\".\n● 3 or 6: It gains 1000 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.",
+    "flavor": null,
+    "images": {
+        "1": {
+            "idx": "1",
+            "full": "EarlyPalmGetstheWin-26PR-JP-NPR.png",
+            "art": null
+        }
+    },
+    "image": null,
+    "sets": [],
+    "jp_sets": [
+        {
+            "sid": "26PR-JP004",
+            "set": "Promotion Pack 2026",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
+    "misc": {
+        "pend_eff_types": [],
+        "eff_types": [
+            "Trigger-like"
+        ],
+        "mentions": [
+            "Early Palm Gets the Win"
+        ],
+        "sup": [],
+        "asup": [],
+        "arc": [],
+        "suparc": [],
+        "asuparc": [],
+        "rel": [],
+        "counter": [],
+        "action": [
+            "Activates upon attack declaration"
+        ],
+        "stat_change": [
+            "Your monsters lose ATK",
+            "Your monsters gain ATK"
+        ],
+        "mst": [
+            "Prevents other cards being destroyed by card effects",
+            "Unaffected by activated card effects",
+            "Unaffected by Spell Cards",
+            "Unaffected by Trap Cards"
+        ],
+        "summoning": [],
+        "attack": [
+            "Prevents other cards being destroyed by battle",
+            "Allows multiple attacks on monsters"
+        ],
+        "banished": [],
+        "life_points": [],
+        "fmat": [],
+        "smat": [],
+        "misc": [
+            "Limited activations",
+            "Die roll",
+            "Column",
+            "Variable effects"
+        ]
+    },
+    "links": {}
+}

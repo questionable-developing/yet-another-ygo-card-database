@@ -1,12 +1,14 @@
 {
     "cid": "d1cadb30-4f33-4c27-8ef3-8a9c059a398b",
-    "yid": null,
+    "yid": 5352328,
     "password": "05352328",
     "kid": 16739,
     "name": "Exosister Sophia",
     "name_jp": "エクソシスター・ソフィア",
     "name_jp_rom": "Ekusoshisutā Sofia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +59,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP016",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB05",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +117,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "a9e77779-7cc3-48fc-a066-07230385ac6b",
-    "yid": null,
+    "yid": 14225239,
     "password": "14225239",
     "kid": 6657,
     "name": "Elemental HERO Mariner",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> セイラーマン",
     "name_jp_rom": "Erementaru Hīrō Seirāman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Sailorman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -59,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP034",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EOJ-JP034",
+            "set": "Enemy of Justice: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP214",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

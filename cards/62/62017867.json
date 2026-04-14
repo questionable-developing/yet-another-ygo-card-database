@@ -1,11 +1,14 @@
 {
     "cid": "7d1409f8-c8c8-4949-b071-b3b948c0a4f6",
+    "yid": 62017867,
     "password": "62017867",
     "kid": 11682,
     "name": "Superheavy Samurai Gigagloves",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>グロウ－<ruby lang=\"jp\"><rb>Ｖ</rb><rp> (</rp><rt>ブ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōjūmusha Gurō-Bu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superheavy Samurai Glo-V",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP007",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +115,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

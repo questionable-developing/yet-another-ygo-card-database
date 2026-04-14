@@ -1,11 +1,14 @@
 {
     "cid": "b56d4987-3ad8-432b-95be-d7d02a713598",
+    "yid": 70245411,
     "password": "70245411",
     "kid": 11392,
     "name": "Toy Vendor",
     "name_jp": "トイポット",
     "name_jp_rom": "Toi Potto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Toy Pot",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP060",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPFE-JP024",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +124,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

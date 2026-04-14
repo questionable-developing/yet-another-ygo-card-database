@@ -1,12 +1,14 @@
 {
     "cid": "e768418a-fb09-4d4b-87ab-d5ae6609a211",
-    "yid": null,
+    "yid": 17841097,
     "password": "17841097",
     "kid": 9081,
     "name": "Needle Soldier",
     "name_jp": "ニードル・ガンナー",
     "name_jp_rom": "Nīdoru Gannā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Needle Gunner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP004",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

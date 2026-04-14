@@ -1,11 +1,14 @@
 {
     "cid": "69c68cdf-7af5-42a0-9d21-2b7e91834f6f",
+    "yid": 54207171,
     "password": "54207171",
     "kid": 20491,
     "name": "Mementotlan Akihiron",
     "name_jp": "メメント・カクタス",
     "name_jp_rom": "Memento Kakutasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Memento Cactus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP015",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

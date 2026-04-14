@@ -1,12 +1,14 @@
 {
     "cid": "1e55b90e-df02-4a44-9852-a39624b82f83",
-    "yid": null,
+    "yid": 8785161,
     "password": "08785161",
     "kid": 11957,
     "name": "Raidraptor - Wild Vulture",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ワイルド・ヴァルチャー",
     "name_jp_rom": "Reido Raputāzu - Wairudo Varuchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Wild Vulture",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP013",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

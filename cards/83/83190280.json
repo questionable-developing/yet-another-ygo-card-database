@@ -1,11 +1,14 @@
 {
     "cid": "88daaa5d-8e9f-4c47-b817-1d0f0ac8a62a",
+    "yid": 83190280,
     "password": "83190280",
     "kid": 12285,
     "name": "Lunalight Tiger",
     "name_jp": "<ruby lang=\"jp\"><rb>月光虎</rb><rp> (</rp><rt>ムーンライト・タイガー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Taigā",
+    "name_jp_rom_base": "Gekkōko",
     "name_jp_tl": "Moonlight Tiger",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP013",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS06",
+            "set": "Duelist Advance +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -99,5 +118,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

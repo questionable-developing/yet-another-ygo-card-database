@@ -1,12 +1,14 @@
 {
     "cid": "1b861d86-9fc0-4270-83bd-8754a739e28e",
-    "yid": null,
+    "yid": 34047456,
     "password": "34047456",
     "kid": 18217,
     "name": "Gigantic Thundercross",
     "name_jp": "ギガンティック・サンダークロス",
     "name_jp_rom": "Gigantikku Sandākurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP072",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP156",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

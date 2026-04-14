@@ -1,12 +1,14 @@
 {
     "cid": "d35acc3d-f69f-46d1-83ce-bd4fe94b73c8",
-    "yid": null,
+    "yid": 23536866,
     "password": "23536866",
     "kid": 11035,
     "name": "Gazer Shark",
     "name_jp": "ゲイザー・シャーク",
     "name_jp_rom": "Geizā Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PRIO-EN006",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP006",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

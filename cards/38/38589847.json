@@ -1,11 +1,14 @@
 {
     "cid": "35dbaa3e-19af-4eae-aa08-956e92a5524c",
+    "yid": 38589847,
     "password": "38589847",
     "kid": 8659,
     "name": "Advance Force",
     "name_jp": "アドバンス・フォース",
     "name_jp_rom": "Adobansu Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP048",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,5 +77,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

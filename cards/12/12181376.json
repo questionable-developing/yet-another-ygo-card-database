@@ -1,12 +1,14 @@
 {
     "cid": "f930516e-a8dc-4a8b-aaa9-9823503985c5",
-    "yid": null,
+    "yid": 12181376,
     "password": "12181376",
     "kid": 6208,
     "name": "Triangle Ecstasy Spark",
     "name_jp": "トライアングル・<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エクスタシー</rt><rp>)</rp></ruby>・スパーク",
     "name_jp_rom": "Toraianguru Ekusutashī Supāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -89,6 +91,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP039",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP099",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD8-JP025",
+            "set": "Structure Deck: Lord of the Storm",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP21-JP011",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -126,5 +159,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

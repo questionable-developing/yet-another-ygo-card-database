@@ -1,11 +1,14 @@
 {
     "cid": "d637a762-3193-4511-a7c3-2e4cd9cd3266",
+    "yid": 65367484,
     "password": "65367484",
     "kid": 9882,
     "name": "Photon Thrasher",
     "name_jp": "フォトン・スラッシャー",
     "name_jp_rom": "Foton Surasshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -102,6 +105,51 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP008",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP13-JP006",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DC01-JP003",
+            "set": "Deck Custom Pack 01",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "ST17-JP009",
+            "set": "Starter Deck 2017",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP20-JP041",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST19-JP015",
+            "set": "Starter Deck 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -137,5 +185,6 @@
             "Special Summon Monster",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "02f6145c-1064-4ac6-832d-1a66afc1cdf5",
-    "yid": null,
+    "yid": 29649320,
     "password": "29649320",
     "kid": 13785,
     "name": "Mirror Force Launcher",
     "name_jp": "ミラーフォース・ランチャー",
     "name_jp_rom": "Mirā Fōsu Ranchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -60,6 +62,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP069",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD36-JP037",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +121,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

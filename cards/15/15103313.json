@@ -1,12 +1,14 @@
 {
     "cid": "34f3c34b-a4ad-48f1-9071-0ba509f57b57",
-    "yid": null,
+    "yid": 15103313,
     "password": "15103313",
     "kid": 9533,
     "name": "Self-Mummification",
     "name_jp": "<ruby lang=\"jp\"><rb>即</rb><rp> (</rp><rt>そく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仏</rb><rp> (</rp><rt>ぶつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sokushinbutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP062",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,5 +77,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

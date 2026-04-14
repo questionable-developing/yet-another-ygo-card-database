@@ -1,11 +1,14 @@
 {
     "cid": "7f9cb5ad-536d-4032-bce9-6a174da1f339",
+    "yid": 53842431,
     "password": "53842431",
     "kid": 13397,
     "name": "Mythical Beast Master Cerberus",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> マスターケルベロス",
     "name_jp_rom": "Majikku Bīsuto Masutā Keruberosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Beast Master Cerberus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -58,6 +61,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP027",
+            "set": "Extreme Force",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -106,5 +120,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

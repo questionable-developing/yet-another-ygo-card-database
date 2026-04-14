@@ -1,12 +1,14 @@
 {
     "cid": "f341ea2b-e424-4a95-a269-8cde4c4441c5",
-    "yid": null,
+    "yid": 4141820,
     "password": "04141820",
     "kid": 8649,
     "name": "Djinn Prognosticator of Rituals",
     "name_jp": "<ruby lang=\"jp\"><rb>儀</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>プレコグスター",
-    "name_jp_rom": "Gishiki Majin Purekogusutā",
+    "name_jp_rom": "Gishikimajin Purekogusutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ritual Djinn Precogster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP038",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP106",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

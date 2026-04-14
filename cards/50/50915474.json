@@ -1,11 +1,14 @@
 {
     "cid": "b5c4fbbf-d674-4326-8a20-24299aecd0e5",
+    "yid": 50915474,
     "password": "50915474",
     "kid": 20766,
     "name": "Goddess of the Two Sides",
     "name_jp": "<ruby lang=\"jp\"><rb>表</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>裏</rb><rp> (</rp><rt>り</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hyōri no Megami",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP029",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
             "Coin toss",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

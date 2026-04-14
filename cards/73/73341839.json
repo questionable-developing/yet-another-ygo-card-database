@@ -1,11 +1,14 @@
 {
     "cid": "05f7ed4a-6628-4590-b1fd-0e55e808e457",
+    "yid": 73341839,
     "password": "73341839",
     "kid": 13756,
     "name": "Miniborrel Dragon",
     "name_jp": "ショートヴァレル・ドラゴン",
     "name_jp_rom": "Shōtovareru Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shortvarrel Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP040",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

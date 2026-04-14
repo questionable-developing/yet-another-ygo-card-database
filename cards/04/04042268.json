@@ -1,12 +1,14 @@
 {
     "cid": "0ae29e96-d15c-4507-b01a-6f64b8dbebca",
-    "yid": null,
+    "yid": 4042268,
     "password": "04042268",
     "kid": 5146,
     "name": "Island Turtle",
     "name_jp": "<ruby lang=\"jp\"><rb>島</rb><rp> (</rp><rt>しま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>亀</rb><rp> (</rp><rt>ガメ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shima Game",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TB-45",
+            "set": "Thousand Eyes Bible",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

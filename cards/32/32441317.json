@@ -1,12 +1,14 @@
 {
     "cid": "69c411d4-b382-41ce-842b-2e3eeacd9673",
-    "yid": null,
+    "yid": 32441317,
     "password": "32441317",
     "kid": 7743,
     "name": "De-Synchro",
     "name_jp": "シンクロキャンセル",
     "name_jp_rom": "Shinkuro Kyanseru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Synchro Cancel",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +78,51 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP049",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "YSD4-JP029",
+            "set": "Starter Deck 2009",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT12-JP042",
+            "set": "Duel Terminal - Xyz Startup!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP021",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBHS-JP044",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "AC03-JP036",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +159,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "56dc6571-4c58-4bf9-b8ec-ef85f6cd30ab",
-    "yid": null,
+    "yid": 24661486,
     "password": "24661486",
     "kid": 6928,
     "name": "Cold Enchanter",
     "name_jp": "コールド・エンチャンター",
     "name_jp_rom": "Kōrudo Enchantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ColdEnchanter-TP22-JP-C.png",
+            "art": "ColdEnchanter-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ColdEnchanter-LCGX-EN-C-1E.png",
-            "art": null
+            "art": "ColdEnchanter-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TDGS-EN096",
@@ -46,6 +53,22 @@
         {
             "sid": "LCGX-EN201",
             "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LE10-JP008",
+            "set": "Limited Edition 10: Holy White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TP22-JP003",
+            "set": "Tournament Pack 2012 Vol.2",
             "rarities": {
                 "Common": []
             }
@@ -83,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

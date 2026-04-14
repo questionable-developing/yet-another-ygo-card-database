@@ -1,11 +1,14 @@
 {
     "cid": "d5e9a765-9401-4831-91eb-f976acdd786e",
+    "yid": 83903521,
     "password": "83903521",
     "kid": 7726,
     "name": "Beast of the Pharaoh",
     "name_jp": "ファラオの<ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>身</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Farao no Keshin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Avatar of the Pharaoh",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP032",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR07-JP021",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

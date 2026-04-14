@@ -1,12 +1,14 @@
 {
     "cid": "42de7fec-ab56-488e-b9f7-a9e7badfd6d9",
-    "yid": null,
+    "yid": 16720314,
     "password": "16720314",
     "kid": 14364,
     "name": "Smile Potion",
     "name_jp": "スマイル・ポーション",
     "name_jp_rom": "Sumairu Pōshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "19TP-JP115",
+            "set": "Tournament Pack 2019 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "beae9264-e9e0-4c5e-b0fe-cb7bb208c091",
+    "yid": 56094445,
     "password": "56094445",
     "kid": 6317,
     "name": "Ancient Gear Soldier",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械兵士</rb><rp> (</rp><rt>アンティーク・ギアソルジャー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Sorujā",
+    "name_jp_rom_base": "Kodai no Kikaiheishi",
     "name_jp_tl": "Antique Gear Soldier",
+    "name_jp_tl_base": "Ancient Machine Soldier",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -76,6 +79,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP008",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TLM-JP008",
+            "set": "The Lost Millennium: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP188",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD10-JP014",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP010",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +144,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

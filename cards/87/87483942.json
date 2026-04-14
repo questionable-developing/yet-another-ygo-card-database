@@ -1,11 +1,14 @@
 {
     "cid": "ba5e63a3-a097-4930-83a0-27640cd4e887",
+    "yid": 87483942,
     "password": "87483942",
     "kid": 9749,
     "name": "Senior Silver Ninja",
     "name_jp": "<ruby lang=\"jp\"><rb>渋い</rb><rp> (</rp><rt>シルバー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shirubā Ninja",
+    "name_jp_rom_base": "Shibui Ninja",
     "name_jp_tl": "Silver Ninja",
+    "name_jp_tl_base": "Grim Ninja",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "PHSW-EN031",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP031",
             "set": "Photon Shockwave",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Field-Unique"
         ]
-    }
+    },
+    "links": {}
 }

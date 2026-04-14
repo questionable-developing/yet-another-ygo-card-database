@@ -1,12 +1,14 @@
 {
     "cid": "ec50fbb7-d95a-4d86-9c64-d6c9821ecfc1",
-    "yid": null,
+    "yid": 13023431,
     "password": "13023431",
     "kid": 22067,
     "name": "Chevreuil, Hunting Scout of the Deep Forest",
     "name_jp": "密林の狩猟者シュヴルイユ",
     "name_jp_rom": "Mitsurin no Shuryōsha Shuvuruiyu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chevreuil, Hunter of the Deep Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -45,6 +47,7 @@
             }
         }
     ],
+    "jp_sets": [],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +80,7 @@
             "Requires Attribute specific Fusion Materials",
             "Requires Type specific Fusion Materials",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Prevents other cards being targeted for attacks"
@@ -91,5 +94,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

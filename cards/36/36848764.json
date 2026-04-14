@@ -1,12 +1,14 @@
 {
     "cid": "8b94885a-ebfb-4705-b34c-162cd08746e4",
-    "yid": null,
+    "yid": 36848764,
     "password": "36848764",
     "kid": 18320,
     "name": "Sweet Roommaid",
     "name_jp": "スウィートルームメイド",
     "name_jp_rom": "Suwīto Rūmumeido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SLF1-JP099",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

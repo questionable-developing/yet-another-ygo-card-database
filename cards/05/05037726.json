@@ -1,12 +1,14 @@
 {
     "cid": "a4eb67ce-f781-49bf-bd89-f77457bf20c6",
-    "yid": null,
+    "yid": 5037726,
     "password": "05037726",
     "kid": 10100,
     "name": "Spiritual Light Art - Hijiri",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>－「<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>ひじり</rt><rp>)</rp></ruby>」",
     "name_jp_rom": "Kōreijutsu - \"Hijiri\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Light Spiritual Art - \"Holiness\"",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP077",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP115",
+            "set": "Tournament Pack 2021 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,14 +80,14 @@
         "counter": [],
         "action": [
             "Tributes for cost",
-            "Reveals your opponent's hand"
+            "Reveals cards from your opponent's hand"
         ],
         "stat_change": [],
         "mst": [
             "Negates itself"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -80,5 +98,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a8a43209-2c0c-4d2c-8a26-c2a13a4f03d5",
+    "yid": 86686671,
     "password": "86686671",
     "kid": 10868,
     "name": "Cyber Repair Plant",
     "name_jp": "サイバー・リペア・プラント",
     "name_jp_rom": "Saibā Ripea Puranto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +65,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD26-JP019",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP021",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD41-JP024",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP032",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA13",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +142,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

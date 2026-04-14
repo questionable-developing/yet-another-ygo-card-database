@@ -1,12 +1,14 @@
 {
     "cid": "715fd73f-316e-4fe9-9e21-b20b426bc547",
-    "yid": null,
+    "yid": 13455674,
     "password": "13455674",
     "kid": 12781,
     "name": "Crystron Quariongandrax",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－グリオンガンド",
-    "name_jp_rom": "Kurisutoron Guriongando",
-    "name_jp_tl": "Crystron Gliongandr",
+    "name_jp_rom": "Kurisutoron - Guriongando",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Crystron - Gliongandr",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP046",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP059",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +103,7 @@
             "Double Tuning",
             "1 non-Tuner Synchro Material",
             "Does not require specific Synchro Materials",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -92,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

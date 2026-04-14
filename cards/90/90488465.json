@@ -1,11 +1,14 @@
 {
     "cid": "a5bc3cc4-975c-4166-b6d1-b27109529e5b",
+    "yid": 90488465,
     "password": "90488465",
     "kid": 15475,
     "name": "The Chaos Creator",
     "name_jp": "<ruby lang=\"jp\"><rb>混沌の創世神</rb><rp> (</rp><rt>カオス・クリエイター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaosu Kurieitā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chaos Creator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP011",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,7 +94,7 @@
             "Cannot be Normal Set",
             "Special Summon-only monster",
             "Special Summons itself from your hand",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -96,5 +109,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

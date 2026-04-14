@@ -1,11 +1,14 @@
 {
     "cid": "6ae1f812-46be-436e-b953-3e9b35527abf",
+    "yid": 80831721,
     "password": "80831721",
     "kid": 11160,
     "name": "Sabatiel - The Philosopher's Stone",
     "name_jp": "<ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>いし</rt><rp>)</rp></ruby>－サバティエル",
     "name_jp_rom": "Kenja no Ishi - Sabatieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,10 +64,19 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP015",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Cost, Effect, Ignition-like"
+            "Effect, Ignition-like"
         ],
         "mentions": [
             "Sabatiel - The Philosopher's Stone"
@@ -104,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

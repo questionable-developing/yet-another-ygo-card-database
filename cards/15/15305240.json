@@ -1,12 +1,14 @@
 {
     "cid": "ae9ef049-6dec-4a2f-adf7-004aa2e1c6d0",
-    "yid": null,
+    "yid": 15305240,
     "password": "15305240",
     "kid": 7221,
     "name": "Creature Seizure",
     "name_jp": "<ruby lang=\"jp\"><rb>鹵</rb><rp> (</rp><rt>ろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獲</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rokaku Sōchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Seizure Device",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP058",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "8b52141e-d004-4b16-a3fd-5930b8e89788",
-    "yid": null,
+    "yid": 5524387,
     "password": "05524387",
     "kid": 14490,
     "name": "Marincess Marbled Rock",
     "name_jp": "<ruby lang=\"jp\"><rb>海晶乙女</rb><rp> (</rp><rt>マリンセス</rt><rp>)</rp></ruby>マーブルド・ロック",
     "name_jp_rom": "Marinsesu Māburudo Rokku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -63,6 +65,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP042",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

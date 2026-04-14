@@ -1,11 +1,14 @@
 {
     "cid": "a3c5cb43-77b1-4817-9c3d-b6229b421e13",
+    "yid": 72971064,
     "password": "72971064",
     "kid": 16392,
     "name": "Lyrilusc - Ensemblue Robin",
     "name_jp": "<ruby lang=\"jp\"><rb>ＬＬ</rb><rp> (</rp><rt>リリカル・ルスキニア</rt><rp>)</rp></ruby>－アンサンブルー・ロビン",
     "name_jp_rom": "Ririkaru Rusukinia - Ansanburū Robin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lyrical Luscinia - Ensemblue Robin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -30,17 +33,32 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "LyriluscEnsemblueRobin-DP25-JP-UR.png",
+            "art": "LyriluscEnsemblueRobin-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "LyriluscEnsemblueRobin-LED8-EN-UR-1E.png",
-            "art": null
+            "art": "LyriluscEnsemblueRobin-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LED8-EN037",
             "set": "Legendary Duelists: Synchro Storm",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP25-JP036",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -81,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

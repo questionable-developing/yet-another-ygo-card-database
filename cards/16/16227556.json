@@ -1,12 +1,14 @@
 {
     "cid": "a9dacdbf-d98c-4a0f-b508-264f8744d6c2",
-    "yid": null,
+    "yid": 16227556,
     "password": "16227556",
     "kid": 4967,
     "name": "Inspection",
     "name_jp": "<ruby lang=\"jp\"><rb>検</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>閲</rb><rp> (</rp><rt>えつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ken'etsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CA-39",
+            "set": "Curse of Anubis (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-127",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,7 +80,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your opponent's hand"
+            "Reveals cards from your opponent's hand"
         ],
         "stat_change": [],
         "mst": [],
@@ -77,5 +95,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

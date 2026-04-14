@@ -1,12 +1,14 @@
 {
     "cid": "c00e10f5-bc66-44ce-836d-6f88991821e1",
-    "yid": null,
+    "yid": 27870033,
     "password": "27870033",
     "kid": 7884,
     "name": "Pursuit Chaser",
     "name_jp": "チェイス・スカッド",
     "name_jp_rom": "Cheisu Sukaddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chase Squad",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP016",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

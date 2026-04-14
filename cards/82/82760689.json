@@ -1,11 +1,14 @@
 {
     "cid": "b9a6c845-07ca-4dfd-a33a-ef5947f7d8d6",
+    "yid": 82760689,
     "password": "82760689",
     "kid": 7271,
     "name": "Lucky Cloud",
     "name_jp": "<ruby lang=\"jp\"><rb>宝札雲</rb><rp> (</rp><rt>ラッキークラウド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakkī Kuraudo",
+    "name_jp_rom_base": "Hōsatsugumo",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Treasure Cards Cloud",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GLAS-EN050",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP050",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

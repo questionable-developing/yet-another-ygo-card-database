@@ -1,11 +1,14 @@
 {
     "cid": "cc44fbfc-e110-4374-8ef4-bbd0458c58ed",
+    "yid": 76840111,
     "password": "76840111",
     "kid": 19211,
     "name": "Soul of the Supreme Celestial King",
     "name_jp": "<ruby lang=\"jp\"><rb>覇</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Haōtenryū no Tamashī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Soul of the Supreme King Celestial Dragon",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "AGOV-EN069",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP069",
             "set": "Age of Overlord",
             "rarities": {
                 "Common": []
@@ -102,5 +114,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

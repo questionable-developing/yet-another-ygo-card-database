@@ -1,11 +1,14 @@
 {
     "cid": "35700856-53e2-43d9-a8f6-406f27ee809a",
+    "yid": 72405967,
     "password": "72405967",
     "kid": 5540,
     "name": "Royal Tribute",
     "name_jp": "<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>家</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>け<ruby lang=\"jp\"><rb>贄</rb><rp> (</rp><rt>にえ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōke no Ikenie",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "301-039",
+            "set": "The New Ruler",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP039",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

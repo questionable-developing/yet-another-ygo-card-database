@@ -1,11 +1,14 @@
 {
     "cid": "f15c0d64-fe26-4faf-b26f-a86618dff2c8",
+    "yid": 66707058,
     "password": "66707058",
     "kid": 7295,
     "name": "Goblin Black Ops",
     "name_jp": "ゴブリン<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Ansatsu Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Goblin Assassination Force",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GLAS-EN030",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP030",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Rare": []
@@ -75,5 +87,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

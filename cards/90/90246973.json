@@ -1,11 +1,14 @@
 {
     "cid": "33d5a3ef-1889-43fa-a1a9-ef08ec208746",
+    "yid": 90246973,
     "password": "90246973",
     "kid": 8664,
     "name": "Power Pickaxe",
     "name_jp": "パワー・ピカクス",
     "name_jp_rom": "Pawā Pikakusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ABPF-EN053",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP053",
             "set": "Absolute Powerforce",
             "rarities": {
                 "Rare": []
@@ -69,5 +81,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9edd93cc-d328-4b18-8970-e8a69c67b094",
+    "yid": 70156946,
     "password": "70156946",
     "kid": 15004,
     "name": "Lantern Shark",
     "name_jp": "ランタン・シャーク",
     "name_jp_rom": "Rantan Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP018",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AC04-JP034",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

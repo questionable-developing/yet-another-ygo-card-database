@@ -1,11 +1,14 @@
 {
     "cid": "bbe6d238-eca1-4c75-831e-54af8b2c4fc4",
+    "yid": 69514125,
     "password": "69514125",
     "kid": 7864,
     "name": "Avenging Knight Parshath",
     "name_jp": "<ruby lang=\"jp\"><rb>神聖騎士</rb><rp> (</rp><rt>ホーリーナイト</rt><rp>)</rp></ruby>パーシアス",
     "name_jp_rom": "Hōrī Naito Pāshiasu",
+    "name_jp_rom_base": "Shinsei Kishi Pāshiasu",
     "name_jp_tl": "Holy Knight Perseus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP011",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "17TP-JP306",
+            "set": "Tournament Pack 2017 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

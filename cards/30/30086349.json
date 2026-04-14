@@ -1,12 +1,14 @@
 {
     "cid": "97822e3b-0b06-4da2-935a-6eb3fef7ec72",
-    "yid": null,
+    "yid": 30086349,
     "password": "30086349",
     "kid": 12631,
     "name": "Meteor Black Comet Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>流</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>メテオ・ブラック・ドラゴン",
     "name_jp_rom": "Ryūseiryū Meteo Burakku Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Meteor Black Dragon, the Comet Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP041",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP114",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

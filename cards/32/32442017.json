@@ -1,12 +1,14 @@
 {
     "cid": "ffe92eeb-60b4-4949-a5d7-b5b87198914a",
-    "yid": null,
+    "yid": 32442017,
     "password": "32442017",
     "kid": 21823,
     "name": "DoomZ Raiders",
     "name_jp": "<ruby lang=\"jp\"><rb>終刻撃針</rb><rp> (</rp><rt>ドゥームズ・レイダー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dūmuzu Reidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "DoomZ Raider",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Doom of Dimensions",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP057",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -84,5 +95,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

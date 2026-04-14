@@ -1,11 +1,14 @@
 {
     "cid": "39f6f670-a655-4bb8-9020-bf6c3b89064c",
+    "yid": 54178659,
     "password": "54178659",
     "kid": 13334,
     "name": "The Weather Painter Rainbow",
     "name_jp": "<ruby lang=\"jp\"><rb>虹</rb><rp> (</rp><rt>にじ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>アルシエル",
     "name_jp_rom": "Nijitenki Arushieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rainbow Weather Arciel",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -55,6 +58,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP035",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP043",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +120,6 @@
             "Cover card",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

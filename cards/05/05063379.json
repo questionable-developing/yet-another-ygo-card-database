@@ -1,12 +1,14 @@
 {
     "cid": "a383f182-d8cd-4793-b3b3-587dc4ffbd2c",
-    "yid": null,
+    "yid": 5063379,
     "password": "05063379",
     "kid": 20797,
     "name": "Flavian - Colosseum of the Gladiator Beasts",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>技</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>場</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>－フラヴィス",
     "name_jp_rom": "Guradiaru Bīsuto no Tōgijō - Furavisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Arena of the Gladial Beast - Flavius",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN060",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP060",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

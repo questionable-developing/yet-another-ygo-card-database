@@ -1,11 +1,14 @@
 {
     "cid": "bb612c1a-85e8-4a06-b4db-ede1659c403c",
+    "yid": 40456412,
     "password": "40456412",
     "kid": 19210,
     "name": "Miracle of the Supreme King",
     "name_jp": "<ruby lang=\"jp\"><rb>覇</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>奇</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>跡</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Haōryū no Kiseki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Miracle of the Supreme King Dragon",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -39,6 +42,15 @@
     "sets": [
         {
             "sid": "AGOV-EN068",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP068",
             "set": "Age of Overlord",
             "rarities": {
                 "Common": []
@@ -91,5 +103,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

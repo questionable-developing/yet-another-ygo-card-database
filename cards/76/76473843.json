@@ -1,11 +1,14 @@
 {
     "cid": "0275dfc9-ee32-4965-be44-a6d0d8f14c3b",
+    "yid": 76473843,
     "password": "76473843",
     "kid": 12002,
     "name": "Majesty's Pegasus",
     "name_jp": "マジェスティック<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ペガサス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majesutikku Pegasasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Majestic Pegasus",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Dimension of Chaos",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP058",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

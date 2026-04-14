@@ -1,11 +1,14 @@
 {
     "cid": "7f9d693e-627d-4ec4-8829-9476490fefee",
+    "yid": 77901552,
     "password": "77901552",
     "kid": 10045,
     "name": "Hieratic Dragon of Tefnuit",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－トフェニドラゴン",
     "name_jp_rom": "Seikokuryū - Tofeni Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hieroglyphic Dragon - Tfeni Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -71,6 +74,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP022",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP033",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +132,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

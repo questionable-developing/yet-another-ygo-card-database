@@ -1,11 +1,14 @@
 {
     "cid": "480ca443-4695-40f0-af34-435a0aca970d",
+    "yid": 55158350,
     "password": "55158350",
     "kid": 21836,
     "name": "Fusion Draft",
     "name_jp": "<ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>募</rb><rp> (</rp><rt>ぼ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yūgō Bohei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DOOD-EN070",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP070",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

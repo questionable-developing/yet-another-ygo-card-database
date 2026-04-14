@@ -1,11 +1,14 @@
 {
     "cid": "dc0795b6-030c-4987-86c6-8389aa24fd64",
+    "yid": 38814750,
     "password": "38814750",
     "kid": 12070,
     "name": "PSY-Framegear Gamma",
     "name_jp": "<ruby lang=\"jp\"><rb>ＰＳＹ</rb><rp> (</rp><rt>サイ</rt><rp>)</rp></ruby>フレームギア・<ruby lang=\"jp\"><rb>γ</rb><rp> (</rp><rt>ガンマ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saifurēmu Gia Ganma",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. When your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. Once per Chain, when your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
     "pend_eff": null,
-    "mnst_eff": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. When your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
-    "eff": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. When your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+    "mnst_eff": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. Once per Chain, when your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
+    "eff": "Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. Once per Chain, when your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 \"PSY-Frame Driver\" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "PSYFramegearGamma-MGED-EN-PGR-1E.png",
+            "full": "PSYFramegearGamma-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -63,6 +66,53 @@
             "set": "Maximum Gold: El Dorado",
             "rarities": {
                 "Premium Gold Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN006",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPHR-JP031",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP089",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20CP-JPC04",
+            "set": "20th Secret Rare Challenge Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP055",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -111,5 +161,6 @@
             "Requires control of no monsters",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

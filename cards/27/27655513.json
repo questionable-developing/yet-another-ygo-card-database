@@ -1,12 +1,14 @@
 {
     "cid": "cc3d3f2c-f3ce-42c1-af18-9b09adf9197d",
-    "yid": null,
+    "yid": 27655513,
     "password": "27655513",
     "kid": 7486,
     "name": "Skreech",
     "name_jp": "スクリーチ",
     "name_jp_rom": "Sukurīchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP019",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD23-JP015",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

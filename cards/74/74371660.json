@@ -1,11 +1,14 @@
 {
     "cid": "c6cf81a2-5f16-4f53-9004-2ba824e5da3e",
+    "yid": 74371660,
     "password": "74371660",
     "kid": 10268,
     "name": "Mermail Abyssgaios",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－ガイオアビス",
     "name_jp_rom": "Māmeiru - Gaioabisu",
+    "name_jp_rom_base": "Suiseirin - Gaioabisu",
     "name_jp_tl": "Mermail Gaioabyss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP046",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +111,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

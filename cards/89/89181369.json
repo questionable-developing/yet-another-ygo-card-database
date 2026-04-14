@@ -1,11 +1,14 @@
 {
     "cid": "74a279ec-e99b-4f7c-a217-2f331dbb4b15",
+    "yid": 89181369,
     "password": "89181369",
     "kid": 9346,
     "name": "Stardust Shimmer",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>ほし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>屑</rb><rp> (</rp><rt>くず</rt><rp>)</rp></ruby>のきらめき",
     "name_jp_rom": "Hoshikuzu no Kirameki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "STOR-EN055",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP055",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Super Rare": []
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

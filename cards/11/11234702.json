@@ -1,12 +1,14 @@
 {
     "cid": "7ce4cb79-984b-4763-896b-48280474f13b",
-    "yid": null,
+    "yid": 11234702,
     "password": "11234702",
     "kid": 14086,
     "name": "T.G. Screw Serpent",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> スクリュー・サーペント",
     "name_jp_rom": "Tekku Jīnasu Sukuryū Sāpento",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Screw Serpent",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -42,6 +44,24 @@
             "set": "Savage Strike",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP009",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP037",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -89,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

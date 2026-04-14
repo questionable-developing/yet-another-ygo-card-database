@@ -1,12 +1,14 @@
 {
     "cid": "45d4005d-de8e-455c-bcc6-36ebeba0f907",
-    "yid": null,
+    "yid": 23431858,
     "password": "23431858",
     "kid": 14460,
     "name": "Tenyi Spirit - Vishuda",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－ヴィシュダ",
     "name_jp_rom": "Ten'iryū - Vishuda",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tenyi Dragon - Vishuda",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -79,6 +81,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP016",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -117,5 +128,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

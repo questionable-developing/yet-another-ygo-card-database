@@ -1,12 +1,14 @@
 {
     "cid": "8b1610ae-7953-44f8-ad1f-5e6cba79d0eb",
-    "yid": null,
+    "yid": 31550470,
     "password": "31550470",
     "kid": 7471,
     "name": "Escape from the Dark Dimension",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>次</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>元</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>解</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>放</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yamijigen no Kaihō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Dimension's Release",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -83,6 +85,65 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP072",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SD21-JP037",
+            "set": "Structure Deck: Devil's Gate",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD22-JP039",
+            "set": "Structure Deck: Dragonic Legion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP104",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS13-JPD36",
+            "set": "Duelist Set: Version Dark Returner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD30-JP039",
+            "set": "Structure Deck: Pendulum Domination",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPDS-JP045",
+            "set": "Booster SP: Destiny Soldiers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD38-JP036",
+            "set": "Structure Deck: Sacred Beasts of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,7 +166,7 @@
             "Destroys itself"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -116,5 +177,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "db1e5adc-826f-432c-8b80-123e804e5cdc",
+    "yid": 50588353,
     "password": "50588353",
     "kid": 13508,
     "name": "Crystron Halqifibrax",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－ハリファイバー",
     "name_jp_rom": "Kurisutoron - Harifaibā",
+    "name_jp_rom_base": "Suishōkikō - Harifaibā",
     "name_jp_tl": "Crystron - Glassfiber",
+    "name_jp_tl_base": "Crystal Machine - Glassfiber",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -61,6 +64,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP091",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP027",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,7 +124,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "78078b65-17b8-4c55-acf0-65159aef10fb",
+    "yid": 85636437,
     "password": "85636437",
     "kid": 14145,
     "name": "Edge of the Ring",
     "name_jp": "<ruby lang=\"jp\"><rb>土</rb><rp> (</rp><rt>ど</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>俵</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>間</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>際</rb><rp> (</rp><rt>ぎわ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dohyō Magiwa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP068",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +80,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

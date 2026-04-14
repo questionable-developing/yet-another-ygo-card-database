@@ -1,11 +1,14 @@
 {
     "cid": "f3ab7aab-0343-4917-856e-e7536dc4d235",
+    "yid": 68769900,
     "password": "68769900",
     "kid": 15076,
     "name": "Redbeard, the Plunder Patroll Matey",
     "name_jp": "<ruby lang=\"jp\"><rb>海造賊</rb><rp> (</rp><rt>プランドロール</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>赤</rb><rp> (</rp><rt>あか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>髭</rb><rp> (</rp><rt>ひげ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>航</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Purandorōru - Akahige no Kōkaishi",
+    "name_jp_rom_base": "Kaizōzoku - Akahige no Kōkaishi",
     "name_jp_tl": "Plundroll - Red-Bearded Navigator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP031",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Archetype-exclusion condition",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

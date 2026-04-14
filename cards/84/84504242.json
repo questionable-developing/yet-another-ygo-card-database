@@ -1,11 +1,14 @@
 {
     "cid": "4be38642-883c-4632-b7ff-cd764aaaa8ff",
+    "yid": 84504242,
     "password": "84504242",
     "kid": 14866,
     "name": "Megalith Portal",
     "name_jp": "メガリス・ポータル",
     "name_jp_rom": "Megarisu Pōtaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "IGAS-EN057",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP057",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

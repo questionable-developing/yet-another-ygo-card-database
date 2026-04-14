@@ -1,11 +1,14 @@
 {
     "cid": "5d5dc977-4f4a-46ef-8b85-3ad92772c519",
+    "yid": 42671151,
     "password": "42671151",
     "kid": 9362,
     "name": "The Golden Apples",
     "name_jp": "フリッグのリンゴ",
     "name_jp_rom": "Furiggu no Ringo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Apple of Frigg",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -83,6 +86,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP071",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP18-JP050",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +140,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

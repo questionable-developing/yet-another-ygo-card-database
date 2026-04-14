@@ -6,7 +6,9 @@
     "name": "Duke Archfiend",
     "name_jp": "デューク・デーモン",
     "name_jp_rom": "Dyūku Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Duke Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "BPRO-EN015",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BPRO-JP015",
             "set": "Burst Protocol",
             "rarities": {
                 "Common": []

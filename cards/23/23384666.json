@@ -1,12 +1,14 @@
 {
     "cid": "65beadaf-a379-448a-898f-98bcdd9b9b30",
-    "yid": null,
+    "yid": 23384666,
     "password": "23384666",
     "kid": 16206,
     "name": "Gizmek Taniguku, the Immobile Intellect",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巧</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛙</rb><rp> (</rp><rt>わ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>磐盾多邇具久</rb><rp> (</rp><rt>イワタテノタニグク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kikōwa - Iwatate no Taniguku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mechanical Frog - Iwatate-no-Taniguku",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP017",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP406",
+            "set": "Tournament Pack 2025 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

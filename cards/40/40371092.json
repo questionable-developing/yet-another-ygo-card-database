@@ -1,11 +1,14 @@
 {
     "cid": "46fd0046-fe17-4960-b57e-b6dbbc95f16c",
+    "yid": 40371092,
     "password": "40371092",
     "kid": 10825,
     "name": "Gaia, the Mid-Knight Sun",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>びゃく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>夜</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ガイア",
     "name_jp_rom": "Byakuya no Kishi Gaia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gaia, the Knight of White Nights",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VE09-JP003",
+            "set": "V Jump Edition 9",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -57,13 +69,12 @@
             "Warrior"
         ],
         "asup": [],
-        "arc": [
-            "Gaia Knight"
-        ],
+        "arc": [],
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "Chaos"
+            "Chaos",
+            "Gaia The Fierce Knight (archetype)"
         ],
         "counter": [],
         "action": [
@@ -89,5 +100,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

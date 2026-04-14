@@ -1,12 +1,14 @@
 {
     "cid": "bb382af0-0d68-4f54-97c8-b048aa55281d",
-    "yid": null,
+    "yid": 14554127,
     "password": "14554127",
     "kid": 21346,
     "name": "Tiki Peace",
     "name_jp": "ピース・オブ・スタチュー",
     "name_jp_rom": "Pīsu Obu Sutachū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Peace of Statue",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "ALIN-EN089",
             "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP078",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -72,7 +83,7 @@
         "summoning": [
             "Special Summons itself from your Spell & Trap Zone",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -84,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "2afe358c-c372-4532-a11d-71e1b5114254",
-    "yid": null,
+    "yid": 20201255,
     "password": "20201255",
     "kid": 14683,
     "name": "Gladiator Beast's Comeback",
     "name_jp": "<ruby lang=\"jp\"><rb>再</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>起</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saiki-suru Guradiaru Bīsuto",
+    "name_jp_rom_base": "Saiki-suru Kentōjū",
     "name_jp_tl": "Rallying Gladial Beast",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP056",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

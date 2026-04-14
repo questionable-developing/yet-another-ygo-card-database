@@ -1,12 +1,14 @@
 {
     "cid": "8a94e8b2-b09a-4c0d-8e70-f2a6ff31f948",
-    "yid": null,
+    "yid": 33256280,
     "password": "33256280",
     "kid": 12422,
     "name": "Metalfoes Goldriver",
     "name_jp": "メタルフォーゼ・ゴルドライバー",
     "name_jp_rom": "Metarufōze Gorudoraibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Metalphosis Goldriver",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -66,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP023",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP1-JP087",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -101,5 +119,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

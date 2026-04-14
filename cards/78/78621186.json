@@ -1,11 +1,14 @@
 {
     "cid": "a4f9ef3c-70fc-4dda-8d9a-2cf5ae4176e5",
+    "yid": 78621186,
     "password": "78621186",
     "kid": 11278,
     "name": "Battleguard Howling",
     "name_jp": "バーバリアン・ハウリング",
     "name_jp_rom": "Bābarian Hauringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Barbarian Howling",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP069",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR09-JP036",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

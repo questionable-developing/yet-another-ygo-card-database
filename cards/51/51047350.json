@@ -1,11 +1,14 @@
 {
     "cid": "6c857edc-0898-4eb3-96c4-7c1396f70d2e",
+    "yid": 51047350,
     "password": "51047350",
     "kid": 8781,
     "name": "Card Breaker",
     "name_jp": "カード・ブレイカー",
     "name_jp_rom": "Kādo Bureikā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP005",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP10-JP005",
+            "set": "Duelist Pack: Yusei 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

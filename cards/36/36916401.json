@@ -1,12 +1,14 @@
 {
     "cid": "1ece5333-90af-46e6-b834-1b9157f007ef",
-    "yid": null,
+    "yid": 36916401,
     "password": "36916401",
     "kid": 10791,
     "name": "Battlin' Boxing Spirits",
     "name_jp": "バーニングナックル・スピリッツ",
     "name_jp_rom": "Bāningu Nakkuru Supirittsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckle Spirits",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP060",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP045",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

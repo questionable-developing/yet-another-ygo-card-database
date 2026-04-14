@@ -1,11 +1,14 @@
 {
     "cid": "0d205423-6e78-4cf1-a26b-bf519041f743",
+    "yid": 76202610,
     "password": "76202610",
     "kid": 9876,
     "name": "Darklon",
     "name_jp": "ダークロン",
     "name_jp_rom": "Dākuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP002",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

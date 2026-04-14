@@ -1,12 +1,14 @@
 {
     "cid": "4120d095-094a-40d5-98f5-584cb933cde6",
-    "yid": null,
+    "yid": 26725158,
     "password": "26725158",
     "kid": 4869,
     "name": "Exile of the Wicked",
     "name_jp": "<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>払</rb><rp> (</rp><rt>ばら</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Akumabarai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Exorcism",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,13 +55,52 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Booster 6",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "B3-47",
+            "set": "Booster R3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BC-77",
+            "set": "Booster Chronicle",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DL4-119",
+            "set": "Duelist Legacy Volume.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP23-JP009",
+            "set": "Tournament Pack 2012 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Effect"
         ],
         "mentions": [],
-        "sup": [],
+        "sup": [
+            "Fiend"
+        ],
         "asup": [
             "Fiend"
         ],
@@ -80,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

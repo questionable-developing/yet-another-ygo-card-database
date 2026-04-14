@@ -1,11 +1,14 @@
 {
     "cid": "2571e054-11de-4723-a125-7fe32e12c8f9",
+    "yid": 43237273,
     "password": "43237273",
     "kid": 6772,
     "name": "Neo-Spacian Dark Panther",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎ</rb><rp> (</rp><rt>ネオスペーシアン</rt><rp>)</rp></ruby>・ブラック・パンサー",
     "name_jp_rom": "Neosupēshian Burakku Pansā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Neo-Spacian Black Panther",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -72,6 +75,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP005",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP03-JP007",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP005",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19TP-JP103",
+            "set": "Tournament Pack 2019 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +147,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

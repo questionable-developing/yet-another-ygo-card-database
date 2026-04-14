@@ -1,12 +1,14 @@
 {
     "cid": "4086be75-f5f2-455f-abc0-f5355a21b1d4",
-    "yid": null,
+    "yid": 15313433,
     "password": "15313433",
     "kid": 8843,
     "name": "Infernity Reflector",
     "name_jp": "インフェルニティ・リフレクター",
     "name_jp_rom": "Inferuniti Rifurekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "InfernityReflector-TSHD-JP-C.jpg",
+            "art": "InfernityReflector-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "InfernityReflector-TSHD-EN-C-UE.png",
-            "art": null
+            "art": "InfernityReflector-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TSHD-EN068",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP068",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -75,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

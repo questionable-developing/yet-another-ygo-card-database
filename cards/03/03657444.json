@@ -1,12 +1,14 @@
 {
     "cid": "f4d5fa48-b44f-498a-8548-ab12bf5aefbb",
-    "yid": null,
+    "yid": 3657444,
     "password": "03657444",
     "kid": 7413,
     "name": "Cyber Valley",
     "name_jp": "サイバー・ヴァリー",
     "name_jp_rom": "Saibā Varī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cyber Vary",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -110,6 +112,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP010",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD18-JP019",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP071",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD26-JP006",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD41-JP011",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -147,5 +186,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

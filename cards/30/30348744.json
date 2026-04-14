@@ -1,12 +1,14 @@
 {
     "cid": "9776f135-cc4e-459b-8eec-6faeab1a4a3d",
-    "yid": null,
+    "yid": 30348744,
     "password": "30348744",
     "kid": 14560,
     "name": "T.G. Drill Fish",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> ドリル・フィッシュ",
     "name_jp_rom": "Tekku Jīnasu Doriru Fisshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Drill Fish",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP19-JP027",
+            "set": "Collection Pack: Duelist of Revolution Version",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

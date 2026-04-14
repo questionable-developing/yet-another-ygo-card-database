@@ -1,11 +1,14 @@
 {
     "cid": "43318603-2bcb-439f-b745-70d6191beefe",
+    "yid": 74591968,
     "password": "74591968",
     "kid": 6104,
     "name": "Mystic Swordsman LV4",
     "name_jp": "ミスティック・ソードマン <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>４",
     "name_jp_rom": "Misutikku Sōdoman Reberu Fō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -65,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP012",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SD5-JP014",
+            "set": "Structure Deck: Warrior's Triumph",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP012",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +130,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

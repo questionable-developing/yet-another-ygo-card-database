@@ -1,11 +1,14 @@
 {
     "cid": "5afb669b-354f-4d44-8965-d460aabebdd7",
+    "yid": 63060238,
     "password": "63060238",
     "kid": 11419,
     "name": "Elemental HERO Blazeman",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ブレイズマン",
     "name_jp_rom": "Erementaru Hīro Bureizuman",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -64,6 +67,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP087",
+            "set": "The New Challengers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP012",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,7 +129,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only 1 effect once per turn"
+            "Only 1 effect once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

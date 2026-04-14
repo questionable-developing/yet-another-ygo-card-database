@@ -1,11 +1,14 @@
 {
     "cid": "4f7fd82d-1c29-4ce7-a41d-028858e8c042",
+    "yid": 71340250,
     "password": "71340250",
     "kid": 13184,
     "name": "Mixeroid",
     "name_jp": "ミキサーロイド",
     "name_jp_rom": "Mikisāroido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP029",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +117,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

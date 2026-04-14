@@ -1,12 +1,14 @@
 {
     "cid": "556e2b01-312c-4cae-9750-7fdfae13b4cc",
-    "yid": null,
+    "yid": 10002346,
     "password": "10002346",
     "kid": 9576,
     "name": "Gachi Gachi Gantetsu",
     "name_jp": "ガチガチガンテツ",
     "name_jp_rom": "Gachigachi Gantetsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -53,6 +55,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "YSD6-JP042",
+            "set": "Starter Deck 2011",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "GS05-JP011",
+            "set": "Gold Series 2013",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "24EP-JP306",
+            "set": "Event Pack 2024 Vol.3",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

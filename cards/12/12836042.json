@@ -1,12 +1,14 @@
 {
     "cid": "9ae50213-f022-40ce-b5e1-d42ebf8ff2e7",
-    "yid": null,
+    "yid": 12836042,
     "password": "12836042",
     "kid": 10260,
     "name": "Missing Force",
     "name_jp": "はぐれ<ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>もの</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>傭</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Haguremono Yōheibutai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stray Mercenary Force",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP038",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "misc": [
             "Requires control of no other monsters"
         ]
-    }
+    },
+    "links": {}
 }

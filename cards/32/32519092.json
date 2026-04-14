@@ -1,12 +1,14 @@
 {
     "cid": "d738c886-7e2c-41df-8b1c-dca292e2da20",
-    "yid": null,
+    "yid": 32519092,
     "password": "32519092",
     "kid": 14491,
     "name": "Monk of the Tenyi",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>拳</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>僧</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ten'i no Kensō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pugilist Monk of the Tenyi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -68,6 +70,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP043",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -99,5 +110,6 @@
         "misc": [
             "Non-Effect Monster"
         ]
-    }
+    },
+    "links": {}
 }

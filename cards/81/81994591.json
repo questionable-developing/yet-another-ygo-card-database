@@ -1,11 +1,14 @@
 {
     "cid": "445565b2-6374-494a-a723-0616ffbdb860",
+    "yid": 81994591,
     "password": "81994591",
     "kid": 11094,
     "name": "Diamond Core of Koa'ki Meiru",
     "name_jp": "コアキメイルの<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>核</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Koakimeiru no Kongōkaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Diamond Core of Core Chimail",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PRIO-EN065",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP065",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

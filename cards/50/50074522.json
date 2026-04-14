@@ -1,11 +1,14 @@
 {
     "cid": "084120d2-b575-4930-9d29-3d78d303088e",
+    "yid": 50074522,
     "password": "50074522",
     "kid": 7439,
     "name": "Magnetic Mosquito",
     "name_jp": "<ruby lang=\"jp\"><rb>電磁蚊</rb><rp> (</rp><rt>モスキート・マグネ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mosukīto Magune",
+    "name_jp_rom_base": "Denjika",
     "name_jp_tl": "Mosquito Magne",
+    "name_jp_tl_base": "Electromagnetic Mosquito",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP039",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

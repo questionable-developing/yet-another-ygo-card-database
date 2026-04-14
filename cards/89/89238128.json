@@ -1,11 +1,14 @@
 {
     "cid": "56d9230c-f46f-4757-8d74-a19885bf8b8a",
+    "yid": 89238128,
     "password": "89238128",
     "kid": 13341,
     "name": "Cyberse Accelerator",
     "name_jp": "サイバース・アクセラレーター",
     "name_jp_rom": "Saibāsu Akuserarētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VP17-JP001",
+            "set": "LINK VRAINS Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

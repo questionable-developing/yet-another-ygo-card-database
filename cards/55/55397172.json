@@ -1,11 +1,14 @@
 {
     "cid": "b7d1cd97-b143-45ab-b0d9-b9514f7157c0",
+    "yid": 55397172,
     "password": "55397172",
     "kid": 21055,
     "name": "Futsu no Mitama no Mitsurugi",
-    "name_jp": "<ruby lang=\"jp\"><rb>布都御魂</rb><rp> (</rp><rt>フツノミタマ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>ノ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>布都御魂之巳剣</rb><rp> (</rp><rt>フツノミタマノミツルギ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Futsu no Mitama no Mitsurugi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serpent Sword of Severing Spirit",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,7 +33,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "FutsunoMitamanoMitsurugi-SUDA-EN-SR-1E.png",
+            "full": "FutsunoMitamanoMitsurugi-L26D-EN-UR-1E.png",
             "art": null
         }
     },
@@ -44,10 +47,21 @@
             }
         },
         {
-            "sid": "L26D-EN???",
+            "sid": "L26D-ENM09",
             "set": "Legendary Modern Decks 2026",
             "rarities": {
-                "": []
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP034",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -92,7 +106,9 @@
         "smat": [],
         "misc": [
             "Once per Chain",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

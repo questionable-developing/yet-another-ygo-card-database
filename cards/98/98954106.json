@@ -1,11 +1,14 @@
 {
     "cid": "fbf6da14-7e91-4b54-a36f-68fbc55620e2",
+    "yid": 98954106,
     "password": "98954106",
     "kid": 11749,
     "name": "Jar of Avarice",
     "name_jp": "<ruby lang=\"jp\"><rb>貪</rb><rp> (</rp><rt>どん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>瓶</rb><rp> (</rp><rt>かめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Don'yoku na Kame",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -82,6 +85,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP074",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "7fca0498-f046-4059-b70f-aa3b6d722c25",
-    "yid": null,
+    "yid": 20654247,
     "password": "20654247",
     "kid": 13842,
     "name": "Blue-Eyes Chaos Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>青眼の混沌龍</rb><rp> (</rp><rt>ブルーアイズ・カオス・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burūaizu Kaosu Doragon",
+    "name_jp_rom_base": "Seigan no Kontonryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP001",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP009",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +122,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

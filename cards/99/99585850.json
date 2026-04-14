@@ -1,11 +1,14 @@
 {
     "cid": "15ff4971-f0a1-448d-a453-3c69eaf61c46",
+    "yid": 99585850,
     "password": "99585850",
     "kid": 14957,
     "name": "Red Supernova Dragon",
     "name_jp": "スカーレッド・スーパーノヴァ・ドラゴン",
     "name_jp_rom": "Sukāreddo Sūpānova Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scarred Supernova Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,10 +34,15 @@
         "1": {
             "idx": "1",
             "full": "RedSupernovaDragon-SDCK-EN-SR-1E.png",
+            "art": "RedSupernovaDragon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "RedSupernovaDragon-LOSP-JP-PScR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "GFTP-EN045",
@@ -48,6 +56,47 @@
             "set": "Structure Deck: The Crimson King",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "BLGG-EN???",
+            "set": "Battles of Legend: Glorious Gallery",
+            "rarities": {
+                "Ultra Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LGB1-JP021",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP026",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP044",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LOSP-JP013",
+            "set": "Limit Over Special Pack Vol.2",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -100,5 +149,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

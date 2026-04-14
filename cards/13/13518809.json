@@ -1,12 +1,14 @@
 {
     "cid": "ecbd5f55-bd1c-44d4-b497-6bed70f0d8a2",
-    "yid": null,
+    "yid": 13518809,
     "password": "13518809",
     "kid": 13745,
     "name": "Ruin, Supreme Queen of Oblivion",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>滅</rb><rp> (</rp><rt>めつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>美</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>ルイン",
     "name_jp_rom": "Hametsu no Bishin Ruin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ruin, Beautiful Goddess of Destruction",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP029",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP026",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +113,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

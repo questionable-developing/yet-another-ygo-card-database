@@ -1,11 +1,14 @@
 {
     "cid": "2aba8fea-3f7a-4f66-989a-f846ca68f573",
+    "yid": 61948106,
     "password": "61948106",
     "kid": 11576,
     "name": "Gottoms' Second Call",
     "name_jp": "ガトムズの<ruby lang=\"jp\"><rb>非</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>常</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>集</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gatomuzu no Hijōshōshū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gottoms' Emergency Call",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -18,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "If you control an \"X-Saber\" Synchro Monster: You can target 2 \"X-Saber\" monsters in your Graveyard; Special Summon both targets, ignoring their Summoning conditions, but change their ATK to 0, also destroy them during the End Phase of this turn. You can only activate 1 \"Gottoms' Second Call\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
+    "desc": "If you control an \"X-Saber\" Synchro Monster: You can target 2 \"X-Saber\" monsters in your GY; Special Summon both targets, ignoring their Summoning conditions, but change their ATK to 0, also destroy them during the End Phase of this turn. You can only activate 1 \"Gottoms' Second Call\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "If you control an \"X-Saber\" Synchro Monster: You can target 2 \"X-Saber\" monsters in your Graveyard; Special Summon both targets, ignoring their Summoning conditions, but change their ATK to 0, also destroy them during the End Phase of this turn. You can only activate 1 \"Gottoms' Second Call\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
+    "eff": "If you control an \"X-Saber\" Synchro Monster: You can target 2 \"X-Saber\" monsters in your GY; Special Summon both targets, ignoring their Summoning conditions, but change their ATK to 0, also destroy them during the End Phase of this turn. You can only activate 1 \"Gottoms' Second Call\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "GottomsSecondCall-SECE-EN-R-1E.png",
+            "full": "GottomsSecondCall-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -37,6 +40,30 @@
             "set": "Secrets of Eternity",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX19",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP056",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP015",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -82,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

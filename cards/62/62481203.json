@@ -1,11 +1,14 @@
 {
     "cid": "0abcd1e0-ab29-4ab9-9ec6-16b7f4af6fe9",
+    "yid": 62481203,
     "password": "62481203",
     "kid": 14787,
     "name": "Trickstar Festival",
     "name_jp": "トリックスター・フェス",
     "name_jp_rom": "Torikkusutā Fesu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trickstar Fes",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TrickstarFestival-DP29-JP-C.png",
+            "art": "TrickstarFestival-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TrickstarFestival-MP22-EN-C-1E.png",
-            "art": null
+            "art": "TrickstarFestival-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DAMA-EN098",
@@ -42,6 +50,23 @@
         {
             "sid": "MP22-EN184",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVDS-JPA05",
+            "set": "LINK VRAINS Duelist Set",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP050",
+            "set": "Duelist Pack: Duelists of Brilliance",
             "rarities": {
                 "Common": []
             }
@@ -89,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

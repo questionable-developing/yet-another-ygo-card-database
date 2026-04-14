@@ -1,11 +1,14 @@
 {
     "cid": "f8bdca82-91b5-4100-a839-7a8199eecdf9",
+    "yid": 51205763,
     "password": "51205763",
     "kid": 13234,
     "name": "Krawler Glial",
     "name_jp": "クローラー・グリア",
     "name_jp_rom": "Kurōrā Guria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Krawler Glia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "CIBR-EN018",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP018",
             "set": "Circuit Break",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

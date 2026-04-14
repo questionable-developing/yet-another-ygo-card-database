@@ -1,12 +1,14 @@
 {
     "cid": "9fa5c3a9-be22-4b0d-9eaa-e59d808b578d",
-    "yid": null,
+    "yid": 20003027,
     "password": "20003027",
     "kid": 15253,
     "name": "Melffy Puppy",
     "name_jp": "メルフィー・パピィ",
     "name_jp_rom": "Merufī Papyi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP019",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP173",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

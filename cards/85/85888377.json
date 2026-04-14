@@ -1,11 +1,14 @@
 {
     "cid": "1e522fd8-e50c-4d0f-842d-ab81d1360c50",
+    "yid": 85888377,
     "password": "85888377",
     "kid": 17728,
     "name": "Apophis the Swamp Deity",
     "name_jp": "<ruby lang=\"jp\"><rb>澱</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>アポピス",
     "name_jp_rom": "Denshin Apopisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VP22-JP003",
+            "set": "Pharaonic Legend Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "WPP6-JP014",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

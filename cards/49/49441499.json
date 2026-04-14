@@ -1,11 +1,14 @@
 {
     "cid": "2b432e95-0820-4a94-8031-287be0f18b3c",
+    "yid": 49441499,
     "password": "49441499",
     "kid": 6097,
     "name": "Ultimate Insect LV1",
     "name_jp": "アルティメット・インセクト <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>１",
     "name_jp_rom": "Arutimetto Insekuto Reberu Wan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP005",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP005",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

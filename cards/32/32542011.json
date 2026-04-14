@@ -1,12 +1,14 @@
 {
     "cid": "1d735d09-029d-4771-baab-cfbbc03dde8b",
-    "yid": null,
+    "yid": 32542011,
     "password": "32542011",
     "kid": 10559,
     "name": "High Tide on Fire Island",
     "name_jp": "<ruby lang=\"jp\"><rb>燃</rb><rp> (</rp><rt>も</rt><rp>)</rp></ruby>え<ruby lang=\"jp\"><rb>上</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby>がる<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Moeagaru Taikai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Ocean up in Flames",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "LTGY-EN078",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP078",
             "set": "Lord of the Tachyon Galaxy",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
             "Requires control of specific Attribute",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

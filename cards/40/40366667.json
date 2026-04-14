@@ -6,7 +6,9 @@
     "name": "Dominus Impulse",
     "name_jp": "<ruby lang=\"jp\"><rb>霊王の波動</rb><rp> (</rp><rt>ドミナス・インパルス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dominasu Inparusu",
+    "name_jp_rom_base": "Reiō no Hadō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Spirit King's Wave",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -32,12 +34,12 @@
         },
         "2": {
             "idx": "2",
-            "full": "DominusImpulse-LOSP-JP-OP.png",
+            "full": "DominusImpulse-LOSP-JP-PScR.png",
             "art": null
         },
         "1.1": {
             "idx": "1.1",
-            "full": "DominusImpulse-MZMU-EN-UR-1E.png",
+            "full": "DominusImpulse-RA05-EN-CR-1E.png",
             "art": "DominusImpulse-MADU-EN-VG-artwork.png"
         }
     },
@@ -66,11 +68,46 @@
             }
         },
         {
+            "sid": "RA05-EN080",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Platinum Secret Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
             "sid": "BLGG-EN???",
             "set": "Battles of Legend: Glorious Gallery",
             "rarities": {
                 "Ultra Rare": [],
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP079",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTA-JP079",
+            "set": "Rage of the Abyss +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOSP-JP020",
+            "set": "Limit Over Special Pack Vol.2",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],

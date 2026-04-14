@@ -1,12 +1,14 @@
 {
     "cid": "b94e7ac8-eeb2-4bc3-9f47-7bc37da1b1be",
-    "yid": null,
+    "yid": 4647954,
     "password": "04647954",
     "kid": 15964,
     "name": "ZS - Ascended Sage",
     "name_jp": "<ruby lang=\"jp\"><rb>ＺＳ</rb><rp> (</rp><rt>ゼアル・サーバス</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>昇華賢者</rb><rp> (</rp><rt>アセンド・セージ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zearu Sābasu - Asendo Sēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Zexal Servers - Ascend Sage",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP003",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP064",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +111,6 @@
             "Requires control of no cards",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

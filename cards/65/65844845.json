@@ -1,11 +1,14 @@
 {
     "cid": "b6b42d79-8a05-459b-856a-22e211e49b1c",
+    "yid": 65844845,
     "password": "65844845",
     "kid": 10054,
     "name": "Inzektor Giga-Cricket",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ギガグリオル",
     "name_jp_rom": "Inzekutā Gigagurioru",
+    "name_jp_rom_base": "Kōchūsōki Gigagurioru",
     "name_jp_tl": "Inzektor Giga-Grillor",
+    "name_jp_tl_base": "Beetle Armed Machine Giga-Grillor",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN031",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP031",
             "set": "Galactic Overlord",
             "rarities": {
                 "Rare": []
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

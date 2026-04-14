@@ -1,11 +1,14 @@
 {
     "cid": "7911e0c5-e9ed-426d-890c-9607d1af1a2c",
+    "yid": 99000107,
     "password": "99000107",
     "kid": 12313,
     "name": "Gendo the Ascetic Monk",
     "name_jp": "<ruby lang=\"jp\"><rb>修</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禅</rb><rp> (</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>僧</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby> ゲンドウ",
     "name_jp_rom": "Shuzensō Gendō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP041",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

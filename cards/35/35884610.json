@@ -1,12 +1,14 @@
 {
     "cid": "06dce987-0b88-4306-9e48-ced1dca04ecc",
-    "yid": null,
+    "yid": 35884610,
     "password": "35884610",
     "kid": 11512,
     "name": "U.A. Powered Jersey",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕ．Ａ．</rb><rp> (</rp><rt>ウルトラアスリート</rt><rp>)</rp></ruby>パワードギプス",
     "name_jp_rom": "Urutora Asurīto Pawādogipusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ultra Athlete Powered Gips",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "NECH-EN089",
             "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP029",
+            "set": "Extra Pack 2015",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +97,6 @@
             "Equips only to a specific target",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "0182b1ab-b3e8-4b73-9bf8-c0ab7f59819a",
-    "yid": null,
+    "yid": 17415895,
     "password": "17415895",
     "kid": 7103,
     "name": "Volcanic Slicer",
     "name_jp": "ヴォルカニック・エッジ",
     "name_jp_rom": "Vorukanikku Ejji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Volcanic Edge",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -45,6 +47,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP012",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP122",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

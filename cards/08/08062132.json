@@ -1,12 +1,14 @@
 {
     "cid": "af1f194f-8ac6-4b91-8d3b-6b9a9601e807",
-    "yid": null,
+    "yid": 8062132,
     "password": "08062132",
     "kid": 7184,
     "name": "Vennominaga the Deity of Poisonous Snakes",
     "name_jp": "<ruby lang=\"jp\"><rb>毒</rb><rp> (</rp><rt>どく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蛇</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>ヴェノミナーガ",
     "name_jp_rom": "Dokujashin Venomināga",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "VennominagatheDeityofPoisonousSnakes-DE02-JP-R.jpg",
+            "full": "VennominagatheDeityofPoisonousSnakes-DE02-JP-R.png",
             "art": "VennominagatheDeityofPoisonousSnakes-MADU-JP-VG-artwork.png"
         },
         "1.1": {
@@ -68,6 +70,23 @@
             "rarities": {
                 "Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP013",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP006",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -126,5 +145,6 @@
             "Archetype-exclusion condition",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

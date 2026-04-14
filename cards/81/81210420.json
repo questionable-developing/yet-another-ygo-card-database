@@ -1,11 +1,14 @@
 {
     "cid": "e7006def-3d3f-49d9-bb6a-7bb18f4adc7f",
+    "yid": 81210420,
     "password": "81210420",
     "kid": 4962,
     "name": "Magical Hats",
     "name_jp": "マジカルシルクハット",
     "name_jp_rom": "Majikaru Shiruku Hatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magical Silk Hat",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -125,6 +128,78 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CA-34",
+            "set": "Curse of Anubis (set)",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "YU-33",
+            "set": "Structure Deck: Yugi",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-122",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE1-JP087",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE01-JP079",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "15AY-JPA38",
+            "set": "Memories of the Duel King: Duelist Kingdom Arc",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPB34",
+            "set": "Memories of the Duel King: Battle City Arc",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "MB01-JP036",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "SDMY-JP037",
+            "set": "Structure Deck: Yugi Muto",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LG01-JP017",
+            "set": "Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -136,7 +211,10 @@
         "arc": [],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Chaos",
+            "Ritual of Light and Darkness (series)"
+        ],
         "counter": [],
         "action": [
             "Flips your monsters face-down",
@@ -163,5 +241,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

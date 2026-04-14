@@ -1,11 +1,14 @@
 {
     "cid": "ca72855c-b38a-448b-b1ab-b88d9f0f5ef4",
+    "yid": 74920585,
     "password": "74920585",
     "kid": 17474,
     "name": "Tearlaments Sulliek",
     "name_jp": "<ruby lang=\"jp\"><rb>壱世壊に奏でる哀唱</rb><rp> (</rp><rt>ティアラメンツ・サリーク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tiaramentsu Sarīku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Grieving Song Playing in the First Broken World",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TearlamentsSulliek-POTE-JP-C.png",
+            "art": "TearlamentsSulliek-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TearlamentsSulliek-POTE-EN-C-1E.png",
-            "art": null
+            "art": "TearlamentsSulliek-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "POTE-EN072",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP072",
             "set": "Power of the Elements",
             "rarities": {
                 "Common": []
@@ -81,5 +98,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

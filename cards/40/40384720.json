@@ -1,11 +1,14 @@
 {
     "cid": "02ac3ea4-1d3e-40b5-9fdc-8d5edb8b151a",
+    "yid": 40384720,
     "password": "40384720",
     "kid": 6721,
     "name": "Sonic Shooter",
     "name_jp": "ソニック・シューター",
     "name_jp_rom": "Sonikku Shūtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD8-JP002",
+            "set": "Structure Deck: Lord of the Storm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

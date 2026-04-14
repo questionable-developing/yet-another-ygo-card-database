@@ -1,12 +1,14 @@
 {
     "cid": "3411fbf0-e995-47da-82ba-5e869c127755",
-    "yid": null,
+    "yid": 23008320,
     "password": "23008320",
     "kid": 9518,
     "name": "Resonator Call",
     "name_jp": "コール・リゾネーター",
     "name_jp_rom": "Kōru Rizonētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Call Resonator",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -76,6 +78,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP047",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPHR-JP025",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP024",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP028",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS07",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +145,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "466ef11f-0611-49e4-bdd3-826f5832280b",
+    "yid": 92079625,
     "password": "92079625",
     "kid": 15850,
     "name": "Helshaddoll Hollow",
     "name_jp": "<ruby lang=\"jp\"><rb>影依の炎核</rb><rp> (</rp><rt>ヘルシャドール</rt><rp>)</rp></ruby> ヴォイド",
     "name_jp_rom": "Herushadōru Voido",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Helshaddoll Void",
+    "name_jp_tl_base": "Shadow-Clad Flame Core, Void",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -41,6 +44,22 @@
             "set": "Ghosts From the Past (set)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP013",
+            "set": "Selection 10",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP074",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -83,5 +102,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

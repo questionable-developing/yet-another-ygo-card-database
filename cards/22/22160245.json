@@ -1,12 +1,14 @@
 {
     "cid": "d7abd6f8-595f-417b-9c54-0d88a196c45f",
-    "yid": null,
+    "yid": 22160245,
     "password": "22160245",
     "kid": 7257,
     "name": "Evil HERO Inferno Wing",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> インフェルノ・ウィング",
     "name_jp_rom": "Ībiru Hīrō Inferuno Wingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -72,6 +74,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP038",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP06-JP012",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP032",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -117,5 +143,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

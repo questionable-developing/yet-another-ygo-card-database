@@ -1,12 +1,14 @@
 {
     "cid": "49b62195-f568-4ece-8f42-bef9ea126865",
-    "yid": null,
+    "yid": 29088922,
     "password": "29088922",
     "kid": 8445,
     "name": "Fortune Lady Water",
     "name_jp": "フォーチュンレディ・ウォーテリー",
     "name_jp_rom": "Fōchun Redi Wōterī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Lady Watery",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyWater-19TP-JP-C.png",
+            "art": "FortuneLadyWater-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyWater-OP11-EN-C-UE.png",
-            "art": null
+            "art": "FortuneLadyWater-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN010",
@@ -46,6 +53,29 @@
         {
             "sid": "OP11-EN016",
             "set": "OTS Tournament Pack 11",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP010",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP048",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19TP-JP205",
+            "set": "Tournament Pack 2019 Vol.2",
             "rarities": {
                 "Common": []
             }
@@ -88,5 +118,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

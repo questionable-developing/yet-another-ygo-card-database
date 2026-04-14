@@ -1,12 +1,14 @@
 {
     "cid": "fbed7564-9729-4d6b-85fd-9a0764fd4552",
-    "yid": null,
+    "yid": 2134346,
     "password": "02134346",
     "kid": 5381,
     "name": "Asura Priest",
     "name_jp": "<ruby lang=\"jp\"><rb>阿</rb><rp> (</rp><rt>ア</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>修</rb><rp> (</rp><rt>ス</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>羅</rb><rp> (</rp><rt>ラ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Asura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Asura",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -74,6 +76,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MA-23",
+            "set": "Mythological Age",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DL5-064",
+            "set": "Duelist Legacy Volume.5",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE2-JP183",
+            "set": "Beginner's Edition 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE02-JP149",
+            "set": "Beginner's Edition 2 (2011)",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +136,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "a23e2a39-47d6-4ac7-9ead-876e53c79941",
-    "yid": null,
+    "yid": 2819435,
     "password": "02819435",
     "kid": 12970,
     "name": "Pacifis, the Phantasm City",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>煌</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>都</rb><rp> (</rp><rt>みやこ</rt><rp>)</rp></ruby> パシフィス",
     "name_jp_rom": "Gen'ō no Miyako Pashifisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN056",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP056",
             "set": "Maximum Crisis",
             "rarities": {
                 "Rare": []
@@ -86,5 +97,6 @@
             "Limited activations",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

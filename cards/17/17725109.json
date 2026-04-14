@@ -1,12 +1,14 @@
 {
     "cid": "c2a90b74-b227-4eba-a47b-3f9ca9c87f41",
-    "yid": null,
+    "yid": 17725109,
     "password": "17725109",
     "kid": 20605,
     "name": "Roar of the Blue-Eyed Dragons",
     "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>臨</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seiganryū Gōrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Roaring Descent of the Blue-Eyed Dragons",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,23 @@
             "set": "Structure Deck: Blue-Eyes White Destiny",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD47-JP019",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JPP04",
+            "set": "Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -74,7 +93,7 @@
         "summoning": [
             "Special Summons from your Deck",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Restricts the player's Special Summons from the Extra Deck",
             "Restricts the player's Special Summons to Type specific monsters",
             "Performs a Fusion Summon",
@@ -88,5 +107,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

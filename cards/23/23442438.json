@@ -1,12 +1,14 @@
 {
     "cid": "c08b3bb9-8927-424c-9d5b-1454ea192e14",
-    "yid": null,
+    "yid": 23442438,
     "password": "23442438",
     "kid": 14918,
     "name": "Synchro Chase",
     "name_jp": "シンクロ・チェイス",
     "name_jp_rom": "Shinkuro Cheisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP23-JP026",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AC03-JP037",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

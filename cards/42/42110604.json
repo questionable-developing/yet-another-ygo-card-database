@@ -1,11 +1,14 @@
 {
     "cid": "3b6ea324-c89a-44b9-92bf-11b955108493",
+    "yid": 42110604,
     "password": "42110604",
     "kid": 12055,
     "name": "Hi-Speedroid Chanbara",
     "name_jp": "<ruby lang=\"jp\"><rb>ＨＳＲ</rb><rp> (</rp><rt>ハイスピードロイド</rt><rp>)</rp></ruby>チャンバライダー",
     "name_jp_rom": "Haisupīdoroido Chanbaraidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "High-Speedroid Chanbarider",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPHR-JP010",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP306",
+            "set": "Special Pack 20th Anniversary Edition Vol.3",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP25-JP016",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +135,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

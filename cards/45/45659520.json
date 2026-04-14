@@ -1,11 +1,14 @@
 {
     "cid": "39984ac2-c59c-48e7-a89e-c5c9b5039685",
+    "yid": 45659520,
     "password": "45659520",
     "kid": 14588,
     "name": "Evil HERO Sinister Necrom",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> シニスター・ネクロム",
     "name_jp_rom": "Ībiru Hīrō Shinisutā Nekuromu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP22-JP014",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP404",
+            "set": "Tournament Pack 2024 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP041",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +125,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

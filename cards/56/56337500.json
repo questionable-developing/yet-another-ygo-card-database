@@ -1,11 +1,14 @@
 {
     "cid": "b324b6f1-694a-442e-8108-e26e756e3ae5",
+    "yid": 56337500,
     "password": "56337500",
     "kid": 14290,
     "name": "Cyberse Reminder",
     "name_jp": "サイバース・リマインダー",
     "name_jp_rom": "Saibāsu Rimaindā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DANE-EN040",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP040",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

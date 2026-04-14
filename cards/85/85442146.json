@@ -1,11 +1,14 @@
 {
     "cid": "debb42e9-ed22-4de9-ac6a-690ac1cdf870",
+    "yid": 85442146,
     "password": "85442146",
     "kid": 21216,
     "name": "Dragon's Mind",
     "name_jp": "<ruby lang=\"jp\"><rb>竜の精神</rb><rp> (</rp><rt>ドラゴンズ・マインド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragonzu Maindo",
+    "name_jp_rom_base": "Ryū no Seishin",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "DragonsMind-ALIN-EN-C-1E.png",
+            "full": "DragonsMind-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -34,6 +37,28 @@
     "sets": [
         {
             "sid": "ALIN-EN079",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RA05-EN082",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP079",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -81,5 +106,6 @@
             "Requires control of specific DEF",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

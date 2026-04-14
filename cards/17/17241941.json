@@ -1,12 +1,14 @@
 {
     "cid": "f3625efe-f543-4257-a617-9be2f880e2f2",
-    "yid": null,
+    "yid": 17241941,
     "password": "17241941",
     "kid": 15723,
     "name": "Gigathunder Giclops",
     "name_jp": "ダイカミナリ・ジャイクロプス",
     "name_jp_rom": "Daikaminari Jaikuropusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -40,6 +42,15 @@
     "sets": [
         {
             "sid": "BLVO-EN032",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP032",
             "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
@@ -88,5 +99,6 @@
             "Requires control of specific Monster type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

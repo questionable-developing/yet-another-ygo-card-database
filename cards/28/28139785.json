@@ -1,12 +1,14 @@
 {
     "cid": "52fc5f72-d41f-40b0-b886-c4aff6fb2738",
-    "yid": null,
+    "yid": 28139785,
     "password": "28139785",
     "kid": 12440,
     "name": "Wrecker Panda",
     "name_jp": "レッカーパンダ",
     "name_jp_rom": "Rekkā Panda",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP041",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "0f2a0c1e-2edb-48ce-83f2-ff48c39f6208",
-    "yid": null,
+    "yid": 16188701,
     "password": "16188701",
     "kid": 13522,
     "name": "Lady Debug",
     "name_jp": "レディ・デバッガー",
     "name_jp_rom": "Redi Debaggā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lady Debugger",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD33-JP005",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "ST19-JP011",
+            "set": "Starter Deck 2019",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP095",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

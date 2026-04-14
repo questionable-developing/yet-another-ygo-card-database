@@ -1,11 +1,14 @@
 {
     "cid": "b61d2525-7926-4347-a85e-5ba6591cdfcc",
+    "yid": 87052196,
     "password": "87052196",
     "kid": 14646,
     "name": "Tenyi Spirit - Ashuna",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－アシュナ",
     "name_jp_rom": "Ten'iryū - Ashuna",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tenyi Dragon - Ashuna",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -64,6 +67,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP019",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

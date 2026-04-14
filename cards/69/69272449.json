@@ -6,7 +6,9 @@
     "name": "Maliss <P> White Rabbit",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｍ∀ＬＩＣＥ</rb><rp> (</rp><rt>マリス</rt><rp>)</rp></ruby>＜<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ポーン</rt><rp>)</rp></ruby>＞<ruby lang=\"jp\"><rb>Ｗｈｉｔｅ Ｒａｂｂｉｔ</rb><rp> (</rp><rt>ホワイト・ラビット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Marisu <Pōn> Howaito Rabitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "MⱯLICE <Pawn> White Rabbit",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -23,8 +25,10 @@
     "link": null,
     "arrows": null,
     "desc": "You take no damage from battles involving \"Maliss\" Link Monsters that point to this card. You can only use each of the following effects of \"Maliss <P> White Rabbit\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Maliss\" Trap from your Deck with a different name than the cards in your GY. If this card is banished: You can pay 300 LP; Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+    "pend_eff": null,
     "mnst_eff": "You take no damage from battles involving \"Maliss\" Link Monsters that point to this card. You can only use each of the following effects of \"Maliss <P> White Rabbit\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Maliss\" Trap from your Deck with a different name than the cards in your GY. If this card is banished: You can pay 300 LP; Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
     "eff": "You take no damage from battles involving \"Maliss\" Link Monsters that point to this card. You can only use each of the following effects of \"Maliss <P> White Rabbit\" once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Maliss\" Trap from your Deck with a different name than the cards in your GY. If this card is banished: You can pay 300 LP; Special Summon it, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Link Monsters.",
+    "flavor": null,
     "images": {
         "1": {
             "idx": "1",
@@ -33,7 +37,7 @@
         },
         "2": {
             "idx": "2",
-            "full": "MalissPWhiteRabbit-STSP-JP-UR.png",
+            "full": "MalissPWhiteRabbit-RA05-EN-UR-1E.png",
             "art": null
         },
         "1.1": {
@@ -42,22 +46,48 @@
             "art": "MalissPWhiteRabbit-MADU-EN-VG-artwork.png"
         }
     },
-    "image": "1.1",
+    "image": "2",
     "sets": [
         {
             "sid": "CRBR-EN015",
             "set": "Crossover Breakers",
             "rarities": {
-                "Ultra Rare": [],
-                "Collector's Rare": [],
-                "Quarter Century Secret Rare": []
+                "Ultra Rare": ["1.1"],
+                "Collector's Rare": ["1.1"],
+                "Quarter Century Secret Rare": ["1.1"]
             }
         },
         {
             "sid": "MP25-EN122",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1.1"]
+            }
+        },
+        {
+            "sid": "RA05-EN136",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBCB-JP015",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP006",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],

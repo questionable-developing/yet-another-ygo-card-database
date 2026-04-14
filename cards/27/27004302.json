@@ -1,12 +1,14 @@
 {
     "cid": "ba0bbb1a-aee3-4aa6-a0c3-83916458adf5",
-    "yid": null,
+    "yid": 27004302,
     "password": "27004302",
     "kid": 8897,
     "name": "Gem-Armadillo",
     "name_jp": "ジェムレシス",
     "name_jp_rom": "Jemureshisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gem-Resis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT09-JP020",
+            "set": "Duel Terminal - Vylon Descends!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP065",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SPRG-JP034",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP049",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +115,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

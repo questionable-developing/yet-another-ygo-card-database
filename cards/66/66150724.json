@@ -1,11 +1,14 @@
 {
     "cid": "22d7507f-afd6-4d23-99a5-1285860eb1fb",
+    "yid": 66150724,
     "password": "66150724",
     "kid": 18493,
     "name": "PenduLuMoon",
     "name_jp": "ペンデュラムーン",
     "name_jp_rom": "Pendyuramūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP030",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

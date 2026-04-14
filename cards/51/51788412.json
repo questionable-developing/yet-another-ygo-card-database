@@ -1,11 +1,14 @@
 {
     "cid": "7087c411-0976-4339-9dc1-46c27af2e6c8",
+    "yid": 51788412,
     "password": "51788412",
     "kid": 12776,
     "name": "Chaos Ancient Gear Giant",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械混沌巨人</rb><rp> (</rp><rt>アンティーク・ギア・カオス・ジャイアント</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Kaosu Jaianto",
+    "name_jp_rom_base": "Kodai no Kikai Konton Kyojin",
     "name_jp_tl": "Antique Gear Chaos Giant",
+    "name_jp_tl_base": "Ancient Machine Chaos Giant",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP041",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP017",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP117",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +123,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

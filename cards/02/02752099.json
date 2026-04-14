@@ -1,12 +1,14 @@
 {
     "cid": "b8f4e09f-bfb7-4293-80ba-a2aa933d0b01",
-    "yid": null,
+    "yid": 2752099,
     "password": "02752099",
     "kid": 18434,
     "name": "Rose Shaman",
     "name_jp": "<ruby lang=\"jp\"><rb>薔薇占術師</rb><rp> (</rp><rt>ローズ・シャーマン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rōzu Shāman",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -49,6 +51,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "23PP-JP009",
+            "set": "Premium Pack 2023",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +100,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

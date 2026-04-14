@@ -1,11 +1,14 @@
 {
     "cid": "5ed31b1e-8e12-4703-abe1-ced4e496cc27",
+    "yid": 89397517,
     "password": "89397517",
     "kid": 11152,
     "name": "Legend of Heart",
     "name_jp": "レジェンド・オブ・ハート",
     "name_jp_rom": "Rejendo Obu Hāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP006",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

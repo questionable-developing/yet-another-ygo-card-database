@@ -1,12 +1,14 @@
 {
     "cid": "def3ea38-69d5-4cad-a4e3-54f1e60d278e",
-    "yid": null,
+    "yid": 30525991,
     "password": "30525991",
     "kid": 7291,
     "name": "Witch Doctor of Sparta",
     "name_jp": "スパルタクァの<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Suparutakwa no Jujutsushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witch Doctor of Spartaca",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP026",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

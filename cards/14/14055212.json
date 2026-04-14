@@ -1,12 +1,14 @@
 {
     "cid": "b6e0df42-d438-4ceb-bf5c-ba7892a8d981",
-    "yid": null,
+    "yid": 14055212,
     "password": "14055212",
     "kid": 14704,
     "name": "Peaceful Burial",
     "name_jp": "のどかな<ruby lang=\"jp\"><rb>埋</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>葬</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nodokana Maisō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP077",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

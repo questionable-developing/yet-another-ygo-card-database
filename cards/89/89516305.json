@@ -1,11 +1,14 @@
 {
     "cid": "d20f9617-9f20-48dd-9f81-92b82c0386e3",
+    "yid": 89516305,
     "password": "89516305",
     "kid": 10708,
     "name": "Number 87: Queen of the Night",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>８７ <ruby lang=\"jp\"><rb>雪</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>げっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>美</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>クイーン・オブ・ナイツ",
     "name_jp_rom": "Nanbāzu Hachijūnana Setsugekkabishin Kuīn Obu Naitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numbers 87: Beautiful Goddess of the Four Seasons - Queen of Nights",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -31,10 +34,15 @@
         "1": {
             "idx": "1",
             "full": "Number87QueenoftheNight-MAGO-EN-R-1E.png",
-            "art": null
+            "art": "Number87QueenoftheNight-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "Number87QueenoftheNight-NCF1-JP-UR.png",
+            "art": "Number87QueenoftheNight-MADU-JP-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "NUMH-EN034",
@@ -48,6 +56,22 @@
             "set": "Maximum Gold",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CPZ1-JP027",
+            "set": "Collectors Pack: ZEXAL Version",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP087",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -99,5 +123,6 @@
             "Variable effects",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

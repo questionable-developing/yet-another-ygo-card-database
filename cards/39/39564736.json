@@ -1,11 +1,14 @@
 {
     "cid": "694e072f-e0f1-4e72-b8de-bfed5cafc794",
+    "yid": 39564736,
     "password": "39564736",
     "kid": 12648,
     "name": "Fullmetalfoes Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>重錬装融合</rb><rp> (</rp><rt>フルメタルフォーゼ・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Furumetarufōze Fyūjon",
+    "name_jp_rom_base": "Jūrensō Yūgō",
     "name_jp_tl": "Fullmetalphosis Fusion",
+    "name_jp_tl_base": "Heavy Refined Equip Fusion",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP058",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

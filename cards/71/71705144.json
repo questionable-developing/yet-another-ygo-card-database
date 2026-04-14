@@ -1,11 +1,14 @@
 {
     "cid": "6029b78e-0e94-4f1a-855e-19c87ddfc329",
+    "yid": 71705144,
     "password": "71705144",
     "kid": 11727,
     "name": "Performapal Recasting",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>キャスト・チェンジ",
     "name_jp_rom": "Entameito Kyasuto Chenji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Cast Change",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PerformapalRecasting-CROS-JP-C.png",
+            "art": "PerformapalRecasting-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PerformapalRecasting-MP16-EN-C-1E.png",
-            "art": null
+            "art": "PerformapalRecasting-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CROS-EN052",
@@ -42,6 +50,15 @@
         {
             "sid": "MP16-EN023",
             "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP052",
+            "set": "Crossed Souls",
             "rarities": {
                 "Common": []
             }
@@ -82,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

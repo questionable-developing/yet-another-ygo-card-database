@@ -1,11 +1,14 @@
 {
     "cid": "85ad93b8-07a1-4ccd-ae7e-73baaaacd897",
+    "yid": 87571563,
     "password": "87571563",
     "kid": 14139,
     "name": "World Legacy Guardragon",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遺</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>ぶつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seiibutsu no Shugoryū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Star Relic Guardragon",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP062",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP032",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP197",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +120,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "02ea3a6d-1274-48b1-bf2c-3e9780c2769c",
-    "yid": null,
+    "yid": 35798491,
     "password": "35798491",
     "kid": 5774,
     "name": "Darkbishop Archfiend",
     "name_jp": "ダークビショップデーモン",
     "name_jp_rom": "Dāku Bishoppu Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Bishop Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-016",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP231",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +122,6 @@
             "Die roll",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

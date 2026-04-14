@@ -1,11 +1,14 @@
 {
     "cid": "910f6f24-b3ce-4c05-9918-6791d882f798",
+    "yid": 85967160,
     "password": "85967160",
     "kid": 11821,
     "name": "Aromage Bergamot",
     "name_jp": "アロマージ－ベルガモット",
     "name_jp_rom": "Aromāji - Berugamotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -42,6 +45,15 @@
     "sets": [
         {
             "sid": "CORE-EN037",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP037",
             "set": "Clash of Rebellions",
             "rarities": {
                 "Rare": []
@@ -87,5 +99,6 @@
             "Requires control of specific Type",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

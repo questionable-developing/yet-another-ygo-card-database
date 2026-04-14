@@ -1,12 +1,14 @@
 {
     "cid": "74bcbd9b-7530-43df-8cf0-bf9559eb9baf",
-    "yid": null,
+    "yid": 16433136,
     "password": "16433136",
     "kid": 18021,
     "name": "Mikanko Purification Dance",
     "name_jp": "<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祓</rb><rp> (</rp><rt>はらえ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>舞</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mikanko no Haraemai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,24 @@
             "set": "Amazing Defenders",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP031",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP068",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -78,5 +98,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

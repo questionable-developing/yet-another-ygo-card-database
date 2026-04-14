@@ -1,11 +1,14 @@
 {
     "cid": "203fdbb1-bb8b-4a0f-b0f9-fb493d5e1c0f",
+    "yid": 41562624,
     "password": "41562624",
     "kid": 14096,
     "name": "Shiranui Squire",
     "name_jp": "<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>武部</rb><rp> (</rp><rt>もののべ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiranui no Mononobe",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shiranui Warrior",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "Savage Strike",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP019",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "be7f3928-49ce-48e5-8460-e197ff1c6d55",
+    "yid": 79266769,
     "password": "79266769",
     "kid": 13971,
     "name": "Darkness Metal, the Dragon of Dark Steel",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鋼</rb><rp> (</rp><rt>がね</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> ダークネスメタル",
     "name_jp_rom": "Kuroganeryū Dākunesu Metaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -56,6 +59,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP148",
+            "set": "V Jump July 2018 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,7 +99,7 @@
             "Requires Attribute specific Link Materials",
             "Requires Type specific Link Materials",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Restricts the player's Special Summons"
         ],
         "attack": [],
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

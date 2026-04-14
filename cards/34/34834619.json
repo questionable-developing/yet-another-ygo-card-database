@@ -1,12 +1,14 @@
 {
     "cid": "1a5de2ff-d08d-4dae-9e43-aa68c623d8c4",
-    "yid": null,
+    "yid": 34834619,
     "password": "34834619",
     "kid": 10948,
     "name": "Luminous Dragon Ritual",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>降</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>臨</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōshiryū Kōrin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Photon Dragon Descent",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "LVAL-EN062",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP062",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

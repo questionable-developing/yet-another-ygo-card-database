@@ -1,12 +1,14 @@
 {
     "cid": "c8897516-32f7-4c00-b343-dcd3a367b7f6",
-    "yid": null,
+    "yid": 32761286,
     "password": "32761286",
     "kid": 9320,
     "name": "Scrap Worm",
     "name_jp": "スクラップ・ワーム",
     "name_jp_rom": "Sukurappu Wāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "STOR-EN029",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP029",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Rare": []
@@ -84,5 +95,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

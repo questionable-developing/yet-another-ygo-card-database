@@ -1,11 +1,14 @@
 {
     "cid": "7e6bca40-9c2b-4058-9d13-aa2ccc78b781",
+    "yid": 57160136,
     "password": "57160136",
     "kid": 14301,
     "name": "Cynet Mining",
     "name_jp": "サイバネット・マイニング",
     "name_jp_rom": "Saibanetto Mainingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cybenet Mining",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -81,6 +84,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP051",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP047",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP109",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +146,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

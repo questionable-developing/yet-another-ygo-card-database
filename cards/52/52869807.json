@@ -1,11 +1,14 @@
 {
     "cid": "b9ba3f94-0620-4dcb-8229-7d9e3a4c249f",
+    "yid": 52869807,
     "password": "52869807",
     "kid": 8778,
     "name": "Blackwing - Gust the Backblast",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＦ</rb><rp> (</rp><rt>ブラックフェザー</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>逆</rb><rp> (</rp><rt>ぎゃく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby>のガスト",
     "name_jp_rom": "Burakku Fezā - Gyakufū no Gasuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Feather - Gust the Backblast",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP002",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP11-JP009",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
         "misc": [
             "Requires control of no cards"
         ]
-    }
+    },
+    "links": {}
 }

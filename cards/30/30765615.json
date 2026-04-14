@@ -1,12 +1,14 @@
 {
     "cid": "e6177fd8-f0bc-4526-a1ed-5230e0d67e3d",
-    "yid": null,
+    "yid": 30765615,
     "password": "30765615",
     "kid": 18492,
     "name": "Ringowurm, the Dragon Guarding the Hundred Apples",
     "name_jp": "<ruby lang=\"jp\"><rb>百檎</rb><rp> (</rp><rt>ひゃっきん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－リンゴブルム",
     "name_jp_rom": "Hyakkinryū - Ringoburumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hundred Apples Dragon - Ringowurm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -49,6 +51,31 @@
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP029",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP403",
+            "set": "Tournament Pack 2024 Vol.4",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP020",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -95,5 +122,6 @@
             "Requires control of specific Monster type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

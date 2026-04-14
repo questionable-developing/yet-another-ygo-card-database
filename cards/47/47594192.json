@@ -1,11 +1,14 @@
 {
     "cid": "2aab3f89-fe70-4584-bf7e-45881b17b4f3",
+    "yid": 47594192,
     "password": "47594192",
     "kid": 10207,
     "name": "Three of a Kind",
     "name_jp": "スリーカード",
     "name_jp_rom": "Surī Kādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Three Card",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ThreeofaKind-SD26-JP-C.png",
+            "art": "ThreeofaKind-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ThreeofaKind-SDCR-EN-C-1E.png",
-            "art": null
+            "art": "ThreeofaKind-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "REDU-EN077",
@@ -42,6 +50,22 @@
         {
             "sid": "SDCR-EN031",
             "set": "Cyber Dragon Revolution Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP077",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD26-JP031",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
             "rarities": {
                 "Common": []
             }
@@ -74,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

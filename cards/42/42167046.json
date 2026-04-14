@@ -1,11 +1,14 @@
 {
     "cid": "01e1fc02-ebdf-426f-bbcb-1ba943962831",
+    "yid": 42167046,
     "password": "42167046",
     "kid": 8690,
     "name": "Widespread Dud",
     "name_jp": "グレイモヤ<ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>はつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gureimoya Fuhatsudan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Glaymore Dud",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP079",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP121",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

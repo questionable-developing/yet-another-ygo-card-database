@@ -1,12 +1,14 @@
 {
     "cid": "1c648d2b-cf22-4629-992c-8dfeece90662",
-    "yid": null,
+    "yid": 30741503,
     "password": "30741503",
     "kid": 13930,
     "name": "Galatea, the Orcust Automaton",
     "name_jp": "オルフェゴール・ガラテア",
     "name_jp_rom": "Orufegōru Garatea",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Galatea",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -75,6 +77,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP043",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "19SP-JP507",
+            "set": "Special Pack 20th Anniversary Edition Vol.5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP047",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -118,5 +147,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

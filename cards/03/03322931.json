@@ -1,12 +1,14 @@
 {
     "cid": "8c786124-f3ab-4f0c-92be-c97e17ee86a5",
-    "yid": null,
+    "yid": 3322931,
     "password": "03322931",
     "kid": 16230,
     "name": "Stellar Wind Wolfrayet",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狼</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>ウォルフライエ",
     "name_jp_rom": "Seifūrō Worufuraie",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stellar Wind Wolf Wolfrayet",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP041",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DAMA-JP041",
+            "set": "Dawn of Majesty +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +110,6 @@
             "Control only one",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

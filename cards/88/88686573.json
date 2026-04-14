@@ -1,11 +1,14 @@
 {
     "cid": "63b84073-38fe-48a7-a70b-c13d441fc6f8",
+    "yid": 88686573,
     "password": "88686573",
     "kid": 10253,
     "name": "Nimble Angler",
     "name_jp": "<ruby lang=\"jp\"><rb>素</rb><rp> (</rp><rt>す</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>早</rb><rp> (</rp><rt>ばや</rt><rp>)</rp></ruby>いアンコウ",
     "name_jp_rom": "Subayai Ankou",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP031",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

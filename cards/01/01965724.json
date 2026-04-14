@@ -1,12 +1,14 @@
 {
     "cid": "3832fd88-4ba3-42df-9a21-559853ef0cbc",
-    "yid": null,
+    "yid": 1965724,
     "password": "01965724",
     "kid": 6211,
     "name": "Mokey Mokey Smackdown",
     "name_jp": "<ruby lang=\"jp\"><rb>怒</rb><rp> (</rp><rt>いか</rt><rp>)</rp></ruby>れるもけもけ",
     "name_jp_rom": "Ikareru Mokemoke",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Angered Mokey Mokey",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP043",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP103",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

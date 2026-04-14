@@ -1,12 +1,14 @@
 {
     "cid": "ee5d8880-d347-4f71-9b1b-5d5ed6c4fd3a",
-    "yid": null,
+    "yid": 10552026,
     "password": "10552026",
     "kid": 13754,
     "name": "Gouki Heel Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ジャドウ・オーガ",
     "name_jp_rom": "Gōki Jadou Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Jado Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP038",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +102,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

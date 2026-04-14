@@ -1,11 +1,14 @@
 {
     "cid": "b36e664f-e12a-41cd-ae03-7a904085f84e",
+    "yid": 67227834,
     "password": "67227834",
     "kid": 5223,
     "name": "Magic Formula",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>文</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majutsu no Jumonsho",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Formula Book",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -75,6 +78,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LE5-004",
+            "set": "Limited Edition 5: Yugi Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TP06-JP010",
+            "set": "Tournament Pack 2008 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPB20",
+            "set": "Memories of the Duel King: Battle City Arc",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +139,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

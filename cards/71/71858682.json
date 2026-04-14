@@ -1,11 +1,14 @@
 {
     "cid": "bb1e44e6-a5fc-4fd1-b12d-5b4ab7ef02fc",
+    "yid": 71858682,
     "password": "71858682",
     "kid": 19883,
     "name": "Centur-Ion Auxila",
     "name_jp": "<ruby lang=\"jp\"><rb>騎士皇</rb><rp> (</rp><rt>センチュリオン</rt><rp>)</rp></ruby>アークシーラ",
     "name_jp_rom": "Senchurion Ākushīra",
+    "name_jp_rom_base": "Kishiō Ākushīra",
     "name_jp_tl": "Centurion Auxila",
+    "name_jp_tl_base": "Knight Emperor Auxila",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP042",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP042",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

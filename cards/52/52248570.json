@@ -1,11 +1,14 @@
 {
     "cid": "a8c055ab-015d-42ca-911c-0f8f30250cb3",
+    "yid": 52248570,
     "password": "52248570",
     "kid": 7370,
     "name": "Imprisoned Queen Archfiend",
     "name_jp": "プリズンクインデーモン",
     "name_jp_rom": "Purizon Kuin Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prison Queen Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP032",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

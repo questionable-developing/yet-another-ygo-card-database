@@ -1,12 +1,14 @@
 {
     "cid": "f9a2d2b7-d3fa-4105-8e48-b4210858f669",
-    "yid": null,
+    "yid": 29095457,
     "password": "29095457",
     "kid": 20536,
     "name": "Primite Drillbeam",
     "name_jp": "<ruby lang=\"jp\"><rb>原</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>穿</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Genseki no Senkō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ore Drillflash",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +54,25 @@
             "sid": "MP25-EN115",
             "set": "2025 Mega-Pack Tin",
             "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP060",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCR-JP074",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
                 "Prismatic Secret Rare": []
             }
         }
@@ -102,5 +123,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

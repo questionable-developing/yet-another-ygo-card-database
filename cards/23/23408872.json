@@ -1,12 +1,14 @@
 {
     "cid": "3df62a69-86e8-4a2a-8f77-b20e2f9c8212",
-    "yid": null,
+    "yid": 23408872,
     "password": "23408872",
     "kid": 9504,
     "name": "Tradetoad",
     "name_jp": "サシカエル",
     "name_jp_rom": "Sashikaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Replace Toad",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN033",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP033",
             "set": "Extreme Victory",
             "rarities": {
                 "Rare": []
@@ -80,5 +91,6 @@
             "Limited activations",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

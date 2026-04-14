@@ -1,11 +1,14 @@
 {
     "cid": "143e772c-c63e-4007-9dc7-a8d02a1b9cd4",
+    "yid": 57143342,
     "password": "57143342",
     "kid": 11319,
     "name": "Cir, Malebranche of the Burning Abyss",
     "name_jp": "<ruby lang=\"jp\"><rb>彼</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岸</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> ガトルホッグ",
     "name_jp_rom": "Higan no Akki Gatoruhoggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Guttlehog, Malebranche of the Afterlife",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP003",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP142",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +118,6 @@
             "Only 1 effect once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "eee544a8-3dfb-43de-8972-13334d4af7c4",
-    "yid": null,
+    "yid": 6353603,
     "password": "06353603",
     "kid": 10383,
     "name": "Brotherhood of the Fire Fist - Bear",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－ユウシ",
     "name_jp_rom": "An'ensei - Yūshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Flame Star - Xiong Zhi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -67,6 +69,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP024",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +114,6 @@
             "Limited activations",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "40ca146f-1b90-4057-9f5b-478ec470810d",
-    "yid": null,
+    "yid": 8131171,
     "password": "08131171",
     "kid": 4481,
     "name": "Sinister Serpent",
     "name_jp": "キラー・スネーク",
     "name_jp_rom": "Kirā Sunēku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Killer Snake",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -80,6 +82,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "G3-02",
+            "set": "Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SJ2-018",
+            "set": "Structure Deck: Joey Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AX-JPM31",
+            "set": "Duelist Road -Piece of Memory- Side: Yugi Muto",
+            "rarities": {
+                "Secret Rare": [],
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +139,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

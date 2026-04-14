@@ -1,11 +1,14 @@
 {
     "cid": "cd2c4010-b92d-424e-96ab-d4b8ea835b86",
+    "yid": 62849088,
     "password": "62849088",
     "kid": 16198,
     "name": "The Iris Swordsoul",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>あや</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ayame no Sōkenshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Bewitched Iris Xiangjian Master",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -69,6 +72,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP009",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DAMA-JP009",
+            "set": "Dawn of Majesty +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP024",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP063",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +150,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

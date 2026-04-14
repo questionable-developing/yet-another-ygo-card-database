@@ -1,12 +1,14 @@
 {
     "cid": "dbcc3cbf-3643-4a45-93e7-a1ad90f5246e",
-    "yid": null,
+    "yid": 4239451,
     "password": "04239451",
     "kid": 11219,
     "name": "Performapal Turn Toad",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ヒックリカエル",
     "name_jp_rom": "Entameito Hikkurikaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Turn Toad",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP010",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -85,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

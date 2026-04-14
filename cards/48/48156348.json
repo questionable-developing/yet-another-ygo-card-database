@@ -1,11 +1,14 @@
 {
     "cid": "435d22c4-e88b-45db-83bf-71b75195a835",
+    "yid": 48156348,
     "password": "48156348",
     "kid": 7617,
     "name": "Gladiator Beast Gyzarus",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ガイザレス",
     "name_jp_rom": "Guradiaru Bīsuto Gaizaresu",
+    "name_jp_rom_base": "Kentōjū Gaizaresu",
     "name_jp_tl": "Gladial Beast Gyzarus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -80,6 +83,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP044",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP139",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP050",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP007",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -131,5 +164,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

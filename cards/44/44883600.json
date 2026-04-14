@@ -1,11 +1,14 @@
 {
     "cid": "cba38968-ec88-497a-94b0-e6f285c824a0",
+    "yid": 44883600,
     "password": "44883600",
     "kid": 9923,
     "name": "Double Defender",
     "name_jp": "ダブル・ディフェンダー",
     "name_jp_rom": "Daburu Difendā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ORCS-EN049",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP049",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

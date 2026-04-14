@@ -1,12 +1,14 @@
 {
     "cid": "5cb0cde4-420c-48b3-aa5b-a4a4b79ea4f9",
-    "yid": null,
+    "yid": 34225426,
     "password": "34225426",
     "kid": 18206,
     "name": "Tearlaments Perlegia",
     "name_jp": "<ruby lang=\"jp\"><rb>嫋々たる漣歌姫の壱世壊</rb><rp> (</rp><rt>ティアラメンツ・ペルレギア</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tiaramentsu Peruregia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "First Broken World of the Graceful Ripple Songstresses",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP061",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

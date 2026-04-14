@@ -1,11 +1,14 @@
 {
     "cid": "e5d48e10-2f0d-49af-a3ef-cfcac5ab4d5b",
+    "yid": 89789152,
     "password": "89789152",
     "kid": 14700,
     "name": "Tachyon Spiral Galaxy",
     "name_jp": "タキオン・ギャラクシースパイラル",
     "name_jp_rom": "Takion Gyarakushī Supairaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tachyon Galaxy Spiral",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "CHIM-EN073",
             "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP073",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP29-JP018",
+            "set": "Duelist Pack: Duelists of Brilliance",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

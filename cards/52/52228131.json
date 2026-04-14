@@ -1,11 +1,14 @@
 {
     "cid": "11530182-19ba-465d-985e-1dab22c05844",
+    "yid": 52228131,
     "password": "52228131",
     "kid": 7321,
     "name": "Parry",
     "name_jp": "パリィ",
     "name_jp_rom": "Paryi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GLAS-EN072",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP072",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

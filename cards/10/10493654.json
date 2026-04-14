@@ -1,12 +1,14 @@
 {
     "cid": "e595c819-111a-4423-9252-aba0472f5260",
-    "yid": null,
+    "yid": 10493654,
     "password": "10493654",
     "kid": 15042,
     "name": "A.I. Contact",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby>－コンタクト",
     "name_jp_rom": "Ai-Kontakuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ai-Contact",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP056",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

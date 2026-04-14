@@ -1,11 +1,14 @@
 {
     "cid": "c4b09b66-9d72-4a8e-8d58-9afcdd823c91",
+    "yid": 62873545,
     "password": "62873545",
     "kid": 5501,
     "name": "Dragon Master Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>究極竜騎士</rb><rp> (</rp><rt>マスター・オブ・ドラゴンナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Masutā Obu Doragon Naito",
+    "name_jp_rom_base": "Kyūkyoku Ryūkishi",
     "name_jp_tl": "Master of Dragon Knight",
+    "name_jp_tl_base": "Ultimate Dragon Knight",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -79,6 +82,46 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GB7-003",
+            "set": "Yu-Gi-Oh! Duel Monsters 7: The Duelcity Legend promotional cards",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "15AX-JPM34",
+            "set": "Duelist Road -Piece of Memory- Side: Yugi Muto",
+            "rarities": {
+                "Secret Rare": [],
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP011",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BACH-JPS01",
+            "set": "Battle of Chaos +1 Bonus Pack",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCLP-JP019",
+            "set": "Quarter Century Limited Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,6 +154,7 @@
             "Requires only specific non-Effect Monsters as Fusion Materials",
             "Requires Ritual Monsters as Fusion Materials",
             "Requires Fusion Monsters as Fusion Materials",
+            "Requires specific Normal Monsters as Fusion Materials",
             "Nomi"
         ],
         "attack": [],
@@ -119,5 +163,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

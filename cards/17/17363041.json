@@ -1,12 +1,14 @@
 {
     "cid": "6698eee4-f42e-4628-ae6c-e771c7761af2",
-    "yid": null,
+    "yid": 17363041,
     "password": "17363041",
     "kid": 7155,
     "name": "Chrysalis Chicky",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>コクーン</rt><rp>)</rp></ruby>・チッキー",
     "name_jp_rom": "Kokūn Chikkī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cocoon Chicky",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "TAEV-EN008",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP008",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

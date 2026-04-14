@@ -6,7 +6,9 @@
     "name": "Black Rose Dragon",
     "name_jp": "ブラック・ローズ・ドラゴン",
     "name_jp_rom": "Burakku Rōzu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -23,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1+ non-Tuner monsters<br />When this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+    "desc": "1 Tuner + 1+ non-Tuners<br />When this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
-    "eff": "1 Tuner + 1+ non-Tuner monsters\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuners\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
+    "eff": "1 Tuner + 1+ non-Tuners\nWhen this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "BlackRoseDragon-L5DD-EN-C-1E.png",
+            "full": "BlackRoseDragon-L26D-EN-C-1E.png",
             "art": "BlackRoseDragon-MADU-EN-VG-artwork.png"
         },
         "2": {
@@ -159,6 +161,92 @@
             "rarities": {
                 "Common": []
             }
+        },
+        {
+            "sid": "L26D-ENX31",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP039",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "DT04-JPB01",
+            "set": "Duel Terminal Acceleration Guide 2 promotional card",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "MFC1-JP003",
+            "set": "Monster Figure Collection promotional cards",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP049",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "GS05-JP009",
+            "set": "Gold Series 2013",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP067",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP21-JP028",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20CP-JPS05",
+            "set": "20th Secret Rare Special Pack",
+            "rarities": {
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "24EP-JP206",
+            "set": "Event Pack 2024 Vol.2",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP003",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
         }
     ],
     "misc": {
@@ -179,6 +267,7 @@
         "suparc": [],
         "asuparc": [],
         "rel": [
+            "/Assault Mode",
             "Duel Dragon"
         ],
         "counter": [],

@@ -1,12 +1,14 @@
 {
     "cid": "0bd366c2-2808-4199-b630-34d6e48215d5",
-    "yid": null,
+    "yid": 10113611,
     "password": "10113611",
     "kid": 19157,
     "name": "Wattuna",
     "name_jp": "エレキハダマグロ",
     "name_jp_rom": "Erekihadamaguro",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecyellowfin Tuna",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "AGOV-EN015",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP015",
             "set": "Age of Overlord",
             "rarities": {
                 "Common": []
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

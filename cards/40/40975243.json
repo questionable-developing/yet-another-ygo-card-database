@@ -1,11 +1,14 @@
 {
     "cid": "f0a47508-a50f-4639-ae22-636b067576e8",
+    "yid": 40975243,
     "password": "40975243",
     "kid": 15549,
     "name": "Tri-Brigade Revolt",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣の抗戦</rb><rp> (</rp><rt>トライブリゲード・リボルト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Toraiburigēdo Riboruto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Iron Beast Resistance",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -60,6 +63,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP070",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC04-JP080",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP024",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,7 +120,7 @@
         ],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Performs a Link Summon",
             "Special Summons from your Extra Deck"
         ],
@@ -101,5 +132,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

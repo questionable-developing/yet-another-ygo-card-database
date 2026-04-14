@@ -1,11 +1,14 @@
 {
     "cid": "22b0c575-9382-4337-b5a6-801694feccd0",
+    "yid": 90873992,
     "password": "90873992",
     "kid": 4659,
     "name": "Warrior Elimination",
     "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>抹</rb><rp> (</rp><rt>まっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殺</rb><rp> (</rp><rt>さつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senshi Massatsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,13 +64,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "",
+            "set": "Booster 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TP02-JP009",
+            "set": "Tournament Pack 2007 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Effect"
         ],
         "mentions": [],
-        "sup": [],
+        "sup": [
+            "Warrior"
+        ],
         "asup": [
             "Warrior"
         ],
@@ -79,7 +107,6 @@
         "action": [],
         "stat_change": [],
         "mst": [
-            "Destroys Monster Cards",
             "Destroys face-up Monster Cards"
         ],
         "summoning": [],
@@ -89,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

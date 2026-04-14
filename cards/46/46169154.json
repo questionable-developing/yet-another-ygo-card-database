@@ -1,11 +1,14 @@
 {
     "cid": "b435b7a2-6531-497f-ac9b-eda4db64994c",
+    "yid": 46169154,
     "password": "46169154",
     "kid": 15947,
     "name": "War Rock Orpis",
     "name_jp": "ウォークライ・オーピス",
     "name_jp_rom": "Wōkurai Ōpisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Warcry Orpis",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "BLVO-EN095",
             "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP2-JP030",
+            "set": "World Premiere Pack 2021",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +99,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

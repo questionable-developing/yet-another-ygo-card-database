@@ -1,12 +1,14 @@
 {
     "cid": "b8ce0fc6-5d0b-4689-ab80-9e2a361f1702",
-    "yid": null,
+    "yid": 29951323,
     "password": "29951323",
     "kid": 12437,
     "name": "Zap Mustung",
     "name_jp": "<ruby lang=\"jp\"><rb>放</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby>ムスタンガン",
     "name_jp_rom": "Hōden Musutangan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Zap Mustangun",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP038",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b0d302c2-5127-4d52-bb12-a8c4fa426135",
+    "yid": 55696885,
     "password": "55696885",
     "kid": 7150,
     "name": "Plague Wolf",
     "name_jp": "<ruby lang=\"jp\"><rb>疫</rb><rp> (</rp><rt>えき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>病</rb><rp> (</rp><rt>びょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狼</rb><rp> (</rp><rt>おおかみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ekibyō Ōkami",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +74,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD12-JP005",
+            "set": "Structure Deck: Curse of Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR06-JP016",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +119,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

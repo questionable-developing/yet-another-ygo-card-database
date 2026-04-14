@@ -1,11 +1,14 @@
 {
     "cid": "8aa23ef0-44ad-47e4-af16-8e8b40e55d62",
+    "yid": 46924949,
     "password": "46924949",
     "kid": 14476,
     "name": "Beatraptor",
     "name_jp": "<ruby lang=\"jp\"><rb>縄張恐竜</rb><rp> (</rp><rt>ビートラプトル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bīto Raputoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Territorial Dinosaur",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP033",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

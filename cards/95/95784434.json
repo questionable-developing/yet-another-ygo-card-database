@@ -1,11 +1,14 @@
 {
     "cid": "e0cca1c5-72fd-4352-9b17-62b9414c1e60",
+    "yid": 95784434,
     "password": "95784434",
     "kid": 8484,
     "name": "Molting Escape",
     "name_jp": "モルティング・エスケープ",
     "name_jp_rom": "Morutingu Esukēpu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SOVR-EN049",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP049",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d2fd9205-2e3f-46e7-86b1-cbc29e9770e4",
-    "yid": null,
+    "yid": 16638212,
     "password": "16638212",
     "kid": 9295,
     "name": "D.D. Sprite",
     "name_jp": "<ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>次</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>元</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ijigen no Seirei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Different Dimension Sprite",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP004",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR05-JP023",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +103,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

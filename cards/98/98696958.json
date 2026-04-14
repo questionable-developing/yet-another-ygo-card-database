@@ -1,11 +1,14 @@
 {
     "cid": "52329fc4-7187-49a4-b1e9-b1dd21458c1d",
+    "yid": 98696958,
     "password": "98696958",
     "kid": 18846,
     "name": "Dark Corridor",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>回</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>廊</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ankokukairō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP059",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "DUNE-JP059",
+            "set": "Duelist Nexus +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

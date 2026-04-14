@@ -1,12 +1,14 @@
 {
     "cid": "e947ef56-929b-48e5-af02-5a6e2c78bc9c",
-    "yid": null,
+    "yid": 9349094,
     "password": "09349094",
     "kid": 15738,
     "name": "Sacred Tree Beast, Hyperyton",
     "name_jp": "<ruby lang=\"jp\"><rb>神樹獣</rb><rp> (</rp><rt>しんじゅう</rt><rp>)</rp></ruby>ハイペリュトン",
     "name_jp_rom": "Shinjū Haiperyuton",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hyperyton, the Divine Tree Beast",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP047",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

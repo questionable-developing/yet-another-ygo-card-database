@@ -1,11 +1,14 @@
 {
     "cid": "b3a2346b-3ee3-4395-99dc-03217e0c6c4f",
+    "yid": 77584012,
     "password": "77584012",
     "kid": 8528,
     "name": "Pseudo Space",
     "name_jp": "<ruby lang=\"jp\"><rb>擬</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>似</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>間</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gijikūkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP3-JP018",
+            "set": "Extra Pack Volume 3",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SR03-JP027",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

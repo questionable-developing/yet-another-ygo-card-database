@@ -1,11 +1,14 @@
 {
     "cid": "39db4f5b-a7be-443b-b5ee-9638e39c23ab",
+    "yid": 76080032,
     "password": "76080032",
     "kid": 9879,
     "name": "ZW - Unicorn Spear",
     "name_jp": "<ruby lang=\"jp\"><rb>ＺＷ</rb><rp> (</rp><rt>ゼアル・ウェポン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>一角獣皇槍</rb><rp> (</rp><rt>ユニコーン・キング・スピア</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zearu Wepon - Yunikōn Kingu Supia",
+    "name_jp_rom_base": "Zearu Wepon - Ikkakujū Kōshū",
     "name_jp_tl": "ZEXAL Weapon - Unicorn King Spear",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP005",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "ST13-JP018",
+            "set": "Starter Deck 2013",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +122,6 @@
             "Requires control of specific card",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

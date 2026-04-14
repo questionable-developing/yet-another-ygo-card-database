@@ -1,11 +1,14 @@
 {
     "cid": "0c583e5f-b0ac-4ebc-8c16-67fec8e036f5",
+    "yid": 48150362,
     "password": "48150362",
     "kid": 14259,
     "name": "Destiny HERO - Drawhand",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ドローガイ",
     "name_jp_rom": "Desutenī Hīrō Dorōgai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Drawguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP20-EN055",
             "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP009",
+            "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +102,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

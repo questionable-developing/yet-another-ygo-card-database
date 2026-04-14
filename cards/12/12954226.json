@@ -1,12 +1,14 @@
 {
     "cid": "a70a3672-aa72-49d8-b99f-42a12f5003af",
-    "yid": null,
+    "yid": 12954226,
     "password": "12954226",
     "kid": 18187,
     "name": "Circle of the Fairies",
     "name_jp": "サークル・オブ・フェアリー",
     "name_jp_rom": "Sākuru Obu Fearī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Circle of Fairy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP042",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

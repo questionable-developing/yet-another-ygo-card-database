@@ -1,11 +1,14 @@
 {
     "cid": "5eba03f0-c480-410c-a0ec-1a4a3249df65",
+    "yid": 93078761,
     "password": "93078761",
     "kid": 15301,
     "name": "Diced Dice",
     "name_jp": "<ruby lang=\"jp\"><rb>賽</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>挑</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saichōsen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dice Challenge",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP067",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

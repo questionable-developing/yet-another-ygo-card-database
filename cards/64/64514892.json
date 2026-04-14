@@ -1,11 +1,14 @@
 {
     "cid": "402b687e-f04c-4f92-bac1-499bc7011adf",
+    "yid": 64514892,
     "password": "64514892",
     "kid": 13605,
     "name": "Fire Fighting Daruma Doll",
     "name_jp": "<ruby lang=\"jp\"><rb>小</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ヒダルマー",
     "name_jp_rom": "Shōbōshi Hidarumā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dwarf Monk Hidarumar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP051",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

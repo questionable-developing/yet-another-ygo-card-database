@@ -1,11 +1,14 @@
 {
     "cid": "06b1121f-cf7a-4c0c-b0eb-6d75f38741ff",
+    "yid": 45195443,
     "password": "45195443",
     "kid": 13638,
     "name": "Elemental HERO Solid Soldier",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ソリッドマン",
     "name_jp_rom": "Erementaru Hīrō Soriddoman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Solidman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP142",
+            "set": "V Jump March 2018 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP012",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

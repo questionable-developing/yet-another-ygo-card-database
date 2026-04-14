@@ -1,11 +1,14 @@
 {
     "cid": "ed9a1c38-57be-406a-a0cc-eff34b918b5b",
+    "yid": 71734607,
     "password": "71734607",
     "kid": 15110,
     "name": "Rikka Petal",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>りっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>のひとひら",
     "name_jp_rom": "Rikka no Hitohira",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Snowflower Petal",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -47,6 +50,23 @@
             "set": "Maze of Memories",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBSS-JP014",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP054",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -92,5 +112,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "a8ce02b0-21aa-4117-a800-466769f778aa",
-    "yid": null,
+    "yid": 9126351,
     "password": "09126351",
     "kid": 8469,
     "name": "Swap Frog",
     "name_jp": "<ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ガエル",
     "name_jp_rom": "Kigaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ogre Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -71,6 +73,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP034",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP060",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT15-JP006",
+            "set": "Advanced Tournament Pack 2016 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC03-JP003",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -117,5 +151,6 @@
             "Limited activations",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

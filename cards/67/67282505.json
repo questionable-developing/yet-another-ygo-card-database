@@ -1,11 +1,14 @@
 {
     "cid": "b89a7a8a-248a-4252-a846-bee281e06c44",
+    "yid": 67282505,
     "password": "67282505",
     "kid": 17772,
     "name": "Mitsu the Insect Ninja",
     "name_jp": "<ruby lang=\"jp\"><rb>蟲</rb><rp> (</rp><rt>むし</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>蜜</rb><rp> (</rp><rt>ミツ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mushi no Ninja - Mitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -63,6 +66,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP016",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DABL-JP016",
+            "set": "Darkwing Blast +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +127,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

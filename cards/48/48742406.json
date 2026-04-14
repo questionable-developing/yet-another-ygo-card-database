@@ -1,11 +1,14 @@
 {
     "cid": "0a0f15d6-3d67-4a1e-afe2-5d82c17e5f3b",
+    "yid": 48742406,
     "password": "48742406",
     "kid": 8796,
     "name": "Fairy Archer",
     "name_jp": "フェアリー・アーチャー",
     "name_jp_rom": "Fearī Āchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -48,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP020",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP131",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

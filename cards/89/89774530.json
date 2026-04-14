@@ -1,11 +1,14 @@
 {
     "cid": "5f5b4bc9-4c14-4c7b-8862-c6f16af1d322",
+    "yid": 89774530,
     "password": "89774530",
     "kid": 10138,
     "name": "Heroic Challenger - Double Lance",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｈ</rb><rp> (</rp><rt>ヒロイック</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チャレンジャー</rt><rp>)</rp></ruby> ダブル・ランス",
     "name_jp_rom": "Hiroikku Charenjā Daburu Ransu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP008",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,9 +74,7 @@
         ],
         "suparc": [],
         "asuparc": [],
-        "rel": [
-            "Heroic Champion"
-        ],
+        "rel": [],
         "counter": [],
         "action": [
             "Activates upon Normal Summon"
@@ -84,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

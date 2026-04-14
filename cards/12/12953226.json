@@ -1,12 +1,14 @@
 {
     "cid": "a3d3e164-316a-4254-a730-dd22d6622e26",
-    "yid": null,
+    "yid": 12953226,
     "password": "12953226",
     "kid": 5096,
     "name": "Nuvia the Wicked",
     "name_jp": "<ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>ヌヴィア",
     "name_jp_rom": "Mejashin Nuvia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Nuvia the Wicked Goddess",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SM-12",
+            "set": "Spell of Mask",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DL3-051",
+            "set": "Duelist Legacy Volume.3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BE1-JP216",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

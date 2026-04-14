@@ -1,11 +1,14 @@
 {
     "cid": "3b896df9-ef83-4758-b0e7-b50b2fb7b3b9",
+    "yid": 37617348,
     "password": "37617348",
     "kid": 17994,
     "name": "Rescue-ACE Hydrant",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｒ－ＡＣＥ</rb><rp> (</rp><rt>レスキュー・エース</rt><rp>)</rp></ruby>ハイドラント",
     "name_jp_rom": "Resukyū Ēsu Haidoranto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP004",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA07",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +117,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

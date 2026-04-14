@@ -1,12 +1,14 @@
 {
     "cid": "da31a2e9-22be-44d7-951a-a74ba53d1906",
-    "yid": null,
+    "yid": 2656842,
     "password": "02656842",
     "kid": 16628,
     "name": "Beetrooper Scout Buggy",
     "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫</rb><rp> (</rp><rt>ビートルーパー</rt><rp>)</rp></ruby>スカウト・バギー",
     "name_jp_rom": "Bītorūpā Sukauto Bagī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +60,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP001",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

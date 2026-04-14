@@ -1,12 +1,14 @@
 {
     "cid": "56d64823-e5c4-485e-981a-52b9a8c62e2c",
-    "yid": null,
+    "yid": 30655537,
     "password": "30655537",
     "kid": 4977,
     "name": "Cyber Falcon",
     "name_jp": "メカファルコン",
     "name_jp_rom": "Mekafarukon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mechafalcon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CA-48",
+            "set": "Curse of Anubis (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-132",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -74,5 +92,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

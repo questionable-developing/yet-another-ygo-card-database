@@ -1,12 +1,14 @@
 {
     "cid": "fa74cbbf-9965-4b2a-ab5e-4711d9b26645",
-    "yid": null,
+    "yid": 3900605,
     "password": "03900605",
     "kid": 10060,
     "name": "Absorbing Jar",
     "name_jp": "アブソーブポッド",
     "name_jp_rom": "Abusōbu Poddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Absorb Pod",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP037",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

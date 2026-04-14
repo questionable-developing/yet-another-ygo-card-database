@@ -1,11 +1,14 @@
 {
     "cid": "20452464-1aa6-4a14-be7a-87e16e2c28ea",
+    "yid": 59644128,
     "password": "59644128",
     "kid": 13514,
     "name": "Gouki Jet Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ジェット・オーガ",
     "name_jp_rom": "Gōki Jetto Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Jet Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVB1-JP011",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

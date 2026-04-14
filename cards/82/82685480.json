@@ -1,11 +1,14 @@
 {
     "cid": "a3220f2f-5979-4c3d-a7ef-2217f303b081",
+    "yid": 82685480,
     "password": "82685480",
     "kid": 13178,
     "name": "Rage of Kairyu-Shin",
     "name_jp": "<ruby lang=\"jp\"><rb>海竜神</rb><rp> (</rp><rt>リバイアサン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>怒</rb><rp> (</rp><rt>いか</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Ribaiasan no Ikari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rage of Leviathan",
+    "name_jp_tl_base": "Rage of Sea Dragon God",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP017",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP26-JP027",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

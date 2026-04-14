@@ -1,11 +1,14 @@
 {
     "cid": "71b4373a-600c-4bcc-b9e1-a7236b45ffa5",
+    "yid": 88753594,
     "password": "88753594",
     "kid": 14185,
     "name": "Lunalight Sabre Dancer",
     "name_jp": "<ruby lang=\"jp\"><rb>月光舞剣虎姫</rb><rp> (</rp><rt>ムーンライト・サーベル・ダンサー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Sāberu Dansā",
+    "name_jp_rom_base": "Gekkō Bukenkohime",
     "name_jp_tl": "Moonlight Sabre Dancer",
+    "name_jp_tl_base": "Moonlight Dancing Sword Tiger Princess",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "LunalightSabreDancer-LDS2-EN-C-1E.png",
-            "art": null
+            "full": "LunalightSabreDancer-LOCH-JP-SR.png",
+            "art": "LunalightSabreDancer-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "LunalightSabreDancer-OP28-EN-C-UE.png",
+            "art": "LunalightSabreDancer-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LED4-EN045",
@@ -58,6 +66,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP21-JP045",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP052",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +95,9 @@
             "Beast-Warrior",
             "Fusion Monster"
         ],
-        "asup": [],
+        "asup": [
+            "Beast-Warrior"
+        ],
         "arc": [
             "Lunalight"
         ],
@@ -103,5 +132,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

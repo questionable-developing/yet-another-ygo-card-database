@@ -1,11 +1,14 @@
 {
     "cid": "e26dc957-4d6d-432e-b677-c03442d4d1d4",
+    "yid": 52596406,
     "password": "52596406",
     "kid": 19461,
     "name": "White Sunfish",
     "name_jp": "<ruby lang=\"jp\"><rb>白曼波</rb><rp> (</rp><rt>ホワイト・マンボウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Howaito Manbou",
+    "name_jp_rom_base": "Shiro Manbou",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP006",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

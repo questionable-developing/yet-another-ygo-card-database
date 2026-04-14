@@ -1,11 +1,14 @@
 {
     "cid": "c3c6fa99-0c37-4b65-8184-80024ff3e0fd",
+    "yid": 44800181,
     "password": "44800181",
     "kid": 6893,
     "name": "Combo Master",
     "name_jp": "コンボマスター",
     "name_jp_rom": "Konbomasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP029",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +83,6 @@
         "misc": [
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a94f6311-5bfb-4e95-bc72-ad7bf4ac7999",
+    "yid": 50486289,
     "password": "50486289",
     "kid": 17612,
     "name": "Amazoness War Chief",
     "name_jp": "アマゾネスの<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>長</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amazonesu no Senshichō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amazoness Warrior Chief",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +58,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP27-JP032",
+            "set": "Duelist Pack: Duelists of Pyroxene",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +110,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

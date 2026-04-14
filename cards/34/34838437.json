@@ -1,12 +1,14 @@
 {
     "cid": "b73f8db0-64c3-4193-84dd-2bdf86480833",
-    "yid": null,
+    "yid": 34838437,
     "password": "34838437",
     "kid": 10342,
     "name": "Accellight",
     "name_jp": "アクセル・ライト",
     "name_jp_rom": "Akuseru Raito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP13-JP027",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AT14-JP003",
+            "set": "Advanced Tournament Pack 2016 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP20-JP044",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +106,6 @@
             "Only once per turn",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

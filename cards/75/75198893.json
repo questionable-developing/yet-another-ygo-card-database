@@ -1,11 +1,14 @@
 {
     "cid": "b9dfe204-7e27-4dde-beb5-43ea41cd0a66",
+    "yid": 75198893,
     "password": "75198893",
     "kid": 8027,
     "name": "Scanner",
     "name_jp": "スキヤナー",
     "name_jp_rom": "Sukiyanā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP032",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

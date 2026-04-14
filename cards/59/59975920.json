@@ -1,11 +1,14 @@
 {
     "cid": "fecff72f-798b-458c-8c06-67fbfb5dc968",
+    "yid": 59975920,
     "password": "59975920",
     "kid": 12215,
     "name": "Super Quantum Red Layer",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>量</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>レッドレイヤー",
     "name_jp_rom": "Chōryōshi Reddo Reiyā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -21,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn.<br />● When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand.<br />● If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
+    "desc": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn. When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand. If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
     "pend_eff": null,
-    "mnst_eff": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn.\n● When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand.\n● If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
-    "eff": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn.\n● When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand.\n● If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
+    "mnst_eff": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn. When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand. If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
+    "eff": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of \"Super Quantum Red Layer\" once per turn. When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your GY; add it to your hand. If this card is sent to the GY: You can target 1 \"Super Quant\" monster in your GY, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "SuperQuantumRedLayer-OP14-EN-SR-UE.png",
+            "full": "SuperQuantumRedLayer-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -54,6 +57,35 @@
             "set": "OTS Tournament Pack 14",
             "rarities": {
                 "Super Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN008",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP030",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP103",
+            "set": "Tournament Pack 2025 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -100,5 +132,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

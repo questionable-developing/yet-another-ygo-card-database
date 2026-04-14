@@ -1,12 +1,14 @@
 {
     "cid": "54367a58-1100-4bd1-9193-84c5ae1403c3",
-    "yid": null,
+    "yid": 1834753,
     "password": "01834753",
     "kid": 8080,
     "name": "Overdrive Teleporter",
     "name_jp": "マックス・テレポーター",
     "name_jp_rom": "Makkusu Terepōtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Max Teleporter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP024",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

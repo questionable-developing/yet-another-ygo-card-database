@@ -1,11 +1,14 @@
 {
     "cid": "4e3e276e-9390-4b2d-908a-803649cda924",
+    "yid": 95477924,
     "password": "95477924",
     "kid": 16654,
     "name": "Magician's Salvation",
     "name_jp": "マジシャンズ・サルベーション",
     "name_jp_rom": "Majishanzu Sarubēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -65,6 +68,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP2-JP062",
+            "set": "World Premiere Pack 2021",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP069",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP022",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +136,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

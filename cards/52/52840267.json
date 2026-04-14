@@ -1,11 +1,14 @@
 {
     "cid": "10d4a7a7-168a-4525-8331-dd17d6a57ff2",
+    "yid": 52840267,
     "password": "52840267",
     "kid": 12724,
     "name": "Darklord Ixchel",
     "name_jp": "<ruby lang=\"jp\"><rb>堕</rb><rp> (</rp><rt>だ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>イシュタム",
     "name_jp_rom": "Datenshi Ishutamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fallen Angel Ixtab",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "DarklordIxchel-MAGO-EN-R-1E.png",
+            "full": "DarklordIxchel-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -54,6 +57,44 @@
             "set": "Maximum Gold",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN010",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPDS-JP030",
+            "set": "Booster SP: Destiny Soldiers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP019",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP009",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -99,5 +140,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

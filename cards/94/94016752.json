@@ -1,11 +1,14 @@
 {
     "cid": "a2106e35-400f-4487-8ee1-2761bfb793d9",
+    "yid": 94016752,
     "password": "94016752",
     "kid": 13950,
     "name": "Herald of the Abyss",
     "name_jp": "<ruby lang=\"jp\"><rb>深</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>淵</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>宣</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>告</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shin'en no Senkokusha",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP063",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR14-JP032",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

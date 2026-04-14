@@ -1,12 +1,14 @@
 {
     "cid": "306fbbf6-af5f-4177-9635-eade9d90051f",
-    "yid": null,
+    "yid": 18861006,
     "password": "18861006",
     "kid": 21169,
     "name": "Crimson Firewing Pegasus",
     "name_jp": "<ruby lang=\"jp\"><rb>紅</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>馬</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>ファイヤー・ウイング・ペガサス",
     "name_jp_rom": "Kōtenma Faiyā Uingu Pegasasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fire Wing Pegasus, the Crimson Heavenly Horse",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ALIN-EN032",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP032",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
             "Chain Effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

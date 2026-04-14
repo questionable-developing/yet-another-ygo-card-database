@@ -1,12 +1,14 @@
 {
     "cid": "10ccd01d-8fdd-4117-93aa-212e4c23aaf1",
-    "yid": null,
+    "yid": 14957440,
     "password": "14957440",
     "kid": 15992,
     "name": "Otoshidamashi",
     "name_jp": "<ruby lang=\"jp\"><rb>落魂</rb><rp> (</rp><rt>オトシダマシイ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Otoshidamashii",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP031",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

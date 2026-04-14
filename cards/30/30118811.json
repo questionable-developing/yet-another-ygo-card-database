@@ -1,12 +1,14 @@
 {
     "cid": "4b470b0d-4746-4f49-903a-13bb54d9c9bf",
-    "yid": null,
+    "yid": 30118811,
     "password": "30118811",
     "kid": 21139,
     "name": "Backup @Ignister",
     "name_jp": "バックアップ<ruby lang=\"jp\"><rb>＠</rb><rp> (</rp><rt>アット</rt><rp>)</rp></ruby>イグニスター",
     "name_jp_rom": "Bakkuappu Atto Igunisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,7 +33,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "BackupIgnister-ALIN-JP-SR.png",
+            "full": "BackupIgnister-LART-EN-UR-LE.png",
             "art": "BackupIgnister-MADU-JP-VG-artwork.png"
         },
         "1.1": {
@@ -40,13 +42,39 @@
             "art": "BackupIgnister-MADU-EN-VG-artwork.png"
         }
     },
-    "image": "1.1",
+    "image": "1",
     "sets": [
         {
             "sid": "ALIN-EN002",
             "set": "Alliance Insight",
             "rarities": {
                 "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LART-EN080",
+            "set": "The Lost Art Promotion 2025 E",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP002",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "ALIN-JP002",
+            "set": "Alliance Insight +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -93,5 +121,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

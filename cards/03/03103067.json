@@ -1,12 +1,14 @@
 {
     "cid": "da7734f0-344a-4349-ac99-16e5ca648bd4",
-    "yid": null,
+    "yid": 3103067,
     "password": "03103067",
     "kid": 5487,
     "name": "Attack Guidance Armor",
     "name_jp": "<ruby lang=\"jp\"><rb>攻</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>誘</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>アーマー",
     "name_jp_rom": "Kōgeki Yūdō Āmā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +42,15 @@
     "sets": [
         {
             "sid": "KC01-EN001",
+            "set": "25th Anniversary Ultimate Kaiba Set",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "KC01-JP001",
             "set": "25th Anniversary Ultimate Kaiba Set",
             "rarities": {
                 "Ultra Rare": []
@@ -80,5 +91,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

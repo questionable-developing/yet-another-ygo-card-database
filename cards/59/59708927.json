@@ -1,11 +1,14 @@
 {
     "cid": "68dfe4ff-84ff-4193-a885-de610311e7a6",
+    "yid": 59708927,
     "password": "59708927",
     "kid": 11039,
     "name": "Umbral Horror Ghost",
     "name_jp": "アンブラル・ゴースト",
     "name_jp_rom": "Anburaru Gōsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Umbral Ghost",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "PRIO-EN010",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP010",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

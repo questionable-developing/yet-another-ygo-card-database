@@ -1,12 +1,14 @@
 {
     "cid": "5f8be516-81c1-422e-b671-92a6e381725f",
-    "yid": null,
+    "yid": 6214163,
     "password": "06214163",
     "kid": 18542,
     "name": "Double Hooking",
     "name_jp": "ダブル・フッキング",
     "name_jp_rom": "Daburu Fukkingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP079",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

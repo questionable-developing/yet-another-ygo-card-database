@@ -1,11 +1,14 @@
 {
     "cid": "fdfa3fdd-9665-4152-acb9-953c2c896f71",
+    "yid": 78845026,
     "password": "78845026",
     "kid": 7744,
     "name": "Lightwave Tuning",
     "name_jp": "ライトニング・チューン",
     "name_jp_rom": "Raitoningu Chūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightning Tune",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP050",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
             "Requires control of specific Level",
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

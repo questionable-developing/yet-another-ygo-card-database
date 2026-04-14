@@ -1,12 +1,14 @@
 {
     "cid": "d09371ba-b30b-4d6c-b473-34bc1b3cfa09",
-    "yid": null,
+    "yid": 24874630,
     "password": "24874630",
     "kid": 5632,
     "name": "Fiend's Sanctuary",
     "name_jp": "デビルズ・サンクチュアリ",
     "name_jp_rom": "Debiruzu Sankuchuari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Devil's Sanctuary",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,16 +29,21 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "FiendsSanctuary-KC01-EN-UR-UE.png",
-            "art": "FiendsSanctuary-MADU-JP-VG-artwork.png"
+            "full": "FiendsSanctuary-VB5-JP-UR.jpg",
+            "art": "FiendsSanctuary-TF05-JP-VG-artwork.png"
         },
         "1.1": {
             "idx": "1.1",
+            "full": "FiendsSanctuary-KC01-EN-UR-UE.png",
+            "art": "FiendsSanctuary-MADU-JP-VG-artwork.png"
+        },
+        "1.2": {
+            "idx": "1.2",
             "full": "FiendsSanctuary-SBCB-EN-C-1E.png",
             "art": "FiendsSanctuary-MADU-EN-VG-artwork.png"
         }
     },
-    "image": "1",
+    "image": "1.1",
     "sets": [
         {
             "sid": "CP05-EN001",
@@ -97,6 +104,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VB5-001",
+            "set": "The Valuable Book 5 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP014",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "PGB1-JP034",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "KC01-JP047",
+            "set": "25th Anniversary Ultimate Kaiba Set",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -134,5 +171,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

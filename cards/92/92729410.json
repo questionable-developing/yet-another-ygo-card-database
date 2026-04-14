@@ -1,11 +1,14 @@
 {
     "cid": "d68a2a92-0dc4-4ffa-8a2c-d23a430cd225",
+    "yid": 92729410,
     "password": "92729410",
     "kid": 10745,
     "name": "Baby Raccoon Ponpoko",
     "name_jp": "<ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>狸</rb><rp> (</rp><rt>だぬき</rt><rp>)</rp></ruby>ぽんぽこ",
     "name_jp_rom": "Kodanuki Ponpoko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Baby Tanuki Ponpoko",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP014",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

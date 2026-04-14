@@ -1,12 +1,14 @@
 {
     "cid": "7897a675-88df-4d18-a355-9743053627cd",
-    "yid": null,
+    "yid": 33854624,
     "password": "33854624",
     "kid": 17762,
     "name": "Bystial Magnamhut",
     "name_jp": "<ruby lang=\"jp\"><rb>深淵の獣</rb><rp> (</rp><rt>ビーステッド</rt><rp>)</rp></ruby>マグナムート",
     "name_jp_rom": "Bīsuteddo Magunamūto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Byssted Magnamut",
+    "name_jp_tl_base": "Abyss Beast Magnamut",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP006",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP137",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP011",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +137,6 @@
             "Can be activated during either player's turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

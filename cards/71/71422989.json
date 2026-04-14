@@ -1,11 +1,14 @@
 {
     "cid": "44bfe43b-f7c6-4380-9431-c16e4d5cba0b",
+    "yid": 71422989,
     "password": "71422989",
     "kid": 11453,
     "name": "Absorb Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>吸光融合</rb><rp> (</rp><rt>アブソープ・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Abusōpu Fyūjon",
+    "name_jp_rom_base": "Kyūkō Yūgō",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -44,6 +47,23 @@
             "set": "Battles of Legend: Monster Mayhem",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPRG-JP044",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP070",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -88,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

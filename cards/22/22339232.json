@@ -1,12 +1,14 @@
 {
     "cid": "48d9c8fc-03fe-4432-b23b-20d3db1977da",
-    "yid": null,
+    "yid": 22339232,
     "password": "22339232",
     "kid": 9112,
     "name": "Wightmare",
     "name_jp": "ワイトメア",
     "name_jp_rom": "Waitomea",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP035",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +91,7 @@
         ],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -90,5 +101,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

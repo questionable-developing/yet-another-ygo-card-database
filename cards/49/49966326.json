@@ -1,11 +1,14 @@
 {
     "cid": "4dc88b7d-e869-48e8-b6e3-e43bfea943a3",
+    "yid": 49966326,
     "password": "49966326",
     "kid": 15492,
     "name": "Virtual World Kirin - Lili",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堺</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>麟</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>麟</rb><rp> (</rp><rt>リィ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>々</rb><rp> (</rp><rt>リィ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dennōkairin - Ryiryi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP013",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

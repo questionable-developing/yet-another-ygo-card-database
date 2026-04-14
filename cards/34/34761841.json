@@ -1,12 +1,14 @@
 {
     "cid": "300f5173-92a6-413a-918f-7b2ab95b3f02",
-    "yid": null,
+    "yid": 34761841,
     "password": "34761841",
     "kid": 15003,
     "name": "Crimson Resonator",
     "name_jp": "クリムゾン・リゾネーター",
     "name_jp_rom": "Kurimuzon Rizonētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP017",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD46-JP008",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS02",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +131,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

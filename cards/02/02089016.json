@@ -1,12 +1,14 @@
 {
     "cid": "f24e4443-79fa-43dd-97e3-591e81c2ac4a",
-    "yid": null,
+    "yid": 2089016,
     "password": "02089016",
     "kid": 14825,
     "name": "Chronomaly Tuspa Rocket",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>トゥスパ・ロケット",
     "name_jp_rom": "Ōpātsu Tusupa Roketto",
+    "name_jp_rom_base": "Senshi Isan Tusupa Roketto",
     "name_jp_tl": "OOPArts Tuspa Rocket",
+    "name_jp_tl_base": "Prehistoric Heritage Tuspa Rocket",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "BLC1-EN161",
             "set": "Battles of Legend: Chapter 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP016",
+            "set": "Ignition Assault",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

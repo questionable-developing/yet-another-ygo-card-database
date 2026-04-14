@@ -1,11 +1,14 @@
 {
     "cid": "1e1386f3-f74c-4f60-b5af-f9ac710b4e74",
+    "yid": 37405032,
     "password": "37405032",
     "kid": 20292,
     "name": "Trickstar Aqua Angel",
     "name_jp": "トリックスター・アクアエンジェル",
     "name_jp_rom": "Torikkusutā Akua Enjeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -48,6 +51,16 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP037",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -96,7 +109,9 @@
         "misc": [
             "Archetype condition",
             "Only once per Duel",
-            "Requires control of specific archetype"
+            "Requires control of specific archetype",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

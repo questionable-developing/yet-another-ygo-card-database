@@ -1,11 +1,14 @@
 {
     "cid": "0f7927ee-949d-41e4-82f6-50bb98f36d07",
+    "yid": 74578720,
     "password": "74578720",
     "kid": 14827,
     "name": "Time Thief Chronocorder",
     "name_jp": "クロノダイバー・タイムレコーダー",
     "name_jp_rom": "Kuronodaibā Taimurekōdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chronodiver Time Recorder",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP018",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

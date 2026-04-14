@@ -1,11 +1,14 @@
 {
     "cid": "a125342e-a87c-4b6a-8fac-692badd1619e",
+    "yid": 80196387,
     "password": "80196387",
     "kid": 9403,
     "name": "Rose Bell of Revelation",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>啓</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>薔薇の鐘</rb><rp> (</rp><rt>ローズ・ベル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenkei no Rōzu Beru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "19PP-JP015",
+            "set": "Premium Pack 2019",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +97,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

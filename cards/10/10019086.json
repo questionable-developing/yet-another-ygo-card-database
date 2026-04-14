@@ -1,12 +1,14 @@
 {
     "cid": "59e4df78-adc0-4a5d-8177-8184743b0a0b",
-    "yid": null,
+    "yid": 10019086,
     "password": "10019086",
     "kid": 18193,
     "name": "Tri-Brigade Arms Bucephalus II",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣式強襲機動兵装改</rb><rp> (</rp><rt>トライブリゲード・アームズ</rt><rp>)</rp></ruby>“<ruby lang=\"jp\"><rb>Ｂｕｃｅｐｈａｌｕｓ</rb><rp> (</rp><rt>ブーケファルス</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ⅱ</rb><rp> (</rp><rt>ツー</rt><rp>)</rp></ruby>”",
     "name_jp_rom": "Toraiburigēdo Āmuzu \"Būkefarusu Tsū\"",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Iron Beast-Style Assault Mobile Arms Revision \"Bucephalus II\"",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP048",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHHY-JP048",
+            "set": "Photon Hypernova +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP160",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +135,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

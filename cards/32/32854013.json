@@ -1,12 +1,14 @@
 {
     "cid": "b127b237-d4c8-44d8-86ef-ca73086ee31c",
-    "yid": null,
+    "yid": 32854013,
     "password": "32854013",
     "kid": 9211,
     "name": "Super Rush Recklessly",
     "name_jp": "<ruby lang=\"jp\"><rb>猛</rb><rp> (</rp><rt>もう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>突</rb><rp> (</rp><rt>とっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>進</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mōtosshin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Violent Rush",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -63,6 +65,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP020",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

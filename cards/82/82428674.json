@@ -1,11 +1,14 @@
 {
     "cid": "ebcea9c1-1863-4537-b64e-1a7b02257fc3",
+    "yid": 82428674,
     "password": "82428674",
     "kid": 13787,
     "name": "Cybernetic Overflow",
     "name_jp": "サイバネティック・オーバーフロー",
     "name_jp_rom": "Saibanetikku Ōbāfurō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP073",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

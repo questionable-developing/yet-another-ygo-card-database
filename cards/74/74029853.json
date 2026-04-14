@@ -1,11 +1,14 @@
 {
     "cid": "9f94aef7-5aef-42f2-aa13-b791f4be08fa",
+    "yid": 74029853,
     "password": "74029853",
     "kid": 7635,
     "name": "Golden Bamboo Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>黄</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>がね</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>色</rb><rp> (</rp><rt>いろ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>竹</rb><rp> (</rp><rt>たけ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>みつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Koganeiro no Takemitsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP062",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP149",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR09-JP030",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +104,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

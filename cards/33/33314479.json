@@ -1,12 +1,14 @@
 {
     "cid": "b903091a-b070-42c5-a040-46825c735fdd",
-    "yid": null,
+    "yid": 33314479,
     "password": "33314479",
     "kid": 14608,
     "name": "Flying Red Carp",
     "name_jp": "<ruby lang=\"jp\"><rb>飛</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鯉</rb><rp> (</rp><rt>ごい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Higoi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flying Carp",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "19PR-JP008",
+            "set": "Promotion Pack 2019",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

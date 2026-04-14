@@ -1,11 +1,14 @@
 {
     "cid": "5ed344bc-21ec-4232-9349-20f317942cdd",
+    "yid": 76798740,
     "password": "76798740",
     "kid": 13536,
     "name": "Vendread Charge",
     "name_jp": "ヴェンデット・チャージ",
     "name_jp_rom": "Vendetto Chāji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vendead Charge",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "EXFO-EN084",
             "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP18-JP013",
+            "set": "Extra Pack 2018",
             "rarities": {
                 "Rare": []
             }
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

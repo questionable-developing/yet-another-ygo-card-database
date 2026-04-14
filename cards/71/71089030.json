@@ -1,11 +1,14 @@
 {
     "cid": "ccdc31a8-05e9-44d5-9292-9f40170dd2ef",
+    "yid": 71089030,
     "password": "71089030",
     "kid": 19045,
     "name": "Earthbound Prison",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牢</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jibakurō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,16 @@
             "set": "Maze of Millennia",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC03-JP024",
+            "set": "Animation Chronicle 2023",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -83,5 +96,6 @@
             "Gain this effect once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

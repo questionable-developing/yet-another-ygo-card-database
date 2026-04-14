@@ -1,12 +1,14 @@
 {
     "cid": "0369210a-3084-407d-9689-20679f96014c",
-    "yid": null,
+    "yid": 14772491,
     "password": "14772491",
     "kid": 6780,
     "name": "Common Soul",
     "name_jp": "<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>たましい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>共</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>有</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby>－コモンソウル",
     "name_jp_rom": "Tamashī no Kyōyū - Komon Souru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Soul Sharing - Common Soul",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP045",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP03-JP023",
+            "set": "Duelist Pack: Jaden Yuki 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

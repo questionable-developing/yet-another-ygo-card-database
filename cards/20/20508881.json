@@ -1,12 +1,14 @@
 {
     "cid": "61cf8467-2f17-45da-acdc-a05bd328dbb0",
-    "yid": null,
+    "yid": 20508881,
     "password": "20508881",
     "kid": 21829,
     "name": "Radiant Typhoon Vision",
     "name_jp": "<ruby lang=\"jp\"><rb>絢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>嵐</rb><rp> (</rp><rt>らん</rt><rp>)</rp></ruby>たる<ruby lang=\"jp\"><rb>見</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kenrantaru Kenshin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Radiant Typhoon Beatific Vision",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "RadiantTyphoonVision-DOOD-EN-C-1E.png",
+            "full": "RadiantTyphoonVision-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -35,6 +37,28 @@
     "sets": [
         {
             "sid": "DOOD-EN063",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RA05-EN075",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP063",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -83,5 +107,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

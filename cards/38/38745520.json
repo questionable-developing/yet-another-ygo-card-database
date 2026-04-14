@@ -1,11 +1,14 @@
 {
     "cid": "9d344dda-f125-4be5-9de7-d80717991401",
+    "yid": 38745520,
     "password": "38745520",
     "kid": 16755,
     "name": "Dracoback, the Rideable Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ドラコバック",
     "name_jp_rom": "Kiryū Dorakobakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP032",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +107,6 @@
             "Requires control of specific Monster type",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

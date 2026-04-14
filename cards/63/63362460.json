@@ -1,11 +1,14 @@
 {
     "cid": "9045705f-0e29-4328-9d0f-0305a6d74887",
+    "yid": 63362460,
     "password": "63362460",
     "kid": 12707,
     "name": "Destiny HERO - Celestial",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ディバインガイ",
     "name_jp_rom": "Desutenī Hīrō Dibaingai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny Hero Divineguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPDS-JP006",
+            "set": "Booster SP: Destiny Soldiers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP307",
+            "set": "Tournament Pack 2021 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +125,6 @@
             "Requires having no cards in hand",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

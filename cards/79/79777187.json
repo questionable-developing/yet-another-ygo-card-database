@@ -1,11 +1,14 @@
 {
     "cid": "6a0ca6fc-1daa-4ed7-a86d-cdd61b579a12",
+    "yid": 79777187,
     "password": "79777187",
     "kid": 11842,
     "name": "Bubble Barrier",
     "name_jp": "バリア・バブル",
     "name_jp_rom": "Baria Baburu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Barrier Bubble",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP058",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "24c25572-0ee0-40fc-9c48-a2e39b602ed0",
+    "yid": 90965652,
     "password": "90965652",
     "kid": 16253,
     "name": "Dimer Synthesis",
     "name_jp": "<ruby lang=\"jp\"><rb>二量合成</rb><rp> (</rp><rt>ダイマー・シンセシス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daimā Shinseshisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DAMA-EN064",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP064",
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Requires control of specific Monster type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

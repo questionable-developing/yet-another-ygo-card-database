@@ -1,12 +1,14 @@
 {
     "cid": "5e8c3759-49df-4c11-a647-b7651712371d",
-    "yid": null,
+    "yid": 10182251,
     "password": "10182251",
     "kid": 16390,
     "name": "Lyrilusc - Beryl Canary",
     "name_jp": "<ruby lang=\"jp\"><rb>ＬＬ</rb><rp> (</rp><rt>リリカル・ルスキニア</rt><rp>)</rp></ruby>－ベリル・カナリー",
     "name_jp_rom": "Ririkaru Rusukinia - Beriru Kanarī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lyrical Luscinia - Beryl Canary",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "LED8-EN035",
             "set": "Legendary Duelists: Synchro Storm",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP25-JP034",
+            "set": "Duelist Pack: Duelists of Whirlwind",
             "rarities": {
                 "Rare": []
             }
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

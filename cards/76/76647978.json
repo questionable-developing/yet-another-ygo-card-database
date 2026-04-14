@@ -1,11 +1,14 @@
 {
     "cid": "5bc6decc-4507-4d7f-8cbc-b11313c591f5",
+    "yid": 76647978,
     "password": "76647978",
     "kid": 12966,
     "name": "Ultra Polymerization",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>越</rb><rp> (</rp><rt>えつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōetsu Yūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Transcendental Fusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,10 +57,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP052",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DBHS-JP043",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP410",
+            "set": "Tournament Pack 2025 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Cost, Effect, Condition, Ignition-like"
+            "Effect, Condition, Ignition-like"
         ],
         "mentions": [],
         "sup": [
@@ -102,5 +131,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

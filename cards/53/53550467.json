@@ -1,11 +1,14 @@
 {
     "cid": "ee1e9dc8-e3f9-4b25-bf5f-7f71ce9657b1",
+    "yid": 53550467,
     "password": "53550467",
     "kid": 10813,
     "name": "Noble Knight Drystan",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>トリスタン",
     "name_jp_rom": "Seikishi Torisutan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Tristan",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP005",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "97bca07d-3181-454d-86db-9a0f3a397818",
+    "yid": 91810826,
     "password": "91810826",
     "kid": 19859,
     "name": "Tenpai Dragon Chundra",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>盃</rb><rp> (</rp><rt>ぱい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>チュンドラ",
     "name_jp_rom": "Tenpairyū Chundora",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP018",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +113,6 @@
             "Requires control of specific Attribute",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

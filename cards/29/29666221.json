@@ -1,12 +1,14 @@
 {
     "cid": "aff0e60c-898d-4eca-b032-d6f2fe5cee8e",
-    "yid": null,
+    "yid": 29666221,
     "password": "29666221",
     "kid": 13957,
     "name": "Orcustrated Attack",
     "name_jp": "オルフェゴール・アタック",
     "name_jp_rom": "Orufegōru Atakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Attack",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SOFU-EN070",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP070",
             "set": "Soul Fusion",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

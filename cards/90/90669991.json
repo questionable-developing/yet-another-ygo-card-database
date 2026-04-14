@@ -1,11 +1,14 @@
 {
     "cid": "12febb8e-ab2e-4793-b146-6497d56fa1c3",
+    "yid": 90669991,
     "password": "90669991",
     "kid": 5619,
     "name": "Pineapple Blast",
     "name_jp": "パイナップル<ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ボ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>ム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Painappuru Bomu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pineapple Bomb",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "302-045",
+            "set": "Advent of Union",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP100",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

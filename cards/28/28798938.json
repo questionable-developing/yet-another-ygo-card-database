@@ -1,12 +1,14 @@
 {
     "cid": "918f8d9d-2aa9-40d7-883d-4843ea395af5",
-    "yid": null,
+    "yid": 28798938,
     "password": "28798938",
     "kid": 18501,
     "name": "Dual Avatar - Manifested A-Un",
     "name_jp": "<ruby lang=\"jp\"><rb>双</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>獅使</rb><rp> (</rp><rt>つかわしめ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>阿</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>吽</rb><rp> (</rp><rt>うん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōten no Tsukawashime - Aun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dual Sky Lion Envoys - A-Un",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "CYAC-EN038",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP038",
             "set": "Cyberstorm Access",
             "rarities": {
                 "Common": []
@@ -96,5 +107,6 @@
             "Requires control of specific archetype",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

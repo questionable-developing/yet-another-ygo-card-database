@@ -1,11 +1,14 @@
 {
     "cid": "a8857a49-dd80-4260-b3a5-0138593c50c6",
+    "yid": 77307161,
     "password": "77307161",
     "kid": 13593,
     "name": "Trickstar Bloom",
     "name_jp": "トリックスター・ブルム",
     "name_jp_rom": "Torikkusutā Burumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trickstar Broom",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +56,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP039",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP29-JP047",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

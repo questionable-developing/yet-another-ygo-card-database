@@ -1,11 +1,14 @@
 {
     "cid": "f7017bec-2443-4ad9-b0d5-62f39e70afc6",
+    "yid": 98427577,
     "password": "98427577",
     "kid": 7694,
     "name": "Scrap-Iron Scarecrow",
     "name_jp": "くず<ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>てつ</rt><rp>)</rp></ruby>のかかし",
     "name_jp_rom": "Kuzutetsu no Kakashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ScrapIronScarecrow-SD28-JP-C.png",
+            "art": "ScrapIronScarecrow-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ScrapIronScarecrow-SPWA-EN-SR-1E.png",
-            "art": null
+            "art": "ScrapIronScarecrow-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "5DS1-EN032",
@@ -82,6 +90,52 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "YSD3-JP032",
+            "set": "Starter Deck 2008",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YSD4-JP038",
+            "set": "Starter Deck 2009",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "YSD5-JP040",
+            "set": "Starter Deck 2010",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT13-JP046",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "GS05-JP019",
+            "set": "Gold Series 2013",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD28-JP035",
+            "set": "Structure Deck: Synchron Extreme",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -117,5 +171,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "904c98bf-046e-4656-ac51-c6fa397fa4a4",
+    "yid": 51849482,
     "password": "51849482",
     "kid": 19080,
     "name": "Finis Terrae, Tower of the Necroworld",
     "name_jp": "<ruby lang=\"jp\"><rb>屍</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>塔</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby>フィニステラ",
     "name_jp_rom": "Shikaitō Finisutera",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Finis Terrae, Tower of the Corpse World",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "DUNE-EN082",
             "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP043",
+            "set": "World Premiere Pack 2024",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +89,6 @@
             "Requires control of specific Level",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

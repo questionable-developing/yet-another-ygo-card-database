@@ -1,11 +1,14 @@
 {
     "cid": "c2031c6a-b086-4a2d-8e8b-dabae56e7424",
+    "yid": 74055055,
     "password": "74055055",
     "kid": 7054,
     "name": "Oil",
     "name_jp": "<ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>油</rb><rp> (</rp><rt>ゆ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>採</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>掘</rb><rp> (</rp><rt>くつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sekiyu Saikutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Oil Drilling",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "24PP-JP006",
+            "set": "Premium Pack 2024",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +84,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

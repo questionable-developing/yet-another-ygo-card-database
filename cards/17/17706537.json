@@ -1,12 +1,14 @@
 {
     "cid": "4fa9f0ff-768e-47ff-a359-4f9d621aa9e1",
-    "yid": null,
+    "yid": 17706537,
     "password": "17706537",
     "kid": 7338,
     "name": "Fossil Tusker",
     "name_jp": "マンモ・フォッシル",
     "name_jp_rom": "Manmo Fosshiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mammoth Fossil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP009",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

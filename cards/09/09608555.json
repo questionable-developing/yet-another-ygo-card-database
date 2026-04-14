@@ -1,12 +1,14 @@
 {
     "cid": "27f4956f-ee43-47e6-8576-505f61eae728",
-    "yid": null,
+    "yid": 9608555,
     "password": "09608555",
     "kid": 14785,
     "name": "Salamangreat Blaze Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>ブレイズ・ドラゴン",
     "name_jp_rom": "Saramangureito Bureizu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -49,6 +51,16 @@
             "set": "25th Anniversary Tin: Dueling Heroes",
             "rarities": {
                 "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVDS-JPA03",
+            "set": "LINK VRAINS Duelist Set",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -98,7 +110,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

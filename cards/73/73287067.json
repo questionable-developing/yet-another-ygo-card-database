@@ -1,11 +1,14 @@
 {
     "cid": "27f73054-a559-4704-9b0b-5fd548baf6fc",
+    "yid": 73287067,
     "password": "73287067",
     "kid": 15044,
     "name": "Link Burst",
     "name_jp": "リンク・バースト",
     "name_jp_rom": "Rinku Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP058",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

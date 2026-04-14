@@ -1,11 +1,14 @@
 {
     "cid": "f568e33f-c199-4e5e-a717-28920c5b37f1",
+    "yid": 73507661,
     "password": "73507661",
     "kid": 8356,
     "name": "Fairy Wind",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>かぜ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yōsei no Kaze",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FairyWind-ANPR-JP-R.jpg",
+            "art": "FairyWind-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FairyWind-SBCB-EN-C-1E.png",
-            "art": null
+            "art": "FairyWind-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ANPR-EN066",
@@ -58,6 +66,15 @@
             "set": "Speed Duel: Battle City Box",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP066",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -90,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

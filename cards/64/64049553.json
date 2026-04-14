@@ -1,11 +1,14 @@
 {
     "cid": "5e35b7e5-3fc2-4e80-8ff3-6dca5cf5875e",
+    "yid": 64049553,
     "password": "64049553",
     "kid": 19512,
     "name": "Raidraptor - Roost",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ルースト",
     "name_jp_rom": "Reido Raputāzu - Rūsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Roost",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP25-EN316",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP057",
+            "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
             }
@@ -85,5 +97,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b747f0da-dad2-45dc-b73a-4070e63e9f06",
-    "yid": null,
+    "yid": 11493868,
     "password": "11493868",
     "kid": 12329,
     "name": "Fortissimo",
     "name_jp": "フォルテッシモ",
     "name_jp_rom": "Forutesshimo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Fortissimo-SHVI-JP-C.png",
+            "art": "Fortissimo-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Fortissimo-SHVI-EN-C-1E.png",
-            "art": null
+            "art": "Fortissimo-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHVI-EN057",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP057",
             "set": "Shining Victories",
             "rarities": {
                 "Common": []
@@ -75,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

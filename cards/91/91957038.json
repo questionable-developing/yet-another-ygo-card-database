@@ -1,11 +1,14 @@
 {
     "cid": "93af3671-2b1c-4ad9-8054-6603f7a60c99",
+    "yid": 91957038,
     "password": "91957038",
     "kid": 15853,
     "name": "Fairy Tail Tales",
     "name_jp": "<ruby lang=\"jp\"><rb>妖精の伝姫</rb><rp> (</rp><rt>フェアリーテイル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fearī Teiru",
-    "name_jp_tl": null,
+    "name_jp_rom_base": "Yōsei no Denki",
+    "name_jp_tl": "Fairy Tail",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP019",
+            "set": "Selection 10",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS20",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -51,12 +70,12 @@
             "1850 ATK Monster Cards"
         ],
         "asup": [],
-        "arc": [
-            "Fairy Tail"
-        ],
+        "arc": [],
         "suparc": [],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Fairy Tail<!-- do not change it to a member. it is not one due to its name being 妖精の伝姫 instead of 妖精伝姫 -->"
+        ],
         "counter": [],
         "action": [
             "Reveals your hand for cost"
@@ -80,5 +99,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

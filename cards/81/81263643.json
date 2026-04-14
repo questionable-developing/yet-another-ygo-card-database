@@ -1,11 +1,14 @@
 {
     "cid": "04080253-0516-4fdc-bbdd-fd199331e663",
+    "yid": 81263643,
     "password": "81263643",
     "kid": 13913,
     "name": "Mystrick Hulder",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>フルドラ",
     "name_jp_rom": "Gen'yō Furudora",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP026",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +99,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

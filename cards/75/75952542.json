@@ -1,11 +1,14 @@
 {
     "cid": "dfa96425-4a50-4692-b274-9b2d060c520a",
+    "yid": 75952542,
     "password": "75952542",
     "kid": 17359,
     "name": "Vaylantz World - Konig Wissen",
     "name_jp": "<ruby lang=\"jp\"><rb>ＶＶ</rb><rp> (</rp><rt>ヴァリアンツ＝ワールド</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>百識公国</rb><rp> (</rp><rt>ケーニッヒ・ヴィッセン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Variantsu=Wārudo - Kēnihhi Vissen",
-    "name_jp_tl": "Valiants-Vorld - Konig Wissen",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Valiants-World - Konig Wissen",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "TAMA-EN013",
             "set": "Tactical Masters",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP013",
+            "set": "Deck-Build Pack: Tactical Masters",
             "rarities": {
                 "Super Rare": []
             }
@@ -83,5 +95,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

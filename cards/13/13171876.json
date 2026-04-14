@@ -1,12 +1,14 @@
 {
     "cid": "144edc43-2304-4d94-968f-7b1302299dbc",
-    "yid": null,
+    "yid": 13171876,
     "password": "13171876",
     "kid": 14759,
     "name": "Laundry Dragonmaid",
     "name_jp": "ドラゴンメイド・ラドリー",
     "name_jp_rom": "Doragonmeido Radorī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Laudry",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -35,44 +37,89 @@
         },
         "2": {
             "idx": "2",
-            "full": "LaundryDragonmaid-LPST-JP-OP.png",
+            "full": "LaundryDragonmaid-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "MYFI-EN016",
             "set": "Mystic Fighters",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "MAGO-EN021",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "RA03-EN021",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "BLMM-EN056",
             "set": "Battles of Legend: Monster Mayhem",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN095",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP016",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SLF1-JP058",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": ["1"],
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCTB-JP005",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": ["1"],
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP013",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -116,5 +163,6 @@
             "At the start of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

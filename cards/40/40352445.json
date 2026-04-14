@@ -1,11 +1,14 @@
 {
     "cid": "097a6260-df26-44e7-861f-f1752ee26ccd",
+    "yid": 40352445,
     "password": "40352445",
     "kid": 15993,
     "name": "White Knight of Dogmatika",
     "name_jp": "<ruby lang=\"jp\"><rb>凶導</rb><rp> (</rp><rt>ドラグマ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>白騎士</rb><rp> (</rp><rt>アルバス・ナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraguma no Arubasu Naito",
+    "name_jp_rom_base": "Kyōdō no Shirokishi",
     "name_jp_tl": "Albus Knight of Dragma",
+    "name_jp_tl_base": "White Knight of Evil Dogma",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP032",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP032",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP046",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

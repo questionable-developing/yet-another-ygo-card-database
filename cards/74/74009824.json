@@ -1,11 +1,14 @@
 {
     "cid": "ffcbd6d5-925c-47a9-859c-c0219389f794",
+    "yid": 74009824,
     "password": "74009824",
     "kid": 11567,
     "name": "El Shaddoll Wendigo",
     "name_jp": "エルシャドール・ウェンディゴ",
     "name_jp_rom": "Erushadōru Wendigo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP047",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP059",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP042",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +139,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

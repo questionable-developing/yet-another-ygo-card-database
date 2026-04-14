@@ -1,12 +1,14 @@
 {
     "cid": "dbcd8197-6202-472c-a197-8117c024ef3e",
-    "yid": null,
+    "yid": 11224103,
     "password": "11224103",
     "kid": 6099,
     "name": "Horus the Black Flame Dragon LV6",
     "name_jp": "ホルスの<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ＬＶ</rb><rp> (</rp><rt>レベル</rt><rp>)</rp></ruby>６",
     "name_jp_rom": "Horusu no Kokuenryū Reberu Shikkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Horus' Black Flame Dragon LV6",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -73,6 +75,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP007",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP007",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +131,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

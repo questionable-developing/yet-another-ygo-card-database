@@ -1,11 +1,14 @@
 {
     "cid": "870a357d-07ec-4254-bbd1-14ed30d068cb",
+    "yid": 71821687,
     "password": "71821687",
     "kid": 14592,
     "name": "Ascator, Dawnwalker",
     "name_jp": "<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>官</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>－アスカトル",
     "name_jp_rom": "Shishinkan - Asukatoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Envoy Priest - Ascator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP22-JP024",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP021",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

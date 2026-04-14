@@ -1,11 +1,14 @@
 {
     "cid": "285175ee-dad0-410e-8a75-76beed7f0560",
+    "yid": 67310848,
     "password": "67310848",
     "kid": 11865,
     "name": "Dwarf Star Dragon Planeter",
     "name_jp": "<ruby lang=\"jp\"><rb>矮</rb><rp> (</rp><rt>わい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> プラネター",
     "name_jp_rom": "Waiseiryū Puranetā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP081",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "eb5d009b-5301-42e0-8805-9d1b4fb5ab36",
-    "yid": null,
+    "yid": 7500772,
     "password": "07500772",
     "kid": 10492,
     "name": "Eagle Shark",
     "name_jp": "イーグル・シャーク",
     "name_jp_rom": "Īguru Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,22 @@
         {
             "sid": "LTGY-EN011",
             "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP011",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP15-JP013",
+            "set": "Duelist Pack: Kastle Siblings",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +96,6 @@
             "Requires control of specific card",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

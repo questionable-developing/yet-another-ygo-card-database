@@ -1,11 +1,14 @@
 {
     "cid": "6c929ee6-dc64-475a-a9f5-d0c55a6bdbdd",
+    "yid": 37613663,
     "password": "37613663",
     "kid": 20232,
     "name": "Millennium Ankh",
     "name_jp": "<ruby lang=\"jp\"><rb>千</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>年</rb><rp> (</rp><rt>ねん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>字</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sennen no Jūji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Millennium Cross",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP053",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +112,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

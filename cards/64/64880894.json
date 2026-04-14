@@ -1,11 +1,14 @@
 {
     "cid": "41430a8d-bca6-46ec-ac66-4f9d441ddecb",
+    "yid": 64880894,
     "password": "64880894",
     "kid": 12257,
     "name": "Stardust Charge Warrior",
     "name_jp": "スターダスト・チャージ・ウォリアー",
     "name_jp_rom": "Sutādasuto Chāji Woriā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP18-JP005",
+            "set": "Premium Pack 18",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP108",
+            "set": "Tournament Pack 2023 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP052",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

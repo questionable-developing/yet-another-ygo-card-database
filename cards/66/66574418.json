@@ -1,11 +1,14 @@
 {
     "cid": "794fdc22-278e-47c5-b444-7892544777e1",
+    "yid": 66574418,
     "password": "66574418",
     "kid": 11805,
     "name": "The Black Stone of Legend",
     "name_jp": "<ruby lang=\"jp\"><rb>伝説の黒石</rb><rp> (</rp><rt>ブラック・オブ・レジェンド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burakku Obu Rejendo",
+    "name_jp_rom_base": "Densetsu no Kuroishi",
     "name_jp_tl": "Black of Legend",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP021",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP110",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +112,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

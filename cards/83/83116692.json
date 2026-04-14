@@ -1,11 +1,14 @@
 {
     "cid": "4dd23123-db4d-4b3d-b26e-4ffe815b4730",
+    "yid": 83116692,
     "password": "83116692",
     "kid": 16217,
     "name": "Doombearer Psychopompos",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>－プシュコポンポス",
     "name_jp_rom": "Shigan no Denrei - Pushukoponposu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Messenger Spirit of the Fatal Eye - Psychopompos",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DAMA-EN028",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP028",
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

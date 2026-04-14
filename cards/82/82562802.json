@@ -1,11 +1,14 @@
 {
     "cid": "6c0975c5-0676-4a37-933a-8d480ee77ad7",
+    "yid": 82562802,
     "password": "82562802",
     "kid": 13181,
     "name": "Cyberdark Claw",
     "name_jp": "サイバー・ダーク・クロー",
     "name_jp_rom": "Saibā Dāku Kurō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP023",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP017",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +122,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

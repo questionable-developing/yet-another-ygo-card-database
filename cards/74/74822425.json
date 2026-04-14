@@ -1,11 +1,14 @@
 {
     "cid": "96a62a90-59f5-4691-a673-608f570c6c05",
+    "yid": 74822425,
     "password": "74822425",
     "kid": 11381,
     "name": "El Shaddoll Shekhinaga",
     "name_jp": "エルシャドール・シェキナーガ",
     "name_jp_rom": "Erushadōru Shekināga",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +62,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP049",
+            "set": "The New Challengers",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP057",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD37-JPP04",
+            "set": "Structure Deck: Rebirth of Shaddoll Deck Enhancement Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP078",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +141,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

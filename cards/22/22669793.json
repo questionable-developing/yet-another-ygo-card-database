@@ -1,12 +1,14 @@
 {
     "cid": "79b83e38-e046-4f5f-958a-ca2d227a6a38",
-    "yid": null,
+    "yid": 22669793,
     "password": "22669793",
     "kid": 21214,
     "name": "Eldlixir of the Glorious Golden Land",
     "name_jp": "<ruby lang=\"jp\"><rb>貴</rb><rp> (</rp><rt>とうと</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>黄</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>ごん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>郷</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>のエルドリクシル",
     "name_jp_rom": "Tōtoki Ōgonkyō no Erudorikushiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP077",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,7 +72,9 @@
             "Golden Land"
         ],
         "asuparc": [],
-        "rel": [],
+        "rel": [
+            "Eldlich"
+        ],
         "counter": [],
         "action": [
             "Returns from field to hand",
@@ -88,5 +101,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

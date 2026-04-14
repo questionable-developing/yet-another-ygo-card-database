@@ -1,12 +1,14 @@
 {
     "cid": "359ca54c-b998-4ee6-ada8-bc77a98dff8f",
-    "yid": null,
+    "yid": 13256226,
     "password": "13256226",
     "kid": 17403,
     "name": "Elemental HERO Spirit of Neos",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> スピリット・オブ・ネオス",
     "name_jp_rom": "Erementaru Hīrō Supiritto Obu Neosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP001",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "POTE-JP001",
+            "set": "Power of the Elements +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,7 +124,9 @@
         "smat": [],
         "misc": [
             "Mentions",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

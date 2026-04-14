@@ -1,11 +1,14 @@
 {
     "cid": "0ae5ad97-6a8c-4715-8e3d-5ab8a70ba508",
+    "yid": 97522863,
     "password": "97522863",
     "kid": 21035,
     "name": "The Man with the Mark",
     "name_jp": "<ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>を<ruby lang=\"jp\"><rb>持</rb><rp> (</rp><rt>も</rt><rp>)</rp></ruby>つ<ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>もの</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kokuin o Motsu Mono",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The One with the Seal",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -41,6 +44,17 @@
             "rarities": {
                 "Secret Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP001",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -86,7 +100,9 @@
         "misc": [
             "Mentions",
             "Only once per turn",
-            "Requires control of specific card"
+            "Requires control of specific card",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

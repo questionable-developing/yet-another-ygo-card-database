@@ -1,11 +1,14 @@
 {
     "cid": "8cf601f3-297a-449b-b336-3417469890aa",
+    "yid": 84388461,
     "password": "84388461",
     "kid": 11701,
     "name": "Zefrasaber, Swordmaster of the Nekroz",
     "name_jp": "<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>－セフィラセイバー",
     "name_jp_rom": "Kensei no Nekurosu - Sefiraseibā",
+    "name_jp_rom_base": "Kensei no Eireii - Sefira Seibā",
     "name_jp_tl": "Necroth of the Swordmaster - Sephirasaber",
+    "name_jp_tl_base": "Shadow Spirit Cloth of the Swordmaster - Sephirasaber",
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "CROS-EN026",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP026",
             "set": "Crossed Souls",
             "rarities": {
                 "Common": []
@@ -93,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

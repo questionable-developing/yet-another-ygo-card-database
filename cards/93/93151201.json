@@ -1,11 +1,14 @@
 {
     "cid": "f2f14b60-3c4a-465e-b305-49e51567cd83",
+    "yid": 93151201,
     "password": "93151201",
     "kid": 7142,
     "name": "Voltic Kong",
     "name_jp": "ボルテック・コング",
     "name_jp_rom": "Borutekku Kongu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Voltech Kong",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JF07-JP001",
+            "set": "Jump Festa 2007 promotional cards",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TP01-JP002",
+            "set": "Tournament Pack 2007 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "JF09-JP003",
+            "set": "Jump Festa 2009 - Promotion Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DB12-JP014",
+            "set": "Duelist Box 2012",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +122,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

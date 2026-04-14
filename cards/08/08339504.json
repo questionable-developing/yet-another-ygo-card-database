@@ -1,12 +1,14 @@
 {
     "cid": "45ac3acd-e23f-49bb-9547-078679077c2b",
-    "yid": null,
+    "yid": 8339504,
     "password": "08339504",
     "kid": 10947,
     "name": "Xyz Shift",
     "name_jp": "エクシーズ・シフト",
     "name_jp_rom": "Ekushīzu Shifuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "LVAL-EN061",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP061",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

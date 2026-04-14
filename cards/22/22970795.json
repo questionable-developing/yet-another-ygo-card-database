@@ -1,12 +1,14 @@
 {
     "cid": "021eb35b-7822-4f60-a9e9-6888fd471a15",
-    "yid": null,
+    "yid": 22970795,
     "password": "22970795",
     "kid": 19866,
     "name": "Wightlord",
     "name_jp": "ワイトロード",
     "name_jp_rom": "Waitorōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP025",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

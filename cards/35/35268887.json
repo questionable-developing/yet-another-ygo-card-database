@@ -1,12 +1,14 @@
 {
     "cid": "4b53e2bb-85a2-424c-bbc9-176dbec1e958",
-    "yid": null,
+    "yid": 35268887,
     "password": "35268887",
     "kid": 8361,
     "name": "Damage Translation",
     "name_jp": "ダメージ・トランスレーション",
     "name_jp_rom": "Damēji Toransurēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -46,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP071",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

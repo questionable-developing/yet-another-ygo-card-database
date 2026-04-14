@@ -1,11 +1,14 @@
 {
     "cid": "b63319b4-c034-43a0-950c-37832a7deb40",
+    "yid": 76263644,
     "password": "76263644",
     "kid": 7615,
     "name": "Destiny End Dragoon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄｒａｇｏｏｎ</rb><rp> (</rp><rt>ドラグーン</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｄ－ＥＮＤ</rb><rp> (</rp><rt>ディーエンド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragūn Dī Endo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragoon D-End",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -80,6 +83,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP042",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP137",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SPDS-JP013",
+            "set": "Booster SP: Destiny Soldiers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -128,5 +156,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

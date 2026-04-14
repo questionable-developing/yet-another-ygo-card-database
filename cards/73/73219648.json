@@ -1,11 +1,14 @@
 {
     "cid": "028c4f42-aab1-4e11-af21-1a22d09c8f02",
+    "yid": 73219648,
     "password": "73219648",
     "kid": 5772,
     "name": "Vilepawn Archfiend",
     "name_jp": "ヘルポーンデーモン",
     "name_jp_rom": "Heru Pōn Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Pawn Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-014",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP229",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +124,6 @@
             "Die roll",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

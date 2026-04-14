@@ -1,12 +1,14 @@
 {
     "cid": "35c18b92-b3ec-4fc2-8b23-26e82026abd2",
-    "yid": null,
+    "yid": 6218704,
     "password": "06218704",
     "kid": 19172,
     "name": "Odd-Eyes Arcray Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>覇</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>オッドアイズ・アークレイ・ドラゴン",
     "name_jp_rom": "Haōtenryū Oddoaizu Ākurei Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Supreme King Celestial Dragon Odd-Eyes Arcray Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -33,17 +35,58 @@
         "1": {
             "idx": "1",
             "full": "OddEyesArcrayDragon-AGOV-EN-UR-1E.png",
+            "art": "OddEyesArcrayDragon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "OddEyesArcrayDragon-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "AGOV-EN030",
             "set": "Age of Overlord",
             "rarities": {
-                "Ultra Rare": [],
-                "Quarter Century Secret Rare": []
+                "Ultra Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN145",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP030",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Holographic Rare": ["1"]
+            }
+        },
+        {
+            "sid": "AGOV-JP030",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP005",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -116,7 +159,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

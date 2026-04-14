@@ -1,11 +1,14 @@
 {
     "cid": "f494a9dd-c6b1-4a55-8032-0d29f3de8237",
+    "yid": 94365540,
     "password": "94365540",
     "kid": 13380,
     "name": "Tindangle Base Gardna",
     "name_jp": "ティンダングル・ベース・ガードナー",
     "name_jp_rom": "Tindanguru Bēsu Gādonā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tindangle Base Guardner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "EXFO-EN010",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP010",
             "set": "Extreme Force",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

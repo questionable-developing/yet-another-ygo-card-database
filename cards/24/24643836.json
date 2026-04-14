@@ -1,12 +1,14 @@
 {
     "cid": "7171b935-7e02-4ad4-98ca-3523f1c557d0",
-    "yid": null,
+    "yid": 24643836,
     "password": "24643836",
     "kid": 6470,
     "name": "Ojamagic",
     "name_jp": "おジャマジック",
     "name_jp_rom": "Ojamajikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP040",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP2-JP020",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP100",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP19-JP029",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +126,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

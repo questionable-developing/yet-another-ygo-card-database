@@ -1,12 +1,14 @@
 {
     "cid": "352f6680-4693-4cc6-b8b2-9f9ac455028f",
-    "yid": null,
+    "yid": 5186893,
     "password": "05186893",
     "kid": 7854,
     "name": "Red-Eyes Zombie Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>真紅眼の不死竜</rb><rp> (</rp><rt>レッドアイズ・アンデットドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reddoaizu Andetto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Red-Eyes Undead Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD15-JP001",
+            "set": "Structure Deck: Undead World",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP005",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

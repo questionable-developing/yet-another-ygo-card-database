@@ -1,11 +1,14 @@
 {
     "cid": "6309565e-f7c3-4cc9-9e77-704292f119b7",
+    "yid": 54860010,
     "password": "54860010",
     "kid": 8114,
     "name": "Worm Prince",
     "name_jp": "ワーム・プリンス",
     "name_jp_rom": "Wāmu Purinsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,17 +32,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WormPrince-DTC2-JP-DNPR-DT.jpg",
+            "art": "WormPrince-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WormPrince-HA02-EN-SR-1E.jpg",
-            "art": null
+            "art": "WormPrince-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA02-EN053",
             "set": "Hidden Arsenal 2",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT04-JP033",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP023",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -77,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

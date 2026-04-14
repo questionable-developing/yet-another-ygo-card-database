@@ -1,12 +1,14 @@
 {
     "cid": "52a599d6-7654-4476-9f47-2adcbab4ed76",
-    "yid": null,
+    "yid": 13247801,
     "password": "13247801",
     "kid": 15093,
     "name": "Machina Defense Perimeter",
     "name_jp": "<ruby lang=\"jp\"><rb>機甲部隊の防衛圏</rb><rp> (</rp><rt>マシンナーズ・ディフェンスリジョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mashinnāzu Difensu Rijon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machiners Defense Region",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Structure Deck: Mechanized Madness",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR10-JP024",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -80,5 +91,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "68062fa3-7654-4122-b77b-0d616a2da5e9",
-    "yid": null,
+    "yid": 14025912,
     "password": "14025912",
     "kid": 14753,
     "name": "Mathmech Equation",
     "name_jp": "<ruby lang=\"jp\"><rb>斬</rb><rp> (</rp><rt>ザン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>キ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>方</rb><rp> (</rp><rt>ホウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>程</rb><rp> (</rp><rt>テイ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>シキ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zanki Hōteishiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Zanki Equation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP010",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

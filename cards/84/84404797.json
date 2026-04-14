@@ -1,11 +1,14 @@
 {
     "cid": "afa200ff-d81e-4956-86b8-cc17d4799a5d",
+    "yid": 84404797,
     "password": "84404797",
     "kid": 15312,
     "name": "Redeemable Jar",
     "name_jp": "リターナブル<ruby lang=\"jp\"><rb>瓶</rb><rp> (</rp><rt>ジャー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ritānaburu Jā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Returnable Jar",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP078",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

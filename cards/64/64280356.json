@@ -1,11 +1,14 @@
 {
     "cid": "05387098-b93e-4739-a91c-0de9045f4bd4",
+    "yid": 64280356,
     "password": "64280356",
     "kid": 12243,
     "name": "Kozmo Tincan",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｋｏｚｍｏ</rb><rp> (</rp><rt>コズモ</rt><rp>)</rp></ruby>－フェルブラン",
     "name_jp_rom": "Kozumo - Feruburan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kozmo - Fer-blanc",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP009",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +89,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand"
         ],
         "attack": [],
@@ -93,5 +105,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

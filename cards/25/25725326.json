@@ -1,12 +1,14 @@
 {
     "cid": "d4df67ab-62c7-43b9-82ca-f50a1482dbc7",
-    "yid": null,
+    "yid": 25725326,
     "password": "25725326",
     "kid": 15528,
     "name": "Prank-Kids Meow-Meow-Mu",
     "name_jp": "プランキッズ・ミュー",
     "name_jp_rom": "Purankizzu Myū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Prank-Kids Mu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -54,6 +56,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP049",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

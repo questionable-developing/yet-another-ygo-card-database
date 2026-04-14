@@ -1,11 +1,14 @@
 {
     "cid": "ce3dd8d9-89a9-4676-bf31-38f3087f371f",
+    "yid": 64104037,
     "password": "64104037",
     "kid": 8772,
     "name": "Ghost Lancer, the Underworld Spearman",
     "name_jp": "<ruby lang=\"jp\"><rb>劫</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>槍</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> ゴースト・ランサー",
     "name_jp_rom": "Gōka no Sōjutsushi Gōsuto Ransā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ghost Lancer, the Hellfire Spearman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "22PP-JP009",
+            "set": "Premium Pack 2022",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +88,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Requires control of no monsters"
+            "Requires control of no monsters",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

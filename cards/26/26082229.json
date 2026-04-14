@@ -1,12 +1,14 @@
 {
     "cid": "e849dfaf-e0a3-486f-b55b-aeb0bc5c18b0",
-    "yid": null,
+    "yid": 26082229,
     "password": "26082229",
     "kid": 6193,
     "name": "Invasion of Flames",
     "name_jp": "<ruby lang=\"jp\"><rb>侵</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>略</rb><rp> (</rp><rt>りゃく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>ほのお</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shinryaku no Honō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Invading Flames",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP024",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP084",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

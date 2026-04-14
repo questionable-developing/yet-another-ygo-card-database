@@ -1,11 +1,14 @@
 {
     "cid": "7539c827-7bf5-412f-9f19-6392f9d8cc2f",
+    "yid": 69000994,
     "password": "69000994",
     "kid": 10346,
     "name": "Fire King Avatar Barong",
     "name_jp": "<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> バロン",
     "name_jp_rom": "En'ōjū Baron",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flame King Beast Barong",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD24-JP002",
+            "set": "Structure Deck: Onslaught of the Fire Kings",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR14-JP005",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

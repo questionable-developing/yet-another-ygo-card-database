@@ -1,12 +1,14 @@
 {
     "cid": "e37c56c8-124a-4cb4-9b51-4396ab7467cc",
-    "yid": null,
+    "yid": 8559524,
     "password": "08559524",
     "kid": 15048,
     "name": "Resonator Command",
     "name_jp": "コマンド・リゾネーター",
     "name_jp_rom": "Komando Rizonētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Command Resonator",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP062",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD46-JP029",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

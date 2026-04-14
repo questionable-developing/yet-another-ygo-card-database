@@ -1,12 +1,14 @@
 {
     "cid": "0e0e33e7-9f4b-403f-ad4d-ea0758882693",
-    "yid": null,
+    "yid": 22510667,
     "password": "22510667",
     "kid": 14294,
     "name": "Gouki The Solid Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ザ・ソリッド・オーガ",
     "name_jp_rom": "Gōki Za Soriddo Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - The Solid Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +45,15 @@
     "sets": [
         {
             "sid": "DANE-EN044",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP044",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -87,5 +98,6 @@
             "Requires control of specific archetype",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

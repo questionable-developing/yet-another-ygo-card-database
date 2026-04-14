@@ -1,12 +1,14 @@
 {
     "cid": "5b383ed0-252d-4e95-bdf5-b135b3113ab9",
-    "yid": null,
+    "yid": 12071500,
     "password": "12071500",
     "kid": 7381,
     "name": "Dark Calling",
     "name_jp": "ダーク・コーリング",
     "name_jp_rom": "Dāku Kōringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -83,6 +85,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP06-JP024",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TP11-JP010",
+            "set": "Tournament Pack 2009 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP159",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP022",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP027",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,5 +165,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "6f0e9a10-632f-47e4-9fee-a5d705df6ef3",
+    "yid": 56052205,
     "password": "56052205",
     "kid": 7602,
     "name": "Unifrog",
     "name_jp": "<ruby lang=\"jp\"><rb>貫</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>ガエル",
     "name_jp_rom": "Kangaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Penetrate Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,22 @@
         {
             "sid": "LODT-EN029",
             "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP029",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP129",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

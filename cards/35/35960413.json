@@ -1,12 +1,14 @@
 {
     "cid": "f2563ceb-0ace-4e23-a49e-4528c5a952b7",
-    "yid": null,
+    "yid": 35960413,
     "password": "35960413",
     "kid": 15507,
     "name": "Cupid Fore",
     "name_jp": "コウ・キューピット",
     "name_jp_rom": "Kō Kyūpitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Golf Cupit",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,6 +43,15 @@
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP028",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -84,5 +95,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

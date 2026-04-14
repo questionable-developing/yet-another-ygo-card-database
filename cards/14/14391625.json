@@ -1,12 +1,14 @@
 {
     "cid": "4b6c4f4e-c75e-4ed1-8e90-2f2b98c23690",
-    "yid": null,
+    "yid": 14391625,
     "password": "14391625",
     "kid": 19146,
     "name": "Visas Samsara",
     "name_jp": "ヴィサス＝サンサーラ",
     "name_jp_rom": "Visasu=Sansāra",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -32,10 +34,15 @@
         "1": {
             "idx": "1",
             "full": "VisasSamsara-MP24-EN-PScR-1E.png",
-            "art": null
+            "art": "VisasSamsara-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "VisasSamsara-LOCH-JP-UR.png",
+            "art": "VisasSamsara-OW.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "AGOV-EN004",
@@ -49,6 +56,24 @@
             "sid": "MP24-EN108",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP004",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP031",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
                 "Prismatic Secret Rare": []
             }
         }
@@ -101,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

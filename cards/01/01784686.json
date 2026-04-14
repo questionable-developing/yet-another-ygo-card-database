@@ -1,12 +1,14 @@
 {
     "cid": "86ada5dd-12cc-4713-96ce-c32d45d4c25c",
-    "yid": null,
+    "yid": 1784686,
     "password": "01784686",
     "kid": 10326,
     "name": "The Eye of Timaeus",
     "name_jp": "ティマイオスの<ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>まなこ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Timaiosu no Manako",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -77,6 +79,56 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPL1-JP005",
+            "set": "Collectors Pack: Duelist of Legend Version",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP035",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP002",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP029",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP008",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP018",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,7 +140,8 @@
         ],
         "asup": [],
         "arc": [
-            "Legendary Dragon"
+            "Legendary Dragon",
+            "Timaeus (series)"
         ],
         "suparc": [
             "Dark Magician (archetype)"
@@ -121,5 +174,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e6c7bb35-fb24-4a97-8785-170bdeb2e1fa",
-    "yid": null,
+    "yid": 26257572,
     "password": "26257572",
     "kid": 8837,
     "name": "Corridor of Agony",
     "name_jp": "<ruby lang=\"jp\"><rb>苦</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>痛</rb><rp> (</rp><rt>つう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>回</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>廊</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kutsū no Kairō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP062",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP153",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

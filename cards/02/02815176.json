@@ -1,12 +1,14 @@
 {
     "cid": "67e5f946-0f10-4db7-8910-4173b66e1e0f",
-    "yid": null,
+    "yid": 2815176,
     "password": "02815176",
     "kid": 19384,
     "name": "Zebufera, Vaalmonican Hallow Heathen",
     "name_jp": "ヴァルモニカの<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby>－ゼブフェーラ",
     "name_jp_rom": "Varumonika no Shin'i - Zebufēra",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Varmonica Divine Oddity - Zebufera",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -42,6 +44,15 @@
         {
             "sid": "VASM-EN034",
             "set": "Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP034",
+            "set": "Deck-Build Pack: Valiant Smashers",
             "rarities": {
                 "Super Rare": []
             }
@@ -97,5 +108,6 @@
             "Requires control of specific Type",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "af68f5b7-0578-449c-8770-97835a6a3640",
+    "yid": 44413654,
     "password": "44413654",
     "kid": 17636,
     "name": "Morphtronic Impact Return",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・インパクトリターン",
     "name_jp_rom": "Difōmā Inpakuto Ritān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Impact Return",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC02-JP020",
+            "set": "Animation Chronicle 2022",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,7 +78,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [],
@@ -78,5 +91,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

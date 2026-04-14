@@ -1,11 +1,14 @@
 {
     "cid": "dd65b49b-a87a-4733-8305-42ec4ef6ff77",
+    "yid": 80529459,
     "password": "80529459",
     "kid": 15982,
     "name": "Scrap Raptor",
     "name_jp": "スクラップ・ラプター",
     "name_jp_rom": "Sukurappu Raputā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP021",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

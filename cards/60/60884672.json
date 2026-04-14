@@ -1,11 +1,14 @@
 {
     "cid": "f5ec08b9-e598-4b8b-8569-8aa106c943fc",
+    "yid": 60884672,
     "password": "60884672",
     "kid": 15746,
     "name": "Great Sand Sea - Gold Golgonda",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>砂</rb><rp> (</rp><rt>さ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>ゴールド・ゴルゴンダ",
     "name_jp_rom": "Daisakai Gōrudo Gorugonda",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,22 @@
             "set": "Blazing Vortex",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP055",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP029",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -80,5 +99,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

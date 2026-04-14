@@ -1,11 +1,14 @@
 {
     "cid": "bc043640-55e5-4762-a514-4ac9febe8bd0",
+    "yid": 71549257,
     "password": "71549257",
     "kid": 17127,
     "name": "Heroic Challenger - Knuckle Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｈ</rb><rp> (</rp><rt>ヒロイック</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>チャレンジャー</rt><rp>)</rp></ruby> ナックル・ナイフ",
     "name_jp_rom": "Hiroikku Charenjā Nakkuru Naifu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heroic Challenger - Knuckle Knife",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DIFO-EN015",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP015",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -90,5 +102,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

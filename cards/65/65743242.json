@@ -1,11 +1,14 @@
 {
     "cid": "4c568378-895a-4d56-943d-3c526d611edb",
+    "yid": 65743242,
     "password": "65743242",
     "kid": 6010,
     "name": "Call of the Earthbound",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>縛</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>誘</rb><rp> (</rp><rt>いざな</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Jibakurei no Izanai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Invitation of the Earthbound Spirit",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MG1-JP002",
+            "set": "Master Guide promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP011",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "14426989-159e-4cb1-99fe-700013b6b8cc",
-    "yid": null,
+    "yid": 19801646,
     "password": "19801646",
     "kid": 13176,
     "name": "The Legendary Fisherman II",
     "name_jp": "<ruby lang=\"jp\"><rb>伝</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>説</rb><rp> (</rp><rt>せつ</rt><rp>)</rp></ruby>のフィッシャーマン<ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Densetsu no Fisshāman Nisei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -79,6 +81,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP015",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP26-JP024",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +138,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

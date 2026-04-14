@@ -1,12 +1,14 @@
 {
     "cid": "918f976f-8861-4a41-b31a-5c9f1ae66168",
-    "yid": null,
+    "yid": 17243896,
     "password": "17243896",
     "kid": 8451,
     "name": "Ground Spider",
     "name_jp": "グランド・スパイダー",
     "name_jp_rom": "Gurando Supaidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP016",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +86,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

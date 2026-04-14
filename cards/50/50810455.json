@@ -1,11 +1,14 @@
 {
     "cid": "eb8bd3b6-7059-4cd2-be90-ba84f18edc32",
+    "yid": 50810455,
     "password": "50810455",
     "kid": 15486,
     "name": "Tri-Brigade Kerass",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣戦線</rb><rp> (</rp><rt>トライブリゲード</rt><rp>)</rp></ruby> ケラス",
     "name_jp_rom": "Toraiburigēdo Kerasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -45,6 +48,22 @@
         {
             "sid": "MP21-EN170",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP007",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP017",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -91,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

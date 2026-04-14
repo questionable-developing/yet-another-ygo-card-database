@@ -1,11 +1,14 @@
 {
     "cid": "e45d7900-7b18-440b-a0cd-94026894e671",
+    "yid": 60953949,
     "password": "60953949",
     "kid": 11061,
     "name": "Ancient Gear Box",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械箱</rb><rp> (</rp><rt>アンティーク・ギアボックス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Bokkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Box",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP032",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP011",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP3-JP018",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP112",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

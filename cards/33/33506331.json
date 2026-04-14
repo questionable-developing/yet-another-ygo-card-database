@@ -1,12 +1,14 @@
 {
     "cid": "84225ada-f4bd-4290-a4eb-52e39904fd80",
-    "yid": null,
+    "yid": 33506331,
     "password": "33506331",
     "kid": 20395,
     "name": "Clear Cube",
     "name_jp": "クリアー・キューブ",
     "name_jp_rom": "Kuriā Kyūbu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +43,16 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP008",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -81,5 +93,6 @@
             "Mentions",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

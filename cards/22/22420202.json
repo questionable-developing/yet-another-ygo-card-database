@@ -1,12 +1,14 @@
 {
     "cid": "a1f6648e-371e-427a-aba4-57c5a8ac6cc7",
-    "yid": null,
+    "yid": 22420202,
     "password": "22420202",
     "kid": 15639,
     "name": "Drytron Delta Altais",
     "name_jp": "<ruby lang=\"jp\"><rb>竜輝巧</rb><rp> (</rp><rt>ドライトロン</rt><rp>)</rp></ruby>－ルタ<ruby lang=\"jp\"><rb>δ</rb><rp> (</rp><rt>デルタ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraitoron - Ruta Deruta",
+    "name_jp_rom_base": "Ryūkikō - Ruta δ",
     "name_jp_tl": "Drytron - Lta Delta",
+    "name_jp_tl_base": "Draconic Bright Machine - Lta δ",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP027",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP179",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,7 +104,7 @@
             "Activates from your hand",
             "Activates from your Graveyard",
             "Tributes for cost",
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "You draw cards"
         ],
         "stat_change": [],
@@ -108,5 +129,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

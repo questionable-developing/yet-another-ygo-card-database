@@ -1,12 +1,14 @@
 {
     "cid": "3286a64f-0489-4158-b14b-fc68958e7ebb",
-    "yid": null,
+    "yid": 14577226,
     "password": "14577226",
     "kid": 12778,
     "name": "Windwitch - Winter Bell",
     "name_jp": "<ruby lang=\"jp\"><rb>ＷＷ</rb><rp> (</rp><rt>ウィンド・ウィッチ</rt><rp>)</rp></ruby>－ウィンター・ベル",
     "name_jp_rom": "Windo Witchi - Wintā Beru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP043",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

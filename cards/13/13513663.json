@@ -1,12 +1,14 @@
 {
     "cid": "29c8e44c-c1dc-4979-8e32-0df6c9e5419e",
-    "yid": null,
+    "yid": 13513663,
     "password": "13513663",
     "kid": 10592,
     "name": "Castle of Dragon Souls",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>城</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryūkon no Shiro",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD25-JP034",
+            "set": "Structure Deck: The Blue-Eyed Dragon's Thundering Descent",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP033",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +98,7 @@
         ],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -94,5 +112,6 @@
             "Limited activations",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

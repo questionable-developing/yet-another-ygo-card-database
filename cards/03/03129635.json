@@ -1,12 +1,14 @@
 {
     "cid": "ff90c494-bba2-43c6-ad29-8c2c4d88a4b0",
-    "yid": null,
+    "yid": 3129635,
     "password": "03129635",
     "kid": 9370,
     "name": "Tiki Curse",
     "name_jp": "カース・オブ・スタチュー",
     "name_jp_rom": "Kāsu obu Sutachū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Curse of Statue",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP079",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

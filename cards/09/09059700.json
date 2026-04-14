@@ -1,12 +1,14 @@
 {
     "cid": "30dc084b-b0e5-47c5-9d16-62b465c36056",
-    "yid": null,
+    "yid": 9059700,
     "password": "09059700",
     "kid": 9036,
     "name": "Infernity Barrier",
     "name_jp": "インフェルニティ・バリア",
     "name_jp_rom": "Inferuniti Baria",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP010",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
             "Requires having no cards in hand",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

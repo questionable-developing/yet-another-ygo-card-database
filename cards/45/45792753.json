@@ -1,11 +1,14 @@
 {
     "cid": "f47fb11c-e73f-49eb-8cf8-e45bcf06100d",
+    "yid": 45792753,
     "password": "45792753",
     "kid": 17756,
     "name": "Ghoti Chain",
     "name_jp": "ゴーティス・チェイン",
     "name_jp_rom": "Gōtisu Chein",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ghotis Chain",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP026",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -63,7 +75,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand",
             "Special Summons from your Deck",
             "Special Summons from your Graveyard"
@@ -80,5 +92,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

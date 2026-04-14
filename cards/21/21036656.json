@@ -1,12 +1,14 @@
 {
     "cid": "37e78150-f282-4497-8d28-8e674ab673cf",
-    "yid": null,
+    "yid": 21036656,
     "password": "21036656",
     "kid": 19872,
     "name": "Cyclos the Circular Sprite",
     "name_jp": "<ruby lang=\"jp\"><rb>円</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>キクロス",
     "name_jp_rom": "Enkanyōsei Kikurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cyclos the Circular Summon Fairy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -47,6 +49,15 @@
         {
             "sid": "MP25-EN349",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP031",
+            "set": "Legacy of Destruction",
             "rarities": {
                 "Common": []
             }
@@ -102,5 +113,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

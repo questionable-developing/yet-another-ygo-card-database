@@ -1,12 +1,14 @@
 {
     "cid": "ad6cd90b-f329-48cc-b55c-88dcad63359b",
-    "yid": null,
+    "yid": 28577986,
     "password": "28577986",
     "kid": 10511,
     "name": "Mermail Abyssocea",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－オーケアビス",
     "name_jp_rom": "Māmeiru - Ōkeabisu",
+    "name_jp_rom_base": "Suiseirin - Ōkeabisu",
     "name_jp_tl": "Mermail Oceabyss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "MermailAbyssocea-LTGY-JP-C.png",
+            "art": "MermailAbyssocea-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "MermailAbyssocea-MP14-EN-C-1E.png",
-            "art": null
+            "art": "MermailAbyssocea-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LTGY-EN030",
@@ -46,6 +53,15 @@
         {
             "sid": "MP14-EN016",
             "set": "2014 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP030",
+            "set": "Lord of the Tachyon Galaxy",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "3309efed-b38c-4d48-9f0e-4f6926f4e7ba",
-    "yid": null,
+    "yid": 35262428,
     "password": "35262428",
     "kid": 8991,
     "name": "Wiseman's Chalice",
     "name_jp": "<ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>杯</rb><rp> (</rp><rt>はい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kenja no Seihai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sage's Chalice",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP060",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +83,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

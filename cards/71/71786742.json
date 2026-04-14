@@ -1,11 +1,14 @@
 {
     "cid": "6650ed95-91a5-408f-a8be-a398faa899b7",
+    "yid": 71786742,
     "password": "71786742",
     "kid": 9647,
     "name": "Geargiano",
     "name_jp": "ギアギアーノ",
     "name_jp_rom": "Giagiāno",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP030",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPM01",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

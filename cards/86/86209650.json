@@ -1,11 +1,14 @@
 {
     "cid": "f5c2ea82-570d-47dd-aeaa-0eca0194be2d",
+    "yid": 86209650,
     "password": "86209650",
     "kid": 6936,
     "name": "Stray Asmodian",
     "name_jp": "<ruby lang=\"jp\"><rb>迷走悪魔</rb><rp> (</rp><rt>ストレイ・デビル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sutorei Debiru",
+    "name_jp_rom_base": "Meisō Akuma",
     "name_jp_tl": "Stray Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP012",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

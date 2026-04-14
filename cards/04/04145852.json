@@ -1,12 +1,14 @@
 {
     "cid": "a976cd16-751a-4e2a-be3e-24f988ecf9b1",
-    "yid": null,
+    "yid": 4145852,
     "password": "04145852",
     "kid": 12753,
     "name": "Zoodiac Ramram",
     "name_jp": "<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>しし</rt><rp>)</rp></ruby>ラム",
     "name_jp_rom": "Jūnishishi Ramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ram of the Twelve Zodiac Beasts",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP018",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

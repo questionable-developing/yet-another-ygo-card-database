@@ -1,11 +1,14 @@
 {
     "cid": "cf0f9a9c-4072-4eeb-93d4-39cba2eb1326",
+    "yid": 58354899,
     "password": "58354899",
     "kid": 21046,
     "name": "Vulcarrion the Rotting Phoenix",
     "name_jp": "<ruby lang=\"jp\"><rb>腐</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>ヴァルコプス",
     "name_jp_rom": "Fushichō Varukopusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vulcorpse the Rotting Phoenix",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +42,15 @@
         {
             "sid": "SUDA-EN082",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP050",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +90,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

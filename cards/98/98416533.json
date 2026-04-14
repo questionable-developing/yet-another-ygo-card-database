@@ -1,11 +1,14 @@
 {
     "cid": "98427917-c7b5-4048-9050-6f2a9e0afe1c",
+    "yid": 98416533,
     "password": "98416533",
     "kid": 17424,
     "name": "Melffy Wally",
     "name_jp": "メルフィー・ワラビィ",
     "name_jp_rom": "Merufī Warabyi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Melffy Wallaby",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP022",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP174",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c42ca175-c1b2-4412-8549-1c41751028bd",
+    "yid": 62411811,
     "password": "62411811",
     "kid": 18324,
     "name": "Shadow Ghoul of the Labyrinth",
     "name_jp": "<ruby lang=\"jp\"><rb>迷</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宮</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>に<ruby lang=\"jp\"><rb>潜</rb><rp> (</rp><rt>ひそ</rt><rp>)</rp></ruby>むシャドウ・グール",
     "name_jp_rom": "Meikyū ni Hisomu Shadou Gūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Labyrinth-Dwelling Shadow Ghoul",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP002",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

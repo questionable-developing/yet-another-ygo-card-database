@@ -1,12 +1,14 @@
 {
     "cid": "fa166bd4-26ed-4537-a618-89b81b4c0f6e",
-    "yid": null,
+    "yid": 16261341,
     "password": "16261341",
     "kid": 13350,
     "name": "Sacred Arch-Airknight Parshath",
     "name_jp": "<ruby lang=\"jp\"><rb>天空聖騎士</rb><rp> (</rp><rt>エンジェルパラディン</rt><rp>)</rp></ruby>アークパーシアス",
     "name_jp_rom": "Enjeru Paradin Ākupāshiasu",
+    "name_jp_rom_base": "Tenkūsei Kishi Ākupāshiasu",
     "name_jp_tl": "Angel Paladin Arch-Perseus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "SR05-EN001",
             "set": "Structure Deck: Wave of Light",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR05-JP001",
+            "set": "Structure Deck R: Surge of Divine Light",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -92,5 +103,6 @@
             "Requires control of specific Type",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e8923bfa-9c3e-42fd-8457-71b831647e1b",
+    "yid": 69248256,
     "password": "69248256",
     "kid": 16527,
     "name": "Swordsoul Grandmaster - Chixiao",
     "name_jp": "<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>赤</rb><rp> (</rp><rt>セキ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霄</rb><rp> (</rp><rt>ショウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōkentaishi - Sekishou",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xiangjian Grandmaster - Chixiao",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +62,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP041",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BODE-JP041",
+            "set": "Burst of Destiny +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP075",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +132,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

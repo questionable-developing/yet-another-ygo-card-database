@@ -1,12 +1,14 @@
 {
     "cid": "f4a6e3f6-523b-402a-be4d-50af4f9c4c21",
-    "yid": null,
+    "yid": 21570001,
     "password": "21570001",
     "kid": 16867,
     "name": "Clear New World",
     "name_jp": "<ruby lang=\"jp\"><rb>新世壊</rb><rp> (</rp><rt>ニュー・クリア・ワールド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nyū Kuria Wārudo",
+    "name_jp_rom_base": "Shinsekai",
     "name_jp_tl": "New Clear World",
+    "name_jp_tl_base": "New Broken World",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP062",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

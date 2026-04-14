@@ -1,12 +1,14 @@
 {
     "cid": "c90d1802-00e1-420b-bb36-37fb6d8775fd",
-    "yid": null,
+    "yid": 9952083,
     "password": "09952083",
     "kid": 7456,
     "name": "Chain Summoning",
     "name_jp": "サモンチェーン",
     "name_jp_rom": "Samon Chēn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Summon Chain",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP057",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP095",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS13-JPD28",
+            "set": "Duelist Set: Version Dark Returner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18TP-JP110",
+            "set": "Tournament Pack 2018 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +107,6 @@
         "misc": [
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

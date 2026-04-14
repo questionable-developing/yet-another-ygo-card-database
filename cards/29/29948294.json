@@ -1,12 +1,14 @@
 {
     "cid": "fa4738da-a125-486b-85a6-1ca24e671cbb",
-    "yid": null,
+    "yid": 29948294,
     "password": "29948294",
     "kid": 16541,
     "name": "Branded in High Spirits",
     "name_jp": "<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>気</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakuin no Kien",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "BrandedinHighSpirits-CH01-EN-UR-1E.png",
+            "full": "BrandedinHighSpirits-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -53,6 +55,42 @@
             "rarities": {
                 "Ultra Rare": []
             }
+        },
+        {
+            "sid": "RA05-EN067",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP055",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP069",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP024",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
         }
     ],
     "misc": {
@@ -75,7 +113,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Sends from your Extra Deck to your Graveyard",
             "You discard as an effect",
             "Adds from Deck to hand",
@@ -94,5 +132,6 @@
             "Mentions",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

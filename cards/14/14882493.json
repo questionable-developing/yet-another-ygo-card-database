@@ -1,12 +1,14 @@
 {
     "cid": "3df33d02-e152-44d3-a21d-3f79d7751681",
-    "yid": null,
+    "yid": 14882493,
     "password": "14882493",
     "kid": 10824,
     "name": "Gaia, the Polar Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>極</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>夜</rb><rp> (</rp><rt>や</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ガイア",
     "name_jp_rom": "Kyokuya no Kishi Gaia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gaia, the Knight of Polar Nights",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VE09-JP002",
+            "set": "V Jump Edition 9",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -58,13 +69,12 @@
             "Warrior"
         ],
         "asup": [],
-        "arc": [
-            "Gaia Knight"
-        ],
+        "arc": [],
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "Chaos"
+            "Chaos",
+            "Gaia The Fierce Knight (archetype)"
         ],
         "counter": [],
         "action": [
@@ -89,5 +99,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

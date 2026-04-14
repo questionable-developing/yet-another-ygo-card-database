@@ -1,11 +1,14 @@
 {
     "cid": "d3818f43-1736-42c9-8328-2729afb4bdcc",
+    "yid": 54578613,
     "password": "54578613",
     "kid": 8389,
     "name": "Dragunity Legionnaire",
     "name_jp": "ドラグニティ－レギオン",
     "name_jp_rom": "Doraguniti - Region",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragunity - Legion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT06-JP010",
+            "set": "Duel Terminal - Dragunity of the Hurricane!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD19-JP005",
+            "set": "Structure Deck: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DTC2-JP062",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR11-JP009",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +136,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

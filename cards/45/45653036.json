@@ -1,11 +1,14 @@
 {
     "cid": "5583a423-ad20-4e85-bf77-939263331ec5",
+    "yid": 45653036,
     "password": "45653036",
     "kid": 7273,
     "name": "Rain Storm",
     "name_jp": "<ruby lang=\"jp\"><rb>暴風雨</rb><rp> (</rp><rt>レインストーム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reinsutōmu",
+    "name_jp_rom_base": "Bōfūu",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP066",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

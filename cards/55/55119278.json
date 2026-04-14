@@ -1,11 +1,14 @@
 {
     "cid": "547782c7-380d-4f4b-a0f6-36f0a8942698",
+    "yid": 55119278,
     "password": "55119278",
     "kid": 7879,
     "name": "Morphtronic Radion",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・ラジオン",
     "name_jp_rom": "Difōmā Rajion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Radion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP011",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP040",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

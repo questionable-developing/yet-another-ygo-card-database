@@ -1,11 +1,14 @@
 {
     "cid": "8f2e53d5-cfb2-4576-ac98-41e215463f6d",
+    "yid": 71564252,
     "password": "71564252",
     "kid": 7397,
     "name": "Thunder King Rai-Oh",
     "name_jp": "ライオウ",
     "name_jp_rom": "Raiō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder King",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,10 +33,15 @@
         "1": {
             "idx": "1",
             "full": "ThunderKingRaiOh-RA03-EN-PlScR-1E.png",
+            "art": "ThunderKingRaiOh-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "ThunderKingRaiOh-CORI-JP-OP.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "GLD3-EN020",
@@ -79,6 +87,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "YG02-JP001",
+            "set": "Yu-Gi-Oh! GX Volume 2 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CORI-JPS12",
+            "set": "Chaos Origins +1 Expansion Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +134,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

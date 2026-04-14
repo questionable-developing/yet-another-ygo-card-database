@@ -1,11 +1,14 @@
 {
     "cid": "757901a0-879b-40a6-b493-836fccd8f464",
+    "yid": 61505339,
     "password": "61505339",
     "kid": 6176,
     "name": "The Creator",
     "name_jp": "<ruby lang=\"jp\"><rb>創世神</rb><rp> (</rp><rt>ザ・クリエイター</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Za Kurieitā",
+    "name_jp_rom_base": "Sōseishin",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Creator God",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RDS-JP005",
+            "set": "Rise of Destiny",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "MC1-JP002",
+            "set": "Master Collection Volume 1",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP065",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD13-JP014",
+            "set": "Structure Deck: Revival of the Great Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,7 +122,8 @@
         "rel": [
             "Chaos",
             "Dark counterpart",
-            "Felgrand"
+            "Felgrand",
+            "Sacred Beast"
         ],
         "counter": [],
         "action": [
@@ -109,5 +144,6 @@
             "Limited activations",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

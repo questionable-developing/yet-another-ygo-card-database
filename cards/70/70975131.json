@@ -1,11 +1,14 @@
 {
     "cid": "02e8bf62-8f13-4ea2-affa-d7e92b43511a",
+    "yid": 70975131,
     "password": "70975131",
     "kid": 13582,
     "name": "Watch Cat",
     "name_jp": "<ruby lang=\"jp\"><rb>番</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>猫</rb><rp> (</rp><rt>びょう</rt><rp>)</rp></ruby>－ウォッチキャット",
     "name_jp_rom": "Banbyō - Wotchikyatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Guard Cat - Watch Cat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP028",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

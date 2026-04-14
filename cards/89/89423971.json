@@ -1,11 +1,14 @@
 {
     "cid": "8c7d74c6-28d1-44f9-bbcb-7d96934f97b3",
+    "yid": 89423971,
     "password": "89423971",
     "kid": 11535,
     "name": "Infernoid Patrulea",
     "name_jp": "インフェルノイド・アスタロス",
     "name_jp_rom": "Inferunoido Asutarosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infernoid Astaroth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -64,6 +67,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP015",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP103",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +134,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

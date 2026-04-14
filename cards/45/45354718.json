@@ -1,11 +1,14 @@
 {
     "cid": "72c5e79b-686f-4fd8-8abe-e04138d67f6b",
+    "yid": 45354718,
     "password": "45354718",
     "kid": 16394,
     "name": "Lyrilusc - Bird Call",
     "name_jp": "<ruby lang=\"jp\"><rb>ＬＬ</rb><rp> (</rp><rt>リリカル・ルスキニア</rt><rp>)</rp></ruby>－バード・コール",
     "name_jp_rom": "Ririkaru Rusukinia - Bādo Kōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lyrical Luscinia - Bird Call",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,17 +29,32 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "LyriluscBirdCall-DP25-JP-SR.png",
+            "art": "LyriluscBirdCall-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "LyriluscBirdCall-LED8-EN-UR-1E.png",
-            "art": null
+            "art": "LyriluscBirdCall-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LED8-EN039",
             "set": "Legendary Duelists: Synchro Storm",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP25-JP038",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -74,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

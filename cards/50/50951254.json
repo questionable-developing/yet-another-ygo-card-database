@@ -1,11 +1,14 @@
 {
     "cid": "a83163e2-31c5-4e4c-8648-6a6d7cc1c106",
+    "yid": 50951254,
     "password": "50951254",
     "kid": 19481,
     "name": "Magmacho Dragon",
     "name_jp": "マグマッチョ・ドラゴン",
     "name_jp_rom": "Magumatcho Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP025",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

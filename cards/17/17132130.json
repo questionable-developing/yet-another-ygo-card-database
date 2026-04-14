@@ -1,12 +1,14 @@
 {
     "cid": "cf7c50ff-2768-4eae-be76-cd5060e30855",
-    "yid": null,
+    "yid": 17132130,
     "password": "17132130",
     "kid": 6757,
     "name": "Destiny HERO - Dogma",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ドグマガイ",
     "name_jp_rom": "Desutenī Hīrō Dogumagai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Dogmaguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -80,6 +82,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP014",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP007",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP010",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SPDS-JP011",
+            "set": "Booster SP: Destiny Soldiers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -123,5 +157,6 @@
             "Special Summon Monster",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

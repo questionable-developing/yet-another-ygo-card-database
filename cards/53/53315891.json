@@ -1,11 +1,14 @@
 {
     "cid": "ce051898-eabd-4a6a-8d4f-f993c5ab1fad",
+    "yid": 53315891,
     "password": "53315891",
     "kid": 11880,
     "name": "Timaeus the Knight of Destiny",
     "name_jp": "<ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>がっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ティマイオス",
     "name_jp_rom": "Gasshinryū Timaiosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Timaeus the United God Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP001",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Ultra Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +84,9 @@
         ],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Timaeus (series)"
+        ],
         "suparc": [
             "Legendary Knight"
         ],
@@ -112,5 +127,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

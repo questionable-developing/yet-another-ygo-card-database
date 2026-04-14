@@ -1,12 +1,14 @@
 {
     "cid": "f2192828-28b5-4b64-b28d-fb4d0e4e92e7",
-    "yid": null,
+    "yid": 10026986,
     "password": "10026986",
     "kid": 7833,
     "name": "Worm King",
     "name_jp": "ワーム・キング",
     "name_jp_rom": "Wāmu Kingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,17 +32,39 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WormKing-DTC1-JP-DScPR-DT.png",
+            "art": "WormKing-TF05-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WormKing-STOR-EN-SR-UE.png",
-            "art": null
+            "art": "WormKing-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "STOR-EN097",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT02-JP035",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP053",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": [],
+                "Duel Terminal Secret Parallel Rare": []
             }
         }
     ],
@@ -81,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

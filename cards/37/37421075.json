@@ -1,11 +1,14 @@
 {
     "cid": "75717904-7c6b-4e7c-afde-7b0eba026d4d",
+    "yid": 37421075,
     "password": "37421075",
     "kid": 9947,
     "name": "Degen-Force",
     "name_jp": "<ruby lang=\"jp\"><rb>強</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>制</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>退</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyōsei Taika",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Forced Degeneration",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ORCS-EN073",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP073",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
             "Requires control of specific Level",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

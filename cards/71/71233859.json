@@ -1,11 +1,14 @@
 {
     "cid": "a0f55241-3853-4c57-ab3e-9493d5fa3e2c",
+    "yid": 71233859,
     "password": "71233859",
     "kid": 9770,
     "name": "Photon Booster",
     "name_jp": "フォトン・ブースター",
     "name_jp_rom": "Foton Būsutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP052",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

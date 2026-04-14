@@ -1,11 +1,14 @@
 {
     "cid": "b921268e-8246-44bb-ab99-c7ae8ca664d2",
+    "yid": 86758915,
     "password": "86758915",
     "kid": 14142,
     "name": "Impcantation Inception",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神儀</rb><rp> (</rp><rt>デビリチャル</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祝</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>誕</rb><rp> (</rp><rt>たん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Debiricharu no Shukutan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deviritual Celebrated Birth",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SAST-EN065",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP065",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Only once per turn",
             "Nonspecific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c18c144d-115c-4175-9621-937d9f797038",
+    "yid": 96598015,
     "password": "96598015",
     "kid": 11583,
     "name": "Pot of Riches",
     "name_jp": "<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>満</rb><rp> (</rp><rt>まん</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kinman na Tsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP063",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD31-JP026",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TBC1-JP005",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +130,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

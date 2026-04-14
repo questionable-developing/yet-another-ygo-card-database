@@ -1,12 +1,14 @@
 {
     "cid": "aa7c59b2-35bb-47c8-ad1a-4a8f67f4ab54",
-    "yid": null,
+    "yid": 29301450,
     "password": "29301450",
     "kid": 19188,
     "name": "S:P Little Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ</rb><rp> (</rp><rt>エス</rt><rp>)</rp></ruby>：<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ピー</rt><rp>)</rp></ruby>リトルナイト",
     "name_jp_rom": "Esu:Pī Ritoru Naito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "S:P Little Night",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -34,11 +36,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SPLittleKnight-MP25-EN-StR-1E.png",
-            "art": null
+            "full": "SPLittleKnight-L26D-EN-C-1E.png",
+            "art": "SPLittleKnight-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "SPLittleKnight-LOCH-JP-UR.png",
+            "art": "SPLittleKnight-MADU-EN-VG-artwork-2.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "AGOV-EN046",
@@ -72,6 +79,41 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Starlight Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENM32",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP046",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JP046",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP028",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -121,5 +163,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

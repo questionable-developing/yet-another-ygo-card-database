@@ -1,12 +1,14 @@
 {
     "cid": "7344c96d-ddca-4a99-941b-bfd1a074e34a",
-    "yid": null,
+    "yid": 20191720,
     "password": "20191720",
     "kid": 13719,
     "name": "Gouki Moonsault",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ムーンサルト",
     "name_jp_rom": "Gōki Mūnsaruto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Moonsault",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP19-EN074",
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP003",
+            "set": "Cybernetic Horizon",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

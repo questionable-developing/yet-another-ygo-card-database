@@ -1,12 +1,14 @@
 {
     "cid": "5dfbb0b2-d66d-41c0-8e9b-1895b0955f37",
-    "yid": null,
+    "yid": 3283679,
     "password": "03283679",
     "kid": 10049,
     "name": "Evoltile Lagosucho",
     "name_jp": "エヴォルド・ラゴスクス",
     "name_jp_rom": "Evorudo Ragosukusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evold Lagosuchus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN026",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP026",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

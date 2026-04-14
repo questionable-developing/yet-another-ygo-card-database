@@ -1,11 +1,14 @@
 {
     "cid": "248aacd4-a625-4e08-84c8-215dede849f0",
+    "yid": 81057455,
     "password": "81057455",
     "kid": 12107,
     "name": "Kaiju Capture Mission",
     "name_jp": "<ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>捕</rb><rp> (</rp><rt>ほ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獲</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>作</rb><rp> (</rp><rt>さく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaijū Hokaku Daisakusen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Epic Kaiju Capture Mission",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP16-JP032",
+            "set": "Extra Pack 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +107,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

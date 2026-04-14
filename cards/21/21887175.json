@@ -1,12 +1,14 @@
 {
     "cid": "d3f1d240-2716-4e1f-9bf9-581bd704953b",
-    "yid": null,
+    "yid": 21887175,
     "password": "21887175",
     "kid": 14297,
     "name": "Mekk-Knight Crusadia Avramax",
     "name_jp": "<ruby lang=\"jp\"><rb>双穹の騎士</rb><rp> (</rp><rt>ジャックナイツ・パラディオン</rt><rp>)</rp></ruby>アストラム",
     "name_jp_rom": "Jakkunaitsu Paradion Asutoramu",
+    "name_jp_rom_base": "Sōkyū no Kishi Asutoramu",
     "name_jp_tl": "Jack-Knights Palladion Astram",
+    "name_jp_tl_base": "Twin-Skies Knight Astram",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,10 +39,15 @@
         "1": {
             "idx": "1",
             "full": "MekkKnightCrusadiaAvramax-BLMM-EN-UR-1E.png",
-            "art": null
+            "art": "MekkKnightCrusadiaAvramax-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "MekkKnightCrusadiaAvramax-LOCH-JP-UR.png",
+            "art": "MekkKnightCrusadiaAvramax-OW-3.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "DANE-EN047",
@@ -85,6 +92,46 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP047",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP045",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP049",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP035",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -125,5 +172,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

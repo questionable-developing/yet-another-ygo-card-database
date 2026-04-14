@@ -1,11 +1,14 @@
 {
     "cid": "181bb459-a872-4d3c-870a-32a54853d7aa",
+    "yid": 69217334,
     "password": "69217334",
     "kid": 13774,
     "name": "Breaking of the World",
     "name_jp": "ブレイク・オブ・ザ・ワールド",
     "name_jp_rom": "Bureiku Obu Za Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Break of the World",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP057",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,7 +73,7 @@
         ],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Activates upon Ritual Summon",
             "You draw cards"
         ],
@@ -84,5 +96,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

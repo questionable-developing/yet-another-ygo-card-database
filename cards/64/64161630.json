@@ -1,11 +1,14 @@
 {
     "cid": "47f3c7a1-f9ef-4c8f-aaff-e63b4f92d9d9",
+    "yid": 64161630,
     "password": "64161630",
     "kid": 10958,
     "name": "Purge Ray",
     "name_jp": "パージ・レイ",
     "name_jp_rom": "Pāji Rei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "LVAL-EN072",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP072",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

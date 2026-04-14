@@ -1,12 +1,14 @@
 {
     "cid": "ab79419f-a56b-44bf-a19d-08f3a8aa127d",
-    "yid": null,
+    "yid": 18865703,
     "password": "18865703",
     "kid": 10366,
     "name": "ZW - Ultimate Shield",
     "name_jp": "<ruby lang=\"jp\"><rb>ＺＷ</rb><rp> (</rp><rt>ゼアル・ウェポン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>玄武絶対聖盾</rb><rp> (</rp><rt>アルティメット・シールド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zearu Wepon - Arutimetto Shīrudo",
+    "name_jp_rom_base": "Zetto Daburu - Genbu Zettai Seijun",
     "name_jp_tl": "Zexal Weapon - Ultimate Shield",
+    "name_jp_tl_base": "ZW - Black Tortoise Absolute Holy Shield",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP007",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,7 +100,7 @@
             "Treated as Equip Card"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -100,5 +111,6 @@
             "Requires control of specific archetype",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

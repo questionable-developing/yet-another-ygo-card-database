@@ -1,11 +1,14 @@
 {
     "cid": "959b7861-c8cc-4454-8d3a-b2d448c4e329",
+    "yid": 84976088,
     "password": "84976088",
     "kid": 13567,
     "name": "Background Dragon",
     "name_jp": "バックグランド・ドラゴン",
     "name_jp_rom": "Bakkugurando Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP012",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD36-JP015",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ce46aa3b-70eb-477e-b96d-fd884a86ff58",
+    "yid": 71768839,
     "password": "71768839",
     "kid": 19165,
     "name": "I.A.S. -Invasive Alien Species-",
     "name_jp": "<ruby lang=\"jp\"><rb>侵略的外来種</rb><rp> (</rp><rt>インヴェイシブ・エーリアン・スピーシーズ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｉ．Ａ．Ｓ</rb><rp> (</rp><rt>アイ・アース</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Inveishibu Ērian Supīshīzu - Ai Āsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Invasive Alien Species - I.A.S",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP023",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

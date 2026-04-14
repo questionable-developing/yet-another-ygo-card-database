@@ -1,11 +1,14 @@
 {
     "cid": "a40e3500-ea6f-4816-845f-9791928aff2d",
+    "yid": 91665064,
     "password": "91665064",
     "kid": 13269,
     "name": "Security Block",
     "name_jp": "セキュリティ・ブロック",
     "name_jp_rom": "Sekyuriti Burokku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP053",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

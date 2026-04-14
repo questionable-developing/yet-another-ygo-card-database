@@ -1,12 +1,14 @@
 {
     "cid": "9e7a2300-5b73-43e9-b1ab-7a7c6deb9e23",
-    "yid": null,
+    "yid": 11741041,
     "password": "11741041",
     "kid": 9696,
     "name": "Raigeki Bottle",
     "name_jp": "サンダー・ボトル",
     "name_jp_rom": "Sandā Botoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder Bottle",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -50,6 +52,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP079",
+            "set": "Generation Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -58,7 +69,9 @@
         "mentions": [],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Raigeki (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -80,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

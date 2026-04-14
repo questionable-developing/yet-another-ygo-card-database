@@ -1,11 +1,14 @@
 {
     "cid": "71d163ba-86ef-4a2b-829d-ee5fd68799ee",
+    "yid": 49604192,
     "password": "49604192",
     "kid": 21353,
     "name": "Mitsurugi Tempest",
-    "name_jp": "<ruby lang=\"jp\"><rb>八雲断</rb><rp> (</rp><rt>ヤクモタツ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巳剣</rb><rp> (</rp><rt>ミツルギ</rt><rp>)</rp></ruby>",
+    "name_jp": "<ruby lang=\"jp\"><rb>八雲断巳剣</rb><rp> (</rp><rt>ヤクモタツミツルギ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yakumo-tatsu Mitsurugi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stormcloud-Splitting Serpent Sword",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "MitsurugiTempest-ALIN-EN-C-1E.png",
+            "full": "MitsurugiTempest-L26D-EN-UR-1E.png",
             "art": null
         }
     },
@@ -35,6 +38,22 @@
         {
             "sid": "ALIN-EN096",
             "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENM21",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP042",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -83,5 +102,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

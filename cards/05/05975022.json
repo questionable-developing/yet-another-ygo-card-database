@@ -1,12 +1,14 @@
 {
     "cid": "96685c1c-a5d2-4153-9461-28a7a8a6c83d",
-    "yid": null,
+    "yid": 5975022,
     "password": "05975022",
     "kid": 7284,
     "name": "Gladiator Beast Murmillo",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ムルミロ",
     "name_jp_rom": "Guradiaru Bīsuto Murumiro",
+    "name_jp_rom_base": "Kentōjū Murumiro",
     "name_jp_tl": "Gladial Beast Murmillo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP019",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP036",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7bbd5a27-1f3b-4c45-80cc-fe1117e2038f",
+    "yid": 80744121,
     "password": "80744121",
     "kid": 6756,
     "name": "Destiny HERO - Fear Monger",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ドゥームガイ",
     "name_jp_rom": "Desutenī Hīrō Dūmugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny Hero Doomguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +74,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP016",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "POTD-JP016",
+            "set": "Power of the Duelist: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP009",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP012",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +141,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

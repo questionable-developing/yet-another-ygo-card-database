@@ -1,11 +1,14 @@
 {
     "cid": "72328f58-27a6-47b0-9363-cf0aada32296",
+    "yid": 62560742,
     "password": "62560742",
     "kid": 9510,
     "name": "T.G. Recipro Dragonfly",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> レシプロ・ドラゴン・フライ",
     "name_jp_rom": "Tekku Jīnasu Reshipuro Doragon Furai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Recipro Dragon Fly",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP039",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "19TP-JP210",
+            "set": "Tournament Pack 2019 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP041",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +117,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

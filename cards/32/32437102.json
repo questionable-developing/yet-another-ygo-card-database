@@ -1,12 +1,14 @@
 {
     "cid": "069e3d65-a313-44cb-95bc-75dec828beda",
-    "yid": null,
+    "yid": 32437102,
     "password": "32437102",
     "kid": 5279,
     "name": "Dragonic Attack",
     "name_jp": "<ruby lang=\"jp\"><rb>竜魂の力</rb><rp> (</rp><rt>ドラゴニック・フォース</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragonikku Fōsu",
+    "name_jp_rom_base": "Ryūkon no Chikara",
     "name_jp_tl": "Dragonic Force",
+    "name_jp_tl_base": "Dragonic Soul Force",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "LON-EN101",
             "set": "Labyrinth of Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LN-50",
+            "set": "Labyrinth of Nightmare (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL3-133",
+            "set": "Duelist Legacy Volume.3",
             "rarities": {
                 "Common": []
             }
@@ -73,5 +91,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

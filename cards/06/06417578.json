@@ -1,12 +1,14 @@
 {
     "cid": "75d09a34-5fa4-42b5-915e-e8a00d6fd583",
-    "yid": null,
+    "yid": 6417578,
     "password": "06417578",
     "kid": 11396,
     "name": "El Shaddoll Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>神の写し身との接触</rb><rp> (</rp><rt>エルシャドール・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Erushadōru Fyūjon",
+    "name_jp_rom_base": "Kami no Utsushimi to no Sesshoku",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Contact with the Embodiment of a God",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +71,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP064",
+            "set": "The New Challengers",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD37-JP024",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP082",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +131,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

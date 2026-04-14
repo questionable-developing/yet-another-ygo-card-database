@@ -1,12 +1,14 @@
 {
     "cid": "1a3e8f66-8411-4b18-8ba2-20e6d30f22c6",
-    "yid": null,
+    "yid": 35952884,
     "password": "35952884",
     "kid": 9709,
     "name": "Shooting Quasar Dragon",
     "name_jp": "シューティング・クェーサー・ドラゴン",
     "name_jp_rom": "Shūtingu Kwēsā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -23,33 +25,77 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters<br />Must be Synchro Summoned. This card can attack a number of times each Battle Phase, up to the number of non-Tuners used for its Synchro Summon. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+    "desc": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters<br />Must be Synchro Summoned. Can attack a number of times each Battle Phase, up to the number of non-Tuners used for its Synchro Summon. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. This card can attack a number of times each Battle Phase, up to the number of non-Tuners used for its Synchro Summon. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
-    "eff": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. This card can attack a number of times each Battle Phase, up to the number of non-Tuners used for its Synchro Summon. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+    "mnst_eff": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. Can attack a number of times each Battle Phase, up to the number of non-Tuners used for its Synchro Summon. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
+    "eff": "1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters\nMust be Synchro Summoned. Can attack a number of times each Battle Phase, up to the number of non-Tuners used for its Synchro Summon. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
             "full": "ShootingQuasarDragon-RA04-EN-PlScR-1E.png",
+            "art": "ShootingQuasarDragon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "ShootingQuasarDragon-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "LC05-EN005",
             "set": "Legendary Collection 5D's",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "RA04-EN158",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN143",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MG03-JP002",
+            "set": "Master Guide 3 promotional cards",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20CP-JPF06",
+            "set": "20th Secret Rare Final Challenge Pack",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "DUNE-JPS01",
+            "set": "Duelist Nexus +1 Bonus Pack",
+            "rarities": {
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP003",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -105,5 +151,6 @@
             "Accel Synchro Monster",
             "Limit Over Accel Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "6f734622-10a4-4573-921c-cc93206573f8",
-    "yid": null,
+    "yid": 26057276,
     "password": "26057276",
     "kid": 11361,
     "name": "Satellarknight Betelgeuse",
     "name_jp": "<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby> ベテルギウス",
     "name_jp_rom": "Sateranaito Beterugiusu",
+    "name_jp_rom_base": "Sei'inshi Beterugiusu",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP029",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

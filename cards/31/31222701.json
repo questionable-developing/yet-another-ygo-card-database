@@ -1,12 +1,14 @@
 {
     "cid": "0e902910-f330-49f5-a366-ec36ee4d1e45",
-    "yid": null,
+    "yid": 31222701,
     "password": "31222701",
     "kid": 11850,
     "name": "Wavering Eyes",
     "name_jp": "<ruby lang=\"jp\"><rb>揺</rb><rp> (</rp><rt>ゆ</rt><rp>)</rp></ruby>れる<ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>まな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>差</rb><rp> (</rp><rt>ざ</rt><rp>)</rp></ruby>し",
     "name_jp_rom": "Yureru Manazashi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP066",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD31-JP025",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBAG-JP044",
+            "set": "Deck-Build Pack: Ancient Guardians",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +131,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

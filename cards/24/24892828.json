@@ -1,12 +1,14 @@
 {
     "cid": "eb806b69-30e3-4903-8dd8-24faa402f682",
-    "yid": null,
+    "yid": 24892828,
     "password": "24892828",
     "kid": 19417,
     "name": "Returned of the Tistina",
     "name_jp": "ティスティナの<ruby lang=\"jp\"><rb>還</rb><rp> (</rp><rt>かえ</rt><rp>)</rp></ruby>り<ruby lang=\"jp\"><rb>仔</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tisutina no Kaerigo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Returned Child of the Tistina",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "AGOV-EN087",
             "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP019",
+            "set": "World Premiere Pack 2024",
             "rarities": {
                 "Common": []
             }
@@ -89,5 +100,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

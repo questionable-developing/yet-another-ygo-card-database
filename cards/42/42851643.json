@@ -1,11 +1,14 @@
 {
     "cid": "7e41dadb-9973-4524-94f2-2872b5ba2ca2",
+    "yid": 42851643,
     "password": "42851643",
     "kid": 10038,
     "name": "Jumbo Drill",
     "name_jp": "<ruby lang=\"jp\"><rb>穿</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>孔</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ドリルジャンボ",
     "name_jp_rom": "Senkō Jūki Doriru Janbo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Drill Jumbo, Drilling Heavy Machinery",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP015",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DS14-JPM11",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

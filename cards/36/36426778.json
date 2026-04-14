@@ -1,12 +1,14 @@
 {
     "cid": "c688aa6b-a7cf-4ea4-80a5-10a596677695",
-    "yid": null,
+    "yid": 36426778,
     "password": "36426778",
     "kid": 12199,
     "name": "The Phantom Knights of Silent Boots",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>サイレントブーツ",
     "name_jp_rom": "Fantomu Naitsu Sairento Būtsu",
+    "name_jp_rom_base": "Gen'ei Kishidan Sairento Būtsu",
     "name_jp_tl": "Phantom Knights Silent Boots",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -86,6 +88,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP002",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP079",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "HC01-JP040",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP146",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -123,7 +159,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

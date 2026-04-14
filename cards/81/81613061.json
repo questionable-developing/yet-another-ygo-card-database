@@ -1,11 +1,14 @@
 {
     "cid": "c65a49a1-84cd-40ff-b163-a9123d653f26",
+    "yid": 81613061,
     "password": "81613061",
     "kid": 17176,
     "name": "War Rock Medium",
     "name_jp": "ウォークライ・ミーディアム",
     "name_jp_rom": "Wōkurai Mīdiamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Warcry Medium",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DIFO-EN065",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP065",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

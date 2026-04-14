@@ -1,12 +1,14 @@
 {
     "cid": "96a09a1e-e7a3-4619-92e6-a2494eafa21e",
-    "yid": null,
+    "yid": 16246535,
     "password": "16246535",
     "kid": 21449,
     "name": "Silent Psychic Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>沈</rb><rp> (</rp><rt>ちん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黙</rb><rp> (</rp><rt>もく</rt><rp>)</rp></ruby>のサイコマジシャン",
     "name_jp_rom": "Chinmoku no Saiko Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Silent Psycho Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -46,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP038",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +85,7 @@
             "1 or more non-Tuner Synchro Materials",
             "Does not require specific Synchro Materials",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Restricts the player's Special Summons from the Extra Deck",
             "Restricts the player's Special Summons to Type specific monsters",
             "Treats itself as a non-Tuner monster"
@@ -88,5 +99,6 @@
             "Tuner Synchro Monster",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

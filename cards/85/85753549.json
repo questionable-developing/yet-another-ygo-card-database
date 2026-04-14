@@ -1,11 +1,14 @@
 {
     "cid": "77961822-675c-4e70-9199-550c09e32cd2",
+    "yid": 85753549,
     "password": "85753549",
     "kid": 19868,
     "name": "Mikazukinoyaiba, the Moon Fang Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>げつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－クレセント・ドラゴン",
     "name_jp_rom": "Getsugaryū - Kuresento Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Moon Fang Dragon - Crescent Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP027",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

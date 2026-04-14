@@ -1,11 +1,14 @@
 {
     "cid": "fa15a606-c5ff-48f0-93e9-3cc45d11c164",
+    "yid": 62420419,
     "password": "62420419",
     "kid": 6342,
     "name": "Reshef the Dark Being",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby> レシェフ",
     "name_jp_rom": "Daijashin Reshefu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reshef the Great Evil God",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP033",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP213",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +102,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

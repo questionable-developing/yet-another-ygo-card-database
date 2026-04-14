@@ -1,11 +1,14 @@
 {
     "cid": "3c448812-f779-4572-97cb-1e653d294919",
+    "yid": 96915510,
     "password": "96915510",
     "kid": 14279,
     "name": "Crealtar, the Impcantation Originator",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神儀</rb><rp> (</rp><rt>デビリチャル</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>創</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>造</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>主</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby>－クリオルター",
     "name_jp_rom": "Debirichuaru no Sōzōshu - Kuriorutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deviritual Creator - Crealtar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "DANE-EN029",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP029",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

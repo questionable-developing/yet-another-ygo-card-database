@@ -1,11 +1,14 @@
 {
     "cid": "edc9029c-927b-4afa-9663-d3557e8dbe4a",
+    "yid": 78156759,
     "password": "78156759",
     "kid": 9870,
     "name": "Wind-Up Zenmaines",
     "name_jp": "<ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>ぜん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>条</rb><rp> (</rp><rt>まい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby>ゼンマイン",
     "name_jp_rom": "Zenmai Kirai Zenmain",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wind-Up Naval Mine Zenmaine",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -59,6 +62,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GS04-JP010",
+            "set": "Gold Series 2012",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "GDB1-JP070",
+            "set": "The Gold Box",
+            "rarities": {
+                "Gold Rare": []
+            }
+        },
+        {
+            "sid": "EP12-JP028",
+            "set": "Extra Pack 2012",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +127,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

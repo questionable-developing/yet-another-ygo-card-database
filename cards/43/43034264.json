@@ -1,11 +1,14 @@
 {
     "cid": "33b2dce1-fddd-433d-aa64-091207d59cb8",
+    "yid": 43034264,
     "password": "43034264",
     "kid": 11394,
     "name": "Laser Qlip",
     "name_jp": "<ruby lang=\"jp\"><rb>機殻の要塞</rb><rp> (</rp><rt>クリフォートレス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kurifōtoresu",
+    "name_jp_rom_base": "Kikaku no Yōsai",
     "name_jp_tl": "Qliphortress",
+    "name_jp_tl_base": "Machine Husk Fortress",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP062",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

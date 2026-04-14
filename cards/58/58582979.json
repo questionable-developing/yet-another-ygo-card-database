@@ -1,11 +1,14 @@
 {
     "cid": "50ff07e0-36d6-425f-bc7f-d5027fbdf559",
+    "yid": 58582979,
     "password": "58582979",
     "kid": 13566,
     "name": "Defrag Dragon",
     "name_jp": "デフラドラグーン",
     "name_jp_rom": "Defuradoragūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Defradragoon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP011",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD36-JP014",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

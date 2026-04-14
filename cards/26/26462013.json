@@ -1,12 +1,14 @@
 {
     "cid": "ab0e46b9-077d-46d1-a87c-7944960f7dae",
-    "yid": null,
+    "yid": 26462013,
     "password": "26462013",
     "kid": 21446,
     "name": "Primite Dragon Nether Berzelius",
     "name_jp": "<ruby lang=\"jp\"><rb>原</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ネザー・ベルセリウス",
     "name_jp_rom": "Gensekiryū Nezā Beruseriusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ore Dragon Nether Berzelius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -46,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP035",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +88,7 @@
         "summoning": [
             "2+ Fusion Materials",
             "Requires archetype specific Fusion Materials",
-            "Requires Normal Monsters as Fusion Materials",
+            "Requires nonspecific Normal Monsters as Fusion Materials",
             "Special Summons from your Deck"
         ],
         "attack": [],
@@ -86,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "64c3d950-49d1-4ec9-a271-f98185fbc60f",
+    "yid": 82460246,
     "password": "82460246",
     "kid": 18521,
     "name": "Peaceful Planet Calarium",
     "name_jp": "<ruby lang=\"jp\"><rb>伍</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>＝カラリウム",
     "name_jp_rom": "Gosekai = Karariumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fifth Broken World - Kalarium",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +56,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP058",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,7 +100,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

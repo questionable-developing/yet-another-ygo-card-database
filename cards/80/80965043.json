@@ -1,11 +1,14 @@
 {
     "cid": "c723d64b-87cb-4014-aa7a-88cb803ae760",
+    "yid": 80965043,
     "password": "80965043",
     "kid": 14746,
     "name": "Mathmech Addition",
     "name_jp": "<ruby lang=\"jp\"><rb>斬</rb><rp> (</rp><rt>ザン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>キ</rt><rp>)</rp></ruby>アディオン",
     "name_jp_rom": "Zanki Adion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Zanki Addion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP003",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

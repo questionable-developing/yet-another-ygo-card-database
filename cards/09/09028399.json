@@ -1,12 +1,14 @@
 {
     "cid": "b7187c74-a6ec-4df7-9e9a-dce0b6c2bfa8",
-    "yid": null,
+    "yid": 9028399,
     "password": "09028399",
     "kid": 14834,
     "name": "Cataclysmic Crusted Calcifida",
     "name_jp": "<ruby lang=\"jp\"><rb>楽</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禍</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>カルクラグラ",
     "name_jp_rom": "Rakutenka Karukuragura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Calcragula the Cheerful Cataclysm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "IGAS-EN025",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP025",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -80,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c20cad0b-e6a5-4cc5-bf33-5972490a9408",
+    "yid": 75673220,
     "password": "75673220",
     "kid": 9435,
     "name": "Snapdragon",
     "name_jp": "スナップドラゴン",
     "name_jp_rom": "Sunappudoragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VE03-JP001",
+            "set": "V Jump Edition 3",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

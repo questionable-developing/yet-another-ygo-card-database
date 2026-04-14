@@ -1,11 +1,14 @@
 {
     "cid": "18a953a0-5b09-42b5-90f3-397965b7499b",
+    "yid": 51020079,
     "password": "51020079",
     "kid": 8323,
     "name": "Cyborg Doctor",
     "name_jp": "サイボーグドクター",
     "name_jp_rom": "Saibōgu Dokutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP032",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

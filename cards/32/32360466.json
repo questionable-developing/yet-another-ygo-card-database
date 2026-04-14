@@ -1,12 +1,14 @@
 {
     "cid": "192d008e-0f39-47be-a231-e2b4c6aa5a66",
-    "yid": null,
+    "yid": 32360466,
     "password": "32360466",
     "kid": 12808,
     "name": "Beginning of Heaven and Earth",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>開</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>闢</rb><rp> (</rp><rt>びゃく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenchi Kaibyaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP073",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "20TP-JP214",
+            "set": "Tournament Pack 2020 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

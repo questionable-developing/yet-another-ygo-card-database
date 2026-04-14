@@ -1,12 +1,14 @@
 {
     "cid": "e4b980ec-497c-4244-ac4b-54747acfa5ee",
-    "yid": null,
+    "yid": 26746975,
     "password": "26746975",
     "kid": 19468,
     "name": "Dark Guardian",
     "name_jp": "<ruby lang=\"jp\"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>－ダーク・ガーディアン",
     "name_jp_rom": "Yami no Shugoshin - Dāku Gādian",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Guardian God of Darkness - Dark Guardian",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +43,15 @@
             "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP013",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -80,6 +91,7 @@
         "summoning": [
             "Cannot be Normal Summoned",
             "Cannot be Normal Set",
+            "Must be Special Summoned by a specific card effect",
             "Nomi",
             "Special Summons itself from your hand",
             "Special Summons itself from your Graveyard"
@@ -95,5 +107,6 @@
             "Special Summon Monster",
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "85dddbbb-0839-4259-8e1a-e0925625e935",
-    "yid": null,
+    "yid": 24506253,
     "password": "24506253",
     "kid": 16203,
     "name": "Chronomaly Acambaro Figures",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>アカンバロの<ruby lang=\"jp\"><rb>土</rb><rp> (</rp><rt>ど</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>偶</rb><rp> (</rp><rt>ぐう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōpātsu Akanbaro no Dogū",
+    "name_jp_rom_base": "Senshi Isan Akanbaro no Dogū",
     "name_jp_tl": "OOPArts Acámbaro Figure",
+    "name_jp_tl_base": "Prehistoric Heritage Acámbaro Figure",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DAMA-EN014",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP014",
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
@@ -88,5 +99,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

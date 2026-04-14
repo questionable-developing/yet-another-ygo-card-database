@@ -1,12 +1,14 @@
 {
     "cid": "709f2ed1-71d4-4173-b118-8eaf04d7d7de",
-    "yid": null,
+    "yid": 3072077,
     "password": "03072077",
     "kid": 6005,
     "name": "Return Zombie",
     "name_jp": "リターン・ゾンビ",
     "name_jp_rom": "Ritān Zonbi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP6-005",
+            "set": "Premium Pack 6",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TP03-JP006",
+            "set": "Tournament Pack 2007 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
             "During the Standby Phase",
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

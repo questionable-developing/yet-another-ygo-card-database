@@ -1,12 +1,14 @@
 {
     "cid": "8e401beb-9b1f-4837-a0e7-5d84c20b60f8",
-    "yid": null,
+    "yid": 24725825,
     "password": "24725825",
     "kid": 6977,
     "name": "Electric Virus",
     "name_jp": "エレクトリック・ワーム",
     "name_jp_rom": "Erekutorikku Wāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Electric Worm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +67,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP021",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP092",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP014",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +122,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

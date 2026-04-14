@@ -1,11 +1,14 @@
 {
     "cid": "04eff0c7-0d1c-433d-a627-18d5d25c84f2",
+    "yid": 99801464,
     "password": "99801464",
     "kid": 18171,
     "name": "Sari of the Silverwing Axe",
     "name_jp": "<ruby lang=\"jp\"><rb>銀</rb><rp> (</rp><rt>ぎん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>ＡＸＥ</rb><rp> (</rp><rt>アクス</rt><rp>)</rp></ruby>－サリー",
     "name_jp_rom": "Gin'yoku no Akusu - Sarī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP026",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d350678d-9c2e-4b65-abb9-f6291cb82eec",
+    "yid": 81951640,
     "password": "81951640",
     "kid": 15261,
     "name": "Unauthorized Bootup Device",
     "name_jp": "<ruby lang=\"jp\"><rb>奇</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>メイルファクター",
     "name_jp_rom": "Kidōsōchi Meirufakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bootup Device Malefactor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "ROTD-EN027",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP027",
             "set": "Rise of the Duelist",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

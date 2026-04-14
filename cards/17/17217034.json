@@ -1,12 +1,14 @@
 {
     "cid": "28db3d03-f0b6-4663-83a2-b8cb18503b7c",
-    "yid": null,
+    "yid": 17217034,
     "password": "17217034",
     "kid": 19933,
     "name": "Combined Maneuver - Engage Zero!",
     "name_jp": "<ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>がっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>－エンゲージ・ゼロ",
     "name_jp_rom": "Gattai Jutsushiki - Engēji Zero",
-    "name_jp_tl": "Combined Skill - Engage Zero",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Combined Technique - Engage Zero",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -34,17 +36,28 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "CombinedManeuverEngageZero-YOS1-JP-UR.png",
+            "full": "CombinedManeuverEngageZero-L26D-EN-UR-1E.png",
             "art": null
         }
     },
     "image": null,
     "sets": [
         {
-            "sid": "L26D-EN???",
+            "sid": "L26D-ENS33",
             "set": "Legendary Modern Decks 2026",
             "rarities": {
-                "": []
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "YOS1-JP003",
+            "set": "Yu-Gi-Oh! OCG Stories Sky Striker Ace Arc Volume 3 promotional card",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -91,7 +104,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Archetype condition"
+            "Archetype condition",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

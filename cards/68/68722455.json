@@ -1,11 +1,14 @@
 {
     "cid": "7c181604-30ae-4fee-b570-fee333781dc3",
+    "yid": 68722455,
     "password": "68722455",
     "kid": 7804,
     "name": "Red Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>赤</rb><rp> (</rp><rt>あか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>おに</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Akaoni",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP033",
+            "set": "V Jump Spring 2008 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -58,7 +70,9 @@
         "mentions": [],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -77,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b3aa464b-3e97-4f6b-ab94-8f02a3321ab8",
-    "yid": null,
+    "yid": 31434645,
     "password": "31434645",
     "kid": 15124,
     "name": "Cursed Eldland",
     "name_jp": "<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>のろ</rt><rp>)</rp></ruby>われしエルドランド",
     "name_jp_rom": "Norowareshi Erudorando",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSS-JP028",
+            "set": "Deck-Build Pack: Secret Slayers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPC05",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

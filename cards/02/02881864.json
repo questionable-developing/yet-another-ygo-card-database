@@ -1,12 +1,14 @@
 {
     "cid": "3e234858-40b7-4265-a194-637802c23852",
-    "yid": null,
+    "yid": 2881864,
     "password": "02881864",
     "kid": 14773,
     "name": "Naglfar, Generaider Boss of Fire",
     "name_jp": "<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>ほのお</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>ジェネレイド</rt><rp>)</rp></ruby> ナグルファー",
     "name_jp_rom": "Honō no Jenereido Nagurufā",
+    "name_jp_rom_base": "Honō no Ō Nagurufā",
     "name_jp_tl": "Naglfar, Generaid of Fire",
+    "name_jp_tl_base": "Naglfar, King of Fire",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -41,6 +43,16 @@
             "set": "Mystic Fighters",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP030",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -84,5 +96,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

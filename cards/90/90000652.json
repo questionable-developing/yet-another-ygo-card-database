@@ -1,11 +1,14 @@
 {
     "cid": "5172cf82-b162-4da3-a398-9ab5542fdaaf",
+    "yid": 90000652,
     "password": "90000652",
     "kid": 17996,
     "name": "Rescue-ACE Fire Engine",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｒ－ＡＣＥ</rb><rp> (</rp><rt>レスキュー・エース</rt><rp>)</rp></ruby>ファイア・エンジン",
     "name_jp_rom": "Resukyū Ēsu Faia Enjin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP006",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA03",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

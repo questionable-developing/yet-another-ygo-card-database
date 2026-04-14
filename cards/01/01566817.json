@@ -1,12 +1,14 @@
 {
     "cid": "7eb26274-5031-4078-abd5-fa439152934d",
-    "yid": null,
+    "yid": 1566817,
     "password": "01566817",
     "kid": 14842,
     "name": "Cupid Serve",
     "name_jp": "テイ・キューピット",
     "name_jp_rom": "Tei Kyūpitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tennis Cupit",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP033",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

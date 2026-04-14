@@ -1,11 +1,14 @@
 {
     "cid": "b251fbe4-f329-4d9d-bd71-fd93ace7c637",
+    "yid": 43129357,
     "password": "43129357",
     "kid": 19888,
     "name": "Ragnaraika Skeletal Soldier",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>武者髑髏</rb><rp> (</rp><rt>ムシャドクロ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika no Musha Dokuro",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Warrior Skull",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP047",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

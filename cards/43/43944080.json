@@ -1,11 +1,14 @@
 {
     "cid": "41e9a0d3-6109-4616-8eae-cd159336315a",
+    "yid": 43944080,
     "password": "43944080",
     "kid": 18480,
     "name": "Nemleria Dream Defender - Couette",
     "name_jp": "ネムレリアの<ruby lang=\"jp\"><rb>夢</rb><rp> (</rp><rt>ゆめ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>も</rt><rp>)</rp></ruby>り－クエット",
     "name_jp_rom": "Nemureria no Yumemori - Kuetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CYAC-EN017",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP017",
             "set": "Cyberstorm Access",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

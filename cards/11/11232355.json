@@ -1,12 +1,14 @@
 {
     "cid": "0a8baa91-4798-49da-8b32-59a5b53d42f1",
-    "yid": null,
+    "yid": 11232355,
     "password": "11232355",
     "kid": 7721,
     "name": "Destructotron",
     "name_jp": "ディストラクター",
     "name_jp_rom": "Desutorakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destructor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP023",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP009",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +110,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

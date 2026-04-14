@@ -1,11 +1,14 @@
 {
     "cid": "cd122d9a-c025-4eb9-ab55-df2ebea128a1",
+    "yid": 44394295,
     "password": "44394295",
     "kid": 11268,
     "name": "Shaddoll Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>影依融合</rb><rp> (</rp><rt>シャドール・フュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shadōru Fyūjon",
+    "name_jp_rom_base": "Eii Yūgō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Shadow-Clad Fusion",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "ShaddollFusion-RA04-EN-PlScR-1E.png",
+            "full": "ShaddollFusion-25YC-EN-R-LE.png",
             "art": null
         }
     },
@@ -76,6 +79,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP059",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP095",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD37-JPP05",
+            "set": "Structure Deck: Rebirth of Shaddoll Deck Enhancement Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP081",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +154,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

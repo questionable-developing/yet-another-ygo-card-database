@@ -1,12 +1,14 @@
 {
     "cid": "747d72d9-4918-4fca-a98f-717c23c0f00f",
-    "yid": null,
+    "yid": 28877100,
     "password": "28877100",
     "kid": 7483,
     "name": "Defensive Tactics",
     "name_jp": "ディフェンシブ・タクティクス",
     "name_jp_rom": "Difenshibu Takutikusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP016",
+            "set": "Extra Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

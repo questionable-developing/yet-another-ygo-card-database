@@ -1,12 +1,14 @@
 {
     "cid": "87fe06c6-4b1b-4128-98d0-c56e01e83dcb",
-    "yid": null,
+    "yid": 4483989,
     "password": "04483989",
     "kid": 6449,
     "name": "Prepare to Strike Back",
     "name_jp": "<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>準</rb><rp> (</rp><rt>じゅん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>備</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hangeki Junbi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -46,6 +48,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP060",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CRV-JP060",
+            "set": "Cybernetic Revolution: Vendor Edition",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP060",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +101,6 @@
         "misc": [
             "Coin toss"
         ]
-    }
+    },
+    "links": {}
 }

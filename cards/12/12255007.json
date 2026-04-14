@@ -1,12 +1,14 @@
 {
     "cid": "b54cbcf9-8e45-4066-85f9-08018ae53440",
-    "yid": null,
+    "yid": 12255007,
     "password": "12255007",
     "kid": 12277,
     "name": "Performapal Fireflux",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ホタルクス",
     "name_jp_rom": "Entameito Hotarukusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Fireflux",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -60,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP005",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -101,5 +112,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

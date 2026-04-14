@@ -1,11 +1,14 @@
 {
     "cid": "7b6a633b-1992-42ca-87c0-22c55a8453fe",
+    "yid": 95515060,
     "password": "95515060",
     "kid": 5728,
     "name": "Rod of Silence - Kay'est",
     "name_jp": "<ruby lang=\"jp\"><rb>静</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>寂</rb><rp> (</rp><rt>じゃく</rt><rp>)</rp></ruby>のロッド－ケースト",
     "name_jp_rom": "Seijaku no Roddo - Kēsto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "304-036",
+            "set": "Power of the Guardian",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP198",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

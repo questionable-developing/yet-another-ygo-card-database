@@ -1,11 +1,14 @@
 {
     "cid": "7c06e78a-b5bc-4038-891b-4c72420e1c6e",
+    "yid": 80993256,
     "password": "80993256",
     "kid": 17450,
     "name": "Ashura King",
     "name_jp": "<ruby lang=\"jp\"><rb>亜種羅王</rb><rp> (</rp><rt>アシュラオウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ashuraou",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Subspecies King",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP048",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "1c6e2ed4-603c-41e9-9f34-407fe043bd6c",
-    "yid": null,
+    "yid": 29876299,
     "password": "29876299",
     "kid": 21832,
     "name": "Megalith Anastasis",
     "name_jp": "メガリス・アナスタシス",
     "name_jp_rom": "Megarisu Anasutashisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DOOD-EN066",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP066",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
             "Requires control of specific archetype",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

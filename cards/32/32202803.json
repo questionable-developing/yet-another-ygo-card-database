@@ -1,12 +1,14 @@
 {
     "cid": "29a1cd32-d7b4-4926-9ecb-053adcb91a33",
-    "yid": null,
+    "yid": 32202803,
     "password": "32202803",
     "kid": 10622,
     "name": "Bujingi Wolf",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－タルタ",
     "name_jp_rom": "Bujingi - Taruta",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujingi Taruta",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP019",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

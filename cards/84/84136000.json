@@ -1,11 +1,14 @@
 {
     "cid": "6288cecb-851f-4fc7-984a-de39925faa38",
+    "yid": 84136000,
     "password": "84136000",
     "kid": 6544,
     "name": "The Grave of Enkindling",
     "name_jp": "<ruby lang=\"jp\"><rb>復</rb><rp> (</rp><rt>ふっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>活</rb><rp> (</rp><rt>かつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>はか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>穴</rb><rp> (</rp><rt>あな</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fukkatsu no Hakaana",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Grave of Resurrection",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TheGraveofEnkindling-DP2-JP-SR.jpg",
+            "art": "TheGraveofEnkindling-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TheGraveofEnkindling-SGX1-EN-C-1E.png",
-            "art": null
+            "art": "TheGraveofEnkindling-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DP2-EN030",
@@ -44,6 +52,15 @@
             "set": "Speed Duel GX: Duel Academy Box",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP2-JP030",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -77,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b2cff35d-8481-49f2-8ddd-da0f22fa0cc3",
-    "yid": null,
+    "yid": 5361647,
     "password": "05361647",
     "kid": 10498,
     "name": "Battlin' Boxer Glassjaw",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> グラスジョー",
     "name_jp_rom": "Bāningu Nakkurā Gurasujō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Glassjaw",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP017",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP28-JP040",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

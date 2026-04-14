@@ -1,12 +1,14 @@
 {
     "cid": "3486a553-3975-42ff-9d30-af97342f843c",
-    "yid": null,
+    "yid": 16428514,
     "password": "16428514",
     "kid": 13459,
     "name": "Subterror Guru",
     "name_jp": "サブテラーの<ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sabuterā no Dōshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP138",
+            "set": "V Jump November 2017 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP044",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +118,6 @@
             "Can be activated during either player's turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

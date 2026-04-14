@@ -1,11 +1,14 @@
 {
     "cid": "ae6441c2-40cd-4f8e-90e3-61ddf8cfbf9c",
+    "yid": 97489701,
     "password": "97489701",
     "kid": 9119,
     "name": "Red Nova Dragon",
     "name_jp": "スカーレッド・ノヴァ・ドラゴン",
     "name_jp_rom": "Sukāreddo Nova Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scarred Nova Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,10 +34,15 @@
         "1": {
             "idx": "1",
             "full": "RedNovaDragon-SDCK-EN-C-1E.png",
+            "art": "RedNovaDragon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "RedNovaDragon-BLZD-JP-PScR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "CT07-EN005",
@@ -70,6 +78,46 @@
             "set": "Structure Deck: The Crimson King",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP042",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SPHR-JP024",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP022",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JPP02",
+            "set": "Structure Deck: Pulse of the King Rumbling of Heaven and Earth Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS06",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -126,5 +174,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

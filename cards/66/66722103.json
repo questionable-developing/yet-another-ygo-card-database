@@ -1,11 +1,14 @@
 {
     "cid": "bd915d8a-2e1d-4659-a98f-ddf6d90f9be4",
+    "yid": 66722103,
     "password": "66722103",
     "kid": 14103,
     "name": "Thunderclap Monk",
     "name_jp": "<ruby lang=\"jp\"><rb>封狼雷坊</rb><rp> (</rp><rt>ふうらいぼう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fūraibō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -40,6 +43,24 @@
             "set": "Savage Strike",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP026",
+            "set": "Savage Strike",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "26TP-JP103",
+            "set": "Tournament Pack 2026 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -78,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

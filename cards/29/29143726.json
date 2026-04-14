@@ -1,12 +1,14 @@
 {
     "cid": "236377ad-f792-467d-a6e0-d59b71969e25",
-    "yid": null,
+    "yid": 29143726,
     "password": "29143726",
     "kid": 11261,
     "name": "Samsara, Dragon of Rebirth",
     "name_jp": "<ruby lang=\"jp\"><rb>転</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>サンサーラ",
     "name_jp_rom": "Tenseiryū Sansāra",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP052",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

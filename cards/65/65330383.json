@@ -1,11 +1,14 @@
 {
     "cid": "ed144031-a42f-48c1-bb13-a091dc50b1b8",
+    "yid": 65330383,
     "password": "65330383",
     "kid": 13602,
     "name": "Knightmare Gryphon",
     "name_jp": "トロイメア・グリフォン",
     "name_jp_rom": "Toroimea Gurifon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Troymare Gryphon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -63,6 +66,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP048",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DBGI-JP041",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "24EP-JP408",
+            "set": "Event Pack 2024 Vol.4",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +133,6 @@
             "Co-link",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

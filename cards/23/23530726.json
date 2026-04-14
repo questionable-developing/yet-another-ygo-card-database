@@ -1,12 +1,14 @@
 {
     "cid": "a45aeb53-97ec-45af-b360-cf52656a002f",
-    "yid": null,
+    "yid": 23530726,
     "password": "23530726",
     "kid": 19740,
     "name": "Surgical Striker - S.P.E.C.T.R.A.",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｓ．Ｐ．Ｅ．Ｃ．Ｔ．Ｒ．Ａ．</rb><rp> (</rp><rt>スペクトラ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senjutsuheiki - Supekutora",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flash Strategic Weapon - S.P.E.C.T.R.A.",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -36,17 +38,33 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SurgicalStrikerSPECTRA-25PP-JP-ScR.png",
+            "full": "SurgicalStrikerSPECTRA-L26D-EN-UR-1E.png",
             "art": null
         }
     },
     "image": null,
     "sets": [
         {
-            "sid": "L26D-EN???",
+            "sid": "L26D-ENS32",
             "set": "Legendary Modern Decks 2026",
             "rarities": {
-                "": []
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP248",
+            "set": "V Jump January 2024 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "25PP-JP028",
+            "set": "Premium Pack 2025",
+            "rarities": {
+                "Secret Rare": []
             }
         }
     ],
@@ -99,5 +117,6 @@
             "Only once per turn",
             "Requires having no Spells in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

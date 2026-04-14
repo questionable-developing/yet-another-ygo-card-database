@@ -1,11 +1,14 @@
 {
     "cid": "7a8a2e32-2f16-4b21-810c-81712ea96961",
+    "yid": 98173209,
     "password": "98173209",
     "kid": 19018,
     "name": "Crimson Gaia",
     "name_jp": "クリムゾン・ヘルガイア",
     "name_jp_rom": "Kurimuzon Herugaia",
-    "name_jp_tl": "Crimson Hellgaia",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Crimson Hell Gaia",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "CrimsonGaia-SDCK-EN-C-1E.png",
+            "full": "CrimsonGaia-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -37,6 +40,35 @@
             "set": "Structure Deck: The Crimson King",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "RA05-EN070",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD46-JP026",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS08",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -82,5 +114,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

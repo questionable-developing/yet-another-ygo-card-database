@@ -1,12 +1,14 @@
 {
     "cid": "b8dc9eca-6779-4390-9f51-6c67ec351668",
-    "yid": null,
+    "yid": 13611090,
     "password": "13611090",
     "kid": 12172,
     "name": "Majespecter Sonics",
     "name_jp": "マジェスペクター・ソニック",
     "name_jp_rom": "Majesupekutā Sonikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Majespecter Sonic",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP064",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

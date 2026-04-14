@@ -1,11 +1,14 @@
 {
     "cid": "6a4c8d17-021a-4896-b4a5-2eac76583a87",
+    "yid": 40663548,
     "password": "40663548",
     "kid": 14645,
     "name": "Aromage Marjoram",
     "name_jp": "アロマージ－マジョラム",
     "name_jp_rom": "Aromāji - Majoramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -42,6 +45,15 @@
     "sets": [
         {
             "sid": "CHIM-EN018",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP018",
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
@@ -93,5 +105,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

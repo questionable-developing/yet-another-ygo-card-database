@@ -1,12 +1,14 @@
 {
     "cid": "09bcf3dc-806f-4c62-9d84-02be02686752",
-    "yid": null,
+    "yid": 6430659,
     "password": "06430659",
     "kid": 9668,
     "name": "Infected Mail",
     "name_jp": "ウィルスメール",
     "name_jp_rom": "Wirusu Mēru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Virus Mail",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -57,6 +59,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP051",
+            "set": "Generation Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
             "Requires control of specific Level",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

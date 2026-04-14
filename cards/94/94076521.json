@@ -1,11 +1,14 @@
 {
     "cid": "b464c66d-be47-47b6-9b9f-eccaabd9359c",
+    "yid": 94076521,
     "password": "94076521",
     "kid": 17438,
     "name": "Cartorhyn the Hidden Gem of the Seafront",
     "name_jp": "<ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>秘</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>－カトリン",
     "name_jp_rom": "Suikai no Hiseki - Katorin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP036",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

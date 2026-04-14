@@ -1,11 +1,14 @@
 {
     "cid": "cce573a8-adf3-4152-abb6-ae3d8575b33b",
+    "yid": 58203736,
     "password": "58203736",
     "kid": 17051,
     "name": "Sea Stealth II",
     "name_jp": "<ruby lang=\"jp\"><rb>潜海奇襲</rb><rp> (</rp><rt>シー・ステルス</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ⅱ</rb><rp> (</rp><rt>ツー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shī Suterusu Tsū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "LED9-EN021",
             "set": "Legendary Duelists: Duels From the Deep",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP26-JP021",
+            "set": "Duelist Pack: Duelists of the Abyss",
             "rarities": {
                 "Rare": []
             }
@@ -86,5 +98,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

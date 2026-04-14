@@ -1,11 +1,14 @@
 {
     "cid": "97caa5e5-e273-4fe4-902e-eac89ea6b6f1",
+    "yid": 48633301,
     "password": "48633301",
     "kid": 14087,
     "name": "T.G. Booster Raptor",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> ブースター・ラプトル",
     "name_jp_rom": "Tekku Jīnasu Būsutā Raputoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Booster Raptor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP010",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP038",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +108,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

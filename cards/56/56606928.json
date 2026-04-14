@@ -1,11 +1,14 @@
 {
     "cid": "f10ac77d-ef5c-4da1-b80f-ec65a5a89a51",
+    "yid": 56606928,
     "password": "56606928",
     "kid": 4670,
     "name": "Eternal Drought",
     "name_jp": "<ruby lang=\"jp\"><rb>永</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遠</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>渇</rb><rp> (</rp><rt>かっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Eien no Kassui",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,13 +43,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "",
+            "set": "Booster 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
             "Effect"
         ],
         "mentions": [],
-        "sup": [],
+        "sup": [
+            "Fish"
+        ],
         "asup": [
             "Fish"
         ],
@@ -67,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

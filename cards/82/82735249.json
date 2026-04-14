@@ -1,11 +1,14 @@
 {
     "cid": "e87d63bc-8a90-425f-afef-64bc02494a83",
+    "yid": 82735249,
     "password": "82735249",
     "kid": 17173,
     "name": "Generalprobe",
     "name_jp": "ゲネラールプローベ",
     "name_jp_rom": "Generārupurōbe",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DIFO-EN062",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP062",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

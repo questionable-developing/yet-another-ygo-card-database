@@ -1,11 +1,14 @@
 {
     "cid": "dd00ec80-584d-4fe5-9b53-4d62f26e5825",
+    "yid": 75748977,
     "password": "75748977",
     "kid": 20287,
     "name": "XYZ-Hyper Dragon Cannon",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＹＺ</rb><rp> (</rp><rt>エックスワイゼット</rt><rp>)</rp></ruby>－ハイパー・ドラゴン・キャノン",
     "name_jp_rom": "Ekkusu Wai Zetto - Haipā Doragon Kyanon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,6 +44,17 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP022",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -88,7 +102,7 @@
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -103,7 +117,9 @@
         "smat": [],
         "misc": [
             "Limited activations",
-            "Mentions"
+            "Mentions",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

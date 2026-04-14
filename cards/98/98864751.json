@@ -1,11 +1,14 @@
 {
     "cid": "3618a812-70d6-4117-b220-f7961f62a3b3",
+    "yid": 98864751,
     "password": "98864751",
     "kid": 13094,
     "name": "Air Cracking Storm",
     "name_jp": "エアークラック・ストーム",
     "name_jp_rom": "Eākurakku Sutōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Aircrack Storm",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP055",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

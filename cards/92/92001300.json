@@ -1,11 +1,14 @@
 {
     "cid": "e9187cc7-befa-4387-b1a3-aeb3d5e9dd15",
+    "yid": 92001300,
     "password": "92001300",
     "kid": 6578,
     "name": "Ancient Gear Castle",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械城</rb><rp> (</rp><rt>アンティーク・ギアキャッスル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Kyassuru",
+    "name_jp_rom_base": "Kodai no Kikaijō",
     "name_jp_tl": "Antique Gear Castle",
+    "name_jp_tl_base": "Ancient Machine Castle",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -67,6 +70,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP047",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SD10-JP023",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP167",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR03-JP023",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +136,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "9cc493df-956f-4ad9-a9e0-438d20a28658",
-    "yid": null,
+    "yid": 11674673,
     "password": "11674673",
     "kid": 13751,
     "name": "Cyberse Witch",
     "name_jp": "サイバース・ウィッチ",
     "name_jp_rom": "Saibāsu Witchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +57,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP035",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP112",
+            "set": "Tournament Pack 2023 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP103",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +127,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

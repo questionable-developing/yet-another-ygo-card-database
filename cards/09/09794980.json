@@ -1,12 +1,14 @@
 {
     "cid": "6727ca50-d40e-4a0e-b67e-98ff03be05f3",
-    "yid": null,
+    "yid": 9794980,
     "password": "09794980",
     "kid": 14267,
     "name": "Knightmare Incarnation Idlee",
     "name_jp": "<ruby lang=\"jp\"><rb>夢幻転星</rb><rp> (</rp><rt>アストロイメア</rt><rp>)</rp></ruby>イドリース",
     "name_jp_rom": "Asutoroimea Idorīsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Astroymare Idlees",
+    "name_jp_tl_base": "Illusionary Reincarnating Star Idlees",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP017",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

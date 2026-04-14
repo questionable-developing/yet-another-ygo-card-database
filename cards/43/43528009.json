@@ -1,11 +1,14 @@
 {
     "cid": "1acc26e7-bd02-437a-bf19-8709c9f11a3d",
+    "yid": 43528009,
     "password": "43528009",
     "kid": 14548,
     "name": "Gold Moon Coin",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>ほし</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>貨</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hoshi no Kinka",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gold Coin of the Stars",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP19-JP003",
+            "set": "Collection Pack: Duelist of Revolution Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4b388ca4-c0c1-45c5-80fb-4307d26862a9",
+    "yid": 48712195,
     "password": "48712195",
     "kid": 7001,
     "name": "Card Trader",
     "name_jp": "カードトレーダー",
     "name_jp_rom": "Kādo Torēdā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -70,6 +73,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP046",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SD18-JP030",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP103",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +125,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

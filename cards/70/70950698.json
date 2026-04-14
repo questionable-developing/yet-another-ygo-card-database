@@ -1,11 +1,14 @@
 {
     "cid": "847c4a68-4b74-47a5-84de-2589fa9f96a0",
+    "yid": 70950698,
     "password": "70950698",
     "kid": 13198,
     "name": "Boot Staggered",
     "name_jp": "ブート・スタッガード",
     "name_jp_rom": "Būto Sutaggādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD32-JP007",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

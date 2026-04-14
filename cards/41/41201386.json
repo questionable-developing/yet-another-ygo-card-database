@@ -1,11 +1,14 @@
 {
     "cid": "c05ed775-8bbf-440c-995d-70abc6a06db2",
+    "yid": 41201386,
     "password": "41201386",
     "kid": 11998,
     "name": "Rank-Up-Magic Raid Force",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－レイド・フォース",
     "name_jp_rom": "Rankuappu Majikku - Reido Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DOCS-EN054",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP054",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Rare": []
@@ -82,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

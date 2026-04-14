@@ -1,11 +1,14 @@
 {
     "cid": "e341711a-4951-43fa-866a-473771248262",
+    "yid": 56256517,
     "password": "56256517",
     "kid": 13783,
     "name": "Ledger of Legerdemain",
     "name_jp": "<ruby lang=\"jp\"><rb>予</rb><rp> (</rp><rt>よ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>見</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>通</rb><rp> (</rp><rt>つう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帳</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yoken Tsūchō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Foreseeing Ledger",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP067",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

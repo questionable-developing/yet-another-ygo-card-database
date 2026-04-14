@@ -1,11 +1,14 @@
 {
     "cid": "8d1cd02e-b27f-41d0-bc07-2cc39a02de54",
+    "yid": 86652646,
     "password": "86652646",
     "kid": 6095,
     "name": "Skull Dog Marron",
     "name_jp": "<ruby lang=\"jp\"><rb>骨</rb><rp> (</rp><rt>スカル</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>犬</rb><rp> (</rp><rt>ドッグ</rt><rp>)</rp></ruby>マロン",
     "name_jp_rom": "Sukaru Doggu Maron",
+    "name_jp_rom_base": "Kokken Maron",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP003",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP003",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -75,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "1d4fc1c4-1130-47b8-8b2f-91e272f46038",
-    "yid": null,
+    "yid": 33041277,
     "password": "33041277",
     "kid": 13770,
     "name": "Cyber Revsystem",
     "name_jp": "サイバー・レヴシステム",
     "name_jp_rom": "Saibā Revushisutemu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP059",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

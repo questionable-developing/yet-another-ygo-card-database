@@ -1,11 +1,14 @@
 {
     "cid": "e4182d09-7895-482b-a2f5-3e91180c2bde",
+    "yid": 96565487,
     "password": "96565487",
     "kid": 7528,
     "name": "Blizzard Warrior",
     "name_jp": "ブリザード・ウォリアー",
     "name_jp_rom": "Burizādo Woriā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP011",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP002",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP006",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

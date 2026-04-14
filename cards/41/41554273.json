@@ -1,11 +1,14 @@
 {
     "cid": "530f5653-2ac7-40ab-878e-1f9f394eb0f3",
+    "yid": 41554273,
     "password": "41554273",
     "kid": 12181,
     "name": "Dinomist Rush",
     "name_jp": "ダイナミスト・ラッシュ",
     "name_jp_rom": "Dainamisuto Rasshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dynamist Rush",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP073",
+            "set": "Breakers of Shadow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

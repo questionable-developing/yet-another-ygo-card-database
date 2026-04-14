@@ -1,12 +1,14 @@
 {
     "cid": "4950a0d1-5b7b-40da-8bfa-e5b27011bf36",
-    "yid": null,
+    "yid": 13482262,
     "password": "13482262",
     "kid": 14312,
     "name": "Impcantation Thanatosis",
     "name_jp": "<ruby lang=\"jp\"><rb>魔神儀</rb><rp> (</rp><rt>デビリチャル</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>隠</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby>れ<ruby lang=\"jp\"><rb>房</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Debiricharu no Kakurebō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deviritual Secret Room",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP062",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -61,7 +72,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Returns from your hand to your Deck",
             "Activates upon Special Summon"
         ],
@@ -83,5 +94,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

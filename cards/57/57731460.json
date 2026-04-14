@@ -1,11 +1,14 @@
 {
     "cid": "88cfda26-2e4b-4515-8ab6-e93aadcff604",
+    "yid": 57731460,
     "password": "57731460",
     "kid": 7722,
     "name": "Gladiator Beast Equeste",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>エクイテ",
     "name_jp_rom": "Guradiaru Bīsuto Ekuite",
+    "name_jp_rom_base": "Kentōjū Ekuite",
     "name_jp_tl": "Gladial Beast Equite",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP024",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP010",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

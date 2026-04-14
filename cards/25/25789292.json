@@ -6,7 +6,9 @@
     "name": "Forbidden Chalice",
     "name_jp": "<ruby lang=\"jp\"><rb>禁</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby>じられた<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>杯</rb><rp> (</rp><rt>はい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kinjirareta Seihai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Forbidden Holy Grail",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -32,106 +34,171 @@
         },
         "2": {
             "idx": "2",
-            "full": "ForbiddenChalice-LPST-JP-UR.png",
+            "full": "ForbiddenChalice-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "RGBT-EN061",
             "set": "Raging Battle",
             "rarities": {
-                "Ultra Rare": [],
-                "Ultimate Rare": []
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "BP01-EN082",
             "set": "Battle Pack: Epic Dawn",
             "rarities": {
-                "Common": [],
-                "Starfoil Rare": []
+                "Common": ["1"],
+                "Starfoil Rare": ["1"]
             }
         },
         {
             "sid": "BP02-EN155",
             "set": "Battle Pack 2: War of the Giants",
             "rarities": {
-                "Common": [],
-                "Mosaic Rare": []
+                "Common": ["1"],
+                "Mosaic Rare": ["1"]
             }
         },
         {
             "sid": "PGLD-EN047",
             "set": "Premium Gold",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["1"]
             }
         },
         {
             "sid": "BP03-EN164",
             "set": "Battle Pack 3: Monster League",
             "rarities": {
-                "Common": [],
-                "Shatterfoil Rare": []
+                "Common": ["1"],
+                "Shatterfoil Rare": ["1"]
             }
         },
         {
             "sid": "WIRA-EN053",
             "set": "Wing Raiders",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "SDPL-EN024",
             "set": "Structure Deck: Powercode Link",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "LEHD-ENB16",
             "set": "Legendary Hero Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "MAGO-EN048",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "EGO1-EN028",
             "set": "Egyptian God Deck: Obelisk the Tormentor",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "OP19-EN011",
             "set": "OTS Tournament Pack 19",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "RA04-EN137",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "L5DD-ENC20",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN115",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP061",
+            "set": "Raging Battle",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "DE03-JP148",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "GS05-JP017",
+            "set": "Gold Series 2013",
+            "rarities": {
+                "Common": ["1"],
+                "Gold Rare": ["1"],
+                "Gold Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SPWR-JP041",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD33-JP025",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "24EP-JP212",
+            "set": "Event Pack 2024 Vol.2",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP033",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],

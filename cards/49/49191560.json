@@ -1,11 +1,14 @@
 {
     "cid": "704c0d86-6b71-4adf-96cc-ddc1d8867751",
+    "yid": 49191560,
     "password": "49191560",
     "kid": 10149,
     "name": "Charioteer of Prophecy",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> シャリオ",
     "name_jp_rom": "Madōkenshi Shario",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chariot the Magical Swordsman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN019",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP019",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "1d8c6659-6830-4200-9f67-17d7b0f4bd4e",
-    "yid": null,
+    "yid": 4253484,
     "password": "04253484",
     "kid": 7287,
     "name": "Gladiator Beast Hoplomus",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ホプロムス",
     "name_jp_rom": "Guradiaru Bīsuto Hopuromusu",
+    "name_jp_rom_base": "Kentōjū Hopuromusu",
     "name_jp_tl": "Gladial Beast Hoplomus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP022",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP039",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +108,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

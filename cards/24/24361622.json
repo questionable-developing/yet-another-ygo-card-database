@@ -1,12 +1,14 @@
 {
     "cid": "00e43aa4-bcb3-4581-bf66-365796b480da",
-    "yid": null,
+    "yid": 24361622,
     "password": "24361622",
     "kid": 13496,
     "name": "Hieratic Seal of the Heavenly Spheres",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>球</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenkyū no Seikokuin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hieroglyphic Seal of the Heavenly Spheres",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -82,6 +84,48 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP031",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLT1-JP011",
+            "set": "Selection 10",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP094",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP041",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP090",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,5 +168,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

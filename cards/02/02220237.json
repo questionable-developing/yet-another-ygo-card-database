@@ -1,12 +1,14 @@
 {
     "cid": "f77d7e54-2741-499d-810f-1957dd031742",
-    "yid": null,
+    "yid": 2220237,
     "password": "02220237",
     "kid": 13414,
     "name": "Secure Gardna",
     "name_jp": "セキュア・ガードナー",
     "name_jp_rom": "Sekyua Gādonā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Secure Guardner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -61,6 +63,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP043",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +113,6 @@
             "Limited activations",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

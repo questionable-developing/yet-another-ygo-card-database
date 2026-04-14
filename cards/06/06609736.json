@@ -1,12 +1,14 @@
 {
     "cid": "0f349465-cfb8-4e25-9393-0a1776d31694",
-    "yid": null,
+    "yid": 6609736,
     "password": "06609736",
     "kid": 17134,
     "name": "Noh-P.U.N.K. Deer Note",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ</rb><rp> (</rp><rt>ノウ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp> (</rp><rt>パンク</rt><rp>)</rp></ruby>ディア・ノート",
     "name_jp_rom": "Nou-Panku Dia Nōto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP022",
+            "set": "Dimension Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JP022",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP027",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

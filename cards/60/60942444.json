@@ -1,11 +1,14 @@
 {
     "cid": "6caec565-397f-4f46-af52-c61a1d7288f7",
+    "yid": 60942444,
     "password": "60942444",
     "kid": 14458,
     "name": "Tenyi Spirit - Mapura",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－マニラ",
     "name_jp_rom": "Ten'iryū - Manira",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tenyi Dragon - Manira",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP014",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

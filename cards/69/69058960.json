@@ -1,11 +1,14 @@
 {
     "cid": "eb8bb9ac-0bcf-4b4f-8bec-742c79aba0a9",
+    "yid": 69058960,
     "password": "69058960",
     "kid": 11018,
     "name": "Number 13: Embodiment of Crime",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>１３ ケインズ・デビル",
     "name_jp_rom": "Nanbāzu Jūsan Keinzu Debiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numbers 13: Cain's Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,17 +33,46 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Number13EmbodimentofCrime-NCF1-JP-UR.png",
+            "art": "Number13EmbodimentofCrime-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Number13EmbodimentofCrime-PGLD-EN-GScR-1E.png",
-            "art": null
+            "art": "Number13EmbodimentofCrime-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PGLD-EN023",
             "set": "Premium Gold",
             "rarities": {
                 "Gold Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PP16-JP014",
+            "set": "Premium Pack 16",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP013",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP308",
+            "set": "Tournament Pack 2025 Vol.3",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -85,5 +117,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

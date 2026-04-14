@@ -1,11 +1,14 @@
 {
     "cid": "7cd01eba-2142-48e3-afea-394dd91cbf54",
+    "yid": 48357738,
     "password": "48357738",
     "kid": 9694,
     "name": "Tyrant's Tummyache",
     "name_jp": "<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>君</rb><rp> (</rp><rt>くん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>飲</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>暴</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>食</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bōkun no Bōin Bōshoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tyrant's Overindulgence",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TyrantsTummyache-GENF-JP-C.jpg",
+            "art": "TyrantsTummyache-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TyrantsTummyache-GENF-EN-C-UE.jpg",
-            "art": null
+            "art": "TyrantsTummyache-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "GENF-EN077",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP077",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -73,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "f7404732-8212-4ae4-a145-8ebdeef90da6",
-    "yid": null,
+    "yid": 3429238,
     "password": "03429238",
     "kid": 8652,
     "name": "Drill Warrior",
     "name_jp": "ドリル・ウォリアー",
     "name_jp_rom": "Doriru Woriā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -75,6 +77,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP041",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP10-JP018",
+            "set": "Duelist Pack: Yusei 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP109",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -125,5 +151,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

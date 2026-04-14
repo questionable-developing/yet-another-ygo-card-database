@@ -1,11 +1,14 @@
 {
     "cid": "50a060ec-7323-4a5a-abd5-91e35e35666b",
+    "yid": 70389815,
     "password": "70389815",
     "kid": 16017,
     "name": "Amazing Time Ticket",
     "name_jp": "アメイジングタイムチケット",
     "name_jp_rom": "Ameijingu Taimu Chiketto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP056",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

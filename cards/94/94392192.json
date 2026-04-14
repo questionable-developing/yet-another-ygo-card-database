@@ -1,11 +1,14 @@
 {
     "cid": "36add235-07e9-4aa9-ba60-c5f4a442fd96",
+    "yid": 94392192,
     "password": "94392192",
     "kid": 17770,
     "name": "Kashtira Ogre",
     "name_jp": "クシャトリラ・オーガ",
     "name_jp_rom": "Kushatorira Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kshatrira Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP014",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

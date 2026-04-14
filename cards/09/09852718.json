@@ -1,12 +1,14 @@
 {
     "cid": "05e1c4c0-0d18-45fa-8eaf-1f657305df53",
-    "yid": null,
+    "yid": 9852718,
     "password": "09852718",
     "kid": 12979,
     "name": "Break Away",
     "name_jp": "<ruby lang=\"jp\"><rb>決</rb><rp> (</rp><rt>けつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>別</rb><rp> (</rp><rt>べつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ketsubetsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BreakAway-MACR-JP-C.png",
+            "art": "BreakAway-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BreakAway-MP18-EN-C-1E.png",
-            "art": null
+            "art": "BreakAway-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "MACR-EN065",
@@ -43,6 +50,15 @@
         {
             "sid": "MP18-EN020",
             "set": "2018 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP065",
+            "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

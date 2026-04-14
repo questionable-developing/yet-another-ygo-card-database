@@ -1,11 +1,14 @@
 {
     "cid": "a1de3182-9a81-4392-984b-cdaec5388196",
+    "yid": 67169062,
     "password": "67169062",
     "kid": 6511,
     "name": "Pot of Avarice",
     "name_jp": "<ruby lang=\"jp\"><rb>貪</rb><rp> (</rp><rt>どん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Don'yoku na Tsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -31,103 +34,250 @@
         },
         "2": {
             "idx": "2",
-            "full": "PotofAvarice-LPST-JP-OP.png",
+            "full": "PotofAvarice-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "EEN-EN037",
             "set": "Elemental Energy",
             "rarities": {
-                "Super Rare": [],
-                "Ultimate Rare": []
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "CP01-EN011",
             "set": "Champion Pack: Game One",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "SD10-EN030",
             "set": "Structure Deck: Machine Re-Volt",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "SDZW-EN026",
             "set": "Zombie World Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "GLD4-EN040",
             "set": "Gold Series 4: Pyramids Edition",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["1"]
             }
         },
         {
             "sid": "AP02-EN019",
             "set": "Astral Pack Two",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "LCJW-EN290",
             "set": "Legendary Collection 4: Joey's World Mega Pack",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "SDSH-EN031",
             "set": "Structure Deck: Shaddoll Showdown",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "SR10-EN031",
             "set": "Structure Deck: Mechanized Madness",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "EGS1-EN026",
             "set": "Egyptian God Deck: Slifer the Sky Dragon",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "EGO1-EN026",
             "set": "Egyptian God Deck: Obelisk the Tormentor",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "TBC1-EN003",
             "set": "The Pot Collection",
             "rarities": {
-                "Ultra Parallel Rare": []
+                "Ultra Parallel Rare": ["1"]
             }
         },
         {
             "sid": "RA03-EN160",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN114",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP037",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Ultimate Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD10-JP030",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD12-JP024",
+            "set": "Structure Deck: Curse of Darkness",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "EE04-JP097",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD15-JP027",
+            "set": "Structure Deck: Undead World",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD23-JP031",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DS14-JPM36",
+            "set": "Duelist Set: Version Machine-Gear Troopers Enhancement Pack",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD28-JP033",
+            "set": "Structure Deck: Synchron Extreme",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SR03-JP032",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "ST17-JP028",
+            "set": "Starter Deck 2017",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "ST18-JP029",
+            "set": "Starter Deck 2018",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "ST19-JP030",
+            "set": "Starter Deck 2019",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SD37-JP031",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "SR10-JP031",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "DR02-JPD21",
+            "set": "Duel Royale Deck Set EX Round 2",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "VP23-JP002",
+            "set": "Quarter Century Anniversary Selection",
+            "rarities": {
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TBC1-JP003",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "24EP-JP311",
+            "set": "Event Pack 2024 Vol.3",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP032",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -159,5 +309,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

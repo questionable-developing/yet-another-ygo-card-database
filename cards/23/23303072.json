@@ -1,12 +1,14 @@
 {
     "cid": "5cb7a566-b1fe-487c-8546-aa835f60b454",
-    "yid": null,
+    "yid": 23303072,
     "password": "23303072",
     "kid": 7712,
     "name": "Montage Dragon",
     "name_jp": "モンタージュ・ドラゴン",
     "name_jp_rom": "Montāju Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP014",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DT04-JP001",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP005",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +111,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

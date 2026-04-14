@@ -1,11 +1,14 @@
 {
     "cid": "494aade5-6862-49e6-917f-4f97eb22b474",
+    "yid": 69680031,
     "password": "69680031",
     "kid": 15242,
     "name": "Dogmatika Fleurdelis, the Knighted",
     "name_jp": "<ruby lang=\"jp\"><rb>教導</rb><rp> (</rp><rt>ドラグマ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>フルルドリス",
     "name_jp_rom": "Doraguma no Kishi Fururudorisu",
+    "name_jp_rom_base": "Kyōdō no Kishi Fururudorisu",
     "name_jp_tl": "Fleurdelis, the Dragma Knight",
+    "name_jp_tl_base": "Fleurdelis, the Dogmatic Knight",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -71,6 +74,49 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP008",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "ROTD-JP008",
+            "set": "Rise of the Duelist +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP006",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP006",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP015",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +159,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

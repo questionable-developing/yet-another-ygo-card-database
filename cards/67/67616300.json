@@ -1,11 +1,14 @@
 {
     "cid": "cc7d1285-a0fc-4bab-8416-57b84b9949e3",
+    "yid": 67616300,
     "password": "67616300",
     "kid": 11851,
     "name": "Chicken Game",
     "name_jp": "チキンレース",
     "name_jp_rom": "Chikinrēsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chicken Race",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP067",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SD31-JP029",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC02-JP047",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +122,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

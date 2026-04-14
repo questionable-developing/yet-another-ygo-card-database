@@ -1,11 +1,14 @@
 {
     "cid": "a61a003a-e1ba-4498-9f2f-4a49817f6e27",
+    "yid": 54965929,
     "password": "54965929",
     "kid": 13394,
     "name": "Mythical Beast Medusa",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> メデューサ",
     "name_jp_rom": "Majikku Bīsuto Medyūsa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Beast Medusa",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -46,6 +49,22 @@
         {
             "sid": "SR08-EN009",
             "set": "Structure Deck: Order of the Spellcasters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP024",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR08-JP009",
+            "set": "Structure Deck R: Lord of Magician",
             "rarities": {
                 "Common": []
             }
@@ -99,5 +118,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

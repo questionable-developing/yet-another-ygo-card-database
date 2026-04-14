@@ -1,11 +1,14 @@
 {
     "cid": "97461151-4134-49ef-96d6-2e16cfa3c6e4",
+    "yid": 88610708,
     "password": "88610708",
     "kid": 11426,
     "name": "Bashing Shield",
     "name_jp": "シールドバッシュ",
     "name_jp_rom": "Shīrudo Basshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shield Bash",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP071",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

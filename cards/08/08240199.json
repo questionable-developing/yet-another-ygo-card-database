@@ -1,12 +1,14 @@
 {
     "cid": "fb5d8802-2731-4b3d-8187-484a7799ef1e",
-    "yid": null,
+    "yid": 8240199,
     "password": "08240199",
     "kid": 12292,
     "name": "Sage with Eyes of Blue",
     "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>あお</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Aoki Me no Kenshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -95,6 +97,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP020",
+            "set": "Shining Victories",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP007",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP003",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP012",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -137,5 +172,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

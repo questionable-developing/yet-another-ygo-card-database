@@ -1,11 +1,14 @@
 {
     "cid": "eafaa32c-97e5-481f-8241-e8121204cf65",
+    "yid": 73417207,
     "password": "73417207",
     "kid": 9701,
     "name": "Mara of the Nordic Alfar",
     "name_jp": "<ruby lang=\"jp\"><rb>極</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>スヴァルトアールヴ",
     "name_jp_rom": "Kyokuseirei Suvarutoāruvu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Polar Star Spirit Svartálf",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,10 +34,15 @@
         "1": {
             "idx": "1",
             "full": "MaraoftheNordicAlfar-LEHD-EN-C-1E.png",
-            "art": null
+            "art": "MaraoftheNordicAlfar-MADU-EN-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "MaraoftheNordicAlfar-EP12-JP-C.png",
+            "art": "MaraoftheNordicAlfar-MADU-JP-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "EXVC-EN083",
@@ -54,6 +62,15 @@
         {
             "sid": "LEHD-ENB08",
             "set": "Legendary Hero Decks",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP12-JP004",
+            "set": "Extra Pack 2012",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

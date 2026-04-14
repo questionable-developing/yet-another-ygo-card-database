@@ -1,11 +1,14 @@
 {
     "cid": "51e6cc82-c3a2-45ac-ac7a-4cc3d0029533",
+    "yid": 45103815,
     "password": "45103815",
     "kid": 11786,
     "name": "Risebell the Summoner",
     "name_jp": "<ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ライズベルト",
     "name_jp_rom": "Shōkanshi Raizuberuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Risebelt the Summoner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -50,6 +53,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP002",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SD31-JP018",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "21TP-JP208",
+            "set": "Tournament Pack 2021 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -80,5 +106,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

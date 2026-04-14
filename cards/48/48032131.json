@@ -1,11 +1,14 @@
 {
     "cid": "84609895-2540-4188-a4bd-ca645dc2ec3c",
+    "yid": 48032131,
     "password": "48032131",
     "kid": 14319,
     "name": "D - Tactics",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>－タクティクス",
     "name_jp_rom": "Dī - Takutikusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN069",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP069",
             "set": "Dark Neostorm",
             "rarities": {
                 "Rare": []
@@ -81,5 +93,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

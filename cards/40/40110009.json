@@ -1,11 +1,14 @@
 {
     "cid": "070554f9-ce00-4d0f-b7b6-d72deef382f6",
+    "yid": 40110009,
     "password": "40110009",
     "kid": 14768,
     "name": "Dragonmaid Changeover",
     "name_jp": "ドラゴンメイドのお<ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby>し<ruby lang=\"jp\"><rb>替</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>え",
     "name_jp_rom": "Doragonmeido no Omeshikae",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP025",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP069",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP016",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +128,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

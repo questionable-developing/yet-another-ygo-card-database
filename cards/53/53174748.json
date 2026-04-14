@@ -1,11 +1,14 @@
 {
     "cid": "e95a6e85-4326-4f4d-bfee-31442fc16b5c",
+    "yid": 53174748,
     "password": "53174748",
     "kid": 18863,
     "name": "Mikanko Spiritwalk",
     "name_jp": "<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby>かみかくし",
     "name_jp_rom": "Mikanko Kamikakushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mikanko Spiriting Away",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -52,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP076",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TTP1-JP075",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,7 +103,7 @@
             "Treats monsters as Equip Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand"
         ],
         "attack": [],
@@ -100,5 +120,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

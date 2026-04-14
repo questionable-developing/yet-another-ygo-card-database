@@ -1,11 +1,14 @@
 {
     "cid": "88af15fa-a8fe-444e-9af8-8ca00143a67a",
+    "yid": 65563871,
     "password": "65563871",
     "kid": 15866,
     "name": "Sunvine Healer",
     "name_jp": "<ruby lang=\"jp\"><rb>聖蔓の癒し手</rb><rp> (</rp><rt>サンヴァイン・ヒーラー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sanvain Hīrā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "San Vine Healer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             "set": "Ghosts From the Past (set)",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SLT1-JP036",
+            "set": "Selection 10",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -93,5 +105,6 @@
             "Requires control of specific Monster card type",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

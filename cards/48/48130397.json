@@ -1,11 +1,14 @@
 {
     "cid": "96400461-acd5-4663-9429-b47c35da6040",
+    "yid": 48130397,
     "password": "48130397",
     "kid": 7445,
     "name": "Super Polymerization",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōyūgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Fusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,114 +30,222 @@
         "1": {
             "idx": "1",
             "full": "SuperPolymerization-CH01-EN-UR-1E.png",
+            "art": "SuperPolymerization-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "SuperPolymerization-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "PTDN-EN046",
             "set": "Phantom Darkness",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
             }
         },
         {
             "sid": "LCGX-EN101",
             "set": "Legendary Collection 2: The Duel Academy Years Mega Pack",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "RYMP-EN029",
             "set": "Ra Yellow Mega Pack",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "SDCR-EN021",
             "set": "Cyber Dragon Revolution Structure Deck",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "OP09-EN009",
             "set": "OTS Tournament Pack 9",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "DUDE-EN040",
             "set": "Duel Devastator",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "SDSH-EN026",
             "set": "Structure Deck: Shaddoll Showdown",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "OP14-EN001",
             "set": "OTS Tournament Pack 14",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "MAGO-EN047",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "BLCR-EN100",
             "set": "Battles of Legend: Crystal Revenge",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "SGX3-ENA17",
             "set": "Speed Duel GX: Duelists of Shadows",
             "rarities": {
-                "Common": [],
-                "Secret Rare": []
+                "Common": ["1"],
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "BLMR-EN089",
             "set": "Battles of Legend: Monstrous Revenge",
             "rarities": {
-                "Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "RA03-EN053",
             "set": "Quarter Century Bonanza",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "CH01-EN033",
             "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN149",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP046",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "DE02-JP091",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD26-JP021",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "TRC1-JP004",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SPFE-JP043",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20TH-JPC91",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Ultra Parallel Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20CP-JPT05",
+            "set": "Surpassing 10000 Cards Commemoration Special Pack",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD37-JP026",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP035",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Premium Gold Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCCU-JP127",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "CH01-JP033",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP009",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -181,5 +292,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

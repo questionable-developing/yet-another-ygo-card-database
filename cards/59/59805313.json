@@ -1,11 +1,14 @@
 {
     "cid": "d55e16f2-5309-49e7-90bf-3ddf52add32c",
+    "yid": 59805313,
     "password": "59805313",
     "kid": 18917,
     "name": "Volcanic Rimfire",
     "name_jp": "ヴォルカニック・リムファイア",
     "name_jp_rom": "Vorukanikku Rimufaia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +41,15 @@
         {
             "sid": "LD10-EN020",
             "set": "Legendary Duelists: Soulburning Volcano",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP28-JP020",
+            "set": "Duelist Pack: Duelists of Explosion",
             "rarities": {
                 "Rare": []
             }
@@ -90,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

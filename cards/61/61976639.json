@@ -1,11 +1,14 @@
 {
     "cid": "f4632659-0135-4be5-b2a4-f0a6739b0f27",
+    "yid": 61976639,
     "password": "61976639",
     "kid": 15631,
     "name": "Secret Password",
     "name_jp": "シークレット・パスフレーズ",
     "name_jp_rom": "Shīkuretto Pasufurēzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Secret Passphrase",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +52,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP020",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP084",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB13",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +110,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

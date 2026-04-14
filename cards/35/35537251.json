@@ -1,12 +1,14 @@
 {
     "cid": "974167ae-8df2-4375-a5c1-8b409c211ade",
-    "yid": null,
+    "yid": 35537251,
     "password": "35537251",
     "kid": 11117,
     "name": "Battlin' Boxer Shadow",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> シャドー",
     "name_jp_rom": "Bāningu Nakkurā Shadō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Shadow",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP088",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "40e609a6-b372-4515-9cd5-1d483bc621fd",
+    "yid": 58453942,
     "password": "58453942",
     "kid": 7719,
     "name": "Psychic Snail",
     "name_jp": "サイコ・ウォールド",
     "name_jp_rom": "Saiko Wōrudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Whorled",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP021",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +87,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

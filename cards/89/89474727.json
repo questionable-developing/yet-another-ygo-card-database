@@ -1,11 +1,14 @@
 {
     "cid": "6527ec27-490e-4796-9b6a-528d6290b2d7",
+    "yid": 89474727,
     "password": "89474727",
     "kid": 11944,
     "name": "Stardust Chronicle Spark Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>真</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>珖</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> スターダスト・クロニクル",
     "name_jp_rom": "Shinsenkōryū Sutādasuto Kuronikuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "True Flash-Karat Dragon - Stardust Chronicle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "YF09-JP001",
+            "set": "Yu-Gi-Oh! 5D's Volume 9 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,7 +87,7 @@
             "1 or more non-Tuner Synchro Materials",
             "Requires both Tuner and non-Tuner Synchro Monsters as Synchro Materials",
             "Nomi",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -89,5 +101,6 @@
             "Limited activations",
             "Accel Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

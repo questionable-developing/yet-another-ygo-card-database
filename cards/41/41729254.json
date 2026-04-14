@@ -1,11 +1,14 @@
 {
     "cid": "34bcf3d6-0405-43e5-8d8c-0bb8b2fe5386",
+    "yid": 41729254,
     "password": "41729254",
     "kid": 14036,
     "name": "Hajun, the Winged Mayakashi",
     "name_jp": "<ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>つばさ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔妖</rb><rp> (</rp><rt>まやかし</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>波</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>旬</rb><rp> (</rp><rt>じゅん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tsubasa no Mayakashi - Hajun",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBHS-JP029",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP013",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

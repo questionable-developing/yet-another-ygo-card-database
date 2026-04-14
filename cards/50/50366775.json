@@ -1,11 +1,14 @@
 {
     "cid": "2a115a3c-1a9c-4942-a0e9-84c11335172d",
+    "yid": 50366775,
     "password": "50366775",
     "kid": 13511,
     "name": "Formud Skipper",
     "name_jp": "フォーマッド・スキッパー",
     "name_jp_rom": "Fōmaddo Sukippā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVB1-JP002",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP022",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP023",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,7 +95,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Activates from your Graveyard",
             "Activates if used as Link Material",
             "Adds from Deck to hand"
@@ -88,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

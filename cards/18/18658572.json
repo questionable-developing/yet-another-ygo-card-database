@@ -1,12 +1,14 @@
 {
     "cid": "c3221beb-665f-441e-a15a-1d445f318535",
-    "yid": null,
+    "yid": 18658572,
     "password": "18658572",
     "kid": 10426,
     "name": "Goblin Circus",
     "name_jp": "<ruby lang=\"jp\"><rb>見</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>もの</rt><rp>)</rp></ruby>ゴブリン",
     "name_jp_rom": "Misemono Goburin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Show-Off Goblin",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GoblinCircus-CBLZ-JP-NR.png",
+            "art": "GoblinCircus-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GoblinCircus-SS04-EN-C-1E.png",
-            "art": null
+            "art": "GoblinCircus-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CBLZ-EN067",
@@ -45,6 +52,15 @@
             "set": "Speed Duel Starter Decks: Match of the Millennium",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP067",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -80,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3dd01234-efc0-49be-9881-fd7c38e41ad0",
+    "yid": 63394872,
     "password": "63394872",
     "kid": 6909,
     "name": "Senet Switch",
     "name_jp": "ポジションチェンジ",
     "name_jp_rom": "Pojishon Chenji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Position Change",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP048",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBTM-JP042",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

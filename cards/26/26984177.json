@@ -1,12 +1,14 @@
 {
     "cid": "6ae1f2e2-5454-44c0-a303-62368c138f61",
-    "yid": null,
+    "yid": 26984177,
     "password": "26984177",
     "kid": 19520,
     "name": "Walls of the Imperial Tomb",
     "name_jp": "<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>ぼ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壁</rb><rp> (</rp><rt>へき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōbo no Sekiheki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stone Wall of the Royal Tomb",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP065",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

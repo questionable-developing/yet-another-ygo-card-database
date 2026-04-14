@@ -1,11 +1,14 @@
 {
     "cid": "3b6d31b9-3ff9-4366-95e3-b56b01d8d650",
+    "yid": 74416224,
     "password": "74416224",
     "kid": 9758,
     "name": "Black Ray Lancer",
     "name_jp": "ブラック・レイ・ランサー",
     "name_jp_rom": "Burakku Rei Ransā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP040",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP15-JP020",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

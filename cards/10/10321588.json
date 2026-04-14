@@ -1,12 +1,14 @@
 {
     "cid": "75473f75-dbc1-436f-afb4-f8c74facd7c2",
-    "yid": null,
+    "yid": 10321588,
     "password": "10321588",
     "kid": 8294,
     "name": "Sunlight Unicorn",
     "name_jp": "サンライト・ユニコーン",
     "name_jp_rom": "Sanraito Yunikōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP003",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +82,8 @@
             "Excavates from the player's Deck",
             "Adds excavated cards to the hand",
             "Adds from Deck to hand",
-            "Places excavated cards on the bottom of the Deck"
+            "Places excavated cards on the bottom of the Deck",
+            "Changes the player's Deck order"
         ],
         "stat_change": [],
         "mst": [],
@@ -84,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

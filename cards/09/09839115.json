@@ -1,12 +1,14 @@
 {
     "cid": "1da7c04a-aad9-4580-b6ab-66ddca017f10",
-    "yid": null,
+    "yid": 9839115,
     "password": "09839115",
     "kid": 19498,
     "name": "Vagnawa the Moon-Eating Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>げつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>朧</rb><rp> (</rp><rt>ろう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ヴァグナワ",
     "name_jp_rom": "Getsurōryū Vagunawa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vagnawa the Moonhaze Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP043",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

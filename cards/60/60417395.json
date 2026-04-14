@@ -1,11 +1,14 @@
 {
     "cid": "0e87c451-916e-4a1f-b05b-504339f0e3bc",
+    "yid": 60417395,
     "password": "60417395",
     "kid": 8537,
     "name": "Darkness Neosphere",
     "name_jp": "ダークネス・ネオスフィア",
     "name_jp_rom": "Dākunesu Neosufia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,15 +32,36 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DarknessNeosphere-JUMP-EN-UR-LE.png",
+            "art": "DarknessNeosphere-TF05-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DarknessNeosphere-TU05-EN-C-UE.png",
-            "art": null
+            "art": "DarknessNeosphere-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "TU05-EN016",
             "set": "Turbo Pack: Booster Five",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LE15-JP003",
+            "set": "Limited Edition 15",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD21-JP014",
+            "set": "Structure Deck: Devil's Gate",
             "rarities": {
                 "Common": []
             }
@@ -87,5 +111,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

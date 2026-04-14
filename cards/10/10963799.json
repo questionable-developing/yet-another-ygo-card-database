@@ -1,12 +1,14 @@
 {
     "cid": "124b782c-48fe-47ed-a0a7-97143e557a32",
-    "yid": null,
+    "yid": 10963799,
     "password": "10963799",
     "kid": 6883,
     "name": "Barrier Statue of the Torrent",
     "name_jp": "<ruby lang=\"jp\"><rb>豪</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雨</rb><rp> (</rp><rt>う</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>結</rb><rp> (</rp><rt>けっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>像</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōu no Kekkaizō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Barrier Statue of the Downpour",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP019",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP050",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

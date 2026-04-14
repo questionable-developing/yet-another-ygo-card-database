@@ -1,11 +1,14 @@
 {
     "cid": "272806f2-4c45-48a9-bfc1-7fabfc351cf7",
+    "yid": 48814566,
     "password": "48814566",
     "kid": 15558,
     "name": "Banquet of Millions",
     "name_jp": "<ruby lang=\"jp\"><rb>魔獣の大餌</rb><rp> (</rp><rt>フィード・パック</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fīdo Pakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Feed Pack",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BanquetofMillions-PHRA-JP-C.png",
+            "art": "BanquetofMillions-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BanquetofMillions-PHRA-EN-C-1E.png",
-            "art": null
+            "art": "BanquetofMillions-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PHRA-EN079",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP079",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -69,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

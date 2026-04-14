@@ -1,12 +1,14 @@
 {
     "cid": "abda6c7e-911f-4bbb-a19b-b7189897edfd",
-    "yid": null,
+    "yid": 36637374,
     "password": "36637374",
     "kid": 16243,
     "name": "Branded Opening",
     "name_jp": "<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>開</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>幕</rb><rp> (</rp><rt>まく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakuin Kaimaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +70,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP054",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP055",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP023",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -111,5 +136,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

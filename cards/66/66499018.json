@@ -1,11 +1,14 @@
 {
     "cid": "4e7d1a4d-7e38-4d7d-8cc1-6f9590b2ca6a",
+    "yid": 66499018,
     "password": "66499018",
     "kid": 10062,
     "name": "Flame Tiger",
     "name_jp": "<ruby lang=\"jp\"><rb>焔虎</rb><rp> (</rp><rt>フレイム・タイガー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fureimu Taigā",
+    "name_jp_rom_base": "Enko",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP039",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "SD24-JP019",
+            "set": "Structure Deck: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

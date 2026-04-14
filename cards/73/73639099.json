@@ -1,11 +1,14 @@
 {
     "cid": "0814c64a-f4d1-41a6-a8d9-c75eda76ee30",
+    "yid": 73639099,
     "password": "73639099",
     "kid": 14203,
     "name": "Traptrix Sera",
     "name_jp": "セラの<ruby lang=\"jp\"><rb>蟲</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>惑</rb><rp> (</rp><rt>わく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sera no Kowakuma",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -24,10 +27,10 @@
     "arrows": [
         "Bottom-Center"
     ],
-    "desc": "1 non-Link \"Traptrix\" monster<br />This Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step.<br />● If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control.<br />● If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap directly from the Deck.",
+    "desc": "1 non-Link \"Traptrix\" monster<br />This Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step. If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control. If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap from your Deck.",
     "pend_eff": null,
-    "mnst_eff": "1 non-Link \"Traptrix\" monster\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step.\n● If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control.\n● If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap directly from the Deck.",
-    "eff": "1 non-Link \"Traptrix\" monster\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step.\n● If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control.\n● If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap directly from the Deck.",
+    "mnst_eff": "1 non-Link \"Traptrix\" monster\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step. If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control. If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap from your Deck.",
+    "eff": "1 non-Link \"Traptrix\" monster\nThis Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of \"Traptrix Sera\" once per turn, and not during the Damage Step. If a Normal Trap Card is activated: You can Special Summon 1 \"Traptrix\" monster from your Deck with a different name than the cards you control. If your other \"Traptrix\" monster's effect is activated: You can Set 1 \"Hole\" Normal Trap from your Deck.",
     "flavor": null,
     "images": {
         "1": {
@@ -37,44 +40,86 @@
         },
         "2": {
             "idx": "2",
-            "full": "TraptrixSera-LPST-JP-OP.png",
+            "full": "TraptrixSera-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "BLHR-EN049",
             "set": "Battles of Legend: Hero's Revenge",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "MAMA-EN074",
             "set": "Magnificent Mavens",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "SDBT-EN044",
             "set": "Structure Deck: Beware of Traptrix",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA04-EN075",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN104",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVP2-JP061",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD45-JPP03",
+            "set": "Structure Deck: Forest of the Traptrix Banquet Invitation Pack",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TDS2-JPP03",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP022",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -122,5 +167,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

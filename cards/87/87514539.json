@@ -1,11 +1,14 @@
 {
     "cid": "7fd4d056-bd1d-4092-baee-86d77abe7854",
+    "yid": 87514539,
     "password": "87514539",
     "kid": 6979,
     "name": "Marionette Mite",
     "name_jp": "<ruby lang=\"jp\"><rb>傀</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>儡</rb><rp> (</rp><rt>ぐつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>虫</rb><rp> (</rp><rt>ちゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kugutsuchū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Puppet Insect",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP023",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD15-JP014",
+            "set": "Structure Deck: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP094",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP020",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +127,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

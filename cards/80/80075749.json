@@ -1,11 +1,14 @@
 {
     "cid": "e45452b3-5f64-45e7-9de8-8203f44cac94",
+    "yid": 80075749,
     "password": "80075749",
     "kid": 6538,
     "name": "Bubble Illusion",
     "name_jp": "バブルイリュージョン",
     "name_jp_rom": "Baburu Iryūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DP1-EN024",
+            "set": "Duelist Pack: Jaden Yuki",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP1-JP024",
             "set": "Duelist Pack: Jaden Yuki",
             "rarities": {
                 "Ultra Rare": []
@@ -71,5 +83,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

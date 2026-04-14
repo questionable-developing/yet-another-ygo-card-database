@@ -1,12 +1,14 @@
 {
     "cid": "3606e3f1-1e03-4c0e-a9b0-6840dc5d8518",
-    "yid": null,
+    "yid": 25280974,
     "password": "25280974",
     "kid": 4745,
     "name": "Legion the Fiend Jester",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>道</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby>リジョン",
     "name_jp_rom": "Madōke Rijon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Legion the Sorcerer Jester",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP16-JP003",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LG01-JP006",
+            "set": "Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR01-JPA09",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +118,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

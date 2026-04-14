@@ -1,12 +1,14 @@
 {
     "cid": "4ebf313f-a444-416f-bf94-ce72836201f7",
-    "yid": null,
+    "yid": 15005145,
     "password": "15005145",
     "kid": 19372,
     "name": "Centur-Ion Primera",
     "name_jp": "<ruby lang=\"jp\"><rb>重騎士</rb><rp> (</rp><rt>センチュリオン</rt><rp>)</rp></ruby>プリメラ",
     "name_jp_rom": "Senchurion Purimera",
+    "name_jp_rom_base": "Jūkishi Purimera",
     "name_jp_tl": "Centurion Primera",
+    "name_jp_tl_base": "Heavy Knight Primera",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -31,7 +33,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "CenturIonPrimera-MP24-EN-PScR-1E.png",
+            "full": "CenturIonPrimera-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -50,6 +52,29 @@
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN030",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP016",
+            "set": "Deck-Build Pack: Valiant Smashers",
+            "rarities": {
+                "Super Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -92,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

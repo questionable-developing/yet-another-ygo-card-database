@@ -1,12 +1,14 @@
 {
     "cid": "5fa9f73b-20e4-4884-8ace-a0480e7c0320",
-    "yid": null,
+    "yid": 20788863,
     "password": "20788863",
     "kid": 13954,
     "name": "Salamangreat Gift",
     "name_jp": "サラマングレイト・ギフト",
     "name_jp_rom": "Saramangureito Gifuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP067",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD35-JP034",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +108,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

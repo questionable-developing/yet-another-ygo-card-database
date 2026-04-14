@@ -1,12 +1,14 @@
 {
     "cid": "77cc896f-548f-4566-97c0-1516eebe2a21",
-    "yid": null,
+    "yid": 30864377,
     "password": "30864377",
     "kid": 13152,
     "name": "Gladiator Beast Tamer Editor",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣総監</rb><rp> (</rp><rt>グラディアルビースト・テイマー</rt><rp>)</rp></ruby>エーディトル",
     "name_jp_rom": "Guradiaru Bīsuto Teimā Ēditoru",
+    "name_jp_rom_base": "Kentōjū Sōkan Ēditoru",
     "name_jp_tl": "Gladial Beast Tamer Editor",
+    "name_jp_tl_base": "Gladial Beast Inspector General Editor",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -49,6 +51,23 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CP17-JP027",
+            "set": "Collectors Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19SP-JP606",
+            "set": "Special Pack 20th Anniversary Edition Vol.6",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
             }
         }
     ],
@@ -103,5 +122,6 @@
             "Requires control of specific archetype",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

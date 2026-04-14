@@ -1,11 +1,14 @@
 {
     "cid": "df2c30ad-46c9-41f1-9f8f-a97c1b5fdb9f",
+    "yid": 87497553,
     "password": "87497553",
     "kid": 14311,
     "name": "Crusadia Testament",
     "name_jp": "テスタメント・パラディオン",
     "name_jp_rom": "Tesutamento Paradion",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Testament Palladion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP061",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

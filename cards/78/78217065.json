@@ -1,11 +1,14 @@
 {
     "cid": "2a75d555-1a37-4b36-bace-3b9ab8552dab",
+    "yid": 78217065,
     "password": "78217065",
     "kid": 17248,
     "name": "Evolution End Burst",
     "name_jp": "エヴォリューション・レザルト・バースト",
     "name_jp_rom": "Evoryūshon Rezaruto Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evolution Result Burst",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,27 @@
             "set": "Maze of Memories",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "HC01-JP013",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP034",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -76,7 +100,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

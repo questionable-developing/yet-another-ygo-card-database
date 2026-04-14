@@ -1,11 +1,14 @@
 {
     "cid": "829351ab-d906-467b-bb54-655e11fcbbbe",
+    "yid": 99937842,
     "password": "99937842",
     "kid": 14116,
     "name": "T.G. Star Guardian",
     "name_jp": "<ruby lang=\"jp\"><rb>ＴＧ</rb><rp> (</rp><rt>テックジーナス</rt><rp>)</rp></ruby> スター・ガーディアン",
     "name_jp_rom": "Tekku Jīnasu Sutā Gādian",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tech Genus Star Guardian",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP039",
+            "set": "Savage Strike",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP046",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +119,6 @@
             "Only once per turn",
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

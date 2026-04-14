@@ -1,12 +1,14 @@
 {
     "cid": "71084ad2-a231-425b-a949-4404594cc93e",
-    "yid": null,
+    "yid": 17932494,
     "password": "17932494",
     "kid": 9799,
     "name": "Sonic Warrior",
     "name_jp": "ソニック・ウォリアー",
     "name_jp_rom": "Sonikku Woriā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SonicWarrior-SD28-JP-C.png",
+            "art": "SonicWarrior-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SonicWarrior-SDSE-EN-C-1E.png",
-            "art": null
+            "art": "SonicWarrior-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "LTGY-EN090",
@@ -46,6 +53,22 @@
         {
             "sid": "SDSE-EN012",
             "set": "Synchron Extreme Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TF06-JP001",
+            "set": "Yu-Gi-Oh! 5D's Tag Force 6 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD28-JP012",
+            "set": "Structure Deck: Synchron Extreme",
             "rarities": {
                 "Common": []
             }
@@ -82,5 +105,6 @@
         "misc": [
             "Requires control of specific Level"
         ]
-    }
+    },
+    "links": {}
 }

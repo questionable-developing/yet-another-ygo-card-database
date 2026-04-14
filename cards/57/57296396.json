@@ -1,11 +1,14 @@
 {
     "cid": "6f404201-f247-4b2e-834d-a77673ab6663",
+    "yid": 57296396,
     "password": "57296396",
     "kid": 18860,
     "name": "Nemleria Louve",
     "name_jp": "ネムレリア・ルーヴ",
     "name_jp_rom": "Nemureria Rūvu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DUNE-EN073",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP073",
             "set": "Duelist Nexus",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

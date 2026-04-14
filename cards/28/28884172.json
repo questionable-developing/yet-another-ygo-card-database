@@ -1,12 +1,14 @@
 {
     "cid": "975eea41-18b1-4237-ba86-c0824c3fef99",
-    "yid": null,
+    "yid": 28884172,
     "password": "28884172",
     "kid": 11415,
     "name": "Gagaga Mancer",
     "name_jp": "ガガガマンサー",
     "name_jp_rom": "Gagagamansā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "WSUP-EN028",
             "set": "World Superstars",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP083",
+            "set": "The New Challengers",
             "rarities": {
                 "Super Rare": []
             }
@@ -85,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

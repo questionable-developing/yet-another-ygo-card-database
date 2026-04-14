@@ -1,12 +1,14 @@
 {
     "cid": "e731d358-5dc3-4c61-ad27-3f781b64ae4e",
-    "yid": null,
+    "yid": 25861589,
     "password": "25861589",
     "kid": 19523,
     "name": "Aroma Blend",
     "name_jp": "アロマブレンド",
     "name_jp_rom": "Aroma Burendo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP068",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,6 +76,7 @@
         "counter": [],
         "action": [
             "You discard for cost",
+            "Places cards from hand in Spell & Trap Zone",
             "Places cards from Deck in Spell & Trap Zone",
             "Activates from your Graveyard",
             "Uses cards in the hand as Fusion Materials",
@@ -93,5 +105,6 @@
             "Requires specific LP",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

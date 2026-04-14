@@ -1,11 +1,14 @@
 {
     "cid": "1bcdb670-4a97-49e1-adab-838bc46dd958",
+    "yid": 80170678,
     "password": "80170678",
     "kid": 17453,
     "name": "EN - Engage Neo Space",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＮ</rb><rp> (</rp><rt>イーエヌ</rt><rp>)</rp></ruby>－エンゲージ・ネオスペース",
     "name_jp_rom": "Ī Enu - Engēji Neosupēsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,25 @@
             "set": "Power of the Elements",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP051",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "POTE-JP051",
+            "set": "Power of the Elements +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -88,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

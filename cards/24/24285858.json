@@ -1,12 +1,14 @@
 {
     "cid": "f02dbacc-f2fb-4ab1-b036-2c87ef656e14",
-    "yid": null,
+    "yid": 24285858,
     "password": "24285858",
     "kid": 7312,
     "name": "Gladiator's Return",
     "name_jp": "グラディアル・リターン",
     "name_jp_rom": "Guradiaru Ritān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gladial Return",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP059",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

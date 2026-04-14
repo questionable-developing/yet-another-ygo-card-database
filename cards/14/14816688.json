@@ -1,12 +1,14 @@
 {
     "cid": "3226961d-67b7-452e-a02d-c870584a39e4",
-    "yid": null,
+    "yid": 14816688,
     "password": "14816688",
     "kid": 11997,
     "name": "Shuffle Reborn",
     "name_jp": "シャッフル・リボーン",
     "name_jp_rom": "Shaffuru Ribōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP053",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD32-JP025",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +112,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

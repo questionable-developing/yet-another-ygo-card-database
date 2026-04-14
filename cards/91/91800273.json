@@ -1,11 +1,14 @@
 {
     "cid": "de47ad60-b4e5-41f1-b3d7-998458ce1a0b",
+    "yid": 91800273,
     "password": "91800273",
     "kid": 14740,
     "name": "Dimension Shifter",
     "name_jp": "ディメンション・アトラクター",
     "name_jp_rom": "Dimenshon Atorakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dimension Attractor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,43 +33,108 @@
         "1": {
             "idx": "1",
             "full": "DimensionShifter-RA01-EN-SR-1E.png",
+            "art": "DimensionShifter-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "DimensionShifter-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "TN19-EN012",
             "set": "2019 Gold Sarcophagus Tin",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "MP22-EN263",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "SDCB-EN012",
             "set": "Structure Deck: Legend of the Crystal Beasts",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "RA01-EN014",
             "set": "25th Anniversary Rarity Collection",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN132",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP066",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SD44-JP012",
+            "set": "Structure Deck: Legend of the Crystals",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RC04-JP015",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Extra Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP024",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TT02-JPB09",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP002",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -102,5 +170,6 @@
         "misc": [
             "Requires having no cards in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f38b543e-1f71-4457-bcfa-6b1dbb206624",
+    "yid": 79968632,
     "password": "79968632",
     "kid": 13313,
     "name": "Secret Skills of the Six Samurai",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ろく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衆</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>かげ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rokubushū no Kageninjutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Shadow Ninjutsu of the Six Warmen",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP007",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,7 +77,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -75,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

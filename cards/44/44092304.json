@@ -1,11 +1,14 @@
 {
     "cid": "987edb4b-ff72-4a5c-9bed-aaca0ee8f298",
+    "yid": 44092304,
     "password": "44092304",
     "kid": 17178,
     "name": "Parasomnia Pillow",
     "name_jp": "<ruby lang=\"jp\"><rb>夢迷枕</rb><rp> (</rp><rt>ゆめまくら</rt><rp>)</rp></ruby>パラソムニア",
     "name_jp_rom": "Yumemakura Parasomunia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DIFO-EN067",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP067",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

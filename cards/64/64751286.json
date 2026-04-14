@@ -1,11 +1,14 @@
 {
     "cid": "70a350f9-6e23-48ea-9260-ea11b5fe0a9c",
+    "yid": 64751286,
     "password": "64751286",
     "kid": 6125,
     "name": "Penumbral Soldier Lady",
     "name_jp": "<ruby lang=\"jp\"><rb>月</rb><rp> (</rp><rt>つき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>おんな</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tsuki no Onna Senshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lunar Warrior Lady",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,10 +54,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOD-JP033",
+            "set": "Soul of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP033",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Trigger"
+            "Continuous"
         ],
         "mentions": [],
         "sup": [],
@@ -78,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

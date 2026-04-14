@@ -1,11 +1,14 @@
 {
     "cid": "fc873a8f-0a8d-4c8f-bb53-931d9cbf84ea",
+    "yid": 47349310,
     "password": "47349310",
     "kid": 9637,
     "name": "Skystarray",
     "name_jp": "スカイオニヒトクイエイ",
     "name_jp_rom": "Sukai Oni Hitokuiei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sky Demon - Man-Eating Ray",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP020",
+            "set": "Generation Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +86,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

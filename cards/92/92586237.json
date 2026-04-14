@@ -1,11 +1,14 @@
 {
     "cid": "be59083b-0e21-4117-8b11-5b2d8506bb03",
+    "yid": 92586237,
     "password": "92586237",
     "kid": 15973,
     "name": "Bujin Mahitotsu",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>－マヒトツ",
     "name_jp_rom": "Bujin - Mahitotsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LIOV-EN012",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP012",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

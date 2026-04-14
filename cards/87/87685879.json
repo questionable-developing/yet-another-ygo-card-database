@@ -1,11 +1,14 @@
 {
     "cid": "78020892-c438-43f2-9cc0-ebacee3ecfd0",
+    "yid": 87685879,
     "password": "87685879",
     "kid": 7437,
     "name": "Sea Koala",
     "name_jp": "コアラッコ",
     "name_jp_rom": "Koarakko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Koala-Otter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP037",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP086",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
             "Limited activations",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

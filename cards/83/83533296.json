@@ -1,11 +1,14 @@
 {
     "cid": "3f479985-8f62-4358-ad5c-bbb41540fb0e",
+    "yid": 83533296,
     "password": "83533296",
     "kid": 18913,
     "name": "Salamangreat Charge",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣の炎軍</rb><rp> (</rp><rt>サラマングレイト・チャージ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saramangureito Chāji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "LD10-EN006",
             "set": "Legendary Duelists: Soulburning Volcano",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP28-JP006",
+            "set": "Duelist Pack: Duelists of Explosion",
             "rarities": {
                 "Rare": []
             }
@@ -74,7 +86,7 @@
             "Destroys Trap Cards"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [
@@ -90,5 +102,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

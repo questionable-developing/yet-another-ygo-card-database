@@ -1,11 +1,14 @@
 {
     "cid": "26da8071-e466-4cc5-9cbb-003eae71e8f0",
+    "yid": 59048135,
     "password": "59048135",
     "kid": 10976,
     "name": "Augmented Heraldry",
     "name_jp": "<ruby lang=\"jp\"><rb>昇華する紋章</rb><rp> (</rp><rt>オーグメント・メダリオン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōgumento Medarion",
+    "name_jp_rom_base": "Shōkasuru Monshō",
     "name_jp_tl": "Augment Medallion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "OP28-EN023",
             "set": "OTS Tournament Pack 28",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP085",
+            "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

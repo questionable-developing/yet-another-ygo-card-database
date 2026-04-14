@@ -1,11 +1,14 @@
 {
     "cid": "cfeb6a2b-1d94-4eb6-8892-67b43a17ea2b",
+    "yid": 38250531,
     "password": "38250531",
     "kid": 10785,
     "name": "Crimson Knight Vampire Bram",
     "name_jp": "<ruby lang=\"jp\"><rb>紅貴士</rb><rp> (</rp><rt>エーデルリッター</rt><rp>)</rp></ruby>－ヴァンパイア・ブラム",
     "name_jp_rom": "Ēderurittā - Vanpaia Buramu",
+    "name_jp_rom_base": "Kōkishi - Vanpaia Buramu",
     "name_jp_tl": "Edelritter - Vampire Bram",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "CrimsonKnightVampireBram-DBDS-JP-C.png",
+            "art": "CrimsonKnightVampireBram-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "CrimsonKnightVampireBram-GFP2-EN-UR-1E.png",
-            "art": null
+            "art": "CrimsonKnightVampireBram-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHSP-EN054",
@@ -62,6 +70,23 @@
             "set": "Ghosts From the Past: The 2nd Haunting",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP054",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DBDS-JP013",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -106,5 +131,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

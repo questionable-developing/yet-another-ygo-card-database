@@ -1,12 +1,14 @@
 {
     "cid": "6b46a06a-d9dd-4e55-b400-f4149397814d",
-    "yid": null,
+    "yid": 24166324,
     "password": "24166324",
     "kid": 20255,
     "name": "Meteoroa Drytron",
     "name_jp": "<ruby lang=\"jp\"><rb>流星極輝巧群</rb><rp> (</rp><rt>メテオローラ・ドライトロン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Meteorōra Doraitoron",
+    "name_jp_rom_base": "Ryūsei Kyokukikōgun",
     "name_jp_tl": "Meteaurora Drytron",
+    "name_jp_tl_base": "Meteoric Polar Bright Machine Gathering",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP25-EN397",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP076",
+            "set": "The Infinite Forbidden",
             "rarities": {
                 "Common": []
             }
@@ -99,5 +110,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

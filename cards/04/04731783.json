@@ -1,12 +1,14 @@
 {
     "cid": "4953bac8-3321-48c6-b761-5a446cc25200",
-    "yid": null,
+    "yid": 4731783,
     "password": "04731783",
     "kid": 20786,
     "name": "A Bao A Qu, the Lightless Shadow",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>なき<ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>かげ</rt><rp>)</rp></ruby> ア＝バオ・ア・クゥー",
     "name_jp_rom": "Hikarinaki Kage A=Bao A Kwū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,10 +39,15 @@
         "1": {
             "idx": "1",
             "full": "ABaoAQutheLightlessShadow-SUDA-EN-ScR-1E.png",
-            "art": null
+            "art": "ABaoAQutheLightlessShadow-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "ABaoAQutheLightlessShadow-LOCH-JP-UR.png",
+            "art": "ABaoAQutheLightlessShadow-OW.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "SUDA-EN049",
@@ -48,6 +55,35 @@
             "rarities": {
                 "Secret Rare": [],
                 "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP049",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUDA-JP049",
+            "set": "Supreme Darkness +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP036",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -97,5 +133,6 @@
             "During the Standby Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

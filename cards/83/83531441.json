@@ -1,11 +1,14 @@
 {
     "cid": "99b1e1f4-c583-41a7-8c24-e7459c01b6d8",
+    "yid": 83531441,
     "password": "83531441",
     "kid": 11320,
     "name": "Dante, Traveler of the Burning Abyss",
     "name_jp": "<ruby lang=\"jp\"><rb>彼</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岸</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>旅</rb><rp> (</rp><rt>たび</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>びと</rt><rp>)</rp></ruby> ダンテ",
     "name_jp_rom": "Higan no Tabibito Dante",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dante, Traveler of the Afterlife",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -80,6 +83,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP015",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP083",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP143",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +150,6 @@
             "Limited activations",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

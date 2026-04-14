@@ -1,12 +1,14 @@
 {
     "cid": "201264e6-7982-4e6e-82b6-9ef8cfb67a75",
-    "yid": null,
+    "yid": 35844557,
     "password": "35844557",
     "kid": 20572,
     "name": "Sword Ryzeal",
     "name_jp": "ソード・ライゼオル",
     "name_jp_rom": "Sōdo Raizeoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thode Raizeol",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBCB-JP001",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

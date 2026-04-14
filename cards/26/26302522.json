@@ -1,12 +1,14 @@
 {
     "cid": "1cb4207f-d5e2-4a15-b3a3-eac733c47e86",
-    "yid": null,
+    "yid": 26302522,
     "password": "26302522",
     "kid": 4742,
     "name": "Blast Sphere",
     "name_jp": "スフィア・ボム <ruby lang=\"jp\"><rb>球</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>体</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>限</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sufia Bomu Kyūtai Jigenbakudan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sphere Bomb - Spherical Time Bomb",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -80,6 +82,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WJ-09",
+            "set": "Limited Edition 2: Keith Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD18-JP011",
+            "set": "Structure Deck: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP16-JP040",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP19-JP018",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +145,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

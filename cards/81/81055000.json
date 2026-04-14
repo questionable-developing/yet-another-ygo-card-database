@@ -1,11 +1,14 @@
 {
     "cid": "9092477c-de10-48fc-b448-f4d5b1856e0e",
+    "yid": 81055000,
     "password": "81055000",
     "kid": 12737,
     "name": "Performapal Handstandaccoon",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>リターンタンタン",
     "name_jp_rom": "Entameito Ritāntantan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Return Tantan",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP002",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition"
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

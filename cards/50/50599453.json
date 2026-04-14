@@ -1,11 +1,14 @@
 {
     "cid": "05b56f60-99ff-4f38-8a11-04c28105e2bf",
+    "yid": 50599453,
     "password": "50599453",
     "kid": 16834,
     "name": "Leafplace Plaice",
     "name_jp": "<ruby lang=\"jp\"><rb>枯鰈葉</rb><rp> (</rp><rt>カレイハ</rt><rp>)</rp></ruby>リプレース",
     "name_jp_rom": "Kareiha Ripurēsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Withered Laceleaf Flatfish Leaplaice",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BACH-EN029",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP029",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "61c36cc0-f89f-421a-badb-a739387aee2c",
+    "yid": 43527730,
     "password": "43527730",
     "kid": 18022,
     "name": "Mikanko Water Arabesque",
     "name_jp": "<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>水舞踏</rb><rp> (</rp><rt>アラベスク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mikanko no Arabesuku",
+    "name_jp_rom_base": "Mikanko no Suibutō",
     "name_jp_tl": "Mikanko Arabesque",
+    "name_jp_tl_base": "Mikanko Water Dance",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP032",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP069",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

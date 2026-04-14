@@ -1,12 +1,14 @@
 {
     "cid": "9f2aa649-c131-4df8-9dce-10f4b44108eb",
-    "yid": null,
+    "yid": 4939890,
     "password": "04939890",
     "kid": 11233,
     "name": "Shaddoll Hedgehog",
     "name_jp": "シャドール・ヘッジホッグ",
     "name_jp_rom": "Shadōru Hejjihoggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +68,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP024",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP005",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP067",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +129,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

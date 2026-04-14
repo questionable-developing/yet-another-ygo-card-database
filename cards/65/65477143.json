@@ -1,11 +1,14 @@
 {
     "cid": "a9f477d2-fb4a-4d2d-bf1b-bbe9f9b5003b",
+    "yid": 65477143,
     "password": "65477143",
     "kid": 18161,
     "name": "Abyss Actor - Liberty Dramatist",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>劇</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>－リバティ・ドラマチスト",
     "name_jp_rom": "Makai Gekidan - Ribati Doramachisuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "PHHY-EN016",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP016",
             "set": "Photon Hypernova",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

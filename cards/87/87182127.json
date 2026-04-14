@@ -1,11 +1,14 @@
 {
     "cid": "3b18b771-8e4c-4633-854f-a975e7ec7e4e",
+    "yid": 87182127,
     "password": "87182127",
     "kid": 12777,
     "name": "Ancient Gear Howitzer",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械魔神</rb><rp> (</rp><rt>アンティーク・ギア・デビル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Debiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Devil",
+    "name_jp_tl_base": "Ancient Machine Devil",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -64,6 +67,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP042",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP118",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +126,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

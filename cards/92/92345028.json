@@ -1,11 +1,14 @@
 {
     "cid": "bdf84c5a-d3b7-4d7d-b20c-b04b29ea3193",
+    "yid": 92345028,
     "password": "92345028",
     "kid": 14502,
     "name": "Fury of Fire",
     "name_jp": "フューリー・オブ・ファイア",
     "name_jp_rom": "Fyūrī Obu Faia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP054",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
             "Only once per turn",
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

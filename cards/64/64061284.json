@@ -1,11 +1,14 @@
 {
     "cid": "9e48b2c0-7042-46ed-ac76-20de511375ec",
+    "yid": 64061284,
     "password": "64061284",
     "kid": 13482,
     "name": "Ancient Gear Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械融合</rb><rp> (</rp><rt>アンティーク・ギアフュージョン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Fyūjon",
+    "name_jp_rom_base": "Kodai no Kikai Yūgō",
     "name_jp_tl": "Antique Gear Fusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -18,15 +21,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "Fusion Summon 1 \"Ancient Gear\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you use \"Ancient Gear Golem\" or \"Ancient Gear Golem - Ultimate Pound\" you control as Fusion Material, you can also use monsters from your Deck as material.",
+    "desc": "Fusion Summon 1 \"Ancient Gear\" Fusion Monster from your Extra Deck, using monsters from your hand or field. If you use \"Ancient Gear Golem\" or \"Ancient Gear Golem - Ultimate Pound\" you control as material, you can also use monsters from your Deck.",
     "pend_eff": null,
     "mnst_eff": null,
-    "eff": "Fusion Summon 1 \"Ancient Gear\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you use \"Ancient Gear Golem\" or \"Ancient Gear Golem - Ultimate Pound\" you control as Fusion Material, you can also use monsters from your Deck as material.",
+    "eff": "Fusion Summon 1 \"Ancient Gear\" Fusion Monster from your Extra Deck, using monsters from your hand or field. If you use \"Ancient Gear Golem\" or \"Ancient Gear Golem - Ultimate Pound\" you control as material, you can also use monsters from your Deck.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "AncientGearFusion-MGED-EN-R-1E.png",
+            "full": "AncientGearFusion-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -51,6 +54,37 @@
             "set": "Maximum Gold: El Dorado",
             "rarities": {
                 "Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN063",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP19-JP032",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP124",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -94,5 +128,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

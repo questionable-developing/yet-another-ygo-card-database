@@ -1,11 +1,14 @@
 {
     "cid": "826e1986-336e-45ca-8acc-538679025aff",
+    "yid": 91407982,
     "password": "91407982",
     "kid": 14508,
     "name": "Fortune Vision",
     "name_jp": "フォーチュン・ヴィジョン",
     "name_jp_rom": "Fōchun Vijon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RIRA-EN055",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP055",
             "set": "Rising Rampage",
             "rarities": {
                 "Rare": []
@@ -75,5 +87,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

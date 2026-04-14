@@ -1,11 +1,14 @@
 {
     "cid": "c098f16a-c7a0-4359-89b7-5eed9f15f081",
+    "yid": 44860890,
     "password": "44860890",
     "kid": 10381,
     "name": "Brotherhood of the Fire Fist - Raven",
     "name_jp": "<ruby lang=\"jp\"><rb>捷</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－セイヴン",
     "name_jp_rom": "Shōensei - Seivun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Agile Flame Star - Qingven",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP022",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

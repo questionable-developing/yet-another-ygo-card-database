@@ -1,12 +1,14 @@
 {
     "cid": "f5f0ce8e-5fb7-4b29-8382-70d851215ac7",
-    "yid": null,
+    "yid": 15306543,
     "password": "15306543",
     "kid": 19203,
     "name": "Stars Align Above the Shrine",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>ほし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>逢</rb><rp> (</rp><rt>あい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神籬</rb><rp> (</rp><rt>ひもろぎ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hoshiai no Himorogi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "AGOV-EN061",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP061",
             "set": "Age of Overlord",
             "rarities": {
                 "Common": []
@@ -89,5 +100,6 @@
             "Requires control of specific card",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

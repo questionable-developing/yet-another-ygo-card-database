@@ -1,11 +1,14 @@
 {
     "cid": "7716b001-4aa5-4656-80e4-abd4ee4eec53",
+    "yid": 76302448,
     "password": "76302448",
     "kid": 20791,
     "name": "Arcana Spread",
     "name_jp": "アルカナスプレッド",
     "name_jp_rom": "Arukana Supureddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -39,6 +42,15 @@
     "sets": [
         {
             "sid": "SUDA-EN054",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP054",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -87,5 +99,6 @@
             "Coin toss",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

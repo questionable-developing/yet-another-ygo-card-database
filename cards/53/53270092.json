@@ -1,11 +1,14 @@
 {
     "cid": "5505fd05-dd58-4812-9311-6ddeff1d52e7",
+    "yid": 53270092,
     "password": "53270092",
     "kid": 17787,
     "name": "Han-Shi Kyudo Spirit",
     "name_jp": "キュウドウ<ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>スピリット</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>ＨＡＮ－ＳＨＩ</rb><rp> (</rp><rt>ハンシ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyuudou Supiritto Hanshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kyudo Spirit Han-Shi",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP032",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -91,5 +103,6 @@
             "Limited activations",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

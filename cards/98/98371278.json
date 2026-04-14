@@ -1,11 +1,14 @@
 {
     "cid": "e7a3f85b-c995-44b0-9fbf-eee36b284e23",
+    "yid": 98371278,
     "password": "98371278",
     "kid": 14453,
     "name": "DMZ Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｍ</rb><rp> (</rp><rt>エム</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｚ</rb><rp> (</rp><rt>ゼット</rt><rp>)</rp></ruby>ドラゴン",
     "name_jp_rom": "Dī Emu Zetto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RIRA-EN005",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP005",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -86,5 +98,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "743309e7-00b8-44c8-869d-9853d787c353",
+    "yid": 58699500,
     "password": "58699500",
     "kid": 13506,
     "name": "Cherubini, Ebon Angel of the Burning Abyss",
     "name_jp": "<ruby lang=\"jp\"><rb>彼</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岸</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> ケルビーニ",
     "name_jp_rom": "Higan no Kurotenshi Kerubīni",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cherubini, Black Angel of the Afterlife",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -67,6 +70,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP081",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP043",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +134,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

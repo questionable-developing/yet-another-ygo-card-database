@@ -1,12 +1,14 @@
 {
     "cid": "5712e189-9c8c-4d22-af37-99398b884956",
-    "yid": null,
+    "yid": 4081094,
     "password": "04081094",
     "kid": 6062,
     "name": "The Second Sarcophagus",
     "name_jp": "<ruby lang=\"jp\"><rb>第</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>棺</rb><rp> (</rp><rt>ひつぎ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daini no Hitsugi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-045",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP213",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

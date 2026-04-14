@@ -1,12 +1,14 @@
 {
     "cid": "c48e50db-bf00-4825-81cb-1d44ebac4546",
-    "yid": null,
+    "yid": 29762407,
     "password": "29762407",
     "kid": 5231,
     "name": "Temple of the Kings",
     "name_jp": "<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>家</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>殿</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōke no Shinden",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Temple of the Royal Family",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +71,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "G6-B1",
+            "set": "Yu-Gi-Oh! Duel Monsters 6: Expert 2 First Volume promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "15AX-JPM43",
+            "set": "Duelist Road -Piece of Memory- Side: Yugi Muto",
+            "rarities": {
+                "Secret Rare": [],
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP039",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PGB1-JP045",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "WPP6-JP012",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +150,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

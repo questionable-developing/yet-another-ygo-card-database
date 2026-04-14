@@ -1,12 +1,14 @@
 {
     "cid": "e4910caf-d198-4937-846a-d528e68fcfcd",
-    "yid": null,
+    "yid": 12296376,
     "password": "12296376",
     "kid": 8803,
     "name": "Wattwoodpecker",
     "name_jp": "エレキツツキ",
     "name_jp_rom": "Erekitsutsuki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecwoodpecker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP027",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

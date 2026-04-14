@@ -1,12 +1,14 @@
 {
     "cid": "658c1bd9-b278-46a5-9aa1-892e44ebbbc0",
-    "yid": null,
+    "yid": 23869735,
     "password": "23869735",
     "kid": 6811,
     "name": "Fossil Excavation",
     "name_jp": "<ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>発</rb><rp> (</rp><rt>はっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>掘</rb><rp> (</rp><rt>くつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaseki Hakkutsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FossilExcavation-SR04-JP-C.png",
+            "art": "FossilExcavation-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FossilExcavation-SR04-EN-C-1E.png",
-            "art": null
+            "art": "FossilExcavation-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "POTD-EN058",
@@ -57,6 +64,43 @@
         {
             "sid": "SR04-EN032",
             "set": "Dinosmasher's Fury Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP058",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD09-JP036",
+            "set": "Structure Deck: Dinosaur's Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP18-JP010",
+            "set": "Tournament Pack 2011 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP041",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR04-JP032",
+            "set": "Structure Deck R: Tyranno's Rage",
             "rarities": {
                 "Common": []
             }
@@ -97,5 +141,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

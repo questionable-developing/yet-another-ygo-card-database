@@ -1,12 +1,14 @@
 {
     "cid": "c4a6f2b8-83cb-4d16-b4c2-73f3f730081f",
-    "yid": null,
+    "yid": 24096499,
     "password": "24096499",
     "kid": 11370,
     "name": "Valerifawn, Mystical Beast of the Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> ヴァレリフォーン",
     "name_jp_rom": "Mori no Seijū Varerifōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Valerifawn, Holy Beast of the Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +68,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP038",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

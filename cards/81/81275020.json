@@ -1,11 +1,14 @@
 {
     "cid": "8d6b6fa2-4346-4c30-a3f9-43192f1a0922",
+    "yid": 81275020,
     "password": "81275020",
     "kid": 12047,
     "name": "Speedroid Terrortop",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＲ</rb><rp> (</rp><rt>スピードロイド</rt><rp>)</rp></ruby>ベイゴマックス",
     "name_jp_rom": "Supīdoroido Beigomakkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Speedroid Beigomax",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -72,6 +75,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPHR-JP001",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP083",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP25-JP008",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "HC01-JP041",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,7 +144,9 @@
         "smat": [],
         "misc": [
             "Requires control of no monsters",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

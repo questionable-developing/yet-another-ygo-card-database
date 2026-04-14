@@ -1,12 +1,14 @@
 {
     "cid": "355c1b51-4660-4e0b-9fe5-9c9bcea60f5d",
-    "yid": null,
+    "yid": 31077447,
     "password": "31077447",
     "kid": 11403,
     "name": "Punch-in-the-Box",
     "name_jp": "びっくり<ruby lang=\"jp\"><rb>箱</rb><rp> (</rp><rt>ばこ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bikkuribako",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Jack-in-the-Box",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP071",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

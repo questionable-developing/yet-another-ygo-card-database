@@ -1,11 +1,14 @@
 {
     "cid": "d3c88945-f0e4-4a88-902a-a1a545042a95",
+    "yid": 49154689,
     "password": "49154689",
     "kid": 14316,
     "name": "Stand In",
     "name_jp": "スタンド・イン",
     "name_jp_rom": "Sutando In",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN066",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP066",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

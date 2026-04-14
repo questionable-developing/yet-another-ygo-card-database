@@ -1,11 +1,14 @@
 {
     "cid": "33858ed0-bf4c-402d-a36f-ae1314abaf00",
+    "yid": 93317313,
     "password": "93317313",
     "kid": 21768,
     "name": "D/D Defense Soldier",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>ディフェンス・ソルジャー",
     "name_jp_rom": "Dīdī Difensu Sorujā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DOOD-EN002",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP002",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -90,5 +102,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

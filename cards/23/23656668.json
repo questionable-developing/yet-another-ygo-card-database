@@ -1,12 +1,14 @@
 {
     "cid": "d87f9a15-ddbe-4165-b4b2-6678f34751dd",
-    "yid": null,
+    "yid": 23656668,
     "password": "23656668",
     "kid": 14858,
     "name": "Gravity Controller",
     "name_jp": "グラビティ・コントローラー",
     "name_jp_rom": "Gurabiti Kontorōrā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -61,6 +63,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP049",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBJH-JP027",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

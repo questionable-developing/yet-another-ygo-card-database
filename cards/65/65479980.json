@@ -1,11 +1,14 @@
 {
     "cid": "1424ed8b-e016-4d3b-a41b-c3b81d421473",
+    "yid": 65479980,
     "password": "65479980",
     "kid": 15975,
     "name": "S-Force Dog Tag",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ－Ｆｏｒｃｅ</rb><rp> (</rp><rt>セキュリティ・フォース</rt><rp>)</rp></ruby> ドッグ・タッグ",
     "name_jp_rom": "Sekyuriti Fōsu Doggu Taggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Security Force Dog Tag",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LIOV-EN014",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP014",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

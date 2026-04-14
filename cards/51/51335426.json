@@ -1,11 +1,14 @@
 {
     "cid": "fac8f81c-85be-4068-ada7-6d9443d0d202",
+    "yid": 51335426,
     "password": "51335426",
     "kid": 13617,
     "name": "Link Bound",
     "name_jp": "バウンドリンク",
     "name_jp_rom": "Baundo Rinku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bound Link",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "LinkBound-SD35-JP-C.png",
+            "art": "LinkBound-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "LinkBound-SDSB-EN-C-1E.png",
-            "art": null
+            "art": "LinkBound-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "FLOD-EN063",
@@ -41,6 +49,23 @@
         },
         {
             "sid": "SDSB-EN030",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP063",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD35-JP030",
             "set": "Structure Deck: Soulburner",
             "rarities": {
                 "Common": []
@@ -79,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

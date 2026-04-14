@@ -6,7 +6,9 @@
     "name": "Ghost Ogre & Snow Rabbit",
     "name_jp": "<ruby lang=\"jp\"><rb>幽</rb><rp> (</rp><rt>ゆ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>うさぎ",
     "name_jp_rom": "Yuki Usagi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,113 +43,227 @@
         },
         "3": {
             "idx": "3",
-            "full": "GhostOgreSnowRabbit-STSP-JP-UR.png",
+            "full": "GhostOgreSnowRabbit-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "3",
     "sets": [
         {
             "sid": "CROS-EN033",
             "set": "Crossed Souls",
             "rarities": {
-                "Secret Rare": []
+                "Secret Rare": ["1"]
             }
         },
         {
             "sid": "PGL3-EN052",
             "set": "Premium Gold: Infinite Gold",
             "rarities": {
-                "Gold Rare": []
+                "Gold Rare": ["1"]
             }
         },
         {
             "sid": "CT13-EN012",
             "set": "2016 Mega-Tins",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "OP05-EN001",
             "set": "OTS Tournament Pack 5",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "LCKC-EN078",
             "set": "Legendary Collection Kaiba Mega Pack",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "DUPO-EN075",
             "set": "Duel Power",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "DUDE-EN001",
             "set": "Duel Devastator",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["2"]
             }
         },
         {
             "sid": "MAGO-EN009",
             "set": "Maximum Gold",
             "rarities": {
-                "Premium Gold Rare": []
+                "Premium Gold Rare": ["1"]
             }
         },
         {
             "sid": "SDAZ-EN017",
             "set": "Structure Deck: Albaz Strike",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
             }
         },
         {
             "sid": "MP22-EN255",
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
             }
         },
         {
             "sid": "RA02-EN009",
             "set": "25th Anniversary Rarity Collection II",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["2"],
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Platinum Secret Rare": ["2"],
+                "Quarter Century Secret Rare": ["2"],
+                "Ultimate Rare": ["2"],
+                "Collector's Rare": ["2"]
             }
         },
         {
             "sid": "RA04-EN015",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Super Rare": [],
-                "Ultra Rare": [],
-                "Secret Rare": [],
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": [],
-                "Ultimate Rare": [],
-                "Collector's Rare": []
+                "Super Rare": ["1"],
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Platinum Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "L5DD-ENA06",
             "set": "Legendary 5D's Decks",
             "rarities": {
-                "Common": []
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN131",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP033",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20AP-JP100",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Super Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC02-JP008",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Collector's Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20CP-JPS08",
+            "set": "20th Secret Rare Special Pack",
+            "rarities": {
+                "20th Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "20TH-JPC84",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Secret Rare": ["1"],
+                "Ultra Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RC03-JP007",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["2"],
+                "Collector's Rare": ["2"],
+                "Premium Gold Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "PAC1-JP014",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Prismatic Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "SD43-JP017",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP018",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCTB-JP053",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP048",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["1", "2"]
+            }
+        },
+        {
+            "sid": "TT02-JPB10",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP001",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],

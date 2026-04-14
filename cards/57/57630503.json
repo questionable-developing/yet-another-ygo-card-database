@@ -1,11 +1,14 @@
 {
     "cid": "315f1bde-00ac-44de-9eaf-c795c207c687",
+    "yid": 57630503,
     "password": "57630503",
     "kid": 15709,
     "name": "Fabled Marcosia",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>マルコシア",
     "name_jp_rom": "Magōshin Marukoshia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon Roar God Marcosia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP018",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP018",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

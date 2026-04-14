@@ -1,11 +1,14 @@
 {
     "cid": "0d7501bc-da7f-4b51-8cff-f5632a7d6a10",
+    "yid": 55008284,
     "password": "55008284",
     "kid": 6520,
     "name": "The League of Uniform Nomenclature",
     "name_jp": "<ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>姓</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>名</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>同</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>盟</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dōseidōmei Dōmei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "EEN-EN055",
             "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP055",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP115",
+            "set": "Expert Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -72,5 +91,6 @@
             "Requires control of specific Level",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

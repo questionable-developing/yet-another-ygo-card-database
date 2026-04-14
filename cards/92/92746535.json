@@ -1,11 +1,14 @@
 {
     "cid": "21616f63-5615-4865-9269-890b653d91ce",
+    "yid": 92746535,
     "password": "92746535",
     "kid": 11809,
     "name": "Luster Pendulum, the Dracoslayer",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ラスター<ruby lang=\"jp\"><rb>Ｐ</rb><rp> (</rp><rt>ペンデュラム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryūkenshi Rasutā Pendyuramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Luster Pendulum, the Dragon Swordsman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -67,6 +70,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP025",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP063",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP010",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -114,5 +141,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "5dc1af75-af90-4f0b-ad5b-2ae406fd6271",
+    "yid": 93229151,
     "password": "93229151",
     "kid": 17378,
     "name": "Runick Smiting Storm",
     "name_jp": "<ruby lang=\"jp\"><rb>怒</rb><rp> (</rp><rt>いか</rt><rp>)</rp></ruby>れる<ruby lang=\"jp\"><rb>嵐</rb><rp> (</rp><rt>あらし</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ikareru Arashi no Rūn",
+    "name_jp_rom_base": "Ikareru Arashi no Shinpi",
     "name_jp_tl": "Rune of Smiting Storm",
+    "name_jp_tl_base": "Divine Runestone of Smiting Storm",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP036",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +96,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "4f0704eb-bb0b-4e98-ad5a-9dce4fe7c165",
-    "yid": null,
+    "yid": 33393090,
     "password": "33393090",
     "kid": 16403,
     "name": "Yowie",
     "name_jp": "ヨーウィー",
     "name_jp_rom": "Yōwī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC01-JP007",
+            "set": "Animation Chronicle 2021",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

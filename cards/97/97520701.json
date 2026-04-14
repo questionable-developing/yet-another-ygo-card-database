@@ -1,11 +1,14 @@
 {
     "cid": "d9e141d7-1297-47b8-a111-cd137738f11b",
+    "yid": 97520701,
     "password": "97520701",
     "kid": 10862,
     "name": "Special Schedule",
     "name_jp": "<ruby lang=\"jp\"><rb>臨</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby>ダイヤ",
     "name_jp_rom": "Rinji Daiya",
-    "name_jp_tl": null,
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Temporary Schedule",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SpecialSchedule-DLCS-EN-C-1E.png",
+            "full": "SpecialSchedule-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -51,6 +54,44 @@
             "set": "Dragons of Legend: The Complete Series",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "RA05-EN060",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ZDC1-JP003",
+            "set": "Yu-Gi-Oh! ZEXAL World Duel Carnival promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP21-JP044",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SLF1-JP016",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -88,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3bb16fb7-9ee3-4e3d-b567-c3d8827690d6",
+    "yid": 80040886,
     "password": "80040886",
     "kid": 17390,
     "name": "Navy Dragon Mech",
     "name_jp": "<ruby lang=\"jp\"><rb>碧鋼の機竜</rb><rp> (</rp><rt>ドラッグ・オン・ネイビー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraggu On Neibī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Drag-On Navy",
+    "name_jp_tl_base": "Blue Steel Mech Dragon",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP039",
+            "set": "World Premiere Pack 2022",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -54,7 +66,9 @@
             "Tuner monster"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Dragon Mech"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -62,7 +76,7 @@
         "action": [
             "Activates upon Special Summon",
             "Activates if destroyed by card effect",
-            "Activates from your Graveyard",
+            "Activates if sent to the Graveyard",
             "Adds from Graveyard to hand"
         ],
         "stat_change": [],
@@ -81,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

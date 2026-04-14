@@ -1,11 +1,14 @@
 {
     "cid": "08cd42a1-19d2-4c6c-83f1-8ec52c086b3f",
+    "yid": 90969892,
     "password": "90969892",
     "kid": 16883,
     "name": "Tribe Drive",
     "name_jp": "トライブ・ドライブ",
     "name_jp_rom": "Toraibu Doraibu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TribeDrive-CF01-JP-UR.png",
+            "art": "TribeDrive-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TribeDrive-BACH-EN-C-1E.png",
-            "art": null
+            "art": "TribeDrive-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "BACH-EN078",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP078",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP113",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -71,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2406f49f-8b05-43a6-a2fd-c7456e5686fb",
+    "yid": 63845230,
     "password": "63845230",
     "kid": 12767,
     "name": "Eater of Millions",
     "name_jp": "<ruby lang=\"jp\"><rb>百万</rb><rp> (</rp><rt>よろず</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喰</rb><rp> (</rp><rt>ぐ</rt><rp>)</rp></ruby>らいのグラットン",
     "name_jp_rom": "Yorozu Gurai no Guratton",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Glutton the Eater of Millions",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "EaterofMillions-20TP-JP-C.png",
+            "art": "EaterofMillions-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "EaterofMillions-MAGO-EN-R-1E.png",
-            "art": null
+            "art": "EaterofMillions-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RATE-EN032",
@@ -61,6 +69,30 @@
             "set": "Maximum Gold",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP032",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18SP-JP403",
+            "set": "Special Pack 20th Anniversary Edition Vol.4",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP306",
+            "set": "Tournament Pack 2020 Vol.3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -109,5 +141,6 @@
             "Only once per turn",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

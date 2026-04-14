@@ -1,12 +1,14 @@
 {
     "cid": "4cdbc3a9-a9f0-4a61-a0d0-6087b516b425",
-    "yid": null,
+    "yid": 15443125,
     "password": "15443125",
     "kid": 17457,
     "name": "Spright Starter",
     "name_jp": "スプライト・スターター",
     "name_jp_rom": "Supuraito Sutātā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SprightStarter-BLTR-EN-ScR-1E.png",
+            "full": "SprightStarter-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -45,6 +47,42 @@
             "set": "Battles of Legend: Terminal Revenge",
             "rarities": {
                 "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN068",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP055",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB16",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP120",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -84,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

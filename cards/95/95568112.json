@@ -1,11 +1,14 @@
 {
     "cid": "f4429973-a925-4f72-9971-e4ca2b17cc9f",
+    "yid": 95568112,
     "password": "95568112",
     "kid": 13884,
     "name": "Rain Bozu",
     "name_jp": "レイン・ボーズ",
     "name_jp_rom": "Rein Bōzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "18PR-JP008",
+            "set": "Promotion Pack 2018",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "19PR-JP003",
+            "set": "Promotion Pack 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -86,5 +105,6 @@
             "Limited activations",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

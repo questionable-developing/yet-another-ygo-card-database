@@ -1,11 +1,14 @@
 {
     "cid": "1ac130da-c1ae-4fb3-ab2f-fd6f6a025be2",
+    "yid": 90812044,
     "password": "90812044",
     "kid": 12888,
     "name": "Chain Summon",
     "name_jp": "<ruby lang=\"jp\"><rb>連</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鎖</rb><rp> (</rp><rt>さ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rensa Shōkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP19-JP008",
+            "set": "Premium Pack 19",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD42-JP032",
+            "set": "Structure Deck: Overlay Universe",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

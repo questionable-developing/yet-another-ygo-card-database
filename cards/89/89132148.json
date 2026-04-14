@@ -1,11 +1,14 @@
 {
     "cid": "2f0e806f-6158-47fb-a6dd-64bb92286ff2",
+    "yid": 89132148,
     "password": "89132148",
     "kid": 13859,
     "name": "Photon Orbital",
     "name_jp": "フォトン・オービタル",
     "name_jp_rom": "Foton Ōbitaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP036",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP405",
+            "set": "Tournament Pack 2022 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP054",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +130,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

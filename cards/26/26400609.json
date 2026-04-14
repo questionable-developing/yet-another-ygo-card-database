@@ -1,12 +1,14 @@
 {
     "cid": "25e452bc-8d0e-4da5-9bcd-1a16050221a4",
-    "yid": null,
+    "yid": 26400609,
     "password": "26400609",
     "kid": 10520,
     "name": "Tidal, Dragon Ruler of Waterfalls",
     "name_jp": "<ruby lang=\"jp\"><rb>瀑</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>征</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－タイダル",
     "name_jp_rom": "Bakuseiryū - Taidaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -71,6 +73,40 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP039",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "GS06-JP005",
+            "set": "Gold Series 2014",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP311",
+            "set": "Tournament Pack 2024 Vol.3",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        },
+        {
+            "sid": "QCAC-JP078",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -118,5 +154,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

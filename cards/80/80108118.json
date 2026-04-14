@@ -1,11 +1,14 @@
 {
     "cid": "25b8bd4c-2e6f-4585-a388-c0f4761c179b",
+    "yid": 80108118,
     "password": "80108118",
     "kid": 7551,
     "name": "X-Saber Urbellum",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>－セイバー ウルベルム",
     "name_jp_rom": "Ekkusu-Seibā Uruberumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1 or more non-Tuner monsters<br />When this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
+    "desc": "1 Tuner + 1+ non-Tuners<br />When this card inflicts battle damage to your opponent, while they have 4 or more cards in their hand: Place 1 random card from their hand on top of the Deck.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
-    "eff": "1 Tuner + 1 or more non-Tuner monsters\nWhen this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuners\nWhen this card inflicts battle damage to your opponent, while they have 4 or more cards in their hand: Place 1 random card from their hand on top of the Deck.",
+    "eff": "1 Tuner + 1+ non-Tuners\nWhen this card inflicts battle damage to your opponent, while they have 4 or more cards in their hand: Place 1 random card from their hand on top of the Deck.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XSaberUrbellum-5DS3-EN-C-1E.jpg",
+            "full": "XSaberUrbellum-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -55,6 +58,37 @@
             "set": "Starter Deck: Duelist Toolbox",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENX30",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP034",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "YSD4-JP043",
+            "set": "Starter Deck 2009",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DTC1-JP025",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Ultra Parallel Rare": [],
+                "Duel Terminal Secret Parallel Rare": []
             }
         }
     ],
@@ -90,5 +124,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

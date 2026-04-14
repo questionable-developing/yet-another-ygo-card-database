@@ -1,11 +1,14 @@
 {
     "cid": "a0dbb603-cf9f-4680-b548-74c7b5df7002",
+    "yid": 80831552,
     "password": "80831552",
     "kid": 14634,
     "name": "Dinowrestler Valeonyx",
     "name_jp": "ダイナレスラー・バーリオニクス",
     "name_jp_rom": "Dainaresurā Bārionikusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP007",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

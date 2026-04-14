@@ -1,11 +1,14 @@
 {
     "cid": "7b7851d6-3992-418f-b59b-fe688479b5d1",
+    "yid": 44146295,
     "password": "44146295",
     "kid": 17069,
     "name": "Mirrorjade the Iceblade Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ミラジェイド",
     "name_jp_rom": "Hikenryū Mirajeido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -22,46 +25,90 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster<br />You can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
+    "desc": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster<br />You can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field by an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
     "pend_eff": null,
-    "mnst_eff": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
-    "eff": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
+    "mnst_eff": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field by an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
+    "eff": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field by an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
             "full": "MirrorjadetheIcebladeDragon-CH01-EN-UR-1E.png",
+            "art": "MirrorjadetheIcebladeDragon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "MirrorjadetheIcebladeDragon-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "SDAZ-EN041",
             "set": "Structure Deck: Albaz Strike",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "PHHY-EN100",
             "set": "Photon Hypernova",
             "rarities": {
-                "Starlight Rare": []
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "BLTR-EN114",
             "set": "Battles of Legend: Terminal Revenge",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "CH01-EN042",
             "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN148",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD43-JP041",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "CF01-JP100",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "CH01-JP042",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP008",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -120,5 +167,6 @@
             "Mentions",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a3e0969a-101e-401c-867b-748352bcf985",
+    "yid": 53262004,
     "password": "53262004",
     "kid": 11989,
     "name": "Odd-Eyes Vortex Dragon",
     "name_jp": "オッドアイズ・ボルテックス・ドラゴン",
     "name_jp_rom": "Oddoaizu Borutekkusu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -66,6 +69,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP045",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP111",
+            "set": "Tournament Pack 2022 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP087",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -115,5 +146,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

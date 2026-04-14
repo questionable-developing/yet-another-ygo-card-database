@@ -1,11 +1,14 @@
 {
     "cid": "9ea136ce-0d87-4b31-8704-002deb6c4209",
+    "yid": 45627618,
     "password": "45627618",
     "kid": 11835,
     "name": "Odd-Eyes Rebellion Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>覇</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>オッドアイズ・リベリオン・ドラゴン",
     "name_jp_rom": "Haōkokuryū Oddoaizu Riberion Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Supreme King Black Dragon, Odd-Eyes Rebellion Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -72,6 +75,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP051",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP034",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JPS01",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CCC2-JP005",
+            "set": "Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2024 Part 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -134,7 +170,9 @@
         "misc": [
             "Limited activations",
             "Pendulum Summoning condition",
-            "Xyz Pendulum Monster"
+            "Xyz Pendulum Monster",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

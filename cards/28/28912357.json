@@ -1,12 +1,14 @@
 {
     "cid": "92ac8abc-6cae-4a5c-bb3f-db5444a14f5e",
-    "yid": null,
+    "yid": 28912357,
     "password": "28912357",
     "kid": 10176,
     "name": "Gear Gigant X",
     "name_jp": "ギアギガント <ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>クロス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Giagiganto Kurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gear Gigant Cross",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -74,6 +76,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP046",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DS14-JPM30",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP210",
+            "set": "Tournament Pack 2020 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +133,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

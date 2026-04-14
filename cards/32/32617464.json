@@ -1,12 +1,14 @@
 {
     "cid": "b4410e9f-4fbd-464d-be05-3a481966d8d5",
-    "yid": null,
+    "yid": 32617464,
     "password": "32617464",
     "kid": 13203,
     "name": "Tri-Gate Wizard",
     "name_jp": "トライゲート・ウィザード",
     "name_jp_rom": "Toraigēto Wizādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD32-JP042",
+            "set": "Structure Deck: Cyberse Link",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +108,6 @@
             "Limited activations",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

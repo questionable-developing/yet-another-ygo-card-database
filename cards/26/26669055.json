@@ -1,12 +1,14 @@
 {
     "cid": "b30b7b32-71d2-487a-9b46-c3ef9ff3452c",
-    "yid": null,
+    "yid": 26669055,
     "password": "26669055",
     "kid": 6971,
     "name": "Sage of Silence",
     "name_jp": "<ruby lang=\"jp\"><rb>静</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>寂</rb><rp> (</rp><rt>じゃく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seijaku no Seija",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Saint of Silence",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -45,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP015",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

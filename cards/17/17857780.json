@@ -1,12 +1,14 @@
 {
     "cid": "d9a7b455-7bcc-4c53-9a93-8ebc24b961fe",
-    "yid": null,
+    "yid": 17857780,
     "password": "17857780",
     "kid": 11333,
     "name": "Performapal Cheermole",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>チアモール",
     "name_jp_rom": "Entameito Chiamōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Cheermole",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP001",
+            "set": "The New Challengers",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like"
@@ -91,5 +102,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

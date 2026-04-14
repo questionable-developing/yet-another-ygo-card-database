@@ -1,12 +1,14 @@
 {
     "cid": "1f2c43d1-07d9-40b0-818c-498e7fc4f7aa",
-    "yid": null,
+    "yid": 18205590,
     "password": "18205590",
     "kid": 11267,
     "name": "Satellarknight Skybridge",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>あま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>架</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>ける<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amakakeru Sateranaito",
+    "name_jp_rom_base": "Amakakeru Seiinshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Sky-Bridging Star Factor Knights",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP058",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP114",
+            "set": "Tournament Pack 2023 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP060",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

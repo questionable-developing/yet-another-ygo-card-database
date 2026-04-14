@@ -1,11 +1,14 @@
 {
     "cid": "ceb8c535-999f-434e-bc70-617ddd6fe5c3",
+    "yid": 46897277,
     "password": "46897277",
     "kid": 8802,
     "name": "Wattfox",
     "name_jp": "エレキツネ",
     "name_jp_rom": "Erekitsune",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elecfox",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "TSHD-EN026",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP026",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

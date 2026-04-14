@@ -1,11 +1,14 @@
 {
     "cid": "cf9c58da-47d8-439e-84f0-f61b780f94e6",
+    "yid": 87624166,
     "password": "87624166",
     "kid": 8338,
     "name": "Ancient Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>古</rb><rp> (</rp><rt>いにしえ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Inishie no Mori",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,22 @@
             "set": "Ancient Prophecy",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP048",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP027",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -73,5 +92,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

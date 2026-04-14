@@ -1,12 +1,14 @@
 {
     "cid": "a4a0ef6f-fb9b-4388-83b6-75d85c6c5cc2",
-    "yid": null,
+    "yid": 25958491,
     "password": "25958491",
     "kid": 8333,
     "name": "Ancient Sacred Wyvern",
     "name_jp": "エンシェント・ホーリー・ワイバーン",
     "name_jp_rom": "Enshento Hōrī Waibān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ancient Holy Wyvern",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP043",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP023",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

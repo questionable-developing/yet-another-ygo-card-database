@@ -1,11 +1,14 @@
 {
     "cid": "96e9d9c3-dc51-407f-86b0-06293830635d",
+    "yid": 62709239,
     "password": "62709239",
     "kid": 12203,
     "name": "The Phantom Knights of Break Sword",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ブレイクソード",
     "name_jp_rom": "Fantomu Naitsu Bureiku Sōdo",
+    "name_jp_rom_base": "Gen'ei Kishidan Bureiku Sōdo",
     "name_jp_tl": "Phantom Knights Break Sword",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -85,6 +88,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP006",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP033",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP150",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -131,5 +162,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

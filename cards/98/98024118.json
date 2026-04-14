@@ -1,11 +1,14 @@
 {
     "cid": "0d1f466e-648d-4bad-965e-c83f57588a16",
+    "yid": 98024118,
     "password": "98024118",
     "kid": 8324,
     "name": "White Potan",
     "name_jp": "ホワイトポータン",
     "name_jp_rom": "Howaito Pōtan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ANPR-EN033",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP033",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "1cfb6ecf-4a44-4145-b8e8-3480a097cb67",
+    "yid": 66331855,
     "password": "66331855",
     "kid": 7876,
     "name": "Morphtronic Datatron",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・チャッカン",
     "name_jp_rom": "Difōmā Chakkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Chakkan",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP008",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
             "Variable effects",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

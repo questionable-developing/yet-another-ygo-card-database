@@ -1,12 +1,14 @@
 {
     "cid": "fe79bd13-ef11-448e-a291-382e951efb36",
-    "yid": null,
+    "yid": 15094540,
     "password": "15094540",
     "kid": 20551,
     "name": "Goblin Biker Grand Crisis",
     "name_jp": "<ruby lang=\"jp\"><rb>百鬼羅刹</rb><rp> (</rp><rt>ゴブリンライダー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>危機</rb><rp> (</rp><rt>ピンチ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Raidā Dai Pinchi",
+    "name_jp_rom_base": "Hyakkirasetsu Daikiki",
     "name_jp_tl": "Goblin Rider Grand Pinch",
+    "name_jp_tl_base": "Hundred Demons Grand Crisis",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP075",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,7 +83,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -88,5 +99,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b06f575d-b255-479a-be5e-802623288636",
+    "yid": 92223430,
     "password": "92223430",
     "kid": 14505,
     "name": "Elborz, the Sacred Lands of Simorgh",
     "name_jp": "<ruby lang=\"jp\"><rb>神鳥</rb><rp> (</rp><rt>シムルグ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>峰</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>エルブルズ",
     "name_jp_rom": "Shimurugu no Reihō Eruburuzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elburz, the Spiritual Peaks of Simorgh",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RIRA-EN060",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP060",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Requires control of specific Attribute",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

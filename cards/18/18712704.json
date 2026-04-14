@@ -1,12 +1,14 @@
 {
     "cid": "8dcf36f0-0d3e-4452-97d1-c637347ddfd2",
-    "yid": null,
+    "yid": 18712704,
     "password": "18712704",
     "kid": 8508,
     "name": "Infernity Force",
     "name_jp": "インフェルニティ・フォース",
     "name_jp_rom": "Inferuniti Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SOVR-EN073",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP073",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "eaeaab2f-63e4-4d9d-a002-13b72aae5ea1",
-    "yid": null,
+    "yid": 17616743,
     "password": "17616743",
     "kid": 14424,
     "name": "Evil Eye Awakening",
     "name_jp": "<ruby lang=\"jp\"><rb>喚</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忌</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kanki no Jugan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cursed Eye of Forbidden Awakening",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP034",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

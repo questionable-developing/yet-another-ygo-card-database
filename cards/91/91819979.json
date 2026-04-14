@@ -1,11 +1,14 @@
 {
     "cid": "85a249b5-e05a-42f2-96b0-59273a657660",
+    "yid": 91819979,
     "password": "91819979",
     "kid": 6532,
     "name": "Magical Blast",
     "name_jp": "マジックブラスト",
     "name_jp_rom": "Majikku Burasuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Blast",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD6-JP017",
+            "set": "Structure Deck: Spellcaster's Judgment",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD16-JP030",
+            "set": "Structure Deck: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR08-JP030",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +113,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

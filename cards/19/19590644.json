@@ -1,12 +1,14 @@
 {
     "cid": "eaf86f52-cce9-440b-915c-8892e52553ce",
-    "yid": null,
+    "yid": 19590644,
     "password": "19590644",
     "kid": 14524,
     "name": "Setuppercut",
     "name_jp": "セットアッパー",
     "name_jp_rom": "Setto Appā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Setupper",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "RIRA-EN078",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP078",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -70,5 +81,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

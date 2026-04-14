@@ -1,12 +1,14 @@
 {
     "cid": "51cba8e3-21eb-456d-af6e-f02911363bb1",
-    "yid": null,
+    "yid": 26211048,
     "password": "26211048",
     "kid": 10073,
     "name": "Inzektor Exa-Stag",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> エクサスタッグ",
     "name_jp_rom": "Inzekutā Ekusasutaggu",
+    "name_jp_rom_base": "Kōchūsōki Ekusasutaggu",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Exa-Stag",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -53,6 +55,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP050",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

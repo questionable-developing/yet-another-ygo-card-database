@@ -1,12 +1,14 @@
 {
     "cid": "de7c1cce-9da8-4686-a5b8-6af90cc828ff",
-    "yid": null,
+    "yid": 29228350,
     "password": "29228350",
     "kid": 8828,
     "name": "Dragon Laser",
     "name_jp": "ドラゴンレーザー",
     "name_jp_rom": "Doragon Rēzā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "TSHD-EN053",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP053",
             "set": "The Shining Darkness",
             "rarities": {
                 "Common": []
@@ -75,5 +86,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "279a18f6-65ef-47af-b75b-612ae41df0b6",
+    "yid": 82556058,
     "password": "82556058",
     "kid": 7331,
     "name": "Fiendish Engine Ω",
     "name_jp": "デモニック・モーター・<ruby lang=\"jp\"><rb>Ω</rb><rp> (</rp><rt>オメガ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Demonikku Mōtā Omega",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demonic Motor Ω",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LE10-JP007",
+            "set": "Limited Edition 10: Holy White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "15AX-JPY23",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Common": [],
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +105,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

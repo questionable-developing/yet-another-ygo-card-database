@@ -1,11 +1,14 @@
 {
     "cid": "6d93a4d8-2623-4347-8c97-b64b6897c11b",
+    "yid": 96682430,
     "password": "96682430",
     "kid": 10238,
     "name": "Mermail Abysshilde",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－アビスヒルデ",
     "name_jp_rom": "Māmeiru - Abisuhirude",
+    "name_jp_rom_base": "Suiseirin - Abisuhirude",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP016",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

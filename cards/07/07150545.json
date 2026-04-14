@@ -1,12 +1,14 @@
 {
     "cid": "cba7dc5e-4af3-440d-a4cd-bbbc2b4f3bc5",
-    "yid": null,
+    "yid": 7150545,
     "password": "07150545",
     "kid": 15005,
     "name": "Buzzsaw Shark",
     "name_jp": "カッター・シャーク",
     "name_jp_rom": "Kattā Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cutter Shark",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "BuzzsawShark-LED9-EN-C-1E.png",
+            "full": "BuzzsawShark-OP26-EN-SR-UE.png",
             "art": null
         }
     },
@@ -62,6 +64,23 @@
             "set": "OTS Tournament Pack 26",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP019",
+            "set": "Eternity Code",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "AC04-JP035",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -103,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

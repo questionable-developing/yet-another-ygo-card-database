@@ -1,12 +1,14 @@
 {
     "cid": "60f7564a-240c-4fde-8a7a-812233b2aae6",
-    "yid": null,
+    "yid": 12652643,
     "password": "12652643",
     "kid": 7616,
     "name": "Ultimate Ancient Gear Golem",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械究極巨人</rb><rp> (</rp><rt>アンティーク・ギア・アルティメット・ゴーレム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Arutimetto Gōremu",
+    "name_jp_rom_base": "Kodai no Kikai Kyūkyoku Kyojin",
     "name_jp_tl": "Antique Gear Ultimate Golem",
+    "name_jp_tl_base": "Ancient Machine Ultimate Giant",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -75,6 +77,47 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP043",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DT05-JP033",
+            "set": "Duel Terminal - Champion of Chaos!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP138",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP19-JP036",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP116",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -121,5 +164,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

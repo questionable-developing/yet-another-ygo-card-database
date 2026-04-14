@@ -6,7 +6,9 @@
     "name": "Fandora, the Flying Fighting Furtress",
     "name_jp": "<ruby lang=\"jp\"><rb>飛</rb><rp> (</rp><rt>ひ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>艇</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>－ファンドラ",
     "name_jp_rom": "Hiryūsentei - Fandora",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flying Dragon Battle Boat - Fandora",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "BPRO-EN061",
+            "set": "Burst Protocol",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BPRO-JP061",
             "set": "Burst Protocol",
             "rarities": {
                 "Common": []

@@ -1,12 +1,14 @@
 {
     "cid": "ddbcbfca-0f52-47bd-ae45-8eec957fc4a2",
-    "yid": null,
+    "yid": 24882256,
     "password": "24882256",
     "kid": 14855,
     "name": "Fire Phoenix @Ignister",
     "name_jp": "ファイアフェニックス<ruby lang=\"jp\"><rb>＠</rb><rp> (</rp><rt>アット</rt><rp>)</rp></ruby>イグニスター",
     "name_jp_rom": "Faia Fenikkusu Atto Igunisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -46,6 +48,22 @@
             "set": "Ignition Assault",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP046",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "19YJ-JPT01",
+            "set": "@Ignister Duel Set",
+            "rarities": {
+                "Secret Rare": []
             }
         }
     ],
@@ -93,5 +111,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

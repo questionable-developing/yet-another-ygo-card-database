@@ -1,11 +1,14 @@
 {
     "cid": "549461c6-e31b-432e-a1ef-d0b68ed587ff",
+    "yid": 49456901,
     "password": "49456901",
     "kid": 10659,
     "name": "Number C104: Umbral Horror Masquerade",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>カオス</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>１０４ <ruby lang=\"jp\"><rb>仮面魔踏士</rb><rp> (</rp><rt>マスカレード・マジシャン</rt><rp>)</rp></ruby>アンブラル",
     "name_jp_rom": "Kaosu Nanbāzu Hyakuyon Masukarēdo Majishan Anburaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chaos Numbers 104: Masquerade Magician - Umbral",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "4 Level 5 monsters<br />When this card is Special Summoned: You can target 1 Spell/Trap Card on the field; destroy that target. If this card has \"Number 104: Masquerade\" as an Xyz material, it gains this effect.<br />● Once per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the Graveyard, and if you do, halve your opponent's Life Points.",
+    "desc": "4 Level 5 monsters<br />When this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If this card has \"Number 104: Masquerade\" as material, it gains this effect.<br />● Once per turn, when a monster effect is activated on your opponent's field (Quick Effect): You can detach 1 material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
     "pend_eff": null,
-    "mnst_eff": "4 Level 5 monsters\nWhen this card is Special Summoned: You can target 1 Spell/Trap Card on the field; destroy that target. If this card has \"Number 104: Masquerade\" as an Xyz material, it gains this effect.\n● Once per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the Graveyard, and if you do, halve your opponent's Life Points.",
-    "eff": "4 Level 5 monsters\nWhen this card is Special Summoned: You can target 1 Spell/Trap Card on the field; destroy that target. If this card has \"Number 104: Masquerade\" as an Xyz material, it gains this effect.\n● Once per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the Graveyard, and if you do, halve your opponent's Life Points.",
+    "mnst_eff": "4 Level 5 monsters\nWhen this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If this card has \"Number 104: Masquerade\" as material, it gains this effect.\n● Once per turn, when a monster effect is activated on your opponent's field (Quick Effect): You can detach 1 material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
+    "eff": "4 Level 5 monsters\nWhen this card is Special Summoned: You can target 1 Spell/Trap on the field; destroy that target. If this card has \"Number 104: Masquerade\" as material, it gains this effect.\n● Once per turn, when a monster effect is activated on your opponent's field (Quick Effect): You can detach 1 material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "NumberC104UmbralHorrorMasquerade-JOTL-EN-SR-1E.png",
+            "full": "NumberC104UmbralHorrorMasquerade-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -42,6 +45,46 @@
             "rarities": {
                 "Super Rare": [],
                 "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN046",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP056",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP129",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP063",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -94,5 +137,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

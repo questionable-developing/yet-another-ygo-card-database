@@ -1,11 +1,14 @@
 {
     "cid": "61cea436-4221-42c3-bbb5-3ff5fb947c98",
+    "yid": 82828051,
     "password": "82828051",
     "kid": 5983,
     "name": "Earthquake",
     "name_jp": "アースクエイク",
     "name_jp_rom": "Āsukueiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -75,6 +78,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "308-043",
+            "set": "The Sanctuary in the Sky (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP155",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT03-JP041",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +126,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c4fb7a19-9747-42d6-a844-d279ad6ffa8a",
+    "yid": 84271823,
     "password": "84271823",
     "kid": 14299,
     "name": "Puzzlomino, the Drop-n-Deleter",
     "name_jp": "<ruby lang=\"jp\"><rb>落</rb><rp> (</rp><rt>おち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>消</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby>しのパズロミノ",
     "name_jp_rom": "Ochikeshi no Pazuromino",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Drop-and-Erase Puzzlomino",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,6 +44,15 @@
     "sets": [
         {
             "sid": "DANE-EN049",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP049",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

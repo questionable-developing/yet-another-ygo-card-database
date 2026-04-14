@@ -1,12 +1,14 @@
 {
     "cid": "16148865-5fab-4623-9fda-06fff1e94fd7",
-    "yid": null,
+    "yid": 24940422,
     "password": "24940422",
     "kid": 13616,
     "name": "Sekka's Light",
     "name_jp": "<ruby lang=\"jp\"><rb>雪</rb><rp> (</rp><rt>せっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sekka no Hikari",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP062",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,7 +84,7 @@
         "action": [
             "You draw cards",
             "Activates from your Graveyard",
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Returns from your hand to your Deck"
         ],
         "stat_change": [],
@@ -95,5 +106,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

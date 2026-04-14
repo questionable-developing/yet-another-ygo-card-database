@@ -1,11 +1,14 @@
 {
     "cid": "36a9e830-bd2f-414b-8f0a-3dd575f79586",
+    "yid": 45458027,
     "password": "45458027",
     "kid": 9980,
     "name": "Gearspring Spirit",
     "name_jp": "ネジマキシキガミ",
     "name_jp_rom": "Nejimakishikigami",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Clockwork Shikigami",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,17 +32,45 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GearspringSpirit-18TP-JP-C.png",
+            "art": "GearspringSpirit-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GearspringSpirit-HA07-EN-SR-1E.png",
-            "art": null
+            "art": "GearspringSpirit-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA07-EN038",
             "set": "Hidden Arsenal 7: Knight of Stars",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT14-JP008",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "CPZ1-JP017",
+            "set": "Collectors Pack: ZEXAL Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "18TP-JP305",
+            "set": "Tournament Pack 2018 Vol.3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -80,5 +111,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

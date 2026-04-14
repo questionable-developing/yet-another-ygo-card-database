@@ -1,11 +1,14 @@
 {
     "cid": "ec8ded71-bbdd-49c2-ac62-e6da8abdd572",
+    "yid": 80485722,
     "password": "80485722",
     "kid": 10765,
     "name": "Vampire Hunter",
     "name_jp": "ヴァンパイア・キラー",
     "name_jp_rom": "Vanpaia Kirā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vampire Killer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP034",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Cards based on Konami video games"
         ]
-    }
+    },
+    "links": {}
 }

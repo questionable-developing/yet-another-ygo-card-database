@@ -1,11 +1,14 @@
 {
     "cid": "5eef0d7f-4bb8-4eed-aa12-08cf4b0cdf98",
+    "yid": 71278040,
     "password": "71278040",
     "kid": 14987,
     "name": "Parallel eXceed",
     "name_jp": "パラレルエクシード",
     "name_jp_rom": "Parareru Ekushīdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -64,6 +67,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP001",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "23TP-JP101",
+            "set": "Tournament Pack 2023 Vol.1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP101",
+            "set": "Top Prize Pack 2023 Vol.1",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP097",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +143,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "60467fa6-f71e-4170-8b3f-ad1d526a3992",
+    "yid": 58012107,
     "password": "58012107",
     "kid": 6987,
     "name": "Alien Psychic",
     "name_jp": "エーリアン・サイコ",
     "name_jp_rom": "Ērian Saiko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Alien Psycho",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STON-EN031",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP031",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

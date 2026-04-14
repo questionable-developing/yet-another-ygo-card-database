@@ -1,12 +1,14 @@
 {
     "cid": "6d987a52-c684-4649-a95b-1a4dc3856476",
-    "yid": null,
+    "yid": 33622465,
     "password": "33622465",
     "kid": 12024,
     "name": "First-Aid Squad",
     "name_jp": "<ruby lang=\"jp\"><rb>救</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>護</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyūgo Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -43,6 +45,22 @@
         {
             "sid": "MP16-EN161",
             "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP080",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP215",
+            "set": "Tournament Pack 2021 Vol.2",
             "rarities": {
                 "Common": []
             }
@@ -91,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

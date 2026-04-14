@@ -1,11 +1,14 @@
 {
     "cid": "1ff4b24d-e5a6-42b3-9961-36555be36fb4",
+    "yid": 94381039,
     "password": "94381039",
     "kid": 7597,
     "name": "Celestia, Lightsworn Angel",
     "name_jp": "ライトロード・エンジェル ケルビム",
     "name_jp_rom": "Raitorōdo Enjeru Kerubimu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Angel Cherubim",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -91,6 +94,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP024",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP125",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL03",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -125,5 +151,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

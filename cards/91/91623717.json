@@ -1,11 +1,14 @@
 {
     "cid": "31a6f8a5-b8f7-4af1-904d-782233248b03",
+    "yid": 91623717,
     "password": "91623717",
     "kid": 6904,
     "name": "Chain Strike",
     "name_jp": "<ruby lang=\"jp\"><rb>連鎖爆撃</rb><rp> (</rp><rt>チェーン・ストライク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chēn Sutoraiku",
+    "name_jp_rom_base": "Rensa Bakugeki",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Chain Bombing",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP043",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP063",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,5 +86,6 @@
         "misc": [
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "1c3873b7-bf62-48cd-aa8a-cc3b3392afdc",
+    "yid": 98358303,
     "password": "98358303",
     "kid": 9497,
     "name": "Serene Psychic Witch",
     "name_jp": "<ruby lang=\"jp\"><rb>静</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>寂</rb><rp> (</rp><rt>じゃく</rt><rp>)</rp></ruby>のサイコウィッチ",
     "name_jp_rom": "Seijaku no Saiko Witchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serene Psycho Witch",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP026",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25TP-JP106",
+            "set": "Tournament Pack 2025 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +99,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -92,5 +111,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e9789809-0fa6-412f-a570-65874ed77a8d",
-    "yid": null,
+    "yid": 12014404,
     "password": "12014404",
     "kid": 10263,
     "name": "Gagaga Cowboy",
     "name_jp": "ガガガガンマン",
     "name_jp_rom": "Gagaga Ganman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gagaga Gunman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -98,6 +100,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP041",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP037",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP028",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -134,5 +161,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "63615e6a-7643-4401-a6cf-a14eaa587d13",
+    "yid": 66309175,
     "password": "66309175",
     "kid": 17148,
     "name": "Predaplant Ambulomelides",
     "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>アンブロメリドゥス",
     "name_jp_rom": "Puredetā Purantsu Anburomeridusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Plants Ambulomelidus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +49,22 @@
         {
             "sid": "MAMA-EN065",
             "set": "Magnificent Mavens",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP037",
+            "set": "Dimension Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS15",
+            "set": "Blazing Dominion +1 Assist Pack",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -94,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

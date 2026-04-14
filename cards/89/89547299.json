@@ -1,11 +1,14 @@
 {
     "cid": "198e6255-564a-4130-8f44-76a03ac00ee6",
+    "yid": 89547299,
     "password": "89547299",
     "kid": 7889,
     "name": "Power Injector",
     "name_jp": "パワー・インジェクター",
     "name_jp_rom": "Pawā Injekutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CSOC-EN021",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP021",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

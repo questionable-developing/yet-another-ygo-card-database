@@ -1,12 +1,14 @@
 {
     "cid": "79227309-75f9-4f96-81a3-e60a42aa8e4e",
-    "yid": null,
+    "yid": 2347656,
     "password": "02347656",
     "kid": 17360,
     "name": "Lovely Labrynth of the Silver Castle",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>銀</rb><rp> (</rp><rt>がね</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>城</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>のラビュリンス",
     "name_jp_rom": "Shirogane no Shiro no Rabyurinsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Labrynth of the Silver Castle",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -35,8 +37,13 @@
         },
         "2": {
             "idx": "2",
-            "full": "LovelyLabrynthoftheSilverCastle-LPST-JP-OP.png",
+            "full": "LovelyLabrynthoftheSilverCastle-RA05-EN-UR-1E.png",
             "art": null
+        },
+        "3": {
+            "idx": "3",
+            "full": "LovelyLabrynthoftheSilverCastle-LOCR-JP-UR.png",
+            "art": "LovelyLabrynthoftheSilverCastle-OW-2.png"
         },
         "1.1": {
             "idx": "1.1",
@@ -44,29 +51,72 @@
             "art": "LovelyLabrynthoftheSilverCastle-MADU-EN-VG-artwork.png"
         }
     },
-    "image": "1.1",
+    "image": "2",
     "sets": [
         {
             "sid": "TAMA-EN014",
             "set": "Tactical Masters",
             "rarities": {
-                "Ultra Rare": [],
-                "Collector's Rare": []
+                "Ultra Rare": ["1.1"],
+                "Collector's Rare": ["1.1"]
             }
         },
         {
             "sid": "MP23-EN226",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1.1"]
             }
         },
         {
             "sid": "RA04-EN295",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Platinum Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Platinum Secret Rare": ["1.1"],
+                "Quarter Century Secret Rare": ["1.1"]
+            }
+        },
+        {
+            "sid": "RA05-EN099",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2.1"],
+                "Starlight Rare": ["2.1"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP014",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "AW01-JP009",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP017",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
+            }
+        },
+        {
+            "sid": "LOCR-JP031",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
             }
         }
     ],
@@ -113,5 +163,6 @@
             "Requires control of specific Type",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "cfecdd67-9959-4c57-9e71-92538b3f68a5",
+    "yid": 48605591,
     "password": "48605591",
     "kid": 12802,
     "name": "Terminal World NEXT",
     "name_jp": "<ruby lang=\"jp\"><rb>端末世界</rb><rp> (</rp><rt>ターミナルワールド</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>ＮＥＸＴ</rb><rp> (</rp><rt>ネクスト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tāminaru Wārudo Nekusuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP067",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Requires control of no cards"
         ]
-    }
+    },
+    "links": {}
 }

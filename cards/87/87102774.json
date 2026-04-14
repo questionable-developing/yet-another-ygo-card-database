@@ -1,11 +1,14 @@
 {
     "cid": "3b2d5935-f4e9-4678-9f41-d4a672bbeada",
+    "yid": 87102774,
     "password": "87102774",
     "kid": 7609,
     "name": "Golden Ladybug",
     "name_jp": "<ruby lang=\"jp\"><rb>黄金の天道虫</rb><rp> (</rp><rt>ゴールデン・レディバグ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōruden Redibagu",
+    "name_jp_rom_base": "Ōgon no Tentōmushi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP036",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT06-JP003",
+            "set": "Duel Terminal - Dragunity of the Hurricane!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP134",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +113,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

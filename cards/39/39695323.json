@@ -1,11 +1,14 @@
 {
     "cid": "c3cba7b5-028d-4420-941f-2e9e08dd927f",
+    "yid": 39695323,
     "password": "39695323",
     "kid": 9878,
     "name": "Gogogo Giant",
     "name_jp": "ゴゴゴジャイアント",
     "name_jp_rom": "Gogogo Jaianto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -72,6 +75,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP004",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "ST12-JP007",
+            "set": "Starter Deck 2012",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP14-JP002",
+            "set": "Duelist Pack: Yuma 2: Gogogo & Dododo",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP23-JP041",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +139,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

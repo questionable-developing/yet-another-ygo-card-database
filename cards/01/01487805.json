@@ -1,12 +1,14 @@
 {
     "cid": "ade39932-076e-45d4-a430-c720d348e801",
-    "yid": null,
+    "yid": 1487805,
     "password": "01487805",
     "kid": 16236,
     "name": "Cosmic Slicer Zer'oll",
     "name_jp": "<ruby lang=\"jp\"><rb>宇</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宙</rb><rp> (</rp><rt>ら</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鋏</rb><rp> (</rp><rt>ばさみ</rt><rp>)</rp></ruby>ゼロオル",
     "name_jp_rom": "Sorabasami Zero'oru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cosmic Pincer Zer'oll",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -46,6 +48,15 @@
             "set": "Dawn of Majesty",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP047",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

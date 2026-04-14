@@ -1,11 +1,14 @@
 {
     "cid": "7e648760-4ba9-4bc4-b5fe-679f0b12351c",
+    "yid": 45379225,
     "password": "45379225",
     "kid": 7900,
     "name": "Psychic Lifetrancer",
     "name_jp": "サイコ・ヘルストランサー",
     "name_jp_rom": "Saiko Herusutoransā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Health Trancer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -49,6 +52,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP041",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP051",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

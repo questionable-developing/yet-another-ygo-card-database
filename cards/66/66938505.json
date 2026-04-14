@@ -1,11 +1,14 @@
 {
     "cid": "5fb2eda2-ddba-4dfd-959e-e417dfb4c403",
+    "yid": 66938505,
     "password": "66938505",
     "kid": 12755,
     "name": "Crystron Rion",
     "name_jp": "<ruby lang=\"jp\"><rb>水晶機巧</rb><rp> (</rp><rt>クリストロン</rt><rp>)</rp></ruby>－リオン",
-    "name_jp_rom": "Kurisutoron Rion",
+    "name_jp_rom": "Kurisutoron - Rion",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP020",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,7 +101,7 @@
             "Negates the effects of the Summoned monsters"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Performs a Synchro Summon",
             "Special Summons from your Extra Deck"
         ],
@@ -101,5 +113,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

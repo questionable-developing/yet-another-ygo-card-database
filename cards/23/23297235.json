@@ -1,12 +1,14 @@
 {
     "cid": "5ab0d03c-2562-489b-80e2-0954bc1fcc3c",
-    "yid": null,
+    "yid": 23297235,
     "password": "23297235",
     "kid": 8328,
     "name": "Flamvell Firedog",
     "name_jp": "フレムベル・ヘルドッグ",
     "name_jp_rom": "Furemuberu Herudoggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flamvell Helldog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -72,6 +74,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP037",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP018",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD24-JP009",
+            "set": "Structure Deck: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD35-JP014",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +137,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

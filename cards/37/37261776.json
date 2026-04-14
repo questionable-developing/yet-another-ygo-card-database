@@ -1,11 +1,14 @@
 {
     "cid": "80539c66-7ab8-4741-b93f-48589014632b",
+    "yid": 37261776,
     "password": "37261776",
     "kid": 14111,
     "name": "Salamangreat Violet Chimera",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>ヴァイオレットキマイラ",
     "name_jp_rom": "Saramangureito Vaioretto Kimaira",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Salamangreat Violet Chimaera",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +61,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP034",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "19SP-JP505",
+            "set": "Special Pack 20th Anniversary Edition Vol.5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP317",
+            "set": "Tournament Pack 2023 Vol.3",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +130,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

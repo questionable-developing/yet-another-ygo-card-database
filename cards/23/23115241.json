@@ -1,12 +1,14 @@
 {
     "cid": "0c32b221-8041-4889-9295-78eff927a749",
-    "yid": null,
+    "yid": 23115241,
     "password": "23115241",
     "kid": 7821,
     "name": "X-Saber Anu Piranha",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>－セイバー アナペレラ",
     "name_jp_rom": "Ekkusu Seibā Anaperera",
+    "name_jp_rom_base": null,
     "name_jp_tl": "X-Saber Anaperera",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -29,17 +31,59 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "XSaberAnuPiranha-TW03-JP-NPR.png",
+            "art": "XSaberAnuPiranha-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "XSaberAnuPiranha-DT01-EN-DNPR-DT.png",
-            "art": null
+            "art": "XSaberAnuPiranha-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "5DS2-EN004",
             "set": "Starter Deck: Yu-Gi-Oh! 5D's 2009",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT02-JP023",
+            "set": "Duel Terminal - Invasion of Worms!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "YSD4-JP004",
+            "set": "Starter Deck 2009",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DB12-JP002",
+            "set": "Duelist Box 2012",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DTC1-JP041",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP006",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -67,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

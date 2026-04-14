@@ -1,11 +1,14 @@
 {
     "cid": "77bcc881-d01c-4b23-872e-b540be9050d0",
+    "yid": 73887236,
     "password": "73887236",
     "kid": 11570,
     "name": "Raidraptor - Rise Falcon",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＲ</rb><rp> (</rp><rt>レイド・ラプターズ</rt><rp>)</rp></ruby>－ライズ・ファルコン",
     "name_jp_rom": "Reido Raputāzu - Raizu Farukon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raid Raptors - Rise Falcon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +62,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP050",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBLE-JP028",
+            "set": "Dimension Box Limited Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

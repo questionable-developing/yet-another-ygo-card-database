@@ -1,11 +1,14 @@
 {
     "cid": "3cd550ae-64a1-4661-a0a2-3e95cf782dca",
+    "yid": 43857222,
     "password": "43857222",
     "kid": 14485,
     "name": "Magicalibra",
     "name_jp": "ライブラの<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>秤</rb><rp> (</rp><rt>びん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raibura no Mahōbin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magical Scales of Libra",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -45,6 +48,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP037",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like"
@@ -75,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

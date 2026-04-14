@@ -1,11 +1,14 @@
 {
     "cid": "5abe817c-5de4-4766-8af5-58c09c72dc35",
+    "yid": 90374791,
     "password": "90374791",
     "kid": 6524,
     "name": "Armed Changer",
     "name_jp": "アームド・チェンジャー",
     "name_jp_rom": "Āmudo Chenjā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP045",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP2-JP023",
+            "set": "Duelist Pack: Chazz Princeton",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP105",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

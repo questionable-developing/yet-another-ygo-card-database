@@ -1,12 +1,14 @@
 {
     "cid": "9e07e86f-263a-4d60-9436-b1da3bb17dc2",
-    "yid": null,
+    "yid": 24094258,
     "password": "24094258",
     "kid": 13507,
     "name": "Heavymetalfoes Electrumite",
     "name_jp": "ヘビーメタルフォーゼ・エレクトラム",
     "name_jp_rom": "Hebīmetarufōze Erekutoramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heavymetalphosis Electrum",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -63,6 +65,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP086",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DBTM-JP040",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP190",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +134,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

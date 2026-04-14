@@ -1,11 +1,14 @@
 {
     "cid": "0a0e3474-5ef2-4320-a975-7f207e0c2f1f",
+    "yid": 39823987,
     "password": "39823987",
     "kid": 8653,
     "name": "Sun Dragon Inti",
     "name_jp": "<ruby lang=\"jp\"><rb>太</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>インティ",
     "name_jp_rom": "Taiyōryū Inti",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -66,6 +69,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP042",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP110",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP032",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +137,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

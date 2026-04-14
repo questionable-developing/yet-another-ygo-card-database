@@ -1,12 +1,14 @@
 {
     "cid": "00f7ddba-fed0-402a-9b33-cb16762a5ca5",
-    "yid": null,
+    "yid": 8875971,
     "password": "08875971",
     "kid": 10612,
     "name": "Star Seraph Scout",
     "name_jp": "<ruby lang=\"jp\"><rb>光天使</rb><rp> (</rp><rt>ホーリー・ライトニング</rt><rp>)</rp></ruby>ウィングス",
     "name_jp_rom": "Hōrī Raitoningu Wingusu",
+    "name_jp_rom_base": "Kōtenshi Wingusu",
     "name_jp_tl": "Holy Lightning Wings",
+    "name_jp_tl_base": "Light Angel Wings",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP009",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

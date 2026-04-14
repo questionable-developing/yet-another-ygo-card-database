@@ -1,12 +1,14 @@
 {
     "cid": "63f63b3b-223d-49a3-8196-d1a1100c4f02",
-    "yid": null,
+    "yid": 35595518,
     "password": "35595518",
     "kid": 13032,
     "name": "Linkslayer",
     "name_jp": "リンクスレイヤー",
     "name_jp_rom": "Rinkusureiyā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ST17-JP004",
+            "set": "Starter Deck 2017",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "ST18-JP008",
+            "set": "Starter Deck 2018",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST19-JP013",
+            "set": "Starter Deck 2019",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24EP-JP204",
+            "set": "Event Pack 2024 Vol.2",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +127,6 @@
             "Requires control of no monsters",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

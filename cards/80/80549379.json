@@ -1,11 +1,14 @@
 {
     "cid": "e5a0b3fa-2ac7-4751-8971-40739fe5f66f",
+    "yid": 80549379,
     "password": "80549379",
     "kid": 8562,
     "name": "Dragunity Javelin",
     "name_jp": "ドラグニティ－ジャベリン",
     "name_jp_rom": "Doraguniti - Jaberin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -59,6 +62,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT07-JP024",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD19-JP011",
+            "set": "Structure Deck: Dragunity Drive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DTC3-JP014",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +119,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

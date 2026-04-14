@@ -1,12 +1,14 @@
 {
     "cid": "fe26a860-c634-4d66-8193-8b1fdc21cfbe",
-    "yid": null,
+    "yid": 11221418,
     "password": "11221418",
     "kid": 11104,
     "name": "Bujincident",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隠</rb><rp> (</rp><rt>がくれ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bujin Gakure",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujin Disappearance",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP075",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +91,7 @@
             "Prevents your opponent's Normal Summons",
             "Prevents your opponent's Flip Summons",
             "Prevents your opponent's Special Summons",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -95,5 +106,6 @@
         "misc": [
             "Turn limited effects"
         ]
-    }
+    },
+    "links": {}
 }

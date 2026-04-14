@@ -1,12 +1,14 @@
 {
     "cid": "33e3d5d4-87f0-4866-9eba-55d8ced5c3ed",
-    "yid": null,
+    "yid": 35645105,
     "password": "35645105",
     "kid": 14391,
     "name": "Infinitrack Harvester",
     "name_jp": "<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>限</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>起</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>動</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby>ハーヴェスター",
     "name_jp_rom": "Mugenkidō Hāvesutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Infinite Ignition Harvester",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "InfinitrackHarvester-MP20-EN-UR-1E.png",
+            "full": "InfinitrackHarvester-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -48,6 +50,29 @@
             "set": "2020 Tin of Lost Memories",
             "rarities": {
                 "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN014",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP001",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -91,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

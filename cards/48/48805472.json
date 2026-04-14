@@ -1,11 +1,14 @@
 {
     "cid": "71bc50f7-b735-4487-a5af-e340e2b600e3",
+    "yid": 48805472,
     "password": "48805472",
     "kid": 18311,
     "name": "Traptantalizing Tune",
     "name_jp": "<ruby lang=\"jp\"><rb>蟲</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>惑</rb><rp> (</rp><rt>わく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>誘</rb><rp> (</rp><rt>いざな</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Kowaku no Izanai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tantalizing Allure",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD45-JP024",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TDS2-JP024",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

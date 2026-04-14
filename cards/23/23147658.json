@@ -1,12 +1,14 @@
 {
     "cid": "bad9e414-d175-4a21-b879-3d9d7f3c8418",
-    "yid": null,
+    "yid": 23147658,
     "password": "23147658",
     "kid": 15365,
     "name": "Weathering Soldier",
     "name_jp": "<ruby lang=\"jp\"><rb>風化戦士</rb><rp> (</rp><rt>ウェザリングソルジャー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Wezaringu Sorujā",
+    "name_jp_rom_base": "Fūka Senshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP20-JP005",
+            "set": "Collection Pack 2020",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

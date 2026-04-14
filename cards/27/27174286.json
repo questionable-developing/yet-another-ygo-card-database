@@ -1,12 +1,14 @@
 {
     "cid": "8a5a39e7-e0d8-4a35-bada-99297c336d3e",
-    "yid": null,
+    "yid": 27174286,
     "password": "27174286",
     "kid": 6078,
     "name": "Return from the Different Dimension",
     "name_jp": "<ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>次</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>元</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>からの<ruby lang=\"jp\"><rb>帰</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>還</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ijigen kara no Kikan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -77,6 +79,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP7-JP008",
+            "set": "Premium Pack 7",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP01-JP012",
+            "set": "Tournament Pack 2007 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD14-JP031",
+            "set": "Structure Deck: Advent of the Emperor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD20-JP034",
+            "set": "Structure Deck: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS13-JPD37",
+            "set": "Duelist Set: Version Dark Returner",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,7 +135,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -109,5 +148,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

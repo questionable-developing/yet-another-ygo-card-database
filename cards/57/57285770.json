@@ -1,11 +1,14 @@
 {
     "cid": "87340b3c-95b3-48ee-b8c2-addc1f69825e",
+    "yid": 57285770,
     "password": "57285770",
     "kid": 17166,
     "name": "Therion Charge",
     "name_jp": "セリオンズ・チャージ",
     "name_jp_rom": "Serionzu Chāji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Therions' Charge",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,22 @@
         {
             "sid": "MP23-EN093",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP055",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP116",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -85,5 +104,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

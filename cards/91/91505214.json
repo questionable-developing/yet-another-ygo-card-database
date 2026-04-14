@@ -1,11 +1,14 @@
 {
     "cid": "7b4d7935-05aa-436b-b403-01dce80906cc",
+    "yid": 91505214,
     "password": "91505214",
     "kid": 13220,
     "name": "Trickstar Narkissus",
     "name_jp": "トリックスター・ナルキッス",
     "name_jp_rom": "Torikkusutā Narukissu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Trickstar Narkiss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +68,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP004",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

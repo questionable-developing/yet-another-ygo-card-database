@@ -1,11 +1,14 @@
 {
     "cid": "0a956b09-b1be-4a7a-9ed4-17bab32c7908",
+    "yid": 71564150,
     "password": "71564150",
     "kid": 9650,
     "name": "Perditious Puppeteer",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>傀</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>儡</rb><rp> (</rp><rt>ぐつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
-    "name_jp_rom": "Jigoku no Kugutsu Majin",
+    "name_jp_rom": "Jigoku no Kugutsumajin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Puppet Djinn of Hell",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "GENF-EN033",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP033",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

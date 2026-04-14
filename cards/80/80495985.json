@@ -1,11 +1,14 @@
 {
     "cid": "8326cdea-3809-4961-8abc-c13b0f0f28a6",
+    "yid": 80495985,
     "password": "80495985",
     "kid": 9864,
     "name": "Photon Sabre Tiger",
     "name_jp": "フォトン・サーベルタイガー",
     "name_jp_rom": "Foton Sāberu Taigā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP12-JP022",
+            "set": "Extra Pack 2012",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

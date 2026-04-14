@@ -1,12 +1,14 @@
 {
     "cid": "a1662a6c-23fa-4137-9e54-bbf8b464636d",
-    "yid": null,
+    "yid": 7084129,
     "password": "07084129",
     "kid": 12418,
     "name": "Magician's Rod",
     "name_jp": "マジシャンズ・ロッド",
     "name_jp_rom": "Majishanzu Roddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -72,6 +74,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP019",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP23-JP008",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP003",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP009",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +142,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

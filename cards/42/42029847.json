@@ -1,11 +1,14 @@
 {
     "cid": "5ab75700-f825-4686-b631-a732f0f99196",
+    "yid": 42029847,
     "password": "42029847",
     "kid": 11337,
     "name": "Serenade the Melodious Diva",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>奏</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>音</rb><rp> (</rp><rt>おと</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby>セレナ",
     "name_jp_rom": "Gensō no Otome Serena",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Serena the Melodious Diva",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP005",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

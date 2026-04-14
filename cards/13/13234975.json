@@ -1,12 +1,14 @@
 {
     "cid": "f7c2abd6-65d1-42ba-80a7-575d6bcb2ec1",
-    "yid": null,
+    "yid": 13234975,
     "password": "13234975",
     "kid": 16945,
     "name": "Beetrooper Landing",
     "name_jp": "<ruby lang=\"jp\"><rb>騎甲虫隊上陸態勢</rb><rp> (</rp><rt>ビートルーパー・ランディング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Bītorūpā Randingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP22-EN241",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP3-JP012",
+            "set": "World Premiere Pack 2022",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

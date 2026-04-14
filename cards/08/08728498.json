@@ -1,12 +1,14 @@
 {
     "cid": "f206f8ad-baed-4eb8-8dce-e204856a901e",
-    "yid": null,
+    "yid": 8728498,
     "password": "08728498",
     "kid": 17804,
     "name": "Donner, Dagger Fur Hire",
     "name_jp": "<ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>懐</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby> ドナ",
     "name_jp_rom": "Kūgadan no Kaiken Dona",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dona, Dagger of the Skyfang Brigade",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -34,11 +36,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "DonnerDaggerFurHire-25DB-JP-SR.png",
+            "art": "DonnerDaggerFurHire-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "DonnerDaggerFurHire-MP23-EN-R-1E.png",
-            "art": null
+            "art": "DonnerDaggerFurHire-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "DABL-EN049",
@@ -52,6 +59,33 @@
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP049",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP050",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "25DB-JP047",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -97,5 +131,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

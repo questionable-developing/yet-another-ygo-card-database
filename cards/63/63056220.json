@@ -1,11 +1,14 @@
 {
     "cid": "d0c6ca7d-4530-4fe4-97f8-72a62b41add3",
+    "yid": 63056220,
     "password": "63056220",
     "kid": 14844,
     "name": "Megalith Ophiel",
     "name_jp": "メガリス・オフィエル",
     "name_jp_rom": "Megarisu Ofieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP035",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP206",
+            "set": "Tournament Pack 2025 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

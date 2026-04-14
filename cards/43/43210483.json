@@ -1,11 +1,14 @@
 {
     "cid": "d5cf321a-d803-483f-974e-4cb04f57eb03",
+    "yid": 43210483,
     "password": "43210483",
     "kid": 17132,
     "name": "Symphonic Warrior Guitariss",
     "name_jp": "<ruby lang=\"jp\"><rb>音響戦士</rb><rp> (</rp><rt>サウンドウォリアー</rt><rp>)</rp></ruby>ギタリス",
     "name_jp_rom": "Saundo Woriā Gitarisu",
+    "name_jp_rom_base": "Onkyō Senshi Gitarisu",
     "name_jp_tl": "Sound Warrior Guitaris",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -39,6 +42,15 @@
     "sets": [
         {
             "sid": "DIFO-EN020",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP020",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -89,5 +101,6 @@
             "Only once per turn",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

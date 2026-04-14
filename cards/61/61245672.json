@@ -1,11 +1,14 @@
 {
     "cid": "014897a2-b3c9-4027-b22d-fa568da3c10d",
+    "yid": 61245672,
     "password": "61245672",
     "kid": 14962,
     "name": "Decode Talker Heatsoul",
     "name_jp": "デコード・トーカー・ヒートソウル",
     "name_jp_rom": "Dekōdo Tōkā Hītosouru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -61,6 +64,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LGB1-JP041",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP049",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA32",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +140,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

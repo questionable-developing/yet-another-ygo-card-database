@@ -1,12 +1,14 @@
 {
     "cid": "d810ff0e-a092-4eba-a153-2f864ff208e9",
-    "yid": null,
+    "yid": 27822206,
     "password": "27822206",
     "kid": 19514,
     "name": "Ages of Stars and Frost",
     "name_jp": "<ruby lang=\"jp\"><rb>幾</rb><rp> (</rp><rt>いく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霜</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ikuseisō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP059",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

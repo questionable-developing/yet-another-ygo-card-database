@@ -1,11 +1,14 @@
 {
     "cid": "585ae067-ee95-461e-9ffe-bae2c903935d",
+    "yid": 78574395,
     "password": "78574395",
     "kid": 11387,
     "name": "Wonder Balloons",
     "name_jp": "ワンダー・バルーン",
     "name_jp_rom": "Wandā Barūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wonder Balloon",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +72,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP055",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP18-JP049",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +120,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "e7464daa-9bee-4926-aa1a-329edc5adf0b",
+    "yid": 51132012,
     "password": "51132012",
     "kid": 20763,
     "name": "Grand Knight of the Red Lotus",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>紅</rb><rp> (</rp><rt>ぐ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蓮</rb><rp> (</rp><rt>れん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>闘</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daigurenmatōshi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Grand Demon Fighter of the Red Lotus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SUDA-EN024",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP024",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -88,5 +100,6 @@
             "Special Summon Monster",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

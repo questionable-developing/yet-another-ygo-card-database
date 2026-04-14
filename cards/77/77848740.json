@@ -1,11 +1,14 @@
 {
     "cid": "39b0f8f5-c093-4509-bef5-bd921834471c",
+    "yid": 77848740,
     "password": "77848740",
     "kid": 14100,
     "name": "Madolche Petingcessoeur",
     "name_jp": "マドルチェ・プティンセスール",
     "name_jp_rom": "Madoruche Putinsesūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP023",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP150",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +124,6 @@
             "Only once per turn",
             "Requires having no monsters in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "08c44479-05a9-4277-91f4-4ffdaf427a91",
+    "yid": 55034079,
     "password": "55034079",
     "kid": 13786,
     "name": "Link Turret",
     "name_jp": "リンク・デス・ターレット",
     "name_jp_rom": "Rinku Desu Tāretto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Link Death Turret",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP070",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD36-JP036",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

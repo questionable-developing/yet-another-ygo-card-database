@@ -1,11 +1,14 @@
 {
     "cid": "b9d735ab-9005-41c2-9db2-286ef5d85db5",
+    "yid": 41232647,
     "password": "41232647",
     "kid": 14765,
     "name": "House Dragonmaid",
     "name_jp": "ドラゴンメイド・ハスキー",
     "name_jp_rom": "Doragonmeido Hasukī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragonmaid Hoskee",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -76,6 +79,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP022",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP065",
+            "set": "Selection 5",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP012",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP065",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +159,6 @@
             "Cover card",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

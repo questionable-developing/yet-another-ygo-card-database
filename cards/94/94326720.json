@@ -1,11 +1,14 @@
 {
     "cid": "ac8d6c48-ddba-44a1-9239-455bcd2d34e3",
+    "yid": 94326720,
     "password": "94326720",
     "kid": 21825,
     "name": "Theorealize Overdrive",
     "name_jp": "<ruby lang=\"jp\"><rb>破滅なる予幻視</rb><rp> (</rp><rt>テオリアライズ・オーバードライブ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Teoriaraizu Ōbādoraibu",
+    "name_jp_rom_base": "Hametsunaru Yogenshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Destructive Prophetic Vision",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP059",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -50,7 +62,9 @@
         ],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Theorealize (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [
@@ -68,7 +82,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -80,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

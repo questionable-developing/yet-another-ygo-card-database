@@ -1,12 +1,14 @@
 {
     "cid": "ae215231-42b4-4454-9e5b-25a4a36d8b3b",
-    "yid": null,
+    "yid": 6374519,
     "password": "06374519",
     "kid": 16018,
     "name": "Amazement Special Show",
     "name_jp": "アメイズメント・スペシャルショー",
     "name_jp_rom": "Ameizumento Supesharu Shō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "LIOV-EN057",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP057",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -73,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

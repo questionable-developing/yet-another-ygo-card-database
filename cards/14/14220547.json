@@ -1,12 +1,14 @@
 {
     "cid": "4b5076f3-95cd-4ecb-a83b-55e855040c94",
-    "yid": null,
+    "yid": 14220547,
     "password": "14220547",
     "kid": 17460,
     "name": "Branded in Central Dogmatika",
     "name_jp": "<ruby lang=\"jp\"><rb>烙</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>命数</rb><rp> (</rp><rt>セントラル・ドラグマ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rakuin no Sentoraru Doraguma",
+    "name_jp_rom_base": "Rakuin no Meisū",
     "name_jp_tl": "Branded Central Dragma",
+    "name_jp_tl_base": "Branded Fate",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP058",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP134",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +114,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

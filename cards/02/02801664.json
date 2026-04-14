@@ -1,12 +1,14 @@
 {
     "cid": "965f0e8b-13a1-41f4-b880-f65396f6fb13",
-    "yid": null,
+    "yid": 2801664,
     "password": "02801664",
     "kid": 14822,
     "name": "Ancient Warriors - Valiant Zhang De",
     "name_jp": "<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>華</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>雄</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>張</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>徳</rb><rp> (</rp><rt>とく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Senka no Yū - Chōtoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Valiant of the Warring Flower - Zhang De",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "IGAS-EN013",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP013",
             "set": "Ignition Assault",
             "rarities": {
                 "Rare": []
@@ -81,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "983a9efa-b081-4280-8810-84017a7e8fcd",
+    "yid": 95194279,
     "password": "95194279",
     "kid": 5848,
     "name": "Dimension Distortion",
     "name_jp": "<ruby lang=\"jp\"><rb>次</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>元</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>歪</rb><rp> (</rp><rt>ひず</rt><rp>)</rp></ruby>み",
     "name_jp_rom": "Jigen no Hizumi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "306-044",
+            "set": "Controller of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP044",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD14-JP023",
+            "set": "Structure Deck: Advent of the Emperor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +97,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -82,5 +108,6 @@
         "misc": [
             "Requires having no cards in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

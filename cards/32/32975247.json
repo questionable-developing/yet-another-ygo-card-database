@@ -1,12 +1,14 @@
 {
     "cid": "5fecde05-d041-40c3-bb6b-90931d94d924",
-    "yid": null,
+    "yid": 32975247,
     "password": "32975247",
     "kid": 17138,
     "name": "Divine Dragon Titanomakhia",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> ティタノマキア",
     "name_jp_rom": "Shinryū Titanomakia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "DIFO-EN027",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP027",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -88,5 +99,6 @@
             "Only once per turn",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

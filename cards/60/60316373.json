@@ -1,11 +1,14 @@
 {
     "cid": "92219d2f-7f0e-497e-9e8b-a9d72095e048",
+    "yid": 60316373,
     "password": "60316373",
     "kid": 10234,
     "name": "Heraldic Beast Aberconway",
     "name_jp": "<ruby lang=\"jp\"><rb>紋</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>章</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>アバコーンウェイ",
     "name_jp_rom": "Monshōjū Abakōn'wei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP012",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

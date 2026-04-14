@@ -1,12 +1,14 @@
 {
     "cid": "3359e80f-a395-40cd-adfa-0a89c1c87d39",
-    "yid": null,
+    "yid": 7152333,
     "password": "07152333",
     "kid": 10615,
     "name": "Umbral Horror Ghoul",
     "name_jp": "アンブラル・グール",
     "name_jp_rom": "Anburaru Gūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Umbral Ghoul",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP012",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

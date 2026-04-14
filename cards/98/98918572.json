@@ -1,11 +1,14 @@
 {
     "cid": "f4cc7e9a-cd32-4d67-965e-71fb088d4156",
+    "yid": 98918572,
     "password": "98918572",
     "kid": 12985,
     "name": "Zoodiac Gathering",
     "name_jp": "<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>しし</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剋</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jūnishishi no Sōkoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antithesis of the Twelve Zodiac Beasts",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "MACR-EN071",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP071",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

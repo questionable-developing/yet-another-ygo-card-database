@@ -1,11 +1,14 @@
 {
     "cid": "23ec7e85-b8d8-4411-b4de-c1dccf89f055",
+    "yid": 91420202,
     "password": "91420202",
     "kid": 14050,
     "name": "Avendread Savior",
     "name_jp": "アドヴェンデット・セイヴァー",
     "name_jp_rom": "Adovendetto Seivā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Advendead Savior",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -33,11 +36,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "AvendreadSavior-SUB1-JP-NPR.png",
+            "art": "AvendreadSavior-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "AvendreadSavior-BLCR-EN-UR-1E.png",
-            "art": null
+            "art": "AvendreadSavior-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "BLHR-EN045",
@@ -51,6 +59,22 @@
             "set": "Battles of Legend: Crystal Revenge",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP18-JP001",
+            "set": "Extra Pack 2018",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP052",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -98,5 +122,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

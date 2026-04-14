@@ -1,11 +1,14 @@
 {
     "cid": "548951b8-ea67-4fa5-b413-28b85f4dab87",
+    "yid": 38572779,
     "password": "38572779",
     "kid": 12763,
     "name": "Miscellaneousaurus",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>創</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>のミセラサウルス",
     "name_jp_rom": "Gensō no Miserasaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Phantom Miscellasaurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -84,6 +87,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP028",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR04-JP014",
+            "set": "Structure Deck R: Tyranno's Rage",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBWS-JP011",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "23YJ-JPT01",
+            "set": "Transcendosaurus Duel Set",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,5 +158,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

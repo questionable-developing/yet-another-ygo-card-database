@@ -1,12 +1,14 @@
 {
     "cid": "c7367724-ac9b-4f50-9d2d-830ccb451a7a",
-    "yid": null,
+    "yid": 5329790,
     "password": "05329790",
     "kid": 14665,
     "name": "Protocol Gardna",
     "name_jp": "プロトコル・ガードナー",
     "name_jp_rom": "Purotokoru Gādonā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Protocol Guardner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP038",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

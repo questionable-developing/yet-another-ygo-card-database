@@ -1,11 +1,14 @@
 {
     "cid": "7ebe5e1f-9440-4cb2-8b11-8b03c947addc",
+    "yid": 63612442,
     "password": "63612442",
     "kid": 9444,
     "name": "X-Saber Souza",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>－セイバー ソウザ",
     "name_jp_rom": "Ekkusu-Seibā Souza",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters<br />You can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.<br />● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.<br />● This card cannot be destroyed by Trap effects.",
+    "desc": "1 Tuner + 1+ non-Tuner \"X-Saber\" monsters<br />You can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.<br />● At the start of the Damage Step, if this card battles a monster: Destroy that monster.<br />● Cannot be destroyed by Trap effects.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
-    "eff": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.\n● This card cannot be destroyed by Trap effects.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles a monster: Destroy that monster.\n● Cannot be destroyed by Trap effects.",
+    "eff": "1 Tuner + 1+ non-Tuner \"X-Saber\" monsters\nYou can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.\n● At the start of the Damage Step, if this card battles a monster: Destroy that monster.\n● Cannot be destroyed by Trap effects.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XSaberSouza-SP15-EN-C-1E.png",
+            "full": "XSaberSouza-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -49,6 +52,30 @@
             "rarities": {
                 "Common": [],
                 "Shatterfoil Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENX37",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VE04-JP005",
+            "set": "V Jump Edition 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SPRG-JP023",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -92,5 +119,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

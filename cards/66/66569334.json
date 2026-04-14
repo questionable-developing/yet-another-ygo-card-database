@@ -1,11 +1,14 @@
 {
     "cid": "886b93ec-2add-4de2-8a12-76f3c468bb63",
+    "yid": 66569334,
     "password": "66569334",
     "kid": 17440,
     "name": "Nightmell the Dark Bonder",
     "name_jp": "<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>醒</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ナイトメルト",
     "name_jp_rom": "Akuseishi Naitomeruto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Nightmelt the Evil Awakener",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP038",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

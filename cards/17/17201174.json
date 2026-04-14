@@ -1,12 +1,14 @@
 {
     "cid": "64b9a4ac-cd55-4d08-b119-205c2f423fe5",
-    "yid": null,
+    "yid": 17201174,
     "password": "17201174",
     "kid": 10031,
     "name": "Hammer Shark",
     "name_jp": "ハンマー・シャーク",
     "name_jp_rom": "Hanmā Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP008",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP15-JP007",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

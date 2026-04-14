@@ -1,11 +1,14 @@
 {
     "cid": "b08065da-5ae5-4c15-928d-c84fc0fc179d",
+    "yid": 68084557,
     "password": "68084557",
     "kid": 10451,
     "name": "Power Tool Mecha Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby> パワー・ツール",
     "name_jp_rom": "Kikairyū Pawā Tsūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machine Dragon - Power Tool",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP15-JP005",
+            "set": "Premium Pack 15",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP27-JP015",
+            "set": "Duelist Pack: Duelists of Pyroxene",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

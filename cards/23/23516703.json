@@ -1,12 +1,14 @@
 {
     "cid": "0576d711-0515-4da1-b902-efdf8a2f2dbd",
-    "yid": null,
+    "yid": 23516703,
     "password": "23516703",
     "kid": 7652,
     "name": "Summon Limit",
     "name_jp": "サモンリミッター",
     "name_jp_rom": "Samon Rimittā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Summon Limiter",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -82,6 +84,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP079",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP157",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS13-JPD38",
+            "set": "Duelist Set: Version Dark Returner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "RC04-JP071",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +151,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

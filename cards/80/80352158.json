@@ -1,11 +1,14 @@
 {
     "cid": "7dc0fc8c-41fb-47b6-a69c-55cff7f7ae20",
+    "yid": 80352158,
     "password": "80352158",
     "kid": 12568,
     "name": "Magnet Reverse",
     "name_jp": "マグネット・リバース",
     "name_jp_rom": "Magunetto Ribāsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP17-JP005",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP028",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,7 +98,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -87,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

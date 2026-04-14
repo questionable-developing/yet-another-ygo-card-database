@@ -1,12 +1,14 @@
 {
     "cid": "72295481-c796-4d3c-b5b3-5e2260fec074",
-    "yid": null,
+    "yid": 21830679,
     "password": "21830679",
     "kid": 13888,
     "name": "Clock Wyvern",
     "name_jp": "クロック・ワイバーン",
     "name_jp_rom": "Kurokku Waibān",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP001",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

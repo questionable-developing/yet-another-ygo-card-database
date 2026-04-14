@@ -1,11 +1,14 @@
 {
     "cid": "bedfb5ad-450a-425a-ab7b-fe333f41d335",
+    "yid": 99176254,
     "password": "99176254",
     "kid": 20297,
     "name": "Maiden of Blue Tears",
     "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>あお</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>涙</rb><rp> (</rp><rt>なみだ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>乙女</rb><rp> (</rp><rt>おとめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Aoi Namida no Otome",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "MZTM-EN031",
             "set": "Maze of the Master",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP042",
+            "set": "Duelist Pack: Duelists of Brilliance",
             "rarities": {
                 "Rare": []
             }
@@ -85,7 +97,9 @@
         "smat": [],
         "misc": [
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

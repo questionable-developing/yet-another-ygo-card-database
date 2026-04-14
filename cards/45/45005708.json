@@ -1,11 +1,14 @@
 {
     "cid": "e57cfa97-1431-4c09-9c53-68aa993d82cd",
+    "yid": 45005708,
     "password": "45005708",
     "kid": 18471,
     "name": "The Bystial Aluber",
     "name_jp": "<ruby lang=\"jp\"><rb>深淵の獣</rb><rp> (</rp><rt>ザ・ビーステッド</rt><rp>)</rp></ruby>アルベル",
     "name_jp_rom": "Za Bīsuteddo Aruberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Byssted Aluber",
+    "name_jp_tl_base": "Abyss Beast Aluber",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -46,6 +49,32 @@
         {
             "sid": "MP24-EN188",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP008",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CYAC-JP008",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP174",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -98,5 +127,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

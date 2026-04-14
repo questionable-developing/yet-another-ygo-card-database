@@ -1,12 +1,14 @@
 {
     "cid": "1e7ab091-87e7-4774-987d-6645683f7932",
-    "yid": null,
+    "yid": 13035077,
     "password": "13035077",
     "kid": 12967,
     "name": "Dragonic Diagram",
     "name_jp": "ドラゴニック<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ダイアグラム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragonikku Daiaguramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP053",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DOOD-JPS11",
+            "set": "Doom of Dimensions +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +126,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

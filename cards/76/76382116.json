@@ -1,11 +1,14 @@
 {
     "cid": "7470cc0b-fe3d-463e-a7a0-8c0a2e0a522f",
+    "yid": 76382116,
     "password": "76382116",
     "kid": 14772,
     "name": "Dovelgus, Generaider Boss of Iron",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>くろがね</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>ジェネレイド</rt><rp>)</rp></ruby> ドヴェルグス",
     "name_jp_rom": "Kurogane no Jenereido Doverugusu",
+    "name_jp_rom_base": "Kurogane no Ō Doverugusu",
     "name_jp_tl": "Dovelgus, Generaid of Iron",
+    "name_jp_tl_base": "Dovelgus, King of Iron",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "Mystic Fighters",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP029",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
             }
         }
     ],
@@ -81,5 +93,6 @@
             "Control only one",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "1afb5308-a1c6-43cf-9ad0-259d82753a83",
-    "yid": null,
+    "yid": 12496261,
     "password": "12496261",
     "kid": 13748,
     "name": "Dragunity Knight - Luin",
     "name_jp": "ドラグニティナイト－ハールーン",
     "name_jp_rom": "Doraguniti Naito - Hārūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragunity Knight - Char Lúin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +45,23 @@
             "set": "Cybernetic Horizon",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP032",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP032",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -90,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

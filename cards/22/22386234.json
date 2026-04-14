@@ -1,12 +1,14 @@
 {
     "cid": "adc39dec-4a81-49f2-a95f-2b290ff7c3fb",
-    "yid": null,
+    "yid": 22386234,
     "password": "22386234",
     "kid": 9507,
     "name": "Aurora Paragon",
     "name_jp": "オーロラ・アンギラス",
     "name_jp_rom": "Ōrora Angirasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Aurora Angelus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP036",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP018",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

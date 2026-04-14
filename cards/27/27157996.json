@@ -1,12 +1,14 @@
 {
     "cid": "360a89ab-b85c-4502-a5a0-435a3395484a",
-    "yid": null,
+    "yid": 27157996,
     "password": "27157996",
     "kid": 16438,
     "name": "Appliancer Conversion",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>塊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>コンバート",
     "name_jp_rom": "Kikai Konbāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Appliancer Convert",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC01-JP044",
+            "set": "Animation Chronicle 2021",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,7 +79,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -82,5 +94,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

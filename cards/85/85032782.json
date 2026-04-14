@@ -1,11 +1,14 @@
 {
     "cid": "b76ebdfc-6cb6-4c80-b550-85b43a7d5e92",
+    "yid": 85032782,
     "password": "85032782",
     "kid": 16383,
     "name": "Sauge de Fleur",
     "name_jp": "<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>とき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>ばな</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>賢</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>－フルール・ド・サージュ",
     "name_jp_rom": "Tokibana no Kenja - Furūru Do Sāju",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sage of the Time Flower - Fleur de Sage",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP25-JP020",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD45-JP016",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS2-JP016",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "01d7ea74-532b-47ed-acfb-f6ae0f094459",
-    "yid": null,
+    "yid": 11496832,
     "password": "11496832",
     "kid": 19489,
     "name": "Principug",
     "name_jp": "プリンシパグ",
     "name_jp_rom": "Purinshipagu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "PHNI-EN034",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP034",
             "set": "Phantom Nightmare",
             "rarities": {
                 "Common": []
@@ -82,5 +93,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

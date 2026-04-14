@@ -1,11 +1,14 @@
 {
     "cid": "e4a11dec-186d-4a23-b825-26c2c9c19558",
+    "yid": 63465535,
     "password": "63465535",
     "kid": 8603,
     "name": "Underground Arachnid",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>底</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>のアラクネー",
     "name_jp_rom": "Chitei no Arakunē",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Underground Arachne",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "UndergroundArachnid-VB12-JP-UR.jpg",
+            "art": "UndergroundArachnid-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "UndergroundArachnid-DPC5-EN-SR-LE.jpg",
-            "art": null
+            "art": "UndergroundArachnid-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ABPF-EN096",
@@ -48,6 +56,15 @@
             "set": "Duelist Pack Collection Tin 2011",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VB12-JP001",
+            "set": "The Valuable Book 12 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -95,5 +112,6 @@
             "Dark Synchro Monster",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

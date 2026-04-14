@@ -1,11 +1,14 @@
 {
     "cid": "7ed1a7bc-ead3-4d66-bd4b-d3e28d1d9df5",
+    "yid": 49776811,
     "password": "49776811",
     "kid": 16837,
     "name": "Shining Piecephilia",
     "name_jp": "ピースリア",
     "name_jp_rom": "Pīsuria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Piecelia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,17 +32,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ShiningPiecephilia-BACH-JP-NR.png",
+            "art": "ShiningPiecephilia-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ShiningPiecephilia-BACH-EN-C-1E.png",
-            "art": null
+            "art": "ShiningPiecephilia-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "BACH-EN032",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP032",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -77,5 +94,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a826a115-8b6f-4d26-82bf-f02847a61e05",
+    "yid": 75967082,
     "password": "75967082",
     "kid": 7629,
     "name": "Short Circuit",
     "name_jp": "<ruby lang=\"jp\"><rb>漏電</rb><rp> (</rp><rt>ショートサーキット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shōto Sākitto",
+    "name_jp_rom_base": "Rōden",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "LODT-EN056",
             "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP056",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP146",
+            "set": "Duelist Edition Volume 2",
             "rarities": {
                 "Common": []
             }
@@ -71,5 +90,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

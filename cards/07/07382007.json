@@ -1,12 +1,14 @@
 {
     "cid": "0717b96c-73c3-4665-9260-8fc32366fe2b",
-    "yid": null,
+    "yid": 7382007,
     "password": "07382007",
     "kid": 21816,
     "name": "Gouki Sheik Ogre",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>シーク・オーガ",
     "name_jp_rom": "Gōki Shīku Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Sheik Ogre",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -42,6 +44,15 @@
     "sets": [
         {
             "sid": "DOOD-EN050",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP050",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -91,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "156e82d9-ce4a-41c2-8f3f-fd0bed13834f",
-    "yid": null,
+    "yid": 3723262,
     "password": "03723262",
     "kid": 21138,
     "name": "Wizard @Ignister",
     "name_jp": "ウィザード<ruby lang=\"jp\"><rb>＠</rb><rp> (</rp><rt>アット</rt><rp>)</rp></ruby>イグニスター",
     "name_jp_rom": "Wizādo Atto Igunisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +43,15 @@
             "set": "Alliance Insight",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP001",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -86,5 +97,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f69f6ef3-d5cb-4f81-a889-39b4818afb1d",
+    "yid": 50613779,
     "password": "50613779",
     "kid": 10132,
     "name": "Damage Mage",
     "name_jp": "ダメージ・メイジ",
     "name_jp_rom": "Damēji Meiji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP002",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

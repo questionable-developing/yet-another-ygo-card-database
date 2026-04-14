@@ -1,12 +1,14 @@
 {
     "cid": "243c4cfa-4a45-4546-b5e4-5e14b74143cd",
-    "yid": null,
+    "yid": 20138923,
     "password": "20138923",
     "kid": 9009,
     "name": "Anti-Magic Prism",
     "name_jp": "<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hanma Kyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Anti-Magic Mirror",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DREV-EN078",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP078",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -70,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

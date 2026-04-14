@@ -1,11 +1,14 @@
 {
     "cid": "dec95e7b-5694-4aab-889e-072a3769dbe3",
+    "yid": 45955628,
     "password": "45955628",
     "kid": 14419,
     "name": "Catoblepas, Familiar of the Evil Eye",
     "name_jp": "<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>眷</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>属</rb><rp> (</rp><rt>ぞく</rt><rp>)</rp></ruby> カトブレパス",
     "name_jp_rom": "Jugan no Kenzoku Katoburepasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Catoblepas, Familiar of the Cursed Eye",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBIC-JP029",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

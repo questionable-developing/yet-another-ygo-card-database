@@ -1,12 +1,14 @@
 {
     "cid": "79fbb1e8-71c1-4232-af64-f7a4b95c6b14",
-    "yid": null,
+    "yid": 15951532,
     "password": "15951532",
     "kid": 8963,
     "name": "Amazoness Queen",
     "name_jp": "アマゾネス<ruby lang=\"jp\"><rb>女王</rb><rp> (</rp><rt>クィーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amazonesu Kwīn",
+    "name_jp_rom_base": "Amazonesu Joō",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -64,6 +66,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP032",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "17SP-JP003",
+            "set": "Special Pack",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP27-JP037",
+            "set": "Duelist Pack: Duelists of Pyroxene",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +121,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "51de6807-388e-4bc6-9822-953568023d1f",
+    "yid": 90448279,
     "password": "90448279",
     "kid": 15524,
     "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
     "name_jp": "<ruby lang=\"jp\"><rb>天霆號</rb><rp> (</rp><rt>ネガロギア</rt><rp>)</rp></ruby>アーゼウス",
     "name_jp_rom": "Negarogia Āzeusu",
+    "name_jp_rom_base": "Tentei-gō Āzeusu",
     "name_jp_tl": "Negalogia AA-ZEUS",
+    "name_jp_tl_base": "Sky Thunder AA-ZEUS",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -22,10 +25,10 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "2 Level 12 monsters<br />Once per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material.",
+    "desc": "2 Level 12 monsters<br />Once per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material (transfer its materials to this card). (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card.",
     "pend_eff": null,
-    "mnst_eff": "2 Level 12 monsters\nOnce per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material.",
-    "eff": "2 Level 12 monsters\nOnce per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material.",
+    "mnst_eff": "2 Level 12 monsters\nOnce per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material (transfer its materials to this card). (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card.",
+    "eff": "2 Level 12 monsters\nOnce per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material (transfer its materials to this card). (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card.",
     "flavor": null,
     "images": {
         "1": {
@@ -40,54 +43,153 @@
         },
         "3": {
             "idx": "3",
-            "full": "DivineArsenalAAZEUSSkyThunder-LPST-JP-OP.png",
+            "full": "DivineArsenalAAZEUSSkyThunder-RA05-EN-UR-1E.png",
             "art": null
+        },
+        "4": {
+            "idx": "4",
+            "full": "DivineArsenalAAZEUSSkyThunder-LOCH-JP-UR.png",
+            "art": "DivineArsenalAAZEUSSkyThunder-OW-3.png"
         }
     },
-    "image": "2",
+    "image": "3",
     "sets": [
         {
             "sid": "PHRA-EN045",
             "set": "Phantom Rage",
             "rarities": {
-                "Secret Rare": [],
-                "Starlight Rare": []
+                "Secret Rare": ["1"],
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "MP21-EN195",
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "OP18-EN002",
             "set": "OTS Tournament Pack 18",
             "rarities": {
-                "Ultimate Rare": []
+                "Ultimate Rare": ["1"]
             }
         },
         {
             "sid": "BLMR-EN084",
             "set": "Battles of Legend: Monstrous Revenge",
             "rarities": {
-                "Secret Rare": [],
-                "Quarter Century Secret Rare": []
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
             }
         },
         {
             "sid": "STAX-EN044",
             "set": "2-Player Starter Set",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
             }
         },
         {
             "sid": "RA04-EN070",
             "set": "Quarter Century Stampede",
             "rarities": {
-                "Quarter Century Secret Rare": []
+                "Quarter Century Secret Rare": ["2"]
+            }
+        },
+        {
+            "sid": "RA05-EN103",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Starlight Rare": ["3"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP045",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Prismatic Secret Rare": ["1"],
+                "Holographic Rare": ["1"]
+            }
+        },
+        {
+            "sid": "PHRA-JP045",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "SUB1-JPS03",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Secret Rare (Special Blue Version)": ["1"]
+            }
+        },
+        {
+            "sid": "QCCU-JP182",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "AW01-JP005",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": ["1"]
+            }
+        },
+        {
+            "sid": "TT01-JPC33",
+            "set": "Tactical-Try Deck: Eldlich the Conqueror",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "QCAC-JP014",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1", "2"],
+                "Quarter Century Secret Rare": ["2"]
+            }
+        },
+        {
+            "sid": "TT02-JPB28",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP021",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["3"],
+                "Secret Rare": ["3"],
+                "Prismatic Secret Rare": ["3"]
+            }
+        },
+        {
+            "sid": "LOCH-JP033",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": ["4"],
+                "Secret Rare": ["4"],
+                "Prismatic Secret Rare": ["4"]
             }
         }
     ],
@@ -134,7 +236,9 @@
         "smat": [],
         "misc": [
             "Requires control of specific Monster card type",
-            "Limited activations"
+            "Limited activations",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

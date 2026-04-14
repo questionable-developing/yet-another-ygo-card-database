@@ -1,11 +1,14 @@
 {
     "cid": "6d8f48b3-3bff-4b89-8fc3-ad75edd3615d",
+    "yid": 45078193,
     "password": "45078193",
     "kid": 13180,
     "name": "Cyberdark Cannon",
     "name_jp": "サイバー・ダーク・カノン",
     "name_jp_rom": "Saibā Dāku Kanon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP022",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP016",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

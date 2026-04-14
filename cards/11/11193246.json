@@ -1,12 +1,14 @@
 {
     "cid": "69e4482a-5dc4-47d1-a04e-c9562c0610b2",
-    "yid": null,
+    "yid": 11193246,
     "password": "11193246",
     "kid": 12343,
     "name": "Lunalight Reincarnation Dance",
     "name_jp": "<ruby lang=\"jp\"><rb>月光輪廻舞踊</rb><rp> (</rp><rt>ムーンライト・リンカネーション・ダンス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Rinkanēshon Dansu",
+    "name_jp_rom_base": "Gekkō Rinnebuyō",
     "name_jp_tl": "Moonlight Reincarnation Dance",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SHVI-EN071",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP071",
             "set": "Shining Victories",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

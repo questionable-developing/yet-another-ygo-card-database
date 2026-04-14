@@ -1,12 +1,14 @@
 {
     "cid": "af528583-b88b-42d9-85b5-7b9586963bb7",
-    "yid": null,
+    "yid": 30435145,
     "password": "30435145",
     "kid": 6573,
     "name": "Ancient Gear Factory",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械工場</rb><rp> (</rp><rt>アンティーク・ギアファクトリー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Fakutorī",
+    "name_jp_rom_base": "Kodai no Kikaikōjō",
     "name_jp_tl": "Antique Gear Factory",
+    "name_jp_tl_base": "Ancient Machine Factory",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP039",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SOI-JP039",
+            "set": "Shadow of Infinity: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD10-JP021",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP159",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +98,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect"
+            "Reveals cards from your hand"
         ],
         "stat_change": [],
         "mst": [],
@@ -81,5 +113,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2d8779f7-8a3e-4719-8817-fe5210432c4b",
+    "yid": 68663748,
     "password": "68663748",
     "kid": 8486,
     "name": "Fortune's Future",
     "name_jp": "フォーチュンフューチャー",
     "name_jp_rom": "Fōchun Fyūchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Future",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortunesFuture-19TP-JP-C.png",
+            "art": "FortunesFuture-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortunesFuture-OP11-EN-SR-UE.png",
-            "art": null
+            "art": "FortunesFuture-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN051",
@@ -44,6 +52,29 @@
             "set": "OTS Tournament Pack 11",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP051",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP071",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19TP-JP212",
+            "set": "Tournament Pack 2019 Vol.2",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -75,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

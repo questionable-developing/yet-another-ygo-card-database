@@ -1,12 +1,14 @@
 {
     "cid": "fcdca5ad-a995-4321-8027-1a1eeb9ee7a8",
-    "yid": null,
+    "yid": 21501505,
     "password": "21501505",
     "kid": 11083,
     "name": "Cairngorgon, Antiluminescent Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遷</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> カンゴルゴーム",
     "name_jp_rom": "Ansenshi Kangorugōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cairngorgorm, Dark Change-Warrior",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP054",
+            "set": "Primal Origin",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP067",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +113,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

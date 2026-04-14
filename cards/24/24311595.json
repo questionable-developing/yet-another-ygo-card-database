@@ -1,12 +1,14 @@
 {
     "cid": "5499527b-973d-4aa6-aef7-a9e9c6f09c3c",
-    "yid": null,
+    "yid": 24311595,
     "password": "24311595",
     "kid": 6745,
     "name": "Rescueroid",
     "name_jp": "レスキューロイド",
     "name_jp_rom": "Resukyūroido",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP011",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "POTD-JP011",
+            "set": "Power of the Duelist: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +108,6 @@
         ],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

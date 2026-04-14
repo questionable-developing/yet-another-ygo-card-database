@@ -1,11 +1,14 @@
 {
     "cid": "9435accb-b051-4729-a63c-83719d940df5",
+    "yid": 49867899,
     "password": "49867899",
     "kid": 20226,
     "name": "Fiendsmith's Sequence",
     "name_jp": "<ruby lang=\"jp\"><rb>刻まれし魔の大聖棺</rb><rp> (</rp><rt>デモンスミス・セクエンツィア</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Demonsumisu Sekuentsia",
+    "name_jp_rom_base": "Kizamareshi Ma no Daiseikan",
     "name_jp_tl": "Demonsmith Sequentia",
+    "name_jp_tl_base": "Engraved Demon's Great Sacred Coffin",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -61,6 +64,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP047",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCH-JP066",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +132,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

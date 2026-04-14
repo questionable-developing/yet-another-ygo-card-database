@@ -1,11 +1,14 @@
 {
     "cid": "02242429-a85b-4471-bbb1-a9a636dd6f3e",
+    "yid": 57769391,
     "password": "57769391",
     "kid": 13569,
     "name": "Altergeist Pixiel",
     "name_jp": "オルターガイスト・ピクシール",
     "name_jp_rom": "Orutāgaisuto Pikushīru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP015",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

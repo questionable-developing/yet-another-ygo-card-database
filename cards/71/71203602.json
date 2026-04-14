@@ -1,11 +1,14 @@
 {
     "cid": "a8d990d4-abd6-4e13-aabf-58c97094f5b9",
+    "yid": 71203602,
     "password": "71203602",
     "kid": 9819,
     "name": "Evigishki Levianima",
     "name_jp": "イビリチュア・リヴァイアニマ",
     "name_jp_rom": "Ibirichua Rivaianima",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eviritua Levianima",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -44,6 +47,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT13-JP031",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP107",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -65,7 +84,7 @@
             "Activates upon attack declaration",
             "You draw cards",
             "Shows the player's drawn cards",
-            "Reveals your opponent's hand"
+            "Reveals cards from your opponent's hand"
         ],
         "stat_change": [],
         "mst": [],
@@ -76,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

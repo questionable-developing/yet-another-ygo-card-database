@@ -1,11 +1,14 @@
 {
     "cid": "e77b7ec0-770e-4233-9f38-cd8baeb5436a",
+    "yid": 83121692,
     "password": "83121692",
     "kid": 6487,
     "name": "Elemental HERO Tempest",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> テンペスター",
     "name_jp_rom": "Erementaru Hīrō Tenpesutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Tempester",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -60,6 +63,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EEN-JP034",
+            "set": "Elemental Energy",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP094",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LPG1-JP043",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +127,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

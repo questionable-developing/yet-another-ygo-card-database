@@ -1,11 +1,14 @@
 {
     "cid": "90772a67-573c-4e36-9959-2da539ffee8d",
+    "yid": 93581434,
     "password": "93581434",
     "kid": 13721,
     "name": "Gouki Ringtrainer",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ヘルトレーナー",
     "name_jp_rom": "Gōki Herutorēnā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Helltrainer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP19-EN076",
             "set": "2019 Gold Sarcophagus Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP005",
+            "set": "Cybernetic Horizon",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +104,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

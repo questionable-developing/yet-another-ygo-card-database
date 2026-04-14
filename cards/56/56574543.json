@@ -1,11 +1,14 @@
 {
     "cid": "3571f0bf-a73b-4554-bcf0-1f561701aa4d",
+    "yid": 56574543,
     "password": "56574543",
     "kid": 11199,
     "name": "Bujingi Sinyou",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby>－ツムガリ",
     "name_jp_rom": "Bujingi - Tsumugari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bujingi Tsumugari",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP035",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

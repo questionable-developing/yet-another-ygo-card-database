@@ -1,11 +1,14 @@
 {
     "cid": "10dd712d-ac39-46e7-b8f0-0ff176ef1a9d",
+    "yid": 68786330,
     "password": "68786330",
     "kid": 8483,
     "name": "Attack Pheromones",
     "name_jp": "アタック・フェロモン",
     "name_jp_rom": "Atakku Feromon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Attack Pheromone",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "AttackPheromones-SOVR-JP-C.jpg",
+            "art": "AttackPheromones-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "AttackPheromones-SOVR-EN-C-1E.jpg",
-            "art": null
+            "art": "AttackPheromones-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN048",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP048",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Common": []
@@ -67,5 +84,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

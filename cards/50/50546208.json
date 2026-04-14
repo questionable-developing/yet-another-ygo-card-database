@@ -1,11 +1,14 @@
 {
     "cid": "b97a3266-aa03-480a-93e4-d17b5368fc0a",
+    "yid": 50546208,
     "password": "50546208",
     "kid": 14187,
     "name": "Lunalight Yellow Marten",
     "name_jp": "<ruby lang=\"jp\"><rb>月光黄鼬</rb><rp> (</rp><rt>ムーンライト・イエロー・マーテン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mūnraito Ierō Māten",
+    "name_jp_rom_base": "Gekkō Kōten",
     "name_jp_tl": "Moonlight Yellow Marten",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "LunalightYellowMarten-LDS2-EN-C-1E.png",
+            "full": "LunalightYellowMarten-OP28-EN-C-UE.png",
             "art": null
         }
     },
@@ -54,6 +57,22 @@
             "set": "OTS Tournament Pack 28",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP21-JP047",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DUAD-JPS09",
+            "set": "Duelist Advance +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -98,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

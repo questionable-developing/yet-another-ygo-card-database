@@ -1,11 +1,14 @@
 {
     "cid": "9496773a-5b2b-4ed0-806b-b7d2e3dab98d",
+    "yid": 85520170,
     "password": "85520170",
     "kid": 18855,
     "name": "Scrap-Iron Sacred Statue",
     "name_jp": "くず<ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>てつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>像</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kuzutetsu no Shinzō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scrap-Iron Divine Statue",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP068",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,7 +91,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard",
             "Special Summons from your Extra Deck"
         ],
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e97bcdac-1b02-4157-a2a7-0922a527d750",
-    "yid": null,
+    "yid": 30464153,
     "password": "30464153",
     "kid": 10110,
     "name": "Uminotaurus",
     "name_jp": "ウミノタウルス",
     "name_jp_rom": "Uminotaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sea Minotaurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JF12-JPB09",
+            "set": "Jump Festa 2012 - Promotion Pack B",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "JF13-JPB04",
+            "set": "Jump Festa 2013 - Promotion Pack B",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +101,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

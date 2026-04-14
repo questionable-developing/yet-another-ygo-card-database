@@ -1,12 +1,14 @@
 {
     "cid": "097577bd-1084-45d0-8707-5aa383197ce3",
-    "yid": null,
+    "yid": 9327502,
     "password": "09327502",
     "kid": 7058,
     "name": "Elemental HERO Voltic",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ボルテック",
     "name_jp_rom": "Erementaru Hīrō Borutekku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Voltech",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP11-JP001",
+            "set": "Premium Pack 11",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DT11-JP003",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD27-JP005",
+            "set": "Structure Deck: HERO's Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,7 +107,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -92,5 +117,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

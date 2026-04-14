@@ -1,12 +1,14 @@
 {
     "cid": "8b702c77-eb9e-4634-88cf-e3424b5205cb",
-    "yid": null,
+    "yid": 3841833,
     "password": "03841833",
     "kid": 11348,
     "name": "Fluffal Bear",
     "name_jp": "ファーニマル・ベア",
     "name_jp_rom": "Fānimaru Bea",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Furnimal Bear",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP016",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +114,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

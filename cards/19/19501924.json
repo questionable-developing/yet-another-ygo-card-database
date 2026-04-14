@@ -1,12 +1,14 @@
 {
     "cid": "57eee889-e87f-4e78-a964-415601ce37c5",
-    "yid": null,
+    "yid": 19501924,
     "password": "19501924",
     "kid": 14982,
     "name": "Pendulum Transfer",
     "name_jp": "ペンデュラム・シフト",
     "name_jp_rom": "Pendyuramu Shifuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Pendulum Shift",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "20PP-JP015",
+            "set": "Premium Pack 2020",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +85,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

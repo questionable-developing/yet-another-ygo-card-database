@@ -1,12 +1,14 @@
 {
     "cid": "d376a29e-dde7-4c0b-9c29-a0f0cf5a640a",
-    "yid": null,
+    "yid": 20127343,
     "password": "20127343",
     "kid": 8551,
     "name": "Genex Ally Changer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>アーリー</rt><rp>)</rp></ruby>・ジェネクス・チェンジャー",
     "name_jp_rom": "Ārī Jenekusu Chenjā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ally Genex Changer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT07-JP013",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP003",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP079",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "6c23aac7-b618-49b2-8c8b-a1744c3fb039",
+    "yid": 64538914,
     "password": "64538914",
     "kid": 18167,
     "name": "Manticore of Smashing",
     "name_jp": "<ruby lang=\"jp\"><rb>震</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby>のマンティコア",
     "name_jp_rom": "Shinten no Mantikoa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Earth-Shaking Manticore",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP022",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

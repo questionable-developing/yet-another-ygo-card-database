@@ -1,12 +1,14 @@
 {
     "cid": "5ac7f2f2-e8aa-4031-a8c4-6cd1a74929db",
-    "yid": null,
+    "yid": 3784434,
     "password": "03784434",
     "kid": 6895,
     "name": "Rampaging Rhynos",
     "name_jp": "<ruby lang=\"jp\"><rb>突</rb><rp> (</rp><rt>とつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>撃</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>ライノス",
     "name_jp_rom": "Totsugeki Rainosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -45,6 +47,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP031",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP057",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +93,6 @@
             "Limited activations",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

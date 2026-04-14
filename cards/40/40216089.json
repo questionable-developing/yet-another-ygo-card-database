@@ -1,11 +1,14 @@
 {
     "cid": "51118f59-e26f-4b9e-a4b8-266fb90b6818",
+    "yid": 40216089,
     "password": "40216089",
     "kid": 14250,
     "name": "Platinum Gadget",
     "name_jp": "プラチナ・ガジェット",
     "name_jp_rom": "Purachina Gajetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -33,7 +36,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "PlatinumGadget-DUPO-EN-UR-1E.png",
+            "full": "PlatinumGadget-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -44,6 +47,45 @@
             "set": "Duel Power",
             "rarities": {
                 "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN054",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP156",
+            "set": "V Jump January 2019 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP409",
+            "set": "Tournament Pack 2020 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCH-JP064",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": [],
+                "Collector's Rare": []
             }
         }
     ],
@@ -87,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

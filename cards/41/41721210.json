@@ -1,11 +1,14 @@
 {
     "cid": "a850f86c-743e-443e-a36b-4edc82adaac4",
+    "yid": 41721210,
     "password": "41721210",
     "kid": 13357,
     "name": "Dark Magician the Dragon Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ブラック・マジシャン",
     "name_jp_rom": "Ryūkishi Burakku Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Magician the Dragon Knight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +62,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RC02-JP001",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Extra Secret Rare": []
+            }
+        },
+        {
+            "sid": "EP18-JP045",
+            "set": "Extra Pack 2018",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP205",
+            "set": "Tournament Pack 2024 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP013",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,7 +109,8 @@
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "Legendary Dragon"
+            "Legendary Dragon",
+            "Timaeus (series)"
         ],
         "counter": [],
         "action": [],
@@ -97,6 +132,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

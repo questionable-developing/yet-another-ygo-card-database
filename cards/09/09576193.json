@@ -1,12 +1,14 @@
 {
     "cid": "e0887318-b55e-48f7-89e2-911f41507564",
-    "yid": null,
+    "yid": 9576193,
     "password": "09576193",
     "kid": 9765,
     "name": "Monster Slots",
     "name_jp": "モンスター・スロット",
     "name_jp_rom": "Monsutā Surotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Monster Slot",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP047",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP12-JP022",
+            "set": "Duelist Pack: Yuma",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8c7e44de-6b50-4a10-b928-6b35a2910fbe",
+    "yid": 44236692,
     "password": "44236692",
     "kid": 9082,
     "name": "Necro Linker",
     "name_jp": "ネクロ・リンカー",
     "name_jp_rom": "Nekuro Rinkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP005",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

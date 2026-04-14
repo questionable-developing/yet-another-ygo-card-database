@@ -1,11 +1,14 @@
 {
     "cid": "2257a384-aea9-4cad-be2a-1ecdd53949b1",
+    "yid": 71490127,
     "password": "71490127",
     "kid": 6433,
     "name": "Dragon's Mirror",
     "name_jp": "<ruby lang=\"jp\"><rb>龍の鏡</rb><rp> (</rp><rt>ドラゴンズ・ミラー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doragonzu Mirā",
+    "name_jp_rom_base": "Ryū no Kagami",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP040",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP040",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP030",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "19SP-JP609",
+            "set": "Special Pack 20th Anniversary Edition Vol.6",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +138,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

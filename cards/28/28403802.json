@@ -1,12 +1,14 @@
 {
     "cid": "922020a4-084e-4df3-ab35-b483fab43766",
-    "yid": null,
+    "yid": 28403802,
     "password": "28403802",
     "kid": 17448,
     "name": "P.U.N.K. JAM Dragon Drive",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp> (</rp><rt>パンク</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>ＪＡＭ</rb><rp> (</rp><rt>ジャム</rt><rp>)</rp></ruby>ドラゴン・ドライブ",
     "name_jp_rom": "Panku Jamu Doragon Doraibu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -23,10 +25,10 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Psychic Tuner + 1+ non-Tuner monsters<br />If this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn.",
+    "desc": "1 Psychic Tuner + 1+ non-Tuners<br />If this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "1 Psychic Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn.",
-    "eff": "1 Psychic Tuner + 1+ non-Tuner monsters\nIf this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn.",
+    "mnst_eff": "1 Psychic Tuner + 1+ non-Tuners\nIf this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn.",
+    "eff": "1 Psychic Tuner + 1+ non-Tuners\nIf this card is Special Summoned by the effect of a \"P.U.N.K.\" card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your \"P.U.N.K.\" card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of \"P.U.N.K. JAM Dragon Drive\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
@@ -36,24 +38,59 @@
         },
         "2": {
             "idx": "2",
-            "full": "PUNKJAMDragonDrive-LPST-JP-OP.png",
+            "full": "PUNKJAMDragonDrive-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "POTE-EN046",
             "set": "Power of the Elements",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
             }
         },
         {
             "sid": "BLMM-EN078",
             "set": "Battles of Legend: Monster Mayhem",
             "rarities": {
-                "Ultra Rare": []
+                "Ultra Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN102",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP046",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCTB-JP029",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": ["1"],
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP020",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -101,5 +138,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

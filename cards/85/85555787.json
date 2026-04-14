@@ -1,11 +1,14 @@
 {
     "cid": "15256857-f866-4405-bff2-ec1f0b1e3ba6",
+    "yid": 85555787,
     "password": "85555787",
     "kid": 13687,
     "name": "Grinning Grave Virus",
     "name_jp": "<ruby lang=\"jp\"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>)</rp></ruby>のデッキ<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壊</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>ウイルス",
     "name_jp_rom": "Aku no Dekki Hakai Uirusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deck Destruction Virus of Wickedness",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR06-JP030",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +78,7 @@
         "counter": [],
         "action": [
             "Tributes for cost",
-            "Reveals your opponent's hand"
+            "Shows the opponent's drawn cards"
         ],
         "stat_change": [],
         "mst": [
@@ -85,5 +97,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

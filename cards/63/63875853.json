@@ -1,11 +1,14 @@
 {
     "cid": "1dbc77ab-465f-489a-869f-cb605e312d74",
+    "yid": 63875853,
     "password": "63875853",
     "kid": 13436,
     "name": "Trading Places",
     "name_jp": "<ruby lang=\"jp\"><rb>身</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>分</rb><rp> (</rp><rt>ぶん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>転</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>換</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mibuntenkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TradingPlaces-EXFO-JP-NR.png",
+            "art": "TradingPlaces-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TradingPlaces-MP18-EN-C-1E.png",
-            "art": null
+            "art": "TradingPlaces-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "EXFO-EN065",
@@ -44,6 +52,15 @@
             "set": "2018 Mega-Tin Mega Pack",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP065",
+            "set": "Extreme Force",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -74,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

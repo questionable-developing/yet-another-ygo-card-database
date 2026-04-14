@@ -1,12 +1,14 @@
 {
     "cid": "e4f75fae-ed1d-40a4-a895-233e89bc4b15",
-    "yid": null,
+    "yid": 2102065,
     "password": "02102065",
     "kid": 14653,
     "name": "Brinegir",
     "name_jp": "ブライニグル",
     "name_jp_rom": "Burainiguru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "CHIM-EN026",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP026",
             "set": "Chaos Impact",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

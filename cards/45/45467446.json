@@ -1,11 +1,14 @@
 {
     "cid": "8154de96-4e99-451b-b4a1-0a6351b0555a",
+    "yid": 45467446,
     "password": "45467446",
     "kid": 12290,
     "name": "Dragon Spirit of White",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiroki Reiryū",
+    "name_jp_rom_base": null,
     "name_jp_tl": "White Spirit Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -86,6 +89,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP018",
+            "set": "Shining Victories",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP006",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP007",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -125,5 +153,6 @@
         "misc": [
             "Archetype condition"
         ]
-    }
+    },
+    "links": {}
 }

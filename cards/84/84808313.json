@@ -1,11 +1,14 @@
 {
     "cid": "1a6c7d85-4a84-4b47-8bc7-99839f354185",
+    "yid": 84808313,
     "password": "84808313",
     "kid": 6819,
     "name": "Big Evolution Pill",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>進</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>薬</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daishinkayaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD09-JP017",
+            "set": "Structure Deck: Dinosaur's Rage",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT04-JP046",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR04-JP023",
+            "set": "Structure Deck R: Tyranno's Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +123,6 @@
         "misc": [
             "Turn limited effects"
         ]
-    }
+    },
+    "links": {}
 }

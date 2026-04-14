@@ -1,12 +1,14 @@
 {
     "cid": "548833e1-34fb-4334-9feb-722a947b3a78",
-    "yid": null,
+    "yid": 13002461,
     "password": "13002461",
     "kid": 10148,
     "name": "Strength of Prophecy",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> フォルス",
     "name_jp_rom": "Madōsenshi Forusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Force the Magical Warrior",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN018",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP018",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

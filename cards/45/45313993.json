@@ -1,11 +1,14 @@
 {
     "cid": "52e815b3-c525-4502-9369-06b2caf8669a",
+    "yid": 45313993,
     "password": "45313993",
     "kid": 12413,
     "name": "Red Warg",
     "name_jp": "レッド・ウルフ",
     "name_jp_rom": "Reddo Urufu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Red Wolf",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP014",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD46-JP012",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

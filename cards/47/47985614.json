@@ -1,11 +1,14 @@
 {
     "cid": "27a518e0-37a2-4bee-8266-cbc8cf4b2516",
+    "yid": 47985614,
     "password": "47985614",
     "kid": 8169,
     "name": "Gadget Arms",
     "name_jp": "ガジェット・アームズ",
     "name_jp_rom": "Gajetto Āmuzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RGBT-EN017",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP017",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

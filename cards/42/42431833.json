@@ -1,11 +1,14 @@
 {
     "cid": "9ea51f5b-bf90-4c2e-b5ab-10dbd1274e0b",
+    "yid": 42431833,
     "password": "42431833",
     "kid": 17458,
     "name": "Spright Gamma Burst",
     "name_jp": "スプライト・ガンマ・バースト",
     "name_jp_rom": "Supuraito Ganma Bāsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,29 @@
         {
             "sid": "BLTR-EN105",
             "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP056",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TT01-JPB18",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP126",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -86,5 +112,6 @@
             "Turn limited effects",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

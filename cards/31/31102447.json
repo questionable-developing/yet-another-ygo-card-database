@@ -1,12 +1,14 @@
 {
     "cid": "4ea18d17-307c-4419-b6cf-42aa133b5d48",
-    "yid": null,
+    "yid": 31102447,
     "password": "31102447",
     "kid": 13146,
     "name": "Amazoness Spy",
     "name_jp": "アマゾネスの<ruby lang=\"jp\"><rb>斥</rb><rp> (</rp><rt>せっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>候</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Amazonesu no Sekkō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -63,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP17-JP021",
+            "set": "Collectors Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP27-JP041",
+            "set": "Duelist Pack: Duelists of Pyroxene",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +119,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

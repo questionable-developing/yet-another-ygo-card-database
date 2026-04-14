@@ -1,12 +1,14 @@
 {
     "cid": "ef27d421-a3be-4b39-a846-a139955aa8c8",
-    "yid": null,
+    "yid": 27354732,
     "password": "27354732",
     "kid": 13396,
     "name": "Mythical Beast Jackal King",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> キングジャッカル",
     "name_jp_rom": "Majikku Bīsuto Kingu Jakkaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Beast King Jackal",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -49,6 +51,23 @@
             "set": "The Infinity Chasers",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP026",
+            "set": "Extreme Force",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP037",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -97,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d432828f-3798-4259-958e-5bca8d0fa04b",
+    "yid": 39848658,
     "password": "39848658",
     "kid": 21202,
     "name": "Wight Reanimator",
     "name_jp": "ワイト・マスター",
     "name_jp_rom": "Waito Masutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wight Master",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ALIN-EN065",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP065",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
             "Limited activations",
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

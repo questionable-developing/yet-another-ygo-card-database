@@ -1,12 +1,14 @@
 {
     "cid": "47c338cd-e7cf-491a-a17f-51095c31dd8a",
-    "yid": null,
+    "yid": 4599182,
     "password": "04599182",
     "kid": 17252,
     "name": "This Creepy Little Punk",
     "name_jp": "<ruby lang=\"jp\"><rb>舞</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>い<ruby lang=\"jp\"><rb>戻</rb><rp> (</rp><rt>もど</rt><rp>)</rp></ruby>った<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>しに</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Maimodotta Shinigami",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Return of the Reaper",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "HC01-JP021",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +88,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand",
             "Special Summons from your Graveyard"
         ],
@@ -86,7 +100,9 @@
         "misc": [
             "Archetype condition",
             "Requires control of specific archetype",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

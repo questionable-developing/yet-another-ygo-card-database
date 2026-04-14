@@ -1,11 +1,14 @@
 {
     "cid": "a87447ed-b840-4919-9bc6-3fb0dc169079",
+    "yid": 57585212,
     "password": "57585212",
     "kid": 5916,
     "name": "Self-Destruct Button",
     "name_jp": "<ruby lang=\"jp\"><rb>自</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>爆</rb><rp> (</rp><rt>ばく</rt><rp>)</rp></ruby>スイッチ",
     "name_jp_rom": "Jibaku Suitchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Self-Destruction Switch",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "307-050",
+            "set": "Invader of Darkness (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP106",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

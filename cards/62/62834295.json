@@ -1,11 +1,14 @@
 {
     "cid": "01d96b64-ce8d-461d-b564-71133a14fbd6",
+    "yid": 62834295,
     "password": "62834295",
     "kid": 13946,
     "name": "Orcustrated Einsatz",
     "name_jp": "オルフェゴール・アインザッツ",
     "name_jp_rom": "Orufegōru Ainzattsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Orphegel Einsatz",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SOFU-EN059",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP059",
             "set": "Soul Fusion",
             "rarities": {
                 "Common": []
@@ -78,5 +90,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "baa03bda-951f-49eb-b1eb-98a0cb5f0bda",
-    "yid": null,
+    "yid": 20455229,
     "password": "20455229",
     "kid": 18464,
     "name": "Firewall Defenser",
     "name_jp": "ファイアウォール・ディフェンサー",
     "name_jp_rom": "Faiawōru Difensā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +43,24 @@
             "set": "Cyberstorm Access",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP001",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP098",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -90,5 +110,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

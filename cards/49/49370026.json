@@ -1,11 +1,14 @@
 {
     "cid": "bd8f2d81-21ad-4c29-a826-8321bb1a79a6",
+    "yid": 49370026,
     "password": "49370026",
     "kid": 4190,
     "name": "Genin",
     "name_jp": "ジャグラー",
     "name_jp_rom": "Jagurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Juggler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,12 +32,21 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "Genin-SB-JP-C.jpg",
+            "full": "Genin-SB-JP-C.png",
             "art": null
         }
     },
     "image": null,
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Starter Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -58,5 +70,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9e3e0dbd-152a-41ee-9e8f-f3d4b0976788",
+    "yid": 40597694,
     "password": "40597694",
     "kid": 17464,
     "name": "Scatter Fusion",
     "name_jp": "スキャッター・フュージョン",
     "name_jp_rom": "Sukyattā Fyūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP062",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

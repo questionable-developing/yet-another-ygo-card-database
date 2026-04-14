@@ -1,11 +1,14 @@
 {
     "cid": "55562eb0-675e-43e7-86a1-2ee6fec21f3e",
+    "yid": 83102080,
     "password": "83102080",
     "kid": 11655,
     "name": "Parallel Twister",
     "name_jp": "パラレル・ツイスター",
     "name_jp_rom": "Parareru Tsuisutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP17-JP019",
+            "set": "Premium Pack 17",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR09-JP034",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

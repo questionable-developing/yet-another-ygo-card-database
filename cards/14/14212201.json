@@ -1,12 +1,14 @@
 {
     "cid": "2657d0b0-a722-47d7-bfa6-102fc733b5f4",
-    "yid": null,
+    "yid": 14212201,
     "password": "14212201",
     "kid": 10761,
     "name": "Shadow Vampire",
     "name_jp": "シャドウ・ヴァンパイア",
     "name_jp_rom": "Shadou Vanpaia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ShadowVampire-DBDS-JP-C.png",
+            "art": "ShadowVampire-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ShadowVampire-GFP2-EN-UR-1E.png",
-            "art": null
+            "art": "ShadowVampire-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHSP-EN030",
@@ -69,6 +76,23 @@
             "set": "Ghosts From the Past: The 2nd Haunting",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP030",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DBDS-JP012",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -112,5 +136,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

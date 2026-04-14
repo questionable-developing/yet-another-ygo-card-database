@@ -1,11 +1,14 @@
 {
     "cid": "4847c36f-f60f-4334-bf6c-efb2d2f95104",
+    "yid": 71818935,
     "password": "71818935",
     "kid": 19932,
     "name": "Moon of the Closed Heaven",
     "name_jp": "<ruby lang=\"jp\"><rb>閉ザサレシ天ノ月</rb><rp> (</rp><rt>サロス＝ナンナ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sarosu=Nanna",
+    "name_jp_rom_base": "Tozasareshi Ten no Tsuki",
     "name_jp_tl": "Saros-Nanna",
+    "name_jp_tl_base": "Moon of the Closed Heaven",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP249",
+            "set": "V Jump February 2024 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "25PP-JP029",
+            "set": "Premium Pack 2025",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

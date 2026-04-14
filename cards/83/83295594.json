@@ -1,11 +1,14 @@
 {
     "cid": "2a8267cd-2f9b-4f2d-a6dd-95652627a5ea",
+    "yid": 83295594,
     "password": "83295594",
     "kid": 10310,
     "name": "Steam Synchron",
     "name_jp": "スチーム・シンクロン",
     "name_jp_rom": "Suchīmu Shinkuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +61,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DE04-JP160",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP006",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "26TP-JP105",
+            "set": "Tournament Pack 2026 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +117,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

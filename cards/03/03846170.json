@@ -1,12 +1,14 @@
 {
     "cid": "cc98a3dd-e460-47d6-bd56-0e8eb20529b0",
-    "yid": null,
+    "yid": 3846170,
     "password": "03846170",
     "kid": 9096,
     "name": "Karakuri Soldier mdl 236 \"Nisamu\"",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>弐</rb><rp> (</rp><rt>ニ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>参</rb><rp> (</rp><rt>サ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Hei Nisamu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Soldier 236",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "STBL-EN019",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP019",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

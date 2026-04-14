@@ -1,11 +1,14 @@
 {
     "cid": "708483cc-b201-498c-9b96-c197f7b61173",
+    "yid": 58471134,
     "password": "58471134",
     "kid": 10240,
     "name": "Mermail Abysspike",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－アビスパイク",
     "name_jp_rom": "Māmeiru - Abisupaiku",
+    "name_jp_rom_base": "Suiseirin - Abisupaiku",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -63,6 +66,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP018",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

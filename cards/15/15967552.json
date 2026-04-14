@@ -1,12 +1,14 @@
 {
     "cid": "756959e7-b431-4255-bd9c-1714a807beea",
-    "yid": null,
+    "yid": 15967552,
     "password": "15967552",
     "kid": 18865,
     "name": "Small Scuffle",
     "name_jp": "リトル・オポジション",
     "name_jp_rom": "Ritoru Opojishon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Little Opposition",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP078",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -60,7 +71,8 @@
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "S-Force"
+            "S-Force",
+            "P (series)"
         ],
         "counter": [],
         "action": [],
@@ -83,5 +95,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "1e8e6def-74bc-4f07-b84d-cb5909ec3d65",
+    "yid": 97452817,
     "password": "97452817",
     "kid": 7588,
     "name": "Arcana Force XVIII - The Moon",
     "name_jp": "アルカナフォース<ruby lang=\"jp\"><rb>ⅩⅧ</rb><rp> (</rp><rt>エイティーン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>ＴＨＥ ＭＯＯＮ</rb><rp> (</rp><rt>ザ・ムーン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Arukana Fōsu Eitīn - Za Mūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LODT-EN015",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP015",
             "set": "Light of Destruction",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
             "Variable effects",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

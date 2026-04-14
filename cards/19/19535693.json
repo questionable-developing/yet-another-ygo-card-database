@@ -1,12 +1,14 @@
 {
     "cid": "dfdc0767-9cb5-4384-b20e-f834e6dc1b9a",
-    "yid": null,
+    "yid": 19535693,
     "password": "19535693",
     "kid": 16727,
     "name": "Noh-P.U.N.K. Ze Amin",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ</rb><rp> (</rp><rt>ノウ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp> (</rp><rt>パンク</rt><rp>)</rp></ruby>セアミン",
     "name_jp_rom": "Nou-Panku Seamin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Noh-P.U.N.K. Seamin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -67,6 +69,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP004",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP024",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +127,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

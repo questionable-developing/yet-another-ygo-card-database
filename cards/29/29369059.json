@@ -1,12 +1,14 @@
 {
     "cid": "a23bdd49-85b2-4dbb-a13b-d9556c351027",
-    "yid": null,
+    "yid": 29369059,
     "password": "29369059",
     "kid": 21374,
     "name": "Yummy☆Surprise",
     "name_jp": "ヤミー☆サプライズ",
     "name_jp_rom": "Yamī☆Sapuraizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,7 +29,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "YummySurprise-JUSH-EN-SR-1E.png",
+            "full": "YummySurprise-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -36,6 +38,28 @@
         {
             "sid": "JUSH-EN025",
             "set": "Justice Hunters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN074",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP025",
+            "set": "Deck-Build Pack: Justice Hunters",
             "rarities": {
                 "Super Rare": []
             }
@@ -87,5 +111,6 @@
             "Requires control of specific Attribute",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

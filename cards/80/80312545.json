@@ -1,11 +1,14 @@
 {
     "cid": "ff1069ee-339e-49e8-be91-111d5bde2900",
+    "yid": 80312545,
     "password": "80312545",
     "kid": 15141,
     "name": "Opening of the Spirit Gates",
     "name_jp": "<ruby lang=\"jp\"><rb>七</rb><rp> (</rp><rt>しち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>解</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>門</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shichisei no Kaimon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Opening of the Seven Spirit Gates",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD38-JP020",
+            "set": "Structure Deck: Sacred Beasts of Chaos",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP056",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +118,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

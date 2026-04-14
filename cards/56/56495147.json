@@ -1,11 +1,14 @@
 {
     "cid": "08007d36-e83c-491e-aa1f-121b4cfa2593",
+    "yid": 56495147,
     "password": "56495147",
     "kid": 16490,
     "name": "Swordsoul of Taia",
     "name_jp": "<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>泰</rb><rp> (</rp><rt>タイ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>阿</rb><rp> (</rp><rt>ア</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōkenshi - Taia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xiangjian Master - Taia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP004",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP070",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "74d7de39-c2ae-4428-80e0-7cfb2c5d6331",
+    "yid": 66059345,
     "password": "66059345",
     "kid": 21200,
     "name": "Materiactor Meltthrough",
     "name_jp": "<ruby lang=\"jp\"><rb>原質の炉心貫通</rb><rp> (</rp><rt>マテリアクトル・メルトスルー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Materiakutoru Merutosurū",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ALIN-EN063",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP063",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -89,5 +101,6 @@
             "Requires control of specific archetype",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

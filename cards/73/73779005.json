@@ -1,11 +1,14 @@
 {
     "cid": "00bc5422-6678-4fbc-b1bb-72b06fb4d5ac",
+    "yid": 73779005,
     "password": "73779005",
     "kid": 11630,
     "name": "Dragoons of Draconia",
     "name_jp": "ドラコニアの<ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>兵</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dorakonia no Jūryūkihei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beast Dragoons of Draconia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP048",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -88,5 +100,6 @@
             "Limited activations",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

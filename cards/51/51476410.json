@@ -1,11 +1,14 @@
 {
     "cid": "c3456a35-34a2-4f94-8e70-6ae29114ff95",
+    "yid": 51476410,
     "password": "51476410",
     "kid": 14124,
     "name": "Clock Lizard",
     "name_jp": "クロック・リザード",
     "name_jp_rom": "Kurokku Rizādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +44,15 @@
     "sets": [
         {
             "sid": "SAST-EN047",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP047",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -88,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

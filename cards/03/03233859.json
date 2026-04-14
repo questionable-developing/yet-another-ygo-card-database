@@ -1,12 +1,14 @@
 {
     "cid": "81181d5e-7db3-4675-817c-3397585f134b",
-    "yid": null,
+    "yid": 3233859,
     "password": "03233859",
     "kid": 14101,
     "name": "Psychic Wheeleder",
     "name_jp": "サイコウィールダー",
     "name_jp_rom": "Saiko Uīrudā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Wheelder",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP024",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBGC-JP038",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP054",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +123,6 @@
             "Requires control of specific Level",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "550538f1-9ede-473c-93cb-5d63be165ba3",
-    "yid": null,
+    "yid": 34198387,
     "password": "34198387",
     "kid": 16520,
     "name": "Meowseclick",
     "name_jp": "ニャータリング",
     "name_jp_rom": "Nyātaringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Meowtering",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP034",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b5723901-ac02-4152-8681-b958d1c6469d",
-    "yid": null,
+    "yid": 10248192,
     "password": "10248192",
     "kid": 5535,
     "name": "Hieroglyph Lithograph",
     "name_jp": "ヒエログリフの<ruby lang=\"jp\"><rb>石</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>版</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hierogurifu no Sekiban",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "DR1-EN034",
             "set": "Dark Revelation Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "301-034",
+            "set": "The New Ruler",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP034",
+            "set": "Expert Edition Volume.1",
             "rarities": {
                 "Common": []
             }
@@ -72,5 +90,6 @@
         "misc": [
             "Duel-lasting effects"
         ]
-    }
+    },
+    "links": {}
 }

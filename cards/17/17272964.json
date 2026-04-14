@@ -1,12 +1,14 @@
 {
     "cid": "4c62a61b-6232-4c95-900b-a7f15b3e143e",
-    "yid": null,
+    "yid": 17272964,
     "password": "17272964",
     "kid": 18476,
     "name": "Mannadium Fearless",
     "name_jp": "マナドゥム・ヒアレス",
     "name_jp_rom": "Manadumu Hiaresu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +68,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP013",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +125,6 @@
             "Requires control of specific ATK",
             "Requires control of specific DEF"
         ]
-    }
+    },
+    "links": {}
 }

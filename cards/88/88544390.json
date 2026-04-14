@@ -1,11 +1,14 @@
 {
     "cid": "57aa2934-1390-42e9-8f6f-83d5634106ec",
+    "yid": 88544390,
     "password": "88544390",
     "kid": 15481,
     "name": "The Phantom Knights of Stained Greaves",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>ステンドグリーブ",
     "name_jp_rom": "Fantomu Naitsu Sutendo Gurību",
+    "name_jp_rom_base": "Gen'ei Kishidan Sutendo Gurību",
     "name_jp_tl": "Phantom Knights Stained Greave",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -47,6 +50,15 @@
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP002",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -95,5 +107,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4cdc1c17-412e-4c13-b468-01b8fc43e042",
+    "yid": 62370023,
     "password": "62370023",
     "kid": 14329,
     "name": "Snowman Effect",
     "name_jp": "スノーマン・エフェクト",
     "name_jp_rom": "Sunōman Efekuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN079",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP079",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

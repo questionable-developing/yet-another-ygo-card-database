@@ -1,11 +1,14 @@
 {
     "cid": "e89a02a6-105c-40db-b624-fb2a3c17bfe1",
+    "yid": 78371393,
     "password": "78371393",
     "kid": 7409,
     "name": "Yubel",
     "name_jp": "ユベル",
     "name_jp_rom": "Yuberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +74,60 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP006",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DPC1-JP001",
+            "set": "Duelist Pack Collection",
+            "rarities": {
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP068",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP011",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20CP-JPF03",
+            "set": "20th Secret Rare Final Challenge Pack",
+            "rarities": {
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "HC01-JP016",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "PHNI-JPS01",
+            "set": "Phantom Nightmare +1 Bonus Pack",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,6 +177,9 @@
             "Elemental HERO Neos Kluger"
         ],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

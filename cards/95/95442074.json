@@ -1,11 +1,14 @@
 {
     "cid": "328f5f5d-98f8-4e4a-ba0b-44933a893484",
+    "yid": 95442074,
     "password": "95442074",
     "kid": 11019,
     "name": "Number 31: Embodiment of Punishment",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>３１ アベルズ・デビル",
     "name_jp_rom": "Nanbāzu Sanjūichi Aberuzu Debiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numbers 31: Abel's Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,17 +33,39 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "Number31EmbodimentofPunishment-NCF1-JP-UR.png",
+            "art": "Number31EmbodimentofPunishment-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "Number31EmbodimentofPunishment-PGLD-EN-GScR-1E.png",
-            "art": null
+            "art": "Number31EmbodimentofPunishment-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PGLD-EN024",
             "set": "Premium Gold",
             "rarities": {
                 "Gold Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PP16-JP015",
+            "set": "Premium Pack 16",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP031",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -85,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

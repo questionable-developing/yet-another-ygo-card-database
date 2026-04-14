@@ -1,11 +1,14 @@
 {
     "cid": "ffb4c572-35f7-46b9-b45a-ec174d50e695",
+    "yid": 86229493,
     "password": "86229493",
     "kid": 6985,
     "name": "Umbral Soul",
     "name_jp": "ダークネスソウル",
     "name_jp_rom": "Dākunesu Sōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Darkness Soul",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STON-EN030",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP030",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

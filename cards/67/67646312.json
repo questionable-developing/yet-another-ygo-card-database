@@ -1,11 +1,14 @@
 {
     "cid": "c29a224e-abfa-4f15-bed8-12b3a91ea6bc",
+    "yid": 67646312,
     "password": "67646312",
     "kid": 6683,
     "name": "Searchlightman",
     "name_jp": "サーチライトメン",
     "name_jp_rom": "Sāchiraitomen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Searchlightmen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP010",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP190",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e0fd1a45-1a24-430c-a0c3-29a8fdbcb258",
-    "yid": null,
+    "yid": 25524823,
     "password": "25524823",
     "kid": 10920,
     "name": "Gravekeeper's Oracle",
     "name_jp": "<ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>はか</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>守</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>審神者</rb><rp> (</rp><rt>さにわ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hakamori no Saniwa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gravekeeper's Saniwa",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP034",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "18TP-JP307",
+            "set": "Tournament Pack 2018 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +123,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

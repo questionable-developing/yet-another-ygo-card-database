@@ -1,11 +1,14 @@
 {
     "cid": "90ab91dc-a0aa-4354-a564-e9e575273b7b",
+    "yid": 64014615,
     "password": "64014615",
     "kid": 12655,
     "name": "Pot of Acquisitiveness",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>欲</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>な<ruby lang=\"jp\"><rb>壺</rb><rp> (</rp><rt>つぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Taiyoku na Tsubo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP065",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP030",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TBC1-JP006",
+            "set": "The Pot Collection",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +106,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

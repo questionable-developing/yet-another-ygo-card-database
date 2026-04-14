@@ -1,11 +1,14 @@
 {
     "cid": "bea935b9-fa59-47df-b620-4aae29bb70f7",
+    "yid": 83554231,
     "password": "83554231",
     "kid": 14302,
     "name": "Salamangreat Recureance",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣の再起</rb><rp> (</rp><rt>サラマングレイト・リキュアランス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saramangureito Rikyuaransu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP052",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "aa01dea8-7e3c-413a-8331-d55a4431cdaf",
+    "yid": 83334932,
     "password": "83334932",
     "kid": 18466,
     "name": "Superheavy Samurai Motorbike",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>バイ－<ruby lang=\"jp\"><rb>Ｑ</rb><rp> (</rp><rt>ク</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chōjūmusha Bai-Ku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Superheavy Samurai Bi-Q",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP003",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +113,6 @@
             "Requires having no Spells in Graveyard",
             "Requires having no Traps in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

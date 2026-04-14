@@ -1,11 +1,14 @@
 {
     "cid": "6d1109d1-9e42-4231-be1c-5690e0bb5785",
+    "yid": 65187687,
     "password": "65187687",
     "kid": 17151,
     "name": "Skeletal Dragon Felgrand",
     "name_jp": "<ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>骸</rb><rp> (</rp><rt>がい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>フェルグラント",
     "name_jp_rom": "Kyogairyū Feruguranto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Giant Skeletal Dragon Felgrand",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP040",
+            "set": "Dimension Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

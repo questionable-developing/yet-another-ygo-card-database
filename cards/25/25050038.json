@@ -1,12 +1,14 @@
 {
     "cid": "1d90a900-5eb0-4f73-90a3-8e1347b76f8d",
-    "yid": null,
+    "yid": 25050038,
     "password": "25050038",
     "kid": 6914,
     "name": "Chain Healing",
     "name_jp": "チェーン・ヒーリング",
     "name_jp_rom": "Chēn Hīringu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CDIP-EN053",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP053",
             "set": "Cyberdark Impact",
             "rarities": {
                 "Common": []
@@ -72,5 +83,6 @@
             "Variable effects",
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

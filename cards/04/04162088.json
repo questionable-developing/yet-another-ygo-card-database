@@ -1,12 +1,14 @@
 {
     "cid": "b12105f7-cbfc-4efa-b511-64ded71e0e38",
-    "yid": null,
+    "yid": 4162088,
     "password": "04162088",
     "kid": 6569,
     "name": "Cyber Laser Dragon",
     "name_jp": "サイバー・レーザー・ドラゴン",
     "name_jp_rom": "Saibā Rēzā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP007",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP04-JP003",
+            "set": "Duelist Pack: Zane Truesdale",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP127",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +117,6 @@
             "Limited activations",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

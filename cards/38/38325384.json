@@ -1,11 +1,14 @@
 {
     "cid": "b9935aa6-1cdb-4e4b-a03e-8ab06ad67745",
+    "yid": 38325384,
     "password": "38325384",
     "kid": 13429,
     "name": "Mythical Bestiary",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導加速</rb><rp> (</rp><rt>マジック・ブースト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Majikku Būsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Boost",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP058",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP040",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

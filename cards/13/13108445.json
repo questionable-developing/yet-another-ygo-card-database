@@ -1,12 +1,14 @@
 {
     "cid": "37fd533b-45ae-4bf4-823b-7f287922b78c",
-    "yid": null,
+    "yid": 13108445,
     "password": "13108445",
     "kid": 8912,
     "name": "Gem-Knight Aquamarine",
     "name_jp": "ジェムナイト・アクアマリナ",
     "name_jp_rom": "Jemunaito Akuamarina",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gem-Knight Aquamarina",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT09-JP035",
+            "set": "Duel Terminal - Vylon Descends!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP080",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SPRG-JP036",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP056",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +126,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

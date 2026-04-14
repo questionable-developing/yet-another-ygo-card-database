@@ -1,11 +1,14 @@
 {
     "cid": "32100c2a-3438-42a9-8432-3a4beb3a0865",
+    "yid": 40785230,
     "password": "40785230",
     "kid": 19147,
     "name": "Veda Kalarcanum",
     "name_jp": "ヴェーダ＝ウパニシャッド",
     "name_jp_rom": "Vēda=Upanishaddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Veda-Upanishad",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -41,6 +44,26 @@
             "set": "Age of Overlord",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP005",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AGOV-JP005",
+            "set": "Age of Overlord +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -86,7 +109,7 @@
             "Must be Special Summoned by a specific card effect",
             "Nomi",
             "Special Summon once per turn",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your hand",
             "Special Summons from your Deck",
             "Special Summons from your Graveyard"
@@ -107,5 +130,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

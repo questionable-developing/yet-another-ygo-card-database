@@ -1,12 +1,14 @@
 {
     "cid": "a58b18b2-f475-4afd-99a9-861d1266b86c",
-    "yid": null,
+    "yid": 22751868,
     "password": "22751868",
     "kid": 9123,
     "name": "Karakuri Showdown Castle",
     "name_jp": "<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雲</rb><rp> (</rp><rt>うん</rt><rp>)</rp></ruby>カラクリ<ruby lang=\"jp\"><rb>城</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fūun Karakuri Jō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Storming Karakuri Castle",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "STBL-EN046",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP046",
             "set": "Starstrike Blast",
             "rarities": {
                 "Rare": []
@@ -75,5 +86,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

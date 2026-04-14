@@ -1,11 +1,14 @@
 {
     "cid": "93be10e6-6bae-4a5f-849e-7449f5b2a01c",
+    "yid": 64767757,
     "password": "64767757",
     "kid": 20811,
     "name": "Materiactor Critical",
     "name_jp": "<ruby lang=\"jp\"><rb>原質の臨界超過</rb><rp> (</rp><rt>マテリアクトル・クリティカル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Materiakutoru Kuritikaru",
+    "name_jp_rom_base": "Genshitsu no Rinkaichōka",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Elemental Supercriticality",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN074",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP074",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

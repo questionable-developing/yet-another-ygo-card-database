@@ -1,11 +1,14 @@
 {
     "cid": "9a1963f6-d6d7-423b-a0ad-acf6aa51a275",
+    "yid": 41685633,
     "password": "41685633",
     "kid": 13924,
     "name": "Thunder Dragon Titan",
     "name_jp": "<ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－サンダー・ドラゴン",
     "name_jp_rom": "Raijinryū - Sandā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Thunder God Dragon - Thunder Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,28 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP037",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP174",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -63,7 +88,9 @@
             "Thunder",
             "Fusion Monster"
         ],
-        "asup": [],
+        "asup": [
+            "Thunder"
+        ],
         "arc": [
             "Thunder Dragon (archetype)"
         ],
@@ -101,5 +128,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

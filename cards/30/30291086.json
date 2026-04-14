@@ -1,12 +1,14 @@
 {
     "cid": "22a1cdd3-327c-4f4b-b276-0667cff0aff0",
-    "yid": null,
+    "yid": 30291086,
     "password": "30291086",
     "kid": 18157,
     "name": "Mental Tuner",
     "name_jp": "メンタル・チューナー",
     "name_jp_rom": "Mentaru Chūnā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP012",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +102,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "6b594f6e-beea-48e1-8396-52e6c7c3708f",
+    "yid": 72192100,
     "password": "72192100",
     "kid": 5775,
     "name": "Desrook Archfiend",
     "name_jp": "デスルークデーモン",
     "name_jp_rom": "Desu Rūku Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death Rook Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -64,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-017",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP232",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +129,6 @@
             "Die roll",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "09cf4d73-b85b-4d96-9194-9f89c1473db1",
+    "yid": 64952266,
     "password": "64952266",
     "kid": 8202,
     "name": "Against the Wind",
     "name_jp": "アゲインスト・ウィンド",
     "name_jp_rom": "Ageinsuto Windo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Against Wind",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP050",
+            "set": "Raging Battle",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP11-JP018",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

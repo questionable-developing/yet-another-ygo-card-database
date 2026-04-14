@@ -1,12 +1,14 @@
 {
     "cid": "b007b13a-4ac9-4745-841d-5fe4bdbb1e33",
-    "yid": null,
+    "yid": 30845999,
     "password": "30845999",
     "kid": 11406,
     "name": "Qlipper Launch",
     "name_jp": "<ruby lang=\"jp\"><rb>起動する機殻</rb><rp> (</rp><rt>クリフォートラン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kurifōtoran",
+    "name_jp_rom_base": "Kidōsuru Kikara",
     "name_jp_tl": "Qliphortran",
+    "name_jp_tl_base": "Machine Husk Launch",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP074",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

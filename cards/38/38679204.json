@@ -1,11 +1,14 @@
 {
     "cid": "8ead2683-0ff6-4183-adf4-87cce59bac9e",
+    "yid": 38679204,
     "password": "38679204",
     "kid": 9377,
     "name": "Vylon Stella",
     "name_jp": "ヴァイロン・ステラ",
     "name_jp_rom": "Vairon Sutera",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "VylonStella-DTC4-JP-DNPR-DT.png",
+            "art": "VylonStella-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "VylonStella-BP02-EN-C-UE.png",
-            "art": null
+            "art": "VylonStella-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA06-EN006",
@@ -48,6 +56,22 @@
             "rarities": {
                 "Common": [],
                 "Mosaic Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT11-JP021",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC4-JP036",
+            "set": "Duel Terminal Chronicle 4 - Chapter of Opposites",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -86,5 +110,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

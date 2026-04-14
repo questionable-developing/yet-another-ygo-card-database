@@ -1,11 +1,14 @@
 {
     "cid": "03868250-c870-44ef-b86b-b301de8e5e77",
+    "yid": 64145892,
     "password": "64145892",
     "kid": 9885,
     "name": "Photon Circle",
     "name_jp": "フォトン・サークラー",
     "name_jp_rom": "Foton Sākurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Photon Circler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP011",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP13-JP009",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

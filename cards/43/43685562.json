@@ -1,11 +1,14 @@
 {
     "cid": "94171fe9-8e62-4dc7-996c-aa088835cae9",
+    "yid": 43685562,
     "password": "43685562",
     "kid": 16734,
     "name": "Joruri-P.U.N.K. Dangerous Gabu",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｊｏ</rb><rp> (</rp><rt>ジョウルリ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp> (</rp><rt>パンク</rt><rp>)</rp></ruby>デンジャラス・ガブ",
     "name_jp_rom": "Joururi-Panku Denjarasu Gabu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP011",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP032",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +103,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

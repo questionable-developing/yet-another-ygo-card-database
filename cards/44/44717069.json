@@ -1,11 +1,14 @@
 {
     "cid": "8d32ee5d-1157-4f0c-be7a-9dc29640ff16",
+    "yid": 44717069,
     "password": "44717069",
     "kid": 10490,
     "name": "Starfish",
     "name_jp": "スターフィッシュ",
     "name_jp_rom": "Sutāfisshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP009",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

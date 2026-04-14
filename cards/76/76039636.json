@@ -1,11 +1,14 @@
 {
     "cid": "5cd0b10b-7838-48cc-8b6c-9461423c35c5",
+    "yid": 76039636,
     "password": "76039636",
     "kid": 6602,
     "name": "Doom Dozer",
     "name_jp": "デビルドーザー",
     "name_jp_rom": "Debiru Dōzā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Devil Dozer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -65,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP024",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP144",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

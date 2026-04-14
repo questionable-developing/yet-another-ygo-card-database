@@ -1,11 +1,14 @@
 {
     "cid": "be5af8fb-9efb-4611-8de2-2723aac92e97",
+    "yid": 98020526,
     "password": "98020526",
     "kid": 16259,
     "name": "Majestic Mirage",
     "name_jp": "セイヴァー・ミラージュ",
     "name_jp_rom": "Seivā Mirāju",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Savior Mirage",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP070",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,7 +88,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -96,5 +108,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

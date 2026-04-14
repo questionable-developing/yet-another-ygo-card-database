@@ -1,11 +1,14 @@
 {
     "cid": "10c0c778-659f-478c-9f23-d4c7a9c42078",
+    "yid": 86825483,
     "password": "86825483",
     "kid": 10087,
     "name": "Constellar Belt",
     "name_jp": "<ruby lang=\"jp\"><rb>神星なる領域</rb><rp> (</rp><rt>セイクリッド・ベルト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seikuriddo Beruto",
+    "name_jp_rom_base": "Shinseinaru Ryōiki",
     "name_jp_tl": "Sacred Belt",
+    "name_jp_tl_base": "Sacred Stellar Domain",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP064",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS13-JPL25",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPL24",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +102,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

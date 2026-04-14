@@ -1,12 +1,14 @@
 {
     "cid": "796afa6f-eb8b-48d6-8680-f99845d26a07",
-    "yid": null,
+    "yid": 14462257,
     "password": "14462257",
     "kid": 7498,
     "name": "Ice Queen",
     "name_jp": "<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>こおり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kōri no Joō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "IceQueen-TP22-JP-NPR.png",
+            "art": "IceQueen-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "IceQueen-AC18-EN-SR-1E.png",
-            "art": null
+            "art": "IceQueen-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SOVR-EN094",
@@ -55,6 +62,22 @@
             "set": "Yu-Gi-Oh! Advent Calendar (2018)",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LE14-JP003",
+            "set": "Limited Edition 14",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "TP22-JP001",
+            "set": "Tournament Pack 2012 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -93,5 +116,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

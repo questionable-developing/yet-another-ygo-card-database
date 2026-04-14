@@ -1,11 +1,14 @@
 {
     "cid": "d9c493d4-201c-4310-996d-31d0b6333b7d",
+    "yid": 48015771,
     "password": "48015771",
     "kid": 14147,
     "name": "Summon Over",
     "name_jp": "サモンオーバー",
     "name_jp_rom": "Samon Ōbā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP070",
+            "set": "Savage Strike",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -75,5 +87,6 @@
         "misc": [
             "At the start of Main Phase 1"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4d89a3d0-c266-4887-8b44-2e2f9056b227",
+    "yid": 98684051,
     "password": "98684051",
     "kid": 19462,
     "name": "White Sardine",
     "name_jp": "<ruby lang=\"jp\"><rb>白鰯</rb><rp> (</rp><rt>ホワイト・サーディン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Howaito Sādin",
+    "name_jp_rom_base": "Shiro Iwashi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP007",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

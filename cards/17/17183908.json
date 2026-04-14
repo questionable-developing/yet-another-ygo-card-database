@@ -1,12 +1,14 @@
 {
     "cid": "c7d6370a-f77c-4692-99a2-3e79749238d1",
-    "yid": null,
+    "yid": 17183908,
     "password": "17183908",
     "kid": 11270,
     "name": "Yang Zing Path",
     "name_jp": "<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>輝</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>跡</rb><rp> (</rp><rt>せき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryūsei no Kiseki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bright Trail of Dragon Star",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP061",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

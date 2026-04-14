@@ -1,11 +1,14 @@
 {
     "cid": "32a44a38-7921-42a1-bad6-68b94283bd43",
+    "yid": 83286340,
     "password": "83286340",
     "kid": 15945,
     "name": "War Rock Fortia",
     "name_jp": "ウォークライ・フォティア",
     "name_jp_rom": "Wōkurai Fotia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Warcry Fotia",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -40,6 +43,15 @@
             "set": "Blazing Vortex",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP2-JP028",
+            "set": "World Premiere Pack 2021",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -88,5 +100,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

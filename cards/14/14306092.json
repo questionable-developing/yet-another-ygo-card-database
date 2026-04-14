@@ -1,12 +1,14 @@
 {
     "cid": "08d6457e-84a5-4b1a-a22b-79d1bfbc4ec7",
-    "yid": null,
+    "yid": 14306092,
     "password": "14306092",
     "kid": 10652,
     "name": "Shark Caesar",
     "name_jp": "<ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鮫</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>シャーク・カイゼル",
     "name_jp_rom": "Gakōtei Shāku Kaizeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fanged Shark Emperor - Shark Kaiser",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -45,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP049",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

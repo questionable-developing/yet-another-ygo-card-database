@@ -1,11 +1,14 @@
 {
     "cid": "9a6af01e-1be4-4bf6-b68a-1b9171c896da",
+    "yid": 72634965,
     "password": "72634965",
     "kid": 6888,
     "name": "Vanity's Ruler",
     "name_jp": "<ruby lang=\"jp\"><rb>虚無の統括者</rb><rp> (</rp><rt>ヴァニティー・ルーラー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vanitī Rūrā",
+    "name_jp_rom_base": "Kyomu no Tōkatsusha",
     "name_jp_tl": "Vanity Ruler",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP024",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP055",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR12-JP011",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +112,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

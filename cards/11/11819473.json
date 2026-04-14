@@ -1,12 +1,14 @@
 {
     "cid": "5e334850-2ae5-4e9f-9fa8-871d6d00148e",
-    "yid": null,
+    "yid": 11819473,
     "password": "11819473",
     "kid": 15543,
     "name": "Arcana Reading",
     "name_jp": "アルカナリーディング",
     "name_jp_rom": "Arukana Rīdingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "PHRA-EN064",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP064",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

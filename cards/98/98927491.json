@@ -1,11 +1,14 @@
 {
     "cid": "7e1f5aad-de57-417e-bdad-7672dc0e5e9f",
+    "yid": 98927491,
     "password": "98927491",
     "kid": 6744,
     "name": "Ambulance Rescueroid",
     "name_jp": "レスキューキューロイド",
     "name_jp_rom": "Resukyūkyūroido",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rescuebulanceroid",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP035",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

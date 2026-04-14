@@ -1,12 +1,14 @@
 {
     "cid": "6a7d3fbe-1bee-4f43-a509-ff2a736790cc",
-    "yid": null,
+    "yid": 26847978,
     "password": "26847978",
     "kid": 15525,
     "name": "Tri-Brigade Ferrijit the Barren Blossom",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣戦線</rb><rp> (</rp><rt>トライブリゲード</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>徒</rb><rp> (</rp><rt>あだ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>花</rb><rp> (</rp><rt>ばな</rt><rp>)</rp></ruby>のフェリジット",
     "name_jp_rom": "Toraiburigēdo Adabana no Ferijitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Iron Beast Frontline Ferrijit the Barren Blossom",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -56,6 +58,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP046",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP046",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP015",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

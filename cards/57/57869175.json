@@ -1,11 +1,14 @@
 {
     "cid": "ddc53e99-5767-4e90-bfff-b7d4b6d69be2",
+    "yid": 57869175,
     "password": "57869175",
     "kid": 14470,
     "name": "Fortune Lady Past",
     "name_jp": "フォーチュンレディ・パスティー",
     "name_jp_rom": "Fōchun Redi Pasutī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Lady Pasty",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,14 +33,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyPast-RIRA-JP-R.png",
+            "art": "FortuneLadyPast-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyPast-RIRA-EN-R-1E.png",
-            "art": null
+            "art": "FortuneLadyPast-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "RIRA-EN008",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP008",
             "set": "Rising Rampage",
             "rarities": {
                 "Rare": []
@@ -87,5 +104,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

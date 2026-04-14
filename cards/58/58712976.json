@@ -1,11 +1,14 @@
 {
     "cid": "288b1aab-af13-468e-a767-ee5819930092",
+    "yid": 58712976,
     "password": "58712976",
     "kid": 10475,
     "name": "Infernal Flame Vixen",
     "name_jp": "ヘルフレイムゴースト",
     "name_jp_rom": "Herufureimu Gōsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Flame Ghost",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -32,13 +35,27 @@
             "idx": "1",
             "full": "InfernalFlameVixen-CBLZ-EN-R-1E.png",
             "art": null
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "InfernalFlameVixen-EP13-JP-R.png",
+            "art": "InfernalFlameVixen-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "CBLZ-EN087",
             "set": "Cosmo Blazer",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP038",
+            "set": "Extra Pack: Sword of Knights",
             "rarities": {
                 "Rare": []
             }
@@ -79,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

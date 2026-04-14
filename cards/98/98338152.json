@@ -1,11 +1,14 @@
 {
     "cid": "f4876c3a-7fb7-4b7c-8741-02203c3496ef",
+    "yid": 98338152,
     "password": "98338152",
     "kid": 13675,
     "name": "Sky Striker Mecha - Widow Anchor",
     "name_jp": "<ruby lang=\"jp\"><rb>閃</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>－ウィドウアンカー",
     "name_jp_rom": "Sentōki - Widou Ankā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flash Sword Mecha - Widow Anchor",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SkyStrikerMechaWidowAnchor-MAMA-EN-UR-1E.png",
+            "full": "SkyStrikerMechaWidowAnchor-L26D-EN-C-1E.png",
+            "art": "SkyStrikerMechaWidowAnchor-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "SkyStrikerMechaWidowAnchor-DDS2-JP-OP.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "DASA-EN034",
@@ -56,6 +64,54 @@
         {
             "sid": "MAMA-EN010",
             "set": "Magnificent Mavens",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "L26D-ENS14",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP034",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "PAC1-JP045",
+            "set": "Prismatic Art Collection",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP047",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DDS2-JPS01",
+            "set": "Deluxe Duel Set: Sky Striker Ace",
+            "rarities": {
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DDS2-JP0??",
+            "set": "Deluxe Duel Set: Sky Striker Ace",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -94,5 +150,6 @@
         "misc": [
             "Requires control of no monsters in the Main Monster Zone"
         ]
-    }
+    },
+    "links": {}
 }

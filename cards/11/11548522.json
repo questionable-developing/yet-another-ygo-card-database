@@ -1,12 +1,14 @@
 {
     "cid": "f5f96bfb-edf8-4046-90da-e385a109bec9",
-    "yid": null,
+    "yid": 11548522,
     "password": "11548522",
     "kid": 5767,
     "name": "Outstanding Dog Marron",
     "name_jp": "<ruby lang=\"jp\"><rb>迷</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>犬</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>マロン",
     "name_jp_rom": "Meiken Maron",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Wandering Dog Marron",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -65,6 +67,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-009",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP224",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

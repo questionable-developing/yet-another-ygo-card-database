@@ -1,12 +1,14 @@
 {
     "cid": "89821fa6-40a7-4606-b42c-9cc9ec3920ff",
-    "yid": null,
+    "yid": 16708652,
     "password": "16708652",
     "kid": 9344,
     "name": "Karakuri Gold Dust",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>粉</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuriko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Powder",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "STOR-EN053",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP053",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -72,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

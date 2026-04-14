@@ -1,11 +1,14 @@
 {
     "cid": "fa2f8ce5-d5bc-4fb6-b152-85f7eaf60cae",
+    "yid": 66149377,
     "password": "66149377",
     "kid": 13325,
     "name": "Magical Musket - Dancing Needle",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>－ダンシング・ニードル",
     "name_jp_rom": "Madan - Danshingu Nīdoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magibullet - Dancing Needle",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -45,6 +48,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP026",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP2-JP100",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP165",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

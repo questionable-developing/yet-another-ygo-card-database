@@ -1,12 +1,14 @@
 {
     "cid": "bbf13a32-1129-4dc3-86d1-e6b4bc8d899b",
-    "yid": null,
+    "yid": 26582143,
     "password": "26582143",
     "kid": 20756,
     "name": "Gladiator Beast Gistel",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>ギステル",
     "name_jp_rom": "Guradiaru Bīsuto Gisuteru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gladial Beast Gister",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -41,6 +43,15 @@
             "set": "Supreme Darkness",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP017",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -89,5 +100,6 @@
             "At the end of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

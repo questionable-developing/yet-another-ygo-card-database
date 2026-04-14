@@ -1,11 +1,14 @@
 {
     "cid": "e9d1db71-833c-422a-a3d4-6a443339153d",
+    "yid": 80204957,
     "password": "80204957",
     "kid": 9343,
     "name": "Karakuri Cash Cache",
     "name_jp": "<ruby lang=\"jp\"><rb>借</rb><rp> (</rp><rt>かり</rt><rp>)</rp></ruby>カラクリ<ruby lang=\"jp\"><rb>蔵</rb><rp> (</rp><rt>くら</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kari Karakuri Kura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Borrowed Karakuri Warehouse",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "STOR-EN052",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP052",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -70,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

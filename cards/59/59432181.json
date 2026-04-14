@@ -1,11 +1,14 @@
 {
     "cid": "5ef2f8c0-1ed1-4790-a290-5e07277078c0",
+    "yid": 59432181,
     "password": "59432181",
     "kid": 12338,
     "name": "Fusion Tag",
     "name_jp": "<ruby lang=\"jp\"><rb>融合識別</rb><rp> (</rp><rt>フュージョン・タグ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fyūjon Tagu",
+    "name_jp_rom_base": "Yūgō Shikibetsu",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Fusion Identification",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FusionTag-SD41-JP-C.png",
+            "art": "FusionTag-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FusionTag-OP25-EN-SR-UE.png",
-            "art": null
+            "art": "FusionTag-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHVI-EN066",
@@ -61,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP066",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD41-JP031",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,7 +103,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your Extra Deck"
+            "Reveals cards from your Extra Deck"
         ],
         "stat_change": [
             "Treated as alternate name",
@@ -93,5 +117,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

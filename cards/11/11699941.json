@@ -1,12 +1,14 @@
 {
     "cid": "d2e82d9a-755b-40b3-a879-bb301cb404aa",
-    "yid": null,
+    "yid": 11699941,
     "password": "11699941",
     "kid": 14867,
     "name": "Karakuri Gama Oil",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>蝦</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蟇</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>油</rb><rp> (</rp><rt>あぶら</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Gama Abura",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Toad Oil",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,15 @@
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP058",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -79,5 +90,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a60db527-d824-4a90-97da-f41590245a24",
+    "yid": 82886276,
     "password": "82886276",
     "kid": 18532,
     "name": "Cynet Circuit",
     "name_jp": "サイバネット・サーキット",
     "name_jp_rom": "Saibanetto Sākitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cybenet Circuit",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP24-EN349",
             "set": "25th Anniversary Tin: Dueling Mirrors",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP069",
+            "set": "Cyberstorm Access",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +102,6 @@
             "Requires specific LP",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "3df08047-bcdb-4348-aeeb-a3148471f49e",
+    "yid": 98022050,
     "password": "98022050",
     "kid": 15023,
     "name": "Animadorned Archosaur",
     "name_jp": "<ruby lang=\"jp\"><rb>珠</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>玉</rb><rp> (</rp><rt>ぎょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>－アルゴザウルス",
     "name_jp_rom": "Shugyokujū - Arugozaurusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Jewel Beast - Argosaurus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP037",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "23TP-JP201",
+            "set": "Tournament Pack 2023 Vol.2",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP201",
+            "set": "Top Prize Pack 2023 Vol.2",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +125,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

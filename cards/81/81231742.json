@@ -1,11 +1,14 @@
 {
     "cid": "b9086736-c216-4778-b1ba-d9e7f69a48b5",
+    "yid": 81231742,
     "password": "81231742",
     "kid": 11146,
     "name": "Sorcerous Spell Wall",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>邪</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>法</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壁</rb><rp> (</rp><rt>へき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Haja no Mahōheki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil-Slaying Spell Barrier",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,15 +29,29 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SorcerousSpellWall-ST14-JP-C.png",
+            "art": "SorcerousSpellWall-TFSP-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SorcerousSpellWall-YS14-EN-C-1E.png",
-            "art": null
+            "art": "SorcerousSpellWall-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "YS14-EN021",
             "set": "Super Starter: Space-Time Showdown",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ST14-JP021",
+            "set": "Starter Deck 2014",
             "rarities": {
                 "Common": []
             }
@@ -66,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

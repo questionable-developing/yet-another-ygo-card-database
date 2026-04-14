@@ -1,11 +1,14 @@
 {
     "cid": "9593d5be-3458-48d8-b1d0-93b51b8032ff",
+    "yid": 88650530,
     "password": "88650530",
     "kid": 7543,
     "name": "Worm Apocalypse",
     "name_jp": "ワーム・アポカリプス",
     "name_jp_rom": "Wāmu Apokaripusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WormApocalypse-DTC1-JP-DNPR-DT.jpg",
+            "art": "WormApocalypse-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WormApocalypse-BPW2-NA-C-1E.png",
-            "art": null
+            "art": "WormApocalypse-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA01-EN017",
@@ -47,6 +55,22 @@
             "set": "Starter Deck: Duelist Toolbox",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT01-JP026",
+            "set": "Duel Terminal - Synchro Awakening!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP017",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -80,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "e12aa941-f0b4-4dfb-9c5b-a3dbc9c3d413",
-    "yid": null,
+    "yid": 12299841,
     "password": "12299841",
     "kid": 9630,
     "name": "Wind-Up Soldier",
     "name_jp": "ゼンマイソルジャー",
     "name_jp_rom": "Zenmaisorujā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP013",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DB12-JP009",
+            "set": "Duelist Box 2012",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

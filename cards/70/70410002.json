@@ -1,11 +1,14 @@
 {
     "cid": "2dcd6b9b-264d-40bb-96ab-85293d865bbc",
+    "yid": 70410002,
     "password": "70410002",
     "kid": 13247,
     "name": "The Accumulator",
     "name_jp": "ザ・アキュムレーター",
     "name_jp_rom": "Za Akyumurētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP031",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "8aff3f71-c250-4ca8-83d2-50f0eb00700d",
-    "yid": null,
+    "yid": 3136426,
     "password": "03136426",
     "kid": 6054,
     "name": "Level Limit - Area B",
     "name_jp": "レベル<ruby lang=\"jp\"><rb>制</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>限</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby>Ｂ<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>区</rb><rp> (</rp><rt>く</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Reberu Seigen Bī Chiku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-037",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD3-JP024",
+            "set": "Structure Deck: Blaze of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP205",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "GS05-JP016",
+            "set": "Gold Series 2013",
+            "rarities": {
+                "Common": [],
+                "Gold Rare": [],
+                "Gold Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +121,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

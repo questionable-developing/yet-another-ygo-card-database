@@ -1,12 +1,14 @@
 {
     "cid": "30bef470-d637-4e91-bd2c-376e99508108",
-    "yid": null,
+    "yid": 22373487,
     "password": "22373487",
     "kid": 14526,
     "name": "Get Out!",
     "name_jp": "ゲット・アウト！",
     "name_jp_rom": "Getto Auto!",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP076",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +86,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

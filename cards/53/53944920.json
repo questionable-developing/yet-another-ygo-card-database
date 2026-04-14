@@ -1,11 +1,14 @@
 {
     "cid": "4b3ffab1-a153-4eab-a683-d6893d842729",
+    "yid": 53944920,
     "password": "53944920",
     "kid": 7948,
     "name": "Genex Furnace",
     "name_jp": "ジェネクス・ヒート",
     "name_jp_rom": "Jenekusu Hīto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Genex Heat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT03-JP011",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP061",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP060",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

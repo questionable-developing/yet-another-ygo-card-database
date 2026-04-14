@@ -1,12 +1,14 @@
 {
     "cid": "80b6ee1f-6bc4-45ba-9337-a992110038a0",
-    "yid": null,
+    "yid": 32828466,
     "password": "32828466",
     "kid": 17247,
     "name": "Wake Up Your Elemental HERO",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｗａｋｅ</rb><rp> (</rp><rt>ウェイク</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｕｐ</rb><rp> (</rp><rt>アップ</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｙｏｕｒ</rb><rp> (</rp><rt>ユア</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Weiku Appu Yua Erementaru Hīrō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -23,33 +25,81 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters<br />Must be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This card can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
+    "desc": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters<br />Must be Fusion Summoned. Gains 300 ATK for each material used for its Summon. Can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
     "pend_eff": null,
-    "mnst_eff": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This card can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
-    "eff": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. This card can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
+    "mnst_eff": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. Can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
+    "eff": "1 \"Elemental HERO\" Fusion Monster + 1+ Warrior monsters\nMust be Fusion Summoned. Gains 300 ATK for each material used for its Summon. Can make a number of attacks on monsters each Battle Phase, up to the number of Fusion Monsters used as material for its Summon. After damage calculation, if this card battled a monster: Destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. If this Fusion Summoned card is destroyed: Special Summon 1 Warrior monster from your hand or Deck.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
             "full": "WakeUpYourElementalHERO-MP24-EN-QCScR-1E.png",
+            "art": "WakeUpYourElementalHERO-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "WakeUpYourElementalHERO-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "MAZE-EN014",
             "set": "Maze of Memories",
             "rarities": {
-                "Ultra Rare": [],
-                "Collector's Rare": []
+                "Ultra Rare": ["1"],
+                "Collector's Rare": ["1"]
             }
         },
         {
             "sid": "MP24-EN018",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
-                "Quarter Century Secret Rare": []
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN142",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "HC01-JP012",
+            "set": "History Archive Collection",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCDB-JP034",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP043",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP002",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -101,5 +151,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

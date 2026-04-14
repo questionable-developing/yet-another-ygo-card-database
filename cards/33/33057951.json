@@ -1,12 +1,14 @@
 {
     "cid": "592a81f5-4d57-4f9e-9dbf-8a8137e69607",
-    "yid": null,
+    "yid": 33057951,
     "password": "33057951",
     "kid": 9666,
     "name": "Surface",
     "name_jp": "<ruby lang=\"jp\"><rb>浮</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>上</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fujō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -69,6 +71,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP049",
+            "set": "Generation Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD23-JP027",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP15-JP025",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD40-JP032",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +133,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

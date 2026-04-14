@@ -1,11 +1,14 @@
 {
     "cid": "864cb26d-82a3-4482-95ad-99d2d95941b7",
+    "yid": 64202399,
     "password": "64202399",
     "kid": 14953,
     "name": "Blue-Eyes Abyss Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>深淵の青眼龍</rb><rp> (</rp><rt>ディープ・オブ・ブルーアイズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dīpu Obu Burūaizu",
+    "name_jp_rom_base": "Shin'en no Seiganryū",
     "name_jp_tl": "Deep of Blue-Eyes",
+    "name_jp_tl_base": "Blue-Eyes Dragon of the Abyss",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -70,6 +73,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LGB1-JP005",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP017",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP006",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +146,6 @@
             "Only once per turn",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

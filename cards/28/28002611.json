@@ -1,12 +1,14 @@
 {
     "cid": "a42b33c8-5fd1-4c7c-97b6-f7a4b47f08d6",
-    "yid": null,
+    "yid": 28002611,
     "password": "28002611",
     "kid": 7881,
     "name": "Gadget Hauler",
     "name_jp": "ガジェット・トレーラー",
     "name_jp_rom": "Gajetto Torērā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gadget Trailer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,29 @@
         {
             "sid": "CSOC-EN013",
             "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP013",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT03-JP004",
+            "set": "Duel Terminal - Justice Strikes Back!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DP27-JP012",
+            "set": "Duelist Pack: Duelists of Pyroxene",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +102,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "3d112982-56ad-4fd1-a008-efc9463ae3f0",
-    "yid": null,
+    "yid": 34611551,
     "password": "34611551",
     "kid": 15742,
     "name": "Armed Dragon Flash",
     "name_jp": "<ruby lang=\"jp\"><rb>武装竜の霹靂</rb><rp> (</rp><rt>アームド・ドラゴン・フラッシュ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Āmudo Doragon Furasshu",
+    "name_jp_rom_base": "Busō Ryū no Hekireki",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP051",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

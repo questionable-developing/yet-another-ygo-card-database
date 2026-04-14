@@ -1,11 +1,14 @@
 {
     "cid": "cc08d199-3397-429f-85ad-c87a31de46c4",
+    "yid": 68670547,
     "password": "68670547",
     "kid": 7856,
     "name": "Paladin of the Cursed Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>闇竜の黒騎士</rb><rp> (</rp><rt>ブラックナイト・オブ・ダークドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burakku Naito Obu Dāku Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Knight of Dark Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD15-JP003",
+            "set": "Structure Deck: Undead World",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP008",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +109,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

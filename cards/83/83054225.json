@@ -1,11 +1,14 @@
 {
     "cid": "b769bc9f-8269-4b94-9158-d2fb63884654",
+    "yid": 83054225,
     "password": "83054225",
     "kid": 10542,
     "name": "Scramble!! Scramble!!",
     "name_jp": "<ruby lang=\"jp\"><rb>緊急発進</rb><rp> (</rp><rt>スクランブル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sukuranburu",
+    "name_jp_rom_base": "Kinkyū Hasshin",
     "name_jp_tl": "Scramble",
+    "name_jp_tl_base": "Emergency Launch",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP061",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +97,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

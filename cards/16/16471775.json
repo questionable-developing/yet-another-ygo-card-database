@@ -1,12 +1,14 @@
 {
     "cid": "7414ebd3-9a30-4376-bddb-4f8c68501ad6",
-    "yid": null,
+    "yid": 16471775,
     "password": "16471775",
     "kid": 16106,
     "name": "Ursarctic Departure",
     "name_jp": "ベアルクティ・ディパーチャー",
     "name_jp_rom": "Bearukuti Dipāchā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bearcti Departure",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,15 @@
         {
             "sid": "ANGU-EN036",
             "set": "Ancient Guardians",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBAG-JP036",
+            "set": "Deck-Build Pack: Ancient Guardians",
             "rarities": {
                 "Super Rare": []
             }
@@ -76,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

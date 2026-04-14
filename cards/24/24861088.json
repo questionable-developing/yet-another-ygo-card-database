@@ -1,12 +1,14 @@
 {
     "cid": "28b1fd3e-f964-492f-8da3-77fa71b5f465",
-    "yid": null,
+    "yid": 24861088,
     "password": "24861088",
     "kid": 10972,
     "name": "Chronomaly Nebra Disk",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>ネブラ・ディスク",
     "name_jp_rom": "Ōpātsu Nebura Disuku",
+    "name_jp_rom_base": "Senshi Isa Nebura Disuku",
     "name_jp_tl": "OOPArts Nebra Disk",
+    "name_jp_tl_base": "Prehistoric Heritage Nebra Disk",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP081",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19TP-JP405",
+            "set": "Tournament Pack 2019 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SUB1-JP020",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +116,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

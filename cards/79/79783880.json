@@ -1,11 +1,14 @@
 {
     "cid": "05a624a0-99d1-42b9-b16b-5c67668c8cc5",
+    "yid": 79783880,
     "password": "79783880",
     "kid": 14094,
     "name": "Shiranui Spectralsword Shade",
     "name_jp": "<ruby lang=\"jp\"><rb>逢</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刀</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōma no Yōtō - Shiranui",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witching Spectralsword - Shiranui",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP017",
+            "set": "Savage Strike",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,7 +86,7 @@
             "Negates the effects of the Summoned monsters"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Restricts the player's Special Summons to Type specific monsters"
         ],
         "attack": [],
@@ -85,5 +97,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

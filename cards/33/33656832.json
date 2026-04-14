@@ -1,12 +1,14 @@
 {
     "cid": "8232a294-aa36-4230-96e0-7d3df21b36ae",
-    "yid": null,
+    "yid": 33656832,
     "password": "33656832",
     "kid": 12408,
     "name": "Acrobatic Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>曲</rb><rp> (</rp><rt>きょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>芸</rb><rp> (</rp><rt>げい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyokugei no Majutsushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -45,6 +47,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP009",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD31-JP012",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like, Condition"
@@ -79,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

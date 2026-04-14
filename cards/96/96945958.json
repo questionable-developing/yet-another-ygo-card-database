@@ -1,11 +1,14 @@
 {
     "cid": "785929fe-0e43-4045-97ca-bbe73329dbfc",
+    "yid": 96945958,
     "password": "96945958",
     "kid": 15180,
     "name": "Speedroid CarTurbo",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＲ</rb><rp> (</rp><rt>スピードロイド</rt><rp>)</rp></ruby>カールターボ",
     "name_jp_rom": "Supīdoroido Kārutābo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -65,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP178",
+            "set": "V Jump Spring 2020 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP25-JP015",
+            "set": "Duelist Pack: Duelists of Whirlwind",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +129,6 @@
             "Requires control of specific Attribute",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

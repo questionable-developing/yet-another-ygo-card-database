@@ -1,11 +1,14 @@
 {
     "cid": "0e2b7c9e-d6d8-48ec-abf1-2b515d03eb14",
+    "yid": 87188910,
     "password": "87188910",
     "kid": 15029,
     "name": "Ravenous Crocodragon Archethys",
     "name_jp": "<ruby lang=\"jp\"><rb>飢</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鰐</rb><rp> (</rp><rt>がく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>アーケティス",
     "name_jp_rom": "Kigakuryū Āketisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -22,15 +25,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "1 Tuner + 1+ non-Tuner monsters<br />Gains 500 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Ravenous Crocodragon Archethys\" once per turn.<br />● If this card is Synchro Summoned: You can draw cards equal to the number of non-Tuners used for its Synchro Summon.<br />● (Quick Effect): You can discard 2 cards, then target 1 card on the field; destroy it.",
+    "desc": "1 Tuner + 1+ non-Tuners<br />Gains 500 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Ravenous Crocodragon Archethys\" once per turn. If this card is Synchro Summoned: You can draw cards equal to the number of non-Tuners used for its Synchro Summon. (Quick Effect): You can discard 2 cards, then target 1 card on the field; destroy it.",
     "pend_eff": null,
-    "mnst_eff": "1 Tuner + 1+ non-Tuner monsters\nGains 500 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Ravenous Crocodragon Archethys\" once per turn.\n● If this card is Synchro Summoned: You can draw cards equal to the number of non-Tuners used for its Synchro Summon.\n● (Quick Effect): You can discard 2 cards, then target 1 card on the field; destroy it.",
-    "eff": "1 Tuner + 1+ non-Tuner monsters\nGains 500 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Ravenous Crocodragon Archethys\" once per turn.\n● If this card is Synchro Summoned: You can draw cards equal to the number of non-Tuners used for its Synchro Summon.\n● (Quick Effect): You can discard 2 cards, then target 1 card on the field; destroy it.",
+    "mnst_eff": "1 Tuner + 1+ non-Tuners\nGains 500 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Ravenous Crocodragon Archethys\" once per turn. If this card is Synchro Summoned: You can draw cards equal to the number of non-Tuners used for its Synchro Summon. (Quick Effect): You can discard 2 cards, then target 1 card on the field; destroy it.",
+    "eff": "1 Tuner + 1+ non-Tuners\nGains 500 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Ravenous Crocodragon Archethys\" once per turn. If this card is Synchro Summoned: You can draw cards equal to the number of non-Tuners used for its Synchro Summon. (Quick Effect): You can discard 2 cards, then target 1 card on the field; destroy it.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "RavenousCrocodragonArchethys-MP21-EN-C-1E.png",
+            "full": "RavenousCrocodragonArchethys-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -48,6 +51,36 @@
             "set": "2021 Tin of Ancient Battles",
             "rarities": {
                 "Common": []
+            }
+        },
+        {
+            "sid": "L26D-ENX40",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP043",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "24TP-JP101",
+            "set": "Tournament Pack 2024 Vol.1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP101",
+            "set": "Top Prize Pack 2024 Vol.1",
+            "rarities": {
+                "Super Parallel Rare": []
             }
         }
     ],
@@ -90,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "22a74d80-3127-437b-90dc-6f7ac67a838b",
+    "yid": 93445074,
     "password": "93445074",
     "kid": 11978,
     "name": "Graydle Cobra",
     "name_jp": "グレイドル・コブラ",
     "name_jp_rom": "Gureidoru Kobura",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DOCS-EN034",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP034",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Treated as Equip Card"
         ]
-    }
+    },
+    "links": {}
 }

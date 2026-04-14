@@ -1,12 +1,14 @@
 {
     "cid": "0f1cdc28-2b5c-42ef-843c-7ddf480ff67d",
-    "yid": null,
+    "yid": 18585765,
     "password": "18585765",
     "kid": 14481,
     "name": "Voltester",
     "name_jp": "ボルテスター",
     "name_jp_rom": "Borutesutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP031",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,7 +84,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
+            "Repeats the effect",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

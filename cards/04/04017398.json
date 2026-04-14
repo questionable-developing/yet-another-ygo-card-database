@@ -1,12 +1,14 @@
 {
     "cid": "71c52ac4-ee67-453f-b031-be6e438986b3",
-    "yid": null,
+    "yid": 4017398,
     "password": "04017398",
     "kid": 16013,
     "name": "Zexal Entrust",
     "name_jp": "ゼアル・エントラスト",
     "name_jp_rom": "Zearu Entorasuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP22-EN092",
             "set": "2022 Tin of the Pharaoh's Gods",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP052",
+            "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +101,6 @@
             "Requires specific LP",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

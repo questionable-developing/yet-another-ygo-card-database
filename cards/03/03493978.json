@@ -1,12 +1,14 @@
 {
     "cid": "234bc1ea-90da-4b39-82c3-1b6610b87d26",
-    "yid": null,
+    "yid": 3493978,
     "password": "03493978",
     "kid": 5885,
     "name": "Don Turtle",
     "name_jp": "<ruby lang=\"jp\"><rb>首領亀</rb><rp> (</rp><rt>ドンガメ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dongame",
+    "name_jp_rom_base": "Shuryōgame",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Boss Turtle",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "307-016",
+            "set": "Invader of Darkness (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP072",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

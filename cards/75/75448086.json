@@ -1,11 +1,14 @@
 {
     "cid": "d62c1ba8-66a6-40bc-b377-6be051e73cea",
+    "yid": 75448086,
     "password": "75448086",
     "kid": 14778,
     "name": "Generaider Boss Quest",
     "name_jp": "<ruby lang=\"jp\"><rb>王の試練</rb><rp> (</rp><rt>ジェネレイド・クエスト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jenereido Kuesuto",
+    "name_jp_rom_base": "Ō no Shiren",
     "name_jp_tl": "Generaid Quest",
+    "name_jp_tl_base": "King's Trial",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP035",
+            "set": "Deck-Build Pack: Mystic Fighters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -60,7 +73,7 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Adds from Deck to hand",
             "Returns from hand to Deck"
         ],
@@ -75,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

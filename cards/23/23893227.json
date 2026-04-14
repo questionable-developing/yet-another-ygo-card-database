@@ -1,12 +1,14 @@
 {
     "cid": "d2f0634a-d5e0-4c16-a85f-2c15378b7eb1",
-    "yid": null,
+    "yid": 23893227,
     "password": "23893227",
     "kid": 10866,
     "name": "Cyber Dragon Core",
     "name_jp": "サイバー・ドラゴン・コア",
     "name_jp_rom": "Saibā Doragon Koa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -85,6 +87,46 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD26-JP001",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "18SP-JP105",
+            "set": "Special Pack 20th Anniversary Edition Vol.1",
+            "rarities": {
+                "Common": [],
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP008",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP016",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA02",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -130,5 +172,6 @@
             "Only 1 effect once per turn",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

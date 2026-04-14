@@ -1,12 +1,14 @@
 {
     "cid": "0811102a-3e35-4d70-a2bd-8b8395925b43",
-    "yid": null,
+    "yid": 34230233,
     "password": "34230233",
     "kid": 9712,
     "name": "Grapha, Dragon Lord of Dark World",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby> グラファ",
     "name_jp_rom": "Ankokukai no Ryūshin Gurafa",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Grapha, Dragon God of Dark World",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -87,6 +89,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD21-JP001",
+            "set": "Structure Deck: Devil's Gate",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR13-JPP03",
+            "set": "Structure Deck R: Devil's Gate The Doors of the Abyss Opened Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,7 +127,7 @@
         "counter": [],
         "action": [
             "Returns from field to hand for Special Summon",
-            "Reveals your opponent's hand",
+            "Reveals cards from your opponent's hand",
             "Activates from your Graveyard"
         ],
         "stat_change": [],
@@ -133,5 +152,6 @@
             "Requires control of specific archetype",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

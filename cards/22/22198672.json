@@ -1,12 +1,14 @@
 {
     "cid": "0bc7cc38-8ffb-4eee-9b23-14aee5e1f4f1",
-    "yid": null,
+    "yid": 22198672,
     "password": "22198672",
     "kid": 13104,
     "name": "Castle Link",
     "name_jp": "キャッスル・リンク",
     "name_jp_rom": "Kyassuru Rinku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,16 @@
             "set": "Code of the Duelist",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP065",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -73,5 +85,6 @@
             "Limited activations",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

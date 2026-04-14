@@ -1,11 +1,14 @@
 {
     "cid": "47336efb-154c-4fb0-9487-9a5a2873718a",
+    "yid": 44656491,
     "password": "44656491",
     "kid": 4938,
     "name": "Messenger of Peace",
     "name_jp": "<ruby lang=\"jp\"><rb>平</rb><rp> (</rp><rt>へい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>和</rb><rp> (</rp><rt>わ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Heiwa no Shisha",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -75,6 +78,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-51",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DL1-086",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE1-JP065",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "BE01-JP060",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +139,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

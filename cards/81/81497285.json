@@ -1,11 +1,14 @@
 {
     "cid": "8e720e14-9be7-431c-9de6-2812446411ae",
+    "yid": 81497285,
     "password": "81497285",
     "kid": 17785,
     "name": "Lady Labrynth of the Silver Castle",
     "name_jp": "<ruby lang=\"jp\"><rb>迷宮城の白銀姫</rb><rp> (</rp><rt>レディ・オブ・ザ・ラビュリンス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Redi Obu Za Rabyurinsu",
+    "name_jp_rom_base": "Meikyūjō no Shirogane Hime",
     "name_jp_tl": "Lady of the Labrynth",
+    "name_jp_tl_base": "Silver Princess of the Labyrinth Castle",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -35,7 +38,7 @@
         "2": {
             "idx": "2",
             "full": "LadyLabrynthoftheSilverCastle-RA04-EN-QCScR-1E.png",
-            "art": "LadyLabrynthoftheSilverCastle-OW.png"
+            "art": "LadyLabrynthoftheSilverCastle-MADU-EN-VG-artwork-2.png"
         }
     },
     "image": "2",
@@ -66,6 +69,35 @@
             "sid": "RA04-EN042",
             "set": "Quarter Century Stampede",
             "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP030",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DABL-JP030",
+            "set": "Darkwing Blast +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP011",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
                 "Quarter Century Secret Rare": []
             }
         }
@@ -115,5 +147,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a2ec46c9-5b9a-4267-bd4e-527af9122689",
+    "yid": 94749594,
     "password": "94749594",
     "kid": 21047,
     "name": "Curse of the Ancient Turtle",
     "name_jp": "<ruby lang=\"jp\"><rb>古</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>代</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>亀</rb><rp> (</rp><rt>がめ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>のろ</rt><rp>)</rp></ruby>い",
     "name_jp_rom": "Kodaigame no Noroi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "SUDA-EN083",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP069",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

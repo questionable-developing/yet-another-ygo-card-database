@@ -1,11 +1,14 @@
 {
     "cid": "f18419be-381d-499e-8db7-12eefee7a197",
+    "yid": 90337190,
     "password": "90337190",
     "kid": 5894,
     "name": "Torpedo Fish",
     "name_jp": "<ruby lang=\"jp\"><rb>魚</rb><rp> (</rp><rt>ぎょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魚</rb><rp> (</rp><rt>ぎょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyoraigyo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "307-027",
+            "set": "Invader of Darkness (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP083",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

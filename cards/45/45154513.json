@@ -1,11 +1,14 @@
 {
     "cid": "b487af08-2927-4536-8e62-28ead6784787",
+    "yid": 45154513,
     "password": "45154513",
     "kid": 17126,
     "name": "Alghoul Mazera",
     "name_jp": "アルグールマゼラ",
     "name_jp_rom": "Arugūru Mazera",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DIFO-EN014",
+            "set": "Dimension Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP014",
             "set": "Dimension Force",
             "rarities": {
                 "Common": []
@@ -88,5 +100,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "5cca8dd6-3754-49db-9569-af24458b6cf7",
+    "yid": 39229392,
     "password": "39229392",
     "kid": 10891,
     "name": "Overlay Sentinel",
     "name_jp": "オーバーレイ・スナイパー",
     "name_jp_rom": "Ōbārei Sunaipā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Overlay Sniper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "LVAL-EN005",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP005",
             "set": "Legacy of the Valiant",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

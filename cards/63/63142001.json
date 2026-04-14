@@ -1,11 +1,14 @@
 {
     "cid": "5b9d9ebb-eb2e-4994-b5c2-73d16969b57a",
+    "yid": 63142001,
     "password": "63142001",
     "kid": 6339,
     "name": "Batteryman AA",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>池</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>メン－<ruby lang=\"jp\"><rb>単</rb><rp> (</rp><rt>たん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>三</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>型</rb><rp> (</rp><rt>がた</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Denchimen - Tansangata",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TLM-JP030",
+            "set": "The Lost Millennium",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP210",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

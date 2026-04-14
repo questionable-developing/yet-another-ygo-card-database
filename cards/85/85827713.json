@@ -1,11 +1,14 @@
 {
     "cid": "dadb98f3-ab41-4943-9032-ec38c22cd824",
+    "yid": 85827713,
     "password": "85827713",
     "kid": 11103,
     "name": "Ghostrick Night",
     "name_jp": "ゴーストリック・ナイト",
     "name_jp_rom": "Gōsutorikku Naito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "GhostrickNight-PRIO-EN-C-1E.png",
-            "art": null
+            "full": "GhostrickNight-PRIO-JP-C.png",
+            "art": "GhostrickNight-TFSP-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "GhostrickNight-PRIO-EN-C-UE.png",
+            "art": "GhostrickNight-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PRIO-EN074",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP074",
             "set": "Primal Origin",
             "rarities": {
                 "Common": []
@@ -73,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

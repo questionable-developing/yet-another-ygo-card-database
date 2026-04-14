@@ -1,11 +1,14 @@
 {
     "cid": "7b623a22-a4bd-4b6c-b068-f9a994da9b30",
+    "yid": 80811661,
     "password": "80811661",
     "kid": 4683,
     "name": "Hamburger Recipe",
     "name_jp": "ハンバーガーのレシピ",
     "name_jp_rom": "Hanbāgā no Reshipi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PS-12",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-047",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBWS-JP042",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +116,6 @@
         "misc": [
             "Specific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

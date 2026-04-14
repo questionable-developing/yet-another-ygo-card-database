@@ -1,12 +1,14 @@
 {
     "cid": "105301e6-d10c-4d87-875d-2450098cfbfc",
-    "yid": null,
+    "yid": 20056760,
     "password": "20056760",
     "kid": 11976,
     "name": "Graydle Slime",
     "name_jp": "グレイドル・スライム",
     "name_jp_rom": "Gureidoru Suraimu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "DOCS-EN032",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP032",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Rare": []
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "446a29a2-2c9b-4372-8107-6a06158938ad",
+    "yid": 88552992,
     "password": "88552992",
     "kid": 10141,
     "name": "Chronomaly Golden Jet",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産</rb><rp> (</rp><rt>オーパーツ</rt><rp>)</rp></ruby>ゴールデン・シャトル",
     "name_jp_rom": "Ōpātsu Gōruden Shatoru",
+    "name_jp_rom_base": "Senshi Isan Gōruden Shatoru",
     "name_jp_tl": "OOPArts Golden Shuttle",
+    "name_jp_tl_base": "Prehistoric Heritage Golden Shuttle",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "REDU-EN011",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP011",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

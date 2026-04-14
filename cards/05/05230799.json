@@ -1,12 +1,14 @@
 {
     "cid": "f24558c5-574f-40c7-b1cb-3a95e9f7c29d",
-    "yid": null,
+    "yid": 5230799,
     "password": "05230799",
     "kid": 13317,
     "name": "Magical Musketeer Kidbrave",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>射</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby> ザ・キッド",
     "name_jp_rom": "Madan no Shashu Za Kiddo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magibullet Musketeer The Kid",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -49,6 +51,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBSW-JP018",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20CP-JPC05",
+            "set": "20th Secret Rare Challenge Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP160",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +113,6 @@
             "Only once per turn",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

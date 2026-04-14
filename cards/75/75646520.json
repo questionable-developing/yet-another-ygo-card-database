@@ -1,11 +1,14 @@
 {
     "cid": "709e6b96-208b-4a4b-817f-ab9bd01f25d6",
+    "yid": 75646520,
     "password": "75646520",
     "kid": 4945,
     "name": "Metal Detector",
     "name_jp": "<ruby lang=\"jp\"><rb>金</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>属</rb><rp> (</rp><rt>ぞく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>探</rb><rp> (</rp><rt>たん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>知</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>器</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kinzoku Tanchi-ki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CA-22",
+            "set": "Curse of Anubis (set)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-110",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

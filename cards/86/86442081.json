@@ -1,11 +1,14 @@
 {
     "cid": "e91ba707-8f21-4b28-b3ae-137a9faafd97",
+    "yid": 86442081,
     "password": "86442081",
     "kid": 6982,
     "name": "Silent Abyss",
     "name_jp": "サイレントアビス",
     "name_jp_rom": "Sairento Abisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STON-EN025",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP025",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

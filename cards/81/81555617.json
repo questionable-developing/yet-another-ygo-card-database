@@ -1,11 +1,14 @@
 {
     "cid": "7d854b26-c717-44eb-bb56-e29c041f65f7",
+    "yid": 81555617,
     "password": "81555617",
     "kid": 16497,
     "name": "Ad Libitum of Despia",
     "name_jp": "デスピアの<ruby lang=\"jp\"><rb>凶劇</rb><rp> (</rp><rt>アドリビトゥム</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Desupia no Adoribitumu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP011",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP050",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,7 +104,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -96,5 +115,6 @@
             "Turn limited effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

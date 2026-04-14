@@ -1,12 +1,14 @@
 {
     "cid": "29c68ea6-ed3c-4065-a247-36420a1506ea",
-    "yid": null,
+    "yid": 16719802,
     "password": "16719802",
     "kid": 9802,
     "name": "Bright Star Dragon",
     "name_jp": "スター・ブライト・ドラゴン",
     "name_jp_rom": "Sutā Buraito Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Star Bright Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,17 +32,31 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "BrightStarDragon-YS15-EU-C-1E.png",
-            "art": null
+            "full": "BrightStarDragon-TF06-JP-UR.jpg",
+            "art": "BrightStarDragon-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
+            "full": "BrightStarDragon-GAOV-EN-C-UE.png",
+            "art": "BrightStarDragon-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "GAOV-EN094",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TF06-JPB01",
+            "set": "Yu-Gi-Oh! 5D's Tag Force 6 Limit Over Tag Duel promotional card",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -75,5 +91,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

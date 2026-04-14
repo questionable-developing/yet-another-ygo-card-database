@@ -1,11 +1,14 @@
 {
     "cid": "f23c8990-2f97-45fd-a03b-6858bb77cab6",
+    "yid": 59023523,
     "password": "59023523",
     "kid": 6414,
     "name": "Cybernetic Magician",
     "name_jp": "サイバネティック・マジシャン",
     "name_jp_rom": "Saibanetikku Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP016",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP016",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

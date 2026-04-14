@@ -1,11 +1,14 @@
 {
     "cid": "080b5e74-8734-41eb-a84a-e43fcc9e60c8",
+    "yid": 39387565,
     "password": "39387565",
     "kid": 11856,
     "name": "Return of the Red-Eyes",
     "name_jp": "<ruby lang=\"jp\"><rb>真紅眼の鎧旋</rb><rp> (</rp><rt>リターン・オブ・レッドアイズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ritān Obu Reddoaizu",
+    "name_jp_rom_base": "Shinkume no Gaisen",
     "name_jp_tl": "Return of Red-Eyes",
+    "name_jp_tl_base": "Armored Return of the Deep-Crimson-Eyes",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -61,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP072",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

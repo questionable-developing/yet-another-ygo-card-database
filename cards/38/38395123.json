@@ -1,11 +1,14 @@
 {
     "cid": "e9b911ef-d372-486d-b871-636c4af0df14",
+    "yid": 38395123,
     "password": "38395123",
     "kid": 13478,
     "name": "Ojamatch",
     "name_jp": "おジャマッチング",
     "name_jp_rom": "Ojamatchingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ojamatching",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "SGX1-ENC16",
             "set": "Speed Duel GX: Duel Academy Box",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP19-JP023",
+            "set": "Duelist Pack: Legend Duelist 2",
             "rarities": {
                 "Common": []
             }
@@ -89,5 +101,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

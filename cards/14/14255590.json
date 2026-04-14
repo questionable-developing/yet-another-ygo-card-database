@@ -1,12 +1,14 @@
 {
     "cid": "fe64c352-28ae-48c7-984d-8a75a990e38d",
-    "yid": null,
+    "yid": 14255590,
     "password": "14255590",
     "kid": 6608,
     "name": "Malice Ascendant",
     "name_jp": "<ruby lang=\"jp\"><rb>増</rb><rp> (</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>幅</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>悪意</rb><rp> (</rp><rt>マリス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zōfuku suru Marisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Amplifying Malice",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP030",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP150",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +91,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

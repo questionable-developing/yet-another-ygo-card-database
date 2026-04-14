@@ -1,12 +1,14 @@
 {
     "cid": "0190935d-3613-4065-b667-a24f9b74d796",
-    "yid": null,
+    "yid": 22996376,
     "password": "22996376",
     "kid": 6244,
     "name": "Behemoth the King of All Animals",
     "name_jp": "<ruby lang=\"jp\"><rb>百獣王</rb><rp> (</rp><rt>アニマル・キング</rt><rp>)</rp></ruby> ベヒーモス",
     "name_jp_rom": "Animaru Kingu Behīmosu",
+    "name_jp_rom_base": "Hyakujūō Behīmosu",
     "name_jp_tl": "Animal King Behemoth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP014",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP134",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "23TP-JP205",
+            "set": "Tournament Pack 2023 Vol.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "919e03a0-425e-43ab-b3de-9a5e74e6d8f3",
+    "yid": 73431236,
     "password": "73431236",
     "kid": 5769,
     "name": "Iron Blacksmith Kotetsu",
     "name_jp": "<ruby lang=\"jp\"><rb>名</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>工</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>虎</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鉄</rb><rp> (</rp><rt>てつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Meikō Kotetsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Master Blacksmith Kotetsu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -72,6 +75,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-011",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE1-JP226",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DC01-JP016",
+            "set": "Deck Custom Pack 01",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +127,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

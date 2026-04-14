@@ -1,11 +1,14 @@
 {
     "cid": "91c152a4-b6df-4f2c-b92a-17cecc1e5645",
+    "yid": 69155991,
     "password": "69155991",
     "kid": 9321,
     "name": "Scrap Shark",
     "name_jp": "スクラップ・シャーク",
     "name_jp_rom": "Sukurappu Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STOR-EN030",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP030",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

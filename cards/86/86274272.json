@@ -1,11 +1,14 @@
 {
     "cid": "e2e3a274-5673-454c-96f3-7cec37ce2d53",
+    "yid": 86274272,
     "password": "86274272",
     "kid": 11498,
     "name": "Ritual Beast Ulti-Apelio",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> アペライオ",
     "name_jp_rom": "Seireijūki Aperaio",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Spirit Beast Steed Apelio",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +47,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP028",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP067",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW01-JP136",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +108,7 @@
             "Contact Fusion",
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -90,5 +121,6 @@
         "misc": [
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "dd0201a3-734d-4029-a0f7-482637763244",
-    "yid": null,
+    "yid": 17313545,
     "password": "17313545",
     "kid": 8179,
     "name": "Brain Golem",
     "name_jp": "ゴーレム",
     "name_jp_rom": "Gōremu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Golem",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "RGBT-EN027",
+            "set": "Raging Battle",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP027",
             "set": "Raging Battle",
             "rarities": {
                 "Rare": []
@@ -79,5 +90,6 @@
         "misc": [
             "From Konami Video Games"
         ]
-    }
+    },
+    "links": {}
 }

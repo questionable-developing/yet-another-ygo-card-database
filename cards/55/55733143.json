@@ -1,11 +1,14 @@
 {
     "cid": "9a157678-d7e6-48b5-a13d-e8be6e603732",
+    "yid": 55733143,
     "password": "55733143",
     "kid": 20720,
     "name": "Mimighoul Charm",
     "name_jp": "ミミグル・チャーム",
     "name_jp_rom": "Mimiguru Chāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mimigul Charm",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP025",
+            "set": "World Premiere Pack 2025",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
             "Once per Chain",
             "Only twice per turn"
         ]
-    }
+    },
+    "links": {}
 }

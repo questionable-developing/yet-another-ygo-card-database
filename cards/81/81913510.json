@@ -1,11 +1,14 @@
 {
     "cid": "e32e170b-d40f-45e9-bc69-492cadc17e0b",
+    "yid": 81913510,
     "password": "81913510",
     "kid": 7162,
     "name": "NEX",
     "name_jp": "<ruby lang=\"jp\"><rb>ＮＥＸ</rb><rp> (</rp><rt>ネオスペーシアンエクステント</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Neosupēshian Ekusutento",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Neo-Spacian Extent",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "TAEV-EN049",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP049",
             "set": "Tactical Evolution",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

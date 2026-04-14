@@ -1,12 +1,14 @@
 {
     "cid": "48d20e8d-46ae-48dc-8804-2b1064207827",
-    "yid": null,
+    "yid": 31516413,
     "password": "31516413",
     "kid": 10044,
     "name": "Hieratic Dragon of Nebthet",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>刻</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－ネフテドラゴン",
     "name_jp_rom": "Seikokuryū - Nefute Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hieroglyphic Dragon - Nephthe Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "GAOV-EN021",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP021",
             "set": "Galactic Overlord",
             "rarities": {
                 "Common": []
@@ -88,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

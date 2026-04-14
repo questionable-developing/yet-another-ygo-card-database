@@ -1,12 +1,14 @@
 {
     "cid": "3c313714-92e9-4de4-b16f-bfbfe034104e",
-    "yid": null,
+    "yid": 28593329,
     "password": "28593329",
     "kid": 13221,
     "name": "Dark Angel",
     "name_jp": "ダーク・エンジェル",
     "name_jp_rom": "Dāku Enjeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP005",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

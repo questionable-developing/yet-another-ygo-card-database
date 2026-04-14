@@ -1,12 +1,14 @@
 {
     "cid": "dc60e23c-5dda-4009-9900-2ffc2b70834b",
-    "yid": null,
+    "yid": 20345391,
     "password": "20345391",
     "kid": 13659,
     "name": "Seal, Strategist Fur Hire",
     "name_jp": "<ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>参</rb><rp> (</rp><rt>さん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>謀</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby> シール",
     "name_jp_rom": "Kūgadan no Sanbō Shīru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Seal, Staff Officer of the Skyfang Brigade",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP018",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

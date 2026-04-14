@@ -1,11 +1,14 @@
 {
     "cid": "25b94ad9-a491-4903-b01c-ab36f7a2210b",
+    "yid": 46290741,
     "password": "46290741",
     "kid": 13177,
     "name": "Citadel Whale",
     "name_jp": "<ruby lang=\"jp\"><rb>城</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>塞</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby>クジラ",
     "name_jp_rom": "Jōsai Kujira",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -52,6 +55,22 @@
         {
             "sid": "LED9-EN026",
             "set": "Legendary Duelists: Duels From the Deep",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP18-JP016",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP26-JP026",
+            "set": "Duelist Pack: Duelists of the Abyss",
             "rarities": {
                 "Common": []
             }
@@ -109,5 +128,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "9f87d3d2-ffe8-45b1-ae73-50466033aed7",
-    "yid": null,
+    "yid": 17192817,
     "password": "17192817",
     "kid": 5029,
     "name": "Molten Behemoth",
     "name_jp": "<ruby lang=\"jp\"><rb>溶岩大巨人</rb><rp> (</rp><rt>マグマ・ギガント</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Maguma Giganto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magma Gigant",
+    "name_jp_tl_base": "Lava Giant",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -36,6 +38,15 @@
     },
     "image": null,
     "sets": [],
+    "jp_sets": [
+        {
+            "sid": "PH-01",
+            "set": "Pharaonic Guardian (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [],
@@ -57,5 +68,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

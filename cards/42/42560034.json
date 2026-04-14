@@ -1,11 +1,14 @@
 {
     "cid": "b61febd6-3737-4889-bcc0-cfcf72e14a02",
+    "yid": 42560034,
     "password": "42560034",
     "kid": 16554,
     "name": "Night Flight",
     "name_jp": "<ruby lang=\"jp\"><rb>夜の逃飛行</rb><rp> (</rp><rt>ナイト・フライト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naito Furaito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "BODE-EN068",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP068",
             "set": "Burst of Destiny",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

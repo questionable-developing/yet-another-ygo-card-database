@@ -1,12 +1,14 @@
 {
     "cid": "fe24b896-eb33-4fee-92bf-b633382d0cb9",
-    "yid": null,
+    "yid": 18486927,
     "password": "18486927",
     "kid": 12675,
     "name": "Ancient Gear Gadget",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の歯車機械</rb><rp> (</rp><rt>アンティーク・ギアガジェット</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Gajetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Gadget",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR03-JP000",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

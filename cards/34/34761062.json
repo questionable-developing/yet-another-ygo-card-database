@@ -1,12 +1,14 @@
 {
     "cid": "a33e3d9f-e097-4f79-809c-1b95c6250f95",
-    "yid": null,
+    "yid": 34761062,
     "password": "34761062",
     "kid": 11515,
     "name": "Heavy Knight of the Flame",
     "name_jp": "<ruby lang=\"jp\"><rb>業</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>重</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōka no Jūkishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Heavy Knight of the Hellfire",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP15-JP054",
+            "set": "Extra Pack 2015",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR09-JP007",
+            "set": "Structure Deck R: Warriors' Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,6 +97,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

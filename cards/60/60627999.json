@@ -1,11 +1,14 @@
 {
     "cid": "0ed45ef6-5982-4944-bfc2-6ac6ce2b4cc7",
+    "yid": 60627999,
     "password": "60627999",
     "kid": 7650,
     "name": "Sanguine Swamp",
     "name_jp": "<ruby lang=\"jp\"><rb>血</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>沼</rb><rp> (</rp><rt>ぬま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chi no Numachi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bloody Swamp",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "LODT-EN077",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP077",
             "set": "Light of Destruction",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

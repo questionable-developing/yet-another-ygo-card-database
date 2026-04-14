@@ -1,12 +1,14 @@
 {
     "cid": "fe342ab2-98fb-462d-8db1-eae6aaa299b4",
-    "yid": null,
+    "yid": 13851202,
     "password": "13851202",
     "kid": 11545,
     "name": "Satellarknight Rigel",
     "name_jp": "<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby> リゲル",
     "name_jp_rom": "Sateranaito Rigeru",
+    "name_jp_rom_base": "Sei'inshi Rigeru",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP025",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

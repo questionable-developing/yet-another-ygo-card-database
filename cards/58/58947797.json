@@ -1,11 +1,14 @@
 {
     "cid": "3d26b4cb-3db3-4558-a532-c0be2eec85a9",
+    "yid": 58947797,
     "password": "58947797",
     "kid": 10873,
     "name": "Vampire Duke",
     "name_jp": "ヴァンパイア・デューク",
     "name_jp_rom": "Vanpaia Dyūku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP013",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

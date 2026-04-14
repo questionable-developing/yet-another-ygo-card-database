@@ -1,11 +1,14 @@
 {
     "cid": "ad2b0e65-7a11-48bf-9716-f151bc27856b",
+    "yid": 52518793,
     "password": "52518793",
     "kid": 7307,
     "name": "Colosseum - Cage of the Gladiator Beasts",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>檻</rb><rp> (</rp><rt>おり</rt><rp>)</rp></ruby>－コロッセウム",
     "name_jp_rom": "Guradiaru Bīsuto no Ori - Korosseumu",
+    "name_jp_rom_base": "Kentōjū no Ori - Korosseumu",
     "name_jp_tl": "Cage of the Gladial Beast - Colosseum",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "GLAS-EN054",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP054",
             "set": "Gladiator's Assault",
             "rarities": {
                 "Rare": []
@@ -82,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

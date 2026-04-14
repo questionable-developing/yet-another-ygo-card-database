@@ -1,12 +1,14 @@
 {
     "cid": "c30b04bd-f835-496c-840a-5009ab95142e",
-    "yid": null,
+    "yid": 9032529,
     "password": "09032529",
     "kid": 12352,
     "name": "Graceful Tear",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>涙</rb><rp> (</rp><rt>なみだ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tenshi no Namida",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Angel's Tear",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "GracefulTear-SHVI-JP-NR.png",
+            "art": "GracefulTear-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "GracefulTear-MP17-EN-C-1E.png",
-            "art": null
+            "art": "GracefulTear-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "SHVI-EN080",
@@ -45,6 +52,15 @@
             "set": "2017 Mega-Tin Mega Pack",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP080",
+            "set": "Shining Victories",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -76,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

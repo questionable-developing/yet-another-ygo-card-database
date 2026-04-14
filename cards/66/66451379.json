@@ -1,11 +1,14 @@
 {
     "cid": "8f848d7c-8197-47b8-b10e-c8106200ef8c",
+    "yid": 66451379,
     "password": "66451379",
     "kid": 11977,
     "name": "Graydle Alligator",
     "name_jp": "グレイドル・アリゲーター",
     "name_jp_rom": "Gureidoru Arigētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DOCS-EN033",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP033",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "misc": [
             "Treated as Equip Card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "0ab41413-8979-4d41-9a68-51cbda237377",
-    "yid": null,
+    "yid": 22539270,
     "password": "22539270",
     "kid": 9126,
     "name": "Scrap Lube",
     "name_jp": "スクラップ・オイルゾーン",
     "name_jp_rom": "Sukurappu Oiruzōn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scrap Oil Zone",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "STBL-EN049",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP049",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

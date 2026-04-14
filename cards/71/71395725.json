@@ -1,11 +1,14 @@
 {
     "cid": "98cde938-4ceb-4a9f-a99e-a562490f1892",
+    "yid": 71395725,
     "password": "71395725",
     "kid": 6894,
     "name": "Man Beast of Ares",
     "name_jp": "<ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>アレス",
     "name_jp_rom": "Jūjin Aresu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beast Man Ares",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP030",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +82,6 @@
         "misc": [
             "Chain Effects"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "7d7e0103-d4d8-45cb-9780-877b34f9a4b6",
+    "yid": 90179822,
     "password": "90179822",
     "kid": 16193,
     "name": "Despian Comedy",
     "name_jp": "<ruby lang=\"jp\"><rb>喜</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>劇</rb><rp> (</rp><rt>げき</rt><rp>)</rp></ruby>のデスピアン",
     "name_jp_rom": "Kigeki no Desupian",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP004",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP047",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +121,6 @@
             "Requires control of specific Monster card type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

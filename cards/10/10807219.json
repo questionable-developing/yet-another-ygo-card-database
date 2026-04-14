@@ -1,12 +1,14 @@
 {
     "cid": "13cc06a5-4d4a-469c-b0f8-79ce86a965d7",
-    "yid": null,
+    "yid": 10807219,
     "password": "10807219",
     "kid": 20505,
     "name": "Newbee!",
     "name_jp": "ニュービー！",
     "name_jp_rom": "Nyūbī!",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -41,6 +43,15 @@
             "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP029",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Normal Rare": []
             }
         }
     ],
@@ -84,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

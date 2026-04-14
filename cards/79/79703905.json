@@ -1,11 +1,14 @@
 {
     "cid": "d004409f-550f-45b0-8c66-82225bfea0a6",
+    "yid": 79703905,
     "password": "79703905",
     "kid": 7280,
     "name": "Cloudian - Altus",
     "name_jp": "<ruby lang=\"jp\"><rb>雲魔物</rb><rp> (</rp><rt>クラウディアン</rt><rp>)</rp></ruby>－アルトス",
     "name_jp_rom": "Kuraudian Arutosu",
+    "name_jp_rom_base": "Unmamono - Arutosu",
     "name_jp_tl": "Cloudian - Altos",
+    "name_jp_tl_base": "Cloud Monster - Altos",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP012",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "c357a929-2a7a-4fb5-adec-7143bee97d32",
+    "yid": 57753602,
     "password": "57753602",
     "kid": 7141,
     "name": "Gem Flash Energy",
     "name_jp": "ジェムフラッシュエナジー",
     "name_jp_rom": "Jemu Furasshu Enajī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "FOTB-EN059",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP059",
             "set": "Force of the Breaker",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

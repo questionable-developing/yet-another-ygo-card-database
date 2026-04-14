@@ -1,12 +1,14 @@
 {
     "cid": "d33b18ce-4099-4a83-b417-17ffb1db1241",
-    "yid": null,
+    "yid": 32787239,
     "password": "32787239",
     "kid": 12030,
     "name": "Performapal Trumpanda",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ラ・パンダ",
     "name_jp_rom": "Entameito Ra Panda",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Ra Panda",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -40,6 +42,22 @@
         {
             "sid": "COTD-EN095",
             "set": "Code of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VF15-JP001",
+            "set": "Jump Victory Carnival 2015 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DF16-JP001",
+            "set": "Duelist Festival 2016 - Promotion Pack",
             "rarities": {
                 "Common": []
             }
@@ -83,5 +101,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

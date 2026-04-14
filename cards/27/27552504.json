@@ -1,12 +1,14 @@
 {
     "cid": "3962a548-9260-4929-82e0-4cdef9480e92",
-    "yid": null,
+    "yid": 27552504,
     "password": "27552504",
     "kid": 12108,
     "name": "Beatrice, Lady of the Eternal",
     "name_jp": "<ruby lang=\"jp\"><rb>永</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遠</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>淑</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby> ベアトリーチェ",
     "name_jp_rom": "Eien no Shukujo Beatorīche",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -31,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BeatriceLadyoftheEternal-QCCU-JP-UR.png",
+            "art": "BeatriceLadyoftheEternal-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BeatriceLadyoftheEternal-BROL-EN-UR-1E.png",
-            "art": null
+            "art": "BeatriceLadyoftheEternal-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PGL3-EN021",
@@ -56,6 +63,32 @@
             "set": "Brothers of Legend",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP108",
+            "set": "V Jump November 2015 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP082",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP144",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -101,5 +134,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "97b993a5-5013-4439-99de-01ec103a388f",
-    "yid": null,
+    "yid": 10024317,
     "password": "10024317",
     "kid": 15711,
     "name": "Parametalfoes Melcaster",
     "name_jp": "パラメタルフォーゼ・メルキャスター",
     "name_jp_rom": "Parametarufōze Merukyasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Parametalphosis Mercaster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "BLVO-EN020",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP020",
             "set": "Blazing Vortex",
             "rarities": {
                 "Common": []
@@ -91,5 +102,6 @@
             "Limited activations",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

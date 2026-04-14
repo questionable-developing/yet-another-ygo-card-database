@@ -1,11 +1,14 @@
 {
     "cid": "1fd3662b-0127-4abf-a270-03c3776a257a",
+    "yid": 93238626,
     "password": "93238626",
     "kid": 11088,
     "name": "Don Thousand's Throne",
     "name_jp": "ドン・サウザンドの<ruby lang=\"jp\"><rb>玉</rb><rp> (</rp><rt>ぎょく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>座</rb><rp> (</rp><rt>ざ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Don Sauzando no Gyokuza",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "PRIO-EN059",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP059",
             "set": "Primal Origin",
             "rarities": {
                 "Rare": []
@@ -87,5 +99,6 @@
         "misc": [
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

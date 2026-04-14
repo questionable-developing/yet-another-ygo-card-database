@@ -1,12 +1,14 @@
 {
     "cid": "bdd1738d-276e-4651-9702-5b48cdaec51c",
-    "yid": null,
+    "yid": 34244455,
     "password": "34244455",
     "kid": 14274,
     "name": "Star Staring Starling",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>ほし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>向</rb><rp> (</rp><rt>むく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>どり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hoshimukudori",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP024",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +83,6 @@
             "Column",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

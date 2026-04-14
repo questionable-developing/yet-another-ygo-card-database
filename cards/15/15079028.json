@@ -1,12 +1,14 @@
 {
     "cid": "069d1f84-f575-4021-bbcc-c2f09fafebef",
-    "yid": null,
+    "yid": 15079028,
     "password": "15079028",
     "kid": 15989,
     "name": "World Soul - Carbon",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>久</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>－カルボン",
     "name_jp_rom": "Chikyūjin - Karubon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "World God - Carbon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "LIOV-EN028",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP028",
             "set": "Lightning Overdrive",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
             "Requires control of specific Type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

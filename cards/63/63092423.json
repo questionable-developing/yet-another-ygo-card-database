@@ -1,11 +1,14 @@
 {
     "cid": "ba16bd0e-38d6-4f1d-a728-4db65695609c",
+    "yid": 63092423,
     "password": "63092423",
     "kid": 13376,
     "name": "Linkbelt Wall Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>弾帯城壁龍</rb><rp> (</rp><rt>ベルトリンク・ウォール・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Berutorinku Wōru Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beltlink Wall Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -63,6 +66,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP006",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +124,6 @@
             "Special Summon Monster",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b244ff71-23f0-4f3e-a832-2e6c28319310",
+    "yid": 37930737,
     "password": "37930737",
     "kid": 17662,
     "name": "Gravity Balance",
     "name_jp": "<ruby lang=\"jp\"><rb>重力均衡</rb><rp> (</rp><rt>グラヴィティ・バランス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Guraviti Baransu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC02-JP046",
+            "set": "Animation Chronicle 2022",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -71,7 +84,7 @@
             "Redirects destruction"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons from your Graveyard"
         ],
         "attack": [
@@ -88,5 +101,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

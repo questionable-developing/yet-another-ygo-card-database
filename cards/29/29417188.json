@@ -1,12 +1,14 @@
 {
     "cid": "6a269231-3334-4c8b-898b-ef3f8a225ca2",
-    "yid": null,
+    "yid": 29417188,
     "password": "29417188",
     "kid": 9283,
     "name": "Psi-Blocker",
     "name_jp": "サイキック・ブロッカー",
     "name_jp_rom": "Saikikku Burokkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psychic Blocker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP027",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP303",
+            "set": "Tournament Pack 2022 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCR-JP049",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +112,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

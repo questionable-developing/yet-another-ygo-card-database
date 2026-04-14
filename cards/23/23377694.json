@@ -1,12 +1,14 @@
 {
     "cid": "6127b46a-a00c-45eb-b9fd-42018a9a5a7f",
-    "yid": null,
+    "yid": 23377694,
     "password": "23377694",
     "kid": 12274,
     "name": "Performapal Sellshell Crab",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>オオヤヤドカリ",
     "name_jp_rom": "Entameito Ooyayadokari",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Hermit Crab Landlord",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP002",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -90,5 +101,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

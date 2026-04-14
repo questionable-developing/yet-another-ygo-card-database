@@ -1,11 +1,14 @@
 {
     "cid": "f605a265-a52c-465c-8246-b480b6cc6406",
+    "yid": 48739627,
     "password": "48739627",
     "kid": 21466,
     "name": "Theorealize",
     "name_jp": "<ruby lang=\"jp\"><rb>無垢なる予幻視</rb><rp> (</rp><rt>テオリアライズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Teoriaraizu",
+    "name_jp_rom_base": "Mukunaru Yogenshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Pure Prophetic Vision",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP055",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -50,7 +62,9 @@
         ],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Theorealize (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [
@@ -84,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

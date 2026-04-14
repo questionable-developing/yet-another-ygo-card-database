@@ -1,11 +1,14 @@
 {
     "cid": "be539c92-f863-4381-84e2-71ce51e78e38",
+    "yid": 78990927,
     "password": "78990927",
     "kid": 15270,
     "name": "Megalith Phul",
     "name_jp": "メガリス・フール",
     "name_jp_rom": "Megarisu Fūru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP036",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25TP-JP207",
+            "set": "Tournament Pack 2025 Vol.2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

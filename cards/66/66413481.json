@@ -1,11 +1,14 @@
 {
     "cid": "c312d9cc-9d54-438c-ae72-f2e846f5e079",
+    "yid": 66413481,
     "password": "66413481",
     "kid": 10446,
     "name": "Fire King Avatar Yaksha",
     "name_jp": "<ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> ヤクシャ",
     "name_jp_rom": "En'ōjū Yakusha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Flame King Beast Yaksha",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VE08-JP005",
+            "set": "V Jump Edition 8",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR14-JP006",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

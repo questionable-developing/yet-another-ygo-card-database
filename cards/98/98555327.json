@@ -1,11 +1,14 @@
 {
     "cid": "1b478030-bccd-40bb-9b55-c0a72bd24d55",
+    "yid": 98555327,
     "password": "98555327",
     "kid": 10338,
     "name": "Galaxy Wizard",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河の魔導師</rb><rp> (</rp><rt>ギャラクシー・ウィザード</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Wizādo",
+    "name_jp_rom_base": "Ginga no Madōshi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP13-JP016",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "CPF1-JP041",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SUB1-JP068",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP050",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +129,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "5a85df49-5e43-441a-a5c9-c51126c01b05",
-    "yid": null,
+    "yid": 31768112,
     "password": "31768112",
     "kid": 8647,
     "name": "Oilman",
     "name_jp": "オイルメン",
     "name_jp_rom": "Oirumen",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP036",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP104",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPM14",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +117,6 @@
             "Limited activations",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

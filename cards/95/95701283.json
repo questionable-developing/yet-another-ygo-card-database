@@ -1,11 +1,14 @@
 {
     "cid": "1d0ab64e-2de3-4f51-a224-12bcfa5e2ac0",
+    "yid": 95701283,
     "password": "95701283",
     "kid": 6689,
     "name": "Majestic Mech - Goryu",
     "name_jp": "<ruby lang=\"jp\"><rb>光神機</rb><rp> (</rp><rt>ライトニングギア</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raitoningu Gia - Gōryū",
+    "name_jp_rom_base": "Kōshinki - Gōryū",
     "name_jp_tl": "Lightning Gear - Goryu",
+    "name_jp_tl_base": "Light God Machine - Goryu",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP016",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Super Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SD13-JP017",
+            "set": "Structure Deck: Revival of the Great Dragon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP196",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

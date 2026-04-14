@@ -1,12 +1,14 @@
 {
     "cid": "fba0b514-6655-434c-9bec-4a512bb9615e",
-    "yid": null,
+    "yid": 9709452,
     "password": "09709452",
     "kid": 18829,
     "name": "Gaia Blaze, the Force of the Sun",
     "name_jp": "<ruby lang=\"jp\"><rb>烈</rb><rp> (</rp><rt>れつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>日</rb><rp> (</rp><rt>じつ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ガイアブレイズ",
     "name_jp_rom": "Retsujitsu no Kishi Gaia Bureizu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gaia Blaze, the Knight of the Scorching Sun",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP042",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +102,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

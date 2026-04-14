@@ -1,11 +1,14 @@
 {
     "cid": "3233a93f-ddd4-433c-9d0c-92da0ea3ec18",
+    "yid": 78679226,
     "password": "78679226",
     "kid": 19895,
     "name": "Future Silence",
     "name_jp": "<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>来</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby>への<ruby lang=\"jp\"><rb>沈</rb><rp> (</rp><rt>ちん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黙</rb><rp> (</rp><rt>もく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mirai e no Chinmoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Silence to the Future",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP054",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +95,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

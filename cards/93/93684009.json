@@ -1,11 +1,14 @@
 {
     "cid": "233ababb-038a-43ca-b87f-3dd4b7ac34e9",
+    "yid": 93684009,
     "password": "93684009",
     "kid": 14685,
     "name": "Gladiator Rejection",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘排斥波</rb><rp> (</rp><rt>グラディアルリジェクション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Guradiaru Rijekushon",
+    "name_jp_rom_base": "Kentō Haisekiha",
     "name_jp_tl": "Gladial Rejection",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP058",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

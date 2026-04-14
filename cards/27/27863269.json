@@ -1,12 +1,14 @@
 {
     "cid": "7d08779d-f42f-46df-9411-81a4b5ae3c21",
-    "yid": null,
+    "yid": 27863269,
     "password": "27863269",
     "kid": 8662,
     "name": "Rocket Pilder",
     "name_jp": "ロケット・パイルダー",
     "name_jp_rom": "Roketto Pairudā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP051",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

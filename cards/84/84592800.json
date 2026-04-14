@@ -1,11 +1,14 @@
 {
     "cid": "258c81c8-ce4b-48f2-b271-d52ecf1b6153",
+    "yid": 84592800,
     "password": "84592800",
     "kid": 8167,
     "name": "Morphtronic Videon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・ビデオン",
     "name_jp_rom": "Difōmā Bideon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Videon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RGBT-EN015",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP015",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

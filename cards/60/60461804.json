@@ -1,11 +1,14 @@
 {
     "cid": "20b26d31-3033-4c21-a173-c47e98e15c6f",
+    "yid": 60461804,
     "password": "60461804",
     "kid": 16524,
     "name": "Destiny HERO - Destroyer Phoenix Enforcer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> デストロイフェニックスガイ",
     "name_jp_rom": "Desutenī Hīrō Desutoroi Fenikkusugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Destroy Phoenixguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -65,6 +68,51 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP039",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "BODE-JP039",
+            "set": "Burst of Destiny +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP033",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "AW01-JP008",
+            "set": "High-Resolution Artwork Series",
+            "rarities": {
+                "Ultra Rare (Special Purple Version)": []
+            }
+        },
+        {
+            "sid": "TTP1-JP046",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,7 +162,9 @@
         "smat": [],
         "misc": [
             "Only once per turn",
-            "During the Standby Phase"
+            "During the Standby Phase",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9bd7044c-47ef-4d3a-bc27-02d7a44fc732",
+    "yid": 49202162,
     "password": "49202162",
     "kid": 14193,
     "name": "Black Luster Soldier - Soldier of Chaos",
     "name_jp": "<ruby lang=\"jp\"><rb>混</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>沌</rb><rp> (</rp><rt>とん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby> カオス・ソルジャー",
     "name_jp_rom": "Konton no Senshi Kaosu Sorujā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Warrior of Chaos - Chaos Soldier",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -77,6 +80,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP2-JP001",
+            "set": "LINK VRAINS Pack 2",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP045",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPA34",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -118,7 +147,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Variable effects"
+            "Variable effects",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "95d23924-e67f-4833-bf4b-081d44fad6c6",
+    "yid": 42307760,
     "password": "42307760",
     "kid": 19891,
     "name": "Ragnaraika Stag Sovereign",
     "name_jp": "<ruby lang=\"jp\"><rb>蕾禍</rb><rp> (</rp><rt>ライカ</rt><rp>)</rp></ruby>ノ<ruby lang=\"jp\"><rb>大王鬼牙</rb><rp> (</rp><rt>ダイオウガ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Raika no Daiouga",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Budding Calamity Great King Ogre Fang",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP050",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LEDE-JP050",
+            "set": "Legacy of Destruction +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +124,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

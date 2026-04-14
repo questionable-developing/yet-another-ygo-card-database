@@ -1,11 +1,14 @@
 {
     "cid": "b287c0df-86b9-40a6-a3b9-b8c8fcf1c5ad",
+    "yid": 80723580,
     "password": "80723580",
     "kid": 7935,
     "name": "Giant Trap Hole",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>おお</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>落</rb><rp> (</rp><rt>お</rt><rp>)</rp></ruby>とし<ruby lang=\"jp\"><rb>穴</rb><rp> (</rp><rt>あな</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ō Otoshiana",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Giant Pitfall",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP080",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP066",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

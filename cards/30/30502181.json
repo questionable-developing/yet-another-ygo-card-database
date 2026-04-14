@@ -1,12 +1,14 @@
 {
     "cid": "12c19185-d0dc-4878-afd3-d7a1473ada0c",
-    "yid": null,
+    "yid": 30502181,
     "password": "30502181",
     "kid": 7749,
     "name": "Lightsworn Sabre",
     "name_jp": "ライトロード・レイピア",
     "name_jp_rom": "Raitorōdo Reipia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Rapier",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDGS-JP059",
+            "set": "The Duelist Genesis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +93,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d0be0849-0205-4910-ab9d-9ed925932d19",
+    "yid": 53828396,
     "password": "53828396",
     "kid": 6589,
     "name": "Adhesive Explosive",
     "name_jp": "<ruby lang=\"jp\"><rb>瞬</rb><rp> (</rp><rt>しゅん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>着</rb><rp> (</rp><rt>ちゃく</rt><rp>)</rp></ruby>ボマー",
     "name_jp_rom": "Shunchaku Bomā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Quick Adhesive Bomber",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +47,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP011",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP131",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "3395bb72-54ac-4a91-b4ce-b77dc8b1de79",
-    "yid": null,
+    "yid": 5795882,
     "password": "05795882",
     "kid": 13652,
     "name": "Vampire's Domain",
     "name_jp": "ヴァンパイアの<ruby lang=\"jp\"><rb>領</rb><rp> (</rp><rt>りょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Vanpaia no Ryōiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP009",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +104,6 @@
             "Limited activations",
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

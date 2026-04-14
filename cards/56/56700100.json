@@ -1,11 +1,14 @@
 {
     "cid": "9467c372-dd32-464c-809a-755e5485a222",
+    "yid": 56700100,
     "password": "56700100",
     "kid": 18010,
     "name": "My Friend Purrely",
     "name_jp": "ピュアリィ・マイフレンド",
     "name_jp_rom": "Pyuaryi Mai Furendo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Purrely, My Friend",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP020",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +109,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

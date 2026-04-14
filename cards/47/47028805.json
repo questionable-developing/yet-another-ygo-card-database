@@ -1,11 +1,14 @@
 {
     "cid": "26a5fe24-68bb-47f6-8863-2efeaa924594",
+    "yid": 47028805,
     "password": "47028805",
     "kid": 20503,
     "name": "L Magi Mergy",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｌ</rb><rp> (</rp><rt>リル</rt><rp>)</rp></ruby>マジマージ",
     "name_jp_rom": "Riru Maji Māji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lil' Magi Mergy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP027",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

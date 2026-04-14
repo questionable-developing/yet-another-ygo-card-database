@@ -1,12 +1,14 @@
 {
     "cid": "5f818a71-0824-4ff7-a16b-9f5187058580",
-    "yid": null,
+    "yid": 19420830,
     "password": "19420830",
     "kid": 14475,
     "name": "Cataclysmic Cryonic Coldo",
     "name_jp": "<ruby lang=\"jp\"><rb>満</rb><rp> (</rp><rt>まん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>禍</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby>コルドー",
     "name_jp_rom": "Mantenka Korudō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Coldo the Universal Cataclysm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "RIRA-EN030",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP030",
             "set": "Rising Rampage",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ac16c0b6-c616-48fd-b084-d50a85130cc8",
+    "yid": 45591967,
     "password": "45591967",
     "kid": 12402,
     "name": "Performapal Extra Slinger",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>エクストラ・シューター",
     "name_jp_rom": "Entameito Ekusutora Shūtā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Extra Shooter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP003",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Condition, Condition"
@@ -91,5 +103,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

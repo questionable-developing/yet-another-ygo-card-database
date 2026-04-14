@@ -1,12 +1,14 @@
 {
     "cid": "fdda525e-1a5c-48ff-afb5-a78bf0d6d06e",
-    "yid": null,
+    "yid": 12450071,
     "password": "12450071",
     "kid": 15033,
     "name": "Proxy F Magician",
     "name_jp": "プロキシー・<ruby lang=\"jp\"><rb>Ｆ</rb><rp> (</rp><rt>エフ</rt><rp>)</rp></ruby>・マジシャン",
     "name_jp_rom": "Purokishī Efu Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -70,6 +72,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP047",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP049",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -107,5 +127,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "bb592fc3-0359-4447-b47a-046b3c5fea91",
-    "yid": null,
+    "yid": 23153227,
     "password": "23153227",
     "kid": 17044,
     "name": "Seventh Ascension",
     "name_jp": "<ruby lang=\"jp\"><rb>七皇昇格</rb><rp> (</rp><rt>セブンス・アセンション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sebunsu Asenshon",
+    "name_jp_rom_base": "Nanakō Shōkaku",
     "name_jp_tl": "Seventh Ascension",
+    "name_jp_tl_base": "Ascension of the Seven Emperors",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +56,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP26-JP006",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP29-JP016",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

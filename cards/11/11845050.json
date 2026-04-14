@@ -1,12 +1,14 @@
 {
     "cid": "af5517d0-1361-4214-9af1-40ca9de5e9dc",
-    "yid": null,
+    "yid": 11845050,
     "password": "11845050",
     "kid": 14976,
     "name": "Right-Hand Shark",
     "name_jp": "ライトハンド・シャーク",
     "name_jp_rom": "Raitohando Shāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -30,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "RightHandShark-BROL-EN-UR-1E.png",
+            "full": "RightHandShark-OP26-EN-C-UE.png",
             "art": null
         }
     },
@@ -46,6 +48,24 @@
         {
             "sid": "OP26-EN017",
             "set": "OTS Tournament Pack 26",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "20PP-JP009",
+            "set": "Premium Pack 2020",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "AC04-JP033",
+            "set": "Animation Chronicle 2024",
             "rarities": {
                 "Common": []
             }
@@ -95,5 +115,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "74b613fd-1c79-439c-b601-4b3b3dd69641",
-    "yid": null,
+    "yid": 36527535,
     "password": "36527535",
     "kid": 12917,
     "name": "Performapal Revue Dancer",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>レビュー・ダンサー",
     "name_jp_rom": "Entameito Rebyū Dansā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Revue Dancer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "MACR-EN003",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP003",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

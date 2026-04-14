@@ -1,11 +1,14 @@
 {
     "cid": "119aec7a-d154-4dfb-83e1-59af9bd4a8cb",
+    "yid": 98280324,
     "password": "98280324",
     "kid": 11686,
     "name": "Fluffal Sheep",
     "name_jp": "ファーニマル・シープ",
     "name_jp_rom": "Fānimaru Shīpu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Furnimal Sheep",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP011",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

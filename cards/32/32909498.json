@@ -1,12 +1,14 @@
 {
     "cid": "6b333e9b-189a-4f81-b5ce-cd1921ee7b7d",
-    "yid": null,
+    "yid": 32909498,
     "password": "32909498",
     "kid": 17768,
     "name": "Kashtira Fenrir",
     "name_jp": "クシャトリラ・フェンリル",
     "name_jp_rom": "Kushatorira Fenriru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kshatrira Fenrir",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -30,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "KashtiraFenrir-MP23-EN-PScR-1E.png",
+            "full": "KashtiraFenrir-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -55,6 +57,28 @@
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
             "rarities": {
                 "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN024",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP012",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -96,5 +120,6 @@
             "Requires control of no monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

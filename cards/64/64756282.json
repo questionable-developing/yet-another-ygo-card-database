@@ -1,11 +1,14 @@
 {
     "cid": "fe8eebea-0892-4de9-96be-fb8152bd5b06",
+    "yid": 64756282,
     "password": "64756282",
     "kid": 14830,
     "name": "Witchcrafter Genni",
     "name_jp": "ウィッチクラフト・ジェニー",
     "name_jp_rom": "Witchikurafuto Jenī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Witchcraft Genni",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WitchcrafterGenni-SSB1-JP-NPR.png",
+            "art": "WitchcrafterGenni-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WitchcrafterGenni-MAMA-EN-UR-1E.png",
-            "art": null
+            "art": "WitchcrafterGenni-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "IGAS-EN021",
@@ -54,6 +62,23 @@
             "set": "Magnificent Mavens",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP021",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SSB1-JP019",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -98,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

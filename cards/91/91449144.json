@@ -1,11 +1,14 @@
 {
     "cid": "a3701461-6fd7-4481-86a5-705ed4de9bef",
+    "yid": 91449144,
     "password": "91449144",
     "kid": 9168,
     "name": "Caam, Serenity of Gusto",
     "name_jp": "ガスタの<ruby lang=\"jp\"><rb>静</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>寂</rb><rp> (</rp><rt>じゃく</rt><rp>)</rp></ruby> カーム",
     "name_jp_rom": "Gasuta no Seijaku Kāmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Caam, Silence of Gusta",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT10-JP024",
+            "set": "Duel Terminal - Raid of the Inverz!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC4-JP011",
+            "set": "Duel Terminal Chronicle 4 - Chapter of Opposites",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

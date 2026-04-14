@@ -1,11 +1,14 @@
 {
     "cid": "62ebda40-59ec-4379-8867-045cf3030849",
+    "yid": 69890967,
     "password": "69890967",
     "kid": 6565,
     "name": "Raviel, Lord of Phantasms",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>ラビエル",
     "name_jp_rom": "Genmaō Rabieru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -86,6 +89,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP003",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "MC2-JP003",
+            "set": "Master Collection Volume 2",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP123",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "17TP-JP302",
+            "set": "Tournament Pack 2017 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD38-JPP03",
+            "set": "Structure Deck: Sacred Beasts of Chaos Sacred Beasts Unleashed Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,12 +141,13 @@
         ],
         "asup": [],
         "arc": [
-            "Phantasm",
-            "Sacred Beast"
+            "Sacred Beast",
+            "Phantasm"
         ],
         "suparc": [],
         "asuparc": [],
         "rel": [
+            "Sacred Beast (archetype)",
             "Signature move"
         ],
         "counter": [],
@@ -136,5 +179,6 @@
             "Cover card",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

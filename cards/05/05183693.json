@@ -1,12 +1,14 @@
 {
     "cid": "9df8fbc7-946b-4c45-9feb-b33d2fd872f5",
-    "yid": null,
+    "yid": 5183693,
     "password": "05183693",
     "kid": 7224,
     "name": "Amulet of Ambition",
     "name_jp": "<ruby lang=\"jp\"><rb>下</rb><rp> (</rp><rt>げ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>克</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>上</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>首</rb><rp> (</rp><rt>くび</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>飾</rb><rp> (</rp><rt>かざ</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Gekokujō no Kubikazari",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP061",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP025",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +97,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

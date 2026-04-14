@@ -1,12 +1,14 @@
 {
     "cid": "18148fd3-c677-4ac9-a81a-f1e9e536fa2f",
-    "yid": null,
+    "yid": 22110647,
     "password": "22110647",
     "kid": 10534,
     "name": "Mecha Phantom Beast Dracossack",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ドラゴサック",
     "name_jp_rom": "Genjūki Doragosakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mecha Phantom Beast Dragossack",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -86,6 +88,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP053",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "17TP-JP301",
+            "set": "Tournament Pack 2017 Vol.3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP052",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -135,5 +161,6 @@
             "Limited activations",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

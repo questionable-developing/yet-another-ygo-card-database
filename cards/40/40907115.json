@@ -1,11 +1,14 @@
 {
     "cid": "6fcef914-3edd-43b6-bee9-f8dbbfed1dc3",
+    "yid": 40907115,
     "password": "40907115",
     "kid": 11494,
     "name": "Ritual Beast Tamer Wen",
     "name_jp": "<ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>使</rb><rp> (</rp><rt>つか</rt><rp>)</rp></ruby>い ウェン",
     "name_jp_rom": "Reijūtsukai Wen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirit Beast Tamer Wen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,28 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPTR-JP024",
+            "set": "Booster SP: Tribe Force",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP128",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,7 +97,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summon once per turn"
         ],
         "attack": [],
@@ -81,5 +106,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

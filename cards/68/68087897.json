@@ -1,11 +1,14 @@
 {
     "cid": "e562af10-6f49-4307-9b58-ca684c19748c",
+    "yid": 68087897,
     "password": "68087897",
     "kid": 8314,
     "name": "Scary Moth",
     "name_jp": "スケイルモース",
     "name_jp_rom": "Sukeiru Mōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scale Moth",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP023",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,5 +80,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

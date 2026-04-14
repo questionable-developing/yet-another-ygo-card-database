@@ -1,11 +1,14 @@
 {
     "cid": "e39ec722-b812-4b44-8fa8-11803b90b49f",
+    "yid": 63730624,
     "password": "63730624",
     "kid": 8205,
     "name": "Double Tool C&D",
     "name_jp": "ダブルツール<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>＆</rb><rp> (</rp><rt>アンド</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｃ</rb><rp> (</rp><rt>シー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Daburu Tsūru Dī Ando Shī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Double Tool D&C",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,29 @@
         {
             "sid": "RGBT-EN053",
             "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP053",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP145",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP27-JP018",
+            "set": "Duelist Pack: Duelists of Pyroxene",
             "rarities": {
                 "Common": []
             }
@@ -83,5 +109,6 @@
             "Equips only to a specific target",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

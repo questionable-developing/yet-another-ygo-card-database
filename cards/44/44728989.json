@@ -1,11 +1,14 @@
 {
     "cid": "34f1702a-3c60-40c0-b166-76493cfe57cf",
+    "yid": 44728989,
     "password": "44728989",
     "kid": 20392,
     "name": "Ocean of Regeneration",
     "name_jp": "<ruby lang=\"jp\"><rb>再</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>生</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>うみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Saisei no Umi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP005",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +82,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

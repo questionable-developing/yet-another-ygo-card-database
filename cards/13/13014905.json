@@ -1,12 +1,14 @@
 {
     "cid": "75ef807b-749f-437d-a489-0311e86f590b",
-    "yid": null,
+    "yid": 13014905,
     "password": "13014905",
     "kid": 18814,
     "name": "Agnimal Candle",
     "name_jp": "<ruby lang=\"jp\"><rb>火天獣</rb><rp> (</rp><rt>アグニマル</rt><rp>)</rp></ruby>－キャンドル",
     "name_jp_rom": "Agunimaru - Kyandoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Fire Heavenly Beast - Candle",
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP027",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
             "Only once per turn",
             "Once per Chain"
         ]
-    }
+    },
+    "links": {}
 }

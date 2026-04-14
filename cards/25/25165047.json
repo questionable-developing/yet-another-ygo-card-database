@@ -1,12 +1,14 @@
 {
     "cid": "184f3bc1-3c17-489e-a79c-1f7efc931956",
-    "yid": null,
+    "yid": 25165047,
     "password": "25165047",
     "kid": 9509,
     "name": "Life Stream Dragon",
     "name_jp": "ライフ・ストリーム・ドラゴン",
     "name_jp_rom": "Raifu Sutorīmu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -32,11 +34,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "LifeStreamDragon-DP27-JP-C.png",
+            "art": "LifeStreamDragon-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "LifeStreamDragon-LC5D-EN-C-1E.png",
-            "art": null
+            "art": "LifeStreamDragon-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "EXVC-EN038",
@@ -49,6 +56,23 @@
         {
             "sid": "LC5D-EN246",
             "set": "Legendary Collection 5D's Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP038",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DP27-JP014",
+            "set": "Duelist Pack: Duelists of Pyroxene",
             "rarities": {
                 "Common": []
             }
@@ -104,5 +128,6 @@
         "misc": [
             "Tuner Synchro Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9eb594ca-c0ef-48a9-9b7e-f76ecc2146c8",
+    "yid": 37750912,
     "password": "37750912",
     "kid": 16240,
     "name": "Stardust Illumination",
     "name_jp": "スターダスト・イルミネイト",
     "name_jp_rom": "Sutādasuto Irumineito",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Stardust Illuminate",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -44,6 +47,24 @@
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP051",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP057",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -94,5 +115,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

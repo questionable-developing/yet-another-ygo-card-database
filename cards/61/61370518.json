@@ -1,11 +1,14 @@
 {
     "cid": "95216c7d-7187-414d-bc0c-37a0599c1f91",
+    "yid": 61370518,
     "password": "61370518",
     "kid": 5778,
     "name": "Skull Archfiend of Lightning",
     "name_jp": "<ruby lang=\"jp\"><rb>迅</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>雷</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby>－スカル・デーモン",
     "name_jp_rom": "Jinrai no Maō - Sukaru Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon King of Thunderclap - Skull Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -73,6 +76,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "305-020",
+            "set": "Threat of the Dark Demon World",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE1-JP235",
+            "set": "Expert Edition Volume.1",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,13 +102,13 @@
         "sup": [],
         "asup": [],
         "arc": [
-            "Archfiend"
+            "Archfiend",
+            "Skull Archfiend"
         ],
         "suparc": [],
         "asuparc": [],
         "rel": [
-            "Zombie counterpart",
-            "Skull Archfiend"
+            "Zombie counterpart"
         ],
         "counter": [],
         "action": [],
@@ -111,7 +131,9 @@
         "smat": [],
         "misc": [
             "Die roll",
-            "During the Standby Phase"
+            "During the Standby Phase",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

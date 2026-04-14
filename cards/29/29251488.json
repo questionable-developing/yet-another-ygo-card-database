@@ -1,12 +1,14 @@
 {
     "cid": "a12a35e0-494a-4f77-b23a-f16d1b31bdfd",
-    "yid": null,
+    "yid": 29251488,
     "password": "29251488",
     "kid": 21434,
     "name": "Chef de Nouvelles",
     "name_jp": "シェフ・ド・ヌーベルズ",
     "name_jp_rom": "Shefu Do Nūberuzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chef de Nouvellez",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -45,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP023",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Ignition-like, Trigger-like, Condition"
@@ -71,7 +82,7 @@
             "Adds from Deck to hand",
             "Activates upon Special Summon",
             "Activates if Tributed",
-            "Activates from your Extra Deck",
+            "Activates if added to the Extra Deck",
             "Goes to Pendulum Zone",
             "Resolves as another card's effect"
         ],
@@ -95,5 +106,6 @@
             "Only once per turn",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

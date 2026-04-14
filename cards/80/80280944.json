@@ -1,11 +1,14 @@
 {
     "cid": "bbf45cd4-6e64-4a7c-8fad-671290e8a03b",
+    "yid": 80280944,
     "password": "80280944",
     "kid": 5806,
     "name": "Giant Rex",
     "name_jp": "ジャイアント・レックス",
     "name_jp_rom": "Jaianto Rekkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP17-JP031",
+            "set": "Collectors Pack 2017",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBWS-JP010",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +112,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

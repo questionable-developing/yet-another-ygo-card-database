@@ -1,12 +1,14 @@
 {
     "cid": "8b49fc86-8fd2-404c-acc7-8325e5ae8b56",
-    "yid": null,
+    "yid": 25518020,
     "password": "25518020",
     "kid": 8668,
     "name": "Machine Assembly Line",
     "name_jp": "マシン・デベロッパー",
     "name_jp_rom": "Mashin Deberoppā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Machine Developer",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -70,6 +72,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP057",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DS14-JPM19",
+            "set": "Duelist Set: Version Machine-Gear Troopers",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +124,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

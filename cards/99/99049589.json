@@ -1,11 +1,14 @@
 {
     "cid": "2298aef3-83b8-4b0e-8137-0d0fa5757aa3",
+    "yid": 99049589,
     "password": "99049589",
     "kid": 15292,
     "name": "Frightfur Repair",
     "name_jp": "デストーイ・リペアー",
     "name_jp_rom": "Desutōi Ripeā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death-Toy Repair",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ROTD-EN058",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP058",
             "set": "Rise of the Duelist",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

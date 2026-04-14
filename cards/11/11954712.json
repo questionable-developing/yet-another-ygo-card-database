@@ -1,12 +1,14 @@
 {
     "cid": "219289e5-0685-4139-b8cf-8454f642ff8c",
-    "yid": null,
+    "yid": 11954712,
     "password": "11954712",
     "kid": 9636,
     "name": "Flyfang",
     "name_jp": "フライファング",
     "name_jp_rom": "Furaifangu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -30,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "Flyfang-SBC1-EN-C-1E.png",
+            "full": "Flyfang-OP26-EN-C-UE.png",
             "art": null
         }
     },
@@ -53,6 +55,15 @@
         {
             "sid": "OP26-EN014",
             "set": "OTS Tournament Pack 26",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP019",
+            "set": "Generation Force",
             "rarities": {
                 "Common": []
             }
@@ -90,5 +101,6 @@
             "Archetype-exclusion condition",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

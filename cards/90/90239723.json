@@ -1,11 +1,14 @@
 {
     "cid": "223b48b2-1698-4a74-8ca9-766a0d858f0b",
+    "yid": 90239723,
     "password": "90239723",
     "kid": 8206,
     "name": "Morphtronic Repair Unit",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・リペアユニット",
     "name_jp_rom": "Difōmā Ripea Yunitto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Repair Unit",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,22 @@
         {
             "sid": "RGBT-EN054",
             "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP054",
+            "set": "Raging Battle",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP27-JP017",
+            "set": "Duelist Pack: Duelists of Pyroxene",
             "rarities": {
                 "Common": []
             }
@@ -75,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

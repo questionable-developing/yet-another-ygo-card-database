@@ -1,11 +1,14 @@
 {
     "cid": "829cf73b-d06d-4c2e-bb64-a2e6081158e2",
+    "yid": 63018036,
     "password": "63018036",
     "kid": 8208,
     "name": "Iron Core Immediate Disposal",
     "name_jp": "<ruby lang=\"jp\"><rb>緊</rb><rp> (</rp><rt>きん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鋼</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>核</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>処</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>分</rb><rp> (</rp><rt>ぶん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kinkyū Kōkaku Shobun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Urgent Steel Core Disposal",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RGBT-EN056",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP056",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f1304ee2-087c-4890-82fc-0aa00a5eb092",
+    "yid": 83888009,
     "password": "83888009",
     "kid": 17107,
     "name": "Rebirth of the Seventh Emperors",
     "name_jp": "<ruby lang=\"jp\"><rb>七皇再生</rb><rp> (</rp><rt>セブンス・アライバル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sebunsu Araibaru",
+    "name_jp_rom_base": "Nanakō Saisei",
     "name_jp_tl": "Seventh Arrival",
+    "name_jp_tl_base": "Rebirth of the Seven Emperors",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "22PP-JP015",
+            "set": "Premium Pack 2022",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,7 +89,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -88,5 +102,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

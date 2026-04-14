@@ -1,11 +1,14 @@
 {
     "cid": "cd7a147a-72ea-4377-a1a7-94bb2f3bbe7e",
+    "yid": 45939611,
     "password": "45939611",
     "kid": 10487,
     "name": "Little Fairy",
     "name_jp": "リトル・フェアリー",
     "name_jp_rom": "Ritoru Fearī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP006",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +84,6 @@
         "misc": [
             "Only twice per turn"
         ]
-    }
+    },
+    "links": {}
 }

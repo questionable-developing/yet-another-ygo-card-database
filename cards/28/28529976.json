@@ -1,12 +1,14 @@
 {
     "cid": "e986da59-8cb0-4703-8617-5316116ecaf8",
-    "yid": null,
+    "yid": 28529976,
     "password": "28529976",
     "kid": 8053,
     "name": "Super Solar Nutrient",
     "name_jp": "<ruby lang=\"jp\"><rb>超</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>栄</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>養</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>太</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>陽</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chō Eiyō Taiyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Nutrition Sun",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP058",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP102",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "19TP-JP314",
+            "set": "Tournament Pack 2019 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +120,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

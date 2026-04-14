@@ -1,11 +1,14 @@
 {
     "cid": "71a81f24-96c2-4dca-9d3e-6cdcb23f8b24",
+    "yid": 96428622,
     "password": "96428622",
     "kid": 6415,
     "name": "Cybernetic Cyclopean",
     "name_jp": "サイバネティック・サイクロプス",
     "name_jp_rom": "Saibanetikku Saikuropusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cybernetic Cyclops",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP017",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP017",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Requires having no cards in hand"
         ]
-    }
+    },
+    "links": {}
 }

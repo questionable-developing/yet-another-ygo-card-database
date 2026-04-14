@@ -1,11 +1,14 @@
 {
     "cid": "8f492af2-2f94-49eb-b55e-2563a18f764b",
+    "yid": 83414006,
     "password": "83414006",
     "kid": 9071,
     "name": "Vision HERO Poisoner",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｖ・ＨＥＲＯ</rb><rp> (</rp><rt>ヴィジョンヒーロー</rt><rp>)</rp></ruby> ポイズナー",
     "name_jp_rom": "Vijon Hīrō Poizunā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP19-JP008",
+            "set": "Collection Pack: Duelist of Revolution Version",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

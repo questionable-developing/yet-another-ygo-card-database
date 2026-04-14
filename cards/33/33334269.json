@@ -1,12 +1,14 @@
 {
     "cid": "8bb5ebed-5edb-49f2-b48b-2b97db9fa27b",
-    "yid": null,
+    "yid": 33334269,
     "password": "33334269",
     "kid": 12929,
     "name": "D/D Ghost",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>ゴースト",
     "name_jp_rom": "Dīdī Gōsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +47,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP015",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCP-JP071",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +100,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

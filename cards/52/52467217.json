@@ -1,11 +1,14 @@
 {
     "cid": "36aed82c-8431-4048-87e3-e3c9036df840",
+    "yid": 52467217,
     "password": "52467217",
     "kid": 12896,
     "name": "Gozuki",
     "name_jp": "<ruby lang=\"jp\"><rb>牛</rb><rp> (</rp><rt>ご</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>頭</rb><rp> (</rp><rt>ず</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gozuki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ox-Head Demon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP19-JP017",
+            "set": "Premium Pack 19",
+            "rarities": {
+                "Common": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP013",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +89,9 @@
             "Zombie"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -93,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

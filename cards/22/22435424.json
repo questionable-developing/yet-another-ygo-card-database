@@ -1,12 +1,14 @@
 {
     "cid": "7827e4de-5dff-488b-be88-56203fdeab8d",
-    "yid": null,
+    "yid": 22435424,
     "password": "22435424",
     "kid": 20201,
     "name": "Drytron Nu II",
     "name_jp": "<ruby lang=\"jp\"><rb>竜輝巧</rb><rp> (</rp><rt>ドライトロン</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>νⅡ</rb><rp> (</rp><rt>ニューツー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Doraitoron - Nyū Tsū",
+    "name_jp_rom_base": "Ryūkikō - Nyū Tsū",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Draconic Bright Machine - νII",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -48,6 +50,15 @@
             "set": "2025 Mega-Pack Tin",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP022",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -102,7 +113,9 @@
         "smat": [],
         "misc": [
             "Requires control of specific archetype",
-            "Only once per turn"
+            "Only once per turn",
+            "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

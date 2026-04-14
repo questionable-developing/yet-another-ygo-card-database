@@ -1,12 +1,14 @@
 {
     "cid": "ebce440b-c102-41f6-b576-f483930b4517",
-    "yid": null,
+    "yid": 32646477,
     "password": "32646477",
     "kid": 8035,
     "name": "Dark Strike Fighter",
     "name_jp": "ダーク・ダイブ・ボンバー",
     "name_jp_rom": "Dāku Daibu Bonbā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dark Dive Bomber",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP040",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP092",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "RB01-JP001",
+            "set": "Perfect Rulebook promotional card",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP070",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +121,6 @@
             "Only once per turn",
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

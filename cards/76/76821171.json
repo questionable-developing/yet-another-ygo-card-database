@@ -1,11 +1,14 @@
 {
     "cid": "9881cc95-6592-4e11-becf-fef66a0d35ef",
+    "yid": 76821171,
     "password": "76821171",
     "kid": 19383,
     "name": "Duralume, Vaalmonican Heathen Hallow",
     "name_jp": "ヴァルモニカの<ruby lang=\"jp\"><rb>異</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>－ジュラルメ",
     "name_jp_rom": "Varumonika no Ishin - Jurarume",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Varmonica Odd Deity - Duralume",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +44,15 @@
         {
             "sid": "VASM-EN033",
             "set": "Valiant Smashers",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBVS-JP033",
+            "set": "Deck-Build Pack: Valiant Smashers",
             "rarities": {
                 "Super Rare": []
             }
@@ -90,5 +102,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

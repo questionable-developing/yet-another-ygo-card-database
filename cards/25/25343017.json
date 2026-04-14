@@ -1,12 +1,14 @@
 {
     "cid": "4e364267-7bfb-4426-b3a3-1fc08039c916",
-    "yid": null,
+    "yid": 25343017,
     "password": "25343017",
     "kid": 9498,
     "name": "Hushed Psychic Cleric",
     "name_jp": "<ruby lang=\"jp\"><rb>寡</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黙</rb><rp> (</rp><rt>もく</rt><rp>)</rp></ruby>なるサイコプリースト",
     "name_jp_rom": "Kamokunaru Saiko Purīsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hushed Psycho Priest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP027",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,7 +88,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -89,5 +100,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "90334c4d-9900-4f0e-ad1f-09f08664030d",
+    "yid": 99789342,
     "password": "99789342",
     "kid": 4830,
     "name": "Dark Magic Curtain",
     "name_jp": "<ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>くろ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>のカーテン",
     "name_jp_rom": "Kuromajutsu no Kāten",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Magic Curtain",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -95,10 +98,54 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "P4-04",
+            "set": "Premium Pack 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SY2-046",
+            "set": "Structure Deck: Yugi Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TP08-JP009",
+            "set": "Tournament Pack 2008 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AY-JPB18",
+            "set": "Memories of the Duel King: Battle City Arc",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SDMY-JP024",
+            "set": "Structure Deck: Yugi Muto",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DR01-JPA22",
+            "set": "Duel Royale Deck Set EX",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Cost, Effect, Condition"
+            "Effect, Condition"
         ],
         "mentions": [
             "Dark Magician"
@@ -130,5 +177,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

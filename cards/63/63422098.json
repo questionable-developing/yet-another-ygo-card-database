@@ -1,11 +1,14 @@
 {
     "cid": "a0d654cb-1f42-4d48-813d-3762ebb4ff26",
+    "yid": 63422098,
     "password": "63422098",
     "kid": 10789,
     "name": "Giganticastle",
     "name_jp": "<ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>岩</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>城</rb><rp> (</rp><rt>じょう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kiganjō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kiganjo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP058",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

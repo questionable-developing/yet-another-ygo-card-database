@@ -1,11 +1,14 @@
 {
     "cid": "adfcfb71-1815-4e8a-ba28-368c4606e130",
+    "yid": 70908596,
     "password": "70908596",
     "kid": 9987,
     "name": "Constellar Kaus",
     "name_jp": "セイクリッド・カウスト",
     "name_jp_rom": "Seikuriddo Kausuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Kaust",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,37 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT14-JP019",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP097",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DS13-JPL12",
+            "set": "Duelist Set: Version Lightning Star",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SPRG-JP049",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +124,6 @@
             "Only twice per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

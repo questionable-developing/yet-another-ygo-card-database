@@ -1,11 +1,14 @@
 {
     "cid": "6410bb12-35fd-4fd4-815d-3007b7326dbe",
+    "yid": 74850403,
     "password": "74850403",
     "kid": 12912,
     "name": "Star Pendulumgraph",
     "name_jp": "<ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霜</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>のペンデュラムグラフ",
     "name_jp_rom": "Seisō no Pendyuramugurafu",
-    "name_jp_tl": "Time Pendulumgraph",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Starfrost Pendulumgraph",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,24 @@
             "set": "Pendulum Evolution",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD31-JP023",
+            "set": "Structure Deck: Pendulum Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP091",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -77,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

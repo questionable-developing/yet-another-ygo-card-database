@@ -1,11 +1,14 @@
 {
     "cid": "d570d1bf-67f4-4603-b878-9ee1d092713e",
+    "yid": 67231737,
     "password": "67231737",
     "kid": 13259,
     "name": "Link Bumper",
     "name_jp": "リンク・バンパー",
     "name_jp_rom": "Rinku Banpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +58,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP043",
+            "set": "Circuit Break",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +104,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

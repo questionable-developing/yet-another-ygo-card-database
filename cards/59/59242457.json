@@ -1,11 +1,14 @@
 {
     "cid": "1655b3ca-9840-43a4-a57c-6043706ebf89",
+    "yid": 59242457,
     "password": "59242457",
     "kid": 17157,
     "name": "Exosisters Magnifica",
     "name_jp": "エクソシスターズ・マニフィカ",
     "name_jp_rom": "Ekusoshisutāzu Manifika",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -32,6 +35,11 @@
             "idx": "1",
             "full": "ExosistersMagnifica-TT02-JP-C.png",
             "art": "ExosistersMagnifica-MADU-JP-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "ExosistersMagnifica-LOCH-JP-UR.png",
+            "art": "ExosistersMagnifica-OW-2.png"
         },
         "1.1": {
             "idx": "1.1",
@@ -60,6 +68,43 @@
                 "Quarter Century Secret Rare": [],
                 "Ultimate Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP046",
+            "set": "Dimension Force",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DIFO-JP046",
+            "set": "Dimension Force +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT02-JPB23",
+            "set": "Tactical-Try Deck: Exosister",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "LOCH-JP034",
+            "set": "Limit Over Collection: The Heroes",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -110,5 +155,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

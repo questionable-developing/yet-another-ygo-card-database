@@ -1,11 +1,14 @@
 {
     "cid": "41b9bd94-534d-4ccf-80f4-10b3eb6aa8b6",
+    "yid": 40867519,
     "password": "40867519",
     "kid": 6598,
     "name": "Silent Insect",
     "name_jp": "<ruby lang=\"jp\"><rb>静寂虫</rb><rp> (</rp><rt>サイレント・インセクト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sairento Insekuto",
+    "name_jp_rom_base": "Seijakuchū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP020",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP140",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

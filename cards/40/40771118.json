@@ -1,11 +1,14 @@
 {
     "cid": "74c0e5e3-9208-4212-a941-e69ee374776a",
+    "yid": 40771118,
     "password": "40771118",
     "kid": 14585,
     "name": "Sentence of Doom",
     "name_jp": "<ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>宣</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>告</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shi no Senkoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death Sentence",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP22-JP005",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

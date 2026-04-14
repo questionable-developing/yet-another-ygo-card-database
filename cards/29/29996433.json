@@ -1,12 +1,14 @@
 {
     "cid": "61d22bd5-5ce8-4bfc-a06a-5e45188d54c2",
-    "yid": null,
+    "yid": 29996433,
     "password": "29996433",
     "kid": 13894,
     "name": "Dinowrestler Capoeiraptor",
     "name_jp": "ダイナレスラー・カポエラプトル",
     "name_jp_rom": "Dainaresurā Kapoeraputoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP007",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "d5d530df-5493-4120-99a6-2134be122aee",
-    "yid": null,
+    "yid": 23746827,
     "password": "23746827",
     "kid": 18853,
     "name": "Million-Century Ice Prison",
     "name_jp": "<ruby lang=\"jp\"><rb>億</rb><rp> (</rp><rt>おく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>年</rb><rp> (</rp><rt>ねん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>氷</rb><rp> (</rp><rt>ひょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>墓</rb><rp> (</rp><rt>ぼ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Okunen no Hyōbo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Million-Century Ice Grave",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP066",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP175",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +98,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

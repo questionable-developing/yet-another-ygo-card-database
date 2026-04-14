@@ -1,11 +1,14 @@
 {
     "cid": "ad8c5a7d-a170-4ac6-8454-ff426a8865d5",
+    "yid": 64178868,
     "password": "64178868",
     "kid": 14841,
     "name": "Battle Survivor",
     "name_jp": "バトル・サバイバー",
     "name_jp_rom": "Batoru Sabaibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP032",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Only once per turn",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

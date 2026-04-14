@@ -1,12 +1,14 @@
 {
     "cid": "19075967-adb5-4274-828c-fc1da3aeedac",
-    "yid": null,
+    "yid": 31557782,
     "password": "31557782",
     "kid": 6570,
     "name": "Ancient Gear",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の歯車</rb><rp> (</rp><rt>アンティーク・ギア</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia",
+    "name_jp_rom_base": "Kodai no Haguruma",
     "name_jp_tl": "Antique Gear",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOI-JP008",
+            "set": "Shadow of Infinity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD10-JP015",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE04-JP128",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +112,8 @@
         "fmat": [],
         "smat": [],
         "misc": []
+    },
+    "links": {
+        "wiki": "Ancient Gear (card)"
     }
 }

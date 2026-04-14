@@ -1,11 +1,14 @@
 {
     "cid": "d551d87f-8845-44e7-bc66-01cbe2ec8423",
+    "yid": 87871125,
     "password": "87871125",
     "kid": 14125,
     "name": "Salamangreat Sunlight Wolf",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>サンライトウルフ",
     "name_jp_rom": "Saramangureito Sanraito Urufu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -75,6 +78,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP048",
+            "set": "Savage Strike",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP012",
+            "set": "Duelist Pack: Duelists of Explosion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TT02-JPA29",
+            "set": "Tactical-Try Deck: Rescue-ACE",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +148,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

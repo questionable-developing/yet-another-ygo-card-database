@@ -1,11 +1,14 @@
 {
     "cid": "3bd22388-1eae-467d-8313-ce36edbab9b7",
+    "yid": 66431519,
     "password": "66431519",
     "kid": 19397,
     "name": "Sacred Fire King Garunix",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>炎</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby> ガルドニクス",
     "name_jp_rom": "Seien'ō Garudonikusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Flame King Garudonix",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -29,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SacredFireKingGarunix-SR14-EN-UR-1E.png",
+            "full": "SacredFireKingGarunix-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -38,6 +41,28 @@
         {
             "sid": "SR14-EN001",
             "set": "Structure Deck: Fire Kings",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN031",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SR14-JP001",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -93,7 +118,9 @@
         "misc": [
             "Requires control of specific Attribute",
             "Requires control of specific Type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

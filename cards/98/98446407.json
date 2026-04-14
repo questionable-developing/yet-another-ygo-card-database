@@ -1,11 +1,14 @@
 {
     "cid": "42e95a77-4ab8-46bd-b1a1-ab5d50a6a32e",
+    "yid": 98446407,
     "password": "98446407",
     "kid": 6237,
     "name": "Hand of Nephthys",
     "name_jp": "ネフティスの<ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>みちび</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>手</rb><rp> (</rp><rt>て</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nefutisu no Michibikite",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Guiding Hand of Nephthys",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -71,6 +74,44 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP006",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "FET-JP006",
+            "set": "Flaming Eternity: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE3-JP126",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT11-JP010",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DBHS-JP013",
+            "set": "Deck-Build Pack: Hidden Summoners",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +145,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

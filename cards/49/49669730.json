@@ -1,11 +1,14 @@
 {
     "cid": "136272c9-9bc7-4ea2-8e20-fb9ebb8cfb43",
+    "yid": 49669730,
     "password": "49669730",
     "kid": 8346,
     "name": "Water Hazard",
     "name_jp": "ウォーターハザード",
     "name_jp_rom": "Wōtā Hazādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP056",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD23-JP025",
+            "set": "Structure Deck: Roar of the Sea Emperor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE04-JP030",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +117,6 @@
             "Limited activations",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

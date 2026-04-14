@@ -1,12 +1,14 @@
 {
     "cid": "3ecd974a-7f62-45d2-bdba-e523c5745405",
-    "yid": null,
+    "yid": 21637210,
     "password": "21637210",
     "kid": 18510,
     "name": "Firewall Dragon Singularity",
     "name_jp": "ファイアウォール・ドラゴン・シンギュラリティ",
     "name_jp_rom": "Faiawōru Doragon Shingyurariti",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,33 +32,83 @@
         "Top-Right",
         "Top-Center"
     ],
-    "desc": "3+ Effect Monsters<br/>(Quick Effect): You can target cards your opponent controls or in their GY up to the number of different card types (Ritual, Fusion, Synchro, Xyz) you control and in your GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
+    "desc": "3+ Effect Monsters<br/>(Quick Effect): You can target cards in your opponent's field and/or GY, up to the number of different card types (Ritual, Fusion, Synchro, Xyz)  in your field and GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "3+ Effect Monsters<br/>(Quick Effect): You can target cards your opponent controls or in their GY up to the number of different card types (Ritual, Fusion, Synchro, Xyz) you control and in your GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
-    "eff": "3+ Effect Monsters<br/>(Quick Effect): You can target cards your opponent controls or in their GY up to the number of different card types (Ritual, Fusion, Synchro, Xyz) you control and in your GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
+    "mnst_eff": "3+ Effect Monsters<br/>(Quick Effect): You can target cards in your opponent's field and/or GY, up to the number of different card types (Ritual, Fusion, Synchro, Xyz)  in your field and GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
+    "eff": "3+ Effect Monsters<br/>(Quick Effect): You can target cards in your opponent's field and/or GY, up to the number of different card types (Ritual, Fusion, Synchro, Xyz)  in your field and GY; return them to the hand, also this card gains 500 ATK for each returned card. If a monster this card points to is destroyed by battle, or sent to the GY: You can target 1 Cyberse monster in your GY; Special Summon it. You can only use each effect of \"Firewall Dragon Singularity\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
             "full": "FirewallDragonSingularity-MP24-EN-PScR-1E.png",
+            "art": "FirewallDragonSingularity-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "FirewallDragonSingularity-RA05-EN-UR-1E-EA.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "CYAC-EN047",
             "set": "Cyberstorm Access",
             "rarities": {
-                "Secret Rare": [],
-                "Starlight Rare": []
+                "Secret Rare": ["1"],
+                "Starlight Rare": ["1"]
             }
         },
         {
             "sid": "MP24-EN087",
             "set": "25th Anniversary Tin: Dueling Mirrors",
             "rarities": {
-                "Prismatic Secret Rare": []
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN146",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP047",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "CYAC-JP047",
+            "set": "Cyberstorm Access +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Prismatic Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "QCCU-JP107",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Ultimate Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LOSP-JP006",
+            "set": "Limit Over Special Pack Vol.1",
+            "rarities": {
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -106,5 +158,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "991a892a-fd70-479f-8429-8037be0dd99b",
+    "yid": 99315585,
     "password": "99315585",
     "kid": 12201,
     "name": "The Phantom Knights of Cloven Helm",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>クラックヘルム",
     "name_jp_rom": "Fantomu Naitsu Kurakkuherumu",
+    "name_jp_rom_base": "Gen'ei Kishidan Kurakkuherumu",
     "name_jp_tl": "Phantom Knights Crack Helm",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPWR-JP004",
+            "set": "Booster SP: Wing Raiders",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

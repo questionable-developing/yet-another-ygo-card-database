@@ -1,11 +1,14 @@
 {
     "cid": "477bb99d-f4cf-4e3d-97da-66804493049b",
+    "yid": 72090076,
     "password": "72090076",
     "kid": 14998,
     "name": "Nemeses Corridor",
     "name_jp": "ネメシス・コリドー",
     "name_jp_rom": "Nemeshisu Koridō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -56,6 +59,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP012",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOCR-JP042",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

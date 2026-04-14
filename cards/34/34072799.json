@@ -1,12 +1,14 @@
 {
     "cid": "1dc96194-e904-4dca-aaf8-25458c0ec3a2",
-    "yid": null,
+    "yid": 34072799,
     "password": "34072799",
     "kid": 16523,
     "name": "Transonic Bird",
     "name_jp": "トランソニックバード",
     "name_jp_rom": "Toransonikku Bādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -45,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP037",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +77,7 @@
         ],
         "counter": [],
         "action": [
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Adds from Deck to hand",
             "Returns from your hand to your Deck",
             "Sends from Deck to Graveyard for cost",
@@ -89,5 +100,6 @@
             "Limited activations",
             "Mentions"
         ]
-    }
+    },
+    "links": {}
 }

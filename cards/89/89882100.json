@@ -1,11 +1,14 @@
 {
     "cid": "afd0ec34-d9f7-4cae-bcf3-0b2e25ab03aa",
+    "yid": 89882100,
     "password": "89882100",
     "kid": 10078,
     "name": "Night Beam",
     "name_jp": "ナイト・ショット",
     "name_jp_rom": "Naito Shotto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Night Shot",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -107,6 +110,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GAOV-JP055",
+            "set": "Galactic Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DS14-JPM37",
+            "set": "Duelist Set: Version Machine-Gear Troopers Enhancement Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD28-JP032",
+            "set": "Structure Deck: Synchron Extreme",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD33-JP023",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -136,5 +169,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

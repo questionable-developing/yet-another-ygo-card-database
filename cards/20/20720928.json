@@ -1,12 +1,14 @@
 {
     "cid": "9de15937-d772-45e8-83ed-b9e62dde3d40",
-    "yid": null,
+    "yid": 20720928,
     "password": "20720928",
     "kid": 13275,
     "name": "Metaphys Factor",
     "name_jp": "メタファイズ・ファクター",
     "name_jp_rom": "Metafaizu Fakutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CIBR-EN059",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP059",
             "set": "Circuit Break",
             "rarities": {
                 "Common": []
@@ -74,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

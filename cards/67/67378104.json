@@ -1,11 +1,14 @@
 {
     "cid": "6d9bc4bf-2d4a-4577-9851-ee68a8ef0347",
+    "yid": 67378104,
     "password": "67378104",
     "kid": 13780,
     "name": "Celestial Observatory",
     "name_jp": "<ruby lang=\"jp\"><rb>星呼びの天儀台</rb><rp> (</rp><rt>セレスティアル・セクスタント</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seresutiaru Sekusutanto",
+    "name_jp_rom_base": "Hoshi Yobi no Tengidai",
     "name_jp_tl": "Celestial Sextant",
+    "name_jp_tl_base": "Star-calling Observatory",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP064",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

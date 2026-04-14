@@ -1,11 +1,14 @@
 {
     "cid": "ba472f8d-ef6e-4257-a937-88a6f808e1a2",
+    "yid": 67586735,
     "password": "67586735",
     "kid": 13720,
     "name": "Gouki Tagpartner",
     "name_jp": "<ruby lang=\"jp\"><rb>剛</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ツープラトン",
     "name_jp_rom": "Gōki Tsūpuraton",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Strong Oni - Two Platoon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP004",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

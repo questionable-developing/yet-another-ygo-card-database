@@ -1,12 +1,14 @@
 {
     "cid": "30709c7e-0997-41b0-91a7-d104fcbedbda",
-    "yid": null,
+    "yid": 33551032,
     "password": "33551032",
     "kid": 10616,
     "name": "Umbral Horror Unform",
     "name_jp": "アンブラル・アンフォーム",
     "name_jp_rom": "Anburaru Anfōmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Umbral Unform",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP013",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

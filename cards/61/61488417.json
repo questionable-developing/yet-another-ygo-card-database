@@ -1,11 +1,14 @@
 {
     "cid": "5c513de0-acf6-46a7-82fe-8ef84aa0b148",
+    "yid": 61488417,
     "password": "61488417",
     "kid": 11241,
     "name": "Chiwen, Light of the Yang Zing",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>－リフン",
     "name_jp_rom": "Kōryūsei - Rifun",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Light Dragon Star - Liwen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP032",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP099",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +112,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

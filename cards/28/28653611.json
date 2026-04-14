@@ -1,12 +1,14 @@
 {
     "cid": "cea6db07-0fad-4e1b-9106-0ea46fd8cfa5",
-    "yid": null,
+    "yid": 28653611,
     "password": "28653611",
     "kid": 21835,
     "name": "Infernal Punisher",
     "name_jp": "ヘル・パニッシャー",
     "name_jp_rom": "Heru Panisshā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hell Punisher",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -41,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP069",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -49,7 +60,9 @@
         "mentions": [],
         "sup": [
             "WATER",
-            "FIRE"
+            "FIRE",
+            "Dinosaur",
+            "Fiend"
         ],
         "asup": [],
         "arc": [],
@@ -82,5 +95,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

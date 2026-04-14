@@ -1,11 +1,14 @@
 {
     "cid": "f38c146f-88a9-44c4-b8ed-2a5486c6ad1e",
+    "yid": 63300440,
     "password": "63300440",
     "kid": 10792,
     "name": "Dragon Shield",
     "name_jp": "ドラゴン・シールド",
     "name_jp_rom": "Doragon Shīrudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP061",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DC01-JP020",
+            "set": "Deck Custom Pack 01",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +101,6 @@
             "Equips only to a specific target",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "286043e2-9504-44ed-a58b-d84963cbd3af",
+    "yid": 52971944,
     "password": "52971944",
     "kid": 9954,
     "name": "Sealing Ceremony of Katon",
     "name_jp": "<ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>遁</rb><rp> (</rp><rt>とん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>封</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>印</rb><rp> (</rp><rt>いん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>式</rb><rp> (</rp><rt>しき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Katon Fūinshiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sealing Ceremony of Fire Escape",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ORCS-EN080",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP080",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -72,5 +84,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

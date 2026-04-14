@@ -1,11 +1,14 @@
 {
     "cid": "359c6f44-64fb-4695-bf1c-61826ee3c868",
+    "yid": 90135989,
     "password": "90135989",
     "kid": 7305,
     "name": "Cloudian Squall",
     "name_jp": "<ruby lang=\"jp\"><rb>雲魔物のスコール</rb><rp> (</rp><rt>クラウディアン・スコール</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kuraudian Sukōru",
+    "name_jp_rom_base": "Unmamono no Sukōru",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Cloud Monster Squall",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP052",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

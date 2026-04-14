@@ -1,11 +1,14 @@
 {
     "cid": "731f4e6d-6ba7-46da-9c18-6639887e2667",
+    "yid": 56673480,
     "password": "56673480",
     "kid": 13005,
     "name": "Contract with Don Thousand",
     "name_jp": "ドン・サウザンドの<ruby lang=\"jp\"><rb>契</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>約</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Don Sauzando no Keiyaku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "20AP-JP058",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -60,8 +72,8 @@
             "Your opponent draws cards",
             "Shows the player's drawn cards",
             "Shows the opponent's drawn cards",
-            "Reveals your hand for effect",
-            "Reveals your opponent's hand"
+            "Reveals cards from your hand",
+            "Reveals cards from your opponent's hand"
         ],
         "stat_change": [],
         "mst": [],
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

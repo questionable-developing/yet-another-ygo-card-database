@@ -1,11 +1,14 @@
 {
     "cid": "72de84ce-0c0d-4c4e-a393-e73eceaf6721",
+    "yid": 49088914,
     "password": "49088914",
     "kid": 15489,
     "name": "Virtual World Mai-Hime - Lulu",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>脳</rb><rp> (</rp><rt>のう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>堺</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>媛</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>瑞</rb><rp> (</rp><rt>ルゥ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>々</rb><rp> (</rp><rt>ルゥ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dennōkaien - Ruuruu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Virtual World Lady - Lulu",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +54,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP010",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHRA-JP010",
+            "set": "Phantom Rage +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +113,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

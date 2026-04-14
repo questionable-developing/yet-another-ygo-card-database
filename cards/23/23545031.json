@@ -1,12 +1,14 @@
 {
     "cid": "d2b6a37c-6efc-40ac-8638-f683a0f2e3c5",
-    "yid": null,
+    "yid": 23545031,
     "password": "23545031",
     "kid": 13499,
     "name": "Mermail Abyssalacia",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－サラキアビス",
     "name_jp_rom": "Māmeiru - Sarakiabisu",
+    "name_jp_rom_base": "Suiseirin - Sarakiabisu",
     "name_jp_tl": "Mermail Salaciabyss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +52,15 @@
         {
             "sid": "MP20-EN095",
             "set": "2020 Tin of Lost Memories",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP046",
+            "set": "LINK VRAINS Pack",
             "rarities": {
                 "Super Rare": []
             }
@@ -105,5 +116,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

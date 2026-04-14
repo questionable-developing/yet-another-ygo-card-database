@@ -1,11 +1,14 @@
 {
     "cid": "e8d9fd64-772b-42f0-b217-2ccca153d05c",
+    "yid": 41705642,
     "password": "41705642",
     "kid": 9474,
     "name": "Salvage Warrior",
     "name_jp": "サルベージ・ウォリアー",
     "name_jp_rom": "Sarubēji Woriā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN003",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP003",
             "set": "Extreme Victory",
             "rarities": {
                 "Rare": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

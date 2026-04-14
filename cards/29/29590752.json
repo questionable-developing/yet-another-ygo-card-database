@@ -1,12 +1,14 @@
 {
     "cid": "63589659-13df-4845-8778-32ac711dee49",
-    "yid": null,
+    "yid": 29590752,
     "password": "29590752",
     "kid": 7480,
     "name": "Gladiator Beast Octavius",
     "name_jp": "<ruby lang=\"jp\"><rb>剣闘獣</rb><rp> (</rp><rt>グラディアルビースト</rt><rp>)</rp></ruby>オクタビウス",
     "name_jp_rom": "Guradiaru Bīsuto Okutabiusu",
+    "name_jp_rom_base": "Kentōjū Okutabiusu",
     "name_jp_tl": "Gladial Beast Octavius",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP1-JP013",
+            "set": "Extra Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +106,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

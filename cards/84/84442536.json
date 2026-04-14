@@ -1,11 +1,14 @@
 {
     "cid": "d3abfaaf-a761-48c4-8e17-ca5c5fbc4ffb",
+    "yid": 84442536,
     "password": "84442536",
     "kid": 12665,
     "name": "Graydle Combat",
     "name_jp": "グレイドル・コンバット",
     "name_jp_rom": "Gureidoru Konbatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "INOV-EN075",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP075",
             "set": "Invasion: Vengeance",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

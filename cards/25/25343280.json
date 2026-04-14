@@ -1,12 +1,14 @@
 {
     "cid": "9583d809-0e9b-4b20-b72b-76e2f3a6eeb0",
-    "yid": null,
+    "yid": 25343280,
     "password": "25343280",
     "kid": 6024,
     "name": "Spirit of the Pharaoh",
     "name_jp": "スピリッツ・オブ・ファラオ",
     "name_jp_rom": "Supirittsu Obu Farao",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spirits of Pharaoh",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "309-007",
+            "set": "Pharaoh's Inheritance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "EE2-JP175",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +110,6 @@
         "misc": [
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "221c27ba-b329-4209-bf87-fb660d9d39ad",
+    "yid": 60238002,
     "password": "60238002",
     "kid": 20245,
     "name": "Interdimensional Matter Forwarder",
     "name_jp": "<ruby lang=\"jp\"><rb>亜</rb><rp> (</rp><rt>あ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>間</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>物</rb><rp> (</rp><rt>ぶっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>質</rb><rp> (</rp><rt>しつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>回</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>送</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Akūkan Busshitsu Kaisōsōchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Subspace Matter Forwarder",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP066",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

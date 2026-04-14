@@ -1,11 +1,14 @@
 {
     "cid": "62ee7e3f-99b3-40d0-a277-b6dad2ec5e42",
+    "yid": 97518132,
     "password": "97518132",
     "kid": 14966,
     "name": "Naelshaddoll Ariel",
     "name_jp": "<ruby lang=\"jp\"><rb>影依の巫女</rb><rp> (</rp><rt>ノェルシャドール</rt><rp>)</rp></ruby> エリアル",
     "name_jp_rom": "Nerushadōru Eriaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Naelshaddoll Erial",
+    "name_jp_tl_base": "Shadow-Clad Priestess Erial",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -51,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD37-JP003",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP072",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,7 +98,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons face-down"
         ],
         "attack": [],
@@ -92,5 +112,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

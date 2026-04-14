@@ -1,11 +1,14 @@
 {
     "cid": "b893beeb-87ed-4d45-a73e-c032520dbf4f",
+    "yid": 46372010,
     "password": "46372010",
     "kid": 11446,
     "name": "Dark Contract with the Gate",
     "name_jp": "<ruby lang=\"jp\"><rb>地</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獄</rb><rp> (</rp><rt>ごく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>門</rb><rp> (</rp><rt>もん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>契</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>約</rb><rp> (</rp><rt>やく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>書</rb><rp> (</rp><rt>しょ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jigokumon no Keiyakusho",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Contract with the Hell Gate",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,39 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPRG-JP008",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD30-JP025",
+            "set": "Structure Deck: Pendulum Domination",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LGB1-JP040",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP087",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +131,6 @@
             "Only once per turn",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

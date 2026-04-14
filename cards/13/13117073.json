@@ -1,12 +1,14 @@
 {
     "cid": "5a727eb2-c79a-4ab7-9358-5f3f28f23de9",
-    "yid": null,
+    "yid": 13117073,
     "password": "13117073",
     "kid": 14710,
     "name": "Barricadeborg Blocker",
     "name_jp": "<ruby lang=\"jp\"><rb>警</rb><rp> (</rp><rt>けい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衛</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby>バリケイドベルグ",
     "name_jp_rom": "Keiei Barikeidoberugu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Patrol Barricadeborg",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -62,6 +64,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP065",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCDB-JP046",
+            "set": "Quarter Century Duelist Box",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +120,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

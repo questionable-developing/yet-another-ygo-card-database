@@ -1,11 +1,14 @@
 {
     "cid": "2a003b3b-e64c-4127-ada2-3df1fe7404c0",
+    "yid": 70479321,
     "password": "70479321",
     "kid": 11790,
     "name": "Performapal Drummerilla",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>ドラミング・コング",
     "name_jp_rom": "Entameito Doramingu Kongu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Drumming Kong",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": true,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CORE-JP006",
+            "set": "Clash of Rebellions",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST16-JP011",
+            "set": "Starter Deck 2016",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Trigger-like"
@@ -102,5 +121,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

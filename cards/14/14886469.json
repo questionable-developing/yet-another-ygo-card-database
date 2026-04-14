@@ -1,12 +1,14 @@
 {
     "cid": "cfa134cd-a944-4063-9c40-88d0be70bcda",
-    "yid": null,
+    "yid": 14886469,
     "password": "14886469",
     "kid": 12060,
     "name": "Red Sprinter",
     "name_jp": "レッド・スプリンター",
     "name_jp_rom": "Reddo Supurintā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPHR-JP015",
+            "set": "Booster SP: High-Speed Riders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD46-JP011",
+            "set": "Structure Deck: Pulse of the King",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +113,6 @@
             "Requires control of no other monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

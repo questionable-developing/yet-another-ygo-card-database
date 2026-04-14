@@ -1,11 +1,14 @@
 {
     "cid": "794ec1aa-0151-41e6-8cf4-1cc0e23ea36c",
+    "yid": 53183600,
     "password": "53183600",
     "kid": 4773,
     "name": "Blue-Eyes Toon Dragon",
     "name_jp": "ブルーアイズ・トゥーン・ドラゴン",
     "name_jp_rom": "Burūaizu Tūn Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "BlueEyesToonDragon-SRL-EN-ScR-UE-25thAnniversaryEdition.png",
+            "full": "BlueEyesToonDragon-RA05-EN-StR-1E.png",
+            "art": null
+        },
+        "2": {
+            "idx": "2",
+            "full": "BlueEyesToonDragon-RV01-JP-OP.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "DB1-EN066",
@@ -74,6 +82,80 @@
         {
             "sid": "SRL-EN000",
             "set": "Spell Ruler (25th Anniversary Edition)",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN003",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PS-00",
+            "set": "Pharaoh's Servant (Japanese)",
+            "rarities": {
+                "Secret Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "PE-14",
+            "set": "Structure Deck: Pegasus",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL1-087",
+            "set": "Duelist Legacy Volume.1",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "BE1-JP066",
+            "set": "Beginner's Edition 1",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "BE01-JP061",
+            "set": "Beginner's Edition 1 (2011)",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP16-JP041",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "PGB1-JP020",
+            "set": "Prismatic God Box",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "GUC1-JP001",
+            "set": "GU collaboration cards",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "RV01-JP008",
+            "set": "Revolution Booster: Toon / Witchcrafter / Unchained",
             "rarities": {
                 "Secret Rare": []
             }
@@ -123,11 +205,14 @@
         "life_points": [
             "Pays Life Points for cost"
         ],
-        "fmat": [],
+        "fmat": [
+            "Blue-Eyes Toon Ultimate Dragon"
+        ],
         "smat": [],
         "misc": [
             "Special Summon Monster",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

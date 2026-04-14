@@ -1,11 +1,14 @@
 {
     "cid": "872669c1-e6eb-445d-8040-63828d985499",
+    "yid": 97947705,
     "password": "97947705",
     "kid": 13558,
     "name": "Backup Operator",
     "name_jp": "バックアップ・オペレーター",
     "name_jp_rom": "Bakkuappu Operētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP003",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

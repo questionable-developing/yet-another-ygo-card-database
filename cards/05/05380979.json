@@ -1,12 +1,14 @@
 {
     "cid": "7b4a5f02-ba6c-42c0-aeb9-f03156d352ac",
-    "yid": null,
+    "yid": 5380979,
     "password": "05380979",
     "kid": 17369,
     "name": "Welcome Labrynth",
     "name_jp": "ウェルカム・ラビュリンス",
     "name_jp_rom": "Werukamu Rabyurinsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -56,6 +58,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP023",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LOCR-JP078",
+            "set": "Limit Over Collection: The Rivals",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +119,6 @@
             "Turn limited effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

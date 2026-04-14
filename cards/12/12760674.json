@@ -1,12 +1,14 @@
 {
     "cid": "71b1f866-b01d-4746-8120-98e4caf47d7c",
-    "yid": null,
+    "yid": 12760674,
     "password": "12760674",
     "kid": 14315,
     "name": "Mordschlag",
     "name_jp": "モルトシュラーク",
     "name_jp_rom": "Morutoshurāku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP065",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +89,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

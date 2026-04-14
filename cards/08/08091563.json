@@ -1,12 +1,14 @@
 {
     "cid": "453a21f2-d50f-4152-b4e6-22fc37587438",
-    "yid": null,
+    "yid": 8091563,
     "password": "08091563",
     "kid": 10609,
     "name": "Super Defense Robot Lio",
     "name_jp": "<ruby lang=\"jp\"><rb>ＳＤ</rb><rp> (</rp><rt>スーパーディフェンス</rt><rp>)</rp></ruby>ロボ・ライオ",
     "name_jp_rom": "Sūpā Difensu Robo Raio",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Super Defense Robo Lio",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP006",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

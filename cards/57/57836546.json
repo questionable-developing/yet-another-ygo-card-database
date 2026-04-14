@@ -1,11 +1,14 @@
 {
     "cid": "6d829322-c264-49cb-8826-06bd67d45cc8",
+    "yid": 57836546,
     "password": "57836546",
     "kid": 10415,
     "name": "Xyz Double Back",
     "name_jp": "エクシーズ・ダブル・バック",
     "name_jp_rom": "Ekushīzu Daburu Bakku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "CBLZ-EN056",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP056",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Common": []
@@ -73,5 +85,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

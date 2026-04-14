@@ -1,12 +1,14 @@
 {
     "cid": "60e79c7a-1e0f-42b8-9e49-8f8060ef4d2a",
-    "yid": null,
+    "yid": 30439101,
     "password": "30439101",
     "kid": 15278,
     "name": "Melffy of the Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>のメルフィーズ",
     "name_jp_rom": "Mori no Merufīzu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Melffys of the Forest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,35 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP044",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "ROTD-JP044",
+            "set": "Rise of the Duelist +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP177",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

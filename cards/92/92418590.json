@@ -1,11 +1,14 @@
 {
     "cid": "70ef0c90-049d-4c85-a3b9-6a80e1b9b611",
+    "yid": 92418590,
     "password": "92418590",
     "kid": 10447,
     "name": "Gimmick Puppet Dreary Doll",
     "name_jp": "ギミック・パペット－ネクロ・ドール",
     "name_jp_rom": "Gimikku Papetto - Nekuro Dōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gimmick Puppet - Necro Doll",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -62,6 +65,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP15-JP001",
+            "set": "Premium Pack 15",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP039",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +118,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

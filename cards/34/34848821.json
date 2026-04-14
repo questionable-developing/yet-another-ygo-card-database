@@ -1,12 +1,14 @@
 {
     "cid": "df07ed57-97d0-48f3-a874-56101737584b",
-    "yid": null,
+    "yid": 34848821,
     "password": "34848821",
     "kid": 15510,
     "name": "Brigrand the Glory Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>痕</rb><rp> (</rp><rt>こん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>喰</rb><rp> (</rp><rt>じき</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ブリガンド",
     "name_jp_rom": "Konjikiryū Burigando",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Brigand the Stigmatavorous Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +68,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP031",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD43-JP044",
+            "set": "Structure Deck: Alba Strike",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP023",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP047",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +141,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

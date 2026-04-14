@@ -1,12 +1,14 @@
 {
     "cid": "252d9ca1-bd8e-4f3b-9c12-bc906f1cf6c1",
-    "yid": null,
+    "yid": 18372968,
     "password": "18372968",
     "kid": 7212,
     "name": "Razor Lizard",
     "name_jp": "カミソーリトカゲ",
     "name_jp_rom": "Kamisōritokage",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP036",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP014",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +92,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "aab13d33-bfa3-4ed5-b3b6-be3854c0e79e",
+    "yid": 41858121,
     "password": "41858121",
     "kid": 9351,
     "name": "Vylon Matter",
     "name_jp": "ヴァイロン・マター",
     "name_jp_rom": "Vairon Matā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "STOR-EN060",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP060",
             "set": "Storm of Ragnarok",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

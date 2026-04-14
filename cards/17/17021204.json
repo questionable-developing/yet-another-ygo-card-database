@@ -1,12 +1,14 @@
 {
     "cid": "19437408-e061-4fa4-8328-2be65b6e5c14",
-    "yid": null,
+    "yid": 17021204,
     "password": "17021204",
     "kid": 8454,
     "name": "Mother Spider",
     "name_jp": "マザー・スパイダー",
     "name_jp_rom": "Mazā Supaidā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "SOVR-EN019",
+            "set": "Stardust Overdrive",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SOVR-JP019",
             "set": "Stardust Overdrive",
             "rarities": {
                 "Rare": []
@@ -78,5 +89,6 @@
         "misc": [
             "Requires having only specific Type in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

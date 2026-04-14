@@ -1,11 +1,14 @@
 {
     "cid": "64124edf-83b3-44f1-a661-dd393c694fd6",
+    "yid": 63526052,
     "password": "63526052",
     "kid": 17431,
     "name": "Krawler Soma",
     "name_jp": "クローラー・ソゥマ",
     "name_jp_rom": "Kurōrā Suma",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "POTE-EN029",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP029",
             "set": "Power of the Elements",
             "rarities": {
                 "Common": []
@@ -88,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "42e7309e-948b-4745-b08b-b277723b5270",
+    "yid": 37626500,
     "password": "37626500",
     "kid": 12654,
     "name": "Sprite's Blessing",
     "name_jp": "<ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祝</rb><rp> (</rp><rt>しゅく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>福</rb><rp> (</rp><rt>ふく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seirei no Shukufuku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "SpritesBlessing-INOV-JP-C.png",
+            "art": "SpritesBlessing-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "SpritesBlessing-AMDE-EN-R-1E.png",
-            "art": null
+            "art": "SpritesBlessing-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "INOV-EN064",
@@ -58,6 +66,15 @@
             "set": "Amazing Defenders",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP064",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -95,5 +112,6 @@
         "misc": [
             "Nonspecific Ritual Spell Card"
         ]
-    }
+    },
+    "links": {}
 }

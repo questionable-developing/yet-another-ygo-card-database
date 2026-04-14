@@ -1,11 +1,14 @@
 {
     "cid": "bf6452a8-e3f8-4c5b-a84d-0b5695a8712f",
+    "yid": 69811710,
     "password": "69811710",
     "kid": 15010,
     "name": "Girsu, the Orcust Mekk-Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>宵星の騎士</rb><rp> (</rp><rt>ジャックナイツ・オルフェゴール</rt><rp>)</rp></ruby>ギルス",
     "name_jp_rom": "Jakkunaitsu Orufegōru Girusu",
+    "name_jp_rom_base": "Shōsei no Kishi Girusu",
     "name_jp_tl": "Girsu, the Jack-Knights Orphegel",
+    "name_jp_tl_base": "Girsu, the Evening Star Knight",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -70,6 +73,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP024",
+            "set": "Eternity Code",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP042",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -114,5 +136,6 @@
             "Requires control of no other monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

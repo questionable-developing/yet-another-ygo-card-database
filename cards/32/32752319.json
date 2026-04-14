@@ -1,12 +1,14 @@
 {
     "cid": "48ebc25b-21d0-419a-91d8-9206611b4db9",
-    "yid": null,
+    "yid": 32752319,
     "password": "32752319",
     "kid": 6395,
     "name": "UFOroid Fighter",
     "name_jp": "ユーフォロイド・ファイター",
     "name_jp_rom": "Yūforoido Faitā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -54,6 +56,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRV-JP034",
+            "set": "Cybernetic Revolution",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP034",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

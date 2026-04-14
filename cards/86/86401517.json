@@ -1,11 +1,14 @@
 {
     "cid": "464ee815-4ef2-4326-8f36-3827113fd76e",
+    "yid": 86401517,
     "password": "86401517",
     "kid": 13747,
     "name": "Paladin of Storm Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>嵐竜の聖騎士</rb><rp> (</rp><rt>ナイト・オブ・ストームドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naito Obu Sutōmu Doragon",
+    "name_jp_rom_base": "Ranryū no Seikishi",
     "name_jp_tl": "Knight of Storm Dragon",
+    "name_jp_tl_base": "Holy Knight of Storm Dragon",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP031",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

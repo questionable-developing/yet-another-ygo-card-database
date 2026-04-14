@@ -1,12 +1,14 @@
 {
     "cid": "e11b4ad1-6803-4d4c-bd64-8159f30ab0d6",
-    "yid": null,
+    "yid": 30068120,
     "password": "30068120",
     "kid": 11346,
     "name": "Edge Imp Sabres",
     "name_jp": "エッジインプ・シザー",
     "name_jp_rom": "Ejji Inpu Shizā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Edge Imp Scissor",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -78,6 +80,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP014",
+            "set": "The New Challengers",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SPFE-JP018",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +138,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

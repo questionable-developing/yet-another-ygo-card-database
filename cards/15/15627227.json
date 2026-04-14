@@ -1,12 +1,14 @@
 {
     "cid": "dcedf084-323a-4d72-9ef1-9106001b5199",
-    "yid": null,
+    "yid": 15627227,
     "password": "15627227",
     "kid": 13342,
     "name": "Overburst Dragon",
     "name_jp": "リローダー・ドラゴン",
     "name_jp_rom": "Rirōdā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reloader Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VP17-JP002",
+            "set": "LINK VRAINS Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

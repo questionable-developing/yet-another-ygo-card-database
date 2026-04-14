@@ -1,12 +1,14 @@
 {
     "cid": "ce245a15-9924-49b7-bdc6-3ff70ff48bd3",
-    "yid": null,
+    "yid": 12219047,
     "password": "12219047",
     "kid": 12956,
     "name": "The Phantom Knights of Cursed Javelin",
     "name_jp": "<ruby lang=\"jp\"><rb>幻影騎士団</rb><rp> (</rp><rt>ファントム・ナイツ</rt><rp>)</rp></ruby>カースド・ジャベリン",
     "name_jp_rom": "Fantomu Naitsu Kāsudo Jaberin",
+    "name_jp_rom_base": "Gen'ei Kishidan Kāsudo Jaberin",
     "name_jp_tl": "Phantom Knights Cursed Javelin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -52,6 +54,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP042",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "24EP-JP208",
+            "set": "Event Pack 2024 Vol.2",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +112,6 @@
             "Can be activated during either player's turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "9d1c07fb-bf27-416f-a1ac-048550dcdc9c",
+    "yid": 52350806,
     "password": "52350806",
     "kid": 14069,
     "name": "Danger! Mothman!",
     "name_jp": "<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>のモスマン",
     "name_jp_rom": "Mikaiiki no Mosuman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mothman of the Lands Unknown",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP027",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR13-JP018",
+            "set": "Structure Deck R: Devil's Gate",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

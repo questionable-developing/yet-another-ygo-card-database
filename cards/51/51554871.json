@@ -1,11 +1,14 @@
 {
     "cid": "707ad74d-c4c2-4078-a2c3-36d512523c8b",
+    "yid": 51554871,
     "password": "51554871",
     "kid": 8904,
     "name": "Kayenn, the Master Magma Blacksmith",
     "name_jp": "<ruby lang=\"jp\"><rb>灼</rb><rp> (</rp><rt>しゃく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>熱</rb><rp> (</rp><rt>ねつ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>工</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>匠</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby>カエン",
     "name_jp_rom": "Shakunetsukō no Kyoshō Kaen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Kaen, the Scorching Engineering Master",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT09-JP027",
+            "set": "Duel Terminal - Vylon Descends!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP072",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -74,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

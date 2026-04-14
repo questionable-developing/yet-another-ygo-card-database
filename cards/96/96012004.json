@@ -1,11 +1,14 @@
 {
     "cid": "f2c8030a-070e-4977-b135-a9a8ce044ea3",
+    "yid": 96012004,
     "password": "96012004",
     "kid": 7651,
     "name": "Lucky Chance",
     "name_jp": "ラッキー・チャンス！",
     "name_jp_rom": "Rakkī Chansu!",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lucky Chance!",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LODT-JP078",
+            "set": "Light of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE02-JP156",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
             "Coin toss",
             "Once per Chain"
         ]
-    }
+    },
+    "links": {}
 }

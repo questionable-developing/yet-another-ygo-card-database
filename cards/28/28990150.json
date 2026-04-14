@@ -1,12 +1,14 @@
 {
     "cid": "b9e9bdf8-2b08-496d-9f3a-359e742753ee",
-    "yid": null,
+    "yid": 28990150,
     "password": "28990150",
     "kid": 9733,
     "name": "Photon Cerberus",
     "name_jp": "フォトン・ケルベロス",
     "name_jp_rom": "Foton Keruberosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP015",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP13-JP004",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

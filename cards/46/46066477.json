@@ -1,11 +1,14 @@
 {
     "cid": "ec5985aa-dc82-4ea3-b42a-e7a93583db4d",
+    "yid": 46066477,
     "password": "46066477",
     "kid": 12164,
     "name": "Performance Hurricane",
     "name_jp": "エンタメ・バンド・ハリケーン",
     "name_jp_rom": "Entame Bando Harikēn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entertainment Band Hurricane",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PerformanceHurricane-BOSH-JP-C.png",
+            "art": "PerformanceHurricane-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PerformanceHurricane-MP16-EN-C-1E.png",
-            "art": null
+            "art": "PerformanceHurricane-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "BOSH-EN056",
@@ -42,6 +50,15 @@
         {
             "sid": "MP16-EN214",
             "set": "2016 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BOSH-JP056",
+            "set": "Breakers of Shadow",
             "rarities": {
                 "Common": []
             }
@@ -78,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

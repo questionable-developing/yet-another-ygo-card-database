@@ -1,12 +1,14 @@
 {
     "cid": "dfa3a38f-6644-4d7f-b1d6-8525f6a26bd0",
-    "yid": null,
+    "yid": 36494597,
     "password": "36494597",
     "kid": 21471,
     "name": "Teleport Fusion",
     "name_jp": "テレポート・フュージョン",
     "name_jp_rom": "Terepōto Fyūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DUAD-EN060",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP060",
             "set": "Duelist's Advance",
             "rarities": {
                 "Common": []
@@ -73,7 +84,7 @@
         "summoning": [
             "Performs a Fusion Summon",
             "Special Summons from your Extra Deck",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -88,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "973715e1-c22b-44cd-aaad-9e7e18c3142c",
+    "yid": 68184115,
     "password": "68184115",
     "kid": 9894,
     "name": "Inzektor Dragonfly",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ダンセル",
     "name_jp_rom": "Inzekutā Danseru",
+    "name_jp_rom_base": "Kōchūsōki Danseru",
     "name_jp_tl": "Inzektor Damsel",
+    "name_jp_tl_base": "Beetle Armed Machine Damsel",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -66,6 +69,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP020",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP085",
+            "set": "20th Anniversary Pack 2nd Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP029",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +134,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

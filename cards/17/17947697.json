@@ -1,12 +1,14 @@
 {
     "cid": "a36e3ec3-0fe5-4f8c-ae0e-e377b231f203",
-    "yid": null,
+    "yid": 17947697,
     "password": "17947697",
     "kid": 20602,
     "name": "Maiden of White",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>乙女</rb><rp> (</rp><rt>おとめ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiroki Otome",
+    "name_jp_rom_base": null,
     "name_jp_tl": "White Maiden",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -48,6 +50,32 @@
         },
         {
             "sid": "25LP-EN018",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD47-JP002",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JPP01",
+            "set": "Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP018",
             "set": "Limited Pack World Championship 2025",
             "rarities": {
                 "Ultra Rare": [],
@@ -100,7 +128,9 @@
         "smat": [],
         "misc": [
             "Requires control of specific card",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

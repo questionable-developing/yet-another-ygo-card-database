@@ -1,11 +1,14 @@
 {
     "cid": "071a0f59-cc40-4b92-a76a-16672a7c0ae2",
+    "yid": 52277807,
     "password": "52277807",
     "kid": 14241,
     "name": "Salamangreat Spinny",
     "name_jp": "<ruby lang=\"jp\"><rb>転生炎獣</rb><rp> (</rp><rt>サラマングレイト</rt><rp>)</rp></ruby>スピニー",
     "name_jp_rom": "Saramangureito Supinī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -45,6 +48,22 @@
         {
             "sid": "LD10-EN009",
             "set": "Legendary Duelists: Soulburning Volcano",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD35-JP004",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP28-JP009",
+            "set": "Duelist Pack: Duelists of Explosion",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

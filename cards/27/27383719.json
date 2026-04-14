@@ -1,12 +1,14 @@
 {
     "cid": "6eb6e4f4-2562-4e32-9bab-f185d742bcb0",
-    "yid": null,
+    "yid": 27383719,
     "password": "27383719",
     "kid": 16821,
     "name": "S-Force Lapcewell",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｓ－Ｆｏｒｃｅ</rb><rp> (</rp><rt>セキュリティ・フォース</rt><rp>)</rp></ruby> ラプスウェル",
     "name_jp_rom": "Sekyuriti Fōsu Rapusuweru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Security Force Lapcewell",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP016",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +102,6 @@
             "Column",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

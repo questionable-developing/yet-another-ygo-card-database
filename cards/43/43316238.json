@@ -1,11 +1,14 @@
 {
     "cid": "2043342f-7e23-4557-8180-7c12db7ef22f",
+    "yid": 43316238,
     "password": "43316238",
     "kid": 13978,
     "name": "Danger! Bigfoot!",
     "name_jp": "<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>界</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>域</rb><rp> (</rp><rt>いき</rt><rp>)</rp></ruby>のビッグフット",
     "name_jp_rom": "Mikaiiki no Biggufutto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bigfoot of the Lands Unknown",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -89,6 +92,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP021",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "QCAC-JP007",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -129,5 +150,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

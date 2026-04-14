@@ -1,11 +1,14 @@
 {
     "cid": "2f2c640f-56df-448b-bab9-6d2919f48903",
+    "yid": 92826944,
     "password": "92826944",
     "kid": 7359,
     "name": "Mezuki",
     "name_jp": "<ruby lang=\"jp\"><rb>馬</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>頭</rb><rp> (</rp><rt>ず</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鬼</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mezuki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Horse-Head Demon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -114,6 +117,52 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP11-JP004",
+            "set": "Premium Pack 11",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DT13-JP011",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Normal Rare Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TRC1-JP019",
+            "set": "The Rarity Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP041",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP012",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SSB1-JP022",
+            "set": "Secret Shiny Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -124,7 +173,9 @@
             "Zombie"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -145,5 +196,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

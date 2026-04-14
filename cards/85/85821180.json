@@ -1,11 +1,14 @@
 {
     "cid": "220b068c-d4d9-4ad2-9f26-8db7822eee5e",
+    "yid": 85821180,
     "password": "85821180",
     "kid": 12339,
     "name": "Tuner's High",
     "name_jp": "チューナーズ・ハイ",
     "name_jp_rom": "Chūnāzu Hai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP067",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

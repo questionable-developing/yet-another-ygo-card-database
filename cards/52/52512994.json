@@ -1,11 +1,14 @@
 {
     "cid": "fdd3e695-52bf-4ea3-b776-d91320b5b721",
+    "yid": 52512994,
     "password": "52512994",
     "kid": 7937,
     "name": "Kasha",
     "name_jp": "<ruby lang=\"jp\"><rb>火</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>車</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kasha",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fiery Chariot",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -71,6 +74,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP035",
+            "set": "V Jump Fall 2008 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP004",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,7 +102,9 @@
         "asup": [
             "Zombie"
         ],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -111,5 +132,6 @@
             "Requires control of specific Type",
             "Special Summon Monster"
         ]
-    }
+    },
+    "links": {}
 }

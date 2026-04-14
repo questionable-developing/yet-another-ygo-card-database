@@ -1,11 +1,14 @@
 {
     "cid": "e0de20bc-0ce7-4350-80eb-2dcd0d63e88b",
+    "yid": 62962630,
     "password": "62962630",
     "kid": 16195,
     "name": "Aluber the Jester of Despia",
     "name_jp": "デスピアの<ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby>アルベル",
     "name_jp_rom": "Desupia no Dōke Aruberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -96,6 +99,46 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DAMA-JP006",
+            "set": "Dawn of Majesty",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DAMA-JP006",
+            "set": "Dawn of Majesty +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP048",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JPS03",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP003",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -142,5 +185,6 @@
             "Requires control of specific Monster card type",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

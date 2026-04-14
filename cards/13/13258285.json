@@ -1,12 +1,14 @@
 {
     "cid": "f95aab30-29e5-4a55-8f12-51d5295620c7",
-    "yid": null,
+    "yid": 13258285,
     "password": "13258285",
     "kid": 16724,
     "name": "Ukiyoe-P.U.N.K. Sharakusai",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕｋ</rb><rp> (</rp><rt>ウキヨエ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp> (</rp><rt>パンク</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>娑</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>楽</rb><rp> (</rp><rt>らく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>斎</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ukiyoe-Panku Sharakusai",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -59,6 +61,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGC-JP001",
+            "set": "Deck-Build Pack: Grand Creators",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "QCTB-JP021",
+            "set": "Quarter Century Trinity Box",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

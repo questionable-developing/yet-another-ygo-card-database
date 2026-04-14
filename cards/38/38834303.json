@@ -1,11 +1,14 @@
 {
     "cid": "65fec91e-95a7-41c3-9ef4-d081b523f0b3",
+    "yid": 38834303,
     "password": "38834303",
     "kid": 6902,
     "name": "Counter Cleaner",
     "name_jp": "カウンタークリーナー",
     "name_jp_rom": "Kauntā Kurīnā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP041",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CDIP-JP041",
+            "set": "Cyberdark Impact: Vendor Edition",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

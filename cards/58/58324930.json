@@ -1,11 +1,14 @@
 {
     "cid": "69f9f659-c311-40ce-8abd-85f63f5e1978",
+    "yid": 58324930,
     "password": "58324930",
     "kid": 9113,
     "name": "Anarchist Monk Ranshin",
     "name_jp": "<ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>は</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戒</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>僧</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby> ランシン",
     "name_jp_rom": "Hakaisō Ranshin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Precept-Breaking Monk Ranshin",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP036",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

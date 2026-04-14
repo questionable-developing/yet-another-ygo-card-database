@@ -1,11 +1,14 @@
 {
     "cid": "58197929-b6e6-4faf-8599-50ae8da5f358",
+    "yid": 42705243,
     "password": "42705243",
     "kid": 18025,
     "name": "Mikanko Promise",
     "name_jp": "<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>契</rb><rp> (</rp><rt>ちぎ</rt><rp>)</rp></ruby>り",
     "name_jp_rom": "Mikanko no Chigiri",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -31,17 +34,52 @@
         },
         "2": {
             "idx": "2",
-            "full": "MikankoPromise-LPST-JP-OP.png",
+            "full": "MikankoPromise-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": "1",
+    "image": "2",
     "sets": [
         {
             "sid": "AMDE-EN035",
             "set": "Amazing Defenders",
             "rarities": {
-                "Rare": []
+                "Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN127",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP035",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Common": ["1"],
+                "Normal Parallel Rare": ["1"]
+            }
+        },
+        {
+            "sid": "TTP1-JP073",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": ["1"],
+                "Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "LPST-JP045",
+            "set": "Limited Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Secret Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -84,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

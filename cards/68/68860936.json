@@ -1,11 +1,14 @@
 {
     "cid": "4aad4950-5538-4d2a-8603-e9b2100bb1a5",
+    "yid": 68860936,
     "password": "68860936",
     "kid": 13379,
     "name": "Tindangle Angel",
     "name_jp": "ティンダングル・エンジェル",
     "name_jp_rom": "Tindanguru Enjeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "EXFO-EN009",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP009",
             "set": "Extreme Force",
             "rarities": {
                 "Common": []
@@ -82,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

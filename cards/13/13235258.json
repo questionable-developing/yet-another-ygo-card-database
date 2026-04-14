@@ -1,12 +1,14 @@
 {
     "cid": "601cbd98-95b0-4b41-b437-2abe50d0ef6e",
-    "yid": null,
+    "yid": 13235258,
     "password": "13235258",
     "kid": 13471,
     "name": "Corrosive Scales",
     "name_jp": "<ruby lang=\"jp\"><rb>蝕</rb><rp> (</rp><rt>むしば</rt><rp>)</rp></ruby>みの<ruby lang=\"jp\"><rb>鱗</rb><rp> (</rp><rt>りん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>粉</rb><rp> (</rp><rt>ぷん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Mushibami no Rinpun",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP19-JP010",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +107,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

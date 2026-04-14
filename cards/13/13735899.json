@@ -1,12 +1,14 @@
 {
     "cid": "1a6fd043-8b7b-4635-b16b-a09fac5f12c6",
-    "yid": null,
+    "yid": 13735899,
     "password": "13735899",
     "kid": 15995,
     "name": "Mysterion the Dragon Crown",
     "name_jp": "ミュステリオンの<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>冠</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Myusuterion no Ryūkan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragon Crown of Mysterion",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +61,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LIOV-JP034",
+            "set": "Lightning Overdrive",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "LIOV-JP034",
+            "set": "Lightning Overdrive +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DBJH-JP013",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +127,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

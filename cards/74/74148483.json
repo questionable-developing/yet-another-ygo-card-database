@@ -1,11 +1,14 @@
 {
     "cid": "8da1ef97-e701-4080-9ced-c84580baf918",
+    "yid": 74148483,
     "password": "74148483",
     "kid": 15496,
     "name": "Infernity Wildcat",
     "name_jp": "インフェルニティ・ワイルドキャット",
     "name_jp_rom": "Inferuniti Wairudokyatto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "PHRA-EN017",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP017",
             "set": "Phantom Rage",
             "rarities": {
                 "Common": []
@@ -84,5 +96,6 @@
             "Requires having no cards in hand",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

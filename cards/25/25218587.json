@@ -1,12 +1,14 @@
 {
     "cid": "8124c208-3ae0-4d37-b472-f2267e8ca6c5",
-    "yid": null,
+    "yid": 25218587,
     "password": "25218587",
     "kid": 19918,
     "name": "Lightsworn Aegis",
     "name_jp": "ライトロード・アイギス",
     "name_jp_rom": "Raitorōdo Aigisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Aegis",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP25-EN364",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP077",
+            "set": "Legacy of Destruction",
             "rarities": {
                 "Common": []
             }
@@ -86,5 +97,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

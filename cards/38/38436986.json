@@ -1,11 +1,14 @@
 {
     "cid": "733ea3d6-8261-4401-b46b-dce0239d0a95",
+    "yid": 38436986,
     "password": "38436986",
     "kid": 17473,
     "name": "Tearlaments Metanoise",
     "name_jp": "<ruby lang=\"jp\"><rb>壱世壊に軋む爪音</rb><rp> (</rp><rt>ティアラメンツ・メタノイズ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tiaramentsu Metanoizu",
+    "name_jp_rom_base": "Isekai ni Kishimu Tsumaoto",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Screeching Claw Sound in the First Broken World",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -26,17 +29,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TearlamentsMetanoise-22YJ-JP-ScR.png",
+            "art": "TearlamentsMetanoise-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TearlamentsMetanoise-POTE-EN-C-1E.png",
-            "art": null
+            "art": "TearlamentsMetanoise-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "POTE-EN071",
             "set": "Power of the Elements",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP071",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "22YJ-JPO02",
+            "set": "Tearlaments Duel Set",
+            "rarities": {
+                "Secret Rare": []
             }
         }
     ],
@@ -81,5 +105,6 @@
             "Requires control of specific card",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

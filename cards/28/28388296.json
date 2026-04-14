@@ -1,12 +1,14 @@
 {
     "cid": "778638a1-6860-4ddc-a5bd-b95bc92bd7fa",
-    "yid": null,
+    "yid": 28388296,
     "password": "28388296",
     "kid": 11095,
     "name": "Scrap Factory",
     "name_jp": "スクラップ・ファクトリー",
     "name_jp_rom": "Sukurappu Fakutorī",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -36,6 +38,22 @@
         {
             "sid": "PRIO-EN066",
             "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP066",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVP2-JP040",
+            "set": "LINK VRAINS Pack 2",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

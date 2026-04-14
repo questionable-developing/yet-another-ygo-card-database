@@ -1,11 +1,14 @@
 {
     "cid": "73c4a515-28d1-418e-a608-259e6e09fb12",
+    "yid": 59235795,
     "password": "59235795",
     "kid": 6984,
     "name": "Destruction Cyclone",
     "name_jp": "デスサイクロン",
     "name_jp_rom": "Desu Saikuron",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Death Cyclone",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STON-EN028",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP028",
             "set": "Strike of Neos",
             "rarities": {
                 "Common": []
@@ -80,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

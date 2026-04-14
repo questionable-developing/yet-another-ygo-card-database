@@ -1,12 +1,14 @@
 {
     "cid": "3032d164-72e7-453f-9d7f-084150e32c11",
-    "yid": null,
+    "yid": 24920410,
     "password": "24920410",
     "kid": 9684,
     "name": "Overwind",
     "name_jp": "オーバー・レンチ",
     "name_jp_rom": "Ōbā Renchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Over Wrench",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "GENF-EN067",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP067",
             "set": "Generation Force",
             "rarities": {
                 "Common": []
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

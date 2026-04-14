@@ -1,11 +1,14 @@
 {
     "cid": "7b98cc82-2941-4904-8d15-0516688ec1bb",
+    "yid": 93830681,
     "password": "93830681",
     "kid": 9726,
     "name": "Friller Rabca",
     "name_jp": "キラー・ラブカ",
     "name_jp_rom": "Kirā Rabuka",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Killer Frilled Shark",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -66,6 +69,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP008",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP15-JP006",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +128,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

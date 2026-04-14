@@ -1,11 +1,14 @@
 {
     "cid": "9661c8d3-a305-47bc-8cb0-a9f4dc615bdf",
+    "yid": 42082363,
     "password": "42082363",
     "kid": 9806,
     "name": "Gusto Griffin",
     "name_jp": "ガスタ・グリフ",
     "name_jp_rom": "Gasuta Gurifu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gusta Grif",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT13-JP017",
+            "set": "Duel Terminal - Sacred Star Knights!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP094",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

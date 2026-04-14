@@ -1,11 +1,14 @@
 {
     "cid": "15386950-4a6d-4df6-8557-fca0b5a873a6",
+    "yid": 86449372,
     "password": "86449372",
     "kid": 14860,
     "name": "TA.I. Strike",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａｉ</rb><rp> (</rp><rt>アイ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>打</rb><rp> (</rp><rt>う</rt><rp>)</rp></ruby>ち",
     "name_jp_rom": "Ai Uchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "TAi Strike",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP21-EN022",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP051",
+            "set": "Ignition Assault",
             "rarities": {
                 "Common": []
             }
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

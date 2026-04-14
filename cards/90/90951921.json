@@ -1,11 +1,14 @@
 {
     "cid": "dbee75b8-c6a3-4ec1-8f10-f58b6076853e",
+    "yid": 90951921,
     "password": "90951921",
     "kid": 10184,
     "name": "Chronomaly Technology",
     "name_jp": "<ruby lang=\"jp\"><rb>先史遺産技術</rb><rp> (</rp><rt>オーパーツテクノロジー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ōpātsu Tekunorojī",
+    "name_jp_rom_base": "Senshi Isan Gijutsu",
     "name_jp_tl": "OOPArts Technology",
+    "name_jp_tl_base": "Prehistoric Heritage Technology",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "REDU-EN054",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP054",
             "set": "Return of the Duelist",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

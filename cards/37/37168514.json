@@ -1,11 +1,14 @@
 {
     "cid": "282e11c6-0d2e-4754-a1b1-52ee7cff2caf",
+    "yid": 37168514,
     "password": "37168514",
     "kid": 10900,
     "name": "Gorgonic Cerberus",
     "name_jp": "ゴルゴニック・ケルベロス",
     "name_jp_rom": "Gorugonikku Keruberosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP014",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

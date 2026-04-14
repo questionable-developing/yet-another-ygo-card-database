@@ -1,11 +1,14 @@
 {
     "cid": "222f5a3c-9bc7-4072-b97b-e7c38bce6743",
+    "yid": 52714670,
     "password": "52714670",
     "kid": 13291,
     "name": "Metaphys Dimension",
     "name_jp": "メタファイズ・ディメンション",
     "name_jp_rom": "Metafaizu Dimenshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP075",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -64,7 +76,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

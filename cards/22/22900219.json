@@ -1,12 +1,14 @@
 {
     "cid": "c2e09455-b79d-43a3-8ec2-a018aff1461e",
-    "yid": null,
+    "yid": 22900219,
     "password": "22900219",
     "kid": 14280,
     "name": "Dinowrestler Chimera T Wrextle",
     "name_jp": "ダイナレスラー・キメラ・<ruby lang=\"jp\"><rb>Ｔ</rb><rp> (</rp><rt>ティー</rt><rp>)</rp></ruby>レッスル",
     "name_jp_rom": "Dainaresurā Kimera Tī Ressuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP030",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,7 +81,8 @@
         ],
         "asuparc": [],
         "rel": [
-            "Gouki"
+            "Gouki",
+            "<!--visual Fusion Material for Gouki The Tyrant Ogre-->"
         ],
         "counter": [],
         "action": [
@@ -99,5 +111,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

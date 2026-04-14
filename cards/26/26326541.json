@@ -1,12 +1,14 @@
 {
     "cid": "2e149660-fdc4-4d96-8bca-2bd6e32009e3",
-    "yid": null,
+    "yid": 26326541,
     "password": "26326541",
     "kid": 14117,
     "name": "Shiranui Swordsaga",
     "name_jp": "<ruby lang=\"jp\"><rb>業</rb><rp> (</rp><rt>わざ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Wazagami - Shiranui",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vocation God - Shiranui",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "SAST-EN040",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP040",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

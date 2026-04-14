@@ -1,12 +1,14 @@
 {
     "cid": "9eb31ac7-5459-4329-878e-96795d4a7646",
-    "yid": null,
+    "yid": 18832779,
     "password": "18832779",
     "kid": 15322,
     "name": "Plunder Patrollship Lys",
     "name_jp": "<ruby lang=\"jp\"><rb>海造賊</rb><rp> (</rp><rt>プランドロール</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>双</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>翼</rb><rp> (</rp><rt>よく</rt><rp>)</rp></ruby>のリュース<ruby lang=\"jp\"><rb>号</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Purandorōru - Sōyoku no Ryūsu-Gō",
+    "name_jp_rom_base": "Kaizōzoku - Sōyoku no Ryūsu-Gō",
     "name_jp_tl": "Plundroll - Twin-Winged Lys",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP037",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +106,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "18109633-b089-45c2-a054-2ef8df32dd33",
-    "yid": null,
+    "yid": 17536995,
     "password": "17536995",
     "kid": 10429,
     "name": "Heraldry Change",
     "name_jp": "<ruby lang=\"jp\"><rb>紋章変換</rb><rp> (</rp><rt>チェンジ・メダリオン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Chenji Medarion",
+    "name_jp_rom_base": "Monshō Henkan",
     "name_jp_tl": "Change Medallion",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "CBLZ-EN070",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP070",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Common": []
@@ -76,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

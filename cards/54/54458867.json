@@ -1,11 +1,14 @@
 {
     "cid": "c164fa21-ecf4-4332-aa59-b76796c229c0",
+    "yid": 54458867,
     "password": "54458867",
     "kid": 13271,
     "name": "Squib Draw",
     "name_jp": "スクイブ・ドロー",
     "name_jp_rom": "Sukuibu Dorō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP055",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "LVB1-JP019",
+            "set": "LINK VRAINS Box",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD36-JP025",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -85,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

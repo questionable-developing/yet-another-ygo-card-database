@@ -1,11 +1,14 @@
 {
     "cid": "b2fd6f12-8d6a-4c0c-b46b-11b58f1b7008",
+    "yid": 50304345,
     "password": "50304345",
     "kid": 7376,
     "name": "Evil HERO Infernal Prodigy",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ－ＨＥＲＯ</rb><rp> (</rp><rt>イービルヒーロー</rt><rp>)</rp></ruby> ヘル・ブラット",
     "name_jp_rom": "Ībiru Hīrō Heru Buratto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evil HERO Hell Brat",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -78,6 +81,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP06-JP009",
+            "set": "Duelist Pack: Jaden Yuki 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP019",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +135,6 @@
         "misc": [
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

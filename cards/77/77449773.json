@@ -1,11 +1,14 @@
 {
     "cid": "3bc638f8-015f-436b-9943-7432f6cf0b9e",
+    "yid": 77449773,
     "password": "77449773",
     "kid": 14435,
     "name": "Cynet Crosswipe",
     "name_jp": "サイバネット・クロスワイプ",
     "name_jp_rom": "Saibanetto Kurosuwaipu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cybenet Crosswipe",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ST19-JP021",
+            "set": "Starter Deck 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

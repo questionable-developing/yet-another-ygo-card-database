@@ -1,11 +1,14 @@
 {
     "cid": "313036ba-b343-402e-a932-d5d14117cf6a",
+    "yid": 90397998,
     "password": "90397998",
     "kid": 6967,
     "name": "The Six Samurai - Kamon",
     "name_jp": "<ruby lang=\"jp\"><rb>六</rb><rp> (</rp><rt>ろく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>衆</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby>－カモン",
     "name_jp_rom": "Rokubushū - Kamon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Six Warmen - Kamon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -76,6 +79,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STON-JP008",
+            "set": "Strike of Neos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP082",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -113,5 +132,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

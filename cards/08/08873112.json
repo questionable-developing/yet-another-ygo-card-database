@@ -1,12 +1,14 @@
 {
     "cid": "69c6e7a4-c00d-4593-b48f-86b6d5d1ae37",
-    "yid": null,
+    "yid": 8873112,
     "password": "08873112",
     "kid": 11242,
     "name": "Artifact Chakram",
     "name_jp": "アーティファクト－チャクラム",
     "name_jp_rom": "Ātifakuto - Chakuramu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP033",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

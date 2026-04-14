@@ -1,11 +1,14 @@
 {
     "cid": "0a6618bf-2161-492c-b0e0-237cbf8bd52c",
+    "yid": 86223870,
     "password": "86223870",
     "kid": 8221,
     "name": "Level Retuner",
     "name_jp": "レベル・リチューナー",
     "name_jp_rom": "Reberu Richūnā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP069",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP11-JP023",
+            "set": "Duelist Pack: Crow",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

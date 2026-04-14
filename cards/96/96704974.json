@@ -1,11 +1,14 @@
 {
     "cid": "6af617bb-86cb-462d-b1c6-d3b8ea018d4f",
+    "yid": 96704974,
     "password": "96704974",
     "kid": 13103,
     "name": "Boogie Trap",
     "name_jp": "ブーギートラップ",
     "name_jp_rom": "Būgī Torappu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP064",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR06-JP027",
+            "set": "Structure Deck R: Curse of the Dark",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +105,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

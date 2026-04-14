@@ -1,11 +1,14 @@
 {
     "cid": "324b91f7-ef9d-4117-b3b1-186c026d127e",
+    "yid": 37931734,
     "password": "37931734",
     "kid": 14780,
     "name": "Generaider Boss Fight",
     "name_jp": "<ruby lang=\"jp\"><rb>王の襲来</rb><rp> (</rp><rt>ジェネレイド・バトル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Jenereido Batoru",
+    "name_jp_rom_base": "Ō no Shūrai",
     "name_jp_tl": "Generaid Battle",
+    "name_jp_tl_base": "King's Raid",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "MYFI-EN037",
             "set": "Mystic Fighters",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBMF-JP037",
+            "set": "Deck-Build Pack: Mystic Fighters",
             "rarities": {
                 "Super Rare": []
             }
@@ -75,5 +87,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

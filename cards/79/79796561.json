@@ -1,11 +1,14 @@
 {
     "cid": "3aa05656-4cb8-4005-a574-a79339e86b10",
+    "yid": 79796561,
     "password": "79796561",
     "kid": 9089,
     "name": "Synchro Soldier",
     "name_jp": "シンクロ・ガンナー",
     "name_jp_rom": "Shinkuro Gannā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Synchro Gunner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "STBL-EN012",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP012",
             "set": "Starstrike Blast",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

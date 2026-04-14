@@ -1,11 +1,14 @@
 {
     "cid": "63616cdf-3f40-4a56-919a-5a2383617929",
+    "yid": 77565204,
     "password": "77565204",
     "kid": 6782,
     "name": "Future Fusion",
     "name_jp": "<ruby lang=\"jp\"><rb>未</rb><rp> (</rp><rt>み</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>来</rb><rp> (</rp><rt>らい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>融</rb><rp> (</rp><rt>ゆう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>－フューチャー・フュージョン",
     "name_jp_rom": "Mirai Yūgō - Fyūchā Fyūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Future Fusion - Future Fusion",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -105,6 +108,57 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP044",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP04-JP023",
+            "set": "Duelist Pack: Zane Truesdale",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DT11-JP041",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE01-JP033",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "20AP-JP037",
+            "set": "20th Anniversary Pack 1st Wave",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP029",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LPG1-JP053",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -123,11 +177,12 @@
         "counter": [],
         "action": [
             "Sends from your Deck to your Graveyard",
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Uses cards in the player's Deck as Fusion Materials"
         ],
         "stat_change": [],
         "mst": [
+            "Destroys your Monster Cards",
             "Destroys itself"
         ],
         "summoning": [
@@ -142,5 +197,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "a42b23d6-fb74-48f2-b55d-b8e87720ee8d",
+    "yid": 43583400,
     "password": "43583400",
     "kid": 13523,
     "name": "Antialian",
     "name_jp": "アンチエイリアン",
     "name_jp_rom": "Anchieirian",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "SDPL-EN006",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SD33-JP006",
             "set": "Structure Deck: Powercode Link",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

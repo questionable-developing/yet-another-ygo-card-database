@@ -1,11 +1,14 @@
 {
     "cid": "482b7fd4-c589-4393-9a78-2ba3cd5aa759",
+    "yid": 59385322,
     "password": "59385322",
     "kid": 8343,
     "name": "Core Blaster",
     "name_jp": "コアバスター",
     "name_jp_rom": "Koa Basutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Core Buster",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ANPR-EN053",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP053",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

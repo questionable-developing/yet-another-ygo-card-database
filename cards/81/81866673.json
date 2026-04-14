@@ -1,11 +1,14 @@
 {
     "cid": "63b2fedb-4d65-4d3e-813d-214599128576",
+    "yid": 81866673,
     "password": "81866673",
     "kid": 6753,
     "name": "Destiny HERO - Dasher",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ－ＨＥＲＯ</rb><rp> (</rp><rt>デステニーヒーロー</rt><rp>)</rp></ruby> ダッシュガイ",
     "name_jp_rom": "Desutenī Hīrō Dasshugai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Destiny HERO Dashguy",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -73,6 +76,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "POTD-JP017",
+            "set": "Power of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP05-JP010",
+            "set": "Duelist Pack: Aster Phoenix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP013",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SUB1-JP027",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -110,5 +143,6 @@
             "Limited activations",
             "Once while in the Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

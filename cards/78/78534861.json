@@ -1,11 +1,14 @@
 {
     "cid": "c737ed8b-dd6c-43ff-b848-2c3877d02f9a",
+    "yid": 78534861,
     "password": "78534861",
     "kid": 18152,
     "name": "Scareclaw Kashtira",
     "name_jp": "スケアクロー・クシャトリラ",
     "name_jp_rom": "Sukeakurō Kushatorira",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scareclaw Kshatrira",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP007",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +113,6 @@
             "Only once per turn",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "ce10bc74-bc21-4e79-bac9-900ff33c14ff",
-    "yid": null,
+    "yid": 29280200,
     "password": "29280200",
     "kid": 18730,
     "name": "Vanquish Soul Dr. Mad Love",
     "name_jp": "<ruby lang=\"jp\"><rb>ＶＳ</rb><rp> (</rp><rt>ヴァンキッシュ・ソウル</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>Ｄｒ．</rb><rp> (</rp><rt>ドクター</rt><rp>)</rp></ruby>マッドラヴ",
     "name_jp_rom": "Vankisshu Souru Dokutā Maddoravu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBWS-JP019",
+            "set": "Deck-Build Pack: Wild Survivors",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +111,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

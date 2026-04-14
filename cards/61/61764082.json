@@ -1,11 +1,14 @@
 {
     "cid": "5c87f498-7623-4705-a983-1455736d2936",
+    "yid": 61764082,
     "password": "61764082",
     "kid": 14455,
     "name": "Dinowrestler Rambrachio",
     "name_jp": "ダイナレスラー・ラアムブラキオ",
     "name_jp_rom": "Dainaresurā Raamuburakio",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP007",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

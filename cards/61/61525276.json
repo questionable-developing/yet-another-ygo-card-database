@@ -1,11 +1,14 @@
 {
     "cid": "3528570f-c5f6-431a-b4c9-244de9282947",
+    "yid": 61525276,
     "password": "61525276",
     "kid": 15236,
     "name": "Curse of Dragon, the Cursed Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>のろ</rt><rp>)</rp></ruby>われし<ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－カース・オブ・ドラゴン",
     "name_jp_rom": "Norowareshi Ryū - Kāsu Obu Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -57,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP002",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +112,6 @@
             "Requires control of specific ATK",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

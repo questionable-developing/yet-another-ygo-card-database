@@ -1,11 +1,14 @@
 {
     "cid": "b4b358f1-2fef-4446-8674-635f9d929009",
+    "yid": 52792430,
     "password": "52792430",
     "kid": 12833,
     "name": "Predaplant Spinodionaea",
     "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>スピノ・ディオネア",
     "name_jp_rom": "Puredetā Purantsu Supino Dionea",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Plants Spino Dionaea",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -40,6 +43,23 @@
             "set": "Fusion Enforcers",
             "rarities": {
                 "Secret Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPFE-JP004",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP074",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -82,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

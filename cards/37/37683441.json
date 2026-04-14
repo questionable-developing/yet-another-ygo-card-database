@@ -1,11 +1,14 @@
 {
     "cid": "14f4fab7-d2aa-4efd-80a7-7ca6654653c2",
+    "yid": 37683441,
     "password": "37683441",
     "kid": 20295,
     "name": "Trickstar Noble Angel",
     "name_jp": "トリックスター・ノーブルエンジェル",
     "name_jp_rom": "Torikkusutā Nōburu Enjeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -33,17 +36,33 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "TrickstarNobleAngel-DP29-JP-UR.png",
+            "art": "TrickstarNobleAngel-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "TrickstarNobleAngel-MZTM-EN-SR-1E.png",
-            "art": null
+            "art": "TrickstarNobleAngel-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "MZTM-EN029",
             "set": "Maze of the Master",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP29-JP040",
+            "set": "Duelist Pack: Duelists of Brilliance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
             }
         }
     ],
@@ -90,7 +109,9 @@
         "smat": [],
         "misc": [
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

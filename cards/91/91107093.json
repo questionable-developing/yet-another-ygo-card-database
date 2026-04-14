@@ -1,11 +1,14 @@
 {
     "cid": "ecbe23fd-92ad-4136-851d-65ef0ba440ba",
+    "yid": 91107093,
     "password": "91107093",
     "kid": 8830,
     "name": "Electromagnetic Shield",
     "name_jp": "<ruby lang=\"jp\"><rb>電</rb><rp> (</rp><rt>でん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>磁</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby>シールド",
     "name_jp_rom": "Denji Shīrudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TSHD-JP055",
+            "set": "The Shining Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +81,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

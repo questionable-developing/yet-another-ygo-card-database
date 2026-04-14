@@ -1,11 +1,14 @@
 {
     "cid": "94672a98-3bf2-41e9-8fd3-05164a343fea",
+    "yid": 48964966,
     "password": "48964966",
     "kid": 7571,
     "name": "Athena",
     "name_jp": "アテナ",
     "name_jp_rom": "Atena",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP11-JP006",
+            "set": "Premium Pack 11",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "DT11-JP004",
+            "set": "Duel Terminal - Judgment of Omega!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SR05-JP013",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +123,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

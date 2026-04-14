@@ -1,11 +1,14 @@
 {
     "cid": "1598fa7c-d618-437b-a2e1-a8e914379698",
+    "yid": 65100616,
     "password": "65100616",
     "kid": 13219,
     "name": "Link Infra-Flier",
     "name_jp": "リンク・インフライヤー",
     "name_jp_rom": "Rinku Infuraiyā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Link Inflier",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP003",
+            "set": "Circuit Break",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP014",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +99,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

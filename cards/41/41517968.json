@@ -1,11 +1,14 @@
 {
     "cid": "707e1ee7-6c6a-4876-a03f-22559bdea98d",
+    "yid": 41517968,
     "password": "41517968",
     "kid": 7176,
     "name": "Elemental HERO Darkbright",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅ・ＨＥＲＯ</rb><rp> (</rp><rt>エレメンタルヒーロー</rt><rp>)</rp></ruby> ダーク・ブライトマン",
     "name_jp_rom": "Erementaru Hīrō Dāku Buraitoman",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Elemental HERO Dark Brightman",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +62,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TAEV-JP042",
+            "set": "Tactical Evolution",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DT07-JP036",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP016",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -102,5 +128,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

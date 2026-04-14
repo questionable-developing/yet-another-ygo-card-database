@@ -1,11 +1,14 @@
 {
     "cid": "4e880822-b084-4b4b-9775-817d6c7ff738",
+    "yid": 97211663,
     "password": "97211663",
     "kid": 11580,
     "name": "Nekroz Cycle",
     "name_jp": "<ruby lang=\"jp\"><rb>影霊衣</rb><rp> (</rp><rt>ネクロス</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魂</rb><rp> (</rp><rt>ごん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>術</rb><rp> (</rp><rt>じゅつ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Nekurosu no Hangonjutsu",
+    "name_jp_rom_base": "Eireii no Hangonjutsu",
     "name_jp_tl": "Necroth Soul-Calling Technique",
+    "name_jp_tl_base": "Shadow Spirit Cloth Soul-Calling Technique",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -61,6 +64,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SECE-JP060",
+            "set": "Secrets of Eternity",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW02-JP093",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +124,6 @@
             "Nonspecific Ritual Spell Card",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

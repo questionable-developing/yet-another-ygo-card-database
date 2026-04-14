@@ -1,11 +1,14 @@
 {
     "cid": "4a964d07-e617-4dc6-ba59-bd4dd26d699b",
+    "yid": 87116928,
     "password": "87116928",
     "kid": 13358,
     "name": "Chimeratech Megafleet Dragon",
     "name_jp": "キメラテック・メガフリート・ドラゴン",
     "name_jp_rom": "Kimeratekku Megafurīto Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -31,10 +34,15 @@
         "1": {
             "idx": "1",
             "full": "ChimeratechMegafleetDragon-GFP2-EN-UR-1E.png",
+            "art": "ChimeratechMegafleetDragon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "ChimeratechMegafleetDragon-LOSP-JP-PScR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "LEDD-ENB00",
@@ -55,6 +63,54 @@
             "set": "Ghosts From the Past: The 2nd Haunting",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RC02-JP002",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Extra Secret Rare": []
+            }
+        },
+        {
+            "sid": "EP18-JP046",
+            "set": "Extra Pack 2018",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP021",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP024",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPA29",
+            "set": "Tactical-Try Deck: Decisive Strike Cyber Dragon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LOSP-JP012",
+            "set": "Limit Over Special Pack Vol.2",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -101,6 +157,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Cover card"
+        ]
+    },
+    "links": {}
 }

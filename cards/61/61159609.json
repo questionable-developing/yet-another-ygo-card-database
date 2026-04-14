@@ -1,11 +1,14 @@
 {
     "cid": "11107356-eceb-4946-b6ac-5eac9ee03361",
+    "yid": 61159609,
     "password": "61159609",
     "kid": 15620,
     "name": "Trismagistus",
     "name_jp": "<ruby lang=\"jp\"><rb>三賢者の書</rb><rp> (</rp><rt>トリス・マギストス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Torisu Magisutosu",
+    "name_jp_rom_base": "Sankenja no Sho",
     "name_jp_tl": "Tris-Magistus",
+    "name_jp_tl_base": "The Three Sages' Book",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -37,6 +40,16 @@
             "set": "Genesis Impact",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP009",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
             }
         }
     ],
@@ -79,5 +92,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

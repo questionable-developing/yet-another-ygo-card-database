@@ -1,12 +1,14 @@
 {
     "cid": "88329cb8-4a44-4386-9389-d10a9b30768f",
-    "yid": null,
+    "yid": 16223761,
     "password": "16223761",
     "kid": 15265,
     "name": "Thunder Hand",
     "name_jp": "サンダー・ハンド",
     "name_jp_rom": "Sandā Hando",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP031",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD45-JP022",
+            "set": "Structure Deck: Forest of the Traptrix",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TDS2-JP022",
+            "set": "Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

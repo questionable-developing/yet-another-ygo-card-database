@@ -1,12 +1,14 @@
 {
     "cid": "8237462d-4eeb-4b47-8cb4-20d5139d2e64",
-    "yid": null,
+    "yid": 6799227,
     "password": "06799227",
     "kid": 9147,
     "name": "Half Counter",
     "name_jp": "ハーフ・カウンター",
     "name_jp_rom": "Hāfu Kauntā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "HalfCounter-STBL-JP-C.jpg",
+            "art": "HalfCounter-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "HalfCounter-SGX3-EN-C-1E.png",
-            "art": null
+            "art": "HalfCounter-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "STBL-EN070",
@@ -56,10 +63,19 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STBL-JP070",
+            "set": "Starstrike Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Activation requirement, Effect"
+            "Effect"
         ],
         "mentions": [],
         "sup": [],
@@ -83,5 +99,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "94089a76-2236-43a0-be40-33913fa287a4",
-    "yid": null,
+    "yid": 20403123,
     "password": "20403123",
     "kid": 12371,
     "name": "Performapal Sleight Hand Magician",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby>スライハンド・マジシャン",
     "name_jp_rom": "Entameito Suraihando Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Sleight Hand Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "YS16-EN001",
             "set": "Starter Deck: Yuya",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ST16-JP001",
+            "set": "Starter Deck 2016",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -80,7 +91,9 @@
         "fmat": [],
         "smat": [],
         "misc": [
-            "Limited activations"
+            "Limited activations",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

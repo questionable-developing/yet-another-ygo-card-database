@@ -1,11 +1,14 @@
 {
     "cid": "549c4134-5de9-45a7-ba8b-fbd67167a9c4",
+    "yid": 80534031,
     "password": "80534031",
     "kid": 20544,
     "name": "Virtue Stream",
     "name_jp": "ヴァーチュ・ストリーム",
     "name_jp_rom": "Vāchu Sutorīmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP25-EN421",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP068",
+            "set": "Rage of the Abyss",
             "rarities": {
                 "Common": []
             }
@@ -96,5 +108,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

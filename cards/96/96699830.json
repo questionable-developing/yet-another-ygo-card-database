@@ -1,11 +1,14 @@
 {
     "cid": "5c3b133a-8bdf-4ff7-a2f5-f2f03db9d24d",
+    "yid": 96699830,
     "password": "96699830",
     "kid": 8429,
     "name": "Born from Draconis",
     "name_jp": "ボーン・フロム・ドラコニス",
     "name_jp_rom": "Bōn Furomu Dorakonisu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -54,10 +57,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CP18-JP017",
+            "set": "Collectors Pack 2018",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBGI-JP044",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Cost, Effect, Condition"
+            "Effect, Condition"
         ],
         "mentions": [],
         "sup": [
@@ -94,5 +114,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

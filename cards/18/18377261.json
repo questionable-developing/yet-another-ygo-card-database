@@ -1,12 +1,14 @@
 {
     "cid": "8eb38ba8-ce1d-434f-b947-88ed73bf1e6f",
-    "yid": null,
+    "yid": 18377261,
     "password": "18377261",
     "kid": 18015,
     "name": "Ha-Re the Sword Mikanko",
     "name_jp": "<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>つるぎ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>御巫</rb><rp> (</rp><rt>みかんこ</rt><rp>)</rp></ruby>ハレ",
     "name_jp_rom": "Tsurugi no Mikanko Hare",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -52,6 +54,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBAD-JP025",
+            "set": "Deck-Build Pack: Amazing Defenders",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP060",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

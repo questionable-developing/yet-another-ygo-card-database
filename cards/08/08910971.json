@@ -1,12 +1,14 @@
 {
     "cid": "1c30da37-fc23-4697-929c-b687b3b20054",
-    "yid": null,
+    "yid": 8910971,
     "password": "08910971",
     "kid": 12355,
     "name": "Lord Gaia the Fierce Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>暗</rb><rp> (</rp><rt>あん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>黒</rb><rp> (</rp><rt>こく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ガイアロード",
     "name_jp_rom": "Ankoku Kishi Gaia Rōdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gaia Lord the Dark Knight",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "MVPC-JP002",
+            "set": "Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution card 2",
+            "rarities": {
+                "Kaiba Corporation Common": []
+            }
+        },
+        {
+            "sid": "20TH-JPC60",
+            "set": "20th Anniversary Legend Collection",
+            "rarities": {
+                "Ultra Parallel Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
             "Requires control of no monsters",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

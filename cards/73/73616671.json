@@ -1,11 +1,14 @@
 {
     "cid": "6f90f826-5ff4-48be-9a93-f81471b47420",
+    "yid": 73616671,
     "password": "73616671",
     "kid": 12457,
     "name": "Illusion Magic",
     "name_jp": "イリュージョン・マジック",
     "name_jp_rom": "Iryūjon Majikku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP058",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP23-JP010",
+            "set": "Duelist Pack: Legend Duelist 6",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +122,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

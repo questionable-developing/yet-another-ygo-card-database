@@ -1,11 +1,14 @@
 {
     "cid": "4269c52c-a63b-416b-9b82-c03d1c5202a0",
+    "yid": 43359262,
     "password": "43359262",
     "kid": 9022,
     "name": "Sergeant Electro",
     "name_jp": "エレクトロ<ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>曹</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Erekutoro Gunsō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Electro Sergeant",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -56,6 +59,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP050",
+            "set": "V Jump Spring 2010 subscription bonus",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP18-JP046",
+            "set": "Duelist Pack: Legend Duelist",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

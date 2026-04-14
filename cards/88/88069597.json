@@ -1,11 +1,14 @@
 {
     "cid": "1ce2a493-5849-49a2-b5ea-1fa96918aaa0",
+    "yid": 88069597,
     "password": "88069597",
     "kid": 12837,
     "name": "Predaponics",
     "name_jp": "プレデター・プランター",
     "name_jp_rom": "Puredetā Purantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Planter",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SPFE-JP011",
+            "set": "Booster SP: Fusion Enforcers",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "DP22-JP054",
+            "set": "Duelist Pack: Legend Duelist 5",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "100134bc-93fb-4d82-af95-70f03d0da4b5",
+    "yid": 51865604,
     "password": "51865604",
     "kid": 11030,
     "name": "ZS - Vanish Sage",
     "name_jp": "<ruby lang=\"jp\"><rb>ＺＳ</rb><rp> (</rp><rt>ゼアル・サーバス</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>幻影賢者</rb><rp> (</rp><rt>バニッシュ・セージ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Zearu Sābasu - Banisshu Sēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Zexal Servers - Vanish Sage",
+    "name_jp_tl_base": "ZS - Phantom Sage",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP001",
+            "set": "Primal Origin",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD42-JP015",
+            "set": "Structure Deck: Overlay Universe",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +87,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -82,5 +101,6 @@
             "Requires control of specific archetype",
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

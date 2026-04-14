@@ -1,11 +1,14 @@
 {
     "cid": "940a587f-d1b8-4251-86bf-175d4f19108e",
+    "yid": 57568840,
     "password": "57568840",
     "kid": 8947,
     "name": "Delta Flyer",
     "name_jp": "デルタフライ",
     "name_jp_rom": "Derutafurai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deltafly",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP016",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SSD2-JP009",
+            "set": "Speed Start Deck Synchro Edition",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +89,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

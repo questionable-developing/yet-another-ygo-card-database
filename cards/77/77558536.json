@@ -1,11 +1,14 @@
 {
     "cid": "e9e74b87-5c01-4037-9c49-1bf5620fb694",
+    "yid": 77558536,
     "password": "77558536",
     "kid": 10886,
     "name": "Raiden, Hand of the Lightsworn",
     "name_jp": "ライトロード・アサシン ライデン",
     "name_jp_rom": "Raitorōdo Asashin Raiden",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Lightroad Assassin Raiden",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -72,6 +75,38 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DS14-JPLS3",
+            "set": "Duelist Set: Version Lightsworn Judgment",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR02-JP022",
+            "set": "Structure Deck R: Revival of the Great Divine Dragon",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD36-JP022",
+            "set": "Structure Deck: Revolver",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCCU-JP131",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +140,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

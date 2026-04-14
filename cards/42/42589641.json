@@ -1,11 +1,14 @@
 {
     "cid": "1705e6be-f47b-430e-a972-18cb2b84d47b",
+    "yid": 42589641,
     "password": "42589641",
     "kid": 11386,
     "name": "Stellarknight Triverr",
     "name_jp": "<ruby lang=\"jp\"><rb>星輝士</rb><rp> (</rp><rt>ステラナイト</rt><rp>)</rp></ruby> トライヴェール",
     "name_jp_rom": "Suteranaito Toraivēru",
-    "name_jp_tl": "Stellarknight Triver",
+    "name_jp_rom_base": "Seikishi Toraivēru",
+    "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP054",
+            "set": "The New Challengers",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP055",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +113,6 @@
         "misc": [
             "Once per turn"
         ]
-    }
+    },
+    "links": {}
 }

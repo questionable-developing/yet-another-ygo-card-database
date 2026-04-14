@@ -1,12 +1,14 @@
 {
     "cid": "1151b945-602d-4792-8d51-019c7405a8fe",
-    "yid": null,
+    "yid": 34251483,
     "password": "34251483",
     "kid": 10170,
     "name": "Goblin Marauding Squad",
     "name_jp": "ゴブリン<ruby lang=\"jp\"><rb>切</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>り<ruby lang=\"jp\"><rb>込</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby>み<ruby lang=\"jp\"><rb>部</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>隊</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Goburin Kirikomi Butai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Goblin Marauding Force",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "REDU-JP040",
+            "set": "Return of the Duelist",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +92,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

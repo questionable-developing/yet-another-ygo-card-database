@@ -1,11 +1,14 @@
 {
     "cid": "d1c05ced-d425-4748-9754-b32e583d1e07",
+    "yid": 58707981,
     "password": "58707981",
     "kid": 20205,
     "name": "Disablaster the Negation Fortress",
     "name_jp": "<ruby lang=\"jp\"><rb>無</rb><rp> (</rp><rt>む</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>孔</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>砲</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>塔</rb><rp> (</rp><rt>とう</rt><rp>)</rp></ruby>－ディセイブラスター",
     "name_jp_rom": "Mukōhōtō - Diseiburasutā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Negation Gun Turret - Disablaster",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP026",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [
             "Continuous-like"
@@ -89,5 +101,6 @@
         "misc": [
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

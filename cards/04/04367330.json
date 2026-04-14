@@ -1,12 +1,14 @@
 {
     "cid": "67da683f-529b-414c-8564-98c93d45d72d",
-    "yid": null,
+    "yid": 4367330,
     "password": "04367330",
     "kid": 12750,
     "name": "Zoodiac Bunnyblast",
     "name_jp": "<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>しし</rt><rp>)</rp></ruby>ラビーナ",
     "name_jp_rom": "Jūnishishi Rabīna",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rabbina of the Twelve Zodiac Beasts",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -56,6 +58,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RATE-JP015",
+            "set": "Raging Tempest",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -93,5 +104,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

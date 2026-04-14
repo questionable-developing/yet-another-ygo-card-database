@@ -1,11 +1,14 @@
 {
     "cid": "1577ffcc-5f9a-4441-a92a-3f1766156d42",
+    "yid": 74298287,
     "password": "74298287",
     "kid": 10391,
     "name": "Mermail Abyssdine",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－アビスディーネ",
     "name_jp_rom": "Māmeiru - Abisudīne",
+    "name_jp_rom_base": "Suiseirin - Abisudīne",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -29,17 +32,31 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "MermailAbyssdine-CBLZ-JP-R.png",
+            "art": "MermailAbyssdine-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "MermailAbyssdine-CBLZ-EN-SR-1E.png",
-            "art": null
+            "art": "MermailAbyssdine-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CBLZ-EN032",
             "set": "Cosmo Blazer",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CBLZ-JP032",
+            "set": "Cosmo Blazer",
+            "rarities": {
+                "Rare": []
             }
         }
     ],
@@ -81,5 +98,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

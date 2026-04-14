@@ -1,11 +1,14 @@
 {
     "cid": "314ad9d1-cc53-4fcc-9728-a4fabea86aef",
+    "yid": 57734012,
     "password": "57734012",
     "kid": 11087,
     "name": "Rank-Up-Magic - The Seventh One",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>七皇の剣</rb><rp> (</rp><rt>ザ・セブンス・ワン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rankuappu Majikku - Za Sebunsu Wan",
+    "name_jp_rom_base": "RUM - Nanakō no Tsurugi",
     "name_jp_tl": null,
+    "name_jp_tl_base": "RUM - Sword of the Seven Emperors",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -68,6 +71,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP058",
+            "set": "Primal Origin",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP039",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "RC03-JP037",
+            "set": "Rarity Collection Premium Gold Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": [],
+                "Premium Gold Rare": []
+            }
+        },
+        {
+            "sid": "DP26-JP014",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +156,6 @@
             "At the start of Main Phase 1",
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

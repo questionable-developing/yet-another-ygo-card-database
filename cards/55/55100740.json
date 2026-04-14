@@ -1,11 +1,14 @@
 {
     "cid": "b881ce90-83a3-4560-9653-995342ff8887",
+    "yid": 55100740,
     "password": "55100740",
     "kid": 12613,
     "name": "Chemicritter Hydron Hawk",
     "name_jp": "<ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>か</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>合</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby>ハイドロン・ホーク",
     "name_jp_rom": "Kagōjū Haidoron Hōku",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chemical Beast Hydron Hawk",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "INOV-EN023",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP023",
             "set": "Invasion: Vengeance",
             "rarities": {
                 "Common": []
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

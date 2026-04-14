@@ -1,11 +1,14 @@
 {
     "cid": "142e774e-d21c-4922-bfe0-7d86420de0da",
+    "yid": 41619242,
     "password": "41619242",
     "kid": 17461,
     "name": "Scareclaw Straddle",
     "name_jp": "<ruby lang=\"jp\"><rb>肆世壊からの天跨</rb><rp> (</rp><rt>スケアクロー・ストラドル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sukeakurō Sutoradoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Sky Straddle from the Fourth Broken World",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -42,6 +45,15 @@
         {
             "sid": "MP23-EN139",
             "set": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP059",
+            "set": "Power of the Elements",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +104,6 @@
             "Requires control of specific card",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8e737923-e268-4b22-9c67-076826b3f752",
+    "yid": 88332693,
     "password": "88332693",
     "kid": 14305,
     "name": "Assault Mode Zero",
     "name_jp": "バスター・モード・ゼロ",
     "name_jp_rom": "Basutā Mōdo Zero",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Buster Mode Zero",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DANE-EN055",
+            "set": "Dark Neostorm",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DANE-JP055",
             "set": "Dark Neostorm",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

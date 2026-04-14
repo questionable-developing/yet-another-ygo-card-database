@@ -1,12 +1,14 @@
 {
     "cid": "c9dc3ac8-4f1d-4234-9157-b730535e2880",
-    "yid": null,
+    "yid": 24557335,
     "password": "24557335",
     "kid": 14457,
     "name": "Tenyi Spirit - Shthana",
     "name_jp": "<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>－シュターナ",
     "name_jp_rom": "Ten'iryū - Shutāna",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Tenyi Dragon - Shthana",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP013",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,7 +100,7 @@
             "Special Summons itself from your hand",
             "Special Summons from your Graveyard",
             "Special Summons from your opponent's Graveyard to your field",
-            "Special Summons the player's banished monsters",
+            "Special Summons from your banishment",
             "Special Summons the opponent's banished monsters to the player's field"
         ],
         "attack": [],
@@ -103,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

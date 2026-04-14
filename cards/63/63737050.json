@@ -1,11 +1,14 @@
 {
     "cid": "897e2fdc-ca2f-4fbc-ad49-fef612768098",
+    "yid": 63737050,
     "password": "63737050",
     "kid": 12309,
     "name": "Ryu Okami",
     "name_jp": "<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>おお</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>かみ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ryū Ōkami",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dragon Great Deity",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP037",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b267e195-85b5-432c-b462-32e033a4a4b5",
+    "yid": 87526784,
     "password": "87526784",
     "kid": 9626,
     "name": "Crashbug X",
     "name_jp": "バグマン<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Baguman Ekkusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bugman X",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP009",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

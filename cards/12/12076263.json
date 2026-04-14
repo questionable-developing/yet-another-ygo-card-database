@@ -1,12 +1,14 @@
 {
     "cid": "9f96a52d-10a3-4045-9744-0a35e62fdb07",
-    "yid": null,
+    "yid": 12076263,
     "password": "12076263",
     "kid": 9633,
     "name": "Wind-Up Dog",
     "name_jp": "ゼンマイドッグ",
     "name_jp_rom": "Zenmai Doggu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +54,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GENF-JP016",
+            "set": "Generation Force",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DB12-JP010",
+            "set": "Duelist Box 2012",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

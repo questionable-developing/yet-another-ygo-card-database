@@ -1,12 +1,14 @@
 {
     "cid": "988bbea1-b138-4694-8f61-62bb08e00a2e",
-    "yid": null,
+    "yid": 8316661,
     "password": "08316661",
     "kid": 8237,
     "name": "Fabled Miztoji",
     "name_jp": "<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>ミーズトージ",
     "name_jp_rom": "Magōshin Mīzutōji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Demon Roar God Miztoji",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT05-JP012",
+            "set": "Duel Terminal - Champion of Chaos!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP035",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +105,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

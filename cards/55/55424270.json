@@ -1,11 +1,14 @@
 {
     "cid": "67a425b9-635a-4dcb-b6e6-d282695d02d2",
+    "yid": 55424270,
     "password": "55424270",
     "kid": 6531,
     "name": "Mythical Beast Cerberus",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> ケルベロス",
     "name_jp_rom": "Majikku Bīsuto Keruberosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Beast Cerberus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -73,6 +76,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD6-JP002",
+            "set": "Structure Deck: Spellcaster's Judgment",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD16-JP018",
+            "set": "Structure Deck: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "17TP-JP404",
+            "set": "Tournament Pack 2017 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR08-JP008",
+            "set": "Structure Deck R: Lord of Magician",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +139,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

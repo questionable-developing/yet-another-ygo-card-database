@@ -1,12 +1,14 @@
 {
     "cid": "62b70468-f075-494b-945b-2f84e5794ad6",
-    "yid": null,
+    "yid": 24081957,
     "password": "24081957",
     "kid": 18847,
     "name": "Sinful Spoils of Subversion - Snake-Eye",
     "name_jp": "<ruby lang=\"jp\"><rb>反</rb><rp> (</rp><rt>はん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>逆</rb><rp> (</rp><rt>ぎゃく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>罪</rb><rp> (</rp><rt>ざい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>－スネークアイ",
     "name_jp_rom": "Hangyaku no Zaihō - Sunēkuai",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sinful Treasure of Rebellion - Snake-Eye",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUNE-JP060",
+            "set": "Duelist Nexus",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "23YJ-JPN01",
+            "set": "Snake-Eye Duel Set",
+            "rarities": {
+                "Ultra Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

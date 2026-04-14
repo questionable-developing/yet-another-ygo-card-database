@@ -1,11 +1,14 @@
 {
     "cid": "24fa93e3-075b-47ad-bdfd-092dddf64159",
+    "yid": 77330185,
     "password": "77330185",
     "kid": 8637,
     "name": "XX-Saber Garsem",
     "name_jp": "<ruby lang=\"jp\"><rb>ＸＸ</rb><rp> (</rp><rt>ダブルエックス</rt><rp>)</rp></ruby>－セイバー ガルセム",
     "name_jp_rom": "Daburuekkusu - Seibā Garusemu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -21,15 +24,15 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 \"X-Saber\" monster from your Deck to your hand. This card gains 200 ATK for each face-up \"X-Saber\" monster you control.",
+    "desc": "Gains 200 ATK for each \"X-Saber\" monster you control. If this card on the field is destroyed by card effect and sent to the GY: Add 1 \"X-Saber\" monster from your Deck to your hand.",
     "pend_eff": null,
-    "mnst_eff": "When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 \"X-Saber\" monster from your Deck to your hand. This card gains 200 ATK for each face-up \"X-Saber\" monster you control.",
-    "eff": "When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 \"X-Saber\" monster from your Deck to your hand. This card gains 200 ATK for each face-up \"X-Saber\" monster you control.",
+    "mnst_eff": "Gains 200 ATK for each \"X-Saber\" monster you control. If this card on the field is destroyed by card effect and sent to the GY: Add 1 \"X-Saber\" monster from your Deck to your hand.",
+    "eff": "Gains 200 ATK for each \"X-Saber\" monster you control. If this card on the field is destroyed by card effect and sent to the GY: Add 1 \"X-Saber\" monster from your Deck to your hand.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
-            "full": "XXSaberGarsem-ABPF-EN-R-1E.jpg",
+            "full": "XXSaberGarsem-L26D-EN-C-1E.png",
             "art": null
         }
     },
@@ -41,12 +44,28 @@
             "rarities": {
                 "Rare": []
             }
+        },
+        {
+            "sid": "L26D-ENX07",
+            "set": "Legendary Modern Decks 2026",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP026",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Rare": []
+            }
         }
     ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Trigger, Continuous"
+            "Continuous, Trigger"
         ],
         "mentions": [],
         "sup": [],
@@ -77,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

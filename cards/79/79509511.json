@@ -1,11 +1,14 @@
 {
     "cid": "32ed1d0e-e1f8-4d90-b51e-ee83ae1cb7fc",
+    "yid": 79509511,
     "password": "79509511",
     "kid": 21068,
     "name": "Galaxy Journey",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河超航行</rb><rp> (</rp><rt>ギャラクシー・ジャーニー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Jānī",
+    "name_jp_rom_base": "Ginga Chōkōkō",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Galaxy Grand Voyage",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,18 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "25PP-JP013",
+            "set": "Premium Pack 2025",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -66,7 +81,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -78,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

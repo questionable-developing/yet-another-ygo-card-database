@@ -1,12 +1,14 @@
 {
     "cid": "5ead7477-b9b2-4842-a78b-67f91fc2e36b",
-    "yid": null,
+    "yid": 30069398,
     "password": "30069398",
     "kid": 7872,
     "name": "Wall of Ivy",
     "name_jp": "アイヴィ・ウォール",
     "name_jp_rom": "Aivi Wōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ivy Wall",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "CSOC-EN004",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP004",
             "set": "Crossroads of Chaos",
             "rarities": {
                 "Common": []
@@ -78,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

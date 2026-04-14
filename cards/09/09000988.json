@@ -1,12 +1,14 @@
 {
     "cid": "b11fffe9-8d8d-45da-a09c-bf517c4f8b75",
-    "yid": null,
+    "yid": 9000988,
     "password": "09000988",
     "kid": 12919,
     "name": "Performapal Coin Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>ＥＭ</rb><rp> (</rp><rt>エンタメイト</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>小判竜</rb><rp> (</rp><rt>ドラゴ・リモーラ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Entameito Dorago Rimōra",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermate Drago Remora",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": true,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "MACR-EN005",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP005",
             "set": "Maximum Crisis",
             "rarities": {
                 "Rare": []
@@ -83,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

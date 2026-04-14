@@ -1,12 +1,14 @@
 {
     "cid": "d23d5513-a75f-41c4-9580-068ec3fed561",
-    "yid": null,
+    "yid": 6849042,
     "password": "06849042",
     "kid": 7802,
     "name": "Super-Ancient Dinobeast",
     "name_jp": "<ruby lang=\"jp\"><rb>超古代恐獣</rb><rp> (</rp><rt>エンシェント・ダイノ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Enshiento Daino",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ancient Dino",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -66,6 +68,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP2-JP009",
+            "set": "Extra Pack Volume 2",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR04-JP007",
+            "set": "Structure Deck R: Tyranno's Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +115,6 @@
         "misc": [
             "Archetype-exclusion condition"
         ]
-    }
+    },
+    "links": {}
 }

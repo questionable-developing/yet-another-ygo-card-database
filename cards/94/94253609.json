@@ -1,11 +1,14 @@
 {
     "cid": "1774e07c-6086-47db-87ba-c8d9c038f653",
+    "yid": 94253609,
     "password": "94253609",
     "kid": 6681,
     "name": "Elemental Absorber",
     "name_jp": "エレメンタル・アブソーバー",
     "name_jp_rom": "Erementaru Abusōbā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -41,10 +44,26 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EOJ-JP056",
+            "set": "Enemy of Justice",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "EE04-JP236",
+            "set": "Expert Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
-            "Continuous-like"
+            "Effect, Continuous-like"
         ],
         "mentions": [],
         "sup": [],
@@ -62,12 +81,12 @@
             "Prevents your opponent's monsters from attacking"
         ],
         "banished": [
-            "Banishes from hand for cost",
             "Banishes from your hand"
         ],
         "life_points": [],
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

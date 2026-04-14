@@ -1,11 +1,14 @@
 {
     "cid": "83b773dd-9625-47be-8ac4-26c75efedf9f",
+    "yid": 69700783,
     "password": "69700783",
     "kid": 13651,
     "name": "Vampire's Desire",
     "name_jp": "ヴァンパイア・デザイア",
     "name_jp_rom": "Vanpaia Dezaia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Vampire Desire",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBDS-JP008",
+            "set": "Deck-Build Pack: Dark Saviors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +104,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

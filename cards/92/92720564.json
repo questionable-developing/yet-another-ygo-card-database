@@ -1,11 +1,14 @@
 {
     "cid": "7ea0bbc1-1bde-4533-9af0-9dee0b787d5d",
+    "yid": 92720564,
     "password": "92720564",
     "kid": 7877,
     "name": "Morphtronic Boomboxen",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・ラジカッセン",
     "name_jp_rom": "Difōmā Rajikassen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Radicassen",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP009",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DT04-JP002",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP038",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +102,6 @@
             "Variable effects",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

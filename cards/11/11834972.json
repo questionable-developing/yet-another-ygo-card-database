@@ -1,12 +1,14 @@
 {
     "cid": "2f965861-0dc5-4305-9286-a15c6a7e9e86",
-    "yid": null,
+    "yid": 11834972,
     "password": "11834972",
     "kid": 9587,
     "name": "Laval Blaster",
     "name_jp": "ラヴァル・ガンナー",
     "name_jp_rom": "Ravaru Gannā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Laval Gunner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -44,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT12-JP022",
+            "set": "Duel Terminal - Xyz Startup!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC1-JP092",
+            "set": "Duel Terminal Chronicle 1 - Chapter of Awakening",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +94,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

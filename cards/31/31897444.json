@@ -1,12 +1,14 @@
 {
     "cid": "b1a2df43-31a7-4c35-8f51-dbe553628476",
-    "yid": null,
+    "yid": 31897444,
     "password": "31897444",
     "kid": 14494,
     "name": "Defender of the Labyrinth",
     "name_jp": "<ruby lang=\"jp\"><rb>冥</rb><rp> (</rp><rt>めい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宮</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>番</rb><rp> (</rp><rt>ばん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Meikyū no Bannin",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP049",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

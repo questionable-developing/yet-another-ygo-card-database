@@ -1,11 +1,14 @@
 {
     "cid": "61ff02d4-e95a-41b0-82b4-1517e0a2ef9c",
+    "yid": 76865611,
     "password": "76865611",
     "kid": 9481,
     "name": "Morphtronic Lantron",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディフォーマー</rt><rp>)</rp></ruby>・ライトン",
     "name_jp_rom": "Difōmā Raiton",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deformer Lighton",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN010",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP010",
             "set": "Extreme Victory",
             "rarities": {
                 "Common": []
@@ -77,5 +89,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

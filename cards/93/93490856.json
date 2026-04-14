@@ -1,11 +1,14 @@
 {
     "cid": "985817c2-875f-460a-89d9-4cb432998037",
+    "yid": 93490856,
     "password": "93490856",
     "kid": 16491,
     "name": "Swordsoul Strategist Longyuan",
     "name_jp": "<ruby lang=\"jp\"><rb>相</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>軍</rb><rp> (</rp><rt>ぐん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>師</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>リュウ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>淵</rb><rp> (</rp><rt>エン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Sōkengunshi - Ryuuen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xiangjian Strategist - Longyuan",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP005",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP072",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

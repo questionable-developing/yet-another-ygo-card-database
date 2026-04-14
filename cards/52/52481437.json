@@ -1,11 +1,14 @@
 {
     "cid": "9880fe9c-41f3-4e70-b0b5-3ac05fb7be1f",
+    "yid": 52481437,
     "password": "52481437",
     "kid": 14181,
     "name": "Super Express Bullet Train",
     "name_jp": "<ruby lang=\"jp\"><rb>弾</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>丸</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>特</rb><rp> (</rp><rt>とっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby>バレット・ライナー",
     "name_jp_rom": "Dangantokkyū Baretto Rainā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bullet Limited Express Bullet Liner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -57,6 +60,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP21-JP035",
+            "set": "Duelist Pack: Legend Duelist 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP015",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SLF1-JP003",
+            "set": "Selection 5",
+            "rarities": {
+                "Common": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +128,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

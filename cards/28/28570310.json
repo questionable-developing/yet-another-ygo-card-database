@@ -1,12 +1,14 @@
 {
     "cid": "a9b3adb6-f3b9-410e-a3e2-4137f44b482c",
-    "yid": null,
+    "yid": 28570310,
     "password": "28570310",
     "kid": 13393,
     "name": "Mythical Beast Garuda",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> ガルーダ",
     "name_jp_rom": "Majikku Bīsuto Garūda",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Beast Garuda",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": true,
@@ -42,6 +44,15 @@
             "set": "Extreme Force",
             "rarities": {
                 "Ultra Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP023",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -89,5 +100,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

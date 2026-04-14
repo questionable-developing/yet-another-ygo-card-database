@@ -1,12 +1,14 @@
 {
     "cid": "241ce45c-0c24-421d-ba41-14f2f4e4ec52",
-    "yid": null,
+    "yid": 15983048,
     "password": "15983048",
     "kid": 16507,
     "name": "Maginificent Magikey Mafteal",
     "name_jp": "<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>だい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鍵</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>－マフテアル",
     "name_jp_rom": "Daimaken - Mafutearu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Great Magikey - Mafteal",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BODE-JP021",
+            "set": "Burst of Destiny",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +105,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

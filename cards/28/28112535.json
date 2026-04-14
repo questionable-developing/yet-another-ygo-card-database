@@ -1,12 +1,14 @@
 {
     "cid": "d3561472-13ce-4f52-8af4-fa39ba984f91",
-    "yid": null,
+    "yid": 28112535,
     "password": "28112535",
     "kid": 11982,
     "name": "Toon Barrel Dragon",
     "name_jp": "トゥーン・リボルバー・ドラゴン",
     "name_jp_rom": "Tūn Riborubā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Toon Revolver Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +73,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP038",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -112,5 +123,6 @@
             "Coin toss",
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

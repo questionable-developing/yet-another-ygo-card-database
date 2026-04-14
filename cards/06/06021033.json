@@ -1,12 +1,14 @@
 {
     "cid": "d0682979-385e-4710-a2e9-93fbc14c9925",
-    "yid": null,
+    "yid": 6021033,
     "password": "06021033",
     "kid": 7848,
     "name": "Doomkaiser Dragon",
     "name_jp": "デスカイザー・ドラゴン",
     "name_jp_rom": "Desukaizā Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Deathkaiser Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -60,6 +62,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP043",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "DE03-JP053",
+            "set": "Duelist Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT12-JP001",
+            "set": "Advanced Tournament Pack 2015 Vol.4",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +126,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

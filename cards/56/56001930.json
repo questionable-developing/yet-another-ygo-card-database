@@ -1,11 +1,14 @@
 {
     "cid": "23aaa98f-1199-4c8a-943c-602baf17d0f7",
+    "yid": 56001930,
     "password": "56001930",
     "kid": 14522,
     "name": "The Return to the Normal",
     "name_jp": "<ruby lang=\"jp\"><rb>怪</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蹴</rb><rp> (</rp><rt>しゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>色</rb><rp> (</rp><rt>しょく</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kaishū Isshoku",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "RIRA-JP075",
+            "set": "Rising Rampage",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +89,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

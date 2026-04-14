@@ -1,11 +1,14 @@
 {
     "cid": "44328e3b-66e0-4140-920d-6520c94c7995",
+    "yid": 43694481,
     "password": "43694481",
     "kid": 10493,
     "name": "Blizzard Falcon",
     "name_jp": "ブリザード・ファルコン",
     "name_jp_rom": "Burizādo Farukon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP012",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DP15-JP014",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +92,6 @@
             "Once while face-up on the field",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

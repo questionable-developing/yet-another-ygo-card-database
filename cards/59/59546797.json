@@ -1,11 +1,14 @@
 {
     "cid": "dde9a413-fc31-458e-bf1a-2d5fb70f709d",
+    "yid": 59546797,
     "password": "59546797",
     "kid": 5636,
     "name": "Juragedo",
     "name_jp": "ジュラゲド",
     "name_jp_rom": "Juragedo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -64,6 +67,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP16-JP002",
+            "set": "Duelist Pack: Battle City",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD33-JP011",
+            "set": "Structure Deck: Powercode Link",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBIC-JP041",
+            "set": "Deck-Build Pack: Infinity Chasers",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP24-JP009",
+            "set": "Duelist Pack: Duelists of Gloom",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +133,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

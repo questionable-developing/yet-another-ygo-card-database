@@ -1,12 +1,14 @@
 {
     "cid": "a536bec7-adf2-4829-8c73-038053738503",
-    "yid": null,
+    "yid": 29795530,
     "password": "29795530",
     "kid": 9286,
     "name": "Mischief of the Yokai",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>怪</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>のいたずら",
     "name_jp_rom": "Yōkai no Itazura",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -42,6 +44,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXP4-JP030",
+            "set": "Extra Pack Volume 4",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD34-JP037",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -50,7 +68,9 @@
         "mentions": [],
         "sup": [],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Mischief"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -73,5 +93,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

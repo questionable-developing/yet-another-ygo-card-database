@@ -1,12 +1,14 @@
 {
     "cid": "fe53e4fd-82b6-4f4a-bfe2-a1cbe3c175ce",
-    "yid": null,
+    "yid": 27184601,
     "password": "27184601",
     "kid": 21443,
     "name": "Artmage Diactorus",
     "name_jp": "<ruby lang=\"jp\"><rb>神芸獄徒</rb><rp> (</rp><rt>アルトメギア</rt><rp>)</rp></ruby> ディアクトロス",
     "name_jp_rom": "Arutomegia Diakutorosu",
+    "name_jp_rom_base": "Shingeigokuto Diakutorosu",
     "name_jp_tl": "Artmegia Diaktoros",
+    "name_jp_tl_base": "Divine Arts Prisoner Diaktoros",
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +45,16 @@
             "rarities": {
                 "Secret Rare": [],
                 "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DUAD-JP032",
+            "set": "Duelist's Advance",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -86,7 +98,7 @@
             "Requires archetype specific Fusion Materials",
             "Special Summons from your hand",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -96,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

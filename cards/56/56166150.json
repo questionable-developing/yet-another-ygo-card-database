@@ -1,11 +1,14 @@
 {
     "cid": "e2705df4-3246-4deb-9210-a4c6ef58f74b",
+    "yid": 56166150,
     "password": "56166150",
     "kid": 13065,
     "name": "Lumina, Twilightsworn Shaman",
     "name_jp": "トワイライトロード・シャーマン ルミナス",
     "name_jp_rom": "Towairaitorōdo Shāman Ruminasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Twilightroad Shaman Luminous",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -69,6 +72,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "COTD-JP026",
+            "set": "Code of the Duelist",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP133",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,7 +118,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -109,5 +131,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

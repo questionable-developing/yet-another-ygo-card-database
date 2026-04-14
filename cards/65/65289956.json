@@ -1,11 +1,14 @@
 {
     "cid": "a6e8bd1d-e5fc-4edc-a4bf-5c3c9fa4202a",
+    "yid": 65289956,
     "password": "65289956",
     "kid": 20794,
     "name": "Like the Diabell",
     "name_jp": "ライク・ザ・ディアベル",
     "name_jp_rom": "Raiku Za Diaberu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN057",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP057",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

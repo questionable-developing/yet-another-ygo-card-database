@@ -1,11 +1,14 @@
 {
     "cid": "e0cc6e11-512a-440a-a801-1a37ea912cbf",
+    "yid": 48333324,
     "password": "48333324",
     "kid": 10662,
     "name": "Rank-Up-Magic Numeron Force",
     "name_jp": "<ruby lang=\"jp\"><rb>ＲＵＭ</rb><rp> (</rp><rt>ランクアップマジック</rt><rp>)</rp></ruby>－ヌメロン・フォース",
     "name_jp_rom": "Rankuappu Majikku - Numeron Fōsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +58,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP059",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "21TP-JP114",
+            "set": "Tournament Pack 2021 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -98,5 +118,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b42b73ac-24f5-41b4-ad71-039c70484c2b",
-    "yid": null,
+    "yid": 31562086,
     "password": "31562086",
     "kid": 17373,
     "name": "Runick Tip",
     "name_jp": "<ruby lang=\"jp\"><rb>神碑</rb><rp> (</rp><rt>ルーン</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>穂</rb><rp> (</rp><rt>ほ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>先</rb><rp> (</rp><rt>さき</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rūn no Hosaki",
+    "name_jp_rom_base": "Shinpi no Hosaki",
     "name_jp_tl": "Rune Tip",
+    "name_jp_tl_base": "Divine Runestone's Tip",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -49,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBTM-JP029",
+            "set": "Deck-Build Pack: Tactical Masters",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

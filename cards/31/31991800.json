@@ -1,12 +1,14 @@
 {
     "cid": "cbd0ed9c-bc20-4382-af91-3f020a76bbbf",
-    "yid": null,
+    "yid": 31991800,
     "password": "31991800",
     "kid": 11970,
     "name": "Majespecter Raccoon - Bunbuku",
     "name_jp": "マジェスペクター・ラクーン",
     "name_jp_rom": "Majesupekutā Rakūn",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Majespecter Raccoon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": true,
@@ -68,6 +70,31 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP026",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "23TP-JP406",
+            "set": "Tournament Pack 2023 Vol.4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "25DB-JP017",
+            "set": "Duelist Box: Prismatic Summon",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -105,5 +132,6 @@
             "Only once per turn",
             "No Pendulum Effects"
         ]
-    }
+    },
+    "links": {}
 }

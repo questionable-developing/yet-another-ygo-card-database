@@ -1,11 +1,14 @@
 {
     "cid": "9f816344-080e-4e91-aa88-bc73bdcc67ad",
+    "yid": 63223260,
     "password": "63223260",
     "kid": 10334,
     "name": "Photon Satellite",
     "name_jp": "フォトン・サテライト",
     "name_jp_rom": "Foton Sateraito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP13-JP012",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

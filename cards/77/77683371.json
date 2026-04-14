@@ -1,11 +1,14 @@
 {
     "cid": "ad9cce66-002e-43ec-be88-25b2ae1011ba",
+    "yid": 77683371,
     "password": "77683371",
     "kid": 16807,
     "name": "Dimension Conjurer",
     "name_jp": "ディメンション・コンジュラー",
     "name_jp_rom": "Dimenshon Konjurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "BACH-EN002",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP002",
             "set": "Battle of Chaos",
             "rarities": {
                 "Common": []
@@ -83,5 +95,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

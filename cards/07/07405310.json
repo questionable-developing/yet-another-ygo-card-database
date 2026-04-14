@@ -1,12 +1,14 @@
 {
     "cid": "7ab4160e-8bff-45ba-bdaa-d1aeb24f9d66",
-    "yid": null,
+    "yid": 7405310,
     "password": "07405310",
     "kid": 9774,
     "name": "Extra Gate",
     "name_jp": "エクストラゲート",
     "name_jp_rom": "Ekusutora Gēto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,14 +29,28 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "ExtraGate-PHSW-JP-SR.png",
+            "art": "ExtraGate-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "ExtraGate-PHSW-EN-SR-UE.png",
-            "art": null
+            "art": "ExtraGate-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PHSW-EN056",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP056",
             "set": "Photon Shockwave",
             "rarities": {
                 "Super Rare": []
@@ -69,5 +85,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

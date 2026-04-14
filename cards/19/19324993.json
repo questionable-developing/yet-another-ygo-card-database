@@ -1,12 +1,14 @@
 {
     "cid": "6223c178-8a8d-436d-a618-b2ce77036db4",
-    "yid": null,
+    "yid": 19324993,
     "password": "19324993",
     "kid": 14936,
     "name": "Xtra HERO Infernal Devicer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ・ＨＥＲＯ</rb><rp> (</rp><rt>エクストラヒーロー</rt><rp>)</rp></ruby> ヘル・デバイサー",
     "name_jp_rom": "Ekusutora Hīrō Heru Debaisā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Xtra HERO Hell Devicer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +57,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP3-JP031",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP186",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP050",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,7 +108,7 @@
         "counter": [],
         "action": [
             "Activates upon Link Summon",
-            "Reveals your Extra Deck",
+            "Reveals cards from your Extra Deck",
             "Adds from Deck to hand"
         ],
         "stat_change": [
@@ -101,5 +129,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

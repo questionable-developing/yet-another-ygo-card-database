@@ -1,12 +1,14 @@
 {
     "cid": "95126470-7381-43c5-bf15-b26fcb75b1eb",
-    "yid": null,
+    "yid": 24621460,
     "password": "24621460",
     "kid": 9501,
     "name": "Karakuri Komachi mdl 224 \"Ninishi\"",
     "name_jp": "カラクリ<ruby lang=\"jp\"><rb>小</rb><rp> (</rp><rt>こ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>町</rb><rp> (</rp><rt>まち</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>弐</rb><rp> (</rp><rt>ニ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>弐</rb><rp> (</rp><rt>ニ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>四</rb><rp> (</rp><rt>シ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Karakuri Komachi Ninishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Karakuri Beauty 224",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "EXVC-EN030",
+            "set": "Extreme Victory",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXVC-JP030",
             "set": "Extreme Victory",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "misc": [
             "Gain this effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

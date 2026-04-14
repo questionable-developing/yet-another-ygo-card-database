@@ -1,11 +1,14 @@
 {
     "cid": "a2b3b4a1-6e8a-4cfe-8916-e859ffaa0891",
+    "yid": 52601736,
     "password": "52601736",
     "kid": 10017,
     "name": "Inzektor Hopper",
     "name_jp": "<ruby lang=\"jp\"><rb>甲虫装機</rb><rp> (</rp><rt>インゼクター</rt><rp>)</rp></ruby> ホッパー",
     "name_jp_rom": "Inzekutā Hoppā",
+    "name_jp_rom_base": "Kōchūsōki Hoppā",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Beetle Armed Machine Hopper",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP12-JP032",
+            "set": "Extra Pack 2012",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +102,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

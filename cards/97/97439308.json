@@ -1,11 +1,14 @@
 {
     "cid": "c98873a1-7630-41b2-9a65-0e395ccf659c",
+    "yid": 97439308,
     "password": "97439308",
     "kid": 5842,
     "name": "Chaos Greed",
     "name_jp": "カオス・グリード",
     "name_jp_rom": "Kaosu Gurīdo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "306-038",
+            "set": "Controller of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE2-JP038",
+            "set": "Expert Edition Volume.2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Requires having no cards in Graveyard"
         ]
-    }
+    },
+    "links": {}
 }

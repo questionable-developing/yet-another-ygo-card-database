@@ -1,11 +1,14 @@
 {
     "cid": "aba38528-d008-41e2-b6d0-19c7c0e7c3ce",
+    "yid": 51543904,
     "password": "51543904",
     "kid": 11305,
     "name": "Number 99: Utopic Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>９９ <ruby lang=\"jp\"><rb>希</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>望</rb><rp> (</rp><rt>ぼう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>皇</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>ホープドラグーン",
     "name_jp_rom": "Nanbāzu Kyūjūkyū Kibōōryū Hōpu Doragūn",
-    "name_jp_tl": "Numbers 99: Dragon King of Wishes, Hope Dragoon",
+    "name_jp_rom_base": null,
+    "name_jp_tl": "Numbers 99: King Dragon of Wishes, Hope Dragoon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +54,45 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "OG03-JP001",
+            "set": "Numbers Guide 3 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RC02-JP029",
+            "set": "Rarity Collection 20th Anniversary Edition",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "LGB1-JP026",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP099",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SD42-JP041",
+            "set": "Structure Deck: Overlay Universe",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -64,6 +106,7 @@
         "arc": [
             "Number",
             "Number (Spell/Trap archetype)",
+            "Number 99",
             "Utopic"
         ],
         "suparc": [
@@ -103,5 +146,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

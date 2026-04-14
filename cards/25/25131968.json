@@ -1,12 +1,14 @@
 {
     "cid": "c31f7a83-b7f3-4aec-9c4c-f1abfe76f7fb",
-    "yid": null,
+    "yid": 25131968,
     "password": "25131968",
     "kid": 19411,
     "name": "Ken the Warrior Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>毘</rb><rp> (</rp><rt>び</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>龍</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>之</rb><rp> (</rp><rt>の</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>謙</rb><rp> (</rp><rt>けん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Biryū no Ken",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ken the Helping Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP5-JP051",
+            "set": "World Premiere Pack 2024",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
             "Only once per turn",
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "58e2c080-363c-4b56-aa7e-e69460a2fe57",
-    "yid": null,
+    "yid": 3496543,
     "password": "03496543",
     "kid": 20792,
     "name": "Sinful Spoils of the White Forest",
     "name_jp": "<ruby lang=\"jp\"><rb>白</rb><rp> (</rp><rt>しろ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>森</rb><rp> (</rp><rt>もり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>罪</rb><rp> (</rp><rt>ざい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>宝</rb><rp> (</rp><rt>ほう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shiroki Mori no Zaihō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sinful Treasure of the White Forest",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "SUDA-EN055",
+            "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SUDA-JP055",
             "set": "Supreme Darkness",
             "rarities": {
                 "Common": []
@@ -87,5 +98,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "8152ca6a-7cfa-4791-bce7-3ab831279771",
+    "yid": 72329844,
     "password": "72329844",
     "kid": 17803,
     "name": "Spright Sprind",
     "name_jp": "スプライト・スプリンド",
     "name_jp_rom": "Supuraito Supurindo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -55,6 +58,32 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP048",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "DABL-JP048",
+            "set": "Darkwing Blast +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP133",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +126,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

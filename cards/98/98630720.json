@@ -1,11 +1,14 @@
 {
     "cid": "5e24e7c6-ab96-4bdd-9eb3-4e86a313b545",
+    "yid": 98630720,
     "password": "98630720",
     "kid": 14963,
     "name": "Borrelend Dragon",
     "name_jp": "ヴァレルエンド・ドラゴン",
     "name_jp_rom": "Vareruendo Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Varrelend Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,10 +40,15 @@
         "1": {
             "idx": "1",
             "full": "BorrelendDragon-RA02-EN-SR-1E.png",
+            "art": "BorrelendDragon-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "BorrelendDragon-LOSP-JP-PScR.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "1",
     "sets": [
         {
             "sid": "GFP2-EN006",
@@ -60,6 +68,41 @@
                 "Quarter Century Secret Rare": [],
                 "Ultimate Rare": [],
                 "Collector's Rare": []
+            }
+        },
+        {
+            "sid": "BLGG-EN???",
+            "set": "Battles of Legend: Glorious Gallery",
+            "rarities": {
+                "Ultra Rare": [],
+                "Starlight Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LGB1-JP045",
+            "set": "Legendary Gold Box",
+            "rarities": {
+                "Ultra Rare": [],
+                "20th Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP104",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "LOSP-JP016",
+            "set": "Limit Over Special Pack Vol.2",
+            "rarities": {
+                "Prismatic Secret Rare": []
             }
         }
     ],
@@ -104,5 +147,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

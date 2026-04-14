@@ -1,11 +1,14 @@
 {
     "cid": "7b78b0c4-0b51-4efa-bd67-c30112a108b1",
+    "yid": 71133680,
     "password": "71133680",
     "kid": 13244,
     "name": "Mermail Abyssnerei",
     "name_jp": "<ruby lang=\"jp\"><rb>水精鱗</rb><rp> (</rp><rt>マーメイル</rt><rp>)</rp></ruby>－ネレイアビス",
     "name_jp_rom": "Māmeiru - Nereiabisu",
+    "name_jp_rom_base": "Suiseirin - Nereiabisu",
     "name_jp_tl": "Mermail Nereiabyss",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -45,6 +48,15 @@
         {
             "sid": "MP18-EN118",
             "set": "2018 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP028",
+            "set": "Circuit Break",
             "rarities": {
                 "Common": []
             }
@@ -92,5 +104,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

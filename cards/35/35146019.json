@@ -1,12 +1,14 @@
 {
     "cid": "63ce71c1-47ea-4d5f-8163-1bbc4c0b811d",
-    "yid": null,
+    "yid": 35146019,
     "password": "35146019",
     "kid": 13441,
     "name": "Altergeist Manifestation",
     "name_jp": "オルターガイスト・マテリアリゼーション",
     "name_jp_rom": "Orutāgaisuto Materiarizēshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Altergeist Materialization",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -62,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP070",
+            "set": "Extreme Force",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,5 +114,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

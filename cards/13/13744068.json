@@ -1,12 +1,14 @@
 {
     "cid": "c30103e1-c3d0-4b5b-a019-bd07cc840876",
-    "yid": null,
+    "yid": 13744068,
     "password": "13744068",
     "kid": 19483,
     "name": "Berserk Archfiend",
     "name_jp": "バーサーク・デーモン",
     "name_jp_rom": "Bāsāku Dēmon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Berserk Daemon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHNI-JP027",
+            "set": "Phantom Nightmare",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +101,6 @@
             "Requires control of specific Type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

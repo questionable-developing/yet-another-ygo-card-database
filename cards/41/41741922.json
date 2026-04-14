@@ -1,11 +1,14 @@
 {
     "cid": "fd5a86c7-81c6-49df-a2f6-92ad6af54f0b",
+    "yid": 41741922,
     "password": "41741922",
     "kid": 8189,
     "name": "Lava Dragon",
     "name_jp": "ラヴァ・ドラゴン",
     "name_jp_rom": "Rava Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RGBT-EN037",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP037",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -76,5 +88,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

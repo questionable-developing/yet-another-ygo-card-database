@@ -1,12 +1,14 @@
 {
     "cid": "b7a025ab-9129-448e-b6c0-0dbeeb0ff1b3",
-    "yid": null,
+    "yid": 19636995,
     "password": "19636995",
     "kid": 13588,
     "name": "Red Hared Hasty Horse",
     "name_jp": "<ruby lang=\"jp\"><rb>急</rb><rp> (</rp><rt>せ</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>兎</rb><rp> (</rp><rt>と</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>馬</rb><rp> (</rp><rt>ば</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seki Toba",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Hasty Hare and Horse",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -51,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP034",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Normal Rare": []
+            }
+        },
+        {
+            "sid": "25TP-JP105",
+            "set": "Tournament Pack 2025 Vol.1",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +105,6 @@
             "Limited activations",
             "Column"
         ]
-    }
+    },
+    "links": {}
 }

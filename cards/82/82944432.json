@@ -1,11 +1,14 @@
 {
     "cid": "9b3b2cea-3ef2-4a1e-ac9c-38614b37ec67",
+    "yid": 82944432,
     "password": "82944432",
     "kid": 9915,
     "name": "Blade Armor Ninja",
     "name_jp": "<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>甲</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>ブレード・ハート",
     "name_jp_rom": "Kikō Ninja Burēdo Hāto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Armor Ninja - Blade Heart",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -30,11 +33,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "BladeArmorNinja-22TP-JP-C.png",
+            "art": "BladeArmorNinja-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "BladeArmorNinja-CBLZ-EN-SR-LE.png",
-            "art": null
+            "art": "BladeArmorNinja-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ORCS-EN041",
@@ -48,6 +56,22 @@
             "set": "Cosmo Blazer: Special Edition",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP041",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "22TP-JP410",
+            "set": "Tournament Pack 2022 Vol.4",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -89,5 +113,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "b3d39851-8b04-4c00-86eb-84f3aedce984",
-    "yid": null,
+    "yid": 20368763,
     "password": "20368763",
     "kid": 10628,
     "name": "Mecha Phantom Beast Harrliard",
     "name_jp": "<ruby lang=\"jp\"><rb>幻</rb><rp> (</rp><rt>げん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby>ハリアード",
     "name_jp_rom": "Genjūki Hariādo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -46,6 +48,15 @@
         {
             "sid": "MP14-EN078",
             "set": "2014 Mega-Tin Mega Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP025",
+            "set": "Judgment of the Light",
             "rarities": {
                 "Common": []
             }
@@ -98,5 +109,6 @@
             "Limited activations",
             "Requires control of specific Monster type"
         ]
-    }
+    },
+    "links": {}
 }

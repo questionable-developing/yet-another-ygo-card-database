@@ -1,11 +1,14 @@
 {
     "cid": "559688cc-c36d-458c-afb0-93fbf17329ce",
+    "yid": 52711246,
     "password": "52711246",
     "kid": 14118,
     "name": "Shiranui Squiresaga",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>あやかし</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>がみ</rt><rp>)</rp></ruby>－<ruby lang=\"jp\"><rb>不知火</rb><rp> (</rp><rt>しらぬい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ayakashigami - Shiranui",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Spectral God - Shiranui",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -45,6 +48,15 @@
         },
         {
             "sid": "SAST-EN041",
+            "set": "Savage Strike",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SAST-JP041",
             "set": "Savage Strike",
             "rarities": {
                 "Common": []
@@ -99,5 +111,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

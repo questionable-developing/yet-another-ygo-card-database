@@ -1,11 +1,14 @@
 {
     "cid": "b5c2a4f8-a8a0-4df0-a028-6a3298fda033",
+    "yid": 81020140,
     "password": "81020140",
     "kid": 7102,
     "name": "Volcanic Blaster",
     "name_jp": "ヴォルカニック・リボルバー",
     "name_jp_rom": "Vorukanikku Riborubā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Volcanic Revolver",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FOTB-JP011",
+            "set": "Force of the Breaker",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE01-JP121",
+            "set": "Duelist Edition Volume 1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

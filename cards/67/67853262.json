@@ -1,11 +1,14 @@
 {
     "cid": "fa349b95-6338-452d-b259-870d3485f4af",
+    "yid": 67853262,
     "password": "67853262",
     "kid": 18662,
     "name": "Magician of Faithfulness",
     "name_jp": "<ruby lang=\"jp\"><rb>神聖なる魔術師</rb><rp> (</rp><rt>セインクレッド・マジシャン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Seinkureddo Majishan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Saincred Magician",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -44,6 +47,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VJMP-JP230",
+            "set": "V Jump April 2023 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "24PP-JP031",
+            "set": "Premium Pack 2024",
+            "rarities": {
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

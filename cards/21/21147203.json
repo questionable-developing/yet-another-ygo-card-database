@@ -1,12 +1,14 @@
 {
     "cid": "931ce8c1-cc8f-4e68-9748-01086f2a429d",
-    "yid": null,
+    "yid": 21147203,
     "password": "21147203",
     "kid": 21048,
     "name": "Minimalian",
     "name_jp": "ミニマリアン",
     "name_jp_rom": "Minimarian",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "SUDA-EN084",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP054",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

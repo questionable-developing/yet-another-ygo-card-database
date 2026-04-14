@@ -1,11 +1,14 @@
 {
     "cid": "a1da22ee-27aa-479d-94f7-f6f1922bcaf3",
+    "yid": 81278754,
     "password": "81278754",
     "kid": 7943,
     "name": "Flip Flop Frog",
     "name_jp": "<ruby lang=\"jp\"><rb>裏</rb><rp> (</rp><rt>うら</rt><rp>)</rp></ruby>ガエル",
     "name_jp_rom": "Uragaeru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reverse Frog",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -38,6 +41,22 @@
         {
             "sid": "CRMS-EN029",
             "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP029",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DE03-JP087",
+            "set": "Duelist Edition Volume 3",
             "rarities": {
                 "Common": []
             }
@@ -77,5 +96,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "830e4802-6672-48bc-a77b-2175089f45df",
-    "yid": null,
+    "yid": 29223325,
     "password": "29223325",
     "kid": 11089,
     "name": "Artifact Ignition",
     "name_jp": "アーティファクト・ムーブメント",
     "name_jp_rom": "Ātifakuto Mūbumento",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Artifact Movement",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -55,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP060",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "20TP-JP112",
+            "set": "Tournament Pack 2020 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

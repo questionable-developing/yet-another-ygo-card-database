@@ -1,11 +1,14 @@
 {
     "cid": "fe0e7a65-ea7e-415c-9ad8-f1c2c9c14ad2",
+    "yid": 77723643,
     "password": "77723643",
     "kid": 11235,
     "name": "Shaddoll Dragon",
     "name_jp": "シャドール・ドラゴン",
     "name_jp_rom": "Shadōru Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -73,6 +76,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DUEA-JP026",
+            "set": "Duelist Alliance",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD37-JP007",
+            "set": "Structure Deck: Rebirth of Shaddoll",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW03-JP069",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -109,5 +135,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

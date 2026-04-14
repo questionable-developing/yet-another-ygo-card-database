@@ -1,11 +1,14 @@
 {
     "cid": "81e285dd-81bb-46f9-a80b-fefe36e5932f",
+    "yid": 90303176,
     "password": "90303176",
     "kid": 10850,
     "name": "Silent Angler",
     "name_jp": "サイレント・アングラー",
     "name_jp_rom": "Sairento Angurā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -64,6 +67,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP15-JP002",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD40-JP025",
+            "set": "Structure Deck: Ice Barrier of the Frozen Prison",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP26-JP008",
+            "set": "Duelist Pack: Duelists of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +122,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

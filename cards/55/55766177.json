@@ -1,11 +1,14 @@
 {
     "cid": "74336e12-7cf1-44e8-a5a9-1cb82de8b88f",
+    "yid": 55766177,
     "password": "55766177",
     "kid": 15764,
     "name": "Fabled Treason",
     "name_jp": "<ruby lang=\"jp\"><rb>弑</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>逆</rb><rp> (</rp><rt>ぎゃく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>轟</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shigyaku no Magōshin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Regicidal Demon Roar God",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP073",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "TW02-JP026",
+            "set": "Terminal World 2",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "da2f2736-0627-4d55-a13f-528d549ea32f",
-    "yid": null,
+    "yid": 17649753,
     "password": "17649753",
     "kid": 8116,
     "name": "Worm Rakuyeh",
     "name_jp": "ワーム・ルクイエ",
     "name_jp_rom": "Wāmu Rukuie",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -30,17 +32,38 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "WormRakuyeh-DTC2-JP-DNPR-DT.jpg",
+            "art": "WormRakuyeh-TF05-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "WormRakuyeh-HA02-EN-SR-1E.jpg",
-            "art": null
+            "art": "WormRakuyeh-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "HA02-EN055",
             "set": "Hidden Arsenal 2",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DT04-JP035",
+            "set": "Duel Terminal - Demon Roar God Revival!!",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC2-JP025",
+            "set": "Duel Terminal Chronicle 2 - Chapter of Chaos",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
             }
         }
     ],
@@ -76,5 +99,6 @@
         "misc": [
             "At the end of the Battle Phase"
         ]
-    }
+    },
+    "links": {}
 }

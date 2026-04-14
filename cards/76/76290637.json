@@ -1,11 +1,14 @@
 {
     "cid": "1c0df87c-ab5e-4c51-a6b1-06863559ee1c",
+    "yid": 76290637,
     "password": "76290637",
     "kid": 20221,
     "name": "Gimmick Puppet Fantasix Machinix",
     "name_jp": "ギミック・パペット－ファンタジクス・マキナ",
     "name_jp_rom": "Gimikku Papetto - Fantajikusu Makina",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gimmick Puppet - Fantasix Machina",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -22,25 +25,65 @@
     "scale": null,
     "link": null,
     "arrows": null,
-    "desc": "2 Level 8 monsters<br />You can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand, also, you can Normal Summon 1 Machine monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If you Special Summon a \"Gimmick Puppet\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your GY to either field in Defense Position, then you can add 1 \"Rank-Up-Magic\" Spell from your GY to your hand. You can only use each effect of \"Gimmick Puppet Fantasix Machinix\" once per turn.",
+    "desc": "2 Level 8 monsters<br />You can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand, also you can Normal Summon 1 Machine monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). If you Special Summon a \"Gimmick Puppet\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your GY to either field in Defense Position, then you can add 1 \"Rank-Up-Magic\" Spell from your GY to your hand. You can only use each effect of \"Gimmick Puppet Fantasix Machinix\" once per turn.",
     "pend_eff": null,
-    "mnst_eff": "2 Level 8 monsters\nYou can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand, also, you can Normal Summon 1 Machine monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If you Special Summon a \"Gimmick Puppet\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your GY to either field in Defense Position, then you can add 1 \"Rank-Up-Magic\" Spell from your GY to your hand. You can only use each effect of \"Gimmick Puppet Fantasix Machinix\" once per turn.",
-    "eff": "2 Level 8 monsters\nYou can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand, also, you can Normal Summon 1 Machine monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If you Special Summon a \"Gimmick Puppet\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your GY to either field in Defense Position, then you can add 1 \"Rank-Up-Magic\" Spell from your GY to your hand. You can only use each effect of \"Gimmick Puppet Fantasix Machinix\" once per turn.",
+    "mnst_eff": "2 Level 8 monsters\nYou can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand, also you can Normal Summon 1 Machine monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). If you Special Summon a \"Gimmick Puppet\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your GY to either field in Defense Position, then you can add 1 \"Rank-Up-Magic\" Spell from your GY to your hand. You can only use each effect of \"Gimmick Puppet Fantasix Machinix\" once per turn.",
+    "eff": "2 Level 8 monsters\nYou can detach 1 material from this card; add 1 \"Rank-Up-Magic\" Spell from your Deck to your hand, also you can Normal Summon 1 Machine monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). If you Special Summon a \"Gimmick Puppet\" Xyz Monster(s) (except during the Damage Step): You can Special Summon this card from your GY to either field in Defense Position, then you can add 1 \"Rank-Up-Magic\" Spell from your GY to your hand. You can only use each effect of \"Gimmick Puppet Fantasix Machinix\" once per turn.",
     "flavor": null,
     "images": {
         "1": {
             "idx": "1",
             "full": "GimmickPuppetFantasixMachinix-INFO-EN-SR-1E.png",
+            "art": "GimmickPuppetFantasixMachinix-MADU-EN-VG-artwork.png"
+        },
+        "2": {
+            "idx": "2",
+            "full": "GimmickPuppetFantasixMachinix-RA05-EN-UR-1E.png",
             "art": null
         }
     },
-    "image": null,
+    "image": "2",
     "sets": [
         {
             "sid": "INFO-EN042",
             "set": "The Infinite Forbidden",
             "rarities": {
-                "Super Rare": []
+                "Super Rare": ["1"]
+            }
+        },
+        {
+            "sid": "RA05-EN137",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Starlight Rare": ["2"]
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "INFO-JP042",
+            "set": "The Infinite Forbidden",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Secret Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "INFO-JP042",
+            "set": "Infinite Forbidden +1 Bonus Pack",
+            "rarities": {
+                "Super Rare": ["1"],
+                "Quarter Century Secret Rare": ["1"]
+            }
+        },
+        {
+            "sid": "STSP-JP007",
+            "set": "Special Pack: Stamp Edition",
+            "rarities": {
+                "Ultra Rare": ["2"],
+                "Prismatic Secret Rare": ["2"]
             }
         }
     ],
@@ -92,5 +135,6 @@
             "Gain this effect once per turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

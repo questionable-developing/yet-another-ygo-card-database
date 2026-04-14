@@ -1,11 +1,14 @@
 {
     "cid": "9705e841-7452-43bb-ab7f-79891e37c327",
+    "yid": 75884822,
     "password": "75884822",
     "kid": 13479,
     "name": "Ojama Pajama",
     "name_jp": "おジャマパーティ",
     "name_jp_rom": "Ojamapāti",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ojama Party",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -37,6 +40,15 @@
             "set": "Legendary Duelists: Ancient Millennium",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DP19-JP024",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
             }
         }
     ],
@@ -75,7 +87,7 @@
             "Cannot be destroyed by card effects"
         ],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [
             "Cannot be destroyed by battle"
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

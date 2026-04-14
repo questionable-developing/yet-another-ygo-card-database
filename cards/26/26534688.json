@@ -1,12 +1,14 @@
 {
     "cid": "e1f9a577-7892-4547-b970-9105e54729a8",
-    "yid": null,
+    "yid": 26534688,
     "password": "26534688",
     "kid": 15293,
     "name": "Magellanica, the Deep Sea City",
     "name_jp": "<ruby lang=\"jp\"><rb>深</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>海</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>都</rb><rp> (</rp><rt>みやこ</rt><rp>)</rp></ruby> マガラニカ",
     "name_jp_rom": "Shinkai no Miyako Magaranika",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -43,6 +45,15 @@
         {
             "sid": "MP21-EN141",
             "set": "2021 Tin of Ancient Battles",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP059",
+            "set": "Rise of the Duelist",
             "rarities": {
                 "Common": []
             }
@@ -93,5 +104,6 @@
             "Requires control of specific Attribute",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "7a12c756-1e56-4252-9e33-8d3017078da5",
-    "yid": null,
+    "yid": 28279365,
     "password": "28279365",
     "kid": 19909,
     "name": "Blink Out",
     "name_jp": "ブリンクアウト",
     "name_jp_rom": "Burinku Auto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP068",
+            "set": "Legacy of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP171",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +100,6 @@
         "misc": [
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

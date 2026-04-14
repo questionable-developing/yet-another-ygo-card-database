@@ -1,11 +1,14 @@
 {
     "cid": "d014556d-d685-423f-a669-7e341354ae08",
+    "yid": 65422840,
     "password": "65422840",
     "kid": 7358,
     "name": "Shutendoji",
     "name_jp": "<ruby lang=\"jp\"><rb>酒</rb><rp> (</rp><rt>しゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>呑</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>童</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>子</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shutendōji",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -77,6 +80,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LE14-JP004",
+            "set": "Limited Edition 14",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR07-JP014",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,7 +106,9 @@
             "Zombie"
         ],
         "asup": [],
-        "arc": [],
+        "arc": [
+            "Yokai (series)"
+        ],
         "suparc": [],
         "asuparc": [],
         "rel": [],
@@ -110,5 +131,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

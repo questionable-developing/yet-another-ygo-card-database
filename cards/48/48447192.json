@@ -1,11 +1,14 @@
 {
     "cid": "b5730652-48b9-4199-9e20-8577114f5413",
+    "yid": 48447192,
     "password": "48447192",
     "kid": 8349,
     "name": "Sword of Sparkles",
     "name_jp": "<ruby lang=\"jp\"><rb>剣</rb><rp> (</rp><rt>つるぎ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>煌</rb><rp> (</rp><rt>きらめ</rt><rp>)</rp></ruby>き",
     "name_jp_rom": "Tsurugi no Kirameki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sparkles of the Sword",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "ANPR-EN059",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP059",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "d47661eb-15ae-496c-b135-a775e2d5e59b",
+    "yid": 91098230,
     "password": "91098230",
     "kid": 19848,
     "name": "Ancient Gear Tanker",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の機械戦車兵</rb><rp> (</rp><rt>アンティーク・ギアタンカー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Tankā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Tanker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,15 @@
         {
             "sid": "MP25-EN342",
             "set": "2025 Mega-Pack Tin",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LEDE-JP007",
+            "set": "Legacy of Destruction",
             "rarities": {
                 "Common": []
             }
@@ -103,5 +115,6 @@
             "Mentions",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

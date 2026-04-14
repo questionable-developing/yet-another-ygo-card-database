@@ -1,12 +1,14 @@
 {
     "cid": "fa0c6816-a3a6-4667-af0b-70346b0a3905",
-    "yid": null,
+    "yid": 20011655,
     "password": "20011655",
     "kid": 21051,
     "name": "Beast of Talwar - The Sword Summit",
     "name_jp": "<ruby lang=\"jp\"><rb>魔剣達士</rb><rp> (</rp><rt>ソードサミット</rt><rp>)</rp></ruby>－タルワール・デーモン",
     "name_jp_rom": "Sōdo Samitto - Taruwāru Dēmon",
+    "name_jp_rom_base": "Makentasshi - Taruwāru Dēmon",
     "name_jp_tl": "Sword Summit - Talwar Daemon",
+    "name_jp_tl_base": "Magic Sword Master - Talwar Daemon",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,15 @@
         {
             "sid": "SUDA-EN087",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP046",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -79,5 +90,6 @@
             "Archetype condition",
             "Requires control of no monsters"
         ]
-    }
+    },
+    "links": {}
 }

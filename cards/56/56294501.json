@@ -1,11 +1,14 @@
 {
     "cid": "13c6385e-c683-452c-8e94-055bea1d190b",
+    "yid": 56294501,
     "password": "56294501",
     "kid": 15314,
     "name": "Junk Sleep",
     "name_jp": "ジャンクスリープ",
     "name_jp_rom": "Janku Surīpu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTD-JP080",
+            "set": "Rise of the Duelist",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +92,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

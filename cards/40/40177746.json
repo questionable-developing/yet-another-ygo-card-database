@@ -1,11 +1,14 @@
 {
     "cid": "ddaf0c12-bb38-42b4-a9b8-4d00d7acface",
+    "yid": 40177746,
     "password": "40177746",
     "kid": 13349,
     "name": "Eva",
     "name_jp": "イーバ",
     "name_jp_rom": "Ība",
+    "name_jp_rom_base": null,
     "name_jp_tl": "EBE",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR05-JP000",
+            "set": "Structure Deck R: Surge of Divine Light",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "SR12-JP020",
+            "set": "Structure Deck R: Lost Sanctuary",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +107,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

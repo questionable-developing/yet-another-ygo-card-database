@@ -1,11 +1,14 @@
 {
     "cid": "6720b69a-8199-423b-afd4-2b33918c41d0",
+    "yid": 62742651,
     "password": "62742651",
     "kid": 8320,
     "name": "Armored Axon Kicker",
     "name_jp": "アーマード・サイキッカー",
     "name_jp_rom": "Āmādo Saikikkā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Armored Psychicker",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "ANPR-EN029",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP029",
             "set": "Ancient Prophecy",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

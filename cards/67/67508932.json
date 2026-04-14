@@ -1,11 +1,14 @@
 {
     "cid": "44dc2679-d07e-4a92-804f-57deb66976d1",
+    "yid": 67508932,
     "password": "67508932",
     "kid": 14163,
     "name": "Timelord Progenitor Vorpgate",
     "name_jp": "<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>祖</rb><rp> (</rp><rt>そ</rt><rp>)</rp></ruby>ヴルガータ",
     "name_jp_rom": "Jikaishinso Vurugāta",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Time Machine God Progenitor Vulgate",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "YA06-JP001",
+            "set": "Yu-Gi-Oh! ARC-V Volume 6 promotional card",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -68,7 +80,7 @@
             "1 or more non-Tuner Synchro Materials",
             "Does not require specific Synchro Materials",
             "Special Summons the opponent's banished monsters to the opponent's field",
-            "Special Summons the player's banished monsters to the opponent's field"
+            "Special Summons from your banishment to the opponent's field"
         ],
         "attack": [
             "Cannot be destroyed by battle"
@@ -85,5 +97,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "5ade68e5-3a4b-4de1-9d42-0baa6f7ad9bb",
-    "yid": null,
+    "yid": 27781371,
     "password": "27781371",
     "kid": 21211,
     "name": "Regenesis Birth",
     "name_jp": "<ruby lang=\"jp\"><rb>天地再世</rb><rp> (</rp><rt>リジェネシス・バース</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rijeneshisu Bāsu",
+    "name_jp_rom_base": "Tenchisaisei",
     "name_jp_tl": null,
+    "name_jp_tl_base": "Regenerated World of Heaven and Earth",
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "ALIN-EN074",
+            "set": "Alliance Insight",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ALIN-JP074",
             "set": "Alliance Insight",
             "rarities": {
                 "Common": []
@@ -70,7 +81,7 @@
         "summoning": [
             "Special Summons from your hand",
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -80,5 +91,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

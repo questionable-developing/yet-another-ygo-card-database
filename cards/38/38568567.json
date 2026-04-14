@@ -1,11 +1,14 @@
 {
     "cid": "7760db21-ca76-45da-a660-153fba548c80",
+    "yid": 38568567,
     "password": "38568567",
     "kid": 8201,
     "name": "Wonder Clover",
     "name_jp": "ワンダー・クローバー",
     "name_jp_rom": "Wandā Kurōbā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "RGBT-EN049",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP049",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -70,5 +82,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

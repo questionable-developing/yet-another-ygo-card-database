@@ -1,12 +1,14 @@
 {
     "cid": "0e261d96-44be-4c3c-bf04-b5becd77be4c",
-    "yid": null,
+    "yid": 13533678,
     "password": "13533678",
     "kid": 17406,
     "name": "Spright Jet",
     "name_jp": "スプライト・ジェット",
     "name_jp_rom": "Supuraito Jetto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -30,7 +32,7 @@
     "images": {
         "1": {
             "idx": "1",
-            "full": "SprightJet-BLTR-EN-UR-1E.png",
+            "full": "SprightJet-RA05-EN-SR-1E.png",
             "art": null
         }
     },
@@ -46,6 +48,42 @@
         {
             "sid": "BLTR-EN076",
             "set": "Battles of Legend: Terminal Revenge",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RA05-EN022",
+            "set": "Rarity Collection 5",
+            "rarities": {
+                "Super Rare": [],
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Platinum Secret Rare": [],
+                "Starlight Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "POTE-JP004",
+            "set": "Power of the Elements",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB07",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CF01-JP122",
+            "set": "Complete File: Story of White",
             "rarities": {
                 "Ultra Rare": []
             }
@@ -88,5 +126,6 @@
             "Requires control of specific Rank",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

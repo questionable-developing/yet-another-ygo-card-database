@@ -1,11 +1,14 @@
 {
     "cid": "e84a1a8e-bac7-40a0-b962-308a3a1d6cca",
+    "yid": 85216896,
     "password": "85216896",
     "kid": 13504,
     "name": "Zefra Metaltron",
     "name_jp": "セフィラ・メタトロン",
     "name_jp_rom": "Sefira Metatoron",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sephira Metatron",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -43,6 +46,15 @@
         {
             "sid": "EXFO-EN097",
             "set": "Extreme Force",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP071",
+            "set": "LINK VRAINS Pack",
             "rarities": {
                 "Super Rare": []
             }
@@ -90,5 +102,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

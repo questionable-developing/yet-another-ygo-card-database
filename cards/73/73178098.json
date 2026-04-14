@@ -1,11 +1,14 @@
 {
     "cid": "339859df-5a87-4b7c-a32a-cecad679fc9b",
+    "yid": 73178098,
     "password": "73178098",
     "kid": 9764,
     "name": "Ego Boost",
     "name_jp": "<ruby lang=\"jp\"><rb>虚</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>栄</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>巨</rb><rp> (</rp><rt>きょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kyoei Kyoei",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Giant Shadow of Egoism",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -26,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "EgoBoost-ST14-JP-C.png",
+            "art": "EgoBoost-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "EgoBoost-YS18-EN-C-1E.png",
-            "art": null
+            "art": "EgoBoost-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "PHSW-EN046",
@@ -92,6 +100,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP046",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP12-JP021",
+            "set": "Duelist Pack: Yuma",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST12-JP020",
+            "set": "Starter Deck 2012",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST13-JP025",
+            "set": "Starter Deck 2013",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "ST14-JP025",
+            "set": "Starter Deck 2014",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +165,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f1bf8496-7b29-40ef-8689-3f9cee4f1e20",
+    "yid": 59811955,
     "password": "59811955",
     "kid": 6935,
     "name": "Ancient Gear Workshop",
     "name_jp": "<ruby lang=\"jp\"><rb>古代の整備場</rb><rp> (</rp><rt>アンティーク・ギアガレージ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Antīku Gia Garēji",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Antique Gear Garage",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD10-JP017",
+            "set": "Structure Deck: Machine Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR03-JP024",
+            "set": "Structure Deck R: Machine Dragon Re-Volt",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

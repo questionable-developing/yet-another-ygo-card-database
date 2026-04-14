@@ -1,11 +1,14 @@
 {
     "cid": "b94a897d-2908-4723-9cc0-af45aec265cc",
+    "yid": 99668578,
     "password": "99668578",
     "kid": 11360,
     "name": "Satellarknight Procyon",
     "name_jp": "<ruby lang=\"jp\"><rb>星因士</rb><rp> (</rp><rt>サテラナイト</rt><rp>)</rp></ruby> プロキオン",
     "name_jp_rom": "Sateranaito Purokion",
+    "name_jp_rom_base": "Sei'inshi Purokion",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP028",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "f1b78c0f-86a0-47d2-babc-e33cacf33c22",
+    "yid": 43140791,
     "password": "43140791",
     "kid": 8518,
     "name": "Worm Bait",
     "name_jp": "ワーム・ベイト",
     "name_jp_rom": "Wāmu Beito",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TF04-JP002",
+            "set": "Yu-Gi-Oh! 5D's Tag Force 4 promotional cards",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "DP19-JP050",
+            "set": "Duelist Pack: Legend Duelist 2",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +101,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

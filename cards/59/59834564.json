@@ -1,11 +1,14 @@
 {
     "cid": "d4cbcbd1-bd06-4985-8c0f-63d88e2bc8d8",
+    "yid": 59834564,
     "password": "59834564",
     "kid": 10472,
     "name": "Bonfire Colossus",
     "name_jp": "<ruby lang=\"jp\"><rb>嚇</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>灼</rb><rp> (</rp><rt>しゃく</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kakushaku no Majin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Menacing Incandescence Devil",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP13-JP035",
+            "set": "Extra Pack: Sword of Knights",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR14-JP016",
+            "set": "Structure Deck R: Onslaught of the Fire Kings",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -83,5 +102,6 @@
         "misc": [
             "Requires control of specific Attribute"
         ]
-    }
+    },
+    "links": {}
 }

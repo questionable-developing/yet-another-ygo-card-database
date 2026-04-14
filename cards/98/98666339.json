@@ -1,11 +1,14 @@
 {
     "cid": "535ea093-fc1f-4295-a6c5-7b571049d608",
+    "yid": 98666339,
     "password": "98666339",
     "kid": 6913,
     "name": "Dimensional Inversion",
     "name_jp": "リバースディメンション",
     "name_jp_rom": "Ribāsu Dimenshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Reverse Dimension",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +51,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP052",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -67,7 +79,7 @@
         "stat_change": [],
         "mst": [],
         "summoning": [
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

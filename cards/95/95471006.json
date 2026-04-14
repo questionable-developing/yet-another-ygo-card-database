@@ -1,11 +1,14 @@
 {
     "cid": "dc58a561-03fd-41bf-b673-2db95e7e1fca",
+    "yid": 95471006,
     "password": "95471006",
     "kid": 16866,
     "name": "XYZ Combine",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ</rb><rp> (</rp><rt>エックス</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｙ</rb><rp> (</rp><rt>ワイ</rt><rp>)</rp></ruby>・<ruby lang=\"jp\"><rb>Ｚ</rb><rp> (</rp><rt>ゼット</rt><rp>)</rp></ruby>コンバイン",
     "name_jp_rom": "Ekkusu Wai Zetto Konbain",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "BACH-JP061",
+            "set": "Battle of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,7 +96,7 @@
         "mst": [],
         "summoning": [
             "Special Summons from your Deck",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -95,5 +107,6 @@
             "Requires control of specific Monster card type",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

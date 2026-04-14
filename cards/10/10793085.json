@@ -1,12 +1,14 @@
 {
     "cid": "b76cdd05-eb03-4db5-98fe-45958cd92d9d",
-    "yid": null,
+    "yid": 10793085,
     "password": "10793085",
     "kid": 18516,
     "name": "Tri-Brigade Roar",
     "name_jp": "<ruby lang=\"jp\"><rb>鉄獣の咆哮</rb><rp> (</rp><rt>トライブリゲード・ロアー</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Toraiburigēdo Roā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": "Iron Beast Roar",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -38,6 +40,22 @@
             "set": "Cyberstorm Access",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CYAC-JP053",
+            "set": "Cyberstorm Access",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP168",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": []
             }
         }
     ],
@@ -83,5 +101,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

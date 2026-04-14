@@ -1,11 +1,14 @@
 {
     "cid": "28b03f64-4422-40bf-9c14-f2b4c748ebac",
+    "yid": 71870152,
     "password": "71870152",
     "kid": 8302,
     "name": "Fortune Lady Fire",
     "name_jp": "フォーチュンレディ・ファイリー",
     "name_jp_rom": "Fōchun Redi Fairī",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Fortune Lady Fiery",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -29,11 +32,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "FortuneLadyFire-DE04-JP-C.jpg",
+            "art": "FortuneLadyFire-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "FortuneLadyFire-OP11-EN-C-UE.png",
-            "art": null
+            "art": "FortuneLadyFire-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "ANPR-EN011",
@@ -45,6 +53,22 @@
         {
             "sid": "OP11-EN015",
             "set": "OTS Tournament Pack 11",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP011",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP005",
+            "set": "Duelist Edition Volume 4",
             "rarities": {
                 "Common": []
             }
@@ -89,5 +113,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

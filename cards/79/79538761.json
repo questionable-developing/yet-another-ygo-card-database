@@ -1,11 +1,14 @@
 {
     "cid": "7208b36d-d558-4996-bb44-8d709b30fab5",
+    "yid": 79538761,
     "password": "79538761",
     "kid": 12623,
     "name": "Torque Tune Gear",
     "name_jp": "トルクチューン・ギア",
     "name_jp_rom": "Torukuchūn Gia",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -52,6 +55,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "INOV-JP033",
+            "set": "Invasion: Vengeance",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SR10-JP018",
+            "set": "Structure Deck R: Machiners Command",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

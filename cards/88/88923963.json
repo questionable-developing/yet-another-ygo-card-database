@@ -1,11 +1,14 @@
 {
     "cid": "4c3213bc-e7b6-40f7-a543-1cd76700c10b",
+    "yid": 88923963,
     "password": "88923963",
     "kid": 14073,
     "name": "Noble Knight Iyvanne",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>イヴァン",
     "name_jp_rom": "Seikishi Ivan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Yvain",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP046",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "4ef38f1d-5f2e-4d18-bb99-74c5e969d1c2",
+    "yid": 40204620,
     "password": "40204620",
     "kid": 14880,
     "name": "Megalith Promotion",
     "name_jp": "メガリス・プロモーション",
     "name_jp_rom": "Megarisu Puromōshon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP071",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,5 +81,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

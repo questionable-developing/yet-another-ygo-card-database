@@ -1,12 +1,14 @@
 {
     "cid": "e43b4db2-6b4e-4716-8be2-d1934de0bd21",
-    "yid": null,
+    "yid": 22873798,
     "password": "22873798",
     "kid": 6247,
     "name": "Hyena",
     "name_jp": "ハイエナ",
     "name_jp_rom": "Haiena",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -58,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FET-JP017",
+            "set": "Flaming Eternity",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "EE3-JP137",
+            "set": "Expert Edition Volume 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +107,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

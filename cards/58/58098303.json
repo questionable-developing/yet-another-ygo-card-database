@@ -1,11 +1,14 @@
 {
     "cid": "0cd1c021-28bc-40e4-9d43-8fa3b5d122b6",
+    "yid": 58098303,
     "password": "58098303",
     "kid": 6938,
     "name": "Flame Ogre",
     "name_jp": "フレイム・オーガ",
     "name_jp_rom": "Fureimu Ōga",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -43,6 +46,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CDIP-JP014",
+            "set": "Cyberdark Impact",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "CDIP-JP014",
+            "set": "Cyberdark Impact: Vendor Edition",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +89,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "ebc258fb-efc8-4e04-b4a7-1a71b580731e",
+    "yid": 82913020,
     "password": "82913020",
     "kid": 15713,
     "name": "Constellar Caduceus",
     "name_jp": "セイクリッド・カドケウス",
     "name_jp_rom": "Seikuriddo Kadokeusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Caduceus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -47,6 +50,23 @@
             "set": "2022 Tin of the Pharaoh's Gods",
             "rarities": {
                 "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "BLVO-JP022",
+            "set": "Blazing Vortex",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP048",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Secret Parallel Rare": []
             }
         }
     ],
@@ -96,5 +116,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

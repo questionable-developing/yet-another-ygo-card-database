@@ -1,12 +1,14 @@
 {
     "cid": "140665ea-b886-4221-b08b-f1647372803d",
-    "yid": null,
+    "yid": 30334522,
     "password": "30334522",
     "kid": 9998,
     "name": "Gishki Psychelone",
     "name_jp": "イビリチュア・プシュケローネ",
     "name_jp_rom": "Ibirichua Pushukerōne",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Eviritua Psychelone",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +52,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT14-JP030",
+            "set": "Duel Terminal - Ouroboros, Wicked Dragon of Destruction!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP108",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,7 +90,7 @@
         "action": [
             "Declares a Type",
             "Declares an Attribute",
-            "Reveals your opponent's hand",
+            "Reveals cards from your opponent's hand",
             "Returns from your opponent's hand to your opponent's Deck"
         ],
         "stat_change": [],
@@ -86,5 +104,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

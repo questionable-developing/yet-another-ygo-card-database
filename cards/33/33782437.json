@@ -1,12 +1,14 @@
 {
     "cid": "fddcb43c-535f-4c77-a84e-0a9d172c3453",
-    "yid": null,
+    "yid": 33782437,
     "password": "33782437",
     "kid": 9778,
     "name": "One Day of Peace",
     "name_jp": "<ruby lang=\"jp\"><rb>一</rb><rp> (</rp><rt>いち</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>じ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>休</rb><rp> (</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Ichiji Kyūsen",
+    "name_jp_rom_base": null,
     "name_jp_tl": "A Moment of Peace",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHSW-JP060",
+            "set": "Photon Shockwave",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DBSW-JP044",
+            "set": "Deck-Build Pack: Spirit Warriors",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +96,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

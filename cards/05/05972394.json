@@ -1,12 +1,14 @@
 {
     "cid": "d9622bd3-cfc5-4582-b584-9dabf7f42fb3",
-    "yid": null,
+    "yid": 5972394,
     "password": "05972394",
     "kid": 11388,
     "name": "Mimiclay",
     "name_jp": "モノマネンド",
     "name_jp_rom": "Monomanendo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "NECH-JP056",
+            "set": "The New Challengers",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -80,5 +91,6 @@
             "Requires control of specific Level",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

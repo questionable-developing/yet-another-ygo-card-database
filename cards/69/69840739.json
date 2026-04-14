@@ -1,11 +1,14 @@
 {
     "cid": "5cd76390-76a5-406c-b383-4ffd7d886e21",
+    "yid": 69840739,
     "password": "69840739",
     "kid": 11078,
     "name": "Artifact Durendal",
     "name_jp": "アーティファクト－デュランダル",
     "name_jp_rom": "Ātifakuto - Dyurandaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Artifact - Durandal",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -67,6 +70,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP049",
+            "set": "Primal Origin",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "LVP3-JP062",
+            "set": "LINK VRAINS Pack 3",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -106,5 +127,6 @@
             "Limited activations",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

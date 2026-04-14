@@ -1,11 +1,14 @@
 {
     "cid": "5807eac6-fb32-459c-adbb-481c2daf596b",
+    "yid": 84121193,
     "password": "84121193",
     "kid": 15038,
     "name": "Codebreaker Virus Swordsman",
     "name_jp": "コードブレイカー・ウイルスソードマン",
     "name_jp_rom": "Kōdobureikā Uirusu Sōdoman",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -41,6 +44,15 @@
     "sets": [
         {
             "sid": "ETCO-EN052",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP052",
             "set": "Eternity Code",
             "rarities": {
                 "Common": []
@@ -96,5 +108,6 @@
             "Co-link",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

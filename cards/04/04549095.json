@@ -1,12 +1,14 @@
 {
     "cid": "798ac979-fdd6-411c-ac48-681a131422d0",
-    "yid": null,
+    "yid": 4549095,
     "password": "04549095",
     "kid": 10501,
     "name": "Battlin' Boxer Counterpunch",
     "name_jp": "<ruby lang=\"jp\"><rb>ＢＫ</rb><rp> (</rp><rt>バーニングナックラー</rt><rp>)</rp></ruby> カウンターブロー",
     "name_jp_rom": "Bāningu Nakkurā Kauntāburō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Burning Knuckler Counterblow",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP020",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

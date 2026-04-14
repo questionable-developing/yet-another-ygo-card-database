@@ -1,11 +1,14 @@
 {
     "cid": "e3465a29-0a8f-41e4-a3a6-60bf0d6662c7",
+    "yid": 80275707,
     "password": "80275707",
     "kid": 17788,
     "name": "Laughing Puffin",
     "name_jp": "<ruby lang=\"jp\"><rb>道</rb><rp> (</rp><rt>どう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>化</rb><rp> (</rp><rt>け</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鳥</rb><rp> (</rp><rt>ちょう</rt><rp>)</rp></ruby>ラフィンパフィン",
     "name_jp_rom": "Dōkechō Rafin Pafin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Laughing Puffin the Jester Bird",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP033",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +101,6 @@
             "Can be activated during either player's turn",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

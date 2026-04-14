@@ -1,11 +1,14 @@
 {
     "cid": "12657b2f-864b-460a-8e08-f2f50a5e3014",
+    "yid": 50371210,
     "password": "50371210",
     "kid": 12332,
     "name": "Beacon of White",
     "name_jp": "<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>導</rb><rp> (</rp><rt>みちび</rt><rp>)</rp></ruby>き",
     "name_jp_rom": "Hikari no Michibiki",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Beacon of Light",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -75,6 +78,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP060",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -116,5 +128,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

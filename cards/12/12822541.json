@@ -1,12 +1,14 @@
 {
     "cid": "081524a4-0c91-43df-b6c1-e861e3dc62e3",
-    "yid": null,
+    "yid": 12822541,
     "password": "12822541",
     "kid": 11439,
     "name": "D/D Lilith",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>Ｄ</rb><rp> (</rp><rt>ディー</rt><rp>)</rp></ruby>リリス",
     "name_jp_rom": "Dīdī Ririsu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -39,6 +41,23 @@
         {
             "sid": "SDPD-EN008",
             "set": "Pendulum Domination Structure Deck",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "SPRG-JP001",
+            "set": "Booster SP: Raging Masters",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "SD30-JP008",
+            "set": "Structure Deck: Pendulum Domination",
             "rarities": {
                 "Common": []
             }
@@ -81,5 +100,6 @@
             "Only once per turn",
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

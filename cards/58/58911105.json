@@ -1,11 +1,14 @@
 {
     "cid": "c8a74785-17a9-4640-8bb7-1f577d60eaa2",
+    "yid": 58911105,
     "password": "58911105",
     "kid": 9905,
     "name": "Upstart Golden Ninja",
     "name_jp": "<ruby lang=\"jp\"><rb>成金</rb><rp> (</rp><rt>ゴールド</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>忍</rb><rp> (</rp><rt>にん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>者</rb><rp> (</rp><rt>じゃ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōrudo Ninja",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gold Ninja",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP031",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

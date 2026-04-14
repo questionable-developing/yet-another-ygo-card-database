@@ -1,11 +1,14 @@
 {
     "cid": "e5ebcced-b193-4fc6-be2f-a8e1689a061f",
+    "yid": 50152549,
     "password": "50152549",
     "kid": 4878,
     "name": "Paralyzing Potion",
     "name_jp": "しびれ<ruby lang=\"jp\"><rb>薬</rb><rp> (</rp><rt>ぐすり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Shibiregusuri",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Paralyzing Medicine",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "",
+            "set": "Vol.7",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "",
+            "set": "Booster 7",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "ME-76",
+            "set": "Metal Raiders (Japanese)",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DL4-066",
+            "set": "Duelist Legacy Volume.4",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -72,5 +105,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

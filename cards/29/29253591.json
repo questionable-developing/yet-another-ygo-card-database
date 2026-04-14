@@ -1,12 +1,14 @@
 {
     "cid": "317cd1e0-7328-442a-a0f9-5a0513b62e84",
-    "yid": null,
+    "yid": 29253591,
     "password": "29253591",
     "kid": 13725,
     "name": "Dragunity Couse",
     "name_jp": "ドラグニティ－クーゼ",
     "name_jp_rom": "Doraguniti - Kūze",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -52,6 +54,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CYHO-JP017",
+            "set": "Cybernetic Horizon",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR11-JP013",
+            "set": "Structure Deck R: Dragunity Drive",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW03-JP025",
+            "set": "Terminal World 3",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +109,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

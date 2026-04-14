@@ -1,12 +1,14 @@
 {
     "cid": "aa001933-974a-46d8-9526-99555b216be3",
-    "yid": null,
+    "yid": 30968774,
     "password": "30968774",
     "kid": 13870,
     "name": "Swap Cleric",
     "name_jp": "スワップリースト",
     "name_jp_rom": "Suwappurīsuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Swapriest",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SD34-JP002",
+            "set": "Structure Deck: Master Link",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

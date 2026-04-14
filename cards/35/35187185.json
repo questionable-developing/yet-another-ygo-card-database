@@ -1,12 +1,14 @@
 {
     "cid": "569859bd-c5e5-4a91-b4be-f8394972917b",
-    "yid": null,
+    "yid": 35187185,
     "password": "35187185",
     "kid": 14898,
     "name": "Oneiros, the Dream Mirror Erlking",
     "name_jp": "<ruby lang=\"jp\"><rb>夢</rb><rp> (</rp><rt>ゆめ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>鏡</rb><rp> (</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>－ネイロス",
     "name_jp_rom": "Yumemakyō no Tenma - Neirosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Mara of the Dream Magic Mirror - Neiros",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -31,17 +33,32 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "OneirostheDreamMirrorErlking-WPP1-JP-UR.png",
+            "art": "OneirostheDreamMirrorErlking-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "OneirostheDreamMirrorErlking-CHIM-EN-SR-1E.png",
-            "art": null
+            "art": "OneirostheDreamMirrorErlking-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "CHIM-EN087",
             "set": "Chaos Impact",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP1-JP022",
+            "set": "World Premiere Pack 2020",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -94,5 +111,6 @@
             "Only once per turn",
             "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

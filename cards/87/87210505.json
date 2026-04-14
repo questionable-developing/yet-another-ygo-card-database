@@ -1,11 +1,14 @@
 {
     "cid": "ae49506c-b9f3-4324-b427-0673ee4d2e7a",
+    "yid": 87210505,
     "password": "87210505",
     "kid": 5757,
     "name": "Knight's Title",
     "name_jp": "<ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>称</rb><rp> (</rp><rt>しょう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>号</rb><rp> (</rp><rt>ごう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kishi no Shōgō",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GB8-002",
+            "set": "Yu-Gi-Oh! Duel Monsters 8: Reshef of Destruction promotional cards",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "TP09-JP010",
+            "set": "Tournament Pack 2009 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "15AX-JPY43",
+            "set": "Duelist Road -Piece of Memory- Side: Yami Yugi",
+            "rarities": {
+                "Secret Rare": [],
+                "Millennium Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +108,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

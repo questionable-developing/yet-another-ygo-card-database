@@ -1,12 +1,14 @@
 {
     "cid": "e85413a4-d97a-4774-8594-28cdfe538aba",
-    "yid": null,
+    "yid": 15947754,
     "password": "15947754",
     "kid": 17792,
     "name": "Silent Wolf Calupo",
     "name_jp": "<ruby lang=\"jp\"><rb>沈黙狼</rb><rp> (</rp><rt>オメルタ</rt><rp>)</rp></ruby>－カルーポ",
     "name_jp_rom": "Omeruta - Karūpo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Omertà - Calupo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DABL-JP037",
+            "set": "Darkwing Blast",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

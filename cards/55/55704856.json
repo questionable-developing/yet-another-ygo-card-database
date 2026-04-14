@@ -1,11 +1,14 @@
 {
     "cid": "76a18d33-1465-4161-ab09-794c8092b1e9",
+    "yid": 55704856,
     "password": "55704856",
     "kid": 13849,
     "name": "Cyberload Fusion",
     "name_jp": "サイバーロード・フュージョン",
     "name_jp_rom": "Saibārōdo Fyūjon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP20-JP014",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SD41-JP026",
+            "set": "Structure Deck: Cyber Style's Successor",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -97,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

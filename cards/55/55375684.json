@@ -1,11 +1,14 @@
 {
     "cid": "b9188642-a81e-428c-860b-556a6761dac1",
+    "yid": 55375684,
     "password": "55375684",
     "kid": 7270,
     "name": "Summon Cloud",
     "name_jp": "<ruby lang=\"jp\"><rb>召喚雲</rb><rp> (</rp><rt>サモンクラウド</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Samon Kuraudo",
+    "name_jp_rom_base": "Shōkangumo",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP049",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -82,5 +94,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

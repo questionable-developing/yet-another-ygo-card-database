@@ -1,12 +1,14 @@
 {
     "cid": "c60452fb-71fe-4318-a33a-1285d1068ca1",
-    "yid": null,
+    "yid": 27191436,
     "password": "27191436",
     "kid": 6536,
     "name": "Burst Return",
     "name_jp": "バースト・リターン",
     "name_jp_rom": "Bāsuto Ritān",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP1-JP022",
+            "set": "Duelist Pack: Jaden Yuki",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +97,6 @@
         "misc": [
             "Requires control of specific card"
         ]
-    }
+    },
+    "links": {}
 }

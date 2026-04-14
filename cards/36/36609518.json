@@ -1,12 +1,14 @@
 {
     "cid": "c4c7b039-d7d8-48eb-9890-f80821d738f1",
-    "yid": null,
+    "yid": 36609518,
     "password": "36609518",
     "kid": 15627,
     "name": "Evil★Twin Lil-la",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｖｉｌ★Ｔｗｉｎ</rb><rp> (</rp><rt>イビルツイン</rt><rp>)</rp></ruby> リィラ",
     "name_jp_rom": "Ibiru Tsuin Ryira",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -71,6 +73,42 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBGI-JP016",
+            "set": "Deck-Build Pack: Genesis Impactors",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "SLF1-JP080",
+            "set": "Selection 5",
+            "rarities": {
+                "Normal Parallel Rare": [],
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "TT01-JPB28",
+            "set": "Tactical-Try Deck: Evil★Twin the Kaito Pair",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "QCAC-JP068",
+            "set": "Quarter Century Art Collection",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -119,5 +157,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

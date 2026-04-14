@@ -1,11 +1,14 @@
 {
     "cid": "1fd52738-f7f0-4ef5-98a2-b3d10006db30",
+    "yid": 47120245,
     "password": "47120245",
     "kid": 10876,
     "name": "Noble Knight Borz",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>ボールス",
     "name_jp_rom": "Seikishi Bōrusu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Holy Knight Bors",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP14-JP016",
+            "set": "Extra Pack: Knights of Order",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "LVP1-JP054",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -96,5 +115,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

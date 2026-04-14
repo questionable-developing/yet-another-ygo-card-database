@@ -1,12 +1,14 @@
 {
     "cid": "a0ee542b-d788-4d18-b8d1-7ef0eb74d517",
-    "yid": null,
+    "yid": 1992816,
     "password": "01992816",
     "kid": 10266,
     "name": "Number 9: Dyson Sphere",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｎｏ．</rb><rp> (</rp><rt>ナンバーズ</rt><rp>)</rp></ruby>９ <ruby lang=\"jp\"><rb>天</rb><rp> (</rp><rt>てん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>蓋</rb><rp> (</rp><rt>がい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>星</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>ダイソン・スフィア",
     "name_jp_rom": "Nanbāzu Kyū Tengaisei Daison Sufia",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Numbers 9: Canopy Star - Dyson Sphere",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -53,6 +55,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABYR-JP044",
+            "set": "Abyss Rising",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "NCF1-JP009",
+            "set": "Number Complete File -Piece of Memories-",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +111,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

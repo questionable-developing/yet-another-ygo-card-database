@@ -1,12 +1,14 @@
 {
     "cid": "916d459a-8831-47e5-90ea-b4dfd91844e4",
-    "yid": null,
+    "yid": 29508346,
     "password": "29508346",
     "kid": 13278,
     "name": "Arrivalrivals",
     "name_jp": "ライバル・アライバル",
     "name_jp_rom": "Raibaru Araibaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rival Arrival",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -60,6 +62,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP062",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

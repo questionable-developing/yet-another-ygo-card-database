@@ -1,11 +1,14 @@
 {
     "cid": "a3bda089-3785-401b-b4a8-45a57243a70d",
+    "yid": 75539614,
     "password": "75539614",
     "kid": 12008,
     "name": "Psychic Blade",
     "name_jp": "サイコ・ブレイド",
     "name_jp_rom": "Saiko Bureido",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Blade",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP064",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -79,5 +91,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

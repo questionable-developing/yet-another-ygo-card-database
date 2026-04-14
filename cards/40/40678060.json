@@ -1,11 +1,14 @@
 {
     "cid": "60c869d6-56fb-4a47-a944-32212c9a7b9a",
+    "yid": 40678060,
     "password": "40678060",
     "kid": 19207,
     "name": "Angelica's Angelic Ring",
     "name_jp": "<ruby lang=\"jp\"><rb>天子の指輪</rb><rp> (</rp><rt>エンジェリング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Enjeringu",
+    "name_jp_rom_base": "Tenshi no Yubiwa",
     "name_jp_tl": "Angering",
+    "name_jp_tl_base": "Heavenly Being's Ring",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP065",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
             "Control only one",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

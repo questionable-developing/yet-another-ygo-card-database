@@ -1,11 +1,14 @@
 {
     "cid": "5682b42b-cf55-4c13-8355-c0d88184bfd5",
+    "yid": 71545247,
     "password": "71545247",
     "kid": 19168,
     "name": "Cursed Bride Doll",
     "name_jp": "<ruby lang=\"jp\"><rb>離</rb><rp> (</rp><rt>ハナ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>世</rb><rp> (</rp><rt>ヨ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>召</rb><rp> (</rp><rt>メ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>人</rb><rp> (</rp><rt>ニン</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>形</rb><rp> (</rp><rt>ギョウ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Hanayome Ningyō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Bride Doll",
+    "name_jp_tl_base": "Departed Summon Doll",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "AGOV-EN026",
+            "set": "Age of Overlord",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AGOV-JP026",
             "set": "Age of Overlord",
             "rarities": {
                 "Common": []
@@ -79,5 +91,6 @@
             "At the start of the Battle Phase",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

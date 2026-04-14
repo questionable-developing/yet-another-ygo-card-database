@@ -1,11 +1,14 @@
 {
     "cid": "74aeef2c-5bac-4732-88bb-7743f41bef53",
+    "yid": 71408082,
     "password": "71408082",
     "kid": 11896,
     "name": "Paladin of Dark Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>黒竜の聖騎士</rb><rp> (</rp><rt>ナイト・オブ・ブラックドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Naito Obu Burraku Doragon",
+    "name_jp_rom_base": "Kokuryū no Seikishi",
     "name_jp_tl": "Knight of Black Dragon",
+    "name_jp_tl_base": "Holy Knight of Black Dragon",
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -51,6 +54,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CPD1-JP018",
+            "set": "Collectors Pack: Duelist of Destiny Version",
+            "rarities": {
+                "Super Rare": [],
+                "Collector's Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -90,5 +103,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

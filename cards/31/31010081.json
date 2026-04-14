@@ -1,12 +1,14 @@
 {
     "cid": "4fb5fd2c-61de-4c27-a2ab-5ebd9d12535f",
-    "yid": null,
+    "yid": 31010081,
     "password": "31010081",
     "kid": 21812,
     "name": "DoomZ Break - Diactorus",
     "name_jp": "<ruby lang=\"jp\"><rb>終刻獄徒</rb><rp> (</rp><rt>ドゥームズ・ブレイク</rt><rp>)</rp></ruby> ディアクトロス",
     "name_jp_rom": "Dūmuzu Bureiku Diakutorosu",
+    "name_jp_rom_base": "Shūkoku Gokuto Diakutorosu",
     "name_jp_tl": "DoomZ Break - Diaktoros",
+    "name_jp_tl_base": "End Time Prisoner - Diaktoros",
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -42,6 +44,16 @@
             "set": "Doom of Dimensions",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP046",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -96,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

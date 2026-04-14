@@ -1,12 +1,14 @@
 {
     "cid": "5d7598cb-451f-4e56-be78-184824ea3d3e",
-    "yid": null,
+    "yid": 20155904,
     "password": "20155904",
     "kid": 12941,
     "name": "Zoodiac Kataroost",
     "name_jp": "<ruby lang=\"jp\"><rb>十</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>二</rb><rp> (</rp><rt>に</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>しし</rt><rp>)</rp></ruby>クックル",
     "name_jp_rom": "Jūnishishi Kukkuru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cuckle of the Twelve Zodiac Beasts",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "MACR-EN027",
+            "set": "Maximum Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "MACR-JP027",
             "set": "Maximum Crisis",
             "rarities": {
                 "Common": []
@@ -84,5 +95,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

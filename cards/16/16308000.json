@@ -1,12 +1,14 @@
 {
     "cid": "40e1a383-6dee-44f4-bd84-fa95b25a82dd",
-    "yid": null,
+    "yid": 16308000,
     "password": "16308000",
     "kid": 9358,
     "name": "Solemn Authority",
     "name_jp": "<ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>かみ</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>こう</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kami no Ikō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "God's Authority",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -55,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "STOR-JP067",
+            "set": "Storm of Ragnarok",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +99,6 @@
         "misc": [
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

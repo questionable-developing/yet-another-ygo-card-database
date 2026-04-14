@@ -1,11 +1,14 @@
 {
     "cid": "ee5b8304-8f0f-4c6c-86e9-7fc61cc7a8e4",
+    "yid": 69838592,
     "password": "69838592",
     "kid": 11694,
     "name": "Yosenju Oyam",
     "name_jp": "<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>仙</rb><rp> (</rp><rt>せん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby> <ruby lang=\"jp\"><rb>大幽谷響</rb><rp> (</rp><rt>オオヤマビコ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Yōsenjū Ōyamabiko",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Yosenju Great Ravine Echo",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "CROS-EN019",
+            "set": "Crossed Souls",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CROS-JP019",
             "set": "Crossed Souls",
             "rarities": {
                 "Rare": []
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

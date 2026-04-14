@@ -1,11 +1,14 @@
 {
     "cid": "975728e8-94d1-4828-8a04-ecce1928dec6",
+    "yid": 52035300,
     "password": "52035300",
     "kid": 7430,
     "name": "The Immortal Bushi",
     "name_jp": "<ruby lang=\"jp\"><rb>不</rb><rp> (</rp><rt>ふ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>死</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>士</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Fushibushi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "The Immortal Samurai",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +61,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PTDN-JP029",
+            "set": "Phantom Darkness",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE02-JP082",
+            "set": "Duelist Edition Volume 2",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "23TP-JP305",
+            "set": "Tournament Pack 2023 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -92,5 +118,6 @@
             "Requires having only specific Type in Graveyard",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

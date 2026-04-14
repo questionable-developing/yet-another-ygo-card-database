@@ -1,12 +1,14 @@
 {
     "cid": "c47715f9-b29e-4ff9-b002-80aeb5f8565f",
-    "yid": null,
+    "yid": 17228908,
     "password": "17228908",
     "kid": 13013,
     "name": "Lost World",
     "name_jp": "ロストワールド",
     "name_jp_rom": "Rosuto Wārudo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SR04-JP021",
+            "set": "Structure Deck R: Tyranno's Rage",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -108,5 +119,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

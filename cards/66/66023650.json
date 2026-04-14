@@ -1,11 +1,14 @@
 {
     "cid": "abcb496a-56a5-4ccd-bbc7-322806a0c3ce",
+    "yid": 66023650,
     "password": "66023650",
     "kid": 13934,
     "name": "Folgo, Justice Fur Hire",
     "name_jp": "<ruby lang=\"jp\"><rb>空</rb><rp> (</rp><rt>くう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>牙</rb><rp> (</rp><rt>が</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>団</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>大</rb><rp> (</rp><rt>たい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>義</rb><rp> (</rp><rt>ぎ</rt><rp>)</rp></ruby> フォルゴ",
     "name_jp_rom": "Kūgadan no Taigi Forugo",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Folgo, Justice of the Skyfang Brigade",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -55,6 +58,25 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP047",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "20th Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "SUB1-JP064",
+            "set": "Secret Utility Box",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +116,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

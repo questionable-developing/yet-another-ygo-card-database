@@ -1,11 +1,14 @@
 {
     "cid": "f131558e-0271-496d-80c1-4a66675c585c",
+    "yid": 99890852,
     "password": "99890852",
     "kid": 13609,
     "name": "Trickstar Bouquet",
     "name_jp": "トリックスター・ブーケ",
     "name_jp_rom": "Torikkusutā Būke",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -47,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP055",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +93,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "9588741f-15a0-4eb0-bf47-4044ef914191",
-    "yid": null,
+    "yid": 5288597,
     "password": "05288597",
     "kid": 10670,
     "name": "Transmodify",
     "name_jp": "トランスターン",
     "name_jp_rom": "Toransutān",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Transturn",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -62,6 +64,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "JOTL-JP067",
+            "set": "Judgment of the Light",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "SD26-JP026",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD35-JP029",
+            "set": "Structure Deck: Soulburner",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "21TP-JP312",
+            "set": "Tournament Pack 2021 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +123,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

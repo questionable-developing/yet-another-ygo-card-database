@@ -1,12 +1,14 @@
 {
     "cid": "3a4ad9d3-cdf9-46ee-8f9c-e507e7b8787b",
-    "yid": null,
+    "yid": 35950025,
     "password": "35950025",
     "kid": 10339,
     "name": "Galaxy Knight",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河騎士</rb><rp> (</rp><rt>ギャラクシー・ナイト</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Naito",
+    "name_jp_rom_base": "Ginga Kishi",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -58,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DP13-JP017",
+            "set": "Duelist Pack: Kite",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "CPF1-JP042",
+            "set": "Collectors Pack: Duelist of Flash Version",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP20-JP040",
+            "set": "Duelist Pack: Legend Duelist 3",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -95,5 +120,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

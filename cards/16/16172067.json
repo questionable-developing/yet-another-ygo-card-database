@@ -1,12 +1,14 @@
 {
     "cid": "e0ba856c-d447-4308-adaa-15f8b0b155f9",
-    "yid": null,
+    "yid": 16172067,
     "password": "16172067",
     "kid": 12449,
     "name": "Tyrant Red Dragon Archfiend",
     "name_jp": "レッド・デーモンズ・ドラゴン・タイラント",
     "name_jp_rom": "Reddo Dēmonzu Doragon Tairanto",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Red Daemon's Dragon Tyrant",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -59,6 +61,17 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "TDIL-JP050",
+            "set": "The Dark Illusion",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +117,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

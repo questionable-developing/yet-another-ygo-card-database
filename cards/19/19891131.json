@@ -1,12 +1,14 @@
 {
     "cid": "48c0c552-53f6-4ae2-9a30-52168182666d",
-    "yid": null,
+    "yid": 19891131,
     "password": "19891131",
     "kid": 14355,
     "name": "Time Thief Regulator",
     "name_jp": "クロノダイバー・レギュレーター",
     "name_jp_rom": "Kuronodaibā Regyurētā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Chronodiver Regulator",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "EP19-JP040",
+            "set": "Extra Pack 2019",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +112,6 @@
             "Requires control of no other monsters",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

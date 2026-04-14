@@ -1,11 +1,14 @@
 {
     "cid": "043a0222-ca36-4553-ab96-10c9bec84237",
+    "yid": 63851864,
     "password": "63851864",
     "kid": 8663,
     "name": "Break! Draw!",
     "name_jp": "ブレイク・ドロー",
     "name_jp_rom": "Bureiku Dorō",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Break Draw",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ABPF-JP052",
+            "set": "Absolute Powerforce",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Equips only to a specific target"
         ]
-    }
+    },
+    "links": {}
 }

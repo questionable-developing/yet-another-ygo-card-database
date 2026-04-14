@@ -1,11 +1,14 @@
 {
     "cid": "ed1bfb80-e0ca-487b-ac8c-73f05ca92f61",
+    "yid": 58811192,
     "password": "58811192",
     "kid": 13503,
     "name": "Ritual Beast Ulti-Kimunfalcos",
     "name_jp": "<ruby lang=\"jp\"><rb>聖</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>獣</rb><rp> (</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>騎</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby> キムンファルコス",
     "name_jp_rom": "Seireijūki Kimunfarukosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Sacred Spirit Beast Steed Kimunfalcos",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -54,6 +57,27 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVP1-JP066",
+            "set": "LINK VRAINS Pack",
+            "rarities": {
+                "Super Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP140",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": [],
+                "Super Rare": [],
+                "Super Parallel Rare": [],
+                "Secret Rare": [],
+                "Secret Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,7 +112,7 @@
             "2 Link Materials",
             "Requires archetype specific Link Materials",
             "Normal Summon with card effect",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -100,5 +124,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

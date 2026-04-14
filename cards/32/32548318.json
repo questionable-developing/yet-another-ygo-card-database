@@ -1,12 +1,14 @@
 {
     "cid": "c1bcc8fc-eaa3-4ed0-b990-0b1ea70a4681",
-    "yid": null,
+    "yid": 32548318,
     "password": "32548318",
     "kid": 21362,
     "name": "Rahu Dracotail",
     "name_jp": "<ruby lang=\"jp\"><rb>羅睺星辰</rb><rp> (</rp><rt>ラーフ・ドラゴンテイル</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Rāfu Doragonteiru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Rahu Dragontail",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,11 +29,16 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "RahuDracotail-DBJH-JP-SR.png",
+            "art": "RahuDracotail-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "RahuDracotail-JUSH-EN-SR-1E.png",
-            "art": null
+            "art": "RahuDracotail-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "JUSH-EN009",
@@ -39,6 +46,16 @@
             "rarities": {
                 "Super Rare": [],
                 "Collector's Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP009",
+            "set": "Deck-Build Pack: Justice Hunters",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -84,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

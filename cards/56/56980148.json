@@ -1,11 +1,14 @@
 {
     "cid": "db676644-f2b5-4eeb-8cbb-e2a9a272450a",
+    "yid": 56980148,
     "password": "56980148",
     "kid": 13895,
     "name": "Dinowrestler Systegosaur",
     "name_jp": "ダイナレスラー・システゴ",
     "name_jp_rom": "Dainaresurā Shisutego",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Dinowrestler Systego",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SOFU-JP008",
+            "set": "Soul Fusion",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "LVDS-JPB08",
+            "set": "LINK VRAINS Duelist Set",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -89,5 +108,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

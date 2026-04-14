@@ -1,12 +1,14 @@
 {
     "cid": "b7a96f15-6ae5-40ab-a6f2-f5ba4bf8b286",
-    "yid": null,
+    "yid": 15216188,
     "password": "15216188",
     "kid": 20548,
     "name": "Time Engine",
     "name_jp": "<ruby lang=\"jp\"><rb>時</rb><rp> (</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>機</rb><rp> (</rp><rt>き</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>械</rb><rp> (</rp><rt>かい</rt><rp>)</rp></ruby>－タイム・エンジン",
     "name_jp_rom": "Toki no Kikai - Taimu Enjin",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Time Machine - Time Engine",
+    "name_jp_tl_base": null,
     "type": "Trap",
     "attribute": "Trap",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ROTA-JP072",
+            "set": "Rage of the Abyss",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,7 +86,7 @@
         ],
         "summoning": [
             "Special Summons from your Graveyard",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [],
@@ -90,5 +101,6 @@
             "Requires control of specific Type",
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

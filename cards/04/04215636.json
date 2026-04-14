@@ -1,12 +1,14 @@
 {
     "cid": "957bd8c3-5ad6-4d07-b0ef-c6cbc6c53e58",
-    "yid": null,
+    "yid": 4215636,
     "password": "04215636",
     "kid": 9934,
     "name": "Shrine of Mist Valley",
     "name_jp": "<ruby lang=\"jp\"><rb>霞の谷</rb><rp> (</rp><rt>ミスト・バレー</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祭</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>壇</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Misuto Barē no Saidan",
+    "name_jp_rom_base": "Kasumi no Tani no Saidan",
     "name_jp_tl": "Altar of Mist Valley",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP060",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +95,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

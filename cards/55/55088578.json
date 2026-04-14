@@ -1,11 +1,14 @@
 {
     "cid": "e5061e44-d730-4cfc-b992-97f1b39f3c97",
+    "yid": 55088578,
     "password": "55088578",
     "kid": 21773,
     "name": "Onomatokage",
     "name_jp": "オノマトカゲ",
     "name_jp_rom": "Onomatokage",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Onomatolizard",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "DOOD-EN007",
+            "set": "Doom of Dimensions",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOOD-JP007",
             "set": "Doom of Dimensions",
             "rarities": {
                 "Common": []
@@ -93,5 +105,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

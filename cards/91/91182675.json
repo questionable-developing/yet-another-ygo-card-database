@@ -1,11 +1,14 @@
 {
     "cid": "a2aeb8c2-ab67-4f41-baa3-ece7200d64a1",
+    "yid": 91182675,
     "password": "91182675",
     "kid": 13392,
     "name": "Mythical Beast Jackal",
     "name_jp": "<ruby lang=\"jp\"><rb>魔導獣</rb><rp> (</rp><rt>マジックビースト</rt><rp>)</rp></ruby> ジャッカル",
     "name_jp_rom": "Majikku Bīsuto Jakkaru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Magic Beast Jackal",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": true,
@@ -38,6 +41,15 @@
     "sets": [
         {
             "sid": "EXFO-EN022",
+            "set": "Extreme Force",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "EXFO-JP022",
             "set": "Extreme Force",
             "rarities": {
                 "Rare": []
@@ -89,5 +101,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "698419cb-96fa-465b-9a00-826948e835c3",
+    "yid": 60577362,
     "password": "60577362",
     "kid": 6291,
     "name": "Overpowering Eye",
     "name_jp": "<ruby lang=\"jp\"><rb>威</rb><rp> (</rp><rt>い</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>圧</rb><rp> (</rp><rt>あつ</rt><rp>)</rp></ruby>する<ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Iatsusuru Magan",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Overpowering Demon Eye",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -54,6 +57,36 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP8-JP005",
+            "set": "Premium Pack 8",
+            "rarities": {
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD15-JP020",
+            "set": "Structure Deck: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "AT03-JP008",
+            "set": "Advanced Tournament Pack 2013 Vol.3",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SR07-JP026",
+            "set": "Structure Deck R: Undead World",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +119,6 @@
             "Requires control of specific Type",
             "Requires control of specific ATK"
         ]
-    }
+    },
+    "links": {}
 }

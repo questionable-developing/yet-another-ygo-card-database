@@ -1,11 +1,14 @@
 {
     "cid": "d0258eb0-b646-41ce-b54e-7d128a928cb4",
+    "yid": 49702428,
     "password": "49702428",
     "kid": 11669,
     "name": "Dark Burning Attack",
     "name_jp": "<ruby lang=\"jp\"><rb>黒・魔・導・爆・裂・破</rb><rp> (</rp><rt>ブラック・バーニング</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burakku Bāningu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Black Burning",
+    "name_jp_tl_base": "Black Magical Burst Break",
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -53,6 +56,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "15AX-JPM02",
+            "set": "Duelist Road -Piece of Memory- Side: Yugi Muto",
+            "rarities": {
+                "Secret Rare": [],
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "MB01-JP032",
+            "set": "Millennium Box Gold Edition",
+            "rarities": {
+                "Millennium Rare": []
+            }
+        },
+        {
+            "sid": "DP17-JP025",
+            "set": "Duelist Pack: Pharaoh's Memories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +111,6 @@
         "misc": [
             "Requires control of specific archetype"
         ]
-    }
+    },
+    "links": {}
 }

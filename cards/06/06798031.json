@@ -1,12 +1,14 @@
 {
     "cid": "7f90170e-a9c9-4541-9c22-0bfde3ce8994",
-    "yid": null,
+    "yid": 6798031,
     "password": "06798031",
     "kid": 20580,
     "name": "Ryzeal Cross",
     "name_jp": "ライゼオル・クロス",
     "name_jp_rom": "Raizeoru Kurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Raizeol Cross",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -57,6 +59,24 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DBCB-JP009",
+            "set": "Deck-Build Pack: Crossover Breakers",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "25LP-JP015",
+            "set": "Limited Pack World Championship 2025",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -100,5 +120,6 @@
             "Requires control of specific archetype",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

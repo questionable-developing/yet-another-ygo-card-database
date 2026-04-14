@@ -6,7 +6,9 @@
     "name": "Prima Light",
     "name_jp": "プリマの<ruby lang=\"jp\"><rb>光</rb><rp> (</rp><rt>ひかり</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Purima no Hikari",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -27,17 +29,33 @@
     "images": {
         "1": {
             "idx": "1",
+            "full": "PrimaLight-LPG1-JP-UR.png",
+            "art": "PrimaLight-MADU-JP-VG-artwork.png"
+        },
+        "1.1": {
+            "idx": "1.1",
             "full": "PrimaLight-MZMU-EN-R-1E.png",
-            "art": null
+            "art": "PrimaLight-MADU-EN-VG-artwork.png"
         }
     },
-    "image": null,
+    "image": "1.1",
     "sets": [
         {
             "sid": "MZMU-EN025",
             "set": "Maze of Muertos",
             "rarities": {
                 "Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "LPG1-JP007",
+            "set": "Limited Pack GX: Slifer Red",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
             }
         }
     ],

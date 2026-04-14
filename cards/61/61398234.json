@@ -1,11 +1,14 @@
 {
     "cid": "88b846e5-ccbf-44bf-a664-eeab0a171bb5",
+    "yid": 61398234,
     "password": "61398234",
     "kid": 18327,
     "name": "Gate Guardian of Wind and Water",
     "name_jp": "<ruby lang=\"jp\"><rb>風</rb><rp> (</rp><rt>ふう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>水</rb><rp> (</rp><rt>すい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>しん</rt><rp>)</rp></ruby>－ゲート・ガーディアン",
     "name_jp_rom": "Fūsuimashin - Gēto Gādian",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Devil of Wind and Water - Gate Guardian",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +47,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "WPP4-JP005",
+            "set": "World Premiere Pack 2023",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -78,7 +90,7 @@
             "Contact Fusion",
             "Special Summons itself from your Extra Deck",
             "Cannot be Fusion Summoned",
-            "Special Summons the player's banished monsters"
+            "Special Summons from your banishment"
         ],
         "attack": [],
         "banished": [
@@ -92,5 +104,6 @@
             "Once per Chain",
             "Only twice per turn"
         ]
-    }
+    },
+    "links": {}
 }

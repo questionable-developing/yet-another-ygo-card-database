@@ -1,12 +1,14 @@
 {
     "cid": "ae33accb-79ca-4f27-98c1-16c8feb8917e",
-    "yid": null,
+    "yid": 23234094,
     "password": "23234094",
     "kid": 9901,
     "name": "Evolsaur Elias",
     "name_jp": "エヴォルダー・エリアス",
     "name_jp_rom": "Evorudā Eriasu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Evolder Elias",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "ORCS-EN027",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP027",
             "set": "Order of Chaos",
             "rarities": {
                 "Common": []
@@ -79,5 +90,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

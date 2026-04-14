@@ -1,11 +1,14 @@
 {
     "cid": "2b19512b-ef38-4ba1-abec-04c495eacc0f",
+    "yid": 74439492,
     "password": "74439492",
     "kid": 8980,
     "name": "Scrap Sheen",
     "name_jp": "スクラップ・ポリッシュ",
     "name_jp_rom": "Sukurappu Porisshu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scrap Polish",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -34,6 +37,15 @@
     "sets": [
         {
             "sid": "DREV-EN049",
+            "set": "Duelist Revolution",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DREV-JP049",
             "set": "Duelist Revolution",
             "rarities": {
                 "Common": []
@@ -71,5 +83,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

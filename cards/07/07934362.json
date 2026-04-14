@@ -1,12 +1,14 @@
 {
     "cid": "533a106a-745c-4440-81e6-f314a95bece8",
-    "yid": null,
+    "yid": 7934362,
     "password": "07934362",
     "kid": 20405,
     "name": "Performage Fire Dancer",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｅｍ</rb><rp> (</rp><rt>エンタメイジ</rt><rp>)</rp></ruby>ファイヤー・ダンサー",
     "name_jp_rom": "Entameiji Faiyā Dansā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Entermage Fire Dancer",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "FIRE",
     "pend": true,
@@ -42,6 +44,16 @@
             "set": "Maze of the Master",
             "rarities": {
                 "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP018",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": []
             }
         }
     ],
@@ -88,7 +100,9 @@
         "misc": [
             "Limited activations",
             "Requires control of specific archetype",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "26c565b6-ad60-4155-88b7-19f9c3f0188b",
+    "yid": 77428945,
     "password": "77428945",
     "kid": 10774,
     "name": "Terrene Toothed Tsuchinoko",
     "name_jp": "<ruby lang=\"jp\"><rb>土地鋸</rb><rp> (</rp><rt>つちのこ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Tsuchinoko",
+    "name_jp_rom_base": "Dochikyo",
     "name_jp_tl": "Tsuchinoko",
+    "name_jp_tl_base": "Land Saw",
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHSP-JP043",
+            "set": "Shadow Specters",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -73,5 +85,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,12 +1,14 @@
 {
     "cid": "3c74ab39-4189-4784-a5b8-47fa3703c176",
-    "yid": null,
+    "yid": 20802187,
     "password": "20802187",
     "kid": 10308,
     "name": "Spirit Converter",
     "name_jp": "スピリット<ruby lang=\"jp\"><rb>変</rb><rp> (</rp><rt>へん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>換</rb><rp> (</rp><rt>かん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>装</rb><rp> (</rp><rt>そう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>置</rb><rp> (</rp><rt>ち</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Supiritto Henkan Sōchi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -48,6 +50,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "VE07-JP005",
+            "set": "V Jump Edition 7",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "24TP-JP115",
+            "set": "Tournament Pack 2024 Vol.1",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +102,6 @@
             "Limited activations",
             "Requires control of specific Monster card type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "b1f67e35-8941-4159-b760-d3005cd4b487",
+    "yid": 68316358,
     "password": "68316358",
     "kid": 20416,
     "name": "Allure Dance",
     "name_jp": "<ruby lang=\"jp\"><rb>魅惑の舞</rb><rp> (</rp><rt>アリュール・ダンス</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Aryūru Dansu",
+    "name_jp_rom_base": "Miwaku no Mai",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -45,6 +48,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "AC04-JP029",
+            "set": "Animation Chronicle 2024",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -81,5 +94,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

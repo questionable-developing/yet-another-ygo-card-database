@@ -1,11 +1,14 @@
 {
     "cid": "0e11efdb-56d4-44d5-816d-0c9aed821ea6",
+    "yid": 52430902,
     "password": "52430902",
     "kid": 7891,
     "name": "Psychic Jumper",
     "name_jp": "サイコジャンパー",
     "name_jp_rom": "Saiko Janpā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Psycho Jumper",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -52,6 +55,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP023",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -88,5 +100,6 @@
             "Limited activations",
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

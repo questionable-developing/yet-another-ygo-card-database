@@ -1,11 +1,14 @@
 {
     "cid": "92cc5654-0dc8-4280-95b9-8a1627e79027",
+    "yid": 59822133,
     "password": "59822133",
     "kid": 12324,
     "name": "Blue-Eyes Spirit Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>青眼の精霊龍</rb><rp> (</rp><rt>ブルーアイズ・スピリット・ドラゴン</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Burūaizu Supiritto Doragon",
+    "name_jp_rom_base": "Seigan no Seireiryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -78,6 +81,34 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP052",
+            "set": "Shining Victories",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": []
+            }
+        },
+        {
+            "sid": "QCCP-JP010",
+            "set": "Quarter Century Chronicle side:Pride",
+            "rarities": {
+                "Ultra Rare": [],
+                "Secret Rare": [],
+                "Ultimate Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "SD47-JP039",
+            "set": "Structure Deck: Advent of the Eyes of Blue",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -128,5 +159,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

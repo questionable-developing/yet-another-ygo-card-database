@@ -1,11 +1,14 @@
 {
     "cid": "0aa3a011-3442-4e4c-a790-e2b0ff92e3e0",
+    "yid": 74976215,
     "password": "74976215",
     "kid": 8030,
     "name": "Cross-Sword Beetle",
     "name_jp": "クロスソード・ハンター",
     "name_jp_rom": "Kurosu Sōdo Hantā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Cross-Sword Hunter",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -58,6 +61,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CRMS-JP035",
+            "set": "Crimson Crisis",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -87,5 +99,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

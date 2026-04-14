@@ -1,12 +1,14 @@
 {
     "cid": "db8be168-6895-4d33-9afe-b69d7c8e1d29",
-    "yid": null,
+    "yid": 25862681,
     "password": "25862681",
     "kid": 8090,
     "name": "Ancient Fairy Dragon",
     "name_jp": "エンシェント・フェアリー・ドラゴン",
     "name_jp_rom": "Enshento Fearī Doragon",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -89,6 +91,43 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP040",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Holographic Rare": []
+            }
+        },
+        {
+            "sid": "MFC1-JP005",
+            "set": "Monster Figure Collection promotional cards",
+            "rarities": {
+                "Duel Terminal Normal Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP020",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        },
+        {
+            "sid": "RC04-JP031",
+            "set": "Rarity Collection Quarter Century Edition",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Collector's Rare": [],
+                "Secret Rare": [],
+                "Extra Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -135,5 +174,6 @@
             "Cover card",
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

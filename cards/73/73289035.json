@@ -1,11 +1,14 @@
 {
     "cid": "84325844-d4a8-4e62-b785-63ded364cfe4",
+    "yid": 73289035,
     "password": "73289035",
     "kid": 10940,
     "name": "Bujintei Tsukuyomi",
     "name_jp": "<ruby lang=\"jp\"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>神</rb><rp> (</rp><rt>じん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>帝</rb><rp> (</rp><rt>てい</rt><rp>)</rp></ruby>－ツクヨミ",
     "name_jp_rom": "Bujintei - Tsukuyomi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -59,6 +62,16 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LVAL-JP054",
+            "set": "Legacy of the Valiant",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -101,5 +114,6 @@
             "Limited activations",
             "Control only one"
         ]
-    }
+    },
+    "links": {}
 }

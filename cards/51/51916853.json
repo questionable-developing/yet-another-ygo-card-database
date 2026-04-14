@@ -1,11 +1,14 @@
 {
     "cid": "7757dd1b-179d-4f2c-8a67-3e0f0574136d",
+    "yid": 51916853,
     "password": "51916853",
     "kid": 15025,
     "name": "Magical Hound",
     "name_jp": "マジカル・ハウンド",
     "name_jp_rom": "Majikaru Haundo",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -51,6 +54,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP039",
+            "set": "Eternity Code",
+            "rarities": {
+                "Normal Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -84,5 +96,6 @@
         "misc": [
             "Only once per Duel"
         ]
-    }
+    },
+    "links": {}
 }

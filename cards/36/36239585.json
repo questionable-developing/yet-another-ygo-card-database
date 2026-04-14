@@ -1,12 +1,14 @@
 {
     "cid": "b3f832fb-0bf2-4e38-91eb-e976ba4b7f08",
-    "yid": null,
+    "yid": 36239585,
     "password": "36239585",
     "kid": 14832,
     "name": "Ghostrick Fairy",
     "name_jp": "ゴーストリックの<ruby lang=\"jp\"><rb>妖</rb><rp> (</rp><rt>よう</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>精</rb><rp> (</rp><rt>せい</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gōsutorikku no Yōsei",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -38,6 +40,15 @@
     "sets": [
         {
             "sid": "IGAS-EN023",
+            "set": "Ignition Assault",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "IGAS-JP023",
             "set": "Ignition Assault",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
         "misc": [
             "Limited activations"
         ]
-    }
+    },
+    "links": {}
 }

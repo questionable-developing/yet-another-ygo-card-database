@@ -1,12 +1,14 @@
 {
     "cid": "2fe13bc8-bf0b-4667-b28b-efc0b1ab6c31",
-    "yid": null,
+    "yid": 24658418,
     "password": "24658418",
     "kid": 11032,
     "name": "Galaxy Tyranno",
     "name_jp": "<ruby lang=\"jp\"><rb>銀河暴竜</rb><rp> (</rp><rt>ギャラクシー・ティラノ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Gyarakushī Tirano",
+    "name_jp_rom_base": "Ginga Bōryū",
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -51,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PRIO-JP003",
+            "set": "Primal Origin",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -69,7 +80,10 @@
         "rel": [],
         "counter": [],
         "action": [
-            "Activates upon Special Summon"
+            "Activates if targeted for an attack",
+            "Activates from your hand",
+            "Activates upon Special Summon",
+            "Can only use certain Xyz Materials"
         ],
         "stat_change": [],
         "mst": [],
@@ -83,6 +97,9 @@
         "life_points": [],
         "fmat": [],
         "smat": [],
-        "misc": []
-    }
+        "misc": [
+            "Requires control of specific archetype"
+        ]
+    },
+    "links": {}
 }

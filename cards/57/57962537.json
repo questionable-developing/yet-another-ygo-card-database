@@ -1,11 +1,14 @@
 {
     "cid": "f1236d6b-1fa4-44dd-a3c2-cf39e9c2570f",
+    "yid": 57962537,
     "password": "57962537",
     "kid": 9897,
     "name": "Wind-Up Rat",
     "name_jp": "ゼンマイネズミ",
     "name_jp_rom": "Zenmai Nezumi",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -43,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ORCS-JP023",
+            "set": "Order of Chaos",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -76,5 +88,6 @@
         "misc": [
             "Once while face-up on the field"
         ]
-    }
+    },
+    "links": {}
 }

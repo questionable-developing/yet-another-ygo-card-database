@@ -1,11 +1,14 @@
 {
     "cid": "5f17b178-8de5-4b38-86d4-1e8decd1cc1e",
+    "yid": 43708640,
     "password": "43708640",
     "kid": 8180,
     "name": "Minoan Centaur",
     "name_jp": "ミノケンサテュロス",
     "name_jp_rom": "Minokensatyurosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Minocensatyrus",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -37,6 +40,15 @@
     "sets": [
         {
             "sid": "RGBT-EN028",
+            "set": "Raging Battle",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "RGBT-JP028",
             "set": "Raging Battle",
             "rarities": {
                 "Common": []
@@ -75,5 +87,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

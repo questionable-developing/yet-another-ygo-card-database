@@ -1,12 +1,14 @@
 {
     "cid": "df7af0d7-7d81-41af-a5cc-e1c3fa677e03",
-    "yid": null,
+    "yid": 2759860,
     "password": "02759860",
     "kid": 12006,
     "name": "Graydle Impact",
     "name_jp": "グレイドル・インパクト",
     "name_jp_rom": "Gureidoru Inpakuto",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +37,15 @@
     "sets": [
         {
             "sid": "DOCS-EN062",
+            "set": "Dimension of Chaos",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DOCS-JP062",
             "set": "Dimension of Chaos",
             "rarities": {
                 "Common": []
@@ -81,5 +92,6 @@
         "misc": [
             "Only 1 effect once per turn"
         ]
-    }
+    },
+    "links": {}
 }

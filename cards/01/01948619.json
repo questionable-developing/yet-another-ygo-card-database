@@ -1,12 +1,14 @@
 {
     "cid": "e3094265-7490-429b-b759-e67b186fbb6d",
-    "yid": null,
+    "yid": 1948619,
     "password": "01948619",
     "kid": 13543,
     "name": "Xtra HERO Wonder Driver",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｘ・ＨＥＲＯ</rb><rp> (</rp><rt>エクストラヒーロー</rt><rp>)</rp></ruby> ワンダー・ドライバー",
     "name_jp_rom": "Ekusutora Hīrō Wandā Doraibā",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -55,6 +57,33 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PP20-JP002",
+            "set": "Premium Pack 20",
+            "rarities": {
+                "Common": [],
+                "Ultra Rare": [],
+                "Secret Rare": []
+            }
+        },
+        {
+            "sid": "QCCU-JP184",
+            "set": "Quarter Century Chronicle side:Unity",
+            "rarities": {
+                "Super Rare": [],
+                "Secret Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "TTP1-JP048",
+            "set": "Tactical-Try Pack: Dark Magic / HERO / Mikanko",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -99,5 +128,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

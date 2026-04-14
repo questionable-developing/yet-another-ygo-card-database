@@ -1,11 +1,14 @@
 {
     "cid": "1e4b0b9f-d362-4fc6-bd5b-38b3bdaa9b1b",
+    "yid": 49936169,
     "password": "49936169",
     "kid": 15541,
     "name": "U.A. Locker Room",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｕ．Ａ．</rb><rp> (</rp><rt>ウルトラアスリート</rt><rp>)</rp></ruby>ロッカールーム",
     "name_jp_rom": "Urutora Asurīto Rokkā Rūmu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ultra Athlete Locker Room",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -40,6 +43,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHRA-JP062",
+            "set": "Phantom Rage",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -62,7 +74,7 @@
         "action": [
             "Returns from your field to your hand",
             "Adds from Graveyard to hand",
-            "Reveals your hand for effect",
+            "Reveals cards from your hand",
             "Returns from your hand to your Deck",
             "You draw cards"
         ],
@@ -81,5 +93,6 @@
             "Requires control of specific archetype",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

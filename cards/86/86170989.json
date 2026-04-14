@@ -1,11 +1,14 @@
 {
     "cid": "52cf80ec-8c12-41b4-a3cf-b2780a82c7aa",
+    "yid": 86170989,
     "password": "86170989",
     "kid": 8330,
     "name": "Falchionβ",
     "name_jp": "ファルシオン<ruby lang=\"jp\"><rb>β</rb><rp> (</rp><rt>ベータ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Farushion Bēta",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -57,6 +60,29 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ANPR-JP039",
+            "set": "Ancient Prophecy",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "DE04-JP019",
+            "set": "Duelist Edition Volume 4",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "SD26-JP015",
+            "set": "Structure Deck: Blitzkrieg of the Mechlight Dragons",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -94,5 +120,6 @@
         "misc": [
             "Variable effects"
         ]
-    }
+    },
+    "links": {}
 }

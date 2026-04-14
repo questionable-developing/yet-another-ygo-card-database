@@ -1,12 +1,14 @@
 {
     "cid": "b27be1a3-7c51-4d8d-a805-0f3cef6031dd",
-    "yid": null,
+    "yid": 8372133,
     "password": "08372133",
     "kid": 15002,
     "name": "Red Familiar",
     "name_jp": "スカーレッド・ファミリア",
     "name_jp_rom": "Sukāreddo Famiria",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Scar-Red Familiar",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -58,6 +60,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "ETCO-JP016",
+            "set": "Eternity Code",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -103,7 +114,9 @@
             "Requires control of specific Type",
             "Requires control of specific Attribute",
             "Requires control of specific Monster card type",
-            "Only once per turn"
+            "Only once per turn",
+            "Cover card"
         ]
-    }
+    },
+    "links": {}
 }

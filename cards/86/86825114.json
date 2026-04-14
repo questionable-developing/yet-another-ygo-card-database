@@ -1,11 +1,14 @@
 {
     "cid": "ce2ea7c3-d620-4019-8677-be4596ff174a",
+    "yid": 86825114,
     "password": "86825114",
     "kid": 13561,
     "name": "Trickstar Nightshade",
     "name_jp": "トリックスター・ヒヨス",
     "name_jp_rom": "Torikkusutā Hiyosu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "FLOD-JP006",
+            "set": "Flames of Destruction",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

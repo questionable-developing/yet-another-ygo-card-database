@@ -1,12 +1,14 @@
 {
     "cid": "4cb683ec-d123-460a-a045-68a96c87e600",
-    "yid": null,
+    "yid": 24915933,
     "password": "24915933",
     "kid": 18178,
     "name": "Granguignol the Dusk Dragon",
     "name_jp": "<ruby lang=\"jp\"><rb>赫</rb><rp> (</rp><rt>かく</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>焉</rb><rp> (</rp><rt>えん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>竜</rb><rp> (</rp><rt>りゅう</rt><rp>)</rp></ruby>グランギニョル",
     "name_jp_rom": "Kakuenryū Guranginyoru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Granguignol the Sparkling End Dragon",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -67,6 +69,41 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "PHHY-JP033",
+            "set": "Photon Hypernova",
+            "rarities": {
+                "Ultra Rare": [],
+                "Ultimate Rare": [],
+                "Secret Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "PHHY-JP033",
+            "set": "Photon Hypernova +1 Bonus Pack",
+            "rarities": {
+                "Ultra Rare": [],
+                "Prismatic Secret Rare": []
+            }
+        },
+        {
+            "sid": "CF01-JP136",
+            "set": "Complete File: Story of White",
+            "rarities": {
+                "Ultra Rare": [],
+                "Quarter Century Secret Rare": []
+            }
+        },
+        {
+            "sid": "CH01-JP050",
+            "set": "THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)",
+            "rarities": {
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -118,5 +155,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

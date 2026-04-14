@@ -1,11 +1,14 @@
 {
     "cid": "b65e5bf3-b569-4ae6-80e9-1af4949acd38",
+    "yid": 57232301,
     "password": "57232301",
     "kid": 21049,
     "name": "Shadow Severing Strike",
     "name_jp": "<ruby lang=\"jp\"><rb>断</rb><rp> (</rp><rt>だん</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>影</rb><rp> (</rp><rt>えい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>烈</rb><rp> (</rp><rt>れっ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>破</rb><rp> (</rp><rt>ぱ</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Dan'ei Reppa",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "SUDA-EN085",
             "set": "Supreme Darkness",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "WPP6-JP073",
+            "set": "World Premiere Pack 2025",
             "rarities": {
                 "Common": []
             }
@@ -76,5 +88,6 @@
             "Variable effects",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

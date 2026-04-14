@@ -1,11 +1,14 @@
 {
     "cid": "1ee6eb2b-1914-4413-abf0-5566c3ff497a",
+    "yid": 70089580,
     "password": "70089580",
     "kid": 10494,
     "name": "Aurora Wing",
     "name_jp": "オーロラ・ウィング",
     "name_jp_rom": "Ōrora Wingu",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -43,6 +46,23 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "LTGY-JP013",
+            "set": "Lord of the Tachyon Galaxy",
+            "rarities": {
+                "Common": []
+            }
+        },
+        {
+            "sid": "DP15-JP015",
+            "set": "Duelist Pack: Kastle Siblings",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -75,5 +95,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

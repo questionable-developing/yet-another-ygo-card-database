@@ -1,11 +1,14 @@
 {
     "cid": "81e4f07b-eaf4-4036-b00e-fc9e3e292a7c",
+    "yid": 43318266,
     "password": "43318266",
     "kid": 7279,
     "name": "Cloudian - Cirrostratus",
     "name_jp": "<ruby lang=\"jp\"><rb>雲魔物</rb><rp> (</rp><rt>クラウディアン</rt><rp>)</rp></ruby>－キロスタス",
     "name_jp_rom": "Kuraudian - Kirosutasu",
+    "name_jp_rom_base": "Unmabutsu - Kirosutasu",
     "name_jp_tl": "Cloudian - Kirostas",
+    "name_jp_tl_base": "Demon Cloud - Kirostas",
     "type": "Monster",
     "attribute": "WATER",
     "pend": false,
@@ -50,6 +53,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "GLAS-JP011",
+            "set": "Gladiator's Assault",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -86,5 +98,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

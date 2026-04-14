@@ -1,11 +1,14 @@
 {
     "cid": "95525325-0f30-4a8c-aee9-07f8988ac9fd",
+    "yid": 94622638,
     "password": "94622638",
     "kid": 8550,
     "name": "Genex Ally Powercell",
     "name_jp": "<ruby lang=\"jp\"><rb>Ａ</rb><rp> (</rp><rt>アーリー</rt><rp>)</rp></ruby>・ジェネクス・パワーコール",
     "name_jp_rom": "Ārī Jenekusu Pawākōru",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Ally Genex Powercall",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -43,6 +46,30 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DT07-JP012",
+            "set": "Duel Terminal - Charge of the Genex!!",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "DTC3-JP002",
+            "set": "Duel Terminal Chronicle 3 - Chapter of Destruction",
+            "rarities": {
+                "Duel Terminal Super Parallel Rare": []
+            }
+        },
+        {
+            "sid": "TW01-JP078",
+            "set": "Terminal World (set)",
+            "rarities": {
+                "Common": [],
+                "Normal Parallel Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -70,5 +97,6 @@
         "fmat": [],
         "smat": [],
         "misc": []
-    }
+    },
+    "links": {}
 }

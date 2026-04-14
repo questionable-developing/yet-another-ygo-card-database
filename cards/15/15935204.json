@@ -1,12 +1,14 @@
 {
     "cid": "08b323b0-da31-49c1-a5e1-90bbecbeebc0",
-    "yid": null,
+    "yid": 15935204,
     "password": "15935204",
     "kid": 7890,
     "name": "Storm Caller",
     "name_jp": "ストーム・サモナー",
     "name_jp_rom": "Sutōmu Samonā",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Storm Summoner",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "WIND",
     "pend": false,
@@ -44,6 +46,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CSOC-JP022",
+            "set": "Crossroads of Chaos",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -77,5 +88,6 @@
         "misc": [
             "Requires control of specific Type"
         ]
-    }
+    },
+    "links": {}
 }

@@ -1,11 +1,14 @@
 {
     "cid": "2fe35904-b788-4bcb-8108-4b78b34f559d",
+    "yid": 45644898,
     "password": "45644898",
     "kid": 12293,
     "name": "Master with Eyes of Blue",
     "name_jp": "<ruby lang=\"jp\"><rb>青</rb><rp> (</rp><rt>あお</rt><rp>)</rp></ruby>き<ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>め</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>祭</rb><rp> (</rp><rt>さい</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>司</rb><rp> (</rp><rt>し</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Aoki Me no Saishi",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Priest with Eyes of Blue",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "LIGHT",
     "pend": false,
@@ -79,6 +82,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "SHVI-JP021",
+            "set": "Shining Victories",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -120,5 +132,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

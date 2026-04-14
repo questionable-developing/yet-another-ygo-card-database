@@ -1,12 +1,14 @@
 {
     "cid": "fd2f65ed-d4a7-4e89-acd5-b2da265a96b7",
-    "yid": null,
+    "yid": 29357687,
     "password": "29357687",
     "kid": 14675,
     "name": "Gorgon, Empress of the Evil Eyed",
     "name_jp": "<ruby lang=\"jp\"><rb>呪</rb><rp> (</rp><rt>じゅ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>眼</rb><rp> (</rp><rt>がん</rt><rp>)</rp></ruby>の<ruby lang=\"jp\"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>)</rp></ruby><ruby lang=\"jp\"><rb>王</rb><rp> (</rp><rt>おう</rt><rp>)</rp></ruby> ゴルゴーネ",
     "name_jp_rom": "Jugan no Joō Gorugōne",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Gorgone, Queen of the Cursed Eye",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -61,6 +63,15 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "CHIM-JP048",
+            "set": "Chaos Impact",
+            "rarities": {
+                "Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -104,5 +115,6 @@
             "Limited activations",
             "During the Standby Phase"
         ]
-    }
+    },
+    "links": {}
 }

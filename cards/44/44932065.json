@@ -1,11 +1,14 @@
 {
     "cid": "0d381348-a1c1-46ce-a0e8-b868ae33f404",
+    "yid": 44932065,
     "password": "44932065",
     "kid": 17129,
     "name": "Predaplant Byblisp",
     "name_jp": "<ruby lang=\"jp\"><rb>捕食植物</rb><rp> (</rp><rt>プレデター・プランツ</rt><rp>)</rp></ruby>ビブリスプ",
     "name_jp_rom": "Puredetā Purantsu Biburisupu",
+    "name_jp_rom_base": null,
     "name_jp_tl": "Predator Plants Byblisp",
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "DARK",
     "pend": false,
@@ -50,6 +53,22 @@
             }
         }
     ],
+    "jp_sets": [
+        {
+            "sid": "DIFO-JP017",
+            "set": "Dimension Force",
+            "rarities": {
+                "Rare": []
+            }
+        },
+        {
+            "sid": "BLZD-JPS12",
+            "set": "Blazing Dominion +1 Assist Pack",
+            "rarities": {
+                "Ultra Rare": []
+            }
+        }
+    ],
     "misc": {
         "pend_eff_types": [],
         "eff_types": [
@@ -91,5 +110,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

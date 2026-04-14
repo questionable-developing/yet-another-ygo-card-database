@@ -1,12 +1,14 @@
 {
     "cid": "9e7e8685-c290-45b0-9d2b-81948ca77004",
-    "yid": null,
+    "yid": 15710054,
     "password": "15710054",
     "kid": 13233,
     "name": "Krawler Axon",
     "name_jp": "クローラー・アクソン",
     "name_jp_rom": "Kurōrā Akuson",
+    "name_jp_rom_base": null,
     "name_jp_tl": null,
+    "name_jp_tl_base": null,
     "type": "Monster",
     "attribute": "EARTH",
     "pend": false,
@@ -39,6 +41,15 @@
     "sets": [
         {
             "sid": "CIBR-EN017",
+            "set": "Circuit Break",
+            "rarities": {
+                "Common": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "CIBR-JP017",
             "set": "Circuit Break",
             "rarities": {
                 "Common": []
@@ -85,5 +96,6 @@
         "misc": [
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }

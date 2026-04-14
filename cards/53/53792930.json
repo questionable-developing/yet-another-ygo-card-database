@@ -1,11 +1,14 @@
 {
     "cid": "28635e2d-1155-42ec-b12b-4833dffc9e67",
+    "yid": 53792930,
     "password": "53792930",
     "kid": 21384,
     "name": "K9-X Forced Release",
     "name_jp": "<ruby lang=\"jp\"><rb>Ｋ９</rb><rp> (</rp><rt>ケーナイン</rt><rp>)</rp></ruby>－ＥＸ<ruby lang=\"jp\"><rb>強制解除</rb><rp> (</rp><rt>フォースリベレイション</rt><rp>)</rp></ruby>",
     "name_jp_rom": "Kē Nain - Ī Ekkusu Fōsu Ribereishon",
+    "name_jp_rom_base": null,
     "name_jp_tl": "K9-EX Force Liberation",
+    "name_jp_tl_base": null,
     "type": "Spell",
     "attribute": "Spell",
     "pend": false,
@@ -35,6 +38,15 @@
         {
             "sid": "JUSH-EN039",
             "set": "Justice Hunters",
+            "rarities": {
+                "Super Rare": []
+            }
+        }
+    ],
+    "jp_sets": [
+        {
+            "sid": "DBJH-JP039",
+            "set": "Deck-Build Pack: Justice Hunters",
             "rarities": {
                 "Super Rare": []
             }
@@ -86,5 +98,6 @@
             "At the end of the Battle Phase",
             "Only once per turn"
         ]
-    }
+    },
+    "links": {}
 }
